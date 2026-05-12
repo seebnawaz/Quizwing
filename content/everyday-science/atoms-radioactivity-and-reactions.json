@@ -1,14 +1,14 @@
 {
   "topic_id": "atoms-radioactivity-and-reactions",
-  "topic_name": "Atoms, Radioactivity & Reactions",
+  "topic_name": "Atoms Radioactivity & Reactions",
   "subject": "everyday-science",
-  "version": 1,
+  "version": 2,
   "updated_at": "2026-05-12",
-  "description": "Atoms, Radioactivity & Reactions MCQs for PPSC, FPSC, NTS, CSS & PMS preparation.",
+  "description": "Atoms Radioactivity & Reactions MCQs for PPSC, FPSC, NTS, CSS & PMS.",
   "icon": "⚛️",
   "mcqs": [
     {
-      "id": "atoms--001",
+      "id": "atomsr-001",
       "q": "An atom consists of:",
       "options": [
         "Only protons and electrons",
@@ -21,7 +21,7 @@
       "tags": []
     },
     {
-      "id": "atoms--002",
+      "id": "atomsr-002",
       "q": "The nucleus of an atom contains:",
       "options": [
         "Electrons only",
@@ -34,7 +34,7 @@
       "tags": []
     },
     {
-      "id": "atoms--003",
+      "id": "atomsr-003",
       "q": "Electrons carry which charge?",
       "options": [
         "Positive",
@@ -47,7 +47,7 @@
       "tags": []
     },
     {
-      "id": "atoms--004",
+      "id": "atomsr-004",
       "q": "Neutrons carry which charge?",
       "options": [
         "Positive",
@@ -60,7 +60,7 @@
       "tags": []
     },
     {
-      "id": "atoms--005",
+      "id": "atomsr-005",
       "q": "In a neutral atom, the number of electrons equals the number of:",
       "options": [
         "Neutrons",
@@ -73,7 +73,7 @@
       "tags": []
     },
     {
-      "id": "atoms--006",
+      "id": "atomsr-006",
       "q": "Atoms of the same element with different numbers of neutrons are called:",
       "options": [
         "Isobars",
@@ -86,7 +86,7 @@
       "tags": []
     },
     {
-      "id": "atoms--007",
+      "id": "atomsr-007",
       "q": "Who proposed that atom is the smallest indivisible particle?",
       "options": [
         "Rutherford",
@@ -99,7 +99,7 @@
       "tags": []
     },
     {
-      "id": "atoms--008",
+      "id": "atomsr-008",
       "q": "The nucleus of the atom was discovered by:",
       "options": [
         "Bohr",
@@ -112,7 +112,7 @@
       "tags": []
     },
     {
-      "id": "atoms--009",
+      "id": "atomsr-009",
       "q": "How many elements exist in total?",
       "options": [
         "92",
@@ -125,7 +125,7 @@
       "tags": []
     },
     {
-      "id": "atoms--010",
+      "id": "atomsr-010",
       "q": "How many different kinds of atoms exist in nature?",
       "options": [
         "82",
@@ -138,7 +138,7 @@
       "tags": []
     },
     {
-      "id": "atoms--011",
+      "id": "atomsr-011",
       "q": "Atomic number of an element is equal to the number of:",
       "options": [
         "Neutrons",
@@ -151,7 +151,7 @@
       "tags": []
     },
     {
-      "id": "atoms--012",
+      "id": "atomsr-012",
       "q": "Radioactive elements have a nucleus that is:",
       "options": [
         "Stable",
@@ -164,7 +164,7 @@
       "tags": []
     },
     {
-      "id": "atoms--013",
+      "id": "atomsr-013",
       "q": "Half-life is the time required for ___ of nuclei to decay:",
       "options": [
         "One-quarter",
@@ -177,7 +177,7 @@
       "tags": []
     },
     {
-      "id": "atoms--014",
+      "id": "atomsr-014",
       "q": "Half-life of Carbon-14 is:",
       "options": [
         "1730 years",
@@ -190,7 +190,7 @@
       "tags": []
     },
     {
-      "id": "atoms--015",
+      "id": "atomsr-015",
       "q": "Radioactive decay of uranium ultimately produces:",
       "options": [
         "Iron",
@@ -203,7 +203,7 @@
       "tags": []
     },
     {
-      "id": "atoms--016",
+      "id": "atomsr-016",
       "q": "Which of the following is NOT radioactive?",
       "options": [
         "Uranium",
@@ -216,7 +216,7 @@
       "tags": []
     },
     {
-      "id": "atoms--017",
+      "id": "atomsr-017",
       "q": "Alpha particles carry charge:",
       "options": [
         "−1",
@@ -229,7 +229,7 @@
       "tags": []
     },
     {
-      "id": "atoms--018",
+      "id": "atomsr-018",
       "q": "Beta rays are:",
       "options": [
         "Helium nuclei",
@@ -242,7 +242,7 @@
       "tags": []
     },
     {
-      "id": "atoms--019",
+      "id": "atomsr-019",
       "q": "Gamma rays are:",
       "options": [
         "Particles",
@@ -255,7 +255,7 @@
       "tags": []
     },
     {
-      "id": "atoms--020",
+      "id": "atomsr-020",
       "q": "Which radiation is the most penetrating?",
       "options": [
         "Alpha",
@@ -268,7 +268,7 @@
       "tags": []
     },
     {
-      "id": "atoms--021",
+      "id": "atomsr-021",
       "q": "Which radiation is stopped by a sheet of paper?",
       "options": [
         "Alpha",
@@ -281,7 +281,7 @@
       "tags": []
     },
     {
-      "id": "atoms--022",
+      "id": "atomsr-022",
       "q": "Energy of a gamma photon is approximately:",
       "options": [
         "2 eV",
@@ -294,7 +294,7 @@
       "tags": []
     },
     {
-      "id": "atoms--023",
+      "id": "atomsr-023",
       "q": "Gamma rays travel at:",
       "options": [
         "Speed of sound",
@@ -307,7 +307,7 @@
       "tags": []
     },
     {
-      "id": "atoms--024",
+      "id": "atomsr-024",
       "q": "Nuclear fission is the:",
       "options": [
         "Joining of light nuclei",
@@ -320,7 +320,7 @@
       "tags": []
     },
     {
-      "id": "atoms--025",
+      "id": "atomsr-025",
       "q": "Nuclear fission is triggered by:",
       "options": [
         "Photons",
@@ -333,7 +333,7 @@
       "tags": []
     },
     {
-      "id": "atoms--026",
+      "id": "atomsr-026",
       "q": "The fissile isotope of uranium is:",
       "options": [
         "U-234",
@@ -346,7 +346,7 @@
       "tags": []
     },
     {
-      "id": "atoms--027",
+      "id": "atomsr-027",
       "q": "The most common isotope of uranium in nature is:",
       "options": [
         "U-234",
@@ -359,7 +359,7 @@
       "tags": []
     },
     {
-      "id": "atoms--028",
+      "id": "atomsr-028",
       "q": "In a nuclear reactor, the chain reaction is:",
       "options": [
         "Uncontrolled",
@@ -372,7 +372,7 @@
       "tags": []
     },
     {
-      "id": "atoms--029",
+      "id": "atomsr-029",
       "q": "Atomic bomb is based on the principle of:",
       "options": [
         "Nuclear fusion",
@@ -385,7 +385,7 @@
       "tags": []
     },
     {
-      "id": "atoms--030",
+      "id": "atomsr-030",
       "q": "Coolant used in nuclear reactors is:",
       "options": [
         "Water only",
@@ -398,7 +398,7 @@
       "tags": []
     },
     {
-      "id": "atoms--031",
+      "id": "atomsr-031",
       "q": "Moderator/reflector in many reactors is:",
       "options": [
         "Diamond",
@@ -411,7 +411,7 @@
       "tags": []
     },
     {
-      "id": "atoms--032",
+      "id": "atomsr-032",
       "q": "Highly enriched isotopes are produced by:",
       "options": [
         "Distillation",
@@ -424,7 +424,7 @@
       "tags": []
     },
     {
-      "id": "atoms--033",
+      "id": "atomsr-033",
       "q": "In an atomic explosion, energy comes from:",
       "options": [
         "Burning fuel",
@@ -437,7 +437,7 @@
       "tags": []
     },
     {
-      "id": "atoms--034",
+      "id": "atomsr-034",
       "q": "Wavelength of visible light ranges:",
       "options": [
         "100–300 Å",
@@ -450,7 +450,7 @@
       "tags": []
     },
     {
-      "id": "atoms--035",
+      "id": "atomsr-035",
       "q": "VIBGYOR / ROYGBIV represents:",
       "options": [
         "Sound frequencies",
@@ -463,7 +463,7 @@
       "tags": []
     },
     {
-      "id": "atoms--036",
+      "id": "atomsr-036",
       "q": "In the EM spectrum, which has the shortest wavelength?",
       "options": [
         "Radio",
@@ -476,7 +476,7 @@
       "tags": []
     },
     {
-      "id": "atoms--037",
+      "id": "atomsr-037",
       "q": "Which rays help read faded old writings?",
       "options": [
         "UV",
@@ -489,7 +489,7 @@
       "tags": []
     },
     {
-      "id": "atoms--038",
+      "id": "atomsr-038",
       "q": "The primary rainbow has angular radius about:",
       "options": [
         "10°–20°",
@@ -502,7 +502,7 @@
       "tags": []
     },
     {
-      "id": "atoms--039",
+      "id": "atomsr-039",
       "q": "Polythene is made by polymerization of:",
       "options": [
         "Methane",
@@ -515,7 +515,7 @@
       "tags": []
     },
     {
-      "id": "atoms--040",
+      "id": "atomsr-040",
       "q": "Conversion of water to steam is a:",
       "options": [
         "Chemical change",
@@ -528,7 +528,7 @@
       "tags": []
     },
     {
-      "id": "atoms--041",
+      "id": "atomsr-041",
       "q": "Condensation is the change of:",
       "options": [
         "Liquid → gas",
@@ -541,7 +541,7 @@
       "tags": []
     },
     {
-      "id": "atoms--042",
+      "id": "atomsr-042",
       "q": "Rusting of iron is a:",
       "options": [
         "Reduction",
@@ -554,7 +554,7 @@
       "tags": []
     },
     {
-      "id": "atoms--043",
+      "id": "atomsr-043",
       "q": "Cooking oils are converted to vegetable ghee by:",
       "options": [
         "Oxidation",
@@ -567,7 +567,7 @@
       "tags": []
     },
     {
-      "id": "atoms--044",
+      "id": "atomsr-044",
       "q": "Photosynthesis is a/an:",
       "options": [
         "Exothermic process",
@@ -580,7 +580,7 @@
       "tags": []
     },
     {
-      "id": "atoms--045",
+      "id": "atomsr-045",
       "q": "Combustion produces:",
       "options": [
         "Only heat",
@@ -593,7 +593,7 @@
       "tags": []
     },
     {
-      "id": "atoms--046",
+      "id": "atomsr-046",
       "q": "Dalton's theory states that the smallest particle of matter is the:",
       "options": [
         "Molecule",
@@ -606,7 +606,7 @@
       "tags": []
     },
     {
-      "id": "atoms--047",
+      "id": "atomsr-047",
       "q": "Which scientist's gold-foil experiment revealed the nucleus?",
       "options": [
         "Bohr",
@@ -619,7 +619,7 @@
       "tags": []
     },
     {
-      "id": "atoms--048",
+      "id": "atomsr-048",
       "q": "An atom is electrically neutral because:",
       "options": [
         "It has no charges",
@@ -632,7 +632,7 @@
       "tags": []
     },
     {
-      "id": "atoms--049",
+      "id": "atomsr-049",
       "q": "Which radiation is used in cancer radiotherapy?",
       "options": [
         "Alpha",
@@ -645,7 +645,7 @@
       "tags": []
     },
     {
-      "id": "atoms--050",
+      "id": "atomsr-050",
       "q": "Mass of the atom is mostly concentrated in:",
       "options": [
         "Electron shells",

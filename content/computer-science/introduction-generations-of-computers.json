@@ -1,0 +1,765 @@
+{
+  "topic_id": "introduction-generations-of-computers",
+  "topic_name": "Introduction Generations of Computers",
+  "subject": "computer-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Introduction Generations of Computers MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🖥️",
+  "mcqs": [
+    {
+      "id": "introd-001",
+      "q": "The word 'Computer' is derived from which Latin word?",
+      "options": [
+        "Compute",
+        "Computare",
+        "Computus",
+        "Computor"
+      ],
+      "correct": 1,
+      "explanation": "The word 'Computer' is derived from the Latin word 'computare' meaning to calculate, to count, to sum up or to think together.",
+      "tags": []
+    },
+    {
+      "id": "introd-002",
+      "q": "What is the meaning of the Latin word 'computare'?",
+      "options": [
+        "To calculate / count / sum up",
+        "To write",
+        "To draw",
+        "To memorise"
+      ],
+      "correct": 0,
+      "explanation": "'Computare' means to calculate, to count, to sum up or to think together.",
+      "tags": []
+    },
+    {
+      "id": "introd-003",
+      "q": "A computer is best defined as:",
+      "options": [
+        "A mechanical typewriter",
+        "An electronic machine that processes input into meaningful information",
+        "A digital camera",
+        "An electrical generator"
+      ],
+      "correct": 1,
+      "explanation": "A computer is an electronic machine which processes input into meaningful information (output).",
+      "tags": []
+    },
+    {
+      "id": "introd-004",
+      "q": "What is called the 'brain' of the computer?",
+      "options": [
+        "RAM",
+        "Hard Disk",
+        "Central Processing Unit (CPU)",
+        "Motherboard"
+      ],
+      "correct": 2,
+      "explanation": "The Central Processing Unit (CPU) is called the brain of the computer because it executes instructions and controls all operations.",
+      "tags": []
+    },
+    {
+      "id": "introd-005",
+      "q": "The display device on a computer, similar to a television screen, is called:",
+      "options": [
+        "Printer",
+        "Scanner",
+        "Monitor",
+        "Speaker"
+      ],
+      "correct": 2,
+      "explanation": "The Monitor is the display device on a computer, similar to a television screen.",
+      "tags": []
+    },
+    {
+      "id": "introd-006",
+      "q": "A computer that has more than one processor is called a:",
+      "options": [
+        "Supercomputer",
+        "Multiprocessor",
+        "Microcomputer",
+        "Mini computer"
+      ],
+      "correct": 1,
+      "explanation": "A multiprocessor is a computer that has more than one processor working in parallel.",
+      "tags": []
+    },
+    {
+      "id": "introd-007",
+      "q": "In computer terminology, the word 'BOOT' means:",
+      "options": [
+        "To shut down a computer",
+        "To start a computer",
+        "To restart Wi-Fi",
+        "To open a file"
+      ],
+      "correct": 1,
+      "explanation": "'BOOT' is the term used in computer systems for 'to start a computer'.",
+      "tags": []
+    },
+    {
+      "id": "introd-008",
+      "q": "All files deleted from the computer are stored in the:",
+      "options": [
+        "My Documents",
+        "Recycle Bin",
+        "Downloads folder",
+        "Temp folder"
+      ],
+      "correct": 1,
+      "explanation": "All files deleted from the computer are stored in the Recycle Bin until permanently deleted.",
+      "tags": []
+    },
+    {
+      "id": "introd-009",
+      "q": "A computer programme that converts an entire programme into machine language at one time is called a:",
+      "options": [
+        "Interpreter",
+        "Assembler",
+        "Compiler",
+        "Debugger"
+      ],
+      "correct": 2,
+      "explanation": "A Compiler converts an entire programme from a high-level language into a lower-level (object/machine) language at one time.",
+      "tags": []
+    },
+    {
+      "id": "introd-010",
+      "q": "A compiler translates code from:",
+      "options": [
+        "Low-level to high-level language",
+        "High-level to low-level / machine language",
+        "Binary to hexadecimal",
+        "English to Latin"
+      ],
+      "correct": 1,
+      "explanation": "A compiler translates code written in a high-level language to a lower-level (object/machine) language.",
+      "tags": []
+    },
+    {
+      "id": "introd-011",
+      "q": "Which of the following are the key features that make computer use attractive?",
+      "options": [
+        "Colour and Size",
+        "Accuracy, Reliability and Speed",
+        "Weight and Shape",
+        "Brand and Price"
+      ],
+      "correct": 1,
+      "explanation": "Accuracy, Reliability and Speed are the three key features that make computer use attractive.",
+      "tags": []
+    },
+    {
+      "id": "introd-012",
+      "q": "The first computers were programmed using:",
+      "options": [
+        "High-level language",
+        "Assembly language",
+        "Machine language",
+        "Object-oriented language"
+      ],
+      "correct": 2,
+      "explanation": "The first computers were programmed using Machine language (binary code).",
+      "tags": []
+    },
+    {
+      "id": "introd-013",
+      "q": "A computer that resembles both a digital and an analogue computer is called a:",
+      "options": [
+        "Hybrid Computer",
+        "Mini Computer",
+        "Mainframe Computer",
+        "Quantum Computer"
+      ],
+      "correct": 0,
+      "explanation": "A Hybrid Computer combines features of both digital and analogue computers.",
+      "tags": []
+    },
+    {
+      "id": "introd-014",
+      "q": "Which type of computer works on continuous electrical pulses?",
+      "options": [
+        "Digital Computer",
+        "Analog Computer",
+        "Hybrid Computer",
+        "Quantum Computer"
+      ],
+      "correct": 1,
+      "explanation": "Analog computers work on continuous electrical pulses (signals).",
+      "tags": []
+    },
+    {
+      "id": "introd-015",
+      "q": "Which type of computer works on discrete electrical pulses?",
+      "options": [
+        "Digital Computer",
+        "Analog Computer",
+        "Mechanical Computer",
+        "Pneumatic Computer"
+      ],
+      "correct": 0,
+      "explanation": "Digital computers use discrete (separate) electrical signals — typically 0s and 1s — for operation.",
+      "tags": []
+    },
+    {
+      "id": "introd-016",
+      "q": "The basic computer system flow is:",
+      "options": [
+        "Output → CPU → Input",
+        "Input → CPU → Output",
+        "CPU → Input → Output",
+        "Memory → Input → Output"
+      ],
+      "correct": 1,
+      "explanation": "The basic computer system flow is Input → CPU (Processing) → Output.",
+      "tags": []
+    },
+    {
+      "id": "introd-017",
+      "q": "Which of the following is an INPUT device?",
+      "options": [
+        "Monitor",
+        "Printer",
+        "Keyboard",
+        "Speaker"
+      ],
+      "correct": 2,
+      "explanation": "Keyboard, mouse and scanner are input devices. Monitor, printer and speaker are output devices.",
+      "tags": []
+    },
+    {
+      "id": "introd-018",
+      "q": "Which of the following is an OUTPUT device?",
+      "options": [
+        "Mouse",
+        "Scanner",
+        "Keyboard",
+        "Printer"
+      ],
+      "correct": 3,
+      "explanation": "Printer is an output device. Mouse, scanner and keyboard are input devices.",
+      "tags": []
+    },
+    {
+      "id": "introd-019",
+      "q": "Inside the CPU, processing is supported by which key component?",
+      "options": [
+        "Speaker",
+        "Memory",
+        "Scanner",
+        "Monitor"
+      ],
+      "correct": 1,
+      "explanation": "Memory works alongside the CPU during processing — the CPU fetches data from memory, processes it and writes results back.",
+      "tags": []
+    },
+    {
+      "id": "introd-020",
+      "q": "The full form of CPU is:",
+      "options": [
+        "Computer Processing Unit",
+        "Central Processing Unit",
+        "Central Programming Unit",
+        "Common Processing Unit"
+      ],
+      "correct": 1,
+      "explanation": "CPU stands for Central Processing Unit — the brain of the computer.",
+      "tags": []
+    },
+    {
+      "id": "introd-021",
+      "q": "Which of the following is NOT typically considered an input device?",
+      "options": [
+        "Keyboard",
+        "Mouse",
+        "Scanner",
+        "Speaker"
+      ],
+      "correct": 3,
+      "explanation": "Speaker is an output device. Keyboard, mouse and scanner are all input devices.",
+      "tags": []
+    },
+    {
+      "id": "introd-022",
+      "q": "Which of the following best describes a computer?",
+      "options": [
+        "A purely mechanical device",
+        "An electronic device that converts input to meaningful information",
+        "A communication network",
+        "A type of telephone"
+      ],
+      "correct": 1,
+      "explanation": "A computer is an electronic machine that processes input into meaningful information (output).",
+      "tags": []
+    },
+    {
+      "id": "introd-023",
+      "q": "How many generations of computers are there in total?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "explanation": "There are five generations of computers: Vacuum Tubes, Transistors, Integrated Circuits, Microprocessors and Artificial Intelligence.",
+      "tags": []
+    },
+    {
+      "id": "introd-024",
+      "q": "In computer terminology, what does 'generation' refer to?",
+      "options": [
+        "Brand of the computer",
+        "Change in technology a computer is or was being used",
+        "Age of the user",
+        "Operating system version"
+      ],
+      "correct": 1,
+      "explanation": "In computer terminology, a generation refers to a change in technology that a computer is/was being used with.",
+      "tags": []
+    },
+    {
+      "id": "introd-025",
+      "q": "The First Generation of computers was the period:",
+      "options": [
+        "1940 – 1956",
+        "1956 – 1963",
+        "1964 – 1971",
+        "1972 – 2010"
+      ],
+      "correct": 0,
+      "explanation": "The First Generation of computers spans 1940 to 1956.",
+      "tags": []
+    },
+    {
+      "id": "introd-026",
+      "q": "Which technology was used in 1st Generation computers?",
+      "options": [
+        "Transistors",
+        "Integrated Circuits",
+        "Vacuum Tubes",
+        "Microprocessors"
+      ],
+      "correct": 2,
+      "explanation": "First Generation computers (1940–1956) used Vacuum Tubes for circuitry and magnetic drums for memory.",
+      "tags": []
+    },
+    {
+      "id": "introd-027",
+      "q": "Which language was used to programme 1st Generation computers?",
+      "options": [
+        "Machine language",
+        "Assembly language",
+        "FORTRAN",
+        "Java"
+      ],
+      "correct": 0,
+      "explanation": "First Generation computers were programmed using Machine language (binary code).",
+      "tags": []
+    },
+    {
+      "id": "introd-028",
+      "q": "Which of the following is an example of a 1st Generation computer?",
+      "options": [
+        "IBM 360",
+        "ENIAC",
+        "Apple II",
+        "PDP-8"
+      ],
+      "correct": 1,
+      "explanation": "ENIAC and UNIVAC are classic examples of 1st Generation computers using vacuum tubes.",
+      "tags": []
+    },
+    {
+      "id": "introd-029",
+      "q": "What was the first commercial computer?",
+      "options": [
+        "ENIAC",
+        "UNIVAC",
+        "IBM 360",
+        "Apple I"
+      ],
+      "correct": 1,
+      "explanation": "UNIVAC (Universal Automatic Computer) was the first commercial computer — a 1st generation machine.",
+      "tags": []
+    },
+    {
+      "id": "introd-030",
+      "q": "ENIAC stands for:",
+      "options": [
+        "Electronic Numerical Integrator and Computer",
+        "Electric New International Automatic Computer",
+        "Engineering Numerical Integrated and Computer",
+        "Electronic Numerical Indexing and Calculator"
+      ],
+      "correct": 0,
+      "explanation": "ENIAC stands for Electronic Numerical Integrator and Computer — a 1st generation example.",
+      "tags": []
+    },
+    {
+      "id": "introd-031",
+      "q": "UNIVAC stands for:",
+      "options": [
+        "Universal Numeric Variable Computer",
+        "Universal Automatic Computer",
+        "Unified Variable Automatic Calculator",
+        "United Numeric Variable Automatic Computer"
+      ],
+      "correct": 1,
+      "explanation": "UNIVAC stands for Universal Automatic Computer.",
+      "tags": []
+    },
+    {
+      "id": "introd-032",
+      "q": "The Second Generation of computers spans the period:",
+      "options": [
+        "1940 – 1956",
+        "1956 – 1963",
+        "1964 – 1971",
+        "1972 – 2010"
+      ],
+      "correct": 1,
+      "explanation": "The Second Generation of computers spans 1956 to 1963.",
+      "tags": []
+    },
+    {
+      "id": "introd-033",
+      "q": "Which technology was used in 2nd Generation computers?",
+      "options": [
+        "Vacuum Tubes",
+        "Transistors",
+        "Integrated Circuits",
+        "VLSI"
+      ],
+      "correct": 1,
+      "explanation": "Second Generation computers used Transistors instead of vacuum tubes — making them smaller, faster and more reliable.",
+      "tags": []
+    },
+    {
+      "id": "introd-034",
+      "q": "In which year was the transistor invented?",
+      "options": [
+        "1940",
+        "1947",
+        "1956",
+        "1971"
+      ],
+      "correct": 1,
+      "explanation": "The transistor was invented in 1947 but was not used in computers until the 1950s (2nd generation).",
+      "tags": []
+    },
+    {
+      "id": "introd-035",
+      "q": "Which programming languages were developed in the 2nd Generation?",
+      "options": [
+        "FORTRAN and COBOL",
+        "Java and Python",
+        "C++ and C#",
+        "HTML and CSS"
+      ],
+      "correct": 0,
+      "explanation": "FORTRAN and COBOL — along with assembly/symbolic languages — were developed in the 2nd Generation.",
+      "tags": []
+    },
+    {
+      "id": "introd-036",
+      "q": "FORTRAN stands for:",
+      "options": [
+        "Formula Translation",
+        "Forward Translator",
+        "Format Transcoder",
+        "Forced Transformation"
+      ],
+      "correct": 0,
+      "explanation": "FORTRAN stands for Formula Translation — developed in the 2nd Generation.",
+      "tags": []
+    },
+    {
+      "id": "introd-037",
+      "q": "COBOL stands for:",
+      "options": [
+        "Common Binary-Oriented Language",
+        "Common Business-Oriented Language",
+        "Complex Business Operating Language",
+        "Code-Based Operational Language"
+      ],
+      "correct": 1,
+      "explanation": "COBOL stands for Common Business-Oriented Language — developed for business use in the 2nd Generation.",
+      "tags": []
+    },
+    {
+      "id": "introd-038",
+      "q": "The first computer for the atomic energy industry was developed in which generation?",
+      "options": [
+        "1st Generation",
+        "2nd Generation",
+        "3rd Generation",
+        "4th Generation"
+      ],
+      "correct": 1,
+      "explanation": "The first computer used in the atomic energy industry was a 2nd Generation transistor-based machine.",
+      "tags": []
+    },
+    {
+      "id": "introd-039",
+      "q": "The Third Generation of computers spans the period:",
+      "options": [
+        "1956 – 1963",
+        "1964 – 1971",
+        "1972 – 2010",
+        "2010 – Present"
+      ],
+      "correct": 1,
+      "explanation": "The Third Generation of computers spans 1964 to 1971.",
+      "tags": []
+    },
+    {
+      "id": "introd-040",
+      "q": "Which technology was used in 3rd Generation computers?",
+      "options": [
+        "Vacuum Tubes",
+        "Transistors",
+        "Integrated Circuits (ICs)",
+        "Artificial Intelligence"
+      ],
+      "correct": 2,
+      "explanation": "Third Generation computers used Integrated Circuits (ICs) — multiple transistors on a single chip.",
+      "tags": []
+    },
+    {
+      "id": "introd-041",
+      "q": "Keyboards and monitors were introduced in which generation?",
+      "options": [
+        "1st Generation",
+        "2nd Generation",
+        "3rd Generation",
+        "5th Generation"
+      ],
+      "correct": 2,
+      "explanation": "Keyboards and monitors were introduced in the 3rd Generation, allowing direct human-computer interaction.",
+      "tags": []
+    },
+    {
+      "id": "introd-042",
+      "q": "Which of the following is an example of a 3rd Generation computer?",
+      "options": [
+        "ENIAC",
+        "UNIVAC",
+        "IBM 360",
+        "Apple II"
+      ],
+      "correct": 2,
+      "explanation": "PDP-8, IBM 360 and ICL 2900 are examples of 3rd Generation computers.",
+      "tags": []
+    },
+    {
+      "id": "introd-043",
+      "q": "The Fourth Generation of computers spans the period:",
+      "options": [
+        "1964 – 1971",
+        "1972 – 2010",
+        "1956 – 1963",
+        "2010 – Present"
+      ],
+      "correct": 1,
+      "explanation": "The Fourth Generation of computers spans 1972 to 2010.",
+      "tags": []
+    },
+    {
+      "id": "introd-044",
+      "q": "Which technology defines 4th Generation computers?",
+      "options": [
+        "Transistors",
+        "Integrated Circuits",
+        "Microprocessors (VLSI)",
+        "Vacuum Tubes"
+      ],
+      "correct": 2,
+      "explanation": "Fourth Generation computers are defined by the use of Microprocessors built using VLSI (Very Large Scale Integration).",
+      "tags": []
+    },
+    {
+      "id": "introd-045",
+      "q": "VLSI stands for:",
+      "options": [
+        "Very Large Scale Integration",
+        "Variable Large Scale Integration",
+        "Very Linear Synchronous Integration",
+        "Vertical Long Scale Integration"
+      ],
+      "correct": 0,
+      "explanation": "VLSI stands for Very Large Scale Integration — used in 4th generation computers.",
+      "tags": []
+    },
+    {
+      "id": "introd-046",
+      "q": "What was the first microprocessor and who discovered it?",
+      "options": [
+        "Intel 8080 — Steve Jobs",
+        "Intel 4004 — Ted Hoff",
+        "AMD K6 — Bill Gates",
+        "Motorola 68000 — Charles Babbage"
+      ],
+      "correct": 1,
+      "explanation": "The first microprocessor — the Intel 4004 — was discovered by Ted Hoff and made commercially available in 1971.",
+      "tags": []
+    },
+    {
+      "id": "introd-047",
+      "q": "In which year was the Intel 4004 microprocessor made commercially available?",
+      "options": [
+        "1965",
+        "1969",
+        "1971",
+        "1975"
+      ],
+      "correct": 2,
+      "explanation": "The Intel 4004 — the world's first microprocessor — was made commercially available in 1971.",
+      "tags": []
+    },
+    {
+      "id": "introd-048",
+      "q": "GUI was developed during which generation of computers?",
+      "options": [
+        "2nd Generation",
+        "3rd Generation",
+        "4th Generation",
+        "5th Generation"
+      ],
+      "correct": 2,
+      "explanation": "The Graphical User Interface (GUI) was developed during the 4th Generation.",
+      "tags": []
+    },
+    {
+      "id": "introd-049",
+      "q": "GUI stands for:",
+      "options": [
+        "General User Interface",
+        "Graphical User Interface",
+        "Global User Integration",
+        "Generic Universal Interface"
+      ],
+      "correct": 1,
+      "explanation": "GUI stands for Graphical User Interface — developed in the 4th Generation.",
+      "tags": []
+    },
+    {
+      "id": "introd-050",
+      "q": "Which of the following is an example of a 4th Generation computer?",
+      "options": [
+        "ENIAC",
+        "IBM 360",
+        "Apple II",
+        "PDP-8"
+      ],
+      "correct": 2,
+      "explanation": "Apple II, the first IBM PC and STAR 1000 are classic examples of 4th Generation computers.",
+      "tags": []
+    },
+    {
+      "id": "introd-051",
+      "q": "The Fifth Generation of computers spans the period:",
+      "options": [
+        "1972 – 2010",
+        "2010 – Present",
+        "1990 – 2000",
+        "Future only"
+      ],
+      "correct": 1,
+      "explanation": "The Fifth Generation of computers spans 2010 to the present.",
+      "tags": []
+    },
+    {
+      "id": "introd-052",
+      "q": "Fifth Generation computers are based on:",
+      "options": [
+        "Vacuum Tubes",
+        "Transistors",
+        "Microprocessors",
+        "Artificial Intelligence (AI)"
+      ],
+      "correct": 3,
+      "explanation": "Fifth Generation computers are based on Artificial Intelligence and are still under active development.",
+      "tags": []
+    },
+    {
+      "id": "introd-053",
+      "q": "3GL (3rd Generation Languages) are typically used by:",
+      "options": [
+        "Non-programmers",
+        "Professional programmers only",
+        "Students only",
+        "Hardware engineers only"
+      ],
+      "correct": 1,
+      "explanation": "3GL languages are used by professional programmers only, while 4GLs may be used by non-programmers as well.",
+      "tags": []
+    },
+    {
+      "id": "introd-054",
+      "q": "Which type of language specifies WHAT task to perform rather than HOW?",
+      "options": [
+        "1GL",
+        "2GL",
+        "3GL",
+        "4GL"
+      ],
+      "correct": 3,
+      "explanation": "4GLs specify WHAT task to perform; 3GLs specify HOW to perform the task.",
+      "tags": []
+    },
+    {
+      "id": "introd-055",
+      "q": "Which of the following is TRUE about 4GLs?",
+      "options": [
+        "Difficult to read",
+        "Require many instructions",
+        "Easy to learn and database oriented",
+        "File oriented and difficult to debug"
+      ],
+      "correct": 2,
+      "explanation": "4GLs are easy to learn, easier to debug, and typically database oriented — unlike 3GLs which are file oriented and harder to learn.",
+      "tags": []
+    },
+    {
+      "id": "introd-056",
+      "q": "IC, used in 3rd Generation computers, stands for:",
+      "options": [
+        "Integrated Circuit",
+        "Internal Computer",
+        "Internet Connection",
+        "Integrated Calculator"
+      ],
+      "correct": 0,
+      "explanation": "IC stands for Integrated Circuit — multiple transistors fabricated on a single semiconductor chip, used in 3rd Generation computers.",
+      "tags": []
+    },
+    {
+      "id": "introd-057",
+      "q": "Which sequence correctly orders the technology of computer generations?",
+      "options": [
+        "Transistors → Vacuum Tubes → ICs → Microprocessors → AI",
+        "Vacuum Tubes → Transistors → ICs → Microprocessors → AI",
+        "Vacuum Tubes → ICs → Transistors → AI → Microprocessors",
+        "ICs → Vacuum Tubes → Transistors → Microprocessors → AI"
+      ],
+      "correct": 1,
+      "explanation": "The correct order is: Vacuum Tubes (1st) → Transistors (2nd) → Integrated Circuits (3rd) → Microprocessors / VLSI (4th) → Artificial Intelligence (5th).",
+      "tags": []
+    },
+    {
+      "id": "introd-058",
+      "q": "Which of the following statements about transistors is correct?",
+      "options": [
+        "Invented in 1971 and used immediately in 1st gen",
+        "Invented in 1947 but used in computers from the 1950s",
+        "Invented in 1956 by Intel",
+        "Invented in 1940 by Charles Babbage"
+      ],
+      "correct": 1,
+      "explanation": "The first-ever transistor was invented in 1947 but could not be used in computers until the 1950s — the 2nd generation.",
+      "tags": []
+    }
+  ]
+}

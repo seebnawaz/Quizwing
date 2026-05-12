@@ -2,13 +2,13 @@
   "topic_id": "basic-chemistry-and-periodic-table",
   "topic_name": "Basic Chemistry & Periodic Table",
   "subject": "everyday-science",
-  "version": 1,
+  "version": 2,
   "updated_at": "2026-05-12",
-  "description": "Basic Chemistry & Periodic Table MCQs for PPSC, FPSC, NTS, CSS & PMS preparation.",
+  "description": "Basic Chemistry & Periodic Table MCQs for PPSC, FPSC, NTS, CSS & PMS.",
   "icon": "🧪",
   "mcqs": [
     {
-      "id": "basic--001",
+      "id": "basicc-001",
       "q": "How many main types of chemical bonds are there?",
       "options": [
         "Two",
@@ -21,7 +21,7 @@
       "tags": []
     },
     {
-      "id": "basic--002",
+      "id": "basicc-002",
       "q": "In an ionic bond, electrons are:",
       "options": [
         "Equally shared",
@@ -34,7 +34,7 @@
       "tags": []
     },
     {
-      "id": "basic--003",
+      "id": "basicc-003",
       "q": "H₂O contains which type of bond?",
       "options": [
         "Ionic",
@@ -47,7 +47,7 @@
       "tags": []
     },
     {
-      "id": "basic--004",
+      "id": "basicc-004",
       "q": "NaCl is an example of:",
       "options": [
         "Covalent bond",
@@ -60,7 +60,7 @@
       "tags": []
     },
     {
-      "id": "basic--005",
+      "id": "basicc-005",
       "q": "In a covalent bond, electrons are:",
       "options": [
         "Lost",
@@ -73,7 +73,7 @@
       "tags": []
     },
     {
-      "id": "basic--006",
+      "id": "basicc-006",
       "q": "HCl molecule has which bond?",
       "options": [
         "Ionic",
@@ -86,7 +86,7 @@
       "tags": []
     },
     {
-      "id": "basic--007",
+      "id": "basicc-007",
       "q": "Which bond forms between two identical non-metal atoms?",
       "options": [
         "Ionic",
@@ -99,7 +99,7 @@
       "tags": []
     },
     {
-      "id": "basic--008",
+      "id": "basicc-008",
       "q": "MgO is held together by which bond?",
       "options": [
         "Covalent",
@@ -112,7 +112,7 @@
       "tags": []
     },
     {
-      "id": "basic--009",
+      "id": "basicc-009",
       "q": "Which is the hardest natural substance?",
       "options": [
         "Graphite",
@@ -125,7 +125,7 @@
       "tags": []
     },
     {
-      "id": "basic--010",
+      "id": "basicc-010",
       "q": "Which allotrope of carbon conducts electricity?",
       "options": [
         "Diamond",
@@ -138,7 +138,7 @@
       "tags": []
     },
     {
-      "id": "basic--011",
+      "id": "basicc-011",
       "q": "Coke is obtained from:",
       "options": [
         "Wood",
@@ -151,7 +151,7 @@
       "tags": []
     },
     {
-      "id": "basic--012",
+      "id": "basicc-012",
       "q": "Charcoal is mainly produced from:",
       "options": [
         "Coal",
@@ -164,7 +164,7 @@
       "tags": []
     },
     {
-      "id": "basic--013",
+      "id": "basicc-013",
       "q": "All allotropes of carbon are made of:",
       "options": [
         "Different elements",
@@ -177,7 +177,7 @@
       "tags": []
     },
     {
-      "id": "basic--014",
+      "id": "basicc-014",
       "q": "How many confirmed elements are in the modern periodic table?",
       "options": [
         "108",
@@ -190,7 +190,7 @@
       "tags": []
     },
     {
-      "id": "basic--015",
+      "id": "basicc-015",
       "q": "The symbol of Gold is:",
       "options": [
         "Go",
@@ -203,7 +203,7 @@
       "tags": []
     },
     {
-      "id": "basic--016",
+      "id": "basicc-016",
       "q": "The symbol of Silver is:",
       "options": [
         "Si",
@@ -216,7 +216,7 @@
       "tags": []
     },
     {
-      "id": "basic--017",
+      "id": "basicc-017",
       "q": "The symbol of Mercury is:",
       "options": [
         "Me",
@@ -229,7 +229,7 @@
       "tags": []
     },
     {
-      "id": "basic--018",
+      "id": "basicc-018",
       "q": "The symbol of Lead is:",
       "options": [
         "Ld",
@@ -242,7 +242,7 @@
       "tags": []
     },
     {
-      "id": "basic--019",
+      "id": "basicc-019",
       "q": "The symbol of Sodium is:",
       "options": [
         "So",
@@ -255,7 +255,7 @@
       "tags": []
     },
     {
-      "id": "basic--020",
+      "id": "basicc-020",
       "q": "The symbol of Potassium is:",
       "options": [
         "P",
@@ -268,7 +268,7 @@
       "tags": []
     },
     {
-      "id": "basic--021",
+      "id": "basicc-021",
       "q": "The symbol of Iron is:",
       "options": [
         "Ir",
@@ -281,7 +281,7 @@
       "tags": []
     },
     {
-      "id": "basic--022",
+      "id": "basicc-022",
       "q": "The symbol of Tin is:",
       "options": [
         "Ti",
@@ -294,7 +294,7 @@
       "tags": []
     },
     {
-      "id": "basic--023",
+      "id": "basicc-023",
       "q": "The symbol of Tungsten is:",
       "options": [
         "Tu",
@@ -307,7 +307,7 @@
       "tags": []
     },
     {
-      "id": "basic--024",
+      "id": "basicc-024",
       "q": "The symbol of Antimony is:",
       "options": [
         "An",
@@ -320,7 +320,7 @@
       "tags": []
     },
     {
-      "id": "basic--025",
+      "id": "basicc-025",
       "q": "Atomic number of Hydrogen is:",
       "options": [
         "0",
@@ -333,7 +333,7 @@
       "tags": []
     },
     {
-      "id": "basic--026",
+      "id": "basicc-026",
       "q": "Atomic number of Carbon is:",
       "options": [
         "4",
@@ -346,7 +346,7 @@
       "tags": []
     },
     {
-      "id": "basic--027",
+      "id": "basicc-027",
       "q": "Atomic number of Oxygen is:",
       "options": [
         "6",
@@ -359,7 +359,7 @@
       "tags": []
     },
     {
-      "id": "basic--028",
+      "id": "basicc-028",
       "q": "Atomic number of Krypton is:",
       "options": [
         "18",
@@ -372,7 +372,7 @@
       "tags": []
     },
     {
-      "id": "basic--029",
+      "id": "basicc-029",
       "q": "Atomic number of Uranium is:",
       "options": [
         "88",
@@ -385,7 +385,7 @@
       "tags": []
     },
     {
-      "id": "basic--030",
+      "id": "basicc-030",
       "q": "Element 118 is:",
       "options": [
         "Tennessine",
@@ -398,7 +398,7 @@
       "tags": []
     },
     {
-      "id": "basic--031",
+      "id": "basicc-031",
       "q": "Noble gases belong to which group?",
       "options": [
         "Group 1",
@@ -411,7 +411,7 @@
       "tags": []
     },
     {
-      "id": "basic--032",
+      "id": "basicc-032",
       "q": "Which of these is NOT a noble gas?",
       "options": [
         "Helium",
@@ -424,7 +424,7 @@
       "tags": []
     },
     {
-      "id": "basic--033",
+      "id": "basicc-033",
       "q": "Alkali metals belong to:",
       "options": [
         "Group 1",
@@ -437,7 +437,7 @@
       "tags": []
     },
     {
-      "id": "basic--034",
+      "id": "basicc-034",
       "q": "Calcium and Magnesium are:",
       "options": [
         "Alkali metals",
@@ -450,7 +450,7 @@
       "tags": []
     },
     {
-      "id": "basic--035",
+      "id": "basicc-035",
       "q": "Halogens belong to:",
       "options": [
         "Group 14",
@@ -463,7 +463,7 @@
       "tags": []
     },
     {
-      "id": "basic--036",
+      "id": "basicc-036",
       "q": "Lanthanides span atomic numbers:",
       "options": [
         "21–30",
@@ -476,7 +476,7 @@
       "tags": []
     },
     {
-      "id": "basic--037",
+      "id": "basicc-037",
       "q": "Actinides span atomic numbers:",
       "options": [
         "57–71",
@@ -489,7 +489,7 @@
       "tags": []
     },
     {
-      "id": "basic--038",
+      "id": "basicc-038",
       "q": "Iron, Copper and Zinc are examples of:",
       "options": [
         "Alkali metals",
@@ -502,7 +502,7 @@
       "tags": []
     },
     {
-      "id": "basic--039",
+      "id": "basicc-039",
       "q": "Which is the lightest element?",
       "options": [
         "Helium",
@@ -515,7 +515,7 @@
       "tags": []
     },
     {
-      "id": "basic--040",
+      "id": "basicc-040",
       "q": "Most abundant element in the universe is:",
       "options": [
         "Oxygen",
@@ -528,7 +528,7 @@
       "tags": []
     },
     {
-      "id": "basic--041",
+      "id": "basicc-041",
       "q": "Most abundant element in Earth's crust is:",
       "options": [
         "Silicon",
@@ -541,7 +541,7 @@
       "tags": []
     },
     {
-      "id": "basic--042",
+      "id": "basicc-042",
       "q": "Most abundant gas in the atmosphere is:",
       "options": [
         "Oxygen",
@@ -554,7 +554,7 @@
       "tags": []
     },
     {
-      "id": "basic--043",
+      "id": "basicc-043",
       "q": "Krypton's symbol is:",
       "options": [
         "K",
@@ -567,7 +567,7 @@
       "tags": []
     },
     {
-      "id": "basic--044",
+      "id": "basicc-044",
       "q": "Krypton is classified as a:",
       "options": [
         "Halogen",
@@ -580,7 +580,7 @@
       "tags": []
     },
     {
-      "id": "basic--045",
+      "id": "basicc-045",
       "q": "At room temperature, Krypton is:",
       "options": [
         "Solid",
@@ -593,7 +593,7 @@
       "tags": []
     },
     {
-      "id": "basic--046",
+      "id": "basicc-046",
       "q": "Krypton is commonly used in:",
       "options": [
         "Fertilisers",
@@ -606,7 +606,7 @@
       "tags": []
     },
     {
-      "id": "basic--047",
+      "id": "basicc-047",
       "q": "Which element symbol stands for Copper?",
       "options": [
         "Co",
@@ -619,7 +619,7 @@
       "tags": []
     },
     {
-      "id": "basic--048",
+      "id": "basicc-048",
       "q": "Which element symbol stands for Helium?",
       "options": [
         "H",
@@ -632,7 +632,7 @@
       "tags": []
     },
     {
-      "id": "basic--049",
+      "id": "basicc-049",
       "q": "Diamond and graphite differ because of:",
       "options": [
         "Different elements",
@@ -645,7 +645,7 @@
       "tags": []
     },
     {
-      "id": "basic--050",
+      "id": "basicc-050",
       "q": "Which group has 7 valence electrons?",
       "options": [
         "Group 1",
@@ -658,7 +658,7 @@
       "tags": []
     },
     {
-      "id": "basic--051",
+      "id": "basicc-051",
       "q": "In the modern periodic table, elements are arranged by:",
       "options": [
         "Atomic mass",

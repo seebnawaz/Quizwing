@@ -1,14 +1,14 @@
 {
   "topic_id": "rocks-and-types",
-  "topic_name": "Rocks & Their Types",
+  "topic_name": "Rocks & Types",
   "subject": "everyday-science",
-  "version": 1,
+  "version": 2,
   "updated_at": "2026-05-12",
-  "description": "Rocks & Their Types MCQs for PPSC, FPSC, NTS, CSS & PMS preparation.",
+  "description": "Rocks & Types MCQs for PPSC, FPSC, NTS, CSS & PMS.",
   "icon": "🪨",
   "mcqs": [
     {
-      "id": "rocks--001",
+      "id": "rocksa-001",
       "q": "Sedimentary rock is best described as a rock formed:",
       "options": [
         "Deep in Earth's mantle by extreme pressure",
@@ -21,7 +21,7 @@
       "tags": []
     },
     {
-      "id": "rocks--002",
+      "id": "rocksa-002",
       "q": "Artesian wells are found in which type of rocks?",
       "options": [
         "Igneous",
@@ -34,7 +34,7 @@
       "tags": []
     },
     {
-      "id": "rocks--003",
+      "id": "rocksa-003",
       "q": "Which of the following is NOT a sedimentary rock?",
       "options": [
         "Sandstone",
@@ -47,7 +47,7 @@
       "tags": []
     },
     {
-      "id": "rocks--004",
+      "id": "rocksa-004",
       "q": "Sedimentary rocks make up:",
       "options": [
         "Only a tiny fraction of Earth's surface",
@@ -60,7 +60,7 @@
       "tags": []
     },
     {
-      "id": "rocks--005",
+      "id": "rocksa-005",
       "q": "Earth's crust below the oceans is composed mainly of:",
       "options": [
         "Igneous rocks",
@@ -73,7 +73,7 @@
       "tags": []
     },
     {
-      "id": "rocks--006",
+      "id": "rocksa-006",
       "q": "Coal is what type of rock?",
       "options": [
         "Igneous",
@@ -86,7 +86,7 @@
       "tags": []
     },
     {
-      "id": "rocks--007",
+      "id": "rocksa-007",
       "q": "Which of the following is an example of a sedimentary rock?",
       "options": [
         "Granite",
@@ -99,7 +99,7 @@
       "tags": []
     },
     {
-      "id": "rocks--008",
+      "id": "rocksa-008",
       "q": "Which of the following is NOT typically classified as a sedimentary rock?",
       "options": [
         "Limestone",
@@ -112,7 +112,7 @@
       "tags": []
     },
     {
-      "id": "rocks--009",
+      "id": "rocksa-009",
       "q": "Which is an example of an organic sedimentary rock?",
       "options": [
         "Sandstone",
@@ -125,7 +125,7 @@
       "tags": []
     },
     {
-      "id": "rocks--010",
+      "id": "rocksa-010",
       "q": "Breccia, chalk limestone, conglomerate and shale are all examples of which rock type?",
       "options": [
         "Igneous",
@@ -138,7 +138,7 @@
       "tags": []
     },
     {
-      "id": "rocks--011",
+      "id": "rocksa-011",
       "q": "Metamorphic rocks form when rocks are subjected to:",
       "options": [
         "Erosion only",
@@ -151,7 +151,7 @@
       "tags": []
     },
     {
-      "id": "rocks--012",
+      "id": "rocksa-012",
       "q": "Amphibolite is a coarse-grained metamorphic rock composed mainly of:",
       "options": [
         "Quartz only",
@@ -164,7 +164,7 @@
       "tags": []
     },
     {
-      "id": "rocks--013",
+      "id": "rocksa-013",
       "q": "Which of the following is a metamorphic rock?",
       "options": [
         "Sandstone",
@@ -177,7 +177,7 @@
       "tags": []
     },
     {
-      "id": "rocks--014",
+      "id": "rocksa-014",
       "q": "Which of the following is NOT a metamorphic rock?",
       "options": [
         "Slate",
@@ -190,7 +190,7 @@
       "tags": []
     },
     {
-      "id": "rocks--015",
+      "id": "rocksa-015",
       "q": "Soapstone is an example of which type of rock?",
       "options": [
         "Sedimentary",
@@ -203,7 +203,7 @@
       "tags": []
     },
     {
-      "id": "rocks--016",
+      "id": "rocksa-016",
       "q": "Examples of metamorphic rocks include:",
       "options": [
         "Sandstone, shale, coal",
@@ -216,7 +216,7 @@
       "tags": []
     },
     {
-      "id": "rocks--017",
+      "id": "rocksa-017",
       "q": "Marble is formed by the metamorphism of which rock?",
       "options": [
         "Sandstone",
@@ -229,7 +229,7 @@
       "tags": []
     },
     {
-      "id": "rocks--018",
+      "id": "rocksa-018",
       "q": "Igneous rocks are also known as:",
       "options": [
         "Sedimentary rocks",
@@ -242,7 +242,7 @@
       "tags": []
     },
     {
-      "id": "rocks--019",
+      "id": "rocksa-019",
       "q": "Igneous rocks form when:",
       "options": [
         "Sediments compact",
@@ -255,7 +255,7 @@
       "tags": []
     },
     {
-      "id": "rocks--020",
+      "id": "rocksa-020",
       "q": "Igneous rocks are divided into how many main groups?",
       "options": [
         "Two — intrusive and extrusive",
@@ -268,7 +268,7 @@
       "tags": []
     },
     {
-      "id": "rocks--021",
+      "id": "rocksa-021",
       "q": "Intrusive igneous rocks form:",
       "options": [
         "On Earth's surface",
@@ -281,7 +281,7 @@
       "tags": []
     },
     {
-      "id": "rocks--022",
+      "id": "rocksa-022",
       "q": "Intrusive rocks are also called:",
       "options": [
         "Volcanic rocks",
@@ -294,7 +294,7 @@
       "tags": []
     },
     {
-      "id": "rocks--023",
+      "id": "rocksa-023",
       "q": "Which of the following is an example of an intrusive igneous rock?",
       "options": [
         "Granite",
@@ -307,7 +307,7 @@
       "tags": []
     },
     {
-      "id": "rocks--024",
+      "id": "rocksa-024",
       "q": "Extrusive igneous rocks form when:",
       "options": [
         "Magma cools deep in Earth",
@@ -320,7 +320,7 @@
       "tags": []
     },
     {
-      "id": "rocks--025",
+      "id": "rocksa-025",
       "q": "Extrusive rocks are also known as:",
       "options": [
         "Plutonic rocks",
@@ -333,7 +333,7 @@
       "tags": []
     },
     {
-      "id": "rocks--026",
+      "id": "rocksa-026",
       "q": "Which of the following is an example of an extrusive igneous rock?",
       "options": [
         "Granite",
@@ -346,7 +346,7 @@
       "tags": []
     },
     {
-      "id": "rocks--027",
+      "id": "rocksa-027",
       "q": "Which of the following is NOT an example of an extrusive igneous rock?",
       "options": [
         "Andesite",
@@ -359,7 +359,7 @@
       "tags": []
     },
     {
-      "id": "rocks--028",
+      "id": "rocksa-028",
       "q": "Pegmatite, diorite and peridotite are examples of:",
       "options": [
         "Sedimentary rocks",
@@ -372,7 +372,7 @@
       "tags": []
     },
     {
-      "id": "rocks--029",
+      "id": "rocksa-029",
       "q": "Andesite, dacite, obsidian and tuff are examples of:",
       "options": [
         "Intrusive igneous rocks",
@@ -385,7 +385,7 @@
       "tags": []
     },
     {
-      "id": "rocks--030",
+      "id": "rocksa-030",
       "q": "What is the difference between magma and lava?",
       "options": [
         "No difference",
@@ -398,7 +398,7 @@
       "tags": []
     },
     {
-      "id": "rocks--031",
+      "id": "rocksa-031",
       "q": "Which group of igneous rocks cools more slowly and produces larger crystals?",
       "options": [
         "Intrusive (plutonic)",
@@ -411,7 +411,7 @@
       "tags": []
     },
     {
-      "id": "rocks--032",
+      "id": "rocksa-032",
       "q": "What is the hydrosphere?",
       "options": [
         "A mountain range",
@@ -424,7 +424,7 @@
       "tags": []
     },
     {
-      "id": "rocks--033",
+      "id": "rocksa-033",
       "q": "What is the most abundant substance at the surface of Earth?",
       "options": [
         "Iron",
@@ -437,7 +437,7 @@
       "tags": []
     },
     {
-      "id": "rocks--034",
+      "id": "rocksa-034",
       "q": "Approximately how much water (in liquid and frozen form) makes up Earth's hydrosphere?",
       "options": [
         "~10 million km³",
@@ -450,7 +450,7 @@
       "tags": []
     },
     {
-      "id": "rocks--035",
+      "id": "rocksa-035",
       "q": "The Kuroshio is a:",
       "options": [
         "Warm north-easterly ocean current off the coast of Japan",
@@ -463,7 +463,7 @@
       "tags": []
     },
     {
-      "id": "rocks--036",
+      "id": "rocksa-036",
       "q": "The Benguela Current is the eastern boundary current of which ocean?",
       "options": [
         "South Pacific",
@@ -476,7 +476,7 @@
       "tags": []
     },
     {
-      "id": "rocks--037",
+      "id": "rocksa-037",
       "q": "In the northern hemisphere, the north-easterly winter monsoon winds become which direction in summer?",
       "options": [
         "South-westerly",
@@ -489,7 +489,7 @@
       "tags": []
     },
     {
-      "id": "rocks--038",
+      "id": "rocksa-038",
       "q": "How often do the currents in the northern Indian Ocean change their flow direction?",
       "options": [
         "Every month",
@@ -502,7 +502,7 @@
       "tags": []
     },
     {
-      "id": "rocks--039",
+      "id": "rocksa-039",
       "q": "What is the average salinity of seawater?",
       "options": [
         "~1%",
@@ -515,7 +515,7 @@
       "tags": []
     },
     {
-      "id": "rocks--040",
+      "id": "rocksa-040",
       "q": "In the ocean, water moves horizontally over vast areas mainly due to:",
       "options": [
         "Lunar gravity only",
@@ -528,7 +528,7 @@
       "tags": []
     },
     {
-      "id": "rocks--041",
+      "id": "rocksa-041",
       "q": "What is a Spring tide?",
       "options": [
         "Tide at its minimum height",
@@ -541,7 +541,7 @@
       "tags": []
     },
     {
-      "id": "rocks--042",
+      "id": "rocksa-042",
       "q": "What is a glacier?",
       "options": [
         "A type of warm ocean current",
@@ -554,7 +554,7 @@
       "tags": []
     },
     {
-      "id": "rocks--043",
+      "id": "rocksa-043",
       "q": "Which of the following is NOT included in Earth's hydrosphere?",
       "options": [
         "Liquid surface water",

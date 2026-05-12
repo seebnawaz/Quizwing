@@ -1,0 +1,921 @@
+{
+  "topic_id": "exploration-and-colonization",
+  "topic_name": "Exploration & Colonization",
+  "subject": "general-knowledge",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Exploration & Colonization MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🧭",
+  "mcqs": [
+    {
+      "id": "explor-001",
+      "q": "The Age of Imperialism began in?",
+      "options": [
+        "Second half of the 19th century",
+        "First half of the 19th century",
+        "17th century",
+        "Early 20th century"
+      ],
+      "correct": 0,
+      "explanation": "The Age of Imperialism (New Imperialism) began in the second half of the 19th century (c. 1870-1914), when European powers rapidly colonized Africa, Asia, and the Pacific.",
+      "tags": []
+    },
+    {
+      "id": "explor-002",
+      "q": "Colonialism, despite its defects, helped in the promotion of?",
+      "options": [
+        "Capitalism",
+        "Communism",
+        "Feudalism",
+        "Socialism"
+      ],
+      "correct": 0,
+      "explanation": "Colonialism promoted capitalism by expanding global markets, securing raw materials and cheap labor for European industries, and integrating colonies into the capitalist world economy.",
+      "tags": []
+    },
+    {
+      "id": "explor-003",
+      "q": "The primary motivation behind European imperialism was?",
+      "options": [
+        "Economic exploitation",
+        "Religious conversion",
+        "Cultural exchange",
+        "Scientific curiosity"
+      ],
+      "correct": 0,
+      "explanation": "Economic exploitation — access to raw materials, cheap labor, and markets for manufactured goods — was the primary driver of European imperialism, often masked with 'civilizing mission' rhetoric.",
+      "tags": []
+    },
+    {
+      "id": "explor-004",
+      "q": "The first country in Africa to gain independence from British colonial rule was?",
+      "options": [
+        "Ghana",
+        "Kenya",
+        "Nigeria",
+        "Egypt"
+      ],
+      "correct": 0,
+      "explanation": "Ghana (formerly Gold Coast) became the first sub-Saharan African colony to gain independence from Britain on 6 March 1957 under Kwame Nkrumah.",
+      "tags": []
+    },
+    {
+      "id": "explor-005",
+      "q": "England first initiated the concept of a 'unified currency' during?",
+      "options": [
+        "Age of Imperialism",
+        "Medieval era",
+        "Industrial Revolution",
+        "Renaissance"
+      ],
+      "correct": 0,
+      "explanation": "England promoted unified currency systems across its empire during the Age of Imperialism to facilitate trade and financial integration of its colonies.",
+      "tags": []
+    },
+    {
+      "id": "explor-006",
+      "q": "The Renaissance period began in?",
+      "options": [
+        "Italy",
+        "France",
+        "Spain",
+        "Germany"
+      ],
+      "correct": 0,
+      "explanation": "The Renaissance began in Italy in the 14th century, particularly in cities like Florence, before spreading across Europe.",
+      "tags": []
+    },
+    {
+      "id": "explor-007",
+      "q": "The term 'Manifest Destiny' refers to?",
+      "options": [
+        "US was destined to expand across North America",
+        "British right to rule seas",
+        "European right to colonize Africa",
+        "Russia's expansion to Pacific"
+      ],
+      "correct": 0,
+      "explanation": "Manifest Destiny was the 19th-century American doctrine that the United States was divinely destined to expand across North America from Atlantic to Pacific.",
+      "tags": []
+    },
+    {
+      "id": "explor-008",
+      "q": "The main objective of the League of Nations was to?",
+      "options": [
+        "Prevent future wars",
+        "Colonize Africa",
+        "Promote capitalism",
+        "Spread Christianity"
+      ],
+      "correct": 0,
+      "explanation": "The League of Nations (1920-1946) was established after WWI with the main objective of preventing future wars through collective security and diplomacy.",
+      "tags": []
+    },
+    {
+      "id": "explor-009",
+      "q": "Who conquered Spain from North Africa in 711 AD?",
+      "options": [
+        "Tariq bin Ziad",
+        "Salah ad-Din",
+        "Musa bin Nusayr",
+        "Abd al-Rahman"
+      ],
+      "correct": 0,
+      "explanation": "Tariq bin Ziad, a Berber Umayyad commander, led the Muslim conquest of Spain in 711 AD. The rock of Gibraltar (Jabal Tariq) is named after him.",
+      "tags": []
+    },
+    {
+      "id": "explor-010",
+      "q": "Spain colonized Argentina in which century?",
+      "options": [
+        "16th century",
+        "15th century",
+        "17th century",
+        "18th century"
+      ],
+      "correct": 0,
+      "explanation": "Spain colonized Argentina in the 16th century, establishing Buenos Aires in 1536. Argentina remained a Spanish colony until independence in 1816.",
+      "tags": []
+    },
+    {
+      "id": "explor-011",
+      "q": "Iberian Peninsula Muslims forced to convert to Christianity were called?",
+      "options": [
+        "Moriscos",
+        "Mudejars",
+        "Conversos",
+        "Mozarabs"
+      ],
+      "correct": 0,
+      "explanation": "Moriscos were Muslims in the Iberian Peninsula forced to convert to Christianity after 1502 following the Reconquista. Many were later expelled (1609-1614).",
+      "tags": []
+    },
+    {
+      "id": "explor-012",
+      "q": "The Thirty Years War ended through?",
+      "options": [
+        "Treaty of Westphalia",
+        "Treaty of Paris",
+        "Treaty of Versailles",
+        "Congress of Vienna"
+      ],
+      "correct": 0,
+      "explanation": "The Treaty (Peace) of Westphalia (1648) ended the Thirty Years War (1618-1648) and established modern concepts of state sovereignty and international law.",
+      "tags": []
+    },
+    {
+      "id": "explor-013",
+      "q": "Malaysia gained independence in?",
+      "options": [
+        "1957",
+        "1947",
+        "1963",
+        "1965"
+      ],
+      "correct": 0,
+      "explanation": "Malaya (later Malaysia) gained independence from Britain on 31 August 1957. The Federation of Malaysia was formed in 1963 including Sabah and Sarawak.",
+      "tags": []
+    },
+    {
+      "id": "explor-014",
+      "q": "The Malaysian Prime Minister who demanded independence was?",
+      "options": [
+        "Tunku Abdul Rahman",
+        "Mahathir Mohamad",
+        "Najib Razak",
+        "Anwar Ibrahim"
+      ],
+      "correct": 0,
+      "explanation": "Tunku Abdul Rahman led Malaya's independence movement and became the country's first Prime Minister (1957-1970), declaring Merdeka (Independence) on 31 August 1957.",
+      "tags": []
+    },
+    {
+      "id": "explor-015",
+      "q": "Mahathir bin Muhammad became Prime Minister of Malaysia how many times?",
+      "options": [
+        "2 times",
+        "1 time",
+        "3 times",
+        "4 times"
+      ],
+      "correct": 0,
+      "explanation": "Mahathir Mohamad served as Malaysia's Prime Minister twice: first from 1981 to 2003, and again from 2018 to 2020.",
+      "tags": []
+    },
+    {
+      "id": "explor-016",
+      "q": "Habib Bourguiba helped which country gain independence from France?",
+      "options": [
+        "Tunisia",
+        "Morocco",
+        "Algeria",
+        "Libya"
+      ],
+      "correct": 0,
+      "explanation": "Habib Bourguiba led Tunisia's independence movement and the country gained independence from France on 20 March 1956. He became its first President.",
+      "tags": []
+    },
+    {
+      "id": "explor-017",
+      "q": "Libya got independence in 1951 under the leadership of?",
+      "options": [
+        "King Idris",
+        "Muammar Gaddafi",
+        "Omar al-Mukhtar",
+        "Mustafa Ben Halim"
+      ],
+      "correct": 0,
+      "explanation": "Libya gained independence on 24 December 1951 under King Idris I, becoming the first North African country to gain independence after WWII.",
+      "tags": []
+    },
+    {
+      "id": "explor-018",
+      "q": "Who discovered the sea route to India?",
+      "options": [
+        "Vasco da Gama",
+        "Christopher Columbus",
+        "Ferdinand Magellan",
+        "Marco Polo"
+      ],
+      "correct": 0,
+      "explanation": "Vasco da Gama, a Portuguese explorer, discovered the sea route to India by sailing around Africa's Cape of Good Hope, reaching Calicut on 20 May 1498.",
+      "tags": []
+    },
+    {
+      "id": "explor-019",
+      "q": "Vasco da Gama was a native of?",
+      "options": [
+        "Portugal",
+        "Spain",
+        "Italy",
+        "France"
+      ],
+      "correct": 0,
+      "explanation": "Vasco da Gama (c. 1460-1524) was a Portuguese explorer and the first European to reach India by sea, opening Portugal's Asian trade empire.",
+      "tags": []
+    },
+    {
+      "id": "explor-020",
+      "q": "Ibn Battuta, the famous Muslim explorer, belonged to?",
+      "options": [
+        "Morocco",
+        "Egypt",
+        "Iraq",
+        "Syria"
+      ],
+      "correct": 0,
+      "explanation": "Ibn Battuta (1304-1369) was born in Tangier, Morocco. He traveled approximately 117,000 km across the medieval Muslim world over 30 years.",
+      "tags": []
+    },
+    {
+      "id": "explor-021",
+      "q": "Vasco da Gama reached India in?",
+      "options": [
+        "1498",
+        "1492",
+        "1500",
+        "1510"
+      ],
+      "correct": 0,
+      "explanation": "Vasco da Gama reached Calicut (Kozhikode) on India's Malabar Coast on 20 May 1498, completing the first European sea voyage to India.",
+      "tags": []
+    },
+    {
+      "id": "explor-022",
+      "q": "Algeria got independence from France in?",
+      "options": [
+        "1962",
+        "1956",
+        "1960",
+        "1958"
+      ],
+      "correct": 0,
+      "explanation": "Algeria gained independence on 5 July 1962 after an 8-year war (1954-1962) led by the National Liberation Front (FLN).",
+      "tags": []
+    },
+    {
+      "id": "explor-023",
+      "q": "Ahmed Ben Bella was an Algerian?",
+      "options": [
+        "Freedom fighter and first President",
+        "Journalist",
+        "Religious scholar",
+        "Military commander only"
+      ],
+      "correct": 0,
+      "explanation": "Ahmed Ben Bella was both a freedom fighter during the Algerian War and became Algeria's first President (1963-1965) after independence.",
+      "tags": []
+    },
+    {
+      "id": "explor-024",
+      "q": "Cyprus gained independence from the United Kingdom on?",
+      "options": [
+        "August 16, 1960",
+        "May 15, 1948",
+        "July 14, 1947",
+        "October 26, 1955"
+      ],
+      "correct": 0,
+      "explanation": "Cyprus gained independence from Britain on 16 August 1960 under the Zurich and London Agreements, with Archbishop Makarios III as first President.",
+      "tags": []
+    },
+    {
+      "id": "explor-025",
+      "q": "The Hashemite Kingdom of Jordan was established in 1946 by?",
+      "options": [
+        "Abdallah I",
+        "Hussein I",
+        "Abdallah II",
+        "Faisal I"
+      ],
+      "correct": 0,
+      "explanation": "Jordan (Hashemite Kingdom) was established on 25 May 1946 by King Abdullah I, after gaining independence from the British Mandate.",
+      "tags": []
+    },
+    {
+      "id": "explor-026",
+      "q": "Jamal ud-Din al-Afghani was known for?",
+      "options": [
+        "Stance against British imperialism",
+        "Islamic poetry only",
+        "Ottoman reforms",
+        "Persian diplomacy"
+      ],
+      "correct": 0,
+      "explanation": "Jamal ud-Din al-Afghani (1838-1897) was a Pan-Islamic activist and political thinker who strongly opposed British imperialism and called for Muslim unity against colonialism.",
+      "tags": []
+    },
+    {
+      "id": "explor-027",
+      "q": "Christopher Columbus reached the Americas in?",
+      "options": [
+        "1492",
+        "1488",
+        "1498",
+        "1500"
+      ],
+      "correct": 0,
+      "explanation": "Christopher Columbus reached the Americas on 12 October 1492 under Spanish patronage of Ferdinand and Isabella, initiating European colonization of the New World.",
+      "tags": []
+    },
+    {
+      "id": "explor-028",
+      "q": "Who was the first European to circumnavigate the world?",
+      "options": [
+        "Ferdinand Magellan's expedition",
+        "Christopher Columbus",
+        "Vasco da Gama",
+        "Marco Polo"
+      ],
+      "correct": 0,
+      "explanation": "Ferdinand Magellan (Portuguese, serving Spain) led the first expedition to circumnavigate the world (1519-1522), though he died in the Philippines before completion.",
+      "tags": []
+    },
+    {
+      "id": "explor-029",
+      "q": "The Treaty of Tordesillas (1494) divided the New World between?",
+      "options": [
+        "Spain and Portugal",
+        "England and France",
+        "Spain and England",
+        "Portugal and France"
+      ],
+      "correct": 0,
+      "explanation": "The Treaty of Tordesillas (1494) divided newly discovered lands outside Europe between Spain and Portugal along a meridian 370 leagues west of Cape Verde.",
+      "tags": []
+    },
+    {
+      "id": "explor-030",
+      "q": "Which continent was called the 'Dark Continent' during European imperialism?",
+      "options": [
+        "Africa",
+        "Asia",
+        "South America",
+        "Australia"
+      ],
+      "correct": 0,
+      "explanation": "Africa was called the 'Dark Continent' by 19th-century Europeans, reflecting Western ignorance of its interior before colonial exploration.",
+      "tags": []
+    },
+    {
+      "id": "explor-031",
+      "q": "The Scramble for Africa was largely settled at?",
+      "options": [
+        "Berlin Conference 1884-85",
+        "Congress of Vienna",
+        "Treaty of Versailles",
+        "Yalta Conference"
+      ],
+      "correct": 0,
+      "explanation": "The Berlin Conference (1884-1885), chaired by Otto von Bismarck, regulated European colonization of Africa and formalized the 'Scramble for Africa'.",
+      "tags": []
+    },
+    {
+      "id": "explor-032",
+      "q": "India gained independence from Britain in?",
+      "options": [
+        "1947",
+        "1950",
+        "1945",
+        "1948"
+      ],
+      "correct": 0,
+      "explanation": "India gained independence from British rule on 15 August 1947, along with the partition that created Pakistan on 14 August 1947.",
+      "tags": []
+    },
+    {
+      "id": "explor-033",
+      "q": "The British East India Company was founded in?",
+      "options": [
+        "1600",
+        "1500",
+        "1700",
+        "1657"
+      ],
+      "correct": 0,
+      "explanation": "The British East India Company was founded on 31 December 1600 by Queen Elizabeth I, and ruled large parts of India from 1757 to 1858.",
+      "tags": []
+    },
+    {
+      "id": "explor-034",
+      "q": "The Battle of Plassey (1757) established British rule in?",
+      "options": [
+        "Bengal (India)",
+        "Burma",
+        "Ceylon",
+        "Malaya"
+      ],
+      "correct": 0,
+      "explanation": "The Battle of Plassey (23 June 1757) established British East India Company rule in Bengal after Robert Clive defeated Siraj ud-Daulah, starting British rule in India.",
+      "tags": []
+    },
+    {
+      "id": "explor-035",
+      "q": "The Dutch colonized which major Asian country?",
+      "options": [
+        "Indonesia",
+        "India",
+        "China",
+        "Japan"
+      ],
+      "correct": 0,
+      "explanation": "The Dutch colonized Indonesia (Dutch East Indies) for about 350 years (1602-1949). Indonesia proclaimed independence on 17 August 1945.",
+      "tags": []
+    },
+    {
+      "id": "explor-036",
+      "q": "The 'Scramble for Africa' took place primarily between?",
+      "options": [
+        "1880-1914",
+        "1800-1850",
+        "1920-1950",
+        "1950-1980"
+      ],
+      "correct": 0,
+      "explanation": "The Scramble for Africa (or Partition of Africa) took place primarily between 1881 and 1914, ending with European powers controlling 90% of Africa.",
+      "tags": []
+    },
+    {
+      "id": "explor-037",
+      "q": "Kwame Nkrumah led which country to independence?",
+      "options": [
+        "Ghana",
+        "Kenya",
+        "Nigeria",
+        "South Africa"
+      ],
+      "correct": 0,
+      "explanation": "Kwame Nkrumah led Ghana (formerly Gold Coast) to independence from Britain on 6 March 1957, becoming its first Prime Minister and later President.",
+      "tags": []
+    },
+    {
+      "id": "explor-038",
+      "q": "Which European country colonized the Philippines first?",
+      "options": [
+        "Spain",
+        "Portugal",
+        "United States",
+        "Netherlands"
+      ],
+      "correct": 0,
+      "explanation": "Spain colonized the Philippines from 1565 to 1898 (333 years). The Philippines then came under US rule (1898-1946) after the Spanish-American War.",
+      "tags": []
+    },
+    {
+      "id": "explor-039",
+      "q": "Brazil was colonized by?",
+      "options": [
+        "Portugal",
+        "Spain",
+        "France",
+        "Britain"
+      ],
+      "correct": 0,
+      "explanation": "Brazil was colonized by Portugal from 1500 (Pedro Alvares Cabral's arrival) until its independence in 1822, becoming the largest Portuguese-speaking country.",
+      "tags": []
+    },
+    {
+      "id": "explor-040",
+      "q": "Which European power colonized Vietnam?",
+      "options": [
+        "France",
+        "Britain",
+        "Netherlands",
+        "Portugal"
+      ],
+      "correct": 0,
+      "explanation": "France colonized Vietnam as part of French Indochina from the mid-19th century until 1954, when the French were defeated at Dien Bien Phu.",
+      "tags": []
+    },
+    {
+      "id": "explor-041",
+      "q": "The 'Triangular Trade' involved which three regions?",
+      "options": [
+        "Europe, Africa, Americas",
+        "Asia, Europe, Africa",
+        "Europe, Asia, Americas",
+        "Africa, Asia, Americas"
+      ],
+      "correct": 0,
+      "explanation": "The Triangular Trade (16th-19th centuries) involved European manufactured goods to Africa, enslaved Africans to the Americas, and American raw materials (sugar, cotton, tobacco) to Europe.",
+      "tags": []
+    },
+    {
+      "id": "explor-042",
+      "q": "Which company ruled India before the British Crown took over in 1858?",
+      "options": [
+        "British East India Company",
+        "Dutch East India Company",
+        "French East India Company",
+        "Hudson's Bay Company"
+      ],
+      "correct": 0,
+      "explanation": "The British East India Company ruled parts of India from 1757 to 1858, when the British Crown took direct control after the Indian Rebellion of 1857.",
+      "tags": []
+    },
+    {
+      "id": "explor-043",
+      "q": "Columbus sailed under the patronage of?",
+      "options": [
+        "Spain (Ferdinand and Isabella)",
+        "Portugal",
+        "England",
+        "France"
+      ],
+      "correct": 0,
+      "explanation": "Christopher Columbus sailed under the patronage of Spain's Catholic Monarchs Ferdinand and Isabella in 1492, reaching the Caribbean on 12 October.",
+      "tags": []
+    },
+    {
+      "id": "explor-044",
+      "q": "The United States purchased Alaska from Russia in?",
+      "options": [
+        "1867",
+        "1776",
+        "1898",
+        "1912"
+      ],
+      "correct": 0,
+      "explanation": "The United States purchased Alaska from Russia in 1867 for $7.2 million, a transaction known as the Alaska Purchase or 'Seward's Folly'.",
+      "tags": []
+    },
+    {
+      "id": "explor-045",
+      "q": "The French colonized which major North African country for 132 years?",
+      "options": [
+        "Algeria",
+        "Morocco",
+        "Tunisia",
+        "Egypt"
+      ],
+      "correct": 0,
+      "explanation": "France colonized Algeria for 132 years, from 1830 until independence on 5 July 1962.",
+      "tags": []
+    },
+    {
+      "id": "explor-046",
+      "q": "Morocco gained independence from France in?",
+      "options": [
+        "1956",
+        "1962",
+        "1960",
+        "1952"
+      ],
+      "correct": 0,
+      "explanation": "Morocco gained independence from France on 2 March 1956, under Sultan Mohammed V (later King).",
+      "tags": []
+    },
+    {
+      "id": "explor-047",
+      "q": "Egypt gained independence from British influence in?",
+      "options": [
+        "1922",
+        "1952",
+        "1956",
+        "1947"
+      ],
+      "correct": 0,
+      "explanation": "Egypt was nominally independent from Britain in 1922, but full sovereignty came after the 1952 revolution led by Gamal Abdel Nasser.",
+      "tags": []
+    },
+    {
+      "id": "explor-048",
+      "q": "The 'White Man's Burden' was a poem by?",
+      "options": [
+        "Rudyard Kipling",
+        "Charles Dickens",
+        "William Shakespeare",
+        "T.S. Eliot"
+      ],
+      "correct": 0,
+      "explanation": "'The White Man's Burden' (1899) by Rudyard Kipling epitomized the imperialist ideology of 'civilizing mission' behind European colonization.",
+      "tags": []
+    },
+    {
+      "id": "explor-049",
+      "q": "The primary colonial power in South East Asia by early 20th century was?",
+      "options": [
+        "Britain, France, Netherlands",
+        "Spain",
+        "Portugal",
+        "Italy"
+      ],
+      "correct": 0,
+      "explanation": "By early 20th century, Britain (Burma, Malaya, Singapore), France (Vietnam, Laos, Cambodia), and the Netherlands (Indonesia) were the main colonizers of Southeast Asia.",
+      "tags": []
+    },
+    {
+      "id": "explor-050",
+      "q": "Who completed the first European sea voyage to India around Africa?",
+      "options": [
+        "Vasco da Gama",
+        "Bartolomeu Dias",
+        "Ferdinand Magellan",
+        "Christopher Columbus"
+      ],
+      "correct": 0,
+      "explanation": "Vasco da Gama completed the first European sea voyage to India around Africa in 1497-1499, though Bartolomeu Dias rounded the Cape of Good Hope earlier in 1488.",
+      "tags": []
+    },
+    {
+      "id": "explor-051",
+      "q": "The term 'Reconquista' refers to?",
+      "options": [
+        "Christian reconquest of Spain from Muslims",
+        "Roman reconquest of Italy",
+        "Byzantine reconquest of Constantinople",
+        "French reconquest of Algeria"
+      ],
+      "correct": 0,
+      "explanation": "The Reconquista (722-1492) was the centuries-long Christian reconquest of the Iberian Peninsula from Muslim rule, ending with the fall of Granada in 1492.",
+      "tags": []
+    },
+    {
+      "id": "explor-052",
+      "q": "The Spanish expelled all Jews and Muslims from Spain in?",
+      "options": [
+        "1492",
+        "1453",
+        "1500",
+        "1550"
+      ],
+      "correct": 0,
+      "explanation": "Spain expelled Jews in March 1492 (Alhambra Decree) and Muslims gradually after the fall of Granada in January 1492 and subsequent decrees.",
+      "tags": []
+    },
+    {
+      "id": "explor-053",
+      "q": "The Mercantile system was the economic policy of?",
+      "options": [
+        "European colonial powers",
+        "Medieval Islamic empires",
+        "Ancient Rome",
+        "Ming Dynasty"
+      ],
+      "correct": 0,
+      "explanation": "Mercantilism was the dominant economic policy of European colonial powers (16th-18th centuries), focused on accumulating gold/silver and maintaining favorable trade balances through colonies.",
+      "tags": []
+    },
+    {
+      "id": "explor-054",
+      "q": "Pakistan gained independence from Britain on?",
+      "options": [
+        "14 August 1947",
+        "15 August 1947",
+        "23 March 1940",
+        "6 September 1965"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan gained independence from British rule on 14 August 1947, a day before India's independence on 15 August 1947.",
+      "tags": []
+    },
+    {
+      "id": "explor-055",
+      "q": "Kenya gained independence from Britain in?",
+      "options": [
+        "1963",
+        "1957",
+        "1960",
+        "1965"
+      ],
+      "correct": 0,
+      "explanation": "Kenya gained independence from Britain on 12 December 1963 under Jomo Kenyatta, who became its first Prime Minister and later President.",
+      "tags": []
+    },
+    {
+      "id": "explor-056",
+      "q": "The Suez Crisis of 1956 involved British, French, and Israeli attack on?",
+      "options": [
+        "Egypt",
+        "Syria",
+        "Iraq",
+        "Jordan"
+      ],
+      "correct": 0,
+      "explanation": "The Suez Crisis (October-November 1956) saw Britain, France, and Israel invade Egypt after President Nasser nationalized the Suez Canal. US pressure forced their withdrawal.",
+      "tags": []
+    },
+    {
+      "id": "explor-057",
+      "q": "Who was the Portuguese explorer that rounded the Cape of Good Hope in 1488?",
+      "options": [
+        "Bartolomeu Dias",
+        "Vasco da Gama",
+        "Pedro Cabral",
+        "Ferdinand Magellan"
+      ],
+      "correct": 0,
+      "explanation": "Bartolomeu Dias rounded the Cape of Good Hope in 1488, opening the sea route around Africa that Vasco da Gama used to reach India ten years later.",
+      "tags": []
+    },
+    {
+      "id": "explor-058",
+      "q": "The Columbian Exchange refers to?",
+      "options": [
+        "Transfer of plants, animals, diseases between Old and New Worlds",
+        "Spanish-Portuguese treaty",
+        "Dutch-British trade agreement",
+        "Trans-Atlantic slave trade only"
+      ],
+      "correct": 0,
+      "explanation": "The Columbian Exchange was the widespread transfer of plants, animals, culture, and diseases between the Americas (New World) and Afro-Eurasia (Old World) following Columbus's 1492 voyage.",
+      "tags": []
+    },
+    {
+      "id": "explor-059",
+      "q": "The United States declared independence from Britain on?",
+      "options": [
+        "4 July 1776",
+        "14 July 1789",
+        "1 January 1863",
+        "11 November 1918"
+      ],
+      "correct": 0,
+      "explanation": "The US Declaration of Independence was adopted on 4 July 1776 by the Second Continental Congress in Philadelphia, marking American independence from Britain.",
+      "tags": []
+    },
+    {
+      "id": "explor-060",
+      "q": "The Russian Empire colonized which region extensively in the 19th century?",
+      "options": [
+        "Central Asia",
+        "Sub-Saharan Africa",
+        "South America",
+        "Southeast Asia"
+      ],
+      "correct": 0,
+      "explanation": "The Russian Empire colonized Central Asia (Turkestan, including modern Kazakhstan, Uzbekistan, Turkmenistan, Tajikistan, Kyrgyzstan) extensively in the 19th century.",
+      "tags": []
+    },
+    {
+      "id": "explor-061",
+      "q": "Belgium colonized which major African country?",
+      "options": [
+        "Congo (DRC)",
+        "Nigeria",
+        "Sudan",
+        "Morocco"
+      ],
+      "correct": 0,
+      "explanation": "Belgium colonized the Congo (modern Democratic Republic of the Congo) from 1885 (Belgian Congo) until independence in 1960. King Leopold II's rule (1885-1908) was especially brutal.",
+      "tags": []
+    },
+    {
+      "id": "explor-062",
+      "q": "Pedro Alvares Cabral discovered which country for Portugal in 1500?",
+      "options": [
+        "Brazil",
+        "India",
+        "Ethiopia",
+        "Angola"
+      ],
+      "correct": 0,
+      "explanation": "Pedro Alvares Cabral, a Portuguese navigator, discovered Brazil on 22 April 1500, claiming it for Portugal and beginning Portuguese colonization of South America.",
+      "tags": []
+    },
+    {
+      "id": "explor-063",
+      "q": "The 'Great Trek' refers to?",
+      "options": [
+        "Dutch Boer migration in South Africa 1830s-40s",
+        "American westward expansion",
+        "Mongol invasions",
+        "Russian expansion to Siberia"
+      ],
+      "correct": 0,
+      "explanation": "The Great Trek (1836-1846) was the eastward migration of Dutch-descended Voortrekkers (Boers) in South Africa away from British rule in the Cape Colony.",
+      "tags": []
+    },
+    {
+      "id": "explor-064",
+      "q": "Who was the 'Lion of Panjshir' and resistance leader against Soviet occupation?",
+      "options": [
+        "Ahmad Shah Massoud",
+        "Abdul Haq",
+        "Gulbuddin Hekmatyar",
+        "Burhanuddin Rabbani"
+      ],
+      "correct": 0,
+      "explanation": "Ahmad Shah Massoud, known as the 'Lion of Panjshir', led Afghan resistance against Soviet occupation and later the Taliban. He was assassinated on 9 September 2001.",
+      "tags": []
+    },
+    {
+      "id": "explor-065",
+      "q": "The term 'colonialism' generally refers to?",
+      "options": [
+        "Direct political control and settlement by foreign power",
+        "Trade relations only",
+        "Military alliances",
+        "Religious conversion missions"
+      ],
+      "correct": 0,
+      "explanation": "Colonialism is the policy of a country seeking to extend its authority over other territories, often through settlement, political control, and economic exploitation.",
+      "tags": []
+    },
+    {
+      "id": "explor-066",
+      "q": "Indonesia declared independence from Dutch rule on?",
+      "options": [
+        "17 August 1945",
+        "27 December 1949",
+        "15 August 1947",
+        "1 October 1949"
+      ],
+      "correct": 0,
+      "explanation": "Indonesia declared independence on 17 August 1945, under Sukarno. Dutch recognition came in 1949 after the Indonesian National Revolution.",
+      "tags": []
+    },
+    {
+      "id": "explor-067",
+      "q": "The Mau Mau uprising was a resistance movement in?",
+      "options": [
+        "Kenya against British rule",
+        "Algeria against French rule",
+        "Congo against Belgian rule",
+        "Vietnam against French rule"
+      ],
+      "correct": 0,
+      "explanation": "The Mau Mau uprising (1952-1960) was an armed rebellion by the Kikuyu people in Kenya against British colonial rule, contributing to independence in 1963.",
+      "tags": []
+    },
+    {
+      "id": "explor-068",
+      "q": "Which country was never fully colonized by Europeans in Africa?",
+      "options": [
+        "Ethiopia",
+        "Egypt",
+        "Sudan",
+        "Morocco"
+      ],
+      "correct": 0,
+      "explanation": "Ethiopia was the only African country that was never fully colonized by European powers. Italy briefly occupied it (1936-1941) but never established lasting rule.",
+      "tags": []
+    },
+    {
+      "id": "explor-069",
+      "q": "Singapore gained independence in?",
+      "options": [
+        "1965",
+        "1957",
+        "1963",
+        "1947"
+      ],
+      "correct": 0,
+      "explanation": "Singapore gained full independence on 9 August 1965 after separating from the Federation of Malaysia. Lee Kuan Yew became its first Prime Minister.",
+      "tags": []
+    },
+    {
+      "id": "explor-070",
+      "q": "Tanzania was formed by merging?",
+      "options": [
+        "Tanganyika and Zanzibar",
+        "Kenya and Uganda",
+        "Nyasaland and Rhodesia",
+        "Togo and Ghana"
+      ],
+      "correct": 0,
+      "explanation": "Tanzania was formed on 26 April 1964 by merging Tanganyika (independent 1961) and Zanzibar (independent 1963), under Julius Nyerere.",
+      "tags": []
+    }
+  ]
+}

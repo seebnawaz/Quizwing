@@ -1,0 +1,1961 @@
+{
+  "topic_id": "american-history",
+  "topic_name": "American History",
+  "subject": "general-knowledge",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "American History MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🇺🇸",
+  "mcqs": [
+    {
+      "id": "americ-001",
+      "q": "In which year did Christopher Columbus reach the Americas?",
+      "options": [
+        "1492",
+        "1498",
+        "1500",
+        "1488"
+      ],
+      "correct": 0,
+      "explanation": "Christopher Columbus reached the Americas in 1492 under Spanish patronage, initiating European exploration and colonization of the New World.",
+      "tags": []
+    },
+    {
+      "id": "americ-002",
+      "q": "England established its first permanent American colony at?",
+      "options": [
+        "Jamestown, Virginia (1607)",
+        "Plymouth, Massachusetts",
+        "Roanoke, North Carolina",
+        "Salem, Massachusetts"
+      ],
+      "correct": 0,
+      "explanation": "Jamestown, Virginia (1607) was England's first permanent American colony, founded by the Virginia Company of London.",
+      "tags": []
+    },
+    {
+      "id": "americ-003",
+      "q": "The slogan 'No taxation without representation' was the rallying cry of?",
+      "options": [
+        "American colonial resistance",
+        "French Revolution",
+        "Indian independence",
+        "British reforms"
+      ],
+      "correct": 0,
+      "explanation": "'No taxation without representation' became the rallying cry of American colonists protesting British taxation policies without parliamentary representation.",
+      "tags": []
+    },
+    {
+      "id": "americ-004",
+      "q": "The American Revolutionary War began in?",
+      "options": [
+        "1775",
+        "1776",
+        "1783",
+        "1770"
+      ],
+      "correct": 0,
+      "explanation": "The American Revolutionary War began in 1775 with the Battles of Lexington and Concord between Britain and the Thirteen Colonies.",
+      "tags": []
+    },
+    {
+      "id": "americ-005",
+      "q": "Who drafted the US Declaration of Independence?",
+      "options": [
+        "Thomas Jefferson",
+        "George Washington",
+        "Benjamin Franklin",
+        "John Adams"
+      ],
+      "correct": 0,
+      "explanation": "Thomas Jefferson primarily drafted the Declaration of Independence in 1776, reflecting Enlightenment ideas of natural rights and popular sovereignty.",
+      "tags": []
+    },
+    {
+      "id": "americ-006",
+      "q": "The Declaration of Independence was adopted on?",
+      "options": [
+        "4 July 1776",
+        "4 July 1775",
+        "4 July 1783",
+        "14 July 1776"
+      ],
+      "correct": 0,
+      "explanation": "The Declaration of Independence was adopted on 4 July 1776 by the Continental Congress in Philadelphia, marking US independence.",
+      "tags": []
+    },
+    {
+      "id": "americ-007",
+      "q": "The final major surrender of British forces in the Revolutionary War took place at?",
+      "options": [
+        "Yorktown, Virginia (1781)",
+        "Saratoga, New York",
+        "Boston, Massachusetts",
+        "Philadelphia, Pennsylvania"
+      ],
+      "correct": 0,
+      "explanation": "General Charles Cornwallis surrendered to combined American and French forces at Yorktown, Virginia on October 19, 1781.",
+      "tags": []
+    },
+    {
+      "id": "americ-008",
+      "q": "The US state of Texas was formerly known as?",
+      "options": [
+        "The Lone Star Republic",
+        "The Empire State",
+        "The Golden State",
+        "The Bear Republic"
+      ],
+      "correct": 0,
+      "explanation": "Texas was known as the 'Lone Star Republic' during its period of independence from 1836 to 1845 before joining the United States.",
+      "tags": []
+    },
+    {
+      "id": "americ-009",
+      "q": "Who served as Commander-in-Chief of the Continental Army?",
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Benjamin Franklin",
+        "John Adams"
+      ],
+      "correct": 0,
+      "explanation": "George Washington served as Commander-in-Chief of the Continental Army during the American Revolutionary War (1775-1783).",
+      "tags": []
+    },
+    {
+      "id": "americ-010",
+      "q": "Britain formally recognized US independence through?",
+      "options": [
+        "Treaty of Paris (1783)",
+        "Treaty of Versailles",
+        "Treaty of Ghent",
+        "Jay Treaty"
+      ],
+      "correct": 0,
+      "explanation": "The Treaty of Paris (1783) formally ended the American Revolutionary War and recognized the independence of the United States.",
+      "tags": []
+    },
+    {
+      "id": "americ-011",
+      "q": "The King of France who supported the American struggle was?",
+      "options": [
+        "Louis XVI",
+        "Louis XIV",
+        "Louis XV",
+        "Napoleon Bonaparte"
+      ],
+      "correct": 0,
+      "explanation": "King Louis XVI of France provided crucial military and financial support to the American cause against Britain.",
+      "tags": []
+    },
+    {
+      "id": "americ-012",
+      "q": "The US Constitution was framed in which year?",
+      "options": [
+        "1787",
+        "1776",
+        "1789",
+        "1791"
+      ],
+      "correct": 0,
+      "explanation": "The US Constitution was framed at the Constitutional Convention in Philadelphia in 1787, establishing a strong federal system.",
+      "tags": []
+    },
+    {
+      "id": "americ-013",
+      "q": "The US Constitution came into force on?",
+      "options": [
+        "March 4, 1789",
+        "July 4, 1776",
+        "September 17, 1787",
+        "December 15, 1791"
+      ],
+      "correct": 0,
+      "explanation": "The US Constitution came into force on March 4, 1789 and remains the oldest written constitution still in use.",
+      "tags": []
+    },
+    {
+      "id": "americ-014",
+      "q": "George Washington served as the first US President from?",
+      "options": [
+        "1789-1797",
+        "1776-1789",
+        "1787-1797",
+        "1790-1800"
+      ],
+      "correct": 0,
+      "explanation": "George Washington served as the first US President from 1789 to 1797, setting key constitutional precedents.",
+      "tags": []
+    },
+    {
+      "id": "americ-015",
+      "q": "Who was the second US President?",
+      "options": [
+        "John Adams",
+        "Thomas Jefferson",
+        "James Madison",
+        "Benjamin Franklin"
+      ],
+      "correct": 0,
+      "explanation": "John Adams served as the second President of the United States from 1797 to 1801, ensuring peaceful transfer of power.",
+      "tags": []
+    },
+    {
+      "id": "americ-016",
+      "q": "The Bill of Rights was adopted in which year?",
+      "options": [
+        "1791",
+        "1776",
+        "1787",
+        "1789"
+      ],
+      "correct": 0,
+      "explanation": "The Bill of Rights (1791) comprises the first 10 amendments to the US Constitution, guaranteeing fundamental liberties.",
+      "tags": []
+    },
+    {
+      "id": "americ-017",
+      "q": "The Monroe Doctrine was issued in?",
+      "options": [
+        "1823",
+        "1803",
+        "1812",
+        "1848"
+      ],
+      "correct": 0,
+      "explanation": "The Monroe Doctrine (1823) warned European powers against intervention in the Americas and asserted US dominance in the Western Hemisphere.",
+      "tags": []
+    },
+    {
+      "id": "americ-018",
+      "q": "Who is revered for preserving the Union and ending slavery?",
+      "options": [
+        "Abraham Lincoln",
+        "George Washington",
+        "Thomas Jefferson",
+        "Ulysses Grant"
+      ],
+      "correct": 0,
+      "explanation": "Abraham Lincoln is revered for preserving the Union during the Civil War and ending slavery through the Emancipation Proclamation and 13th Amendment.",
+      "tags": []
+    },
+    {
+      "id": "americ-019",
+      "q": "The American Civil War was fought from?",
+      "options": [
+        "1861 to 1865",
+        "1860 to 1864",
+        "1865 to 1870",
+        "1850 to 1860"
+      ],
+      "correct": 0,
+      "explanation": "The American Civil War was fought from 1861 to 1865 between the Union (North) and the Confederate States of America (South).",
+      "tags": []
+    },
+    {
+      "id": "americ-020",
+      "q": "The Confederate States of America consisted of how many seceding states?",
+      "options": [
+        "11",
+        "13",
+        "7",
+        "9"
+      ],
+      "correct": 0,
+      "explanation": "The Confederacy consisted of 11 seceding Southern states. The Union comprised 23 states including 19 free states and 4 border slave states.",
+      "tags": []
+    },
+    {
+      "id": "americ-021",
+      "q": "Lincoln's Emancipation Proclamation was issued in?",
+      "options": [
+        "1863",
+        "1861",
+        "1865",
+        "1864"
+      ],
+      "correct": 0,
+      "explanation": "Lincoln's Emancipation Proclamation (1863) declared freedom for slaves in the Confederate states, transforming the war into a moral struggle against slavery.",
+      "tags": []
+    },
+    {
+      "id": "americ-022",
+      "q": "Which state is called 'The Mother of Presidents'?",
+      "options": [
+        "Virginia",
+        "Massachusetts",
+        "New York",
+        "Ohio"
+      ],
+      "correct": 0,
+      "explanation": "Virginia is called 'The Mother of Presidents' because it has produced the most US Presidents, including Washington, Jefferson, Madison, and Monroe.",
+      "tags": []
+    },
+    {
+      "id": "americ-023",
+      "q": "How many New England states are there?",
+      "options": [
+        "Six",
+        "Five",
+        "Seven",
+        "Four"
+      ],
+      "correct": 0,
+      "explanation": "The six New England states are Maine, Vermont, New Hampshire, Massachusetts, Rhode Island, and Connecticut.",
+      "tags": []
+    },
+    {
+      "id": "americ-024",
+      "q": "Alaska was purchased by the United States from?",
+      "options": [
+        "Russia",
+        "Britain",
+        "France",
+        "Spain"
+      ],
+      "correct": 0,
+      "explanation": "Alaska was purchased by the United States from Russia in 1867 for $7.2 million, a transaction known as the Alaska Purchase.",
+      "tags": []
+    },
+    {
+      "id": "americ-025",
+      "q": "Alaska was purchased in which year?",
+      "options": [
+        "1867",
+        "1776",
+        "1898",
+        "1912"
+      ],
+      "correct": 0,
+      "explanation": "The Alaska Purchase took place in 1867 for $7.2 million. Alaska is the largest US state by area.",
+      "tags": []
+    },
+    {
+      "id": "americ-026",
+      "q": "Silicon Valley is located in which state?",
+      "options": [
+        "California",
+        "Texas",
+        "Washington",
+        "New York"
+      ],
+      "correct": 0,
+      "explanation": "Silicon Valley in California is named for the high-tech and semiconductor industry concentrated in the San Francisco Bay Area.",
+      "tags": []
+    },
+    {
+      "id": "americ-027",
+      "q": "Hollywood, the US film industry hub, is located in?",
+      "options": [
+        "Los Angeles, California",
+        "New York City",
+        "Chicago, Illinois",
+        "Atlanta, Georgia"
+      ],
+      "correct": 0,
+      "explanation": "Hollywood, the US film industry hub, is located in Los Angeles, California and has been synonymous with American cinema since the early 20th century.",
+      "tags": []
+    },
+    {
+      "id": "americ-028",
+      "q": "New York City began as the Dutch colony of?",
+      "options": [
+        "New Amsterdam",
+        "New Holland",
+        "Nieuw York",
+        "Hudson"
+      ],
+      "correct": 0,
+      "explanation": "New York City began as the Dutch colony of New Amsterdam (1625), renamed New York by the English in 1664.",
+      "tags": []
+    },
+    {
+      "id": "americ-029",
+      "q": "The two non-contiguous US states are?",
+      "options": [
+        "Alaska and Hawaii",
+        "Alaska and Texas",
+        "Hawaii and Florida",
+        "Maine and Alaska"
+      ],
+      "correct": 0,
+      "explanation": "Alaska and Hawaii are the only two US states not connected to the contiguous 'Lower 48' states.",
+      "tags": []
+    },
+    {
+      "id": "americ-030",
+      "q": "Which is the most populous US state?",
+      "options": [
+        "California",
+        "Texas",
+        "Florida",
+        "New York"
+      ],
+      "correct": 0,
+      "explanation": "California is the most populous US state with approximately 39 million residents, followed by Texas, Florida, New York, and Pennsylvania.",
+      "tags": []
+    },
+    {
+      "id": "americ-031",
+      "q": "Hawaii joined the Union in?",
+      "options": [
+        "1959",
+        "1945",
+        "1898",
+        "1960"
+      ],
+      "correct": 0,
+      "explanation": "Hawaii became the 50th US state on 21 August 1959, making it the newest state to join the Union.",
+      "tags": []
+    },
+    {
+      "id": "americ-032",
+      "q": "Texas is the second-largest US state by?",
+      "options": [
+        "Both area and population",
+        "Only area",
+        "Only population",
+        "Neither"
+      ],
+      "correct": 0,
+      "explanation": "Texas is the second-largest US state by both area (after Alaska) and population (after California).",
+      "tags": []
+    },
+    {
+      "id": "americ-033",
+      "q": "The smallest US state by area is?",
+      "options": [
+        "Rhode Island",
+        "Delaware",
+        "Connecticut",
+        "Vermont"
+      ],
+      "correct": 0,
+      "explanation": "Rhode Island is the smallest US state by area, covering just 1,545 square miles.",
+      "tags": []
+    },
+    {
+      "id": "americ-034",
+      "q": "The first state to ratify the US Constitution was?",
+      "options": [
+        "Delaware",
+        "Virginia",
+        "Pennsylvania",
+        "New Jersey"
+      ],
+      "correct": 0,
+      "explanation": "Delaware was the first state to ratify the US Constitution on December 7, 1787, earning the nickname 'The First State'.",
+      "tags": []
+    },
+    {
+      "id": "americ-035",
+      "q": "Florida has the longest coastline among?",
+      "options": [
+        "Contiguous states",
+        "All US states",
+        "Only East Coast",
+        "Only Southern states"
+      ],
+      "correct": 0,
+      "explanation": "Florida has the longest coastline among the contiguous US states. Alaska has the longest coastline overall.",
+      "tags": []
+    },
+    {
+      "id": "americ-036",
+      "q": "Which is the only US state composed entirely of islands?",
+      "options": [
+        "Hawaii",
+        "Alaska",
+        "Florida",
+        "Rhode Island"
+      ],
+      "correct": 0,
+      "explanation": "Hawaii is the only US state composed entirely of islands, consisting of 8 main islands in the Pacific Ocean.",
+      "tags": []
+    },
+    {
+      "id": "americ-037",
+      "q": "The United States is a federal republic consisting of how many states?",
+      "options": [
+        "50 states and DC",
+        "48 states and DC",
+        "52 states",
+        "50 states only"
+      ],
+      "correct": 0,
+      "explanation": "The United States is a federal republic consisting of 50 states and the District of Columbia (Washington, D.C.).",
+      "tags": []
+    },
+    {
+      "id": "americ-038",
+      "q": "The President and Vice President are elected for a term of?",
+      "options": [
+        "Four years",
+        "Six years",
+        "Two years",
+        "Five years"
+      ],
+      "correct": 0,
+      "explanation": "The US President and Vice President are elected jointly for a four-year term on a single ticket through the Electoral College.",
+      "tags": []
+    },
+    {
+      "id": "americ-039",
+      "q": "The Electoral College consists of how many electors?",
+      "options": [
+        "538",
+        "535",
+        "100",
+        "270"
+      ],
+      "correct": 0,
+      "explanation": "The Electoral College consists of 538 electors (435 House + 100 Senate + 3 DC), with 270 votes required to win the presidency.",
+      "tags": []
+    },
+    {
+      "id": "americ-040",
+      "q": "How many electoral votes are needed to win the US presidency?",
+      "options": [
+        "270",
+        "250",
+        "300",
+        "538"
+      ],
+      "correct": 0,
+      "explanation": "A US presidential candidate needs 270 electoral votes out of 538 total to win the presidency.",
+      "tags": []
+    },
+    {
+      "id": "americ-041",
+      "q": "The US House of Representatives serves a term of?",
+      "options": [
+        "Two years",
+        "Four years",
+        "Six years",
+        "One year"
+      ],
+      "correct": 0,
+      "explanation": "The US House of Representatives is elected for a two-year term, making it the most frequently elected federal body.",
+      "tags": []
+    },
+    {
+      "id": "americ-042",
+      "q": "The US Senate term is?",
+      "options": [
+        "Six years",
+        "Four years",
+        "Two years",
+        "Eight years"
+      ],
+      "correct": 0,
+      "explanation": "The US Senate has a six-year term, with one-third of seats contested every two years (staggered elections).",
+      "tags": []
+    },
+    {
+      "id": "americ-043",
+      "q": "The US Congress meets in?",
+      "options": [
+        "Capitol Building, Washington DC",
+        "White House",
+        "Pentagon",
+        "Supreme Court"
+      ],
+      "correct": 0,
+      "explanation": "The US Congress meets in the Capitol Building on Capitol Hill, Washington, D.C., which houses the legislative branch.",
+      "tags": []
+    },
+    {
+      "id": "americ-044",
+      "q": "The official residence of the US President is?",
+      "options": [
+        "The White House",
+        "The Capitol",
+        "The Pentagon",
+        "Camp David"
+      ],
+      "correct": 0,
+      "explanation": "The White House is the official residence and principal workplace of the US President, located in Washington, D.C.",
+      "tags": []
+    },
+    {
+      "id": "americ-045",
+      "q": "The Pentagon is located in?",
+      "options": [
+        "Arlington, Virginia",
+        "Washington, DC",
+        "Manhattan, NY",
+        "Los Angeles, CA"
+      ],
+      "correct": 0,
+      "explanation": "The Pentagon in Arlington, Virginia serves as the headquarters of the US Department of Defense.",
+      "tags": []
+    },
+    {
+      "id": "americ-046",
+      "q": "The United States operates under which system?",
+      "options": [
+        "Presidential system",
+        "Parliamentary system",
+        "Hybrid system",
+        "Semi-presidential system"
+      ],
+      "correct": 0,
+      "explanation": "The United States operates under a presidential system, where the President serves as both Head of State and Head of Government.",
+      "tags": []
+    },
+    {
+      "id": "americ-047",
+      "q": "The US has a long-standing political system dominated by?",
+      "options": [
+        "Two parties",
+        "Three parties",
+        "One party",
+        "Multi-party"
+      ],
+      "correct": 0,
+      "explanation": "The US has a long-standing two-party system dominated by the Democratic Party and the Republican Party.",
+      "tags": []
+    },
+    {
+      "id": "americ-048",
+      "q": "The Democratic Party traces its roots to?",
+      "options": [
+        "1792",
+        "1854",
+        "1776",
+        "1820"
+      ],
+      "correct": 0,
+      "explanation": "The Democratic Party traces its roots to 1792, linked to Thomas Jefferson's political movement (Democratic-Republicans).",
+      "tags": []
+    },
+    {
+      "id": "americ-049",
+      "q": "The Republican Party was formally organized in?",
+      "options": [
+        "1854",
+        "1792",
+        "1861",
+        "1820"
+      ],
+      "correct": 0,
+      "explanation": "The Republican Party emerged from the anti-slavery movement and was formally organized in 1854.",
+      "tags": []
+    },
+    {
+      "id": "americ-050",
+      "q": "Who was the first Republican US President?",
+      "options": [
+        "Abraham Lincoln",
+        "Ulysses Grant",
+        "Theodore Roosevelt",
+        "Rutherford Hayes"
+      ],
+      "correct": 0,
+      "explanation": "Abraham Lincoln became the first Republican President in 1861, leading the Union through the Civil War.",
+      "tags": []
+    },
+    {
+      "id": "americ-051",
+      "q": "The US President serves as?",
+      "options": [
+        "Head of State, Head of Government, and Commander-in-Chief",
+        "Only Head of State",
+        "Only Head of Government",
+        "Only Commander-in-Chief"
+      ],
+      "correct": 0,
+      "explanation": "The US President serves as Head of State, Head of Government, and Commander-in-Chief of the armed forces.",
+      "tags": []
+    },
+    {
+      "id": "americ-052",
+      "q": "The US Vice President serves as?",
+      "options": [
+        "President of the Senate",
+        "Speaker of the House",
+        "Chief Justice",
+        "Secretary of State"
+      ],
+      "correct": 0,
+      "explanation": "The Vice President serves as President of the Senate and casts tie-breaking votes.",
+      "tags": []
+    },
+    {
+      "id": "americ-053",
+      "q": "The US judiciary is headed by?",
+      "options": [
+        "The Supreme Court",
+        "The Court of Appeals",
+        "The Federal Court",
+        "The Chief Justice"
+      ],
+      "correct": 0,
+      "explanation": "The US judiciary is headed by the Supreme Court, the highest court in the country.",
+      "tags": []
+    },
+    {
+      "id": "americ-054",
+      "q": "Federal judges in the US serve for?",
+      "options": [
+        "Life tenure",
+        "Ten years",
+        "Eight years",
+        "Six years"
+      ],
+      "correct": 0,
+      "explanation": "Federal judges are appointed for life tenure, subject to good behavior, protecting judicial independence.",
+      "tags": []
+    },
+    {
+      "id": "americ-055",
+      "q": "US presidential elections are held on?",
+      "options": [
+        "First Tuesday after first Monday in November",
+        "First Monday in November",
+        "Last Tuesday in October",
+        "First Wednesday in November"
+      ],
+      "correct": 0,
+      "explanation": "US presidential elections are held every four years on the first Tuesday after the first Monday in November.",
+      "tags": []
+    },
+    {
+      "id": "americ-056",
+      "q": "California has how many electoral votes?",
+      "options": [
+        "54",
+        "55",
+        "45",
+        "50"
+      ],
+      "correct": 0,
+      "explanation": "California has the largest number of electoral votes (54), reflecting its status as the most populous state.",
+      "tags": []
+    },
+    {
+      "id": "americ-057",
+      "q": "The District of Columbia has how many electoral votes?",
+      "options": [
+        "3",
+        "0",
+        "1",
+        "5"
+      ],
+      "correct": 0,
+      "explanation": "The District of Columbia has 3 electoral votes under the 23rd Amendment (ratified 1961).",
+      "tags": []
+    },
+    {
+      "id": "americ-058",
+      "q": "The US President-elect is inaugurated on?",
+      "options": [
+        "January 20",
+        "January 1",
+        "December 25",
+        "March 4"
+      ],
+      "correct": 0,
+      "explanation": "The US President-elect is inaugurated on January 20, following the 20th Amendment (ratified 1933).",
+      "tags": []
+    },
+    {
+      "id": "americ-059",
+      "q": "If no candidate wins 270 electoral votes, the President is elected by?",
+      "options": [
+        "House of Representatives",
+        "Senate",
+        "Supreme Court",
+        "Electoral College runoff"
+      ],
+      "correct": 0,
+      "explanation": "If no candidate wins 270 electoral votes, the House of Representatives elects the President, with each state delegation casting one vote.",
+      "tags": []
+    },
+    {
+      "id": "americ-060",
+      "q": "Voting eligibility in the US requires minimum age of?",
+      "options": [
+        "18 years",
+        "21 years",
+        "25 years",
+        "16 years"
+      ],
+      "correct": 0,
+      "explanation": "Voting eligibility in the US requires US citizenship, 18 years of age (26th Amendment, 1971), and state registration.",
+      "tags": []
+    },
+    {
+      "id": "americ-061",
+      "q": "Who was the 16th US President?",
+      "options": [
+        "Abraham Lincoln",
+        "James Madison",
+        "Andrew Jackson",
+        "Theodore Roosevelt"
+      ],
+      "correct": 0,
+      "explanation": "Abraham Lincoln was the 16th US President (1861-1865), who abolished slavery and defined democracy as 'government of the people, by the people, for the people'.",
+      "tags": []
+    },
+    {
+      "id": "americ-062",
+      "q": "Who was the US President during World War I?",
+      "options": [
+        "Woodrow Wilson",
+        "Franklin D. Roosevelt",
+        "Theodore Roosevelt",
+        "Herbert Hoover"
+      ],
+      "correct": 0,
+      "explanation": "Woodrow Wilson was the US President during World War I (1913-1921) and presented the Fourteen Points for peace.",
+      "tags": []
+    },
+    {
+      "id": "americ-063",
+      "q": "Who was the youngest elected US President?",
+      "options": [
+        "John F. Kennedy",
+        "Theodore Roosevelt",
+        "Bill Clinton",
+        "Barack Obama"
+      ],
+      "correct": 0,
+      "explanation": "John F. Kennedy was the youngest elected US President (1961-1963), inaugurated at age 43. Theodore Roosevelt was the youngest to assume office at age 42.",
+      "tags": []
+    },
+    {
+      "id": "americ-064",
+      "q": "Which US President resigned from office?",
+      "options": [
+        "Richard Nixon",
+        "Andrew Johnson",
+        "Bill Clinton",
+        "Gerald Ford"
+      ],
+      "correct": 0,
+      "explanation": "Richard Nixon was the only US President to resign, stepping down on 9 August 1974 after the Watergate scandal.",
+      "tags": []
+    },
+    {
+      "id": "americ-065",
+      "q": "Who became US President by succession without ever being elected?",
+      "options": [
+        "Gerald Ford",
+        "Lyndon B. Johnson",
+        "Harry Truman",
+        "Andrew Johnson"
+      ],
+      "correct": 0,
+      "explanation": "Gerald Ford (1974-1977) was the only US President never elected as either President or Vice President.",
+      "tags": []
+    },
+    {
+      "id": "americ-066",
+      "q": "Ronald Reagan was which US President?",
+      "options": [
+        "40th",
+        "38th",
+        "42nd",
+        "39th"
+      ],
+      "correct": 0,
+      "explanation": "Ronald Reagan (40th US President, 1981-1989) was a Hollywood actor before entering politics.",
+      "tags": []
+    },
+    {
+      "id": "americ-067",
+      "q": "Which US President led America during the Great Depression and WWII?",
+      "options": [
+        "Franklin D. Roosevelt",
+        "Harry Truman",
+        "Herbert Hoover",
+        "Woodrow Wilson"
+      ],
+      "correct": 0,
+      "explanation": "Franklin D. Roosevelt (1933-1945) led the US during the Great Depression and World War II, serving four terms — the longest presidency.",
+      "tags": []
+    },
+    {
+      "id": "americ-068",
+      "q": "Who ordered the use of atomic bombs during WWII?",
+      "options": [
+        "Harry S. Truman",
+        "Franklin D. Roosevelt",
+        "Dwight Eisenhower",
+        "Douglas MacArthur"
+      ],
+      "correct": 0,
+      "explanation": "Harry S. Truman ordered the atomic bombings of Hiroshima and Nagasaki in August 1945, ending World War II.",
+      "tags": []
+    },
+    {
+      "id": "americ-069",
+      "q": "Dwight D. Eisenhower was previously the?",
+      "options": [
+        "Supreme Allied Commander in WWII",
+        "Secretary of State",
+        "General in Vietnam",
+        "Navy Admiral"
+      ],
+      "correct": 0,
+      "explanation": "Dwight D. Eisenhower was the Supreme Allied Commander in Europe during WWII before becoming the 34th US President (1953-1961).",
+      "tags": []
+    },
+    {
+      "id": "americ-070",
+      "q": "Andrew Jackson's informal cabinet was known as?",
+      "options": [
+        "The Kitchen Cabinet",
+        "The Shadow Council",
+        "The Inner Circle",
+        "The Privy Cabinet"
+      ],
+      "correct": 0,
+      "explanation": "Andrew Jackson's informal group of advisors was known as the 'Kitchen Cabinet' because they allegedly met in the White House kitchen.",
+      "tags": []
+    },
+    {
+      "id": "americ-071",
+      "q": "Thomas Jefferson doubled US territory through?",
+      "options": [
+        "Louisiana Purchase",
+        "Gadsden Purchase",
+        "Alaska Purchase",
+        "Texas Annexation"
+      ],
+      "correct": 0,
+      "explanation": "Thomas Jefferson (3rd President) doubled US territory through the Louisiana Purchase from France in 1803 for $15 million.",
+      "tags": []
+    },
+    {
+      "id": "americ-072",
+      "q": "Lincoln was assassinated by?",
+      "options": [
+        "John Wilkes Booth",
+        "Leon Czolgosz",
+        "Charles Guiteau",
+        "Lee Harvey Oswald"
+      ],
+      "correct": 0,
+      "explanation": "Abraham Lincoln was assassinated by John Wilkes Booth at Ford's Theatre in Washington, D.C. on April 14, 1865.",
+      "tags": []
+    },
+    {
+      "id": "americ-073",
+      "q": "How many US Presidents have been assassinated?",
+      "options": [
+        "Four",
+        "Three",
+        "Five",
+        "Two"
+      ],
+      "correct": 0,
+      "explanation": "Four US Presidents were assassinated: Lincoln (1865), Garfield (1881), McKinley (1901), and Kennedy (1963).",
+      "tags": []
+    },
+    {
+      "id": "americ-074",
+      "q": "President John F. Kennedy was assassinated by?",
+      "options": [
+        "Lee Harvey Oswald",
+        "John Wilkes Booth",
+        "Charles Guiteau",
+        "Leon Czolgosz"
+      ],
+      "correct": 0,
+      "explanation": "President John F. Kennedy was assassinated by Lee Harvey Oswald in Dallas, Texas on November 22, 1963.",
+      "tags": []
+    },
+    {
+      "id": "americ-075",
+      "q": "Theodore Roosevelt became President at age?",
+      "options": [
+        "42",
+        "43",
+        "45",
+        "40"
+      ],
+      "correct": 0,
+      "explanation": "Theodore Roosevelt (1901-1909) was the youngest person to assume the US Presidency at age 42, after McKinley's assassination.",
+      "tags": []
+    },
+    {
+      "id": "americ-076",
+      "q": "Woodrow Wilson's Fourteen Points were presented to Congress in?",
+      "options": [
+        "January 1918",
+        "November 1918",
+        "June 1919",
+        "December 1917"
+      ],
+      "correct": 0,
+      "explanation": "Woodrow Wilson presented the Fourteen Points to US Congress in January 1918, later influencing the Treaty of Versailles (1919).",
+      "tags": []
+    },
+    {
+      "id": "americ-077",
+      "q": "Franklin D. Roosevelt served how many presidential terms?",
+      "options": [
+        "Four",
+        "Two",
+        "Three",
+        "Five"
+      ],
+      "correct": 0,
+      "explanation": "Franklin D. Roosevelt (1933-1945) served four terms, the longest presidency in US history. The 22nd Amendment later limited presidents to two terms.",
+      "tags": []
+    },
+    {
+      "id": "americ-078",
+      "q": "Who introduced the 'First 100 Days' model?",
+      "options": [
+        "Franklin D. Roosevelt",
+        "Theodore Roosevelt",
+        "Harry Truman",
+        "John F. Kennedy"
+      ],
+      "correct": 0,
+      "explanation": "Franklin D. Roosevelt introduced the influential 'First 100 Days' model of rapid executive action in 1933.",
+      "tags": []
+    },
+    {
+      "id": "americ-079",
+      "q": "The Watergate Scandal took place during?",
+      "options": [
+        "1972-1974",
+        "1970-1972",
+        "1968-1970",
+        "1974-1976"
+      ],
+      "correct": 0,
+      "explanation": "The Watergate Scandal (1972-1974) began with a June 17, 1972 break-in and ended with President Nixon's resignation on August 9, 1974.",
+      "tags": []
+    },
+    {
+      "id": "americ-080",
+      "q": "George H. W. Bush led the US during which war?",
+      "options": [
+        "1991 Gulf War",
+        "Vietnam War",
+        "Korean War",
+        "Iraq War 2003"
+      ],
+      "correct": 0,
+      "explanation": "George H. W. Bush (1989-1993) led the United States during the 1991 Gulf War (Operation Desert Storm) to liberate Kuwait.",
+      "tags": []
+    },
+    {
+      "id": "americ-081",
+      "q": "Barack Obama was the first?",
+      "options": [
+        "African-American US President",
+        "Latino US President",
+        "Muslim US President",
+        "Asian US President"
+      ],
+      "correct": 0,
+      "explanation": "Barack Obama (2009-2017) was the first African-American President of the United States, born in Hawaii.",
+      "tags": []
+    },
+    {
+      "id": "americ-082",
+      "q": "Kamala Harris was the first female US?",
+      "options": [
+        "Vice President",
+        "President",
+        "Speaker",
+        "Chief Justice"
+      ],
+      "correct": 0,
+      "explanation": "Kamala Harris (2021-2025) was the first female, first Black, and first South Asian Vice President of the United States.",
+      "tags": []
+    },
+    {
+      "id": "americ-083",
+      "q": "Donald Trump returned to office as President on?",
+      "options": [
+        "January 20, 2025",
+        "January 20, 2024",
+        "November 5, 2024",
+        "January 20, 2026"
+      ],
+      "correct": 0,
+      "explanation": "Donald J. Trump returned to office on January 20, 2025 as the 47th President of the United States.",
+      "tags": []
+    },
+    {
+      "id": "americ-084",
+      "q": "The current Vice President of the United States (2026) is?",
+      "options": [
+        "JD Vance",
+        "Kamala Harris",
+        "Mike Pence",
+        "Tim Kaine"
+      ],
+      "correct": 0,
+      "explanation": "JD Vance is the current Vice President of the United States, serving under President Donald Trump since January 2025.",
+      "tags": []
+    },
+    {
+      "id": "americ-085",
+      "q": "Mount Rushmore features how many US Presidents?",
+      "options": [
+        "Four",
+        "Three",
+        "Five",
+        "Six"
+      ],
+      "correct": 0,
+      "explanation": "Mount Rushmore in South Dakota features four US Presidents: Washington, Jefferson, Lincoln, and Theodore Roosevelt.",
+      "tags": []
+    },
+    {
+      "id": "americ-086",
+      "q": "The US Constitution consists of?",
+      "options": [
+        "7 Articles and 27 Amendments",
+        "5 Articles and 25 Amendments",
+        "10 Articles and 20 Amendments",
+        "7 Articles and 30 Amendments"
+      ],
+      "correct": 0,
+      "explanation": "The US Constitution consists of 7 Articles and 27 Amendments. The Bill of Rights (1791) comprises the first 10 amendments.",
+      "tags": []
+    },
+    {
+      "id": "americ-087",
+      "q": "The 19th Amendment (1920) granted?",
+      "options": [
+        "Women the right to vote",
+        "Abolition of slavery",
+        "Right to bear arms",
+        "Freedom of speech"
+      ],
+      "correct": 0,
+      "explanation": "The 19th Amendment to the US Constitution, ratified in 1920, granted women the right to vote nationwide.",
+      "tags": []
+    },
+    {
+      "id": "americ-088",
+      "q": "The minimum age for a US Senator is?",
+      "options": [
+        "30 years",
+        "35 years",
+        "25 years",
+        "40 years"
+      ],
+      "correct": 0,
+      "explanation": "The US Constitution requires a minimum age of 30 years for Senators, 25 for House members, and 35 for President.",
+      "tags": []
+    },
+    {
+      "id": "americ-089",
+      "q": "The minimum age for a US President is?",
+      "options": [
+        "35 years",
+        "30 years",
+        "40 years",
+        "25 years"
+      ],
+      "correct": 0,
+      "explanation": "The US Constitution requires a minimum age of 35 years to become US President, along with natural-born citizenship.",
+      "tags": []
+    },
+    {
+      "id": "americ-090",
+      "q": "Which US President was elected unanimously?",
+      "options": [
+        "George Washington",
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "James Madison"
+      ],
+      "correct": 0,
+      "explanation": "George Washington was the only US President unanimously elected by the Electoral College (1789 and 1792).",
+      "tags": []
+    },
+    {
+      "id": "americ-091",
+      "q": "The US Supreme Court has how many Justices?",
+      "options": [
+        "Nine",
+        "Seven",
+        "Eleven",
+        "Thirteen"
+      ],
+      "correct": 0,
+      "explanation": "The US Supreme Court has nine Justices, including one Chief Justice. This number has been fixed since 1869.",
+      "tags": []
+    },
+    {
+      "id": "americ-092",
+      "q": "Who became the first Black woman Justice of the US Supreme Court?",
+      "options": [
+        "Ketanji Brown Jackson",
+        "Sonia Sotomayor",
+        "Elena Kagan",
+        "Condoleezza Rice"
+      ],
+      "correct": 0,
+      "explanation": "Ketanji Brown Jackson became the first Black woman Justice of the US Supreme Court in 2022.",
+      "tags": []
+    },
+    {
+      "id": "americ-093",
+      "q": "Roe v. Wade (1973) was overturned by?",
+      "options": [
+        "Dobbs v. Jackson (2022)",
+        "Brown v. Board (1954)",
+        "Marbury v. Madison (1803)",
+        "Plessy v. Ferguson (1896)"
+      ],
+      "correct": 0,
+      "explanation": "Roe v. Wade (1973), which legalized abortion nationwide, was overturned in 2022 by the Dobbs v. Jackson Women's Health Organization decision.",
+      "tags": []
+    },
+    {
+      "id": "americ-094",
+      "q": "The landmark case establishing judicial review was?",
+      "options": [
+        "Marbury v. Madison (1803)",
+        "McCulloch v. Maryland (1819)",
+        "Dred Scott v. Sandford (1857)",
+        "Brown v. Board (1954)"
+      ],
+      "correct": 0,
+      "explanation": "Marbury v. Madison (1803) established judicial review, making the Supreme Court the final interpreter of the Constitution.",
+      "tags": []
+    },
+    {
+      "id": "americ-095",
+      "q": "Brown v. Board of Education (1954) declared?",
+      "options": [
+        "Racial segregation unconstitutional",
+        "Abortion legal",
+        "Separate but equal doctrine",
+        "Freedom of speech"
+      ],
+      "correct": 0,
+      "explanation": "Brown v. Board of Education (1954) overturned Plessy v. Ferguson and declared racial segregation in public schools unconstitutional.",
+      "tags": []
+    },
+    {
+      "id": "americ-096",
+      "q": "Miranda v. Arizona (1966) required?",
+      "options": [
+        "Police to inform suspects of rights",
+        "Abolition of death penalty",
+        "Right to abortion",
+        "Legal counsel for defendants"
+      ],
+      "correct": 0,
+      "explanation": "Miranda v. Arizona (1966) required police to inform suspects of their constitutional rights (the 'Miranda warning').",
+      "tags": []
+    },
+    {
+      "id": "americ-097",
+      "q": "The Federal Reserve System was established in?",
+      "options": [
+        "1913",
+        "1900",
+        "1929",
+        "1945"
+      ],
+      "correct": 0,
+      "explanation": "The Federal Reserve System was established in 1913 and controls US monetary policy and interest rates.",
+      "tags": []
+    },
+    {
+      "id": "americ-098",
+      "q": "The New York Stock Exchange (NYSE) is?",
+      "options": [
+        "World's largest stock exchange",
+        "Second-largest stock exchange",
+        "Oldest exchange",
+        "Only US exchange"
+      ],
+      "correct": 0,
+      "explanation": "The New York Stock Exchange (NYSE) is the world's largest stock exchange by market capitalization.",
+      "tags": []
+    },
+    {
+      "id": "americ-099",
+      "q": "Which state leads the US in oil and natural gas production?",
+      "options": [
+        "Texas",
+        "California",
+        "Alaska",
+        "Oklahoma"
+      ],
+      "correct": 0,
+      "explanation": "Texas leads the United States in oil and natural gas production, accounting for over 40% of US crude oil output.",
+      "tags": []
+    },
+    {
+      "id": "americ-100",
+      "q": "The USS Nautilus (1954) was the world's first?",
+      "options": [
+        "Nuclear-powered submarine",
+        "Aircraft carrier",
+        "Stealth submarine",
+        "Ballistic missile submarine"
+      ],
+      "correct": 0,
+      "explanation": "The USS Nautilus (1954) was the world's first nuclear-powered submarine, commissioned by the US Navy.",
+      "tags": []
+    },
+    {
+      "id": "americ-101",
+      "q": "NASA was founded in?",
+      "options": [
+        "1958",
+        "1961",
+        "1969",
+        "1945"
+      ],
+      "correct": 0,
+      "explanation": "NASA (National Aeronautics and Space Administration) was founded in 1958 to lead US civilian space exploration.",
+      "tags": []
+    },
+    {
+      "id": "americ-102",
+      "q": "The Apollo 11 mission landed humans on the Moon in?",
+      "options": [
+        "1969",
+        "1961",
+        "1972",
+        "1975"
+      ],
+      "correct": 0,
+      "explanation": "The Apollo 11 mission (1969) made the US the first nation to land humans on the Moon. Neil Armstrong was the first to walk on the lunar surface.",
+      "tags": []
+    },
+    {
+      "id": "americ-103",
+      "q": "USMCA (2020) replaced which trade agreement?",
+      "options": [
+        "NAFTA",
+        "GATT",
+        "CAFTA",
+        "TPP"
+      ],
+      "correct": 0,
+      "explanation": "USMCA (United States-Mexico-Canada Agreement, 2020) replaced NAFTA as the main North American trade agreement.",
+      "tags": []
+    },
+    {
+      "id": "americ-104",
+      "q": "The costliest natural disaster in US history is?",
+      "options": [
+        "Hurricane Katrina (2005)",
+        "Hurricane Sandy (2012)",
+        "Hurricane Harvey",
+        "Hurricane Ian"
+      ],
+      "correct": 0,
+      "explanation": "Hurricane Katrina (2005) remains the costliest natural disaster in US history, causing over $125 billion in damage.",
+      "tags": []
+    },
+    {
+      "id": "americ-105",
+      "q": "The US has the world's largest economy by?",
+      "options": [
+        "Nominal GDP",
+        "Purchasing power",
+        "Land area",
+        "Military budget only"
+      ],
+      "correct": 0,
+      "explanation": "The United States has the world's largest economy by nominal GDP, followed by China and Germany.",
+      "tags": []
+    },
+    {
+      "id": "americ-106",
+      "q": "The United States is a founding member of?",
+      "options": [
+        "NATO",
+        "Warsaw Pact",
+        "BRICS",
+        "Arab League"
+      ],
+      "correct": 0,
+      "explanation": "The US is a founding member and leading power in NATO (North Atlantic Treaty Organization), established in 1949.",
+      "tags": []
+    },
+    {
+      "id": "americ-107",
+      "q": "The US Cold War strategy of containment was formulated by?",
+      "options": [
+        "George F. Kennan",
+        "Henry Kissinger",
+        "Dean Acheson",
+        "John Foster Dulles"
+      ],
+      "correct": 0,
+      "explanation": "The US Cold War strategy of containment was formulated by diplomat George F. Kennan to limit Soviet expansion.",
+      "tags": []
+    },
+    {
+      "id": "americ-108",
+      "q": "Who reshaped US diplomacy through realpolitik during the Cold War?",
+      "options": [
+        "Henry Kissinger",
+        "George Kennan",
+        "Dean Rusk",
+        "Madeleine Albright"
+      ],
+      "correct": 0,
+      "explanation": "Henry Kissinger (Secretary of State 1973-1977) reshaped US diplomacy through realpolitik during the Cold War era.",
+      "tags": []
+    },
+    {
+      "id": "americ-109",
+      "q": "The US global War on Terror followed which attacks?",
+      "options": [
+        "9/11 attacks (2001)",
+        "USS Cole bombing",
+        "Kenya embassy bombing",
+        "Oklahoma City bombing"
+      ],
+      "correct": 0,
+      "explanation": "The US conducted a global War on Terror following the September 11, 2001 terrorist attacks.",
+      "tags": []
+    },
+    {
+      "id": "americ-110",
+      "q": "The longest US war in history was?",
+      "options": [
+        "Afghanistan War (2001-2021)",
+        "Vietnam War",
+        "Iraq War",
+        "Korean War"
+      ],
+      "correct": 0,
+      "explanation": "Afghanistan War (2001-2021) became the longest US war in history, lasting nearly 20 years.",
+      "tags": []
+    },
+    {
+      "id": "americ-111",
+      "q": "Who led the 2003 invasion of Iraq?",
+      "options": [
+        "George W. Bush",
+        "Barack Obama",
+        "Bill Clinton",
+        "Ronald Reagan"
+      ],
+      "correct": 0,
+      "explanation": "The United States led the 2003 invasion of Iraq under President George W. Bush to topple Saddam Hussein's regime.",
+      "tags": []
+    },
+    {
+      "id": "americ-112",
+      "q": "Osama bin Laden was killed in?",
+      "options": [
+        "Abbottabad, Pakistan (2011)",
+        "Tora Bora, Afghanistan",
+        "Kabul, Afghanistan",
+        "Yemen"
+      ],
+      "correct": 0,
+      "explanation": "Osama bin Laden was killed in the 2 May 2011 Abbottabad raid by US Navy SEALs using Black Hawk helicopters.",
+      "tags": []
+    },
+    {
+      "id": "americ-113",
+      "q": "The Iran Hostage Crisis occurred in?",
+      "options": [
+        "1979",
+        "1981",
+        "1973",
+        "1989"
+      ],
+      "correct": 0,
+      "explanation": "A major diplomatic crisis arose between the United States and Iran in 1979 following the Iran Hostage Crisis, which lasted 444 days.",
+      "tags": []
+    },
+    {
+      "id": "americ-114",
+      "q": "Pakistan joined US-led SEATO in?",
+      "options": [
+        "1954",
+        "1955",
+        "1962",
+        "1947"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan joined US-led security alliances SEATO (1954) and CENTO (1955) during the Cold War to counter Soviet influence.",
+      "tags": []
+    },
+    {
+      "id": "americ-115",
+      "q": "The Symington Amendment (1990) resulted in?",
+      "options": [
+        "Suspension of US aid to Pakistan",
+        "Increased aid to Pakistan",
+        "Nuclear cooperation",
+        "Trade embargo"
+      ],
+      "correct": 0,
+      "explanation": "The Symington Amendment (1990) resulted in the suspension of US aid to Pakistan over its nuclear program.",
+      "tags": []
+    },
+    {
+      "id": "americ-116",
+      "q": "The Kerry-Lugar-Berman Act (2009) provided?",
+      "options": [
+        "Enhanced civilian aid to Pakistan",
+        "Military aid only",
+        "Nuclear deal",
+        "Trade sanctions"
+      ],
+      "correct": 0,
+      "explanation": "The Enhanced Partnership with Pakistan Act (Kerry-Lugar-Berman Act, 2009) expanded US civilian aid and supported economic development in FATA.",
+      "tags": []
+    },
+    {
+      "id": "americ-117",
+      "q": "Pakistan became a US frontline ally after?",
+      "options": [
+        "9/11 (2001)",
+        "Afghan War (1979)",
+        "Vietnam War",
+        "Korean War"
+      ],
+      "correct": 0,
+      "explanation": "US-Pakistan relations revived after 9/11 (2001) when Pakistan became a frontline ally in the War on Terror.",
+      "tags": []
+    },
+    {
+      "id": "americ-118",
+      "q": "The US withdrew from Afghanistan in?",
+      "options": [
+        "2021",
+        "2011",
+        "2014",
+        "2019"
+      ],
+      "correct": 0,
+      "explanation": "The US withdrawal from Afghanistan in 2021 ended the longest US war and reshaped Pakistan's regional security environment.",
+      "tags": []
+    },
+    {
+      "id": "americ-119",
+      "q": "Harvard University was founded in?",
+      "options": [
+        "1636",
+        "1776",
+        "1701",
+        "1746"
+      ],
+      "correct": 0,
+      "explanation": "Harvard University (1636), located in Cambridge, Massachusetts, is the oldest university in the United States.",
+      "tags": []
+    },
+    {
+      "id": "americ-120",
+      "q": "Which is the Ivy League university located in California?",
+      "options": [
+        "None",
+        "Stanford",
+        "UC Berkeley",
+        "Caltech"
+      ],
+      "correct": 0,
+      "explanation": "No Ivy League university is in California. The 8 Ivy League schools are all in the Northeast US. Stanford, UC Berkeley, and Caltech are prestigious but not Ivy League.",
+      "tags": []
+    },
+    {
+      "id": "americ-121",
+      "q": "MIT is located in?",
+      "options": [
+        "Cambridge, Massachusetts",
+        "Boston, Massachusetts",
+        "New York City",
+        "Chicago, Illinois"
+      ],
+      "correct": 0,
+      "explanation": "Massachusetts Institute of Technology (MIT) is based in Cambridge, Massachusetts, the world's leading institution for science, engineering, and technological research.",
+      "tags": []
+    },
+    {
+      "id": "americ-122",
+      "q": "How many universities are in the Ivy League?",
+      "options": [
+        "Eight",
+        "Ten",
+        "Six",
+        "Twelve"
+      ],
+      "correct": 0,
+      "explanation": "The Ivy League is an association of eight elite private US universities: Harvard, Yale, Princeton, Columbia, UPenn, Brown, Dartmouth, and Cornell.",
+      "tags": []
+    },
+    {
+      "id": "americ-123",
+      "q": "The Wharton School is part of which university?",
+      "options": [
+        "University of Pennsylvania",
+        "Harvard University",
+        "Yale University",
+        "Princeton University"
+      ],
+      "correct": 0,
+      "explanation": "The Wharton School, a global leader in business education, is part of the University of Pennsylvania (UPenn) in Philadelphia.",
+      "tags": []
+    },
+    {
+      "id": "americ-124",
+      "q": "'The Big Apple' is a nickname for?",
+      "options": [
+        "New York City",
+        "Chicago",
+        "Los Angeles",
+        "Washington DC"
+      ],
+      "correct": 0,
+      "explanation": "'The Big Apple' is a famous nickname for New York City, popularized by sportswriter John J. Fitz Gerald in the 1920s.",
+      "tags": []
+    },
+    {
+      "id": "americ-125",
+      "q": "The most linguistically diverse city in the world is?",
+      "options": [
+        "New York City",
+        "London",
+        "Mumbai",
+        "Tokyo"
+      ],
+      "correct": 0,
+      "explanation": "New York City is the most linguistically diverse city in the world, with approximately 800 languages spoken.",
+      "tags": []
+    },
+    {
+      "id": "americ-126",
+      "q": "The U-2 Incident (1960) involved?",
+      "options": [
+        "US spy plane shot down over USSR",
+        "Submarine incident",
+        "Nuclear test",
+        "Cuban missile"
+      ],
+      "correct": 0,
+      "explanation": "The U-2 Incident (1960) occurred when a US U-2 spy plane was shot down over the Soviet Union, collapsing the Paris Summit.",
+      "tags": []
+    },
+    {
+      "id": "americ-127",
+      "q": "The Black Panther Party was founded in?",
+      "options": [
+        "Oakland, California (1966)",
+        "Harlem, NY (1960)",
+        "Detroit, MI (1968)",
+        "Chicago, IL (1965)"
+      ],
+      "correct": 0,
+      "explanation": "The Black Panther Party was founded in 1966 in Oakland, California by Huey P. Newton and Bobby Seale.",
+      "tags": []
+    },
+    {
+      "id": "americ-128",
+      "q": "The Bill of Rights comprises the first how many amendments?",
+      "options": [
+        "10",
+        "7",
+        "12",
+        "5"
+      ],
+      "correct": 0,
+      "explanation": "The Bill of Rights (1791) comprises the first 10 amendments to the US Constitution, guaranteeing fundamental liberties.",
+      "tags": []
+    },
+    {
+      "id": "americ-129",
+      "q": "The US Constitution establishes separation of powers among?",
+      "options": [
+        "Executive, Legislature, Judiciary",
+        "President, Cabinet, Senate",
+        "Federal, State, Local",
+        "House, Senate, President"
+      ],
+      "correct": 0,
+      "explanation": "The US Constitution establishes separation of powers among three branches: Executive, Legislature, and Judiciary, with checks and balances.",
+      "tags": []
+    },
+    {
+      "id": "americ-130",
+      "q": "Dred Scott v. Sandford (1857) denied?",
+      "options": [
+        "Citizenship to enslaved people",
+        "Right to vote",
+        "Free speech",
+        "Religious freedom"
+      ],
+      "correct": 0,
+      "explanation": "Dred Scott v. Sandford (1857) denied citizenship to enslaved people and deepened sectional conflict before the Civil War.",
+      "tags": []
+    },
+    {
+      "id": "americ-131",
+      "q": "Plessy v. Ferguson (1896) upheld?",
+      "options": [
+        "Separate but equal doctrine",
+        "Civil rights",
+        "Voting rights",
+        "Abortion rights"
+      ],
+      "correct": 0,
+      "explanation": "Plessy v. Ferguson (1896) upheld racial segregation under the doctrine of 'separate but equal', later overturned by Brown v. Board (1954).",
+      "tags": []
+    },
+    {
+      "id": "americ-132",
+      "q": "The 13th Amendment (1865) formally?",
+      "options": [
+        "Ended slavery in the US",
+        "Granted women voting rights",
+        "Established income tax",
+        "Abolished death penalty"
+      ],
+      "correct": 0,
+      "explanation": "The 13th Amendment, ratified on 6 December 1865, formally abolished slavery in the United States.",
+      "tags": []
+    },
+    {
+      "id": "americ-133",
+      "q": "The US uses which system for allocating electoral votes in most states?",
+      "options": [
+        "Winner-takes-all",
+        "Proportional",
+        "Ranked-choice",
+        "First-past-the-post"
+      ],
+      "correct": 0,
+      "explanation": "Most US states follow the winner-takes-all system for allocating electoral votes, with the exception of Maine and Nebraska.",
+      "tags": []
+    },
+    {
+      "id": "americ-134",
+      "q": "Gideon v. Wainwright (1963) guaranteed?",
+      "options": [
+        "Right to legal counsel",
+        "Right to abortion",
+        "Right to bear arms",
+        "Right to vote"
+      ],
+      "correct": 0,
+      "explanation": "Gideon v. Wainwright (1963) guaranteed the right to legal counsel for criminal defendants who cannot afford an attorney.",
+      "tags": []
+    },
+    {
+      "id": "americ-135",
+      "q": "United States v. Nixon (1974) limited?",
+      "options": [
+        "Executive privilege",
+        "Judicial review",
+        "Legislative powers",
+        "Military authority"
+      ],
+      "correct": 0,
+      "explanation": "United States v. Nixon (1974) limited executive privilege and reinforced the rule of law, forcing Nixon to hand over Watergate tapes.",
+      "tags": []
+    },
+    {
+      "id": "americ-136",
+      "q": "McCulloch v. Maryland (1819) strengthened?",
+      "options": [
+        "Federal supremacy",
+        "States' rights",
+        "Presidential power",
+        "Judicial independence"
+      ],
+      "correct": 0,
+      "explanation": "McCulloch v. Maryland (1819) strengthened federal supremacy over states and affirmed the implied powers of Congress.",
+      "tags": []
+    },
+    {
+      "id": "americ-137",
+      "q": "The CIA is the primary?",
+      "options": [
+        "Civilian foreign intelligence service",
+        "Domestic law enforcement",
+        "Military intelligence",
+        "Cybersecurity agency"
+      ],
+      "correct": 0,
+      "explanation": "The Central Intelligence Agency (CIA) is the primary civilian foreign intelligence service of the United States.",
+      "tags": []
+    },
+    {
+      "id": "americ-138",
+      "q": "The Director of National Intelligence (DNI) coordinates?",
+      "options": [
+        "All US intelligence agencies",
+        "Only CIA",
+        "Only FBI",
+        "Only Pentagon"
+      ],
+      "correct": 0,
+      "explanation": "The Director of National Intelligence (DNI) coordinates all US intelligence agencies, including the CIA, FBI, NSA, and others.",
+      "tags": []
+    },
+    {
+      "id": "americ-139",
+      "q": "Who appoints the CIA Director?",
+      "options": [
+        "The President (Senate confirmation)",
+        "The Secretary of State",
+        "The Director of National Intelligence",
+        "The Congress"
+      ],
+      "correct": 0,
+      "explanation": "The Director of the CIA is appointed by the President and confirmed by the US Senate, reporting to the President and DNI.",
+      "tags": []
+    },
+    {
+      "id": "americ-140",
+      "q": "The CENTCOM is responsible for?",
+      "options": [
+        "Middle East, Central Asia, South Asia",
+        "Europe only",
+        "Asia-Pacific",
+        "Americas"
+      ],
+      "correct": 0,
+      "explanation": "US Central Command (CENTCOM) is responsible for US military operations in the Middle East, Central Asia, and parts of South Asia.",
+      "tags": []
+    },
+    {
+      "id": "americ-141",
+      "q": "The US Congress is?",
+      "options": [
+        "Bicameral",
+        "Unicameral",
+        "Tricameral",
+        "Multi-cameral"
+      ],
+      "correct": 0,
+      "explanation": "The US Congress remains bicameral, consisting of the House of Representatives and the Senate.",
+      "tags": []
+    },
+    {
+      "id": "americ-142",
+      "q": "The Speaker of the House is the?",
+      "options": [
+        "Presiding officer of the House",
+        "Head of Senate",
+        "Chief Judge",
+        "Vice President"
+      ],
+      "correct": 0,
+      "explanation": "The Speaker of the House is the presiding officer of the House of Representatives, typically from the majority party.",
+      "tags": []
+    },
+    {
+      "id": "americ-143",
+      "q": "The Four Corners is the only point where which four states meet?",
+      "options": [
+        "Arizona, Utah, Colorado, New Mexico",
+        "Texas, Oklahoma, Kansas, Colorado",
+        "California, Nevada, Arizona, Utah",
+        "Montana, Wyoming, Idaho, Washington"
+      ],
+      "correct": 0,
+      "explanation": "The Four Corners is the only point in the United States where four states meet: Arizona, Utah, Colorado, and New Mexico.",
+      "tags": []
+    },
+    {
+      "id": "americ-144",
+      "q": "Which state has a longer coastline than all other US states combined?",
+      "options": [
+        "Alaska",
+        "Florida",
+        "California",
+        "Hawaii"
+      ],
+      "correct": 0,
+      "explanation": "Alaska has a longer coastline than all other US states combined, with approximately 33,904 miles of coastline.",
+      "tags": []
+    },
+    {
+      "id": "americ-145",
+      "q": "Which US state borders four of the five Great Lakes?",
+      "options": [
+        "Michigan",
+        "New York",
+        "Wisconsin",
+        "Minnesota"
+      ],
+      "correct": 0,
+      "explanation": "Michigan is the only US state bordering four of the five Great Lakes (Superior, Michigan, Huron, and Erie).",
+      "tags": []
+    },
+    {
+      "id": "americ-146",
+      "q": "Which three states were once independent republics?",
+      "options": [
+        "Texas, California, Hawaii",
+        "Texas, California, Florida",
+        "Texas, Alaska, Hawaii",
+        "California, Alaska, Hawaii"
+      ],
+      "correct": 0,
+      "explanation": "Texas (Republic of Texas), California (California Republic), and Hawaii (Kingdom of Hawaii) were once independent republics before joining the US.",
+      "tags": []
+    },
+    {
+      "id": "americ-147",
+      "q": "Zohran Mamdani was elected Mayor of which city in November 2025?",
+      "options": [
+        "New York City",
+        "Los Angeles",
+        "Chicago",
+        "Boston"
+      ],
+      "correct": 0,
+      "explanation": "Zohran Mamdani was elected Mayor of New York City in November 2025 and took office on January 1, 2026, becoming the city's first Muslim and first South Asian mayor.",
+      "tags": []
+    },
+    {
+      "id": "americ-148",
+      "q": "The CHIPS and Science Act (2022) aims to?",
+      "options": [
+        "Revive domestic semiconductor production",
+        "Regulate AI",
+        "Expand healthcare",
+        "Promote renewable energy"
+      ],
+      "correct": 0,
+      "explanation": "The CHIPS and Science Act (2022) aims to revive domestic semiconductor production in the US and compete with China's chip industry.",
+      "tags": []
+    },
+    {
+      "id": "americ-149",
+      "q": "The Inflation Reduction Act (2022) focuses on?",
+      "options": [
+        "Clean energy and manufacturing",
+        "Healthcare only",
+        "Defense spending",
+        "Tax cuts only"
+      ],
+      "correct": 0,
+      "explanation": "The Inflation Reduction Act (2022) focuses on clean energy, manufacturing, and job creation, along with healthcare subsidies.",
+      "tags": []
+    },
+    {
+      "id": "americ-150",
+      "q": "The United States is often called the world's?",
+      "options": [
+        "Oldest continuous democracy",
+        "Largest country",
+        "Most populous nation",
+        "Wealthiest per capita"
+      ],
+      "correct": 0,
+      "explanation": "The United States is often called the world's oldest continuous democracy, with its Constitution in force since 1789.",
+      "tags": []
+    }
+  ]
+}

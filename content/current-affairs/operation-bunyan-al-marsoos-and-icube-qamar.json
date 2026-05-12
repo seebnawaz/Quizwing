@@ -1,0 +1,661 @@
+{
+  "topic_id": "operation-bunyan-al-marsoos-and-icube-qamar",
+  "topic_name": "Operation Bunyan Al Marsoos & Icube Qamar",
+  "subject": "current-affairs",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Operation Bunyan Al Marsoos & Icube Qamar MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🚀",
+  "mcqs": [
+    {
+      "id": "operat-001",
+      "q": "What is the name of the military operation launched by Pakistan in response to alleged Indian aggression, particularly after the Pahalgam terror attack?",
+      "options": [
+        "Bunyan Al Marsoos",
+        "Rising Lion",
+        "True Promise 3",
+        "Al-Habib"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan's Armed Forces launched Operation Bunyan Al Marsoos as a direct response to Indian aggression following the Pahalgam terror attack and India's Operation Sindoor.",
+      "tags": []
+    },
+    {
+      "id": "operat-002",
+      "q": "India launched missile strikes against Pakistan under which operation?",
+      "options": [
+        "Operation Sindoor",
+        "Operation Rashi",
+        "Operation Bheema",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "India launched Operation Sindoor as its cross-border military response following the Pahalgam attack.",
+      "tags": []
+    },
+    {
+      "id": "operat-003",
+      "q": "India launched 'Operation Sindoor' against _____ on 7 May 2025.",
+      "options": [
+        "China",
+        "Afghanistan",
+        "Russia",
+        "Pakistan"
+      ],
+      "correct": 3,
+      "explanation": "India launched Operation Sindoor against Pakistan on 7 May 2025, prompting Pakistan's Operation Bunyan Al Marsoos three days later.",
+      "tags": []
+    },
+    {
+      "id": "operat-004",
+      "q": "Operation Bunyan Al Marsoos was launched by Pakistan on:",
+      "options": [
+        "7 May 2025",
+        "8 May 2025",
+        "10 May 2025",
+        "9 May 2025"
+      ],
+      "correct": 2,
+      "explanation": "Pakistan's Operation Bunyan Al Marsoos was launched on 10 May 2025; a US-brokered ceasefire was announced the same day.",
+      "tags": []
+    },
+    {
+      "id": "operat-005",
+      "q": "What does the word 'Bunyan' mean in Arabic?",
+      "options": [
+        "Garden",
+        "Structure",
+        "Wall of fire",
+        "Path"
+      ],
+      "correct": 1,
+      "explanation": "In Arabic, 'Bunyan' means a structure or building.",
+      "tags": []
+    },
+    {
+      "id": "operat-006",
+      "q": "What does the word 'Marsoos' mean in Arabic?",
+      "options": [
+        "Broken into pieces",
+        "Melted with fire",
+        "Cemented or firmly joined",
+        "Open and scattered"
+      ],
+      "correct": 2,
+      "explanation": "'Marsoos' means cemented or firmly joined together — a Quranic description of unity.",
+      "tags": []
+    },
+    {
+      "id": "operat-007",
+      "q": "In the Quran, 'Bunyan al Marsoos' refers to:",
+      "options": [
+        "A garden beneath which rivers flow",
+        "A solid structure firmly joined together",
+        "A shining star in the sky",
+        "A promise of victory for the believers"
+      ],
+      "correct": 1,
+      "explanation": "The Quran uses 'bunyan al marsoos' as a metaphor for believers fighting in Allah's cause as one solid structure firmly joined together.",
+      "tags": []
+    },
+    {
+      "id": "operat-008",
+      "q": "Why was the name 'Bunyan al Marsoos' chosen for Pakistan's military operation against India?",
+      "options": [
+        "To symbolise mercy and forgiveness",
+        "To highlight national unity and strong defence",
+        "To recall historical treaties with India",
+        "To honour ancient forts of the region"
+      ],
+      "correct": 1,
+      "explanation": "The name highlights national unity and the solid, disciplined defence of Pakistan — drawing on the Quranic metaphor.",
+      "tags": []
+    },
+    {
+      "id": "operat-009",
+      "q": "The phrase 'Bunyan al Marsoos' appears in which Surah of the Holy Quran?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Saff",
+        "Surah Al-Anfal",
+        "Surah Al-Fath"
+      ],
+      "correct": 1,
+      "explanation": "The phrase appears in Surah Al-Saff, which is the 61st Surah of the Quran.",
+      "tags": []
+    },
+    {
+      "id": "operat-010",
+      "q": "Which verse of Surah Al-Saff contains the phrase 'Bunyan al Marsoos'?",
+      "options": [
+        "Verse 2",
+        "Verse 3",
+        "Verse 4",
+        "Verse 6"
+      ],
+      "correct": 2,
+      "explanation": "The phrase appears in Verse 4 of Surah As-Saff (61:4).",
+      "tags": []
+    },
+    {
+      "id": "operat-011",
+      "q": "Operation Azm-e-Istehkam was started on:",
+      "options": [
+        "12 June 2024",
+        "16 June 2024",
+        "18 June 2024",
+        "22 June 2024"
+      ],
+      "correct": 3,
+      "explanation": "Operation Azm-e-Istehkam — Pakistan's nationwide counter-terrorism campaign approved by the Apex Committee — was launched on 22 June 2024.",
+      "tags": []
+    },
+    {
+      "id": "operat-012",
+      "q": "Operation Sarbakaf was launched in Bajaur on:",
+      "options": [
+        "18 June 2024",
+        "22 June 2024",
+        "29 July 2025",
+        "31 July 2025"
+      ],
+      "correct": 2,
+      "explanation": "Operation Sarbakaf in Bajaur, KP was launched on 29 July 2025 as a local-area counter-terrorism operation.",
+      "tags": []
+    },
+    {
+      "id": "operat-013",
+      "q": "Operation Radd-ul-Fasaad was launched on:",
+      "options": [
+        "22 February 2014",
+        "22 February 2015",
+        "22 February 2016",
+        "22 February 2017"
+      ],
+      "correct": 3,
+      "explanation": "Operation Radd-ul-Fasaad, the nationwide successor to Zarb-e-Azb, was launched on 22 February 2017.",
+      "tags": []
+    },
+    {
+      "id": "operat-014",
+      "q": "Operation Radd-ul-Fasaad ended in:",
+      "options": [
+        "November 2021",
+        "November 2022",
+        "November 2023",
+        "November 2024"
+      ],
+      "correct": 1,
+      "explanation": "Operation Radd-ul-Fasaad formally concluded in November 2022, with counter-terrorism efforts later reframed under Azm-e-Istehkam (2024).",
+      "tags": []
+    },
+    {
+      "id": "operat-015",
+      "q": "Operation Khyber was launched on:",
+      "options": [
+        "5 October 2014",
+        "7 October 2014",
+        "11 October 2014",
+        "17 October 2014"
+      ],
+      "correct": 1,
+      "explanation": "Operation Khyber (the first phase of a series) was launched on 7 October 2014 in Khyber Agency.",
+      "tags": []
+    },
+    {
+      "id": "operat-016",
+      "q": "Operation Khyber ended on:",
+      "options": [
+        "11 August 2017",
+        "15 August 2017",
+        "26 August 2017",
+        "21 August 2017"
+      ],
+      "correct": 3,
+      "explanation": "Operation Khyber formally concluded on 21 August 2017 after multiple phases (Khyber I–IV).",
+      "tags": []
+    },
+    {
+      "id": "operat-017",
+      "q": "Operation Zarb-e-Azb was launched on:",
+      "options": [
+        "11 June 2014",
+        "12 June 2014",
+        "14 June 2014",
+        "15 June 2014"
+      ],
+      "correct": 1,
+      "explanation": "Operation Zarb-e-Azb was launched on 12 June 2014 after the Karachi Airport attack, targeting militant hideouts in North Waziristan.",
+      "tags": []
+    },
+    {
+      "id": "operat-018",
+      "q": "Operation Zarb-e-Azb ended on:",
+      "options": [
+        "21 February 2017",
+        "22 February 2017",
+        "23 February 2017",
+        "24 February 2017"
+      ],
+      "correct": 1,
+      "explanation": "Operation Zarb-e-Azb formally concluded on 22 February 2017 — the same day Radd-ul-Fasaad was launched.",
+      "tags": []
+    },
+    {
+      "id": "operat-019",
+      "q": "Operation Zarb-e-Azb was launched in:",
+      "options": [
+        "South Waziristan",
+        "Khyber",
+        "North Waziristan",
+        "Bajaur"
+      ],
+      "correct": 2,
+      "explanation": "Operation Zarb-e-Azb's primary theatre was North Waziristan, the principal base of Tehreek-i-Taliban Pakistan (TTP) at the time.",
+      "tags": []
+    },
+    {
+      "id": "operat-020",
+      "q": "The Gaza offensive operation launched by Israel in May 2025 was codenamed:",
+      "options": [
+        "Rising Lion",
+        "True Promise",
+        "Sun Rise",
+        "Operation Gideon's Chariots"
+      ],
+      "correct": 3,
+      "explanation": "Israel codenamed its May 2025 Gaza offensive 'Operation Gideon's Chariots'.",
+      "tags": []
+    },
+    {
+      "id": "operat-021",
+      "q": "The EU Council decided to start Operation Aspides (Red Sea maritime protection) on:",
+      "options": [
+        "2 February 2024",
+        "4 February 2024",
+        "6 February 2024",
+        "8 February 2024"
+      ],
+      "correct": 1,
+      "explanation": "On 4 February 2024 (formally adopted on 19 February 2024), the Council of the European Union decided to launch Operation Aspides to protect commercial vessels in the Red Sea.",
+      "tags": []
+    },
+    {
+      "id": "operat-022",
+      "q": "Which country launched 'Operation Devil Hunt'?",
+      "options": [
+        "Bangladesh",
+        "Greece",
+        "China",
+        "Australia"
+      ],
+      "correct": 3,
+      "explanation": "Operation Devil Hunt was announced and launched by Australia.",
+      "tags": []
+    },
+    {
+      "id": "operat-023",
+      "q": "Which country attacked Russia under 'Operation Web Spider'?",
+      "options": [
+        "USA",
+        "Poland",
+        "Ukraine",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Ukraine's operation codenamed 'Web Spider' targeted Russian air assets deep inside Russian territory.",
+      "tags": []
+    },
+    {
+      "id": "operat-024",
+      "q": "The active insurgent operation in Balochistan in June 2025 was codenamed:",
+      "options": [
+        "Operation Herof",
+        "Operation Shaheen",
+        "Operation Markhor",
+        "Operation Sherdil"
+      ],
+      "correct": 1,
+      "explanation": "The active insurgent operation in Balochistan in June 2025 was codenamed Operation Shaheen.",
+      "tags": []
+    },
+    {
+      "id": "operat-025",
+      "q": "Iran's retaliatory operation against Israel (prior to True Promise 3) was named:",
+      "options": [
+        "Operation Glad Tidings of Victory",
+        "Operation Night Victory",
+        "Operation Fast Victory",
+        "Operation Sunrise"
+      ],
+      "correct": 0,
+      "explanation": "Iran's major retaliatory strike on Israel was named 'Operation Glad Tidings of Victory' (True Promise 2).",
+      "tags": []
+    },
+    {
+      "id": "operat-026",
+      "q": "The US strikes on Fordow, Natanz and Isfahan nuclear facilities were codenamed:",
+      "options": [
+        "Operation Fast Victory",
+        "Operation Sunrise",
+        "Operation Midnight Hammer",
+        "Operation True Promise"
+      ],
+      "correct": 2,
+      "explanation": "The US strikes on Iranian nuclear facilities at Fordow, Natanz and Isfahan in June 2025 were codenamed Operation Midnight Hammer.",
+      "tags": []
+    },
+    {
+      "id": "operat-027",
+      "q": "Iran's retaliatory operation following US strikes on its nuclear sites was codenamed:",
+      "options": [
+        "Operation Fast Victory",
+        "Operation Sunrise",
+        "Operation True Promise 3",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Iran launched Operation True Promise 3 in retaliation for the US 'Midnight Hammer' strikes on its nuclear facilities.",
+      "tags": []
+    },
+    {
+      "id": "operat-028",
+      "q": "Pakistan's first moon mission was named:",
+      "options": [
+        "ICube Pak Qamar",
+        "Pak ICubeQamar",
+        "ICubeQamar",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Pakistan's first moon mission was named iCube Qamar (ICUBE-Q) — a CubeSat developed by IST Islamabad, SUPARCO and China's Shanghai Jiao Tong University.",
+      "tags": []
+    },
+    {
+      "id": "operat-029",
+      "q": "Pakistan's first moon mission was launched on:",
+      "options": [
+        "1 May 2024",
+        "2 May 2024",
+        "3 May 2024",
+        "5 May 2024"
+      ],
+      "correct": 2,
+      "explanation": "Pakistan's first moon mission iCube Qamar was launched on 3 May 2024.",
+      "tags": []
+    },
+    {
+      "id": "operat-030",
+      "q": "Pakistan's first moon mission was launched from Hainan city of:",
+      "options": [
+        "China",
+        "France",
+        "Italy",
+        "USA"
+      ],
+      "correct": 0,
+      "explanation": "iCube Qamar was launched from Wenchang Space Launch Center on Hainan Island, China.",
+      "tags": []
+    },
+    {
+      "id": "operat-031",
+      "q": "Pakistan's first satellite mission to the moon, iCubeQamar, was launched on board China's:",
+      "options": [
+        "Chang'e-3",
+        "Chang'e-4",
+        "Chang'e-5",
+        "Chang'e-6"
+      ],
+      "correct": 3,
+      "explanation": "iCube Qamar was launched aboard China's Chang'e-6 — the world's first far-side lunar sample-return mission.",
+      "tags": []
+    },
+    {
+      "id": "operat-032",
+      "q": "The Pakistani ICUBE-Q CubeSat orbited the Moon as part of China's historic:",
+      "options": [
+        "Chang'e-3 lunar mission",
+        "Chang'e-4 lunar mission",
+        "Chang'e-5 lunar mission",
+        "Chang'e-6 lunar mission"
+      ],
+      "correct": 3,
+      "explanation": "ICUBE-Q orbited the Moon as part of China's Chang'e-6 far-side sample-return mission.",
+      "tags": []
+    },
+    {
+      "id": "operat-033",
+      "q": "The launch of the Chang'e-6 lunar mission was attended by scientists, diplomats and space-agency officials from:",
+      "options": [
+        "France and Italy",
+        "European Space Agency",
+        "Pakistan",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "The Chang'e-6 launch hosted representatives from France, Italy, the European Space Agency (ESA) and Pakistan — all participants had payloads on the mission.",
+      "tags": []
+    },
+    {
+      "id": "operat-034",
+      "q": "On Chang'e-6, China carried payloads from:",
+      "options": [
+        "France, Italy, Switzerland and Thailand",
+        "France, Italy, Sweden and Pakistan",
+        "Pakistan, Switzerland and Thailand",
+        "Russia, Switzerland and Thailand"
+      ],
+      "correct": 1,
+      "explanation": "Chang'e-6 carried international payloads from France, Italy, Sweden and Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "operat-035",
+      "q": "Chang'e-7 will carry payloads from Russia, Switzerland and Thailand when it launches in:",
+      "options": [
+        "2024",
+        "2025",
+        "2026",
+        "2027"
+      ],
+      "correct": 2,
+      "explanation": "China's Chang'e-7 lunar mission is scheduled for 2026 with payloads from Russia, Switzerland and Thailand.",
+      "tags": []
+    },
+    {
+      "id": "operat-036",
+      "q": "The 7 May 2025 Indian 'Operation Sindoor' was launched in response to which terror attack?",
+      "options": [
+        "Mumbai 2008 attack",
+        "Pulwama 2019 attack",
+        "Pahalgam 2025 attack",
+        "Uri 2016 attack"
+      ],
+      "correct": 2,
+      "explanation": "India launched Operation Sindoor in response to the April 2025 Pahalgam terror attack in Indian-administered Kashmir.",
+      "tags": []
+    },
+    {
+      "id": "operat-037",
+      "q": "The India–Pakistan ceasefire in May 2025 was brokered mainly by:",
+      "options": [
+        "Saudi Arabia",
+        "United States",
+        "China",
+        "Russia"
+      ],
+      "correct": 1,
+      "explanation": "The ceasefire announcement on 10 May 2025 was brokered primarily through US diplomatic efforts and announced publicly by US President Donald Trump.",
+      "tags": []
+    },
+    {
+      "id": "operat-038",
+      "q": "Surah As-Saff — the source of the phrase 'bunyan al marsoos' — is which Surah in the Quran?",
+      "options": [
+        "60th",
+        "61st",
+        "62nd",
+        "63rd"
+      ],
+      "correct": 1,
+      "explanation": "Surah As-Saff is the 61st Surah of the Holy Quran.",
+      "tags": []
+    },
+    {
+      "id": "operat-039",
+      "q": "Operation Zarb-e-Azb was launched in response to which terrorist incident?",
+      "options": [
+        "Army Public School attack",
+        "Karachi Airport attack (June 2014)",
+        "Peshawar church bombing",
+        "Lahore Wagah bombing"
+      ],
+      "correct": 1,
+      "explanation": "The June 2014 Karachi (Jinnah) Airport attack was the immediate trigger for Operation Zarb-e-Azb against TTP hideouts in North Waziristan.",
+      "tags": []
+    },
+    {
+      "id": "operat-040",
+      "q": "The word 'Zarb-e-Azb' historically refers to the sword of:",
+      "options": [
+        "Hazrat Umar (RA)",
+        "Prophet Muhammad (PBUH)",
+        "Sultan Salahuddin Ayyubi",
+        "Mahmud of Ghazni"
+      ],
+      "correct": 1,
+      "explanation": "'Zarb-e-Azb' means 'a sharp and cutting strike' and refers to one of the swords of Prophet Muhammad (PBUH).",
+      "tags": []
+    },
+    {
+      "id": "operat-041",
+      "q": "'Radd-ul-Fasaad' in Arabic means:",
+      "options": [
+        "Reward for sacrifice",
+        "Elimination of discord",
+        "Path of peace",
+        "Victory of believers"
+      ],
+      "correct": 1,
+      "explanation": "Radd-ul-Fasaad literally means 'elimination of discord/chaos'.",
+      "tags": []
+    },
+    {
+      "id": "operat-042",
+      "q": "Operation Azm-e-Istehkam was approved by the Central Apex Committee under which Prime Minister?",
+      "options": [
+        "Imran Khan",
+        "Anwaar-ul-Haq Kakar",
+        "Shehbaz Sharif",
+        "Nawaz Sharif"
+      ],
+      "correct": 2,
+      "explanation": "Operation Azm-e-Istehkam was approved in June 2024 by the Central Apex Committee under PM Shehbaz Sharif's government.",
+      "tags": []
+    },
+    {
+      "id": "operat-043",
+      "q": "SUPARCO — Pakistan's space agency involved in iCube Qamar — was established in:",
+      "options": [
+        "1947",
+        "1961",
+        "1972",
+        "1985"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan's Space and Upper Atmosphere Research Commission (SUPARCO) was established in 1961.",
+      "tags": []
+    },
+    {
+      "id": "operat-044",
+      "q": "Pakistan's first-ever satellite (launched before iCube Qamar) was:",
+      "options": [
+        "Badr-1 (1990)",
+        "PakSat-1 (2002)",
+        "PRSS-1 (2018)",
+        "PakSat-MM1 (2024)"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan's first satellite was Badr-1, launched on 16 July 1990 — three-and-a-half decades before iCube Qamar reached the moon.",
+      "tags": []
+    },
+    {
+      "id": "operat-045",
+      "q": "Pakistan became the ______ country in the world to have a satellite mission to the Moon after iCube Qamar.",
+      "options": [
+        "5th",
+        "6th",
+        "7th",
+        "8th"
+      ],
+      "correct": 2,
+      "explanation": "With iCube Qamar on Chang'e-6, Pakistan became the 7th country overall to reach the Moon with a satellite (after USA, USSR/Russia, China, Japan, India and Israel).",
+      "tags": []
+    },
+    {
+      "id": "operat-046",
+      "q": "China's Chang'e-6 was historic because it:",
+      "options": [
+        "Was the first human Moon mission",
+        "Landed rovers on Mars",
+        "Returned the first-ever samples from the Moon's far side",
+        "Mapped Jupiter"
+      ],
+      "correct": 2,
+      "explanation": "Chang'e-6 was the world's first mission to return lunar samples from the far side of the Moon (South Pole-Aitken basin).",
+      "tags": []
+    },
+    {
+      "id": "operat-047",
+      "q": "iCube Qamar was primarily developed by which Pakistani institute, with SUPARCO &amp; Chinese collaboration?",
+      "options": [
+        "Institute of Space Technology (IST) Islamabad",
+        "NUST SMME",
+        "PIEAS",
+        "NUCES FAST"
+      ],
+      "correct": 0,
+      "explanation": "iCube Qamar was primarily developed by the Institute of Space Technology (IST) Islamabad, in collaboration with SUPARCO and Shanghai Jiao Tong University (SJTU), China.",
+      "tags": []
+    },
+    {
+      "id": "operat-048",
+      "q": "Operation Rising Lion (June 2025) was launched by:",
+      "options": [
+        "Israel against Iran",
+        "Iran against Israel",
+        "USA against Iran",
+        "Russia against Ukraine"
+      ],
+      "correct": 0,
+      "explanation": "Operation Rising Lion was the Israeli military operation against Iran in June 2025 that preceded the US 'Operation Midnight Hammer' on Iran's nuclear sites.",
+      "tags": []
+    },
+    {
+      "id": "operat-049",
+      "q": "The Chang'e series of lunar missions is operated by the space agency of:",
+      "options": [
+        "Japan (JAXA)",
+        "India (ISRO)",
+        "China (CNSA)",
+        "Russia (Roscosmos)"
+      ],
+      "correct": 2,
+      "explanation": "The Chang'e programme of lunar missions is operated by the China National Space Administration (CNSA).",
+      "tags": []
+    },
+    {
+      "id": "operat-050",
+      "q": "Pakistan's iCube Qamar CubeSat carried which primary payload?",
+      "options": [
+        "A planetary rover",
+        "Two optical cameras for lunar imaging",
+        "A lunar lander",
+        "A radio beacon only"
+      ],
+      "correct": 1,
+      "explanation": "iCube Qamar carried two optical cameras designed to take images of the lunar surface from orbit.",
+      "tags": []
+    }
+  ]
+}

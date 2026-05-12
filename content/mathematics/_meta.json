@@ -1,0 +1,8 @@
+{
+  "name": "Mathematics",
+  "icon": "📐",
+  "order": 8,
+  "description": "Arithmetic, algebra, geometry, percentages, ratios, averages & word problems.",
+  "color": "#c2410c",
+  "placeholder": true
+}

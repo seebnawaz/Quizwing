@@ -1,0 +1,1311 @@
+{
+  "topic_id": "oceans-and-seas",
+  "topic_name": "Oceans & Seas",
+  "subject": "general-knowledge",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Oceans & Seas MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🌊",
+  "mcqs": [
+    {
+      "id": "oceans-001",
+      "q": "Which is the largest ocean in the world?",
+      "options": [
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 0,
+      "explanation": "The Pacific Ocean is the largest ocean, covering approximately 165,250,000 sq km — about one-third of Earth's total surface. It is also the deepest ocean, with the Mariana Trench reaching 11,034 metres (36,201 feet).",
+      "tags": []
+    },
+    {
+      "id": "oceans-002",
+      "q": "Which is the second largest ocean in the world?",
+      "options": [
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 2,
+      "explanation": "The Atlantic Ocean is the second largest ocean with an area of approximately 106,460,000 sq km. It separates the Americas from Europe and Africa and contains the Mid-Atlantic Ridge, the world's longest mountain range.",
+      "tags": []
+    },
+    {
+      "id": "oceans-003",
+      "q": "Which is the third largest ocean in the world?",
+      "options": [
+        "Pacific Ocean",
+        "Arctic Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean"
+      ],
+      "correct": 3,
+      "explanation": "The Indian Ocean is the third largest ocean with an area of approximately 70,560,000 sq km. It covers about one-seventh of Earth's surface and is the only ocean named after a country (India).",
+      "tags": []
+    },
+    {
+      "id": "oceans-004",
+      "q": "Which is the smallest ocean in the world?",
+      "options": [
+        "Southern Ocean",
+        "Arctic Ocean",
+        "Indian Ocean",
+        "Atlantic Ocean"
+      ],
+      "correct": 1,
+      "explanation": "The Arctic Ocean is the smallest ocean with an area of approximately 14,056,000 sq km. It is also the shallowest major ocean and is largely covered by sea ice for most of the year.",
+      "tags": []
+    },
+    {
+      "id": "oceans-005",
+      "q": "What is the area of the Pacific Ocean?",
+      "options": [
+        "165,250,000 sq km",
+        "106,460,000 sq km",
+        "70,560,000 sq km",
+        "14,056,000 sq km"
+      ],
+      "correct": 0,
+      "explanation": "The Pacific Ocean covers approximately 165,250,000 sq km — more than the combined area of all landmasses on Earth. Its area is almost double that of the Atlantic Ocean.",
+      "tags": []
+    },
+    {
+      "id": "oceans-006",
+      "q": "What is the area of the Atlantic Ocean?",
+      "options": [
+        "70,560,000 sq km",
+        "106,460,000 sq km",
+        "165,250,000 sq km",
+        "14,056,000 sq km"
+      ],
+      "correct": 1,
+      "explanation": "The Atlantic Ocean has an area of approximately 106,460,000 sq km, making it the second largest ocean in the world. It is bounded by the Americas to the west and Europe/Africa to the east.",
+      "tags": []
+    },
+    {
+      "id": "oceans-007",
+      "q": "What is the area of the Indian Ocean?",
+      "options": [
+        "106,460,000 sq km",
+        "165,250,000 sq km",
+        "70,560,000 sq km",
+        "14,056,000 sq km"
+      ],
+      "correct": 2,
+      "explanation": "The Indian Ocean has an area of approximately 70,560,000 sq km — the third largest ocean. It is bounded by Asia to the north, Africa to the west, Australia to the east, and Antarctica to the south.",
+      "tags": []
+    },
+    {
+      "id": "oceans-008",
+      "q": "What is the area of the Arctic Ocean?",
+      "options": [
+        "20,000,000 sq km",
+        "9,500,000 sq km",
+        "70,560,000 sq km",
+        "14,056,000 sq km"
+      ],
+      "correct": 3,
+      "explanation": "The Arctic Ocean has an area of approximately 14,056,000 sq km — the smallest of the five oceans. It surrounds the North Pole and is largely covered by sea ice.",
+      "tags": []
+    },
+    {
+      "id": "oceans-009",
+      "q": "What is the average depth of all the world's oceans combined?",
+      "options": [
+        "3,688 metres",
+        "4,000 metres",
+        "2,500 metres",
+        "5,200 metres"
+      ],
+      "correct": 0,
+      "explanation": "The average depth of all the world's oceans combined is approximately 3,688 metres (about 12,100 feet). The Pacific Ocean individually has a higher mean depth of about 4,000 metres.",
+      "tags": []
+    },
+    {
+      "id": "oceans-010",
+      "q": "What is the mean (average) depth of the Pacific Ocean in metres?",
+      "options": [
+        "3,688 metres",
+        "4,000 metres",
+        "5,000 metres",
+        "2,800 metres"
+      ],
+      "correct": 1,
+      "explanation": "The mean depth of the Pacific Ocean is approximately 4,000 metres, which exceeds the world ocean average of 3,688 metres. Its deepest point — the Mariana Trench — reaches 11,034 metres.",
+      "tags": []
+    },
+    {
+      "id": "oceans-011",
+      "q": "What is the mean depth of the Pacific Ocean in feet?",
+      "options": [
+        "12,276 feet",
+        "9,974 feet",
+        "14,040 feet",
+        "8,000 feet"
+      ],
+      "correct": 2,
+      "explanation": "The mean depth of the Pacific Ocean is approximately 14,040 feet (4,000 metres). This figure and the mean depth in metres are both tested in PPSC and FPSC MCQ papers.",
+      "tags": []
+    },
+    {
+      "id": "oceans-012",
+      "q": "The Indian Ocean covers approximately what fraction of Earth's surface?",
+      "options": [
+        "One-fifth",
+        "One-tenth",
+        "One-third",
+        "One-seventh"
+      ],
+      "correct": 3,
+      "explanation": "The Indian Ocean covers approximately one-seventh (about 14.4%) of Earth's total surface area. Its area is about 70,560,000 sq km. It is the third largest ocean after the Pacific and Atlantic.",
+      "tags": []
+    },
+    {
+      "id": "oceans-013",
+      "q": "The Pacific Ocean covers approximately what fraction of Earth's total surface?",
+      "options": [
+        "One-third",
+        "One-fifth",
+        "One-fourth",
+        "One-seventh"
+      ],
+      "correct": 0,
+      "explanation": "The Pacific Ocean covers approximately one-third of Earth's total surface area. Its area of 165,250,000 sq km is greater than the combined land area of all continents on Earth.",
+      "tags": []
+    },
+    {
+      "id": "oceans-014",
+      "q": "Which ocean is both the largest and the deepest in the world?",
+      "options": [
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 1,
+      "explanation": "The Pacific Ocean is both the largest (165,250,000 sq km) and the deepest ocean. Its mean depth is 4,000 metres and its deepest point — the Mariana Trench — reaches 11,034 metres (36,201 feet).",
+      "tags": []
+    },
+    {
+      "id": "oceans-015",
+      "q": "Which is the deepest known point on Earth?",
+      "options": [
+        "Puerto Rico Trench",
+        "Tonga Trench",
+        "Mariana Trench",
+        "Java Trench"
+      ],
+      "correct": 2,
+      "explanation": "The Mariana Trench in the western Pacific Ocean is the deepest known point on Earth, reaching approximately 11,034 metres (36,201 feet) at a location called Challenger Deep, near the Mariana Islands.",
+      "tags": []
+    },
+    {
+      "id": "oceans-016",
+      "q": "What is the depth of the Mariana Trench — the deepest point on Earth?",
+      "options": [
+        "7,258 metres",
+        "8,376 metres",
+        "9,200 metres",
+        "11,034 metres"
+      ],
+      "correct": 3,
+      "explanation": "The Mariana Trench reaches approximately 11,034 metres (36,201 feet) at Challenger Deep. It is located in the western Pacific Ocean, east of the Mariana Islands, and is the deepest known point on Earth.",
+      "tags": []
+    },
+    {
+      "id": "oceans-017",
+      "q": "What is the deepest point of the Indian Ocean?",
+      "options": [
+        "Java Trench (Sunda Trench)",
+        "Mariana Trench",
+        "Puerto Rico Trench",
+        "Cayman Trench"
+      ],
+      "correct": 0,
+      "explanation": "The deepest point of the Indian Ocean is the Java Trench (also called the Sunda Trench), located south of the island of Java in Indonesia, at approximately 7,258 metres (23,812 feet) depth.",
+      "tags": []
+    },
+    {
+      "id": "oceans-018",
+      "q": "What is the depth of the Java Trench (Indian Ocean's deepest point)?",
+      "options": [
+        "11,034 metres",
+        "7,258 metres",
+        "8,376 metres",
+        "5,900 metres"
+      ],
+      "correct": 1,
+      "explanation": "The Java Trench (Sunda Trench) reaches approximately 7,258 metres (23,812 feet) — the deepest point of the Indian Ocean. It is located south of Java island, Indonesia.",
+      "tags": []
+    },
+    {
+      "id": "oceans-019",
+      "q": "What is the deepest point of the Atlantic Ocean?",
+      "options": [
+        "Cayman Trench",
+        "Mariana Trench",
+        "Puerto Rico Trench",
+        "Java Trench"
+      ],
+      "correct": 2,
+      "explanation": "The Puerto Rico Trench is the deepest point of the Atlantic Ocean at approximately 8,376 metres (27,480 feet). It lies north of Puerto Rico and the Dominican Republic.",
+      "tags": []
+    },
+    {
+      "id": "oceans-020",
+      "q": "What is the deepest point of the Arctic Ocean, and at which feature?",
+      "options": [
+        "Cayman Trench",
+        "Java Trench",
+        "Puerto Rico Trench",
+        "Molloy Deep"
+      ],
+      "correct": 3,
+      "explanation": "The deepest point of the Arctic Ocean is the Molloy Deep in the Fram Strait (between Greenland and Svalbard), at approximately 5,669 metres. It is commonly referenced in exam MCQs as the Arctic's deepest point.",
+      "tags": []
+    },
+    {
+      "id": "oceans-021",
+      "q": "What is the area of the Red Sea?",
+      "options": [
+        "438,000 sq km",
+        "250,000 sq km",
+        "638,000 sq km",
+        "178,000 sq km"
+      ],
+      "correct": 0,
+      "explanation": "The Red Sea has an area of approximately 438,000 sq km. It is a seawater inlet of the Indian Ocean, lying between Africa to the west and the Arabian Peninsula to the east.",
+      "tags": []
+    },
+    {
+      "id": "oceans-022",
+      "q": "What is the greatest depth of the Red Sea?",
+      "options": [
+        "7,500 feet",
+        "9,974 feet",
+        "12,276 feet",
+        "6,000 feet"
+      ],
+      "correct": 1,
+      "explanation": "The greatest depth of the Red Sea is 9,974 feet (approximately 3,040 metres), located off Port Sudan on the northeastern coast of Sudan. This is a standard PPSC/FPSC MCQ data point.",
+      "tags": []
+    },
+    {
+      "id": "oceans-023",
+      "q": "Where exactly is the greatest depth of the Red Sea located?",
+      "options": [
+        "Near Suez Canal",
+        "Near Aden",
+        "Off Port Sudan",
+        "Off Jeddah"
+      ],
+      "correct": 2,
+      "explanation": "The greatest depth of the Red Sea — approximately 9,974 feet (3,040 metres) — is located off Port Sudan. Port Sudan is the main seaport of Sudan on the Red Sea coast.",
+      "tags": []
+    },
+    {
+      "id": "oceans-024",
+      "q": "The Red Sea connects to the Mediterranean Sea through which canal?",
+      "options": [
+        "Panama Canal",
+        "Kiel Canal",
+        "Corinth Canal",
+        "Suez Canal"
+      ],
+      "correct": 3,
+      "explanation": "The Red Sea connects to the Mediterranean Sea through the Suez Canal (opened 1869), making the Red Sea the world's main international trade route linking Europe to Asia. The canal is about 193 km long.",
+      "tags": []
+    },
+    {
+      "id": "oceans-025",
+      "q": "Which sea is the world's main international trade route?",
+      "options": [
+        "Red Sea",
+        "Arabian Sea",
+        "Mediterranean Sea",
+        "Caribbean Sea"
+      ],
+      "correct": 0,
+      "explanation": "The Red Sea is the world's main international trade route, connecting the Mediterranean Sea to the Indian Ocean via the Suez Canal. It is one of the world's busiest shipping lanes for oil and cargo transport between Europe and Asia.",
+      "tags": []
+    },
+    {
+      "id": "oceans-026",
+      "q": "The Red Sea connects to the Gulf of Aden through which strait?",
+      "options": [
+        "Strait of Hormuz",
+        "Bab-el-Mandeb Strait",
+        "Strait of Gibraltar",
+        "Bosphorus"
+      ],
+      "correct": 1,
+      "explanation": "The Red Sea connects to the Gulf of Aden via the Strait of Bab-el-Mandeb ('Gate of Tears'), located between Djibouti/Eritrea (Africa) and Yemen (Arabian Peninsula). It is only about 30 km wide at its narrowest.",
+      "tags": []
+    },
+    {
+      "id": "oceans-027",
+      "q": "What is the average depth of the Arabian Sea?",
+      "options": [
+        "3,688 metres",
+        "4,000 metres",
+        "2,734 metres",
+        "1,500 metres"
+      ],
+      "correct": 2,
+      "explanation": "The average depth of the Arabian Sea is 2,734 metres. The Arabian Sea is the northwestern part of the Indian Ocean, bounded by India to the east, the Arabian Peninsula to the west, and Pakistan and Iran to the north.",
+      "tags": []
+    },
+    {
+      "id": "oceans-028",
+      "q": "Pakistan's main seaport, Karachi, is located on which body of water?",
+      "options": [
+        "Red Sea",
+        "Persian Gulf",
+        "Bay of Bengal",
+        "Arabian Sea"
+      ],
+      "correct": 3,
+      "explanation": "Karachi, Pakistan's largest city and main seaport, is located on the coast of the Arabian Sea. The Arabian Sea is the northwestern part of the Indian Ocean and is vital to Pakistan's trade, with Karachi, Port Qasim, and Gwadar all on its shores.",
+      "tags": []
+    },
+    {
+      "id": "oceans-029",
+      "q": "What is the area of the Caribbean Sea?",
+      "options": [
+        "2,754,000 sq km",
+        "1,500,000 sq km",
+        "3,200,000 sq km",
+        "4,100,000 sq km"
+      ],
+      "correct": 0,
+      "explanation": "The Caribbean Sea has an area of approximately 2,754,000 sq km. It borders Central and North America to the west and north, South America to the south, and is flanked by Caribbean islands to the east.",
+      "tags": []
+    },
+    {
+      "id": "oceans-030",
+      "q": "What is the deepest point of the Caribbean Sea?",
+      "options": [
+        "Mariana Trench",
+        "Cayman Trench",
+        "Puerto Rico Trench",
+        "Java Trench"
+      ],
+      "correct": 1,
+      "explanation": "The Cayman Trench (Cayman Trough) is the deepest point of the Caribbean Sea at about 7,686 metres (25,217 feet). It lies between Cuba and Jamaica, making it also the deepest point in the entire Atlantic Ocean basin.",
+      "tags": []
+    },
+    {
+      "id": "oceans-031",
+      "q": "What is the area of the Mediterranean Sea?",
+      "options": [
+        "1,500,000 sq km",
+        "3,800,000 sq km",
+        "2,500,000 sq km",
+        "4,200,000 sq km"
+      ],
+      "correct": 2,
+      "explanation": "The Mediterranean Sea has an area of approximately 2,500,000 sq km, with an average depth of 1,429 metres. It is bordered by Southern Europe to the north, North Africa to the south, and Western Asia to the east.",
+      "tags": []
+    },
+    {
+      "id": "oceans-032",
+      "q": "The Mediterranean Sea connects to the Atlantic Ocean through which strait?",
+      "options": [
+        "Strait of Hormuz",
+        "Strait of Malacca",
+        "Strait of Dover",
+        "Strait of Gibraltar"
+      ],
+      "correct": 3,
+      "explanation": "The Strait of Gibraltar connects the Mediterranean Sea to the Atlantic Ocean. It separates Spain (Europe) from Morocco (Africa) and is only about 14 km wide at its narrowest. It is the most tested Mediterranean strait in PPSC/FPSC MCQs.",
+      "tags": []
+    },
+    {
+      "id": "oceans-033",
+      "q": "The Strait of Gibraltar is approximately how wide at its narrowest point?",
+      "options": [
+        "14 km",
+        "50 km",
+        "30 km",
+        "5 km"
+      ],
+      "correct": 0,
+      "explanation": "The Strait of Gibraltar is approximately 14 km wide at its narrowest point. It connects the Atlantic Ocean to the Mediterranean Sea and separates Spain (Europe) from Morocco (Africa).",
+      "tags": []
+    },
+    {
+      "id": "oceans-034",
+      "q": "The Persian Gulf is also known as:",
+      "options": [
+        "Gulf of Mexico",
+        "Arabian Gulf / Gulf of Iran",
+        "Gulf of Aden",
+        "Gulf of Bengal"
+      ],
+      "correct": 1,
+      "explanation": "The Persian Gulf is known by multiple names: 'Arabian Gulf' (used by Arab countries), 'Gulf of Iran' (used by Iran), and historically 'Gulf of Persia'. All three are in use. It is bordered by Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, UAE, and Oman.",
+      "tags": []
+    },
+    {
+      "id": "oceans-035",
+      "q": "Which country is located to the northeast of the Persian Gulf?",
+      "options": [
+        "Iraq",
+        "Kuwait",
+        "Iran",
+        "Saudi Arabia"
+      ],
+      "correct": 2,
+      "explanation": "Iran is located to the northeast of the Persian Gulf. The Gulf is bordered by Iran to the north and east, and by Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, UAE, and Oman to the west and south.",
+      "tags": []
+    },
+    {
+      "id": "oceans-036",
+      "q": "The Strait of Hormuz connects the Persian Gulf to which body of water?",
+      "options": [
+        "Red Sea",
+        "Arabian Sea",
+        "Gulf of Aden",
+        "Gulf of Oman"
+      ],
+      "correct": 3,
+      "explanation": "The Strait of Hormuz connects the Persian Gulf to the Gulf of Oman, and from there to the Arabian Sea. It is the world's most important oil chokepoint — about 20% of global oil supply passes through it daily.",
+      "tags": []
+    },
+    {
+      "id": "oceans-037",
+      "q": "What is the area of the Adriatic Sea?",
+      "options": [
+        "138,600 sq km",
+        "250,000 sq km",
+        "500,000 sq km",
+        "80,000 sq km"
+      ],
+      "correct": 0,
+      "explanation": "The Adriatic Sea has an area of approximately 138,600 sq km. It is an arm of the Mediterranean Sea, bordered by Italy to the west and Croatia, Slovenia, Bosnia, Montenegro, and Albania to the east.",
+      "tags": []
+    },
+    {
+      "id": "oceans-038",
+      "q": "What is the maximum depth of the Sea of Japan?",
+      "options": [
+        "9,974 feet",
+        "12,276 feet",
+        "14,040 feet",
+        "8,000 feet"
+      ],
+      "correct": 1,
+      "explanation": "The maximum depth of the Sea of Japan (East Sea) is approximately 12,276 feet (about 3,742 metres). It borders Russia, Japan, North Korea, and South Korea.",
+      "tags": []
+    },
+    {
+      "id": "oceans-039",
+      "q": "What is the area of the Sea of Okhotsk?",
+      "options": [
+        "2,100,000 sq km",
+        "900,000 sq km",
+        "1,583,000 sq km",
+        "1,200,000 sq km"
+      ],
+      "correct": 2,
+      "explanation": "The Sea of Okhotsk has an area of approximately 1,583,000 sq km. It is a marginal sea of the Pacific Ocean, enclosed by Russia's Kamchatka Peninsula, Siberia, and Japan's Hokkaido island.",
+      "tags": []
+    },
+    {
+      "id": "oceans-040",
+      "q": "What is the maximum depth of Hudson Bay?",
+      "options": [
+        "3,000 feet",
+        "5,000 feet",
+        "1,500 feet",
+        "900 feet"
+      ],
+      "correct": 3,
+      "explanation": "The maximum depth of Hudson Bay is approximately 900 feet (about 270 metres) — one of the world's shallowest seas. It is an inland sea in northeastern Canada connected to the Atlantic Ocean via Hudson Strait.",
+      "tags": []
+    },
+    {
+      "id": "oceans-041",
+      "q": "What is the maximum depth of the Andaman Sea?",
+      "options": [
+        "13,773 feet",
+        "9,974 feet",
+        "12,276 feet",
+        "7,000 feet"
+      ],
+      "correct": 0,
+      "explanation": "The maximum depth of the Andaman Sea is approximately 13,773 feet (about 4,198 metres). It is part of the Indian Ocean, bounded by Myanmar, Thailand, Malaysia, and India's Andaman and Nicobar Islands.",
+      "tags": []
+    },
+    {
+      "id": "oceans-042",
+      "q": "What is the maximum depth of the Bering Sea?",
+      "options": [
+        "5,000 metres",
+        "3,936 metres",
+        "4,500 metres",
+        "2,800 metres"
+      ],
+      "correct": 1,
+      "explanation": "The maximum depth of the Bering Sea is approximately 3,936 metres (12,913 feet). It lies between Alaska (USA) and Russia, connected to the Arctic Ocean via the Bering Strait.",
+      "tags": []
+    },
+    {
+      "id": "oceans-043",
+      "q": "What is the area of the East China Sea?",
+      "options": [
+        "2,100,000 sq km",
+        "800,000 sq km",
+        "1,249,000 sq km",
+        "1,750,000 sq km"
+      ],
+      "correct": 2,
+      "explanation": "The East China Sea has an area of approximately 1,249,000 sq km. It is part of the Pacific Ocean, bordered by China to the west, Japan to the east, and South Korea to the north.",
+      "tags": []
+    },
+    {
+      "id": "oceans-044",
+      "q": "Which is the largest sea in the world by area?",
+      "options": [
+        "Caribbean Sea",
+        "Mediterranean Sea",
+        "Arabian Sea",
+        "South China Sea"
+      ],
+      "correct": 3,
+      "explanation": "The South China Sea is the world's largest sea by area, covering approximately 3,500,000 sq km. It is part of the Pacific Ocean, bordered by China, Vietnam, Philippines, Malaysia, Brunei, Indonesia, Singapore, and Taiwan.",
+      "tags": []
+    },
+    {
+      "id": "oceans-045",
+      "q": "Which strait is the most important shipping lane between the Indian Ocean and the Pacific Ocean?",
+      "options": [
+        "Strait of Malacca",
+        "Strait of Hormuz",
+        "Drake Passage",
+        "Bering Strait"
+      ],
+      "correct": 0,
+      "explanation": "The Strait of Malacca, located between the Malay Peninsula and Sumatra (Indonesia), is the most important shipping lane between the Indian Ocean and the South China Sea (Pacific). About 80,000+ ships pass through it annually.",
+      "tags": []
+    },
+    {
+      "id": "oceans-046",
+      "q": "The Bosphorus Strait connects which two water bodies?",
+      "options": [
+        "Mediterranean Sea to Atlantic Ocean",
+        "Black Sea to Sea of Marmara",
+        "Persian Gulf to Gulf of Oman",
+        "North Sea to Baltic Sea"
+      ],
+      "correct": 1,
+      "explanation": "The Bosphorus Strait connects the Black Sea to the Sea of Marmara. From there, the Dardanelles Strait connects to the Aegean Sea. Together they form the Turkish Straits system running through Istanbul, Turkey.",
+      "tags": []
+    },
+    {
+      "id": "oceans-047",
+      "q": "The Dardanelles Strait connects:",
+      "options": [
+        "Mediterranean Sea to Atlantic Ocean",
+        "Black Sea to Aegean Sea",
+        "Sea of Marmara to Aegean Sea",
+        "Persian Gulf to Gulf of Oman"
+      ],
+      "correct": 2,
+      "explanation": "The Dardanelles Strait connects the Sea of Marmara to the Aegean Sea. Together with the Bosphorus, it forms the Turkish Straits system linking the Black Sea to the Mediterranean Sea, passing through Turkey.",
+      "tags": []
+    },
+    {
+      "id": "oceans-048",
+      "q": "The Palk Strait separates which two countries?",
+      "options": [
+        "Bangladesh and Myanmar",
+        "Pakistan and India",
+        "India and Maldives",
+        "India and Sri Lanka"
+      ],
+      "correct": 3,
+      "explanation": "The Palk Strait separates India (Tamil Nadu) from Sri Lanka. It connects the Bay of Bengal to the Gulf of Mannar. It is historically significant and is partly bridged by Adam's Bridge (Rama Setu).",
+      "tags": []
+    },
+    {
+      "id": "oceans-049",
+      "q": "Which strait separates Alaska (USA) from Russia?",
+      "options": [
+        "Bering Strait",
+        "Drake Passage",
+        "Strait of Magellan",
+        "Bass Strait"
+      ],
+      "correct": 0,
+      "explanation": "The Bering Strait separates Alaska (USA) from the Chukotka Peninsula of Russia. At its narrowest, it is only about 85 km wide. It connects the Bering Sea (Pacific) to the Chukchi Sea (Arctic Ocean).",
+      "tags": []
+    },
+    {
+      "id": "oceans-050",
+      "q": "The Drake Passage connects the Atlantic Ocean to the Pacific Ocean via:",
+      "options": [
+        "Pacific to Indian ocean route",
+        "South of Cape Horn, South America",
+        "Through the Panama isthmus",
+        "Via the Bering Strait"
+      ],
+      "correct": 1,
+      "explanation": "The Drake Passage connects the Atlantic Ocean to the Pacific Ocean south of Cape Horn (South America). At about 800 km wide between South America and Antarctica, it is the widest and deepest ocean passage in the world.",
+      "tags": []
+    },
+    {
+      "id": "oceans-051",
+      "q": "The Strait of Magellan is located at the:",
+      "options": [
+        "Tip of Africa (Cape of Good Hope)",
+        "Tip of South America (Patagonia)",
+        "Between Australia and New Zealand",
+        "Between Alaska and Russia"
+      ],
+      "correct": 1,
+      "explanation": "The Strait of Magellan is at the southern tip of South America, separating Patagonian mainland from Tierra del Fuego. Named after Ferdinand Magellan, it was the first navigated route between the Atlantic and Pacific Oceans (1520).",
+      "tags": []
+    },
+    {
+      "id": "oceans-052",
+      "q": "The Cook Strait separates:",
+      "options": [
+        "Australia from Tasmania",
+        "India from Sri Lanka",
+        "UK from France",
+        "New Zealand's North Island from South Island"
+      ],
+      "correct": 3,
+      "explanation": "The Cook Strait separates New Zealand's North Island from its South Island. It is about 22 km wide at its narrowest and was named after Captain James Cook. It connects the Tasman Sea to the Pacific Ocean.",
+      "tags": []
+    },
+    {
+      "id": "oceans-053",
+      "q": "The Strait of Dover connects the North Sea to the:",
+      "options": [
+        "English Channel",
+        "Mediterranean Sea",
+        "Black Sea",
+        "Persian Gulf"
+      ],
+      "correct": 0,
+      "explanation": "The Strait of Dover (Pas de Calais in French) connects the North Sea to the English Channel. At about 34 km wide at its narrowest, it separates England from France and is one of the world's busiest shipping lanes.",
+      "tags": []
+    },
+    {
+      "id": "oceans-054",
+      "q": "Which is the largest bay in the world by area?",
+      "options": [
+        "Gulf of Mexico",
+        "Bay of Bengal",
+        "Hudson Bay",
+        "Arabian Sea"
+      ],
+      "correct": 1,
+      "explanation": "The Bay of Bengal is the largest bay in the world by area, covering approximately 2,172,000 sq km. It is the northeastern part of the Indian Ocean, bordered by India, Bangladesh, Myanmar, Sri Lanka, and the Andaman Islands.",
+      "tags": []
+    },
+    {
+      "id": "oceans-055",
+      "q": "The Bay of Bengal is part of which ocean?",
+      "options": [
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 2,
+      "explanation": "The Bay of Bengal is the northeastern arm of the Indian Ocean. It is bordered by India to the west, Bangladesh and Myanmar to the north, and the Andaman and Nicobar Islands to the east. Several major rivers — Ganges, Brahmaputra, Irrawaddy — drain into it.",
+      "tags": []
+    },
+    {
+      "id": "oceans-056",
+      "q": "Persian Gulf oil is mainly exported to the world via which strait?",
+      "options": [
+        "Bosphorus",
+        "Bab-el-Mandeb",
+        "Strait of Gibraltar",
+        "Strait of Hormuz"
+      ],
+      "correct": 3,
+      "explanation": "Persian Gulf oil is mainly exported via the Strait of Hormuz, which connects the Persian Gulf to the Gulf of Oman. About 20% of global oil supply passes through it daily, making it the world's most important oil chokepoint.",
+      "tags": []
+    },
+    {
+      "id": "oceans-057",
+      "q": "The Gulf of Aden is bounded by Somalia and:",
+      "options": [
+        "India",
+        "Oman",
+        "Yemen",
+        "Iran"
+      ],
+      "correct": 2,
+      "explanation": "The Gulf of Aden is bounded by Somalia (Africa) to the south and Yemen (Arabian Peninsula) to the north. It connects to the Red Sea via the Bab-el-Mandeb Strait to the west and to the Arabian Sea to the east.",
+      "tags": []
+    },
+    {
+      "id": "oceans-058",
+      "q": "The Sargasso Sea — a sea with no coastline — is located in which ocean?",
+      "options": [
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 2,
+      "explanation": "The Sargasso Sea is the only sea in the world with no land boundaries. Located in the North Atlantic Ocean, it is bounded by four ocean currents (the North Atlantic Gyre). It is known for its floating Sargassum seaweed.",
+      "tags": []
+    },
+    {
+      "id": "oceans-059",
+      "q": "The Bermuda Triangle is located in which ocean?",
+      "options": [
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Atlantic Ocean"
+      ],
+      "correct": 3,
+      "explanation": "The Bermuda Triangle is located in the North Atlantic Ocean, roughly between Miami (Florida), Bermuda, and Puerto Rico. It lies within the Sargasso Sea area and is known in folklore for mysterious disappearances of ships and aircraft.",
+      "tags": []
+    },
+    {
+      "id": "oceans-060",
+      "q": "The Great Barrier Reef — the world's largest coral reef — is in which ocean?",
+      "options": [
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 2,
+      "explanation": "The Great Barrier Reef (over 2,300 km long, the world's largest coral reef system) is located in the Coral Sea, a marginal sea of the Pacific Ocean, off the northeastern coast of Queensland, Australia.",
+      "tags": []
+    },
+    {
+      "id": "oceans-061",
+      "q": "The Suez Canal connects the Red Sea to which sea?",
+      "options": [
+        "Arabian Sea",
+        "Caspian Sea",
+        "Black Sea",
+        "Mediterranean Sea"
+      ],
+      "correct": 3,
+      "explanation": "The Suez Canal connects the Red Sea (at Port Suez) to the Mediterranean Sea (at Port Said). Opened in 1869, it is 193 km long and allows ships to travel between Europe and Asia without going around Africa, saving about 7,000 km.",
+      "tags": []
+    },
+    {
+      "id": "oceans-062",
+      "q": "The Panama Canal connects which two oceans?",
+      "options": [
+        "Atlantic and Indian",
+        "Indian and Pacific",
+        "Arctic and Atlantic",
+        "Atlantic and Pacific"
+      ],
+      "correct": 3,
+      "explanation": "The Panama Canal connects the Atlantic Ocean (via the Caribbean Sea) to the Pacific Ocean. It cuts through the Isthmus of Panama and was opened in 1914. It is about 82 km long and is operated by the Panama Canal Authority.",
+      "tags": []
+    },
+    {
+      "id": "oceans-063",
+      "q": "The Kiel Canal in Germany connects the North Sea to the:",
+      "options": [
+        "Baltic Sea",
+        "Black Sea",
+        "Adriatic Sea",
+        "Caspian Sea"
+      ],
+      "correct": 0,
+      "explanation": "The Kiel Canal (Kaiser Wilhelm Canal) connects the North Sea to the Baltic Sea. At 98 km long, it is one of the world's busiest artificial waterways and allows ships to bypass Denmark's Jutland Peninsula.",
+      "tags": []
+    },
+    {
+      "id": "oceans-064",
+      "q": "In which year was the Suez Canal opened?",
+      "options": [
+        "1845",
+        "1905",
+        "1914",
+        "1869"
+      ],
+      "correct": 3,
+      "explanation": "The Suez Canal was opened on November 17, 1869. It is 193 km long and connects the Red Sea to the Mediterranean Sea. Its opening revolutionized world trade between Europe and Asia.",
+      "tags": []
+    },
+    {
+      "id": "oceans-065",
+      "q": "Which body of water is considered the world's largest lake by surface area?",
+      "options": [
+        "Caspian Sea",
+        "Lake Superior",
+        "Lake Baikal",
+        "Aral Sea"
+      ],
+      "correct": 0,
+      "explanation": "The Caspian Sea is the world's largest lake by surface area (approximately 371,000 sq km). Despite being called a 'sea', it is actually a landlocked saline lake with no outflow to the ocean, bordered by Russia, Kazakhstan, Turkmenistan, Iran, and Azerbaijan.",
+      "tags": []
+    },
+    {
+      "id": "oceans-066",
+      "q": "The Coral Sea is part of which ocean?",
+      "options": [
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 1,
+      "explanation": "The Coral Sea is a marginal sea of the Pacific Ocean, located off the northeastern coast of Australia. It is home to the Great Barrier Reef and the Coral Sea Islands. Its deepest point is the Bougainville Trench at about 9,140 metres.",
+      "tags": []
+    },
+    {
+      "id": "oceans-067",
+      "q": "Which is the saltiest large body of water in the world?",
+      "options": [
+        "Arabian Sea",
+        "Mediterranean Sea",
+        "Dead Sea",
+        "Red Sea"
+      ],
+      "correct": 2,
+      "explanation": "The Dead Sea (bordering Israel, Jordan, and Palestine) is the saltiest large body of water in the world, with salinity of about 34.2% — nearly 10 times the ocean average of 3.5%. It is actually a landlocked salt lake, not a true sea, and is also the lowest point on Earth's surface.",
+      "tags": []
+    },
+    {
+      "id": "oceans-068",
+      "q": "How many countries border the Caspian Sea?",
+      "options": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correct": 2,
+      "explanation": "The Caspian Sea is bordered by five countries: Russia (north), Kazakhstan (northeast and east), Turkmenistan (southeast), Iran (south), and Azerbaijan (west). It is the world's largest landlocked lake by surface area.",
+      "tags": []
+    },
+    {
+      "id": "oceans-069",
+      "q": "Which ocean is considered the warmest on average?",
+      "options": [
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 0,
+      "explanation": "The Indian Ocean is the warmest ocean on average. Being landlocked on three sides (by Asia, Africa, and Australia), it retains heat well and has limited cold Arctic water circulation. Its surface temperatures in the tropics are among the highest of any ocean.",
+      "tags": []
+    },
+    {
+      "id": "oceans-070",
+      "q": "What connects the Black Sea to the Mediterranean Sea through Turkey?",
+      "options": [
+        "Suez Canal",
+        "Turkish Straits (Bosphorus-Marmara-Dardanelles)",
+        "Panama Canal",
+        "Kiel Canal"
+      ],
+      "correct": 1,
+      "explanation": "The Turkish Straits system — comprising the Bosphorus Strait, the Sea of Marmara, and the Dardanelles Strait — connects the Black Sea to the Aegean Sea and Mediterranean Sea, passing entirely through Turkey's territory (including Istanbul).",
+      "tags": []
+    },
+    {
+      "id": "oceans-071",
+      "q": "Which sea forms the entire southern coastline of Pakistan?",
+      "options": [
+        "Persian Gulf",
+        "Red Sea",
+        "Arabian Sea",
+        "Bay of Bengal"
+      ],
+      "correct": 2,
+      "explanation": "Pakistan's approximately 1,046 km southern coastline borders the Arabian Sea. The Arabian Sea is the northwestern part of the Indian Ocean. Pakistan's major ports — Karachi, Port Qasim, and Gwadar (CPEC) — are all on the Arabian Sea.",
+      "tags": []
+    },
+    {
+      "id": "oceans-072",
+      "q": "Gwadar Port, developed under CPEC, is located on which sea?",
+      "options": [
+        "Red Sea",
+        "Persian Gulf",
+        "Bay of Bengal",
+        "Arabian Sea"
+      ],
+      "correct": 3,
+      "explanation": "Gwadar Port in Balochistan, Pakistan, is located on the Arabian Sea coast. Developed under the China-Pakistan Economic Corridor (CPEC), it gives China direct access to the Arabian Sea and Indian Ocean, making it strategically vital for China's Belt and Road Initiative.",
+      "tags": []
+    },
+    {
+      "id": "oceans-073",
+      "q": "The Arabian Sea is a northwestern arm of which ocean?",
+      "options": [
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 0,
+      "explanation": "The Arabian Sea is the northwestern part of the Indian Ocean. It is bounded by India to the east, the Arabian Peninsula to the west, and Pakistan and Iran to the north. It connects to the Persian Gulf via the Gulf of Oman.",
+      "tags": []
+    },
+    {
+      "id": "oceans-074",
+      "q": "The Indus River — Pakistan's main river — flows into which body of water?",
+      "options": [
+        "Bay of Bengal",
+        "Arabian Sea",
+        "Persian Gulf",
+        "Red Sea"
+      ],
+      "correct": 1,
+      "explanation": "The Indus River (3,180 km long), Pakistan's most important river and the source of the country's name, flows into the Arabian Sea near Thatta in Sindh province. The Indus delta is an extensive area of swampland and creeks near Karachi.",
+      "tags": []
+    },
+    {
+      "id": "oceans-075",
+      "q": "Which ocean has the greatest number of islands — approximately 25,000?",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 2,
+      "explanation": "The Pacific Ocean has the greatest number of islands — approximately 25,000, more than all other oceans combined. These include the island groups of Polynesia (Hawaii, Tahiti), Micronesia, and Melanesia, as well as the Japanese and Philippine archipelagos.",
+      "tags": []
+    },
+    {
+      "id": "oceans-076",
+      "q": "What is the total area of all the world's oceans combined?",
+      "options": [
+        "251,000,000 sq km",
+        "420,000,000 sq km",
+        "510,000,000 sq km",
+        "361,000,000 sq km"
+      ],
+      "correct": 3,
+      "explanation": "The world's oceans cover approximately 361,000,000 sq km in total — about 71% of Earth's total surface area of 510 million sq km. The Pacific alone accounts for about 46% of total ocean area.",
+      "tags": []
+    },
+    {
+      "id": "oceans-077",
+      "q": "What percentage of all water on Earth is found in the oceans (salt water)?",
+      "options": [
+        "97%",
+        "71%",
+        "85%",
+        "60%"
+      ],
+      "correct": 0,
+      "explanation": "Approximately 97% of all water on Earth is found in the oceans as salt water. The remaining 3% is fresh water, of which about two-thirds is stored in glaciers and ice caps, and the rest in groundwater, rivers, and lakes.",
+      "tags": []
+    },
+    {
+      "id": "oceans-078",
+      "q": "Approximately what percentage of Earth's surface is covered by water?",
+      "options": [
+        "61%",
+        "71%",
+        "85%",
+        "55%"
+      ],
+      "correct": 1,
+      "explanation": "Approximately 71% of Earth's surface is covered by water — primarily oceans and seas. The remaining 29% is land. The Pacific Ocean alone covers about one-third of Earth's entire surface.",
+      "tags": []
+    },
+    {
+      "id": "oceans-079",
+      "q": "The Red Sea has unusually high salinity — which sea is generally considered saltier after the Dead Sea?",
+      "options": [
+        "Arabian Sea",
+        "Caspian Sea",
+        "Red Sea",
+        "Mediterranean Sea"
+      ],
+      "correct": 2,
+      "explanation": "The Red Sea is one of the world's saltiest seas (about 40–41 ppt vs ocean average of 35 ppt), due to high evaporation and minimal freshwater input. After the Dead Sea (a lake) and certain lake-seas, the Red Sea ranks among the saltiest true seas in the world.",
+      "tags": []
+    },
+    {
+      "id": "oceans-080",
+      "q": "The North Sea is bordered mainly by which group of countries?",
+      "options": [
+        "USA, Canada, Greenland",
+        "Brazil, Argentina, Chile",
+        "India, Pakistan, Bangladesh",
+        "Norway, Denmark, Germany, Netherlands, Belgium, UK"
+      ],
+      "correct": 3,
+      "explanation": "The North Sea is bordered by Norway, Denmark, Germany, Netherlands, Belgium, France, and the United Kingdom. It is a marginal sea of the Atlantic Ocean, important for oil extraction (North Sea oil) and fishing.",
+      "tags": []
+    },
+    {
+      "id": "oceans-081",
+      "q": "Which is the deepest lake in the world?",
+      "options": [
+        "Lake Baikal",
+        "Lake Superior",
+        "Lake Victoria",
+        "Caspian Sea"
+      ],
+      "correct": 0,
+      "explanation": "Lake Baikal in Siberia, Russia, is the deepest lake in the world, reaching a maximum depth of 1,642 metres (5,387 feet). It also holds about 20% of all unfrozen surface fresh water on Earth and is approximately 25 million years old.",
+      "tags": []
+    },
+    {
+      "id": "oceans-082",
+      "q": "Which is the only sea in the world that has no land borders (no coastline)?",
+      "options": [
+        "Red Sea",
+        "Arabian Sea",
+        "Sargasso Sea",
+        "Caribbean Sea"
+      ],
+      "correct": 2,
+      "explanation": "The Sargasso Sea is unique — it is the only sea with no land boundaries. Located in the North Atlantic, it is defined entirely by four ocean currents (the North Atlantic Gyre). It is famous for its floating Sargassum seaweed and the legendary Bermuda Triangle.",
+      "tags": []
+    },
+    {
+      "id": "oceans-083",
+      "q": "The Arabian Sea connects to the Persian Gulf via which intermediate gulf?",
+      "options": [
+        "Gulf of Mexico",
+        "Gulf of Aden",
+        "Gulf of Oman",
+        "Gulf of Bengal"
+      ],
+      "correct": 2,
+      "explanation": "The Arabian Sea connects to the Persian Gulf via the Gulf of Oman. The Strait of Hormuz then connects the Gulf of Oman to the Persian Gulf. This route is vital for oil tankers departing from Gulf countries to reach world markets.",
+      "tags": []
+    },
+    {
+      "id": "oceans-084",
+      "q": "Which ocean current keeps Western Europe significantly warmer than its latitude would suggest?",
+      "options": [
+        "California Current",
+        "Humboldt Current",
+        "Labrador Current",
+        "North Atlantic Drift (Gulf Stream extension)"
+      ],
+      "correct": 3,
+      "explanation": "The North Atlantic Drift (the northeastern extension of the Gulf Stream) keeps Western Europe significantly warmer than other locations at the same latitude. Without it, countries like the UK, Ireland, and Norway would experience much colder temperatures, similar to Labrador, Canada.",
+      "tags": []
+    },
+    {
+      "id": "oceans-085",
+      "q": "The Mozambique Channel lies between Madagascar and:",
+      "options": [
+        "Mainland Africa (Mozambique)",
+        "India and Pakistan",
+        "Australia and New Zealand",
+        "Indonesia and Malaysia"
+      ],
+      "correct": 0,
+      "explanation": "The Mozambique Channel lies between the island of Madagascar and the southeastern coast of Africa (Mozambique). It is part of the Indian Ocean and is about 1,670 km long and 450 km wide at its narrowest point.",
+      "tags": []
+    },
+    {
+      "id": "oceans-086",
+      "q": "What is the area of the South China Sea?",
+      "options": [
+        "1,500,000 sq km",
+        "3,500,000 sq km",
+        "2,500,000 sq km",
+        "5,000,000 sq km"
+      ],
+      "correct": 1,
+      "explanation": "The South China Sea has an area of approximately 3,500,000 sq km, making it the world's largest sea. It is a marginal sea of the Pacific Ocean and one of the world's most important — and disputed — shipping lanes.",
+      "tags": []
+    },
+    {
+      "id": "oceans-087",
+      "q": "The Aegean Sea lies between which two countries?",
+      "options": [
+        "Italy and Croatia",
+        "Spain and Morocco",
+        "Greece and Turkey",
+        "France and Britain"
+      ],
+      "correct": 2,
+      "explanation": "The Aegean Sea lies between Greece to the west and Turkey to the east. It is an arm of the Mediterranean Sea and contains numerous Greek and Turkish islands. The Dardanelles Strait connects it to the Sea of Marmara.",
+      "tags": []
+    },
+    {
+      "id": "oceans-088",
+      "q": "How many oceans are there officially?",
+      "options": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correct": 2,
+      "explanation": "There are five officially named oceans: Pacific, Atlantic, Indian, Arctic, and Southern. The Southern Ocean (surrounding Antarctica) has been officially recognised by major geographical bodies. 'Antarctic Ocean' is NOT the correct official name.",
+      "tags": []
+    },
+    {
+      "id": "oceans-089",
+      "q": "The Tasman Sea is located between:",
+      "options": [
+        "Australia and New Zealand",
+        "USA and Canada",
+        "India and Sri Lanka",
+        "Norway and Denmark"
+      ],
+      "correct": 0,
+      "explanation": "The Tasman Sea is located between Australia to the west and New Zealand to the east. It is part of the South Pacific Ocean and was named after the Dutch explorer Abel Tasman, who first charted parts of Australia and New Zealand in 1642.",
+      "tags": []
+    },
+    {
+      "id": "oceans-090",
+      "q": "In which year was the Suez Canal opened?",
+      "options": [
+        "1845",
+        "1869",
+        "1914",
+        "1956"
+      ],
+      "correct": 1,
+      "explanation": "The Suez Canal was opened on November 17, 1869. Built under Ferdinand de Lesseps, it is 193 km long and connects the Red Sea (Port Suez) to the Mediterranean (Port Said), transforming world trade between Europe and Asia.",
+      "tags": []
+    },
+    {
+      "id": "oceans-091",
+      "q": "In which year was the Panama Canal opened?",
+      "options": [
+        "1869",
+        "1905",
+        "1914",
+        "1930"
+      ],
+      "correct": 2,
+      "explanation": "The Panama Canal was opened on August 15, 1914. It is about 82 km long and connects the Atlantic Ocean (via the Caribbean Sea) to the Pacific Ocean. It was built by the United States after France's failed earlier attempt.",
+      "tags": []
+    },
+    {
+      "id": "oceans-092",
+      "q": "What is the average depth of the Mediterranean Sea?",
+      "options": [
+        "3,688 metres",
+        "4,000 metres",
+        "2,734 metres",
+        "1,429 metres"
+      ],
+      "correct": 3,
+      "explanation": "The average depth of the Mediterranean Sea is approximately 1,429 metres (4,688 feet) — relatively shallow compared to the major oceans. Its deepest point is the Calypso Deep in the Ionian Sea at about 5,267 metres.",
+      "tags": []
+    },
+    {
+      "id": "oceans-093",
+      "q": "Which body of water is entirely enclosed by land — the world's largest landlocked lake?",
+      "options": [
+        "Caspian Sea",
+        "Aral Sea",
+        "Dead Sea",
+        "Lake Baikal"
+      ],
+      "correct": 0,
+      "explanation": "The Caspian Sea is entirely enclosed by land (Russia, Kazakhstan, Turkmenistan, Iran, Azerbaijan) with no direct ocean connection. Despite being called a 'sea' due to its size and saltwater, it is technically the world's largest landlocked lake (approximately 371,000 sq km).",
+      "tags": []
+    },
+    {
+      "id": "oceans-094",
+      "q": "The Bass Strait separates mainland Australia from:",
+      "options": [
+        "New Zealand",
+        "Tasmania",
+        "Sri Lanka",
+        "Papua New Guinea"
+      ],
+      "correct": 1,
+      "explanation": "The Bass Strait separates mainland Australia from the island state of Tasmania. It connects the Indian Ocean to the Tasman Sea (Pacific Ocean) and is about 240 km wide. It was named after English surgeon George Bass who navigated it in 1798.",
+      "tags": []
+    },
+    {
+      "id": "oceans-095",
+      "q": "The Indian Ocean is bounded to the north by which continent?",
+      "options": [
+        "Africa",
+        "Australia",
+        "Antarctica",
+        "Asia"
+      ],
+      "correct": 2,
+      "explanation": "The Indian Ocean is bounded by Asia to the north (including the Arabian Peninsula, India, and Southeast Asia), Africa to the west, Australia to the east, and Antarctica to the south. This four-sided geography makes it the only ocean with a 'closed' northern boundary.",
+      "tags": []
+    },
+    {
+      "id": "oceans-096",
+      "q": "The Black Sea connects to the Mediterranean Sea through which route?",
+      "options": [
+        "Suez Canal",
+        "Strait of Gibraltar",
+        "Panama Canal",
+        "Turkish Straits (Bosphorus-Marmara-Dardanelles)"
+      ],
+      "correct": 3,
+      "explanation": "The Black Sea connects to the Mediterranean Sea through the Turkish Straits: Black Sea → Bosphorus Strait → Sea of Marmara → Dardanelles Strait → Aegean Sea → Mediterranean Sea. All of this water route passes through Turkey.",
+      "tags": []
+    },
+    {
+      "id": "oceans-097",
+      "q": "In PPSC and FPSC MCQs, which ocean is described as covering 'one-third of Earth's surface'?",
+      "options": [
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 0,
+      "explanation": "The Pacific Ocean covers approximately one-third of Earth's total surface area — a standard fact tested in PPSC, FPSC, CSS, PMS, and NTS general knowledge sections. The Pacific's area of 165,250,000 sq km exceeds that of all landmasses combined.",
+      "tags": []
+    },
+    {
+      "id": "oceans-098",
+      "q": "In PPSC/FPSC exams, which is the correct answer for 'world's main international trade route'?",
+      "options": [
+        "Arabian Sea",
+        "Red Sea",
+        "Mediterranean Sea",
+        "Caribbean Sea"
+      ],
+      "correct": 1,
+      "explanation": "The Red Sea is the correct answer for 'world's main international trade route' — a standard MCQ in PPSC, FPSC, CSS, and NTS exams. It links the Suez Canal (Mediterranean) to the Indian Ocean, carrying a significant proportion of global trade including oil and consumer goods.",
+      "tags": []
+    },
+    {
+      "id": "oceans-099",
+      "q": "For CSS/FPSC exams, what is the depth of the Mariana Trench — the deepest point on Earth?",
+      "options": [
+        "7,258 metres",
+        "8,376 metres",
+        "11,034 metres",
+        "9,200 metres"
+      ],
+      "correct": 2,
+      "explanation": "The Mariana Trench reaches approximately 11,034 metres (36,201 feet) at Challenger Deep — the deepest known point on Earth. Located in the western Pacific, this figure is a standard CSS, FPSC, and PPSC data point. The Indian Ocean's deepest point — the Java Trench — is 7,258 metres.",
+      "tags": []
+    },
+    {
+      "id": "oceans-100",
+      "q": "Which of these is NOT one of the five officially named oceans?",
+      "options": [
+        "Southern Ocean",
+        "Arctic Ocean",
+        "Atlantic Ocean",
+        "Antarctic Ocean"
+      ],
+      "correct": 3,
+      "explanation": "'Antarctic Ocean' is NOT an official ocean name. The body of water surrounding Antarctica is officially called the Southern Ocean. The five named oceans are: Pacific, Atlantic, Indian, Arctic, and Southern. This is a classic trick question in competitive exams.",
+      "tags": []
+    }
+  ]
+}

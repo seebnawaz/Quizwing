@@ -1,0 +1,687 @@
+{
+  "topic_id": "artificial-intelligence-cloud-computing-it",
+  "topic_name": "Artificial Intelligence Cloud Computing It",
+  "subject": "computer-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Artificial Intelligence Cloud Computing It MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🤖",
+  "mcqs": [
+    {
+      "id": "artifi-001",
+      "q": "Artificial Intelligence (AI) is best described as:",
+      "options": [
+        "A type of hardware",
+        "An emerging branch in computer science which interprets the means and method of making computers think like human beings",
+        "A type of OS",
+        "A printer driver"
+      ],
+      "correct": 1,
+      "explanation": "AI is an emerging branch in computer science which interprets means and method of making computers think like human beings.",
+      "tags": []
+    },
+    {
+      "id": "artifi-002",
+      "q": "What is the primary consideration (key design principle) when designing an AI-based system?",
+      "options": [
+        "Cost",
+        "Efficiency",
+        "Colour",
+        "Weight"
+      ],
+      "correct": 1,
+      "explanation": "Efficiency is the primary consideration / key design principle when designing an AI-based system.",
+      "tags": []
+    },
+    {
+      "id": "artifi-003",
+      "q": "A robot is also known as a:",
+      "options": [
+        "Logical agent",
+        "Mechanical agent",
+        "Optical agent",
+        "Magnetic agent"
+      ],
+      "correct": 1,
+      "explanation": "A robot is known as a mechanical agent — capable of carrying out actions in the physical world.",
+      "tags": []
+    },
+    {
+      "id": "artifi-004",
+      "q": "Which logic programming language has an important role in Artificial Intelligence?",
+      "options": [
+        "FORTRAN",
+        "COBOL",
+        "Prolog",
+        "BASIC"
+      ],
+      "correct": 2,
+      "explanation": "Prolog (Programming in Logic) is a logic programming language that has an important role in Artificial Intelligence.",
+      "tags": []
+    },
+    {
+      "id": "artifi-005",
+      "q": "Which generation of computer has more technological advancement than all previous generations and is based on AI?",
+      "options": [
+        "3rd Generation",
+        "4th Generation",
+        "5th Generation",
+        "2nd Generation"
+      ],
+      "correct": 2,
+      "explanation": "The Fifth Generation Computer has more technological advancement compared to all other generation computers and is based on Artificial Intelligence.",
+      "tags": []
+    },
+    {
+      "id": "artifi-006",
+      "q": "A finger-print reader is most commonly used in:",
+      "options": [
+        "Criminal investigations and security systems",
+        "Image editing",
+        "Spreadsheet calculations",
+        "Word processing"
+      ],
+      "correct": 0,
+      "explanation": "A finger-print reader is used for criminal investigations and security systems — biometric authentication and forensic identification.",
+      "tags": []
+    },
+    {
+      "id": "artifi-007",
+      "q": "On what date was the first artificial satellite launched?",
+      "options": [
+        "4 July 1947",
+        "4 October 1957",
+        "4 October 1969",
+        "4 October 1989"
+      ],
+      "correct": 1,
+      "explanation": "The first artificial satellite — Sputnik 1 (USSR) — was launched on 4 October 1957.",
+      "tags": []
+    },
+    {
+      "id": "artifi-008",
+      "q": "What is the main goal of Artificial Intelligence as a field?",
+      "options": [
+        "To make computers physically smaller",
+        "To make computers think like human beings",
+        "To make computers cheaper",
+        "To replace networks"
+      ],
+      "correct": 1,
+      "explanation": "AI's main goal is to interpret means and methods of making computers think like human beings.",
+      "tags": []
+    },
+    {
+      "id": "artifi-009",
+      "q": "Which of the following is an example of an AI sub-topic?",
+      "options": [
+        "Deep Learning",
+        "Floppy disk",
+        "Vacuum tubes",
+        "Punched cards"
+      ],
+      "correct": 0,
+      "explanation": "Deep Learning is a key AI sub-topic. Big Data Analytics, Data Science, Software-Defined Networks and Serverless Computing are also commonly listed.",
+      "tags": []
+    },
+    {
+      "id": "artifi-010",
+      "q": "Which technology emulates human-like thinking using neural networks and large data sets?",
+      "options": [
+        "Deep Learning",
+        "Spreadsheet calculation",
+        "File compression",
+        "Disk defragmentation"
+      ],
+      "correct": 0,
+      "explanation": "Deep Learning emulates human-like thinking using artificial neural networks and large data sets — a key sub-field of AI.",
+      "tags": []
+    },
+    {
+      "id": "artifi-011",
+      "q": "Big Data Analytics &amp; Data Science are listed under which broader area?",
+      "options": [
+        "AI &amp; Cloud sub-topics",
+        "Hardware engineering",
+        "Optical disks",
+        "Antivirus design"
+      ],
+      "correct": 0,
+      "explanation": "Big Data Analytics &amp; Data Science are listed under the broader AI &amp; Cloud Computing sub-topic area.",
+      "tags": []
+    },
+    {
+      "id": "artifi-012",
+      "q": "Which of the following is NOT an AI sub-topic?",
+      "options": [
+        "Deep Learning",
+        "Energy Management",
+        "Cloud Containers",
+        "Vacuum Tube Manufacturing"
+      ],
+      "correct": 3,
+      "explanation": "Vacuum Tube Manufacturing is from 1st-generation hardware — NOT a modern AI sub-topic. Deep Learning, Energy Management and Cloud Containers are AI / Cloud sub-topics.",
+      "tags": []
+    },
+    {
+      "id": "artifi-013",
+      "q": "Cloud Computing is best described as:",
+      "options": [
+        "A type of weather software",
+        "A paradigm of distributed computing to provide on-demand, utility-based computing services",
+        "A type of antivirus",
+        "A printer protocol"
+      ],
+      "correct": 1,
+      "explanation": "Cloud Computing is a paradigm of distributed computing to provide customers with on-demand, utility-based computing services.",
+      "tags": []
+    },
+    {
+      "id": "artifi-014",
+      "q": "Who provides cloud services to cloud users?",
+      "options": [
+        "Cloud Providers",
+        "Operating systems",
+        "Web browsers",
+        "Hardware companies"
+      ],
+      "correct": 0,
+      "explanation": "Cloud Providers provide cloud services to the cloud users.",
+      "tags": []
+    },
+    {
+      "id": "artifi-015",
+      "q": "Who are the three stakeholders in cloud computing?",
+      "options": [
+        "Servers, Routers, Switches",
+        "Cloud Providers, Cloud Users, End Users",
+        "Hardware, Software, Firmware",
+        "CPU, RAM, ROM"
+      ],
+      "correct": 1,
+      "explanation": "The three cloud stakeholders are Cloud Providers, Cloud Users and End Users.",
+      "tags": []
+    },
+    {
+      "id": "artifi-016",
+      "q": "What are the three types of cloud?",
+      "options": [
+        "Private, Public, Hybrid",
+        "Local, Remote, Distributed",
+        "Hot, Warm, Cold",
+        "SaaS, PaaS, IaaS"
+      ],
+      "correct": 0,
+      "explanation": "The three types of cloud are Private, Public and Hybrid.",
+      "tags": []
+    },
+    {
+      "id": "artifi-017",
+      "q": "In which cloud type does an organisation rent cloud services from cloud providers on an on-demand basis?",
+      "options": [
+        "Private Cloud",
+        "Public Cloud",
+        "Hybrid Cloud",
+        "Edge Cloud"
+      ],
+      "correct": 1,
+      "explanation": "In a Public Cloud, an organisation rents cloud services from cloud providers on an on-demand basis.",
+      "tags": []
+    },
+    {
+      "id": "artifi-018",
+      "q": "A Private Cloud is:",
+      "options": [
+        "Open to the public",
+        "Dedicated to a single organisation",
+        "The same as a hybrid cloud",
+        "Always free"
+      ],
+      "correct": 1,
+      "explanation": "A Private Cloud is dedicated to a single organisation — internal access only.",
+      "tags": []
+    },
+    {
+      "id": "artifi-019",
+      "q": "A Hybrid Cloud is:",
+      "options": [
+        "A single private cloud",
+        "Composed of multiple internal or external clouds",
+        "Always free",
+        "Always public"
+      ],
+      "correct": 1,
+      "explanation": "A Hybrid Cloud is composed of multiple internal or external clouds — combining the benefits of both private and public.",
+      "tags": []
+    },
+    {
+      "id": "artifi-020",
+      "q": "What does Virtualization enable in cloud computing?",
+      "options": [
+        "Faster typing",
+        "Migration of the virtual image from one physical machine to another",
+        "Better antivirus",
+        "Cheaper printers"
+      ],
+      "correct": 1,
+      "explanation": "Virtualization enables the migration of the virtual image from one physical machine to another — the foundation of cloud elasticity and live migration.",
+      "tags": []
+    },
+    {
+      "id": "artifi-021",
+      "q": "Most cloud architectures are built on which architecture?",
+      "options": [
+        "Grid Architecture",
+        "Monolithic Architecture",
+        "Single-tier Architecture",
+        "Mainframe Architecture"
+      ],
+      "correct": 0,
+      "explanation": "Most cloud architectures are built on Grid architecture — a model that pools distributed resources to act as a single virtual computer.",
+      "tags": []
+    },
+    {
+      "id": "artifi-022",
+      "q": "SaaS stands for:",
+      "options": [
+        "Software as a Service",
+        "Storage as a Server",
+        "System as a Service",
+        "Software at all Sites"
+      ],
+      "correct": 0,
+      "explanation": "SaaS stands for Software as a Service.",
+      "tags": []
+    },
+    {
+      "id": "artifi-023",
+      "q": "SaaS delivers software to thousands of customers using which architecture?",
+      "options": [
+        "Single-tenant",
+        "Multitenant",
+        "Mainframe-only",
+        "No architecture"
+      ],
+      "correct": 1,
+      "explanation": "SaaS delivers a single application through the web browser to thousands of customers using a multitenant architecture.",
+      "tags": []
+    },
+    {
+      "id": "artifi-024",
+      "q": "PaaS stands for:",
+      "options": [
+        "Platform as a Service",
+        "Program as a Service",
+        "Processor as a Service",
+        "Print as a Service"
+      ],
+      "correct": 0,
+      "explanation": "PaaS stands for Platform as a Service.",
+      "tags": []
+    },
+    {
+      "id": "artifi-025",
+      "q": "IaaS stands for:",
+      "options": [
+        "Internet as a Service",
+        "Infrastructure as a Service",
+        "Information as a Service",
+        "Integration as a Service"
+      ],
+      "correct": 1,
+      "explanation": "IaaS stands for Infrastructure as a Service — provides virtualised compute, storage and networking.",
+      "tags": []
+    },
+    {
+      "id": "artifi-026",
+      "q": "Which of the following is delivered through a web browser to thousands of customers using multitenant architecture?",
+      "options": [
+        "IaaS",
+        "PaaS",
+        "SaaS",
+        "Bare metal"
+      ],
+      "correct": 2,
+      "explanation": "SaaS (Software as a Service) is delivered through a web browser to thousands of customers using a multitenant architecture.",
+      "tags": []
+    },
+    {
+      "id": "artifi-027",
+      "q": "Which of the following is the BROADEST cloud type that combines internal and external clouds?",
+      "options": [
+        "Private",
+        "Public",
+        "Hybrid",
+        "Mini"
+      ],
+      "correct": 2,
+      "explanation": "Hybrid cloud combines multiple internal or external clouds — the broadest of the three types.",
+      "tags": []
+    },
+    {
+      "id": "artifi-028",
+      "q": "Which cloud type provides services to the general market over the internet?",
+      "options": [
+        "Public",
+        "Private",
+        "On-premises",
+        "Mainframe"
+      ],
+      "correct": 0,
+      "explanation": "A Public Cloud provides services over the internet to the general market on an on-demand basis.",
+      "tags": []
+    },
+    {
+      "id": "artifi-029",
+      "q": "Cybercrime is best described as:",
+      "options": [
+        "A traffic offence",
+        "Any crime that involves a computer and the Internet",
+        "A type of virus only",
+        "A movie genre"
+      ],
+      "correct": 1,
+      "explanation": "Cybercrime is any crime that involves a computer and the Internet. It is related to information technology.",
+      "tags": []
+    },
+    {
+      "id": "artifi-030",
+      "q": "E-Commerce refers to:",
+      "options": [
+        "A type of antivirus",
+        "Online trade — buying and selling of goods and services over the internet",
+        "A search engine",
+        "A type of cable"
+      ],
+      "correct": 1,
+      "explanation": "E-Commerce refers to online trade — the buying and selling of goods and services over the internet.",
+      "tags": []
+    },
+    {
+      "id": "artifi-031",
+      "q": "Fibre-Optic Communication transmits information by sending:",
+      "options": [
+        "Sound waves",
+        "Pulses of infrared light through an optical fibre",
+        "Magnetic pulses",
+        "Electrical sparks"
+      ],
+      "correct": 1,
+      "explanation": "Fibre-Optic Communication transmits information by sending pulses of infrared light through an optical fibre.",
+      "tags": []
+    },
+    {
+      "id": "artifi-032",
+      "q": "In which year was the first WAN fibre-optic cable system installed?",
+      "options": [
+        "1969",
+        "1974",
+        "1978",
+        "1989"
+      ],
+      "correct": 2,
+      "explanation": "The first Wide Area Network fibre-optic cable system was installed by Rediffusion in Hastings, East Sussex, UK in 1978.",
+      "tags": []
+    },
+    {
+      "id": "artifi-033",
+      "q": "Where was the first WAN fibre-optic cable system installed?",
+      "options": [
+        "California, USA",
+        "Hastings, East Sussex, UK",
+        "Tokyo, Japan",
+        "Berlin, Germany"
+      ],
+      "correct": 1,
+      "explanation": "The first WAN fibre-optic cable system was installed by Rediffusion in Hastings, East Sussex, UK in 1978.",
+      "tags": []
+    },
+    {
+      "id": "artifi-034",
+      "q": "A mobile phone sends and receives messages through:",
+      "options": [
+        "Sound waves",
+        "Radio waves",
+        "Magnetic waves",
+        "Optical fibres"
+      ],
+      "correct": 1,
+      "explanation": "A mobile phone sends and receives messages through radio waves.",
+      "tags": []
+    },
+    {
+      "id": "artifi-035",
+      "q": "DSL stands for:",
+      "options": [
+        "Digital Subscriber Line",
+        "Direct System Link",
+        "Dynamic Service Layer",
+        "Dual Subscriber Line"
+      ],
+      "correct": 0,
+      "explanation": "DSL stands for Digital Subscriber Line — a family of technologies used to transmit digital data over telephone lines.",
+      "tags": []
+    },
+    {
+      "id": "artifi-036",
+      "q": "PCI in computer hardware stands for:",
+      "options": [
+        "Personal Computer Interface",
+        "Peripheral Component Interconnect",
+        "Protocol Component Interconnect",
+        "Programmable Component Interface"
+      ],
+      "correct": 1,
+      "explanation": "PCI stands for Peripheral Component Interconnect — a local computer bus for attaching hardware devices in a computer.",
+      "tags": []
+    },
+    {
+      "id": "artifi-037",
+      "q": "What does a processor do?",
+      "options": [
+        "Stores files only",
+        "Carries out a set of instructions and processes data efficiently and accurately",
+        "Provides power",
+        "Cools the system"
+      ],
+      "correct": 1,
+      "explanation": "A processor carries out a set of instructions and processes data efficiently and accurately.",
+      "tags": []
+    },
+    {
+      "id": "artifi-038",
+      "q": "How many tracks of data does a credit-card magnetic stripe contain?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "correct": 2,
+      "explanation": "A credit-card magnetic stripe contains three tracks of data.",
+      "tags": []
+    },
+    {
+      "id": "artifi-039",
+      "q": "OMR (Optical Mark Recognition) is used to:",
+      "options": [
+        "Print 3D objects",
+        "Capture human-marked data from forms such as surveys and tests",
+        "Encrypt data",
+        "Compress files"
+      ],
+      "correct": 1,
+      "explanation": "OMR (Optical Mark Recognition) is the process of capturing human-marked data from document forms such as surveys and tests — typically pen/pencil bubble sheets.",
+      "tags": []
+    },
+    {
+      "id": "artifi-040",
+      "q": "OMR is also known as:",
+      "options": [
+        "Optical Mark Reading",
+        "Online Memory Read",
+        "Object Marking Recognition",
+        "Optical Magnetic Reading"
+      ],
+      "correct": 0,
+      "explanation": "OMR is also called Optical Mark Reading — both terms are interchangeable.",
+      "tags": []
+    },
+    {
+      "id": "artifi-041",
+      "q": "Which of the following best describes a fibre-optic cable signal?",
+      "options": [
+        "Magnetic flux through copper",
+        "Pulses of infrared light through optical fibre",
+        "Electrical current through aluminium",
+        "Sound through vacuum"
+      ],
+      "correct": 1,
+      "explanation": "Fibre-optic communication transmits pulses of infrared light through an optical fibre — far higher bandwidth than copper.",
+      "tags": []
+    },
+    {
+      "id": "artifi-042",
+      "q": "Cybercrime is most directly related to which broader field?",
+      "options": [
+        "Mechanical engineering",
+        "Information Technology",
+        "Civil engineering",
+        "Architecture"
+      ],
+      "correct": 1,
+      "explanation": "Cybercrime is related to information technology (IT) — by definition it requires a computer and/or the Internet.",
+      "tags": []
+    },
+    {
+      "id": "artifi-043",
+      "q": "IoT stands for:",
+      "options": [
+        "Internet of Things",
+        "Internet of Tasks",
+        "Inter-operating Things",
+        "Integrated Office Technology"
+      ],
+      "correct": 0,
+      "explanation": "IoT stands for Internet of Things — a network of internet-connected devices that collect and exchange data.",
+      "tags": []
+    },
+    {
+      "id": "artifi-044",
+      "q": "QoS in networking and cloud stands for:",
+      "options": [
+        "Quality of Service",
+        "Quantity of Service",
+        "Quick over Server",
+        "Quad-Optic Service"
+      ],
+      "correct": 0,
+      "explanation": "QoS stands for Quality of Service — the measurement of overall performance of a service.",
+      "tags": []
+    },
+    {
+      "id": "artifi-045",
+      "q": "SLA stands for:",
+      "options": [
+        "Service Level Agreement",
+        "System Level Access",
+        "Static Local Address",
+        "Secure Login Authority"
+      ],
+      "correct": 0,
+      "explanation": "SLA stands for Service Level Agreement — a contract defining the level of service expected from a provider.",
+      "tags": []
+    },
+    {
+      "id": "artifi-046",
+      "q": "5G refers to:",
+      "options": [
+        "The fifth generation mobile network — successor to 4G",
+        "A type of file format",
+        "A type of malware",
+        "Fifth-generation hard disk"
+      ],
+      "correct": 0,
+      "explanation": "5G is the fifth generation mobile network — the successor to 4G — offering much higher speeds and lower latency.",
+      "tags": []
+    },
+    {
+      "id": "artifi-047",
+      "q": "Blockchain is best described as:",
+      "options": [
+        "A type of antivirus",
+        "A decentralised digital ledger technology",
+        "A printer driver",
+        "A search engine"
+      ],
+      "correct": 1,
+      "explanation": "Blockchain is a decentralised digital ledger technology — used in cryptocurrencies like Bitcoin.",
+      "tags": []
+    },
+    {
+      "id": "artifi-048",
+      "q": "Fog Computing is:",
+      "options": [
+        "Cloud-only computing",
+        "A decentralised computing infrastructure between the data source and the cloud",
+        "A type of hardware",
+        "Same as quantum computing"
+      ],
+      "correct": 1,
+      "explanation": "Fog Computing is a decentralised computing infrastructure that sits between the data source and the cloud — bringing compute closer to where data is generated.",
+      "tags": []
+    },
+    {
+      "id": "artifi-049",
+      "q": "Quantum Computing uses:",
+      "options": [
+        "Steam pressure",
+        "Quantum mechanical phenomena to process data",
+        "Magnetic strips only",
+        "Vacuum tubes"
+      ],
+      "correct": 1,
+      "explanation": "Quantum Computing uses quantum mechanical phenomena (such as superposition and entanglement) to process data.",
+      "tags": []
+    },
+    {
+      "id": "artifi-050",
+      "q": "Bitcoin is a famous example of:",
+      "options": [
+        "A SaaS application",
+        "A blockchain-based cryptocurrency",
+        "A 5G standard",
+        "A SaaS contract"
+      ],
+      "correct": 1,
+      "explanation": "Bitcoin is a famous example of a blockchain-based cryptocurrency — the original and largest digital currency.",
+      "tags": []
+    },
+    {
+      "id": "artifi-051",
+      "q": "Which of the following is a sub-topic of Cloud Computing rather than AI?",
+      "options": [
+        "Deep Learning",
+        "Cloud Containers",
+        "Robotics",
+        "Neural Networks"
+      ],
+      "correct": 1,
+      "explanation": "Cloud Containers (e.g. Docker, Kubernetes) are a Cloud Computing sub-topic. Deep Learning, Robotics and Neural Networks are AI sub-topics.",
+      "tags": []
+    },
+    {
+      "id": "artifi-052",
+      "q": "Serverless Computing means:",
+      "options": [
+        "No server is involved at all",
+        "A cloud model where the provider manages servers and you only pay for what runs",
+        "Servers must be onsite",
+        "No internet is needed"
+      ],
+      "correct": 1,
+      "explanation": "In Serverless Computing the cloud provider manages the servers; the user pays only for the actual function/event execution time. (Servers still exist — just abstracted away.)",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "topic_id": "gaza-peace-plan-2025",
+  "topic_name": "Gaza Peace Plan 2025",
+  "subject": "current-affairs",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Gaza Peace Plan 2025 MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🕊️",
+  "mcqs": [
+    {
+      "id": "gazape-001",
+      "q": "The Gaza war 2023 began on:",
+      "options": [
+        "1 October 2023",
+        "3 October 2023",
+        "7 October 2023",
+        "9 October 2023"
+      ],
+      "correct": 2,
+      "explanation": "The Gaza war began on 7 October 2023 with Hamas's Operation Al-Aqsa Flood and Israel's response.",
+      "tags": []
+    },
+    {
+      "id": "gazape-002",
+      "q": "The first day of which war was the deadliest in Israel's history, and the war was the deadliest for Palestinians in the broader conflict?",
+      "options": [
+        "Gaza war 2007",
+        "Gaza war 2011",
+        "Gaza war 2017",
+        "Gaza war 2023"
+      ],
+      "correct": 3,
+      "explanation": "7 October 2023 — the first day of the Gaza war 2023 — was the deadliest day in Israel's history. The war is also the deadliest for Palestinians in the wider conflict.",
+      "tags": []
+    },
+    {
+      "id": "gazape-003",
+      "q": "The first temporary ceasefire between Hamas and Israel broke down in:",
+      "options": [
+        "November 2023",
+        "December 2023",
+        "January 2024",
+        "July 2024"
+      ],
+      "correct": 0,
+      "explanation": "The first temporary ceasefire (a Qatari-brokered truce starting 24 November 2023) broke down in late November 2023.",
+      "tags": []
+    },
+    {
+      "id": "gazape-004",
+      "q": "A second ceasefire took place on:",
+      "options": [
+        "11 January 2025",
+        "13 January 2025",
+        "14 January 2025",
+        "19 January 2025"
+      ],
+      "correct": 3,
+      "explanation": "The second Israel-Hamas ceasefire took effect on 19 January 2025.",
+      "tags": []
+    },
+    {
+      "id": "gazape-005",
+      "q": "The second ceasefire ended with a surprise attack by Israel in:",
+      "options": [
+        "April 2025",
+        "March 2025",
+        "June 2025",
+        "May 2025"
+      ],
+      "correct": 1,
+      "explanation": "The second ceasefire collapsed in March 2025 when Israel resumed major operations in Gaza.",
+      "tags": []
+    },
+    {
+      "id": "gazape-006",
+      "q": "Which war is Israel's longest-ever military conflict?",
+      "options": [
+        "Gaza war 2007",
+        "Gaza war 2011",
+        "Gaza war 2017",
+        "Gaza war 2023"
+      ],
+      "correct": 3,
+      "explanation": "The Gaza war 2023 has become Israel's longest-ever military conflict, surpassing earlier wars.",
+      "tags": []
+    },
+    {
+      "id": "gazape-007",
+      "q": "The International Criminal Court (ICC) issued arrest warrants for:",
+      "options": [
+        "Benjamin Netanyahu",
+        "Yoav Gallant",
+        "Mohammed Deif",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "The ICC issued arrest warrants for Israeli PM Benjamin Netanyahu, former Defence Minister Yoav Gallant and Hamas commander Mohammed Deif.",
+      "tags": []
+    },
+    {
+      "id": "gazape-008",
+      "q": "Who was withdrawn from the ICC arrest-warrant list after confirmation of his death?",
+      "options": [
+        "Benjamin Netanyahu",
+        "Yoav Gallant",
+        "Mohammed Deif",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The ICC withdrew its arrest warrant against Hamas military commander Mohammed Deif after his death was officially confirmed.",
+      "tags": []
+    },
+    {
+      "id": "gazape-009",
+      "q": "A third ceasefire came into effect on _____ after Israel and Hamas agreed to phase one of a US-backed peace plan.",
+      "options": [
+        "10 October 2025",
+        "15 October 2025",
+        "16 October 2025",
+        "18 October 2025"
+      ],
+      "correct": 0,
+      "explanation": "The third ceasefire — Phase 1 of Trump's 20-Point Plan — came into effect on 10 October 2025.",
+      "tags": []
+    },
+    {
+      "id": "gazape-010",
+      "q": "During the Gaza war 2023, Israel received extensive military and diplomatic support from:",
+      "options": [
+        "Canada",
+        "France",
+        "United States",
+        "UK"
+      ],
+      "correct": 2,
+      "explanation": "The United States provided the bulk of military and diplomatic support to Israel during the Gaza war 2023.",
+      "tags": []
+    },
+    {
+      "id": "gazape-011",
+      "q": "The Gaza Peace Plan 2025 was drafted on:",
+      "options": [
+        "24 September 2025",
+        "25 September 2025",
+        "27 September 2025",
+        "29 September 2025"
+      ],
+      "correct": 3,
+      "explanation": "The Gaza Peace Plan 2025 was drafted and announced on 29 September 2025.",
+      "tags": []
+    },
+    {
+      "id": "gazape-012",
+      "q": "The Gaza Peace Plan 2025 was signed on:",
+      "options": [
+        "29 October 2025",
+        "3 October 2025",
+        "6 October 2025",
+        "9 October 2025"
+      ],
+      "correct": 3,
+      "explanation": "The Gaza Peace Plan was signed at the Sharm el-Sheikh peace summit on 9 October 2025.",
+      "tags": []
+    },
+    {
+      "id": "gazape-013",
+      "q": "The Gaza Peace Plan 2025 was effective from:",
+      "options": [
+        "10 October 2025",
+        "12 October 2025",
+        "15 October 2025",
+        "17 October 2025"
+      ],
+      "correct": 0,
+      "explanation": "The Gaza Peace Plan 2025 came into effect on 10 October 2025.",
+      "tags": []
+    },
+    {
+      "id": "gazape-014",
+      "q": "Who were the mediators of the Gaza Peace Plan 2025?",
+      "options": [
+        "United States",
+        "Qatar",
+        "Turkey, Egypt",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "The four mediators were the United States, Qatar, Egypt and Turkey — all of these.",
+      "tags": []
+    },
+    {
+      "id": "gazape-015",
+      "q": "Who announced the Gaza Peace Plan 2025?",
+      "options": [
+        "President of the United States",
+        "French President",
+        "Russian President",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The Gaza Peace Plan 2025 was announced by US President Donald Trump on 29 September 2025.",
+      "tags": []
+    },
+    {
+      "id": "gazape-016",
+      "q": "The Gaza Peace Plan 2025 is commonly referred to in news reports as Trump's:",
+      "options": [
+        "10-Point Plan",
+        "15-Point Plan",
+        "20-Point Plan",
+        "30-Point Plan"
+      ],
+      "correct": 2,
+      "explanation": "The plan is popularly known as Trump's 20-Point Plan.",
+      "tags": []
+    },
+    {
+      "id": "gazape-017",
+      "q": "On 29 September 2025, Trump gave Hamas a deadline to accept the proposal by _____ or face 'all hell'.",
+      "options": [
+        "5 October 2025",
+        "6 October 2025",
+        "7 October 2025",
+        "8 October 2025"
+      ],
+      "correct": 0,
+      "explanation": "Trump's deadline to Hamas was 5 October 2025.",
+      "tags": []
+    },
+    {
+      "id": "gazape-018",
+      "q": "On _____, Hamas agreed to release any remaining hostages and hand over Gaza's administration to a Palestinian body of independent technocrats — though it did not agree to disarm.",
+      "options": [
+        "1 October 2025",
+        "3 October 2025",
+        "5 October 2025",
+        "7 October 2025"
+      ],
+      "correct": 1,
+      "explanation": "Hamas issued its partial acceptance of the plan on 3 October 2025.",
+      "tags": []
+    },
+    {
+      "id": "gazape-019",
+      "q": "The Gaza war 2023 is also known by the Hebrew name:",
+      "options": [
+        "Iron Swords War",
+        "Iron Wall War",
+        "Operation Cast Lead",
+        "Operation Protective Edge"
+      ],
+      "correct": 0,
+      "explanation": "Israel officially calls the war the 'Iron Swords War' (Operation Iron Swords).",
+      "tags": []
+    },
+    {
+      "id": "gazape-020",
+      "q": "Hamas refers to its 7 October 2023 attack as the:",
+      "options": [
+        "Battle of Karbala",
+        "Operation Al-Aqsa Flood",
+        "Operation Sword of Quds",
+        "Battle of Al-Furqan"
+      ],
+      "correct": 1,
+      "explanation": "Hamas calls its 7 October 2023 attack 'Operation Al-Aqsa Flood'.",
+      "tags": []
+    },
+    {
+      "id": "gazape-021",
+      "q": "Trump unveiled the Gaza Peace Plan 2025 alongside which Israeli leader at the White House?",
+      "options": [
+        "Yair Lapid",
+        "Naftali Bennett",
+        "Benjamin Netanyahu",
+        "Yoav Gallant"
+      ],
+      "correct": 2,
+      "explanation": "Trump announced the plan flanked by Israeli Prime Minister Benjamin Netanyahu at the White House on 29 September 2025.",
+      "tags": []
+    },
+    {
+      "id": "gazape-022",
+      "q": "The 9 October 2025 Gaza Peace Plan summit was hosted by which Egyptian leader?",
+      "options": [
+        "Hosni Mubarak",
+        "Mohamed Morsi",
+        "Abdel Fattah el-Sisi",
+        "Adly Mansour"
+      ],
+      "correct": 2,
+      "explanation": "The Sharm el-Sheikh peace summit was hosted by Egyptian President Abdel Fattah el-Sisi.",
+      "tags": []
+    },
+    {
+      "id": "gazape-023",
+      "q": "In Phase 1 of Trump's 20-Point Plan, how many Palestinian prisoners were to be released in exchange for the living hostages?",
+      "options": [
+        "500",
+        "1,000",
+        "2,000",
+        "5,000"
+      ],
+      "correct": 2,
+      "explanation": "Phase 1 provided for the release of 2,000 Palestinian prisoners in exchange for the living hostages.",
+      "tags": []
+    },
+    {
+      "id": "gazape-024",
+      "q": "Of the 2,000 Palestinian prisoners released, how many were serving life sentences?",
+      "options": [
+        "100",
+        "150",
+        "250",
+        "500"
+      ],
+      "correct": 2,
+      "explanation": "250 of the 2,000 released Palestinian prisoners were serving life sentences.",
+      "tags": []
+    },
+    {
+      "id": "gazape-025",
+      "q": "Phase 1 of the plan required the hostage-prisoner exchange to be completed within how many hours?",
+      "options": [
+        "24",
+        "48",
+        "72",
+        "96"
+      ],
+      "correct": 2,
+      "explanation": "Phase 1 required the exchange to be completed within 72 hours of the ceasefire taking effect.",
+      "tags": []
+    },
+    {
+      "id": "gazape-026",
+      "q": "Under the plan, Israeli forces were required to withdraw to:",
+      "options": [
+        "The 1967 border",
+        "Pre-designated lines inside the Gaza Strip",
+        "The pre-October 7 positions",
+        "Beyond the Egyptian border"
+      ],
+      "correct": 1,
+      "explanation": "The plan required Israel's military to withdraw to pre-designated lines inside the Gaza Strip — not a full withdrawal.",
+      "tags": []
+    },
+    {
+      "id": "gazape-027",
+      "q": "Hamas's chief negotiator during the Gaza Peace Plan 2025 talks was:",
+      "options": [
+        "Yahya Sinwar",
+        "Khalil al-Hayya",
+        "Ismail Haniyeh",
+        "Mohammed Deif"
+      ],
+      "correct": 1,
+      "explanation": "Khalil al-Hayya led the Hamas negotiating team in 2025 (Sinwar and Haniyeh had been killed in 2024).",
+      "tags": []
+    },
+    {
+      "id": "gazape-028",
+      "q": "Hamas's October 2025 response specifically did NOT agree to:",
+      "options": [
+        "Release living hostages",
+        "Hand administration to technocrats",
+        "Disarm",
+        "Allow humanitarian aid"
+      ],
+      "correct": 2,
+      "explanation": "Hamas's 3 October 2025 response did not agree to disarm or to forgo political influence in Gaza.",
+      "tags": []
+    },
+    {
+      "id": "gazape-029",
+      "q": "Trump's 20-Point Plan envisages an interim governing body for Gaza known as the:",
+      "options": [
+        "Gaza Authority",
+        "Joint Council",
+        "Board of Peace",
+        "Transitional Cabinet"
+      ],
+      "correct": 2,
+      "explanation": "Trump's 20-Point Plan proposed an interim governance arrangement called the 'Board of Peace' to oversee Gaza.",
+      "tags": []
+    },
+    {
+      "id": "gazape-030",
+      "q": "Among the four mediators of the Gaza Peace Plan 2025, which was the host country of the formal signing summit?",
+      "options": [
+        "United States",
+        "Qatar",
+        "Egypt",
+        "Turkey"
+      ],
+      "correct": 2,
+      "explanation": "Egypt hosted the signing summit at Sharm el-Sheikh on 9 October 2025.",
+      "tags": []
+    },
+    {
+      "id": "gazape-031",
+      "q": "The collapse of the second ceasefire (March 2025) was followed by a renewed Israeli offensive that continued until the:",
+      "options": [
+        "First ceasefire",
+        "19 January 2025 ceasefire",
+        "10 October 2025 ceasefire",
+        "No new ceasefire"
+      ],
+      "correct": 2,
+      "explanation": "After the March 2025 collapse, fighting continued until the third ceasefire — based on Trump's 20-Point Plan — took effect on 10 October 2025.",
+      "tags": []
+    }
+  ]
+}

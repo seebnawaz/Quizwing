@@ -2,10 +2,10 @@
   "topic_id": "scientific-instruments-and-measurements",
   "topic_name": "Scientific Instruments & Measurements",
   "subject": "everyday-science",
-  "version": 1,
+  "version": 2,
   "updated_at": "2026-05-12",
-  "description": "Scientific Instruments & Measurements MCQs for PPSC, FPSC, NTS, CSS & PMS preparation.",
-  "icon": "🔬",
+  "description": "Scientific Instruments & Measurements MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🔭",
   "mcqs": [
     {
       "id": "scient-001",

@@ -1,0 +1,1350 @@
+{
+  "topic_id": "world-war-i-and-ii",
+  "topic_name": "World War I & Ii",
+  "subject": "general-knowledge",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "World War I & Ii MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🪖",
+  "mcqs": [
+    {
+      "id": "worldw-001",
+      "q": "World War I began on?",
+      "options": [
+        "28 July 1914",
+        "1 September 1939",
+        "4 August 1914",
+        "11 November 1918"
+      ],
+      "correct": 0,
+      "explanation": "World War I began on 28 July 1914 when Austria-Hungary declared war on Serbia, following the assassination of Archduke Franz Ferdinand.",
+      "tags": []
+    },
+    {
+      "id": "worldw-002",
+      "q": "World War I ended on?",
+      "options": [
+        "11 November 1918",
+        "28 June 1919",
+        "4 July 1914",
+        "2 September 1945"
+      ],
+      "correct": 0,
+      "explanation": "World War I ended on 11 November 1918 with Germany's surrender, a date now commemorated as Armistice Day.",
+      "tags": []
+    },
+    {
+      "id": "worldw-003",
+      "q": "Who was assassinated at Sarajevo on 28 June 1914 triggering WWI?",
+      "options": [
+        "Archduke Franz Ferdinand",
+        "Tsar Nicholas II",
+        "Kaiser Wilhelm II",
+        "Emperor Franz Joseph"
+      ],
+      "correct": 0,
+      "explanation": "Archduke Franz Ferdinand of Austria-Hungary and his wife Sophie were assassinated at Sarajevo by Gavrilo Princip, a Bosnian Serb nationalist.",
+      "tags": []
+    },
+    {
+      "id": "worldw-004",
+      "q": "Who assassinated Archduke Franz Ferdinand?",
+      "options": [
+        "Gavrilo Princip",
+        "Lee Harvey Oswald",
+        "John Wilkes Booth",
+        "Leon Czolgosz"
+      ],
+      "correct": 0,
+      "explanation": "Gavrilo Princip, a Bosnian Serb nationalist, assassinated Archduke Franz Ferdinand and his wife Sophie in Sarajevo on 28 June 1914.",
+      "tags": []
+    },
+    {
+      "id": "worldw-005",
+      "q": "The Central Powers in WWI included?",
+      "options": [
+        "Germany, Austria-Hungary, Ottoman Empire, Bulgaria",
+        "USA, UK, France, Russia",
+        "Germany, Italy, Japan",
+        "UK, France, Russia, USA"
+      ],
+      "correct": 0,
+      "explanation": "The Central Powers were Germany, Austria-Hungary, the Ottoman Empire (Turkey), and Bulgaria during World War I.",
+      "tags": []
+    },
+    {
+      "id": "worldw-006",
+      "q": "The Allied Powers in WWI included?",
+      "options": [
+        "Britain, France, Russia, USA",
+        "Germany, Austria-Hungary",
+        "Germany, Italy, Japan",
+        "Ottoman Empire, Bulgaria"
+      ],
+      "correct": 0,
+      "explanation": "The Allied (Entente) Powers included Britain, France, Russia, Italy (from 1915), the United States (from 1917), Belgium, and Serbia.",
+      "tags": []
+    },
+    {
+      "id": "worldw-007",
+      "q": "Italy joined which side in World War I in 1915?",
+      "options": [
+        "Allied Powers",
+        "Central Powers",
+        "Remained neutral",
+        "Switched multiple times"
+      ],
+      "correct": 0,
+      "explanation": "Italy originally belonged to the Triple Alliance but switched to the Allied Powers in 1915 via the Treaty of London, seeking territorial gains.",
+      "tags": []
+    },
+    {
+      "id": "worldw-008",
+      "q": "The United States entered World War I in?",
+      "options": [
+        "April 1917",
+        "1914",
+        "1916",
+        "1918"
+      ],
+      "correct": 0,
+      "explanation": "The United States entered WWI in April 1917 after Germany's unrestricted submarine warfare and the Zimmermann Telegram scandal.",
+      "tags": []
+    },
+    {
+      "id": "worldw-009",
+      "q": "Who was the US President during World War I?",
+      "options": [
+        "Woodrow Wilson",
+        "Theodore Roosevelt",
+        "Franklin D. Roosevelt",
+        "Herbert Hoover"
+      ],
+      "correct": 0,
+      "explanation": "Woodrow Wilson served as US President (1913-1921) during World War I and presented the Fourteen Points for peace.",
+      "tags": []
+    },
+    {
+      "id": "worldw-010",
+      "q": "The Hindenburg Line was Germany's major defensive system along?",
+      "options": [
+        "Aisne River in France",
+        "Rhine River",
+        "Danube River",
+        "Elbe River"
+      ],
+      "correct": 0,
+      "explanation": "The Hindenburg Line was Germany's major defensive system built along the Aisne River in France during WWI.",
+      "tags": []
+    },
+    {
+      "id": "worldw-011",
+      "q": "Mustard gas and chlorine gas were first used as chemical weapons by?",
+      "options": [
+        "Germany in 1915",
+        "Britain in 1914",
+        "France in 1916",
+        "Russia in 1915"
+      ],
+      "correct": 0,
+      "explanation": "Germany first used mustard gas and chlorine gas as chemical weapons in 1915 during World War I.",
+      "tags": []
+    },
+    {
+      "id": "worldw-012",
+      "q": "The first tanks were used by Britain during?",
+      "options": [
+        "Battle of the Somme (1916)",
+        "Battle of the Marne",
+        "Battle of Verdun",
+        "Gallipoli Campaign"
+      ],
+      "correct": 0,
+      "explanation": "The first tanks in history were deployed by Britain during the Battle of the Somme in 1916.",
+      "tags": []
+    },
+    {
+      "id": "worldw-013",
+      "q": "German submarines in WWI were called?",
+      "options": [
+        "U-boats",
+        "Panzers",
+        "Zeppelins",
+        "Destroyers"
+      ],
+      "correct": 0,
+      "explanation": "U-boats (Unterseeboote) were German submarines that caused heavy Allied losses at sea during both World Wars.",
+      "tags": []
+    },
+    {
+      "id": "worldw-014",
+      "q": "The Battle of the Marne (1914) halted Germany's advance into?",
+      "options": [
+        "France",
+        "Russia",
+        "Belgium",
+        "Italy"
+      ],
+      "correct": 0,
+      "explanation": "The Battle of the Marne (September 1914) halted Germany's initial advance into France, beginning trench warfare on the Western Front.",
+      "tags": []
+    },
+    {
+      "id": "worldw-015",
+      "q": "The Battle of Verdun was fought in?",
+      "options": [
+        "1916",
+        "1914",
+        "1918",
+        "1917"
+      ],
+      "correct": 0,
+      "explanation": "The Battle of Verdun (1916) was one of the longest and bloodiest battles of WWI between French and German forces.",
+      "tags": []
+    },
+    {
+      "id": "worldw-016",
+      "q": "The Gallipoli Campaign (1915-16) was a failed Allied attempt to?",
+      "options": [
+        "Secure sea route to Russia through Dardanelles",
+        "Capture Istanbul",
+        "Invade Germany",
+        "Free Egypt"
+      ],
+      "correct": 0,
+      "explanation": "The Gallipoli Campaign was a failed Allied attempt to secure a sea route to Russia through the Dardanelles strait.",
+      "tags": []
+    },
+    {
+      "id": "worldw-017",
+      "q": "Who became the first South Asian soldier awarded the Victoria Cross in WWI?",
+      "options": [
+        "Khudadad Khan",
+        "Subhas Chandra Bose",
+        "Jagjit Singh",
+        "Mohammed Ali Jinnah"
+      ],
+      "correct": 0,
+      "explanation": "Khudadad Khan became the first South Asian soldier awarded the Victoria Cross for bravery in Belgium in 1914.",
+      "tags": []
+    },
+    {
+      "id": "worldw-018",
+      "q": "The most famous WWI fighter ace known as the Red Baron was?",
+      "options": [
+        "Manfred von Richthofen",
+        "Hermann Goering",
+        "Charles Lindbergh",
+        "Eddie Rickenbacker"
+      ],
+      "correct": 0,
+      "explanation": "Manfred von Richthofen of Germany, known as the Red Baron, was the most famous fighter ace of WWI with 80 aerial victories.",
+      "tags": []
+    },
+    {
+      "id": "worldw-019",
+      "q": "The Russian Revolution of 1917 led Russia to withdraw from WWI via?",
+      "options": [
+        "Treaty of Brest-Litovsk (1918)",
+        "Treaty of Versailles",
+        "Treaty of Saint-Germain",
+        "Treaty of Trianon"
+      ],
+      "correct": 0,
+      "explanation": "Russia formally withdrew from WWI via the Treaty of Brest-Litovsk (1918) with Germany after the Bolshevik Revolution.",
+      "tags": []
+    },
+    {
+      "id": "worldw-020",
+      "q": "The Arab Revolt (1916-18) was led by?",
+      "options": [
+        "Sharif Hussein and T.E. Lawrence",
+        "Mustafa Kemal",
+        "Ibn Saud only",
+        "Faisal II"
+      ],
+      "correct": 0,
+      "explanation": "The Arab Revolt against Ottoman rule was led by Sharif Hussein of Mecca, aided by British officer T.E. Lawrence (Lawrence of Arabia).",
+      "tags": []
+    },
+    {
+      "id": "worldw-021",
+      "q": "The Balfour Declaration (1917) was issued by?",
+      "options": [
+        "Arthur Balfour",
+        "Neville Chamberlain",
+        "Winston Churchill",
+        "David Lloyd George"
+      ],
+      "correct": 0,
+      "explanation": "The Balfour Declaration (2 November 1917) was a British government statement by Foreign Secretary Arthur Balfour supporting a Jewish national home in Palestine.",
+      "tags": []
+    },
+    {
+      "id": "worldw-022",
+      "q": "The Treaty of Versailles was signed on?",
+      "options": [
+        "28 June 1919",
+        "11 November 1918",
+        "1 September 1939",
+        "28 July 1914"
+      ],
+      "correct": 0,
+      "explanation": "The Treaty of Versailles was signed on 28 June 1919, formally ending World War I and imposing harsh terms on Germany.",
+      "tags": []
+    },
+    {
+      "id": "worldw-023",
+      "q": "Which article of the Treaty of Versailles accepted Germany's war guilt?",
+      "options": [
+        "Article 231",
+        "Article 14",
+        "Article 1",
+        "Article 100"
+      ],
+      "correct": 0,
+      "explanation": "Article 231, known as the War Guilt Clause, forced Germany to accept full responsibility for starting WWI.",
+      "tags": []
+    },
+    {
+      "id": "worldw-024",
+      "q": "Germany lost which territory to France under the Treaty of Versailles?",
+      "options": [
+        "Alsace-Lorraine",
+        "Bavaria",
+        "Rhineland",
+        "Silesia"
+      ],
+      "correct": 0,
+      "explanation": "Germany lost Alsace-Lorraine to France under the Treaty of Versailles, restoring French sovereignty over the region.",
+      "tags": []
+    },
+    {
+      "id": "worldw-025",
+      "q": "The League of Nations was established in?",
+      "options": [
+        "1920",
+        "1919",
+        "1914",
+        "1945"
+      ],
+      "correct": 0,
+      "explanation": "The League of Nations was established in 1920, based on Woodrow Wilson's Fourteen Points, to prevent future wars. It was replaced by the UN in 1945.",
+      "tags": []
+    },
+    {
+      "id": "worldw-026",
+      "q": "Approximately how many people died in World War I?",
+      "options": [
+        "16 million",
+        "5 million",
+        "70 million",
+        "40 million"
+      ],
+      "correct": 0,
+      "explanation": "Approximately 16 million people died in WWI, including 9 million soldiers and 7 million civilians.",
+      "tags": []
+    },
+    {
+      "id": "worldw-027",
+      "q": "The Austro-Hungarian Empire collapsed in?",
+      "options": [
+        "1918",
+        "1914",
+        "1919",
+        "1922"
+      ],
+      "correct": 0,
+      "explanation": "The Austro-Hungarian Empire collapsed in 1918 after WWI, breaking into Austria, Hungary, Czechoslovakia, Yugoslavia and other states.",
+      "tags": []
+    },
+    {
+      "id": "worldw-028",
+      "q": "The Ottoman Empire was officially abolished in?",
+      "options": [
+        "1922",
+        "1918",
+        "1920",
+        "1924"
+      ],
+      "correct": 0,
+      "explanation": "The Ottoman Empire, which collapsed after WWI, was officially abolished in 1922 when the sultanate was ended by Mustafa Kemal Ataturk.",
+      "tags": []
+    },
+    {
+      "id": "worldw-029",
+      "q": "Which battle is also known as the 'meat grinder' of WWI?",
+      "options": [
+        "Battle of Verdun",
+        "Battle of Marne",
+        "Battle of Somme",
+        "Battle of Jutland"
+      ],
+      "correct": 0,
+      "explanation": "The Battle of Verdun (1916) is known as the 'meat grinder' due to its massive casualties on both sides.",
+      "tags": []
+    },
+    {
+      "id": "worldw-030",
+      "q": "The German plan to fight a two-front war in WWI was called?",
+      "options": [
+        "Schlieffen Plan",
+        "Blitzkrieg",
+        "Barbarossa",
+        "Maginot Plan"
+      ],
+      "correct": 0,
+      "explanation": "The Schlieffen Plan was Germany's strategic plan to quickly defeat France before fighting Russia in WWI.",
+      "tags": []
+    },
+    {
+      "id": "worldw-031",
+      "q": "Trench warfare dominated which front in WWI?",
+      "options": [
+        "Western Front",
+        "Eastern Front",
+        "Italian Front",
+        "Gallipoli Front"
+      ],
+      "correct": 0,
+      "explanation": "Trench warfare dominated the Western Front between France and Germany, creating a stalemate that lasted most of the war.",
+      "tags": []
+    },
+    {
+      "id": "worldw-032",
+      "q": "The Zimmermann Telegram scandal involved Germany proposing an alliance with?",
+      "options": [
+        "Mexico against USA",
+        "Japan against Russia",
+        "Spain against UK",
+        "Italy against France"
+      ],
+      "correct": 0,
+      "explanation": "The Zimmermann Telegram (1917) was a secret German proposal for Mexico to enter WWI against the USA, helping bring America into the war.",
+      "tags": []
+    },
+    {
+      "id": "worldw-033",
+      "q": "World War II began on?",
+      "options": [
+        "1 September 1939",
+        "7 December 1941",
+        "6 June 1944",
+        "3 September 1939"
+      ],
+      "correct": 0,
+      "explanation": "World War II began on 1 September 1939 when Germany invaded Poland, prompting Britain and France to declare war two days later.",
+      "tags": []
+    },
+    {
+      "id": "worldw-034",
+      "q": "Which country's invasion triggered World War II?",
+      "options": [
+        "Poland (by Germany)",
+        "France (by Germany)",
+        "China (by Japan)",
+        "USSR (by Germany)"
+      ],
+      "correct": 0,
+      "explanation": "Germany's invasion of Poland on 1 September 1939 triggered WWII, leading Britain and France to declare war on Germany.",
+      "tags": []
+    },
+    {
+      "id": "worldw-035",
+      "q": "World War II officially ended on?",
+      "options": [
+        "2 September 1945",
+        "15 August 1945",
+        "8 May 1945",
+        "6 August 1945"
+      ],
+      "correct": 0,
+      "explanation": "World War II officially ended on 2 September 1945 with Japan's formal surrender aboard the USS Missouri in Tokyo Bay.",
+      "tags": []
+    },
+    {
+      "id": "worldw-036",
+      "q": "The Axis Powers in WWII were?",
+      "options": [
+        "Germany, Italy, Japan",
+        "USA, UK, USSR",
+        "Germany, Austria, Bulgaria",
+        "Japan, China, Korea"
+      ],
+      "correct": 0,
+      "explanation": "The Axis Powers in WWII were Germany (Hitler), Italy (Mussolini), and Japan (Emperor Hirohito / PM Tojo).",
+      "tags": []
+    },
+    {
+      "id": "worldw-037",
+      "q": "The Big Four Allied Powers in WWII were?",
+      "options": [
+        "USA, UK, France, USSR",
+        "USA, UK, Germany, France",
+        "UK, France, Italy, USSR",
+        "USA, UK, China, India"
+      ],
+      "correct": 0,
+      "explanation": "The Big Four Allied Powers of WWII were the USA, UK, France, and USSR.",
+      "tags": []
+    },
+    {
+      "id": "worldw-038",
+      "q": "Adolf Hitler became Chancellor of Germany in?",
+      "options": [
+        "1933",
+        "1939",
+        "1945",
+        "1929"
+      ],
+      "correct": 0,
+      "explanation": "Adolf Hitler was appointed Chancellor of Germany on 30 January 1933, leading the Nazi Party (NSDAP).",
+      "tags": []
+    },
+    {
+      "id": "worldw-039",
+      "q": "Benito Mussolini ruled which country as Fascist dictator?",
+      "options": [
+        "Italy",
+        "Germany",
+        "Spain",
+        "Portugal"
+      ],
+      "correct": 0,
+      "explanation": "Benito Mussolini ruled Italy as a Fascist dictator from 1922 until his execution in 1945 during WWII.",
+      "tags": []
+    },
+    {
+      "id": "worldw-040",
+      "q": "Who was Japan's Emperor during World War II?",
+      "options": [
+        "Hirohito",
+        "Meiji",
+        "Tojo",
+        "Yamamoto"
+      ],
+      "correct": 0,
+      "explanation": "Emperor Hirohito was Japan's monarch during World War II, reigning from 1926 to 1989.",
+      "tags": []
+    },
+    {
+      "id": "worldw-041",
+      "q": "Who was Japan's Prime Minister during most of WWII?",
+      "options": [
+        "Hideki Tojo",
+        "Yamamoto Isoroku",
+        "Hirohito",
+        "Konoe Fumimaro"
+      ],
+      "correct": 0,
+      "explanation": "Hideki Tojo served as Japan's Prime Minister (1941-1944) and directed its war effort during WWII. He was executed as a war criminal in 1948.",
+      "tags": []
+    },
+    {
+      "id": "worldw-042",
+      "q": "Germany's WWII strategy of 'lightning war' was called?",
+      "options": [
+        "Blitzkrieg",
+        "Barbarossa",
+        "Overlord",
+        "Kaiserslacht"
+      ],
+      "correct": 0,
+      "explanation": "Blitzkrieg ('lightning war') was Germany's WWII strategy combining tanks, aircraft, and infantry for rapid offensive warfare.",
+      "tags": []
+    },
+    {
+      "id": "worldw-043",
+      "q": "The Molotov-Ribbentrop Pact (1939) was signed between?",
+      "options": [
+        "Germany and USSR",
+        "Germany and Italy",
+        "UK and France",
+        "USA and UK"
+      ],
+      "correct": 0,
+      "explanation": "The Molotov-Ribbentrop Pact (August 1939) was a non-aggression pact between Nazi Germany and the Soviet Union, with secret protocols dividing Eastern Europe.",
+      "tags": []
+    },
+    {
+      "id": "worldw-044",
+      "q": "Who became UK Prime Minister in May 1940?",
+      "options": [
+        "Winston Churchill",
+        "Neville Chamberlain",
+        "Clement Attlee",
+        "Anthony Eden"
+      ],
+      "correct": 0,
+      "explanation": "Winston Churchill became UK Prime Minister in May 1940, replacing Neville Chamberlain after the failure of appeasement.",
+      "tags": []
+    },
+    {
+      "id": "worldw-045",
+      "q": "Who was US President during most of World War II?",
+      "options": [
+        "Franklin D. Roosevelt",
+        "Harry Truman",
+        "Dwight Eisenhower",
+        "Herbert Hoover"
+      ],
+      "correct": 0,
+      "explanation": "Franklin D. Roosevelt (FDR) served as US President (1933-April 1945) during most of World War II. Harry Truman succeeded him.",
+      "tags": []
+    },
+    {
+      "id": "worldw-046",
+      "q": "Who was the Viceroy of India during World War II?",
+      "options": [
+        "Lord Linlithgow",
+        "Lord Wavell",
+        "Lord Mountbatten",
+        "Lord Curzon"
+      ],
+      "correct": 0,
+      "explanation": "Lord Linlithgow was the Viceroy of India (1936-43), covering most of World War II before Lord Wavell replaced him.",
+      "tags": []
+    },
+    {
+      "id": "worldw-047",
+      "q": "The Battle of Britain (1940) was the first major?",
+      "options": [
+        "Air campaign",
+        "Sea battle",
+        "Tank battle",
+        "Amphibious assault"
+      ],
+      "correct": 0,
+      "explanation": "The Battle of Britain (1940) was the first major air campaign fought entirely in the skies, between the RAF and Luftwaffe.",
+      "tags": []
+    },
+    {
+      "id": "worldw-048",
+      "q": "Operation Barbarossa (1941) was Germany's invasion of?",
+      "options": [
+        "Soviet Union",
+        "Poland",
+        "France",
+        "Britain"
+      ],
+      "correct": 0,
+      "explanation": "Operation Barbarossa (June 1941) was Nazi Germany's massive invasion of the Soviet Union, breaking the Molotov-Ribbentrop Pact.",
+      "tags": []
+    },
+    {
+      "id": "worldw-049",
+      "q": "Japan attacked Pearl Harbor on?",
+      "options": [
+        "7 December 1941",
+        "1 September 1939",
+        "6 June 1944",
+        "15 August 1945"
+      ],
+      "correct": 0,
+      "explanation": "Japan attacked Pearl Harbor, Hawaii on 7 December 1941, destroying much of the US Pacific Fleet and bringing the USA into WWII.",
+      "tags": []
+    },
+    {
+      "id": "worldw-050",
+      "q": "Pearl Harbor is located in?",
+      "options": [
+        "Hawaii",
+        "California",
+        "Philippines",
+        "Midway"
+      ],
+      "correct": 0,
+      "explanation": "Pearl Harbor is a US naval base on the Hawaiian island of Oahu, site of the 7 December 1941 Japanese surprise attack.",
+      "tags": []
+    },
+    {
+      "id": "worldw-051",
+      "q": "Nazi Germany's genocide of 6 million Jews is known as?",
+      "options": [
+        "The Holocaust",
+        "The Great Purge",
+        "The Rape of Nanking",
+        "Kristallnacht"
+      ],
+      "correct": 0,
+      "explanation": "The Holocaust was Nazi Germany's systematic genocide of six million European Jews and millions of others during WWII.",
+      "tags": []
+    },
+    {
+      "id": "worldw-052",
+      "q": "The Battle of Stalingrad (1942-43) was a turning point on which front?",
+      "options": [
+        "Eastern Front",
+        "Western Front",
+        "Pacific Front",
+        "African Front"
+      ],
+      "correct": 0,
+      "explanation": "The Battle of Stalingrad (1942-43) marked the turning point on the Eastern Front, with Soviet forces decisively defeating the German 6th Army.",
+      "tags": []
+    },
+    {
+      "id": "worldw-053",
+      "q": "D-Day took place on?",
+      "options": [
+        "6 June 1944",
+        "7 December 1941",
+        "1 September 1939",
+        "8 May 1945"
+      ],
+      "correct": 0,
+      "explanation": "D-Day (6 June 1944) was the Allied invasion of Normandy, France, codenamed Operation Overlord. It began the liberation of Western Europe.",
+      "tags": []
+    },
+    {
+      "id": "worldw-054",
+      "q": "D-Day was the Allied landing at?",
+      "options": [
+        "Normandy, France",
+        "Dunkirk, France",
+        "Sicily, Italy",
+        "Okinawa, Japan"
+      ],
+      "correct": 0,
+      "explanation": "D-Day was the Allied amphibious landing at Normandy, France — the largest amphibious assault in history.",
+      "tags": []
+    },
+    {
+      "id": "worldw-055",
+      "q": "Italy surrendered in WWII in?",
+      "options": [
+        "1943",
+        "1945",
+        "1944",
+        "1942"
+      ],
+      "correct": 0,
+      "explanation": "Italy surrendered in September 1943 after Mussolini's downfall. Germany then occupied northern Italy until 1945.",
+      "tags": []
+    },
+    {
+      "id": "worldw-056",
+      "q": "The Pacific War saw which major battles?",
+      "options": [
+        "Midway, Iwo Jima, Okinawa",
+        "Stalingrad, Moscow, Kursk",
+        "Normandy, Bulge, Monte Cassino",
+        "Marne, Verdun, Somme"
+      ],
+      "correct": 0,
+      "explanation": "The Pacific War's major battles included Midway (1942), Iwo Jima (1945), and Okinawa (1945) between US and Japanese forces.",
+      "tags": []
+    },
+    {
+      "id": "worldw-057",
+      "q": "The Battle of Midway occurred in?",
+      "options": [
+        "1942",
+        "1941",
+        "1944",
+        "1945"
+      ],
+      "correct": 0,
+      "explanation": "The Battle of Midway (June 1942) was a decisive US naval victory over Japan, a turning point in the Pacific War.",
+      "tags": []
+    },
+    {
+      "id": "worldw-058",
+      "q": "The Manhattan Project was a top-secret program to develop?",
+      "options": [
+        "Atomic bomb",
+        "Jet engines",
+        "Radar",
+        "Penicillin"
+      ],
+      "correct": 0,
+      "explanation": "The Manhattan Project (1942-1945) was a top-secret US-led military-scientific program that developed the world's first atomic bomb.",
+      "tags": []
+    },
+    {
+      "id": "worldw-059",
+      "q": "The first atomic bomb was tested at?",
+      "options": [
+        "Trinity Site, New Mexico",
+        "Los Alamos, New Mexico",
+        "Oak Ridge, Tennessee",
+        "Hanford, Washington"
+      ],
+      "correct": 0,
+      "explanation": "The world's first atomic bomb was tested on 16 July 1945 at the Trinity Site in New Mexico (Trinity Test).",
+      "tags": []
+    },
+    {
+      "id": "worldw-060",
+      "q": "The atomic bomb dropped on Hiroshima was named?",
+      "options": [
+        "Little Boy",
+        "Fat Man",
+        "Trinity",
+        "Manhattan"
+      ],
+      "correct": 0,
+      "explanation": "'Little Boy' was the uranium-based atomic bomb dropped on Hiroshima on 6 August 1945 by the B-29 Enola Gay.",
+      "tags": []
+    },
+    {
+      "id": "worldw-061",
+      "q": "The atomic bomb dropped on Nagasaki was named?",
+      "options": [
+        "Fat Man",
+        "Little Boy",
+        "Thin Man",
+        "Trinity"
+      ],
+      "correct": 0,
+      "explanation": "'Fat Man' was the plutonium-based atomic bomb dropped on Nagasaki on 9 August 1945 by the B-29 Bockscar.",
+      "tags": []
+    },
+    {
+      "id": "worldw-062",
+      "q": "Hiroshima was bombed on?",
+      "options": [
+        "6 August 1945",
+        "9 August 1945",
+        "2 September 1945",
+        "7 December 1941"
+      ],
+      "correct": 0,
+      "explanation": "The United States dropped 'Little Boy' on Hiroshima on 6 August 1945, killing tens of thousands instantly.",
+      "tags": []
+    },
+    {
+      "id": "worldw-063",
+      "q": "Nagasaki was bombed on?",
+      "options": [
+        "9 August 1945",
+        "6 August 1945",
+        "15 August 1945",
+        "2 September 1945"
+      ],
+      "correct": 0,
+      "explanation": "The United States dropped 'Fat Man' on Nagasaki on 9 August 1945, three days after Hiroshima, forcing Japan's surrender.",
+      "tags": []
+    },
+    {
+      "id": "worldw-064",
+      "q": "The B-29 bomber that dropped the Hiroshima atomic bomb was named?",
+      "options": [
+        "Enola Gay",
+        "Bockscar",
+        "Memphis Belle",
+        "Bataan"
+      ],
+      "correct": 0,
+      "explanation": "The B-29 bomber Enola Gay, piloted by Colonel Paul Tibbets, dropped 'Little Boy' on Hiroshima on 6 August 1945.",
+      "tags": []
+    },
+    {
+      "id": "worldw-065",
+      "q": "Who piloted the Enola Gay over Hiroshima?",
+      "options": [
+        "Paul Tibbets",
+        "Charles Sweeney",
+        "Jimmy Doolittle",
+        "Chuck Yeager"
+      ],
+      "correct": 0,
+      "explanation": "Colonel Paul Tibbets piloted the B-29 Enola Gay that dropped the atomic bomb 'Little Boy' on Hiroshima.",
+      "tags": []
+    },
+    {
+      "id": "worldw-066",
+      "q": "The B-29 bomber that dropped the Nagasaki bomb was named?",
+      "options": [
+        "Bockscar",
+        "Enola Gay",
+        "Memphis Belle",
+        "Betty Bomber"
+      ],
+      "correct": 0,
+      "explanation": "The B-29 bomber Bockscar, piloted by Charles Sweeney, dropped 'Fat Man' on Nagasaki on 9 August 1945.",
+      "tags": []
+    },
+    {
+      "id": "worldw-067",
+      "q": "Japan announced surrender on?",
+      "options": [
+        "15 August 1945 (V-J Day)",
+        "2 September 1945",
+        "6 August 1945",
+        "8 May 1945"
+      ],
+      "correct": 0,
+      "explanation": "Japan announced unconditional surrender on 15 August 1945, a day known as V-J Day (Victory over Japan Day).",
+      "tags": []
+    },
+    {
+      "id": "worldw-068",
+      "q": "The formal WWII surrender document was signed on?",
+      "options": [
+        "2 September 1945",
+        "15 August 1945",
+        "8 May 1945",
+        "11 November 1945"
+      ],
+      "correct": 0,
+      "explanation": "The formal surrender document was signed aboard the USS Missouri in Tokyo Bay on 2 September 1945, officially ending WWII.",
+      "tags": []
+    },
+    {
+      "id": "worldw-069",
+      "q": "Germany surrendered on?",
+      "options": [
+        "8 May 1945 (V-E Day)",
+        "15 August 1945",
+        "7 May 1945",
+        "2 September 1945"
+      ],
+      "correct": 0,
+      "explanation": "Germany surrendered on 8 May 1945, a day known as V-E Day (Victory in Europe Day), after Hitler's suicide on 30 April.",
+      "tags": []
+    },
+    {
+      "id": "worldw-070",
+      "q": "Hitler committed suicide on?",
+      "options": [
+        "30 April 1945",
+        "8 May 1945",
+        "1 May 1945",
+        "15 August 1945"
+      ],
+      "correct": 0,
+      "explanation": "Adolf Hitler committed suicide in his Berlin bunker on 30 April 1945 as Soviet forces closed in on Berlin.",
+      "tags": []
+    },
+    {
+      "id": "worldw-071",
+      "q": "Nazi war criminals were tried at?",
+      "options": [
+        "Nuremberg Trials (1945-46)",
+        "Tokyo Trials",
+        "Hague Trials",
+        "Moscow Trials"
+      ],
+      "correct": 0,
+      "explanation": "Nazi war criminals were tried at the Nuremberg Trials (1945-46) before an International Military Tribunal for crimes against humanity.",
+      "tags": []
+    },
+    {
+      "id": "worldw-072",
+      "q": "The United Nations was established in?",
+      "options": [
+        "1945",
+        "1919",
+        "1939",
+        "1950"
+      ],
+      "correct": 0,
+      "explanation": "The United Nations (UN) was established on 24 October 1945 to replace the failed League of Nations and maintain international peace.",
+      "tags": []
+    },
+    {
+      "id": "worldw-073",
+      "q": "The Bretton Woods Conference (1944) created?",
+      "options": [
+        "IMF and World Bank",
+        "UN and WHO",
+        "NATO and Warsaw Pact",
+        "League of Nations"
+      ],
+      "correct": 0,
+      "explanation": "The Bretton Woods Conference (1944) created the International Monetary Fund (IMF) and the World Bank for post-war global economic stability.",
+      "tags": []
+    },
+    {
+      "id": "worldw-074",
+      "q": "The Atlantic Charter (1941) was signed by?",
+      "options": [
+        "Roosevelt and Churchill",
+        "Stalin and Churchill",
+        "Truman and Stalin",
+        "Roosevelt and Stalin"
+      ],
+      "correct": 0,
+      "explanation": "The Atlantic Charter (August 1941) was signed by US President Franklin Roosevelt and British PM Winston Churchill, outlining post-war peace principles.",
+      "tags": []
+    },
+    {
+      "id": "worldw-075",
+      "q": "The Yalta Conference took place in?",
+      "options": [
+        "1945",
+        "1941",
+        "1944",
+        "1943"
+      ],
+      "correct": 0,
+      "explanation": "The Yalta Conference (February 1945) between Roosevelt, Churchill, and Stalin shaped the post-war settlement of Europe.",
+      "tags": []
+    },
+    {
+      "id": "worldw-076",
+      "q": "The Potsdam Conference was held in?",
+      "options": [
+        "1945",
+        "1944",
+        "1943",
+        "1946"
+      ],
+      "correct": 0,
+      "explanation": "The Potsdam Conference (July-August 1945) between Truman, Churchill/Attlee, and Stalin divided Germany and shaped post-war Europe.",
+      "tags": []
+    },
+    {
+      "id": "worldw-077",
+      "q": "The Marshall Plan (1948) was designed to?",
+      "options": [
+        "Rebuild war-torn Europe",
+        "Contain Japan",
+        "Establish UN",
+        "Divide Germany"
+      ],
+      "correct": 0,
+      "explanation": "The Marshall Plan (1948) was an American initiative to provide economic aid to rebuild war-torn Western Europe after WWII.",
+      "tags": []
+    },
+    {
+      "id": "worldw-078",
+      "q": "Total WWII casualties were approximately?",
+      "options": [
+        "70-85 million",
+        "16 million",
+        "40 million",
+        "100 million"
+      ],
+      "correct": 0,
+      "explanation": "World War II casualties totaled 70-85 million (including civilians and soldiers), making it the deadliest war in human history.",
+      "tags": []
+    },
+    {
+      "id": "worldw-079",
+      "q": "Which countries each suffered over 20 million deaths in WWII?",
+      "options": [
+        "Soviet Union and China",
+        "Germany and Japan",
+        "Britain and France",
+        "USA and Italy"
+      ],
+      "correct": 0,
+      "explanation": "The Soviet Union and China each suffered over 20 million deaths in WWII, the highest among any nations.",
+      "tags": []
+    },
+    {
+      "id": "worldw-080",
+      "q": "India contributed how many troops to the Allied war effort?",
+      "options": [
+        "Over 2.5 million",
+        "1 million",
+        "500,000",
+        "5 million"
+      ],
+      "correct": 0,
+      "explanation": "India contributed over 2.5 million troops to the Allied war effort — the largest volunteer army in history.",
+      "tags": []
+    },
+    {
+      "id": "worldw-081",
+      "q": "Who led the Indian National Army (INA) during WWII?",
+      "options": [
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Bhagat Singh"
+      ],
+      "correct": 0,
+      "explanation": "Subhas Chandra Bose led the Indian National Army (INA) with Japanese support, fighting against British rule during WWII.",
+      "tags": []
+    },
+    {
+      "id": "worldw-082",
+      "q": "Which island was awarded the George Cross for heroism in WWII?",
+      "options": [
+        "Malta",
+        "Crete",
+        "Sicily",
+        "Cyprus"
+      ],
+      "correct": 0,
+      "explanation": "Malta Island was awarded the George Cross by King George VI for its heroism under sustained Axis bombardment during WWII.",
+      "tags": []
+    },
+    {
+      "id": "worldw-083",
+      "q": "Which technology emerged from WWII research?",
+      "options": [
+        "Radar, jet engines, penicillin",
+        "Only radar",
+        "Only nuclear weapons",
+        "Only computers"
+      ],
+      "correct": 0,
+      "explanation": "WWII research produced major technological advances: radar, jet engines, penicillin, and early computers (like Colossus).",
+      "tags": []
+    },
+    {
+      "id": "worldw-084",
+      "q": "The Nuremberg Trials were held in?",
+      "options": [
+        "1945-1946",
+        "1939-1940",
+        "1948-1949",
+        "1950-1951"
+      ],
+      "correct": 0,
+      "explanation": "The Nuremberg Trials (1945-1946) were a series of military tribunals held by the Allies to prosecute Nazi war criminals.",
+      "tags": []
+    },
+    {
+      "id": "worldw-085",
+      "q": "Which country was divided after WWII into East and West?",
+      "options": [
+        "Germany",
+        "Japan",
+        "Korea",
+        "Vietnam"
+      ],
+      "correct": 0,
+      "explanation": "Germany was divided into East Germany (Soviet zone) and West Germany (Allied zones) after WWII, reunified only in 1990.",
+      "tags": []
+    },
+    {
+      "id": "worldw-086",
+      "q": "Israel's creation in 1948 was a direct consequence of?",
+      "options": [
+        "WWII Holocaust and Balfour Declaration",
+        "WWI only",
+        "Cold War",
+        "Cold War only"
+      ],
+      "correct": 0,
+      "explanation": "Israel's creation in 1948 was a direct consequence of WWII (Holocaust), the 1917 Balfour Declaration, and post-war British mandate dynamics.",
+      "tags": []
+    },
+    {
+      "id": "worldw-087",
+      "q": "The Cold War rivalry emerged between?",
+      "options": [
+        "USA and USSR",
+        "UK and Germany",
+        "China and Japan",
+        "France and Russia"
+      ],
+      "correct": 0,
+      "explanation": "The Cold War (1947-1991) was the ideological rivalry between the USA and USSR, direct consequence of WWII alliances breaking down.",
+      "tags": []
+    },
+    {
+      "id": "worldw-088",
+      "q": "Which country did Germany invade starting WWII?",
+      "options": [
+        "Poland",
+        "France",
+        "Belgium",
+        "Austria"
+      ],
+      "correct": 0,
+      "explanation": "Germany invaded Poland on 1 September 1939, triggering WWII when Britain and France declared war two days later.",
+      "tags": []
+    },
+    {
+      "id": "worldw-089",
+      "q": "The League of Nations was replaced by?",
+      "options": [
+        "United Nations",
+        "NATO",
+        "IMF",
+        "Warsaw Pact"
+      ],
+      "correct": 0,
+      "explanation": "The League of Nations, established 1920, was officially replaced by the United Nations in 1945-46 after its failure to prevent WWII.",
+      "tags": []
+    },
+    {
+      "id": "worldw-090",
+      "q": "The USS Missouri is where?",
+      "options": [
+        "Japan signed WWII surrender",
+        "Atomic bomb was tested",
+        "Pearl Harbor was attacked",
+        "D-Day was planned"
+      ],
+      "correct": 0,
+      "explanation": "Japan's formal WWII surrender was signed aboard the USS Missouri, anchored in Tokyo Bay, on 2 September 1945.",
+      "tags": []
+    },
+    {
+      "id": "worldw-091",
+      "q": "Who succeeded Roosevelt as US President in April 1945?",
+      "options": [
+        "Harry S. Truman",
+        "Dwight Eisenhower",
+        "Henry Wallace",
+        "James Byrnes"
+      ],
+      "correct": 0,
+      "explanation": "Harry S. Truman became US President on 12 April 1945 after FDR's death and made the decision to use atomic bombs on Japan.",
+      "tags": []
+    },
+    {
+      "id": "worldw-092",
+      "q": "Which European country remained neutral during WWII?",
+      "options": [
+        "Switzerland",
+        "Poland",
+        "Denmark",
+        "Belgium"
+      ],
+      "correct": 0,
+      "explanation": "Switzerland remained officially neutral throughout WWII, though surrounded by Axis-controlled territory. Sweden, Spain and Portugal were also neutral.",
+      "tags": []
+    },
+    {
+      "id": "worldw-093",
+      "q": "Pearl Harbor is located on which Hawaiian island?",
+      "options": [
+        "Oahu",
+        "Maui",
+        "Hawaii (Big Island)",
+        "Kauai"
+      ],
+      "correct": 0,
+      "explanation": "Pearl Harbor is located on the Hawaiian island of Oahu and serves as the headquarters of the US Pacific Fleet.",
+      "tags": []
+    },
+    {
+      "id": "worldw-094",
+      "q": "Who was Supreme Allied Commander for D-Day?",
+      "options": [
+        "Dwight D. Eisenhower",
+        "George Patton",
+        "Bernard Montgomery",
+        "Douglas MacArthur"
+      ],
+      "correct": 0,
+      "explanation": "General Dwight D. Eisenhower served as Supreme Allied Commander of the Normandy invasion (D-Day), later becoming US President.",
+      "tags": []
+    },
+    {
+      "id": "worldw-095",
+      "q": "The Fourteen Points were presented by Woodrow Wilson in?",
+      "options": [
+        "January 1918",
+        "1914",
+        "1919",
+        "November 1918"
+      ],
+      "correct": 0,
+      "explanation": "Woodrow Wilson presented the Fourteen Points to US Congress in January 1918, later influencing the Treaty of Versailles.",
+      "tags": []
+    },
+    {
+      "id": "worldw-096",
+      "q": "The League of Nations was based in?",
+      "options": [
+        "Geneva",
+        "New York",
+        "Paris",
+        "Vienna"
+      ],
+      "correct": 0,
+      "explanation": "The League of Nations was headquartered in Geneva, Switzerland, and operated from 1920 until dissolution in 1946.",
+      "tags": []
+    },
+    {
+      "id": "worldw-097",
+      "q": "The Armistice of 1918 was signed in?",
+      "options": [
+        "Compiegne, France",
+        "Versailles, France",
+        "Berlin, Germany",
+        "London, UK"
+      ],
+      "correct": 0,
+      "explanation": "The WWI Armistice was signed in a railway carriage in Compiegne Forest, France on 11 November 1918.",
+      "tags": []
+    },
+    {
+      "id": "worldw-098",
+      "q": "The two atomic bombings caused immediate deaths of approximately?",
+      "options": [
+        "129,000–226,000",
+        "50,000",
+        "500,000",
+        "1 million"
+      ],
+      "correct": 0,
+      "explanation": "The Hiroshima and Nagasaki bombings caused immediate deaths estimated at 129,000–226,000 people, with many more dying from radiation later.",
+      "tags": []
+    },
+    {
+      "id": "worldw-099",
+      "q": "Japan's Pearl Harbor attack targeted the US?",
+      "options": [
+        "Pacific Fleet",
+        "Atlantic Fleet",
+        "Marine Corps",
+        "Air Force only"
+      ],
+      "correct": 0,
+      "explanation": "Japan's 7 December 1941 attack on Pearl Harbor targeted the US Pacific Fleet based there, aiming to cripple American naval power.",
+      "tags": []
+    },
+    {
+      "id": "worldw-100",
+      "q": "Winston Churchill's famous speech 'We shall fight on the beaches' was delivered during?",
+      "options": [
+        "Battle of Britain",
+        "Dunkirk evacuation",
+        "D-Day",
+        "Blitz"
+      ],
+      "correct": 0,
+      "explanation": "Churchill delivered 'We shall fight on the beaches' on 4 June 1940 after the Dunkirk evacuation, vowing resistance against Nazi invasion.",
+      "tags": []
+    },
+    {
+      "id": "worldw-101",
+      "q": "The Holocaust was primarily carried out in?",
+      "options": [
+        "Concentration and death camps",
+        "Battlefields",
+        "Cities only",
+        "Ocean operations"
+      ],
+      "correct": 0,
+      "explanation": "The Holocaust was primarily carried out in Nazi concentration and death camps, most infamously Auschwitz-Birkenau in occupied Poland.",
+      "tags": []
+    },
+    {
+      "id": "worldw-102",
+      "q": "UNESCO, WHO, and ILO are associated with?",
+      "options": [
+        "Post-WWII UN system",
+        "League of Nations only",
+        "Cold War",
+        "WWI aftermath"
+      ],
+      "correct": 0,
+      "explanation": "UNESCO, WHO, and ILO became pillars of post-WWII global cooperation as specialized agencies of the United Nations system.",
+      "tags": []
+    },
+    {
+      "id": "worldw-103",
+      "q": "The Holocaust's primary target was?",
+      "options": [
+        "Jewish people",
+        "Russians",
+        "British",
+        "Chinese"
+      ],
+      "correct": 0,
+      "explanation": "The primary target of the Holocaust was European Jews — approximately 6 million were murdered. Other victims included Roma, disabled people, Soviet POWs, and Polish civilians.",
+      "tags": []
+    }
+  ]
+}

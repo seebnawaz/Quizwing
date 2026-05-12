@@ -1,0 +1,752 @@
+{
+  "topic_id": "types-of-computers-input-output-devices",
+  "topic_name": "Types of Computers Input Output Devices",
+  "subject": "computer-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Types of Computers Input Output Devices MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🖱️",
+  "mcqs": [
+    {
+      "id": "typeso-001",
+      "q": "How many basic types of computers are there based on operation?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 1,
+      "explanation": "There are three basic types of computers by operation: Analog, Digital and Hybrid.",
+      "tags": []
+    },
+    {
+      "id": "typeso-002",
+      "q": "Which of the following is NOT a type of computer based on operation?",
+      "options": [
+        "Analog",
+        "Digital",
+        "Hybrid",
+        "Quantum"
+      ],
+      "correct": 3,
+      "explanation": "By operation, computers are classified as Analog, Digital and Hybrid. Quantum is a separate emerging category, not part of this classic 3-way classification.",
+      "tags": []
+    },
+    {
+      "id": "typeso-003",
+      "q": "A digital computer is based on which of the following?",
+      "options": [
+        "Counting (0/1)",
+        "Continuous measurement",
+        "Both counting and measurement",
+        "Sound waves"
+      ],
+      "correct": 0,
+      "explanation": "Digital computers operate on counting using a binary number system with only two digits: 0 and 1.",
+      "tags": []
+    },
+    {
+      "id": "typeso-004",
+      "q": "An analog computer is based on which of the following?",
+      "options": [
+        "Counting",
+        "Continuous measurement",
+        "Discrete pulses",
+        "Magnetic storage"
+      ],
+      "correct": 1,
+      "explanation": "Analog computers work on a continuous range of values — continuous measurement.",
+      "tags": []
+    },
+    {
+      "id": "typeso-005",
+      "q": "A hybrid computer is based on:",
+      "options": [
+        "Counting only",
+        "Measurement only",
+        "Both counting and measurement",
+        "Neither"
+      ],
+      "correct": 2,
+      "explanation": "Hybrid computers combine both counting (digital) and measurement (analog) features.",
+      "tags": []
+    },
+    {
+      "id": "typeso-006",
+      "q": "General-purpose PCs are an example of which type of computer?",
+      "options": [
+        "Analog",
+        "Digital",
+        "Hybrid",
+        "Mechanical"
+      ],
+      "correct": 1,
+      "explanation": "General-purpose Personal Computers (PCs) are digital computers — they operate on 0/1 binary signals.",
+      "tags": []
+    },
+    {
+      "id": "typeso-007",
+      "q": "Which of the following is an example of an analog computer?",
+      "options": [
+        "Personal Computer",
+        "Speedometer / ECG machine",
+        "Modem",
+        "Petrol pump"
+      ],
+      "correct": 1,
+      "explanation": "Speedometers, ECG machines and weather-forecasting devices are classic analog computers based on continuous measurement.",
+      "tags": []
+    },
+    {
+      "id": "typeso-008",
+      "q": "Petrol pumps, modems and jet plane simulators are examples of which type of computer?",
+      "options": [
+        "Analog",
+        "Digital",
+        "Hybrid",
+        "Mainframe"
+      ],
+      "correct": 2,
+      "explanation": "Petrol pumps, modems, simulators and jet plane systems are hybrid computers — they combine analog measurement with digital counting.",
+      "tags": []
+    },
+    {
+      "id": "typeso-009",
+      "q": "Which number system does a digital computer use?",
+      "options": [
+        "Decimal",
+        "Octal",
+        "Binary (0 and 1)",
+        "Hexadecimal"
+      ],
+      "correct": 2,
+      "explanation": "Digital computers use the binary number system with only two digits: 0 and 1.",
+      "tags": []
+    },
+    {
+      "id": "typeso-010",
+      "q": "Which type of computer is mostly used to automate complicated physical processes and machines?",
+      "options": [
+        "Analog",
+        "Digital",
+        "Hybrid",
+        "Mini"
+      ],
+      "correct": 2,
+      "explanation": "Hybrid computers are mostly used with automatic operations of complicated physical processes and machines.",
+      "tags": []
+    },
+    {
+      "id": "typeso-011",
+      "q": "An ECG (Electrocardiogram) machine is an example of which type of computer?",
+      "options": [
+        "Digital",
+        "Analog",
+        "Hybrid",
+        "Mainframe"
+      ],
+      "correct": 1,
+      "explanation": "ECG machines work on continuous measurement of electrical signals — they are analog computers.",
+      "tags": []
+    },
+    {
+      "id": "typeso-012",
+      "q": "Which type of computer typically gives output in graph or picture form?",
+      "options": [
+        "Digital",
+        "Analog",
+        "Mainframe",
+        "Supercomputer"
+      ],
+      "correct": 1,
+      "explanation": "Analog computers typically produce output as graphs or pictures because they operate on continuous measurement.",
+      "tags": []
+    },
+    {
+      "id": "typeso-013",
+      "q": "A Personal Computer (PC) typically supports how many users at a time?",
+      "options": [
+        "Single user",
+        "Two users",
+        "Hundreds of users",
+        "Thousands of users"
+      ],
+      "correct": 0,
+      "explanation": "A PC is a single-user computer with a moderately powerful microprocessor.",
+      "tags": []
+    },
+    {
+      "id": "typeso-014",
+      "q": "Which computer has a more powerful microprocessor than a PC but is still single-user?",
+      "options": [
+        "Workstation",
+        "Mini Computer",
+        "Mainframe",
+        "Supercomputer"
+      ],
+      "correct": 0,
+      "explanation": "A Workstation is a single-user computer with a more powerful microprocessor than a typical PC.",
+      "tags": []
+    },
+    {
+      "id": "typeso-015",
+      "q": "A Mini Computer is capable of supporting:",
+      "options": [
+        "A single user",
+        "Hundreds of users simultaneously",
+        "Only printers",
+        "Only keyboards"
+      ],
+      "correct": 1,
+      "explanation": "A Mini Computer is a multi-user system capable of supporting hundreds of users simultaneously.",
+      "tags": []
+    },
+    {
+      "id": "typeso-016",
+      "q": "Which type of computer is mainly used in banks?",
+      "options": [
+        "Workstation",
+        "Mini Computer",
+        "Mainframe",
+        "PC"
+      ],
+      "correct": 2,
+      "explanation": "Mainframe computers are mainly used in banks. They support hundreds of users simultaneously.",
+      "tags": []
+    },
+    {
+      "id": "typeso-017",
+      "q": "Which is the fastest type of computer that can execute hundreds of millions of instructions per second?",
+      "options": [
+        "Mainframe",
+        "Supercomputer",
+        "Mini Computer",
+        "Workstation"
+      ],
+      "correct": 1,
+      "explanation": "Supercomputers are extremely fast — they can execute hundreds of millions of instructions per second.",
+      "tags": []
+    },
+    {
+      "id": "typeso-018",
+      "q": "NASA's computers used for space exploration are examples of:",
+      "options": [
+        "Personal Computers",
+        "Mainframes",
+        "Supercomputers",
+        "Mini Computers"
+      ],
+      "correct": 2,
+      "explanation": "NASA uses supercomputers for tasks like space exploration, global weather forecasting and complex engineering simulations.",
+      "tags": []
+    },
+    {
+      "id": "typeso-019",
+      "q": "Supercomputers are used for which of the following tasks?",
+      "options": [
+        "Email and word processing",
+        "Global weather forecasting and space exploration",
+        "Drawing simple graphics",
+        "Sending text messages"
+      ],
+      "correct": 1,
+      "explanation": "Supercomputers are used for global weather forecasting, graphic image processing, engineering design and space exploration.",
+      "tags": []
+    },
+    {
+      "id": "typeso-020",
+      "q": "Which of the following is the smallest in terms of size and power?",
+      "options": [
+        "Mainframe",
+        "Supercomputer",
+        "Mini Computer",
+        "Personal Computer"
+      ],
+      "correct": 3,
+      "explanation": "A Personal Computer is the smallest of the listed types in terms of size and processing power.",
+      "tags": []
+    },
+    {
+      "id": "typeso-021",
+      "q": "Which two types of computers are typically multi-user systems?",
+      "options": [
+        "PC and Workstation",
+        "Mini and Mainframe",
+        "PC and Mainframe",
+        "Workstation and Mini"
+      ],
+      "correct": 1,
+      "explanation": "Mini Computers and Mainframe Computers are multi-user systems supporting hundreds of users simultaneously.",
+      "tags": []
+    },
+    {
+      "id": "typeso-022",
+      "q": "A computer that has a moderately powerful microprocessor and is designed for a single user is called a:",
+      "options": [
+        "Mainframe",
+        "Mini Computer",
+        "Personal Computer",
+        "Supercomputer"
+      ],
+      "correct": 2,
+      "explanation": "A Personal Computer (PC) has a moderately powerful microprocessor and is designed for a single user.",
+      "tags": []
+    },
+    {
+      "id": "typeso-023",
+      "q": "Which is the most common and popular input device?",
+      "options": [
+        "Mouse",
+        "Keyboard",
+        "Scanner",
+        "Microphone"
+      ],
+      "correct": 1,
+      "explanation": "The keyboard is the most common and popular input device — it encodes characters by the depression of keys.",
+      "tags": []
+    },
+    {
+      "id": "typeso-024",
+      "q": "The standard key arrangement on a computer keyboard is called:",
+      "options": [
+        "AZERTY",
+        "DVORAK",
+        "QWERTY",
+        "COLEMAK"
+      ],
+      "correct": 2,
+      "explanation": "The standard key arrangement on a keyboard is called QWERTY, named after the first six letters of the top row.",
+      "tags": []
+    },
+    {
+      "id": "typeso-025",
+      "q": "Which is the most popular pointing device?",
+      "options": [
+        "Joystick",
+        "Mouse",
+        "Light Pen",
+        "Track Ball"
+      ],
+      "correct": 1,
+      "explanation": "The mouse is the most popular pointing device used with computers.",
+      "tags": []
+    },
+    {
+      "id": "typeso-026",
+      "q": "Which input device transmits X-Y hand coordinates to position a cursor on the screen?",
+      "options": [
+        "Joystick",
+        "Scanner",
+        "OMR",
+        "MICR"
+      ],
+      "correct": 0,
+      "explanation": "A joystick transmits X-Y hand coordinates to the computer to position a cursor on the screen, similar to a mouse.",
+      "tags": []
+    },
+    {
+      "id": "typeso-027",
+      "q": "A light-sensitive pointing input device used to select or modify text/data on a screen is called:",
+      "options": [
+        "Mouse",
+        "Light Pen",
+        "Bar Code Reader",
+        "Microphone"
+      ],
+      "correct": 1,
+      "explanation": "A Light Pen is a light-sensitive pointing input device commonly used to select or modify text or data on a screen.",
+      "tags": []
+    },
+    {
+      "id": "typeso-028",
+      "q": "Which input device is mostly used in notebook/laptop computers instead of a mouse?",
+      "options": [
+        "Track Ball",
+        "Joystick",
+        "Scanner",
+        "Digitizer"
+      ],
+      "correct": 0,
+      "explanation": "The Track Ball is an input device mostly used in notebook/laptop computers in place of a mouse.",
+      "tags": []
+    },
+    {
+      "id": "typeso-029",
+      "q": "Which input device works more like a photocopy machine?",
+      "options": [
+        "Printer",
+        "Scanner",
+        "Plotter",
+        "Speaker"
+      ],
+      "correct": 1,
+      "explanation": "A Scanner works more like a photocopy machine — it captures images and text from physical documents.",
+      "tags": []
+    },
+    {
+      "id": "typeso-030",
+      "q": "Which input device is used to change information into digital form?",
+      "options": [
+        "Digitizer",
+        "Speaker",
+        "Monitor",
+        "Plotter"
+      ],
+      "correct": 0,
+      "explanation": "A Digitizer is a device that changes information into digital form.",
+      "tags": []
+    },
+    {
+      "id": "typeso-031",
+      "q": "MICR stands for:",
+      "options": [
+        "Magnetic Ink Code Recognition",
+        "Magnetic Ink Card Reader",
+        "Micro Ink Character Reader",
+        "Multiple Ink Card Reader"
+      ],
+      "correct": 1,
+      "explanation": "MICR stands for Magnetic Ink Card Reader. It is generally used in banks for processing cheques.",
+      "tags": []
+    },
+    {
+      "id": "typeso-032",
+      "q": "MICR (Magnetic Ink Card Reader) is generally used in:",
+      "options": [
+        "Hospitals",
+        "Banks",
+        "Schools",
+        "Petrol pumps"
+      ],
+      "correct": 1,
+      "explanation": "MICR is generally used in banks because of the large number of cheques to be processed every day.",
+      "tags": []
+    },
+    {
+      "id": "typeso-033",
+      "q": "OCR stands for:",
+      "options": [
+        "Optical Code Reader",
+        "Optical Character Reader",
+        "Online Code Recognition",
+        "Optical Card Reader"
+      ],
+      "correct": 1,
+      "explanation": "OCR stands for Optical Character Reader — an input device used to read printed text.",
+      "tags": []
+    },
+    {
+      "id": "typeso-034",
+      "q": "Which of the following is used to read printed text?",
+      "options": [
+        "MICR",
+        "OCR",
+        "OMR",
+        "Bar Code Reader"
+      ],
+      "correct": 1,
+      "explanation": "OCR (Optical Character Reader) is the input device used to read printed text and convert it into editable digital form.",
+      "tags": []
+    },
+    {
+      "id": "typeso-035",
+      "q": "OMR stands for:",
+      "options": [
+        "Optical Mark Reader",
+        "Optical Memory Reader",
+        "Online Mark Reader",
+        "Optical Marking Recognition"
+      ],
+      "correct": 0,
+      "explanation": "OMR stands for Optical Mark Reader — a special type of optical scanner used to recognise marks made by pen or pencil (e.g. on MCQ sheets).",
+      "tags": []
+    },
+    {
+      "id": "typeso-036",
+      "q": "Which device is most commonly used to read MCQ-style answer sheets?",
+      "options": [
+        "MICR",
+        "OCR",
+        "OMR",
+        "Light Pen"
+      ],
+      "correct": 2,
+      "explanation": "OMR (Optical Mark Reader) is used to read MCQ-style answer sheets, recognising the type of mark made by pen or pencil.",
+      "tags": []
+    },
+    {
+      "id": "typeso-037",
+      "q": "A device used for reading bar-coded data is called a:",
+      "options": [
+        "Bar Code Reader",
+        "OMR",
+        "MICR",
+        "Digitizer"
+      ],
+      "correct": 0,
+      "explanation": "A Bar Code Reader is a device used for reading bar-coded data — typically used in shops and warehouses.",
+      "tags": []
+    },
+    {
+      "id": "typeso-038",
+      "q": "Which input device is used to input sound that is then stored in digital form?",
+      "options": [
+        "Speaker",
+        "Microphone",
+        "Joystick",
+        "Light Pen"
+      ],
+      "correct": 1,
+      "explanation": "A Microphone is an input device used to input sound, which is then stored in a digital form by the computer.",
+      "tags": []
+    },
+    {
+      "id": "typeso-039",
+      "q": "A Touch Screen is a:",
+      "options": [
+        "Storage device",
+        "Output device only",
+        "Input device that accepts touch directly on the screen",
+        "Processing device"
+      ],
+      "correct": 2,
+      "explanation": "A Touch Screen is an input device that accepts touch input directly on the screen surface.",
+      "tags": []
+    },
+    {
+      "id": "typeso-040",
+      "q": "A Web Camera is a device that:",
+      "options": [
+        "Stores files",
+        "Captures and transmits video/image input to the computer",
+        "Prints documents",
+        "Plays audio"
+      ],
+      "correct": 1,
+      "explanation": "A Web Camera (webcam) captures and transmits video or image input to the computer.",
+      "tags": []
+    },
+    {
+      "id": "typeso-041",
+      "q": "What is the formal name for the computer monitor?",
+      "options": [
+        "VDU (Visual Display Unit)",
+        "CPU",
+        "SMPS",
+        "RAM"
+      ],
+      "correct": 0,
+      "explanation": "A monitor is formally called a VDU — Visual Display Unit. It is the main output device of a computer.",
+      "tags": []
+    },
+    {
+      "id": "typeso-042",
+      "q": "VDU stands for:",
+      "options": [
+        "Video Data Unit",
+        "Visual Display Unit",
+        "Variable Digital Unit",
+        "Vertical Display Unit"
+      ],
+      "correct": 1,
+      "explanation": "VDU stands for Visual Display Unit — the formal name for a computer monitor.",
+      "tags": []
+    },
+    {
+      "id": "typeso-043",
+      "q": "Which of the following is the main output device of a computer?",
+      "options": [
+        "Keyboard",
+        "Mouse",
+        "Monitor",
+        "Scanner"
+      ],
+      "correct": 2,
+      "explanation": "The Monitor (VDU) is the main output device of a computer — it visually displays processed information.",
+      "tags": []
+    },
+    {
+      "id": "typeso-044",
+      "q": "A flat-panel display has reduced volume, weight and power requirement compared to:",
+      "options": [
+        "LCD",
+        "Plasma",
+        "CRT (Cathode Ray Tube)",
+        "LED"
+      ],
+      "correct": 2,
+      "explanation": "Flat-panel displays have reduced volume, weight and power requirement compared to traditional CRT monitors.",
+      "tags": []
+    },
+    {
+      "id": "typeso-045",
+      "q": "Which printer utilises a laser beam to produce an image on a drum?",
+      "options": [
+        "Inkjet Printer",
+        "Dot Matrix Printer",
+        "Laser Printer",
+        "Impact Printer"
+      ],
+      "correct": 2,
+      "explanation": "A Laser Printer utilises a laser beam to produce an image on a drum, which is then transferred to paper using toner.",
+      "tags": []
+    },
+    {
+      "id": "typeso-046",
+      "q": "An impact printer operates by:",
+      "options": [
+        "Spraying ink on paper",
+        "Striking a metal or plastic head against an ink ribbon",
+        "Using a laser beam",
+        "Heating wax"
+      ],
+      "correct": 1,
+      "explanation": "An Impact Printer operates by striking a metal or plastic head against an ink ribbon — much like an old typewriter.",
+      "tags": []
+    },
+    {
+      "id": "typeso-047",
+      "q": "A device that prints one character at a time is called a:",
+      "options": [
+        "Page Printer",
+        "Line Printer",
+        "Character Printer",
+        "Drum Printer"
+      ],
+      "correct": 2,
+      "explanation": "A Character Printer is a device that prints one character at a time.",
+      "tags": []
+    },
+    {
+      "id": "typeso-048",
+      "q": "A Dot Matrix printer prints characters as:",
+      "options": [
+        "A laser-etched image",
+        "A combination of dots",
+        "A continuous line",
+        "A sprayed pattern of toner"
+      ],
+      "correct": 1,
+      "explanation": "A Dot Matrix Printer prints characters as a combination of dots, formed by an array of pins striking an ink ribbon.",
+      "tags": []
+    },
+    {
+      "id": "typeso-049",
+      "q": "Which printer is a non-impact character printer that prints by spraying patterns of ink on paper?",
+      "options": [
+        "Laser Printer",
+        "Dot Matrix Printer",
+        "Inkjet Printer",
+        "Drum Printer"
+      ],
+      "correct": 2,
+      "explanation": "An Inkjet Printer is a non-impact character printer that prints by spraying patterns of ink on paper from a nozzle or jet.",
+      "tags": []
+    },
+    {
+      "id": "typeso-050",
+      "q": "The most recent development in printing — which creates three-dimensional objects from a CAD model — is the:",
+      "options": [
+        "Laser Printer",
+        "Inkjet Printer",
+        "3D Printer",
+        "Dot Matrix Printer"
+      ],
+      "correct": 2,
+      "explanation": "The 3D Printer is the most recent development in printing — it creates a three-dimensional object from a CAD (Computer-Aided Design) model.",
+      "tags": []
+    },
+    {
+      "id": "typeso-051",
+      "q": "Which of the following is an audio output device?",
+      "options": [
+        "Microphone",
+        "Speaker",
+        "Scanner",
+        "Light Pen"
+      ],
+      "correct": 1,
+      "explanation": "A Speaker is an audio output device that converts digital signals into sound.",
+      "tags": []
+    },
+    {
+      "id": "typeso-052",
+      "q": "CD and DVD are examples of:",
+      "options": [
+        "Input devices",
+        "Output devices",
+        "Optical output/storage media",
+        "Processing devices"
+      ],
+      "correct": 2,
+      "explanation": "CD and DVD are optical media — they are commonly classified as output/storage devices.",
+      "tags": []
+    },
+    {
+      "id": "typeso-053",
+      "q": "Which of the following is a STORAGE device?",
+      "options": [
+        "Keyboard",
+        "Flash Memory",
+        "Monitor",
+        "Speaker"
+      ],
+      "correct": 1,
+      "explanation": "Flash Memory is a storage device. Other examples include Optical Disk, Local Drives, Magnetic Tape and Magnetic Disk.",
+      "tags": []
+    },
+    {
+      "id": "typeso-054",
+      "q": "Which of the following is a PROCESSING device?",
+      "options": [
+        "Microphone",
+        "Random Access Memory (RAM)",
+        "Printer",
+        "CD"
+      ],
+      "correct": 1,
+      "explanation": "RAM (Random Access Memory) is a processing device. Other processing devices include Motherboard, Processor, ROM and SMPS.",
+      "tags": []
+    },
+    {
+      "id": "typeso-055",
+      "q": "RAM stands for:",
+      "options": [
+        "Read Access Memory",
+        "Random Access Memory",
+        "Read All Memory",
+        "Rapid Access Memory"
+      ],
+      "correct": 1,
+      "explanation": "RAM stands for Random Access Memory — a processing/primary memory device.",
+      "tags": []
+    },
+    {
+      "id": "typeso-056",
+      "q": "ROM stands for:",
+      "options": [
+        "Read Only Memory",
+        "Random Only Memory",
+        "Read Operation Memory",
+        "Rapid Online Memory"
+      ],
+      "correct": 0,
+      "explanation": "ROM stands for Read Only Memory — a non-volatile memory used as a processing device.",
+      "tags": []
+    },
+    {
+      "id": "typeso-057",
+      "q": "SMPS in a computer stands for:",
+      "options": [
+        "Standard Memory Power Supply",
+        "Switched Mode Power Supply",
+        "Single Mode Power System",
+        "Static Memory Power Source"
+      ],
+      "correct": 1,
+      "explanation": "SMPS stands for Switched Mode Power Supply — a key processing-side component that supplies regulated power to a computer.",
+      "tags": []
+    }
+  ]
+}

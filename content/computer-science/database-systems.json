@@ -1,0 +1,661 @@
+{
+  "topic_id": "database-systems",
+  "topic_name": "Database Systems",
+  "subject": "computer-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Database Systems MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🗄️",
+  "mcqs": [
+    {
+      "id": "databa-001",
+      "q": "A database is best described as:",
+      "options": [
+        "A type of hardware",
+        "Has data and relationships, and is self-describing",
+        "A printer driver",
+        "A type of cable"
+      ],
+      "correct": 1,
+      "explanation": "A database has data and relationships. It is called 'self-describing' because it contains a description of itself.",
+      "tags": []
+    },
+    {
+      "id": "databa-002",
+      "q": "Why is a database called self-describing?",
+      "options": [
+        "Because it has a label",
+        "Because it contains a description of itself (data + schema)",
+        "Because users name it themselves",
+        "Because it prints its own ID"
+      ],
+      "correct": 1,
+      "explanation": "A database is called self-describing because it contains a description of itself — it stores both the data and the structure (schema) that defines that data.",
+      "tags": []
+    },
+    {
+      "id": "databa-003",
+      "q": "What does DBMS stand for?",
+      "options": [
+        "Data Building &amp; Management System",
+        "Database Management System",
+        "Distributed Backup Memory System",
+        "Direct Binary Mapping Service"
+      ],
+      "correct": 1,
+      "explanation": "DBMS stands for Database Management System — a software package for creating and managing databases.",
+      "tags": []
+    },
+    {
+      "id": "databa-004",
+      "q": "A DBMS is best described as:",
+      "options": [
+        "A piece of hardware",
+        "A software package for creating and managing databases",
+        "A type of cable",
+        "A monitor type"
+      ],
+      "correct": 1,
+      "explanation": "A DBMS is a software package for creating and managing databases. It acts as an interface between the database application and the database.",
+      "tags": []
+    },
+    {
+      "id": "databa-005",
+      "q": "In an enterprise-class database system, the DBMS acts as the interface between:",
+      "options": [
+        "The keyboard and the monitor",
+        "The database application and the database",
+        "The CPU and the RAM",
+        "The OS and the cooling fan"
+      ],
+      "correct": 1,
+      "explanation": "In an enterprise-class database system, the DBMS acts as the interface between the database application and the database — applications never read the raw data files directly.",
+      "tags": []
+    },
+    {
+      "id": "databa-006",
+      "q": "How many basic forms do databases typically have?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct": 1,
+      "explanation": "Databases typically have one of two basic forms.",
+      "tags": []
+    },
+    {
+      "id": "databa-007",
+      "q": "A Flat File Database stores data in:",
+      "options": [
+        "Multiple linked tables",
+        "A plain text file with each line typically holding one record",
+        "An XML tree",
+        "An object graph"
+      ],
+      "correct": 1,
+      "explanation": "A Flat File Database stores data in a plain text file, with each line of text typically holding one record.",
+      "tags": []
+    },
+    {
+      "id": "databa-008",
+      "q": "A Hierarchical Database Model resembles which structure?",
+      "options": [
+        "A flat list",
+        "A tree structure / folder architecture",
+        "A circular ring",
+        "A 3D cube"
+      ],
+      "correct": 1,
+      "explanation": "The Hierarchical Database Model resembles a tree structure — similar to a folder architecture in the computer system.",
+      "tags": []
+    },
+    {
+      "id": "databa-009",
+      "q": "In an Object-Oriented Database, information is represented as:",
+      "options": [
+        "Plain text",
+        "Objects, with different types of relationships possible between two or more objects",
+        "Punched cards",
+        "Magnetic tape"
+      ],
+      "correct": 1,
+      "explanation": "In an Object-Oriented Database, information is represented as objects, with different types of relationships possible between two or more objects.",
+      "tags": []
+    },
+    {
+      "id": "databa-010",
+      "q": "IDMS implemented which database model?",
+      "options": [
+        "CODASYL DBTG",
+        "ANSI SPARC",
+        "XML / DOM",
+        "Relational"
+      ],
+      "correct": 0,
+      "explanation": "IDMS (Integrated Database Management System) implemented the CODASYL DBTG model — a famous network database model.",
+      "tags": []
+    },
+    {
+      "id": "databa-011",
+      "q": "Prior to 1970, where was most data stored?",
+      "options": [
+        "In SSDs",
+        "In separate files, mostly on reels of magnetic tape",
+        "In cloud storage",
+        "In RAM"
+      ],
+      "correct": 1,
+      "explanation": "Prior to 1970, all data was stored in separate files, which were mostly stored on reels of magnetic tape.",
+      "tags": []
+    },
+    {
+      "id": "databa-012",
+      "q": "Which family of standards is very important in database processing today?",
+      "options": [
+        "MP3",
+        "XML",
+        "JPG",
+        "MP4"
+      ],
+      "correct": 1,
+      "explanation": "The XML family of standards is very important in database processing today — used for data interchange and document storage.",
+      "tags": []
+    },
+    {
+      "id": "databa-013",
+      "q": "A Relational Database contains:",
+      "options": [
+        "A single text file",
+        "Multiple tables of data with rows and columns that relate to each other through special key fields",
+        "Only graphics",
+        "Only audio"
+      ],
+      "correct": 1,
+      "explanation": "A Relational Database contains multiple tables of data with rows and columns that relate to each other through special key fields.",
+      "tags": []
+    },
+    {
+      "id": "databa-014",
+      "q": "Who created the relational database model?",
+      "options": [
+        "Tim Berners-Lee",
+        "E. F. Codd",
+        "Charles Babbage",
+        "John McCarthy"
+      ],
+      "correct": 1,
+      "explanation": "The relational database model was created by E. F. Codd.",
+      "tags": []
+    },
+    {
+      "id": "databa-015",
+      "q": "In a relational database, data in different tables is connected through:",
+      "options": [
+        "Email addresses",
+        "Special key fields",
+        "File paths",
+        "Audio signatures"
+      ],
+      "correct": 1,
+      "explanation": "In a relational database, tables are connected through special key fields (primary key in one table linked to a foreign key in another).",
+      "tags": []
+    },
+    {
+      "id": "databa-016",
+      "q": "How many basic types of relationships exist in a relational database?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 2,
+      "explanation": "There are four types of relationships in a relational database: One-to-One, One-to-Many, Many-to-One and Many-to-Many.",
+      "tags": []
+    },
+    {
+      "id": "databa-017",
+      "q": "Which relationship type fits 'one person has one passport'?",
+      "options": [
+        "One-to-One",
+        "One-to-Many",
+        "Many-to-One",
+        "Many-to-Many"
+      ],
+      "correct": 0,
+      "explanation": "'One person has one passport' is a One-to-One relationship — one record in one table relates to one record in another.",
+      "tags": []
+    },
+    {
+      "id": "databa-018",
+      "q": "Which relationship type fits 'one teacher teaches many students'?",
+      "options": [
+        "One-to-One",
+        "One-to-Many",
+        "Many-to-One",
+        "Many-to-Many"
+      ],
+      "correct": 1,
+      "explanation": "'One teacher teaches many students' is a One-to-Many relationship — one record relates to multiple records in another table.",
+      "tags": []
+    },
+    {
+      "id": "databa-019",
+      "q": "Which relationship type fits 'many students belong to one class'?",
+      "options": [
+        "One-to-One",
+        "One-to-Many",
+        "Many-to-One",
+        "Many-to-Many"
+      ],
+      "correct": 2,
+      "explanation": "'Many students belong to one class' is a Many-to-One relationship — multiple records relate to one record in another table.",
+      "tags": []
+    },
+    {
+      "id": "databa-020",
+      "q": "Which relationship type fits 'many students enrolled in many courses'?",
+      "options": [
+        "One-to-One",
+        "One-to-Many",
+        "Many-to-One",
+        "Many-to-Many"
+      ],
+      "correct": 3,
+      "explanation": "'Many students enrolled in many courses' is a Many-to-Many relationship — multiple records relate to multiple records in another table (typically resolved using a junction table).",
+      "tags": []
+    },
+    {
+      "id": "databa-021",
+      "q": "A Single-User Database application is one in which:",
+      "options": [
+        "Only one user accesses the database at a given time",
+        "Only one record exists",
+        "Only one table is used",
+        "Only one server is allowed"
+      ],
+      "correct": 0,
+      "explanation": "A Single-User Database is an application where only one user accesses the database at a given time.",
+      "tags": []
+    },
+    {
+      "id": "databa-022",
+      "q": "Which of the following is a classic example of a Multi-User Database application?",
+      "options": [
+        "Personal contact book",
+        "ERP (Enterprise Resource Planning)",
+        "Single-user notepad",
+        "Calculator"
+      ],
+      "correct": 1,
+      "explanation": "An ERP (Enterprise Resource Planning) application is a classic example of a multi-user database application.",
+      "tags": []
+    },
+    {
+      "id": "databa-023",
+      "q": "Which DBMS combines a DBMS and an application generator?",
+      "options": [
+        "Microsoft Access",
+        "Oracle",
+        "MySQL",
+        "DB2"
+      ],
+      "correct": 0,
+      "explanation": "Microsoft Access is a DBMS that combines a DBMS and an application generator — making it especially popular for small-business desktop databases.",
+      "tags": []
+    },
+    {
+      "id": "databa-024",
+      "q": "Which DBMS is regarded as the most difficult to use?",
+      "options": [
+        "Microsoft Access",
+        "Oracle",
+        "FileMaker",
+        "SQLite"
+      ],
+      "correct": 1,
+      "explanation": "Oracle (by Oracle Corporation) is regarded as the most difficult DBMS to use — because of its enterprise-scale configurability and feature depth.",
+      "tags": []
+    },
+    {
+      "id": "databa-025",
+      "q": "Oracle DBMS is produced by:",
+      "options": [
+        "Microsoft",
+        "IBM",
+        "Oracle Corporation",
+        "Google"
+      ],
+      "correct": 2,
+      "explanation": "Oracle DBMS is produced by Oracle Corporation.",
+      "tags": []
+    },
+    {
+      "id": "databa-026",
+      "q": "In an enterprise-class database system, business users typically interact with:",
+      "options": [
+        "The hard disk directly",
+        "Database applications that interact with the DBMS",
+        "The CPU directly",
+        "Magnetic tape directly"
+      ],
+      "correct": 1,
+      "explanation": "In an enterprise-class database system, business users interact directly with database applications that interact with the DBMS, which then directly accesses the database data.",
+      "tags": []
+    },
+    {
+      "id": "databa-027",
+      "q": "A database design may be based on:",
+      "options": [
+        "Random guesses only",
+        "Existing data",
+        "Only future requirements",
+        "Only the OS version"
+      ],
+      "correct": 1,
+      "explanation": "A database design may be based on existing data — analysts often start by examining the data already collected by the organisation.",
+      "tags": []
+    },
+    {
+      "id": "databa-028",
+      "q": "Microsoft Access is best suited for:",
+      "options": [
+        "Massive enterprise OLTP systems",
+        "Desktop / small-business databases combining a DBMS and app generator",
+        "Real-time stock trading",
+        "Embedded sensor networks"
+      ],
+      "correct": 1,
+      "explanation": "Microsoft Access is best suited for desktop and small-business databases — it combines a DBMS with a built-in application generator.",
+      "tags": []
+    },
+    {
+      "id": "databa-029",
+      "q": "SQL stands for:",
+      "options": [
+        "Structured Query Language",
+        "Single Query Language",
+        "Static Query Language",
+        "Sequential Query Language"
+      ],
+      "correct": 0,
+      "explanation": "SQL stands for Structured Query Language.",
+      "tags": []
+    },
+    {
+      "id": "databa-030",
+      "q": "SQL is best described as:",
+      "options": [
+        "A proprietary language used only by Oracle",
+        "An internationally recognised standard language understood by all commercial DBMS products",
+        "A type of network protocol",
+        "A markup language for the web"
+      ],
+      "correct": 1,
+      "explanation": "SQL is an internationally recognised standard language understood by all commercial database management system products.",
+      "tags": []
+    },
+    {
+      "id": "databa-031",
+      "q": "Which language is used by every major DBMS to query and manipulate data?",
+      "options": [
+        "HTML",
+        "XML",
+        "SQL",
+        "CSS"
+      ],
+      "correct": 2,
+      "explanation": "SQL (Structured Query Language) is used by every major DBMS to query and manipulate data.",
+      "tags": []
+    },
+    {
+      "id": "databa-032",
+      "q": "Which of the following BEST describes the role of SQL in modern DBMS?",
+      "options": [
+        "A markup language for web pages",
+        "Standard query language understood by all commercial DBMS products",
+        "A type of file format only",
+        "An OS only"
+      ],
+      "correct": 1,
+      "explanation": "SQL is the standard query language understood by all commercial DBMS products — it is the lingua franca of databases.",
+      "tags": []
+    },
+    {
+      "id": "databa-033",
+      "q": "Which of the following is TRUE about SQL?",
+      "options": [
+        "It is unique to Microsoft Access",
+        "It is internationally standardised and used by all commercial DBMS products",
+        "It is hardware only",
+        "It cannot query data"
+      ],
+      "correct": 1,
+      "explanation": "SQL is internationally standardised (by ANSI &amp; ISO) and is used by all commercial DBMS products to query and manipulate data.",
+      "tags": []
+    },
+    {
+      "id": "databa-034",
+      "q": "In which type of database is SQL most commonly used?",
+      "options": [
+        "Relational Database",
+        "Flat-file only",
+        "Punched-card systems",
+        "Magnetic-tape systems"
+      ],
+      "correct": 0,
+      "explanation": "SQL is most commonly used in relational databases — it is designed around the relational model.",
+      "tags": []
+    },
+    {
+      "id": "databa-035",
+      "q": "Which of the following best describes a Flat File Database?",
+      "options": [
+        "Multiple linked tables",
+        "Plain text file with each line typically holding one record",
+        "An XML document",
+        "A binary BLOB store"
+      ],
+      "correct": 1,
+      "explanation": "A Flat File Database stores data in a plain text file with each line typically holding one record.",
+      "tags": []
+    },
+    {
+      "id": "databa-036",
+      "q": "Which database model resembles a folder/tree structure?",
+      "options": [
+        "Relational",
+        "Hierarchical",
+        "Flat file",
+        "Object-oriented"
+      ],
+      "correct": 1,
+      "explanation": "The Hierarchical Database Model resembles a tree structure — similar to a folder architecture.",
+      "tags": []
+    },
+    {
+      "id": "databa-037",
+      "q": "In which database model is information represented as objects with different relationship types?",
+      "options": [
+        "Hierarchical",
+        "Object-Oriented",
+        "Relational",
+        "Flat file"
+      ],
+      "correct": 1,
+      "explanation": "In an Object-Oriented Database, information is represented as objects, with different types of relationships possible between two or more objects.",
+      "tags": []
+    },
+    {
+      "id": "databa-038",
+      "q": "IDMS is associated with which model?",
+      "options": [
+        "ANSI SPARC",
+        "CODASYL DBTG",
+        "XML DOM",
+        "Hierarchical only"
+      ],
+      "correct": 1,
+      "explanation": "IDMS implemented the CODASYL DBTG model.",
+      "tags": []
+    },
+    {
+      "id": "databa-039",
+      "q": "Which technology is heavily used in database processing today for data interchange?",
+      "options": [
+        "MP3",
+        "XML",
+        "JPG",
+        "Floppy disks"
+      ],
+      "correct": 1,
+      "explanation": "The XML family of standards is very important in database processing today — used for data interchange and document storage.",
+      "tags": []
+    },
+    {
+      "id": "databa-040",
+      "q": "Which of the following is a multi-user database example?",
+      "options": [
+        "A personal address book",
+        "ERP application",
+        "A single MS Access file used by one person",
+        "A USB-stick text file"
+      ],
+      "correct": 1,
+      "explanation": "An ERP (Enterprise Resource Planning) application is a classic multi-user database — accessed by many users across departments simultaneously.",
+      "tags": []
+    },
+    {
+      "id": "databa-041",
+      "q": "Which of the following is a single-user database example?",
+      "options": [
+        "ERP",
+        "A personal MS Access file used by one person",
+        "Online airline reservation system",
+        "Banking core database"
+      ],
+      "correct": 1,
+      "explanation": "A personal MS Access file used by one person is a single-user database — only one user accesses it at a given time.",
+      "tags": []
+    },
+    {
+      "id": "databa-042",
+      "q": "Microsoft Access is unique because it:",
+      "options": [
+        "Only handles text files",
+        "Combines a DBMS and an application generator",
+        "Is a search engine",
+        "Is a hardware device"
+      ],
+      "correct": 1,
+      "explanation": "Microsoft Access combines a DBMS and an application generator — letting users build forms, reports and queries inside the same tool.",
+      "tags": []
+    },
+    {
+      "id": "databa-043",
+      "q": "Which DBMS is from Oracle Corporation?",
+      "options": [
+        "MS Access",
+        "DB2",
+        "Oracle",
+        "SQL Server"
+      ],
+      "correct": 2,
+      "explanation": "The Oracle DBMS is produced by Oracle Corporation — and is regarded as the most difficult DBMS to use.",
+      "tags": []
+    },
+    {
+      "id": "databa-044",
+      "q": "E. F. Codd is famous for creating which database model?",
+      "options": [
+        "Hierarchical",
+        "Network",
+        "Relational",
+        "Object-oriented"
+      ],
+      "correct": 2,
+      "explanation": "E. F. Codd created the relational database model in 1970, defining tables, relations and the relational algebra.",
+      "tags": []
+    },
+    {
+      "id": "databa-045",
+      "q": "Which of the following is the correct order historically?",
+      "options": [
+        "Relational → Magnetic tape files → Object-oriented",
+        "Magnetic tape files (pre-1970) → Relational (1970s+) → Object-oriented (later)",
+        "Object-oriented → Magnetic tape files → Relational",
+        "XML → Magnetic tape → Relational"
+      ],
+      "correct": 1,
+      "explanation": "Historically: prior to 1970 data was stored in separate files (mostly on magnetic tape) → E. F. Codd's relational model in 1970 → Object-oriented databases later.",
+      "tags": []
+    },
+    {
+      "id": "databa-046",
+      "q": "In a relational database, two tables can be linked through:",
+      "options": [
+        "A speaker",
+        "Special key fields",
+        "An LED indicator",
+        "An audio cable"
+      ],
+      "correct": 1,
+      "explanation": "In a relational database, two tables can be linked through special key fields — typically a primary key in one and a foreign key in another.",
+      "tags": []
+    },
+    {
+      "id": "databa-047",
+      "q": "Which of the following is TRUE?",
+      "options": [
+        "A flat file database has multiple related tables",
+        "A hierarchical database has tree structure",
+        "Object-oriented databases store data only as plain text",
+        "Relational databases were created by Charles Babbage"
+      ],
+      "correct": 1,
+      "explanation": "A hierarchical database has a tree structure — similar to a folder architecture. The other statements are false.",
+      "tags": []
+    },
+    {
+      "id": "databa-048",
+      "q": "Database design can be based on:",
+      "options": [
+        "Random guesses only",
+        "Existing data and requirements",
+        "Only OS version",
+        "Only RAM size"
+      ],
+      "correct": 1,
+      "explanation": "Database design may be based on existing data and the organisation's requirements.",
+      "tags": []
+    },
+    {
+      "id": "databa-049",
+      "q": "Which of the following statements about a database is correct?",
+      "options": [
+        "A database only stores data, not its description",
+        "A database is self-describing — it stores both the data and a description of itself",
+        "Databases are not used in modern computing",
+        "A database is the same as RAM"
+      ],
+      "correct": 1,
+      "explanation": "A database is self-describing — it stores both the data and a description of itself (its schema).",
+      "tags": []
+    },
+    {
+      "id": "databa-050",
+      "q": "Which of the following BEST describes the role of a DBMS in an enterprise-class system?",
+      "options": [
+        "It replaces the OS",
+        "It is the interface between the database application and the database, controlling all data access",
+        "It is a type of hardware",
+        "It is the same as a router"
+      ],
+      "correct": 1,
+      "explanation": "In an enterprise-class system, the DBMS acts as the interface between the database application and the database — every read/write goes through the DBMS.",
+      "tags": []
+    }
+  ]
+}

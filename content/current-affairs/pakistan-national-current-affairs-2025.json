@@ -1,0 +1,2195 @@
+{
+  "topic_id": "pakistan-national-current-affairs-2025",
+  "topic_name": "Pakistan National Current Affairs 2025",
+  "subject": "current-affairs",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Pakistan National Current Affairs 2025 MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🇵🇰",
+  "mcqs": [
+    {
+      "id": "pakist-001",
+      "q": "On _____, 2025, Pakistan began its term as a non-permanent member of the UNSC for the years 2025–2026.",
+      "options": [
+        "Jan 1",
+        "Jan 2",
+        "Jan 3",
+        "Jan 4"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan formally took its UNSC non-permanent seat on 1 January 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-002",
+      "q": "On Jan 1, the Pakistan Bureau of Statistics initiated field operations for the country's _____ Agricultural Census.",
+      "options": [
+        "7th",
+        "8th",
+        "9th",
+        "10th"
+      ],
+      "correct": 0,
+      "explanation": "The PBS launched the 7th Agricultural Census on 1 January 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-003",
+      "q": "On Jan 2, the federal government declared _____ a strategic institution.",
+      "options": [
+        "PBC",
+        "PIA",
+        "NBP",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "On 2 January 2025, Pakistan Broadcasting Corporation (PBC) was declared a strategic institution.",
+      "tags": []
+    },
+    {
+      "id": "pakist-004",
+      "q": "On _____, Elon Musk's satellite-based internet company 'Starlink' got registered in Pakistan.",
+      "options": [
+        "Jan 1",
+        "Jan 2",
+        "Jan 3",
+        "Jan 4"
+      ],
+      "correct": 3,
+      "explanation": "Starlink was officially registered in Pakistan on 4 January 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-005",
+      "q": "On Jan 7, the _____ removed Pakistan from the list of 'hunger hotspots'.",
+      "options": [
+        "UNICEF",
+        "FAO",
+        "UNDP",
+        "UNESCO"
+      ],
+      "correct": 2,
+      "explanation": "On 7 January 2025, UNDP removed Pakistan from its list of global hunger hotspots.",
+      "tags": []
+    },
+    {
+      "id": "pakist-006",
+      "q": "On Jan 9, Pakistan appointed Air Marshal (R) Muhammad Mugees Afzal as its new envoy to:",
+      "options": [
+        "Japan",
+        "China",
+        "Syria",
+        "Türkiye"
+      ],
+      "correct": 3,
+      "explanation": "Air Marshal (R) Muhammad Mugees Afzal was appointed as Pakistan's Ambassador to Türkiye.",
+      "tags": []
+    },
+    {
+      "id": "pakist-007",
+      "q": "The current Director General of the National Counter-Terrorism Authority (NACTA) is:",
+      "options": [
+        "Zahid Zaman",
+        "Rifat Mukhtar",
+        "Babar Durrani",
+        "Kashif Zaman"
+      ],
+      "correct": 3,
+      "explanation": "Kashif Zaman is the Director General of NACTA.",
+      "tags": []
+    },
+    {
+      "id": "pakist-008",
+      "q": "On Jan 10, PIA resumed its flight operations to Europe, with its first flight from Islamabad to:",
+      "options": [
+        "Berlin",
+        "London",
+        "Paris",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "PIA's first European flight after the resumption was Islamabad to Paris on 10 January 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-009",
+      "q": "On Jan 11, the first-ever historic governors' summit was convened at the Governor House in:",
+      "options": [
+        "Lahore",
+        "Peshawar",
+        "Karachi",
+        "Quetta"
+      ],
+      "correct": 2,
+      "explanation": "Pakistan's first-ever governors' summit was convened in Karachi on 11 January 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-010",
+      "q": "On Jan 12, the federal government announced the opening of the _____ official border crossing point between Pakistan and Iran at Kohak Cheedgi area of Panjgur.",
+      "options": [
+        "Third",
+        "Fourth",
+        "Fifth",
+        "Sixth"
+      ],
+      "correct": 2,
+      "explanation": "Kohak Cheedgi became the fifth official Pakistan-Iran border crossing point.",
+      "tags": []
+    },
+    {
+      "id": "pakist-011",
+      "q": "On Jan 14, the _____ cabinet fixed the speed limit for motorcyclists to 60 km/h across the province.",
+      "options": [
+        "Balochistan",
+        "Punjab",
+        "KP",
+        "Sindh"
+      ],
+      "correct": 1,
+      "explanation": "The Punjab cabinet fixed motorcyclist speed limit at 60 km/h province-wide on 14 January 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-012",
+      "q": "On Jan 14, Pakistan and _____ signed a protocol to explore ways to strengthen bilateral economic cooperation.",
+      "options": [
+        "Iran",
+        "Iraq",
+        "Lebanon",
+        "Syria"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan and Iraq signed an economic cooperation protocol on 14 January 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-013",
+      "q": "On Jan 20, the New Gwadar International Airport became operational with the arrival of the first flight from:",
+      "options": [
+        "Karachi",
+        "Muscat",
+        "Multan",
+        "Dubai"
+      ],
+      "correct": 0,
+      "explanation": "The first commercial flight to land at the new Gwadar International Airport came from Karachi.",
+      "tags": []
+    },
+    {
+      "id": "pakist-014",
+      "q": "The current federal minister for Science and Technology is:",
+      "options": [
+        "Khalid Maqbool Siddiqui",
+        "Ch. Salik Hussain",
+        "Shaza Fatima Khawaja",
+        "Engr. Amir Muqam"
+      ],
+      "correct": 0,
+      "explanation": "Khalid Maqbool Siddiqui (MQM-P) is the federal Minister for Science and Technology.",
+      "tags": []
+    },
+    {
+      "id": "pakist-015",
+      "q": "On Jan 21, _____ won the 32nd National Shooting Championship.",
+      "options": [
+        "Pakistan Army",
+        "PAF",
+        "PIA",
+        "Pakistan Navy"
+      ],
+      "correct": 3,
+      "explanation": "Pakistan Navy won the 32nd National Shooting Championship in January 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-016",
+      "q": "The India North Europe Express (INX) maritime service connecting Pakistan to Europe was launched on:",
+      "options": [
+        "Jan 18",
+        "Jan 20",
+        "Jan 22",
+        "Jan 24"
+      ],
+      "correct": 2,
+      "explanation": "The INX direct shipping line was launched on 22 January 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-017",
+      "q": "The current Managing Director of the Overseas Pakistanis Foundation is:",
+      "options": [
+        "Afzaal Bhatti",
+        "Qamar Raza",
+        "Ehsan Butt",
+        "Shaheen Khalid"
+      ],
+      "correct": 0,
+      "explanation": "Afzaal Bhatti is the MD of the Overseas Pakistanis Foundation (OPF).",
+      "tags": []
+    },
+    {
+      "id": "pakist-018",
+      "q": "The Overseas Pakistanis Foundation was established under the Emigration Ordinance of:",
+      "options": [
+        "1960",
+        "1965",
+        "1979",
+        "1985"
+      ],
+      "correct": 2,
+      "explanation": "OPF was established under the Emigration Ordinance, 1979.",
+      "tags": []
+    },
+    {
+      "id": "pakist-019",
+      "q": "On Jan 23, the Pakistan Navy assumed the command of Multinational Combined Task Force 151 from the _____ Navy.",
+      "options": [
+        "British",
+        "Turkish",
+        "Iranian",
+        "Chinese"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan Navy took command of CTF-151 from the Turkish Navy on 23 January 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-020",
+      "q": "On Jan 24, _____ was elected chairman of the National Assembly's Public Accounts Committee.",
+      "options": [
+        "Junaid Akbar",
+        "Hamid Raza",
+        "Sher Afzal",
+        "Omar Ayub"
+      ],
+      "correct": 0,
+      "explanation": "Junaid Akbar was elected chairman of the NA's Public Accounts Committee on 24 January 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-021",
+      "q": "On Jan 27, President Zardari appointed 12 additional judges of the _____ High Court.",
+      "options": [
+        "Islamabad",
+        "Balochistan",
+        "Sindh",
+        "Lahore"
+      ],
+      "correct": 2,
+      "explanation": "President Zardari appointed 12 additional judges to the Sindh High Court on 27 January 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-022",
+      "q": "The current chief executive of the Trade Development Authority of Pakistan (TDAP) is:",
+      "options": [
+        "Faiz Ahmad",
+        "Sheryar Taj",
+        "Fauzia Parveen",
+        "Basit Rauf"
+      ],
+      "correct": 0,
+      "explanation": "Faiz Ahmad is the chief executive of TDAP.",
+      "tags": []
+    },
+    {
+      "id": "pakist-023",
+      "q": "A 22-year-old Pakistani entrepreneur awarded the BRICS and SCO Social Entrepreneur of the Year 2025 award is:",
+      "options": [
+        "Huzaifa Butt",
+        "Saad Haroon",
+        "Talha Alam",
+        "Saad Siddiqui"
+      ],
+      "correct": 3,
+      "explanation": "Saad Siddiqui received the BRICS and SCO Social Entrepreneur of the Year 2025 award.",
+      "tags": []
+    },
+    {
+      "id": "pakist-024",
+      "q": "President Zardari signed the Prevention of Electronic Crimes (Amendment) (PECA) Bill, 2025, into law on:",
+      "options": [
+        "Jan 29",
+        "Jan 30",
+        "Jan 31",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "PECA Amendment 2025 received presidential assent on 29 January 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-025",
+      "q": "On Jan 29, _____ was appointed chairperson of the Pakistan Red Crescent Society.",
+      "options": [
+        "Farzhana Naek",
+        "Sherry Rehman",
+        "Saira Tarar",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Farzhana Naek was appointed Chairperson of the Pakistan Red Crescent Society.",
+      "tags": []
+    },
+    {
+      "id": "pakist-026",
+      "q": "On Jan 30, KP's new Inspector General of Police, _____, assumed the charge of his office.",
+      "options": [
+        "Rifat Sultan",
+        "Zulfiqar Hameed",
+        "Akbar Durrani",
+        "Mohsin Butt"
+      ],
+      "correct": 1,
+      "explanation": "Zulfiqar Hameed assumed charge as IG Police Khyber Pakhtunkhwa on 30 January 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-027",
+      "q": "On Feb 1, three judges from different high courts were assigned to the _____ High Court.",
+      "options": [
+        "Lahore",
+        "Islamabad",
+        "Peshawar",
+        "Balochistan"
+      ],
+      "correct": 1,
+      "explanation": "Three judges were transferred to the Islamabad High Court on 1 February 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-028",
+      "q": "On Feb 2, PMDC increased the pass mark of the annual MBBS and BDS examinations from 50% to:",
+      "options": [
+        "60%",
+        "70%",
+        "75%",
+        "90%"
+      ],
+      "correct": 1,
+      "explanation": "PMDC raised the MBBS/BDS pass mark to 70% on 2 February 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-029",
+      "q": "Agricultural income became taxable across Pakistan on:",
+      "options": [
+        "Feb 3",
+        "Feb 4",
+        "Feb 5",
+        "Feb 7"
+      ],
+      "correct": 1,
+      "explanation": "Agricultural income became taxable across the country from 4 February 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-030",
+      "q": "On Feb 4, the _____ High Court Chief Justice inaugurated the first dedicated Inheritance Court.",
+      "options": [
+        "Lahore",
+        "Sindh",
+        "Peshawar",
+        "Balochistan"
+      ],
+      "correct": 2,
+      "explanation": "The Peshawar High Court inaugurated Pakistan's first dedicated Inheritance Court on 4 February 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-031",
+      "q": "On _____, the 9th Multinational Maritime Exercise AMAN 2025 kicked off in Karachi.",
+      "options": [
+        "Feb 5",
+        "Feb 6",
+        "Feb 7",
+        "Feb 9"
+      ],
+      "correct": 2,
+      "explanation": "AMAN 2025, the 9th edition of the multinational maritime exercise, began in Karachi on 7 February 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-032",
+      "q": "On Feb 7, the Aviation Division was merged with the Ministry of:",
+      "options": [
+        "Overseas Pakistanis",
+        "Science & Technology",
+        "Defence",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The Aviation Division was merged into the Ministry of Defence on 7 February 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-033",
+      "q": "On Feb 7, the SAFRON Division was merged with the Ministry of:",
+      "options": [
+        "Kashmir Affairs",
+        "Interior",
+        "Law",
+        "Foreign Affairs"
+      ],
+      "correct": 0,
+      "explanation": "The SAFRON (States and Frontier Regions) Division was merged with the Ministry of Kashmir Affairs.",
+      "tags": []
+    },
+    {
+      "id": "pakist-034",
+      "q": "Transparency International's latest Corruption Perception Index ranked Pakistan at _____ out of 180 countries.",
+      "options": [
+        "134th",
+        "135th",
+        "139th",
+        "165th"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan was ranked 135th out of 180 countries in the 2024 CPI released in early 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-035",
+      "q": "On Feb 12, Pakistan cricket great _____ was inducted posthumously into the PCB Hall of Fame.",
+      "options": [
+        "Hanif Mohammad",
+        "Mushtaq Mohammad",
+        "Zaheer Abbas",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Hanif Mohammad — 'Little Master' — was posthumously inducted into the PCB Hall of Fame on 12 February 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-036",
+      "q": "Turkish President Recep Tayyip Erdogan reached Islamabad on a two-day official visit on:",
+      "options": [
+        "Feb 11",
+        "Feb 12",
+        "Feb 13",
+        "Feb 14"
+      ],
+      "correct": 1,
+      "explanation": "President Erdogan arrived in Islamabad on 12 February 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-037",
+      "q": "On Feb 12, the Azerbaijan-Pakistan Chamber of Commerce and Industry was inaugurated in:",
+      "options": [
+        "Ordubad",
+        "Baku",
+        "Islamabad",
+        "Lahore"
+      ],
+      "correct": 2,
+      "explanation": "The Azerbaijan-Pakistan Chamber of Commerce and Industry was inaugurated in Islamabad.",
+      "tags": []
+    },
+    {
+      "id": "pakist-038",
+      "q": "On Feb 13, Faisal Nisar Chaudhry was appointed as _____ of Utility Stores Corporation.",
+      "options": [
+        "CEO",
+        "COO",
+        "Chairman",
+        "MD"
+      ],
+      "correct": 3,
+      "explanation": "Faisal Nisar Chaudhry was appointed Managing Director (MD) of USC on 13 February 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-039",
+      "q": "On Feb 13, Shahab Ali Shah was appointed Chief Secretary of:",
+      "options": [
+        "Sindh",
+        "Punjab",
+        "GB",
+        "KP"
+      ],
+      "correct": 3,
+      "explanation": "Shahab Ali Shah was appointed Chief Secretary of Khyber Pakhtunkhwa.",
+      "tags": []
+    },
+    {
+      "id": "pakist-040",
+      "q": "On _____, CJP Yahya Afridi administered the oath of office to six newly appointed judges of the apex court.",
+      "options": [
+        "Feb 12",
+        "Feb 13",
+        "Feb 14",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "CJP Yahya Afridi administered oath to six new SC judges on 14 February 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-041",
+      "q": "On Feb 15, COAS General Asim Munir and CM Punjab launched the Green Pakistan Initiative in:",
+      "options": [
+        "Layyah",
+        "DG Khan",
+        "Rajanpur",
+        "Cholistan"
+      ],
+      "correct": 3,
+      "explanation": "The Green Pakistan Initiative was launched in Cholistan on 15 February 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-042",
+      "q": "'Five Thousand Years of Pakistan: An Archaeological Outline' was written by:",
+      "options": [
+        "AK Fazlul Haq",
+        "Mortimer Wheeler",
+        "Stanley Wolpert",
+        "Mortimer Durand"
+      ],
+      "correct": 1,
+      "explanation": "Sir Mortimer Wheeler authored 'Five Thousand Years of Pakistan: An Archaeological Outline'.",
+      "tags": []
+    },
+    {
+      "id": "pakist-043",
+      "q": "Pakistan Ordnance Factories (POF) was established in:",
+      "options": [
+        "1948",
+        "1951",
+        "1953",
+        "1954"
+      ],
+      "correct": 1,
+      "explanation": "POF Wah was established in 1951.",
+      "tags": []
+    },
+    {
+      "id": "pakist-044",
+      "q": "On Feb 16, the _____ government approved historic land reforms.",
+      "options": [
+        "Gilgit-Baltistan",
+        "Punjab",
+        "AJK",
+        "KP"
+      ],
+      "correct": 0,
+      "explanation": "The Gilgit-Baltistan government approved historic land reforms on 16 February 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-045",
+      "q": "On Feb 18, PM Shehbaz Sharif inaugurated the Recep Tayyip Erdogan Interchange in:",
+      "options": [
+        "Rawalpindi",
+        "Islamabad",
+        "Karachi",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "The Recep Tayyip Erdogan Interchange was inaugurated by PM Shehbaz in Islamabad.",
+      "tags": []
+    },
+    {
+      "id": "pakist-046",
+      "q": "On Feb 18, _____ Police appointed Shoaib Khan Zehri (WBC World Title holder in Asia) as goodwill ambassador.",
+      "options": [
+        "Balochistan",
+        "Punjab",
+        "Sindh",
+        "KP"
+      ],
+      "correct": 0,
+      "explanation": "Balochistan Police appointed boxer Shoaib Khan Zehri as its goodwill ambassador.",
+      "tags": []
+    },
+    {
+      "id": "pakist-047",
+      "q": "On Feb 19, _____ was appointed IG Pakistan Railways Police.",
+      "options": [
+        "Imran Kishwar",
+        "Riffat Imtiaz",
+        "Tahir Rai",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Tahir Rai was appointed Inspector General Pakistan Railways Police.",
+      "tags": []
+    },
+    {
+      "id": "pakist-048",
+      "q": "The current Chairman OGRA is:",
+      "options": [
+        "Talal Chaudhary",
+        "Masroor Khan",
+        "Tariq Fazal",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Masroor Khan is the Chairman of the Oil and Gas Regulatory Authority (OGRA).",
+      "tags": []
+    },
+    {
+      "id": "pakist-049",
+      "q": "On Feb 21, the KP Public Service Commission increased the age limit for PMS exams from _____ years.",
+      "options": [
+        "30 to 35",
+        "30 to 32",
+        "28 to 35",
+        "28 to 30"
+      ],
+      "correct": 0,
+      "explanation": "KPPSC raised the PMS age limit from 30 to 35 years on 21 February 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-050",
+      "q": "On Feb 24, Pakistan and _____ agreed to expand bilateral trade volume and promote joint defence production.",
+      "options": [
+        "Türkiye",
+        "Kazakhstan",
+        "Azerbaijan",
+        "Poland"
+      ],
+      "correct": 2,
+      "explanation": "Pakistan and Azerbaijan signed a defence-and-trade expansion agreement on 24 February 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-051",
+      "q": "On Feb 25, Pakistan and _____ launched direct government-to-government trade for the first time in decades.",
+      "options": [
+        "Nepal",
+        "Bangladesh",
+        "India",
+        "Thailand"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan-Bangladesh direct G2G trade was relaunched on 25 February 2025 after decades.",
+      "tags": []
+    },
+    {
+      "id": "pakist-052",
+      "q": "On Feb 25, Pakistan and _____ signed an MoU aimed at increasing bilateral trade volume to $10 billion.",
+      "options": [
+        "Iran",
+        "Azerbaijan",
+        "Turkmenistan",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan and Iran signed an MoU on 25 February 2025 targeting $10 billion bilateral trade.",
+      "tags": []
+    },
+    {
+      "id": "pakist-053",
+      "q": "On Feb 26, _____ was elected as Member of the Judicial Commission of Pakistan for two years.",
+      "options": [
+        "Azam Tarar",
+        "Hamid Khan",
+        "Ahsan Bhoon",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Ahsan Bhoon was elected as a member of the Judicial Commission of Pakistan for a two-year term.",
+      "tags": []
+    },
+    {
+      "id": "pakist-054",
+      "q": "On Feb 26, _____ approved the establishment of its first Crime Control Department to curb organised crime.",
+      "options": [
+        "Punjab",
+        "Sindh",
+        "Balochistan",
+        "KP"
+      ],
+      "correct": 0,
+      "explanation": "The Punjab government approved the establishment of its first Crime Control Department.",
+      "tags": []
+    },
+    {
+      "id": "pakist-055",
+      "q": "On Feb 27, the Democracy Index reported Pakistan's democracy ranking dropped from 3.25 in _____ to 2.84 in 2024.",
+      "options": [
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "correct": 3,
+      "explanation": "Pakistan's Democracy Index score fell from 3.25 (2023) to 2.84 (2024).",
+      "tags": []
+    },
+    {
+      "id": "pakist-056",
+      "q": "On Feb 27, Pakistan and _____ signed 5 agreements to enhance cooperation in various fields.",
+      "options": [
+        "UAE",
+        "Iran",
+        "Saudi Arabia",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan and the UAE signed 5 cooperation agreements on 27 February 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-057",
+      "q": "Darul Uloom Haqqania is located in:",
+      "options": [
+        "Akora Khattak",
+        "Peshawar",
+        "Charsadda",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Darul Uloom Haqqania is in Akora Khattak, Khyber Pakhtunkhwa.",
+      "tags": []
+    },
+    {
+      "id": "pakist-058",
+      "q": "The Jamiat Ulema-e-Islam (Sami) chief who was killed on Feb 28 was:",
+      "options": [
+        "Maulana Samiul Haq",
+        "Maulana Hamidul Haq",
+        "Maulana Ihtishamul Haq",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Maulana Hamidul Haq, head of JUI-S, was killed on 28 February 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-059",
+      "q": "The committee that forms Constitutional Benches consists of how many members?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 1,
+      "explanation": "The Constitutional Bench formation committee comprises three members.",
+      "tags": []
+    },
+    {
+      "id": "pakist-060",
+      "q": "On Mar 4, the Punjab government appointed _____ as Advocate General of Punjab.",
+      "options": [
+        "Ali Pervez",
+        "Amjad Pervaiz",
+        "Ahsan Bhoon",
+        "Asad Owais"
+      ],
+      "correct": 1,
+      "explanation": "Amjad Pervaiz was appointed Advocate General Punjab on 4 March 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-061",
+      "q": "The terrorist for whose arrest US President Donald Trump publicly thanked Pakistan is named:",
+      "options": [
+        "Sharifullah",
+        "Iftikharullah",
+        "Jafar Khan",
+        "Sibghatullah"
+      ],
+      "correct": 0,
+      "explanation": "President Trump thanked Pakistan for the arrest of ISIS-K terrorist Sharifullah.",
+      "tags": []
+    },
+    {
+      "id": "pakist-062",
+      "q": "On Mar 5, the government appointed _____ as Chief Adviser to the Finance Minister on the Pakistan Crypto Council.",
+      "options": [
+        "Omar Saifullah",
+        "Tauqeer Shah",
+        "Bilal Bin Saqib",
+        "Waqar Zaka"
+      ],
+      "correct": 2,
+      "explanation": "Bilal Bin Saqib was appointed Chief Adviser to the Finance Minister on the Pakistan Crypto Council.",
+      "tags": []
+    },
+    {
+      "id": "pakist-063",
+      "q": "Pakistan ranked _____ in the Global Terrorism Index 2025.",
+      "options": [
+        "First",
+        "Second",
+        "Third",
+        "Fourth"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan ranked 2nd in the Global Terrorism Index 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-064",
+      "q": "Mumtaz Zahra Baloch is Pakistan's Ambassador to:",
+      "options": [
+        "Italy",
+        "Germany",
+        "France",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Mumtaz Zahra Baloch serves as Pakistan's Ambassador to France.",
+      "tags": []
+    },
+    {
+      "id": "pakist-065",
+      "q": "On Mar 7, Pakistan was ranked _____ out of 146 countries in the global list of gender equality.",
+      "options": [
+        "140th",
+        "142nd",
+        "145th",
+        "146th"
+      ],
+      "correct": 2,
+      "explanation": "Pakistan ranked 145th out of 146 countries in the global gender-equality list released on 7 March 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-066",
+      "q": "On Mar 7, UNDP Pakistan and the Government of _____ launched the 'Tailored Intelligence for Actionable Early Warning Systems' project.",
+      "options": [
+        "China",
+        "Japan",
+        "Belgium",
+        "Sweden"
+      ],
+      "correct": 0,
+      "explanation": "UNDP Pakistan and China jointly launched the early-warning systems project on 7 March 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-067",
+      "q": "On Mar 8, _____ extended the repayment period of Pakistan's $2 billion loan by one year.",
+      "options": [
+        "UAE",
+        "China",
+        "Saudi Arabia",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "China extended the repayment period of Pakistan's $2 billion loan by one year on 8 March 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-068",
+      "q": "On Mar 8, Pakistan's _____ was elected as Oxford Union President for Michaelmas Term 2025.",
+      "options": [
+        "Moosa Harraj",
+        "Mushtaq Mehr",
+        "Shah Qambrani",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Moosa Harraj was elected Oxford Union President for Michaelmas Term 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-069",
+      "q": "Moosa Harraj is the _____ Pakistani and first from Punjab to be elected Oxford Union President.",
+      "options": [
+        "First",
+        "Second",
+        "Third",
+        "Fourth"
+      ],
+      "correct": 3,
+      "explanation": "Moosa Harraj is the 4th Pakistani — and first from Punjab — to lead the Oxford Union.",
+      "tags": []
+    },
+    {
+      "id": "pakist-070",
+      "q": "On _____, NADRA announced the launch of Pakistan's first 'dematerialised digital identity card'.",
+      "options": [
+        "Mar 10",
+        "Mar 12",
+        "Mar 14",
+        "Mar 15"
+      ],
+      "correct": 0,
+      "explanation": "NADRA announced the dematerialised digital ID card on 10 March 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-071",
+      "q": "Armed men attacked the Peshawar-bound Jaffar Express in Bolan district of Balochistan on:",
+      "options": [
+        "Mar 10",
+        "Mar 11",
+        "Mar 12",
+        "Mar 13"
+      ],
+      "correct": 1,
+      "explanation": "The Jaffar Express was hijacked by militants in Bolan, Balochistan on 11 March 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-072",
+      "q": "On Mar 11, Pakistan ranked _____ in the list of most polluted countries in 2024.",
+      "options": [
+        "First",
+        "Second",
+        "Third",
+        "Fourth"
+      ],
+      "correct": 2,
+      "explanation": "Pakistan ranked 3rd globally on the most-polluted-countries 2024 list (released 11 March 2025).",
+      "tags": []
+    },
+    {
+      "id": "pakist-073",
+      "q": "On Mar 11, the SBP approved the amalgamation of Silk Bank with and into the _____ Bank.",
+      "options": [
+        "Habib",
+        "National",
+        "Askari",
+        "United"
+      ],
+      "correct": 3,
+      "explanation": "The State Bank of Pakistan approved Silk Bank's merger into United Bank Limited (UBL).",
+      "tags": []
+    },
+    {
+      "id": "pakist-074",
+      "q": "On _____, Google Wallet was officially made available in Pakistan.",
+      "options": [
+        "Mar 9",
+        "Mar 10",
+        "Mar 11",
+        "Mar 12"
+      ],
+      "correct": 3,
+      "explanation": "Google Wallet officially launched in Pakistan on 12 March 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-075",
+      "q": "On Mar 12, Pakistan's senior _____ set a world record by delivering 59 successful serves in one minute.",
+      "options": [
+        "Sania Rasheed",
+        "Aliya Qureshi",
+        "Talha Waheed",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Talha Waheed set the world record for most successful serves in a minute (59) on 12 March 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-076",
+      "q": "On _____, the government formally formed the Pakistan Crypto Council.",
+      "options": [
+        "Mar 11",
+        "Mar 12",
+        "Mar 13",
+        "Mar 14"
+      ],
+      "correct": 3,
+      "explanation": "The Pakistan Crypto Council was formed on 14 March 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-077",
+      "q": "The incumbent president of the All Pakistan Newspapers Society (APNS) is:",
+      "options": [
+        "Shahab Zuberi",
+        "Naveed Kashif",
+        "Sarmad Ali",
+        "Mohsin Bilal"
+      ],
+      "correct": 2,
+      "explanation": "Sarmad Ali is the President of the APNS.",
+      "tags": []
+    },
+    {
+      "id": "pakist-078",
+      "q": "On Mar 15, PM Shehbaz Sharif laid the foundation stone of Daanish University in:",
+      "options": [
+        "Layyah",
+        "Islamabad",
+        "Karachi",
+        "Rahim Yar Khan"
+      ],
+      "correct": 1,
+      "explanation": "The Daanish University foundation stone was laid in Islamabad on 15 March 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-079",
+      "q": "The National FATF Secretariat is located in:",
+      "options": [
+        "Quetta",
+        "Islamabad",
+        "Multan",
+        "Karachi"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan's National FATF Secretariat is based in Islamabad.",
+      "tags": []
+    },
+    {
+      "id": "pakist-080",
+      "q": "The Torkham border crossing was reopened after 27 days, following Jirga-level talks between Pakistan and Afghanistan, on:",
+      "options": [
+        "17 March",
+        "18 March",
+        "19 March",
+        "20 March"
+      ],
+      "correct": 2,
+      "explanation": "Torkham reopened on 19 March 2025 after a 27-day closure.",
+      "tags": []
+    },
+    {
+      "id": "pakist-081",
+      "q": "How long was Prime Minister Shehbaz Sharif's official visit to Jeddah for improving bilateral ties?",
+      "options": [
+        "Two days",
+        "Three days",
+        "Four days",
+        "Five days"
+      ],
+      "correct": 2,
+      "explanation": "PM Shehbaz Sharif's official Jeddah visit lasted four days.",
+      "tags": []
+    },
+    {
+      "id": "pakist-082",
+      "q": "Which two countries agreed to deepen defence cooperation focusing on joint ventures, technology transfer and capacity building?",
+      "options": [
+        "Pakistan and India",
+        "Pakistan and South Africa",
+        "India and South Africa",
+        "Pakistan and China"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan and South Africa agreed to deepen defence cooperation in March 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-083",
+      "q": "Which ambassador was honoured at the farewell reception hosted by the Pakistan Mission to the UN on 22 March 2025?",
+      "options": [
+        "Maleeha Lodhi",
+        "Asim Iftikhar Ahmad",
+        "Munir Akram",
+        "Zhang Jun"
+      ],
+      "correct": 2,
+      "explanation": "Ambassador Munir Akram, then Pakistan's Permanent Representative to the UN, was honoured at the 22 March farewell.",
+      "tags": []
+    },
+    {
+      "id": "pakist-084",
+      "q": "On 25 March 2025, the IMF reached a staff-level agreement with Pakistan to unlock how much new funding?",
+      "options": [
+        "$500 million",
+        "$1.3 billion",
+        "$2 billion",
+        "$2.5 billion"
+      ],
+      "correct": 1,
+      "explanation": "The IMF staff-level agreement on 25 March 2025 unlocked $1.3 billion in new funding for Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "pakist-085",
+      "q": "Which Pakistani city was featured in a 26 March 2025 travel article for its proximity to the ancient Gandhara civilisation?",
+      "options": [
+        "Islamabad",
+        "Karachi",
+        "Peshawar",
+        "Lahore"
+      ],
+      "correct": 2,
+      "explanation": "Peshawar — close to Taxila and the Gandhara heritage trail — was the focus of the travel feature.",
+      "tags": []
+    },
+    {
+      "id": "pakist-086",
+      "q": "Pakistan and China discussed which measure to ensure the safety of Chinese nationals in Pakistan?",
+      "options": [
+        "Deployment of Chinese security personnel",
+        "Construction of secure residential compounds",
+        "Restriction of Chinese nationals' movements",
+        "Increased surveillance of local populations"
+      ],
+      "correct": 0,
+      "explanation": "The two sides discussed the deployment of Chinese security personnel inside Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "pakist-087",
+      "q": "Which Punjab Police officer was honoured with the Excellence in Performance Award 2025 by the International Association of Women Police on 2 April?",
+      "options": [
+        "SP Aisha Butt",
+        "SSP Riffat Bukhari",
+        "SSP Sonia Shamroz Khan",
+        "SP Shehrbano Naqvi"
+      ],
+      "correct": 0,
+      "explanation": "SP Aisha Butt of Punjab Police received the IAWP Excellence in Performance Award 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-088",
+      "q": "Which Pakistani novelist was honoured with the Young Woman of the Year award at the Women Changing the World Awards 2025?",
+      "options": [
+        "Alishba Khan Barech",
+        "Fatima Bhutto",
+        "Kamila Shamsie",
+        "Bina Shah"
+      ],
+      "correct": 0,
+      "explanation": "Alishba Khan Barech received the Young Woman of the Year award at the Women Changing the World Awards 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-089",
+      "q": "On 4 April 2025, Pakistan was re-elected to the UN Commission on Narcotic Drugs for a term starting in:",
+      "options": [
+        "2024",
+        "2025",
+        "2026",
+        "2027"
+      ],
+      "correct": 2,
+      "explanation": "Pakistan was re-elected to the UN Commission on Narcotic Drugs for the term starting 2026.",
+      "tags": []
+    },
+    {
+      "id": "pakist-090",
+      "q": "Four countries accounted for nearly half of the estimated 260,000 maternal deaths worldwide in 2023, per a UN report (7 April). They are:",
+      "options": [
+        "India, Nigeria, Pakistan, DRC",
+        "India, Nigeria, Ethiopia, Bangladesh",
+        "Pakistan, Bangladesh, China, Tanzania",
+        "India, Pakistan, China, Indonesia"
+      ],
+      "correct": 0,
+      "explanation": "India, Nigeria, Pakistan and DRC together accounted for almost half of global maternal deaths in 2023.",
+      "tags": []
+    },
+    {
+      "id": "pakist-091",
+      "q": "On 10 April 2025, PM Shehbaz Sharif arrived in which country for a two-day official visit?",
+      "options": [
+        "Russia",
+        "Kazakhstan",
+        "Belarus",
+        "Türkiye"
+      ],
+      "correct": 2,
+      "explanation": "PM Shehbaz Sharif visited Belarus on a two-day official visit starting 10 April 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-092",
+      "q": "How many visas did Pakistan issue to Indian Sikhs for the Baisakhi Festival 2025?",
+      "options": [
+        "2,000",
+        "3,500",
+        "5,000",
+        "Over 6,500"
+      ],
+      "correct": 3,
+      "explanation": "Pakistan issued over 6,500 visas to Indian Sikh pilgrims for Baisakhi 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-093",
+      "q": "On April 16, _____ extended its oil credit facility to Pakistan for an additional two years.",
+      "options": [
+        "Kuwait",
+        "Qatar",
+        "UAE",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Kuwait extended its oil credit facility to Pakistan by two more years on 16 April 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-094",
+      "q": "On April 16, _____ launched Pakistan's first-ever Environment Protection Squad.",
+      "options": [
+        "Sindh",
+        "Punjab",
+        "KP",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Punjab launched Pakistan's first Environment Protection Squad on 16 April 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-095",
+      "q": "The former Chief Justice of Pakistan awarded the 2025 Bolch Prize for the Rule of Law is:",
+      "options": [
+        "Tassaduq Hussain Jillani",
+        "Qazi Faez Isa",
+        "Asif Saeed Khosa",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Tassaduq Hussain Jillani received the 2025 Bolch Prize for the Rule of Law.",
+      "tags": []
+    },
+    {
+      "id": "pakist-096",
+      "q": "Tassaduq Hussain Jillani was the _____ Chief Justice of Pakistan.",
+      "options": [
+        "21st",
+        "23rd",
+        "25th",
+        "27th"
+      ],
+      "correct": 0,
+      "explanation": "Tassaduq Hussain Jillani was Pakistan's 21st Chief Justice.",
+      "tags": []
+    },
+    {
+      "id": "pakist-097",
+      "q": "On April 17, Pakistan and _____ revived high-level talks after a hiatus of 15 years.",
+      "options": [
+        "Australia",
+        "Bahrain",
+        "Bangladesh",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Pakistan and Bangladesh revived high-level Foreign Office Consultations after a 15-year gap.",
+      "tags": []
+    },
+    {
+      "id": "pakist-098",
+      "q": "On April 17, Member Tariff of NEPRA from _____, Mathar Niaz Rana, tendered his resignation.",
+      "options": [
+        "KP",
+        "Sindh",
+        "Balochistan",
+        "Punjab"
+      ],
+      "correct": 2,
+      "explanation": "Mathar Niaz Rana — NEPRA Member Tariff from Balochistan — resigned on 17 April 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-099",
+      "q": "On April 20, Interior Minister Mohsin Naqvi announced that _____ citizens can now enter Pakistan without restrictions.",
+      "options": [
+        "Emirati",
+        "Qatari",
+        "Saudi",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Saudi citizens were granted unrestricted entry into Pakistan from 20 April 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-100",
+      "q": "On April 21, Pakistan and _____ signed two agreements and an MoU aimed at strengthening bilateral relations.",
+      "options": [
+        "Qatar",
+        "UAE",
+        "Vietnam",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan and the UAE signed 2 agreements and 1 MoU on 21 April 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-101",
+      "q": "On April 29, _____ was appointed CEO of the Pakistan National Shipping Corporation (PNSC).",
+      "options": [
+        "Ali Pervez",
+        "Pulwasha Khan",
+        "Jarrar Kazmi",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Jarrar Kazmi was appointed CEO of PNSC on 29 April 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-102",
+      "q": "On April 29, Supreme Court judge _____ was awarded an honorary doctorate by the University of London.",
+      "options": [
+        "Ayesha Malik",
+        "Mansoor Shah",
+        "Musarrat Hilali",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Justice Ayesha Malik received an honorary doctorate from the University of London on 29 April 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-103",
+      "q": "On April 30, the federal government gave the additional charge of National Security Adviser to:",
+      "options": [
+        "Moeed Yusuf",
+        "Khawaja Asif",
+        "Lt Gen Asim Malik",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Lt Gen Asim Malik was given the additional charge of National Security Adviser on 30 April 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-104",
+      "q": "On _____, the National Commission on the Rights of Child launched its first-ever State of Children in Pakistan Report 2024.",
+      "options": [
+        "April 30",
+        "May 1",
+        "May 2",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "NCRC launched the State of Children in Pakistan Report 2024 on 30 April 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-105",
+      "q": "On May 1, Pakistan was ranked _____ out of 158 countries in the Illicit Trade Index 2025.",
+      "options": [
+        "101",
+        "105",
+        "110",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan ranked 101 out of 158 countries on the Illicit Trade Index 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-106",
+      "q": "On May 2, Pakistan was ranked _____ out of 180 countries in the 2025 World Press Freedom Index.",
+      "options": [
+        "145",
+        "158",
+        "165",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan ranked 158/180 in the 2025 World Press Freedom Index.",
+      "tags": []
+    },
+    {
+      "id": "pakist-107",
+      "q": "On May 3, Pakistan conducted a successful training launch of the Abdali Weapon System with a range of _____ km.",
+      "options": [
+        "400",
+        "450",
+        "180",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "The Abdali Weapon System has a range of 450 km.",
+      "tags": []
+    },
+    {
+      "id": "pakist-108",
+      "q": "The Pakistan Air Force shot down India's France-made Rafale jet on:",
+      "options": [
+        "May 4",
+        "May 6",
+        "May 7",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "PAF shot down an Indian Rafale on 6 May 2025 during the Pakistan-India crisis.",
+      "tags": []
+    },
+    {
+      "id": "pakist-109",
+      "q": "On May 7, the Supreme Court allowed trials of May 9 suspects in military courts after restoring the clauses of Army Act of:",
+      "options": [
+        "1952",
+        "1960",
+        "1969",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The Supreme Court restored relevant clauses of the Pakistan Army Act, 1952 on 7 May 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-110",
+      "q": "On May 10, Pakistan, _____ and Afghanistan vowed cooperation on security and economy at a Kabul meeting.",
+      "options": [
+        "Russia",
+        "China",
+        "Iran",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan, China and Afghanistan held a trilateral cooperation meeting in Kabul on 10 May 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-111",
+      "q": "The current Director General of the Pakistan Meteorological Department is:",
+      "options": [
+        "Jalal Khan",
+        "Ahad Cheema",
+        "Mehr Sahibzad Khan",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Mehr Sahibzad Khan is the DG of the Pakistan Meteorological Department.",
+      "tags": []
+    },
+    {
+      "id": "pakist-112",
+      "q": "On May 13, the _____ government banned the use of newspapers with Quranic verses for packaging.",
+      "options": [
+        "Sindh",
+        "Balochistan",
+        "Punjab",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Punjab banned packaging using newspapers carrying Quranic verses on 13 May 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-113",
+      "q": "On May 14, CM KP announced to divide _____ Division into two separate administrative divisions.",
+      "options": [
+        "Malakand",
+        "Peshawar",
+        "Bannu",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Malakand Division was announced to be split into two divisions on 14 May 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-114",
+      "q": "The total length of Pakistan's coastline is approximately:",
+      "options": [
+        "994 km",
+        "1046 km",
+        "1058 km",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan's coastline runs about 1,046 km along the Arabian Sea.",
+      "tags": []
+    },
+    {
+      "id": "pakist-115",
+      "q": "The current Chief Minister of Gilgit-Baltistan is:",
+      "options": [
+        "Gulbar Khan",
+        "Mehdi Shah",
+        "Khalid Khurshid",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Gulbar Khan is the Chief Minister of Gilgit-Baltistan.",
+      "tags": []
+    },
+    {
+      "id": "pakist-116",
+      "q": "Salal Dam is a run-of-the-river hydropower project located on the _____ River.",
+      "options": [
+        "Ravi",
+        "Sutlej",
+        "Chenab",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Salal Dam is on the Chenab River.",
+      "tags": []
+    },
+    {
+      "id": "pakist-117",
+      "q": "The Kishanganga dam is built on the Kishanganga River, known in Pakistan as the:",
+      "options": [
+        "Neelum",
+        "Jhelum",
+        "Kabul",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The Kishanganga is called the Neelum River when it enters Pakistan via Azad Jammu & Kashmir.",
+      "tags": []
+    },
+    {
+      "id": "pakist-118",
+      "q": "When Pakistan's first Constitution was enacted in 1956, _____ became President of Pakistan.",
+      "options": [
+        "Ayub Khan",
+        "Iskander Mirza",
+        "Nurul Amin",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Major General Iskander Mirza became the first President of Pakistan under the 1956 Constitution.",
+      "tags": []
+    },
+    {
+      "id": "pakist-119",
+      "q": "The total number of articles in the 1973 Constitution of Pakistan is:",
+      "options": [
+        "270",
+        "278",
+        "280",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The 1973 Constitution of Pakistan contains 280 articles.",
+      "tags": []
+    },
+    {
+      "id": "pakist-120",
+      "q": "The 1973 Constitution of Pakistan was enforced on:",
+      "options": [
+        "April 21, 1973",
+        "August 8, 1973",
+        "August 14, 1973",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The 1973 Constitution came into force on 14 August 1973.",
+      "tags": []
+    },
+    {
+      "id": "pakist-121",
+      "q": "The tunnel near which the hijacking of Jaffar Express took place is:",
+      "options": [
+        "Khojak Tunnel",
+        "Lakpass Tunnel",
+        "Mashkaf Tunnel",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The Jaffar Express was hijacked near the Mashkaf Tunnel in Bolan district, Balochistan.",
+      "tags": []
+    },
+    {
+      "id": "pakist-122",
+      "q": "The first female three-star general of the Pakistan Army is:",
+      "options": [
+        "Shahida Saleem",
+        "Shahida Malik",
+        "Nigar Johar",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Lt Gen Nigar Johar is the first woman three-star general of the Pakistan Army.",
+      "tags": []
+    },
+    {
+      "id": "pakist-123",
+      "q": "K2 — the world's second highest peak — is located in which mountain range?",
+      "options": [
+        "Karakoram",
+        "Hindu Kush",
+        "Himalayas",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "K2 is the highest peak of the Karakoram range.",
+      "tags": []
+    },
+    {
+      "id": "pakist-124",
+      "q": "The national bird of Pakistan is:",
+      "options": [
+        "Ababeel",
+        "Golden eagle",
+        "Chakor",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The Chakor (Chukar partridge) is Pakistan's national bird.",
+      "tags": []
+    },
+    {
+      "id": "pakist-125",
+      "q": "The national tree of Pakistan is:",
+      "options": [
+        "Sheesham",
+        "Keekar",
+        "Deodar",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The Deodar (Cedrus deodara) is Pakistan's national tree.",
+      "tags": []
+    },
+    {
+      "id": "pakist-126",
+      "q": "The article of the Constitution of Pakistan that specifies a clean, healthy and sustainable environment as a fundamental right is:",
+      "options": [
+        "Article 8A",
+        "Article 9A",
+        "Article 10A",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Article 9A guarantees the right to a clean, healthy and sustainable environment.",
+      "tags": []
+    },
+    {
+      "id": "pakist-127",
+      "q": "The current Chairman of the Senate of Pakistan is:",
+      "options": [
+        "Sadiq Sanjrani",
+        "Yusuf Raza Gilani",
+        "Ayaz Sadiq",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Syed Yousaf Raza Gilani (PPP) is the current Chairman of the Senate of Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "pakist-128",
+      "q": "Pakistan's current Ambassador to the United States is:",
+      "options": [
+        "Ali Jehangir Siddiqui",
+        "Rizwan Saeed Sheikh",
+        "Masood Khan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Rizwan Saeed Sheikh is Pakistan's Ambassador to the United States.",
+      "tags": []
+    },
+    {
+      "id": "pakist-129",
+      "q": "People across Pakistan observed Youm-e-Tashakur (Day of Gratitude) on _____, to commemorate the success of Operation Bunyan-un-Marsoos.",
+      "options": [
+        "May 16",
+        "May 17",
+        "May 18",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Youm-e-Tashakur was observed on 16 May 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-130",
+      "q": "Pakistan's recent war with India was named by Pakistan as Marka-e-_____.",
+      "options": [
+        "Hind",
+        "Haq",
+        "Zalzal",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "The May 2025 war with India was officially named 'Marka-e-Haq' (Battle for Truth).",
+      "tags": []
+    },
+    {
+      "id": "pakist-131",
+      "q": "On May 18, _____ became the first person from Pakistan to summit all 14 of the world's highest peaks without supplemental oxygen.",
+      "options": [
+        "Sirbaz Khan",
+        "Shehroze Kashif",
+        "Sajid Sadpara",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Sirbaz Khan became the first Pakistani to summit all fourteen 8,000-metre peaks without supplemental oxygen.",
+      "tags": []
+    },
+    {
+      "id": "pakist-132",
+      "q": "On May 19, Pakistan received WHO recognition for successfully eliminating _____ as a public-health problem.",
+      "options": [
+        "Trachoma",
+        "Polio",
+        "Goitre",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "WHO recognised Pakistan on 19 May 2025 for eliminating trachoma as a public-health problem.",
+      "tags": []
+    },
+    {
+      "id": "pakist-133",
+      "q": "The government elevated General Syed Asim Munir to the rank of Field Marshal on:",
+      "options": [
+        "May 18",
+        "May 19",
+        "May 20",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "General Asim Munir was promoted to Field Marshal on 20 May 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-134",
+      "q": "Justice Muhammad Ijaz Swati is the current Chief Justice of the _____ High Court.",
+      "options": [
+        "Peshawar",
+        "Sindh",
+        "Balochistan",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Justice Muhammad Ijaz Swati is the Chief Justice of the Balochistan High Court.",
+      "tags": []
+    },
+    {
+      "id": "pakist-135",
+      "q": "On May 21, Pakistan and China agreed to extend the CPEC to:",
+      "options": [
+        "Uzbekistan",
+        "Afghanistan",
+        "Tajikistan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan and China agreed to extend CPEC to Afghanistan on 21 May 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-136",
+      "q": "The government announced establishing a Pakistan Digital Assets Authority on:",
+      "options": [
+        "May 21",
+        "May 22",
+        "May 23",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The Pakistan Digital Assets Authority was announced on 21 May 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-137",
+      "q": "On May 22, the Senate unanimously adopted a resolution declaring _____ as Pakistan-Africa Friendship Day.",
+      "options": [
+        "May 22",
+        "May 24",
+        "May 25",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "25 May was declared Pakistan-Africa Friendship Day by the Senate on 22 May 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-138",
+      "q": "On May 23, CM KP announced district status to Allai tehsil in Battagram district of _____ Division.",
+      "options": [
+        "Swat",
+        "Hazara",
+        "Malakand",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Allai tehsil in Battagram (Hazara Division) was elevated to district status.",
+      "tags": []
+    },
+    {
+      "id": "pakist-139",
+      "q": "The Child Marriage Restraint Bill, 2025 fixes the minimum age for marriage at:",
+      "options": [
+        "16 years",
+        "17 years",
+        "18 years",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The Child Marriage Restraint Act 2025 sets the legal minimum age of marriage at 18 years.",
+      "tags": []
+    },
+    {
+      "id": "pakist-140",
+      "q": "On May 28, _____ lifted a 19-year visa ban on Pakistani citizens.",
+      "options": [
+        "Kuwait",
+        "Bahrain",
+        "Qatar",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Kuwait lifted its 19-year visa ban on Pakistani citizens on 28 May 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-141",
+      "q": "Pakistan announced its first government-supported Bitcoin reserve on:",
+      "options": [
+        "May 28",
+        "May 29",
+        "May 30",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan announced its first state-backed Bitcoin reserve on 29 May 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-142",
+      "q": "On June 1, the Global Water Organization officially launched its operations from:",
+      "options": [
+        "Karachi",
+        "Riyadh",
+        "Dubai",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "The Global Water Organization launched operations from Riyadh on 1 June 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-143",
+      "q": "The recent Economic Cooperation Organization (ECO) summit was held in:",
+      "options": [
+        "Tehran",
+        "Istanbul",
+        "Islamabad",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The ECO summit was held in Tehran in 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-144",
+      "q": "The current Secretary General of the Economic Cooperation Organization (ECO) is:",
+      "options": [
+        "Onder Ozar",
+        "Alireza Salari",
+        "Asad M. Khan",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Asad M. Khan (Pakistan) is the Secretary General of ECO.",
+      "tags": []
+    },
+    {
+      "id": "pakist-145",
+      "q": "On June 4, Pakistan assumed the chairmanship of the UNSC's 1988 Sanctions Committee, which oversees sanctions targeting:",
+      "options": [
+        "North Korea",
+        "Taliban",
+        "Iran",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "The UNSC 1988 Sanctions Committee oversees sanctions targeting the Taliban; Pakistan chaired it from 4 June 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-146",
+      "q": "On June 4, _____ was appointed as Chairman Gwadar Port Authority under the Ministry of Maritime Affairs.",
+      "options": [
+        "Jalal Sher Marri",
+        "Ahad Khan Sadozai",
+        "Shah Irfan Ahmed",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Shah Irfan Ahmed was appointed Chairman of the Gwadar Port Authority.",
+      "tags": []
+    },
+    {
+      "id": "pakist-147",
+      "q": "On June 5, the World Bank increased the poverty threshold for lower-middle-income countries from $3.65 to:",
+      "options": [
+        "$3.90",
+        "$4.10",
+        "$4.20",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The World Bank revised the lower-middle-income poverty line from $3.65 to $4.20 a day.",
+      "tags": []
+    },
+    {
+      "id": "pakist-148",
+      "q": "After the World Bank's revision of the poverty threshold, _____ of Pakistan's population now lives below the poverty line.",
+      "options": [
+        "44.7%",
+        "45.2%",
+        "46.9%",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "At $4.20/day, about 44.7% of Pakistanis are below the poverty line.",
+      "tags": []
+    },
+    {
+      "id": "pakist-149",
+      "q": "On June 5, Justice Sardar Liaqat Hussain was appointed Chief Justice of which High Court?",
+      "options": [
+        "Balochistan",
+        "AJK",
+        "Sindh",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Justice Sardar Liaqat Hussain became Chief Justice of the AJK High Court on 5 June 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-150",
+      "q": "As per the Pakistan Economic Survey 2024-25, the country's GDP grew by:",
+      "options": [
+        "2.68%",
+        "3.18%",
+        "3.48%",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan's GDP grew by 2.68% in FY 2024-25 per the Economic Survey.",
+      "tags": []
+    },
+    {
+      "id": "pakist-151",
+      "q": "The total outlay of the Federal Budget 2025-26 is:",
+      "options": [
+        "Rs 17.573 trillion",
+        "Rs 18.573 trillion",
+        "Rs 19.573 trillion",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The Federal Budget 2025-26 has a total outlay of Rs 17.573 trillion.",
+      "tags": []
+    },
+    {
+      "id": "pakist-152",
+      "q": "On June 12, Pakistan ranked _____ among 148 countries in the WEF Global Gender Gap Report 2025.",
+      "options": [
+        "145",
+        "146",
+        "148",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Pakistan ranked 148/148 — last — in the WEF Global Gender Gap Report 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-153",
+      "q": "The Supreme Court has upheld the _____ sentence of Zahir Jaffer in the Noor Mukadam murder case.",
+      "options": [
+        "Life imprisonment",
+        "15 years' imprisonment",
+        "Death",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The SC upheld the death sentence of Zahir Jaffer in the Noor Mukadam case.",
+      "tags": []
+    },
+    {
+      "id": "pakist-154",
+      "q": "The Health Services Academy is one of the five Centres of Excellence in Global Public Health Postgraduate Education in the CAREC region. It is located in:",
+      "options": [
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The Health Services Academy is located in Islamabad.",
+      "tags": []
+    },
+    {
+      "id": "pakist-155",
+      "q": "The Sindh Budget for the next fiscal year has an outlay of:",
+      "options": [
+        "Rs 2.45 trillion",
+        "Rs 2.95 trillion",
+        "Rs 3.45 trillion",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The Sindh provincial budget 2025-26 has an outlay of Rs 3.45 trillion.",
+      "tags": []
+    },
+    {
+      "id": "pakist-156",
+      "q": "Pakistan has been elected as a non-permanent member of the UN Security Council for how many times?",
+      "options": [
+        "Eight",
+        "Nine",
+        "Eleven",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan has served on the UNSC eight times — 1952-53, 1968-69, 1976-77, 1983-84, 1993-94, 2003-04, 2012-13 and 2025-26.",
+      "tags": []
+    },
+    {
+      "id": "pakist-157",
+      "q": "Quaid-i-Azam Muhammad Ali Jinnah presented his 14 Points in March:",
+      "options": [
+        "1927",
+        "1928",
+        "1929",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Quaid-i-Azam Muhammad Ali Jinnah presented his historic 14 Points in March 1929.",
+      "tags": []
+    },
+    {
+      "id": "pakist-158",
+      "q": "The current Special Assistant to the Prime Minister on Blockchain and Cryptocurrency is:",
+      "options": [
+        "Shamshad Akhtar",
+        "Shaza Fatima Khawaja",
+        "Bilal Bin Saqib",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Bilal Bin Saqib serves as SAPM on Blockchain and Cryptocurrency.",
+      "tags": []
+    },
+    {
+      "id": "pakist-159",
+      "q": "From the Pakistani side, the Indus Waters Treaty of 1960 was signed by:",
+      "options": [
+        "Nurul Amin",
+        "Ayub Khan",
+        "ZA Bhutto",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "President Ayub Khan signed the IWT 1960 from the Pakistani side.",
+      "tags": []
+    },
+    {
+      "id": "pakist-160",
+      "q": "The National Cyber Crimes Investigation Agency was established on 3 May:",
+      "options": [
+        "2023",
+        "2024",
+        "2025",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "The National Cyber Crimes Investigation Agency was established on 3 May 2024.",
+      "tags": []
+    },
+    {
+      "id": "pakist-161",
+      "q": "Pakistan's current Ambassador to China is:",
+      "options": [
+        "Jehangir Hussaini",
+        "Khalil Hashmi",
+        "Masood Qureshi",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Khalil Hashmi is Pakistan's Ambassador to China.",
+      "tags": []
+    },
+    {
+      "id": "pakist-162",
+      "q": "On 16 June, what did the Punjab government unveil for the fiscal year 2025-26?",
+      "options": [
+        "A proposal to reduce provincial spending",
+        "A Rs 5.33 trillion budget plan",
+        "A scheme for federal tax reform",
+        "An economic relief package for 2024"
+      ],
+      "correct": 1,
+      "explanation": "Punjab unveiled a Rs 5.33 trillion provincial budget for FY 2025-26 on 16 June 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-163",
+      "q": "According to a global survey by The Economist on 17 June, what position did Karachi hold?",
+      "options": [
+        "Among the top five most liveable cities",
+        "Ranked as the most improved city",
+        "In the bottom five least liveable cities",
+        "Not mentioned in the survey"
+      ],
+      "correct": 2,
+      "explanation": "Karachi was ranked among the bottom five least liveable cities by The Economist on 17 June 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-164",
+      "q": "How many Pakistani schools were shortlisted for the World's Best School Prizes 2025 (announced 18 June)?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 1,
+      "explanation": "Three Pakistani schools were shortlisted for the World's Best School Prizes 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-165",
+      "q": "PIA resumed its Lahore-Paris flight after a gap of:",
+      "options": [
+        "Three years",
+        "Five years",
+        "Seven years",
+        "Ten years"
+      ],
+      "correct": 1,
+      "explanation": "PIA's Lahore-Paris service resumed after a five-year gap.",
+      "tags": []
+    },
+    {
+      "id": "pakist-166",
+      "q": "Naveed Asghar Chaudhry was appointed as Acting Chairman of WAPDA through a notification issued on:",
+      "options": [
+        "19 June 2025",
+        "20 June 2025",
+        "21 June 2025",
+        "22 June 2025"
+      ],
+      "correct": 2,
+      "explanation": "Naveed Asghar Chaudhry was appointed Acting Chairman WAPDA on 21 June 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-167",
+      "q": "Pakistan and the UAE signed an MoU on mutual visa exemption during the 12th JMC session on:",
+      "options": [
+        "23 June",
+        "24 June",
+        "25 June",
+        "26 June"
+      ],
+      "correct": 2,
+      "explanation": "Pakistan and the UAE signed the mutual visa exemption MoU on 25 June 2025.",
+      "tags": []
+    },
+    {
+      "id": "pakist-168",
+      "q": "On 3 July 2025, the Pakistani leader who arrived in Azerbaijan to attend the 17th ECO Summit was:",
+      "options": [
+        "Imran Khan",
+        "Bilawal Bhutto Zardari",
+        "PM Shehbaz Sharif",
+        "Asif Ali Zardari"
+      ],
+      "correct": 2,
+      "explanation": "PM Shehbaz Sharif arrived in Azerbaijan on 3 July 2025 to attend the 17th ECO Summit.",
+      "tags": []
+    }
+  ]
+}

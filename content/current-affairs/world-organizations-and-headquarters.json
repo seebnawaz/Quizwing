@@ -1,0 +1,908 @@
+{
+  "topic_id": "world-organizations-and-headquarters",
+  "topic_name": "World Organizations & Headquarters",
+  "subject": "current-affairs",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "World Organizations & Headquarters MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🏢",
+  "mcqs": [
+    {
+      "id": "worldo-001",
+      "q": "Where is the headquarters of the International Labour Organization (ILO)?",
+      "options": [
+        "Geneva",
+        "Paris",
+        "London",
+        "New York"
+      ],
+      "correct": 0,
+      "explanation": "ILO is headquartered in Geneva, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "worldo-002",
+      "q": "In which year was the International Labour Organization (ILO) established?",
+      "options": [
+        "1919",
+        "1920",
+        "1945",
+        "1948"
+      ],
+      "correct": 0,
+      "explanation": "ILO was established in 1919 under the Treaty of Versailles.",
+      "tags": []
+    },
+    {
+      "id": "worldo-003",
+      "q": "Where is the headquarters of the International Atomic Energy Agency (IAEA)?",
+      "options": [
+        "Geneva",
+        "Vienna",
+        "Washington",
+        "New York"
+      ],
+      "correct": 1,
+      "explanation": "IAEA is headquartered in Vienna, Austria.",
+      "tags": []
+    },
+    {
+      "id": "worldo-004",
+      "q": "In which year was the IAEA established?",
+      "options": [
+        "1948",
+        "1956",
+        "1957",
+        "1960"
+      ],
+      "correct": 2,
+      "explanation": "IAEA was established in 1957.",
+      "tags": []
+    },
+    {
+      "id": "worldo-005",
+      "q": "Where is the headquarters of the United Nations Organization (UNO)?",
+      "options": [
+        "Geneva",
+        "New York",
+        "Washington",
+        "Paris"
+      ],
+      "correct": 1,
+      "explanation": "The UN headquarters is in New York City, USA.",
+      "tags": []
+    },
+    {
+      "id": "worldo-006",
+      "q": "On which date was the UNO formally established?",
+      "options": [
+        "10 January 1920",
+        "26 June 1945",
+        "24 October 1945",
+        "1 January 1942"
+      ],
+      "correct": 2,
+      "explanation": "The UN officially came into existence on 24 October 1945.",
+      "tags": []
+    },
+    {
+      "id": "worldo-007",
+      "q": "Where was the headquarters of the League of Nations?",
+      "options": [
+        "Geneva",
+        "Paris",
+        "London",
+        "New York"
+      ],
+      "correct": 0,
+      "explanation": "The League of Nations was headquartered in Geneva, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "worldo-008",
+      "q": "When was the League of Nations established?",
+      "options": [
+        "10 January 1919",
+        "10 January 1920",
+        "28 June 1919",
+        "24 October 1945"
+      ],
+      "correct": 1,
+      "explanation": "The League of Nations came into being on 10 January 1920.",
+      "tags": []
+    },
+    {
+      "id": "worldo-009",
+      "q": "Where is the headquarters of the Commonwealth of Nations?",
+      "options": [
+        "London",
+        "Brussels",
+        "Geneva",
+        "New York"
+      ],
+      "correct": 0,
+      "explanation": "The Commonwealth Secretariat is headquartered in London, United Kingdom.",
+      "tags": []
+    },
+    {
+      "id": "worldo-010",
+      "q": "In which year was the Commonwealth of Nations formed?",
+      "options": [
+        "1926",
+        "1931",
+        "1949",
+        "1965"
+      ],
+      "correct": 1,
+      "explanation": "The Commonwealth of Nations was effectively formed in 1931 (Statute of Westminster).",
+      "tags": []
+    },
+    {
+      "id": "worldo-011",
+      "q": "Where is the headquarters of the European Union (EU)?",
+      "options": [
+        "Brussels",
+        "Strasbourg",
+        "Luxembourg",
+        "All of these"
+      ],
+      "correct": 0,
+      "explanation": "The principal seat of the EU is Brussels (with Strasbourg and Luxembourg also hosting EU institutions).",
+      "tags": []
+    },
+    {
+      "id": "worldo-012",
+      "q": "In which year was the European Economic Community (later European Union) established?",
+      "options": [
+        "1949",
+        "1957",
+        "1992",
+        "1995"
+      ],
+      "correct": 1,
+      "explanation": "The EEC was established by the Treaty of Rome in 1957.",
+      "tags": []
+    },
+    {
+      "id": "worldo-013",
+      "q": "Where is the headquarters of SAARC?",
+      "options": [
+        "Dhaka",
+        "Kathmandu",
+        "Colombo",
+        "Delhi"
+      ],
+      "correct": 1,
+      "explanation": "SAARC is headquartered in Kathmandu, Nepal.",
+      "tags": []
+    },
+    {
+      "id": "worldo-014",
+      "q": "When was SAARC formed?",
+      "options": [
+        "8 December 1985",
+        "9 August 1985",
+        "26 May 1985",
+        "1 January 1985"
+      ],
+      "correct": 0,
+      "explanation": "SAARC was formed in Dhaka on 8 December 1985.",
+      "tags": []
+    },
+    {
+      "id": "worldo-015",
+      "q": "Where is the headquarters of ASEAN?",
+      "options": [
+        "Bangkok",
+        "Manila",
+        "Jakarta",
+        "Singapore"
+      ],
+      "correct": 2,
+      "explanation": "ASEAN is headquartered in Jakarta, Indonesia.",
+      "tags": []
+    },
+    {
+      "id": "worldo-016",
+      "q": "When was ASEAN established?",
+      "options": [
+        "9 August 1967",
+        "9 August 1965",
+        "9 August 1969",
+        "9 August 1971"
+      ],
+      "correct": 0,
+      "explanation": "ASEAN was established on 9 August 1967 with the Bangkok Declaration.",
+      "tags": []
+    },
+    {
+      "id": "worldo-017",
+      "q": "Where was the Regional Cooperation for Development (RCD) headquartered?",
+      "options": [
+        "Tehran",
+        "Islamabad",
+        "Ankara",
+        "Kabul"
+      ],
+      "correct": 0,
+      "explanation": "RCD (founded by Iran, Pakistan and Turkey in 1964) was headquartered in Tehran.",
+      "tags": []
+    },
+    {
+      "id": "worldo-018",
+      "q": "Where is the headquarters of the Economic Cooperation Organization (ECO)?",
+      "options": [
+        "Islamabad",
+        "Tehran",
+        "Istanbul",
+        "Baku"
+      ],
+      "correct": 1,
+      "explanation": "ECO is headquartered in Tehran, Iran.",
+      "tags": []
+    },
+    {
+      "id": "worldo-019",
+      "q": "When was ECO established (in its current form)?",
+      "options": [
+        "1985",
+        "1992",
+        "1996",
+        "2001"
+      ],
+      "correct": 0,
+      "explanation": "ECO was established in 1985 by Pakistan, Iran and Turkey, succeeding RCD.",
+      "tags": []
+    },
+    {
+      "id": "worldo-020",
+      "q": "In which month and year was the 'Shanghai Five' (predecessor of the SCO) founded?",
+      "options": [
+        "April 1996",
+        "June 2001",
+        "June 2002",
+        "July 2017"
+      ],
+      "correct": 0,
+      "explanation": "The 'Shanghai Five' was founded in April 1996; the SCO itself was formed in June 2001.",
+      "tags": []
+    },
+    {
+      "id": "worldo-021",
+      "q": "Where is the headquarters of OPEC?",
+      "options": [
+        "Vienna",
+        "Riyadh",
+        "Baghdad",
+        "Kuwait City"
+      ],
+      "correct": 0,
+      "explanation": "OPEC is headquartered in Vienna, Austria.",
+      "tags": []
+    },
+    {
+      "id": "worldo-022",
+      "q": "In which year was OPEC founded?",
+      "options": [
+        "1948",
+        "1955",
+        "1960",
+        "1973"
+      ],
+      "correct": 2,
+      "explanation": "OPEC was founded in September 1960 (with formal headquarters established later).",
+      "tags": []
+    },
+    {
+      "id": "worldo-023",
+      "q": "Where is the headquarters of the Colombo Plan?",
+      "options": [
+        "Bangkok",
+        "Colombo",
+        "Manila",
+        "Jakarta"
+      ],
+      "correct": 1,
+      "explanation": "The Colombo Plan is headquartered in Colombo, Sri Lanka.",
+      "tags": []
+    },
+    {
+      "id": "worldo-024",
+      "q": "When was the Colombo Plan founded?",
+      "options": [
+        "1948",
+        "1950",
+        "1955",
+        "1961"
+      ],
+      "correct": 1,
+      "explanation": "The Colombo Plan was founded in 1950.",
+      "tags": []
+    },
+    {
+      "id": "worldo-025",
+      "q": "Where is the headquarters of the Organisation of Islamic Cooperation (OIC)?",
+      "options": [
+        "Jeddah",
+        "Mecca",
+        "Riyadh",
+        "Cairo"
+      ],
+      "correct": 0,
+      "explanation": "The OIC is headquartered in Jeddah, Saudi Arabia.",
+      "tags": []
+    },
+    {
+      "id": "worldo-026",
+      "q": "In which month and year was the OIC established?",
+      "options": [
+        "September 1969",
+        "May 1971",
+        "September 1973",
+        "November 1969"
+      ],
+      "correct": 0,
+      "explanation": "The OIC was established in September 1969 after the Al-Aqsa fire.",
+      "tags": []
+    },
+    {
+      "id": "worldo-027",
+      "q": "Where is the headquarters of Amnesty International?",
+      "options": [
+        "London",
+        "New York",
+        "Berlin",
+        "Geneva"
+      ],
+      "correct": 0,
+      "explanation": "Amnesty International is headquartered in London, United Kingdom.",
+      "tags": []
+    },
+    {
+      "id": "worldo-028",
+      "q": "When was Amnesty International founded?",
+      "options": [
+        "1948",
+        "1961",
+        "1973",
+        "1990"
+      ],
+      "correct": 1,
+      "explanation": "Amnesty International was founded by Peter Benenson in 1961.",
+      "tags": []
+    },
+    {
+      "id": "worldo-029",
+      "q": "Where is the headquarters of Transparency International?",
+      "options": [
+        "London",
+        "Berlin",
+        "Geneva",
+        "Stockholm"
+      ],
+      "correct": 1,
+      "explanation": "Transparency International is headquartered in Berlin, Germany.",
+      "tags": []
+    },
+    {
+      "id": "worldo-030",
+      "q": "When was Transparency International founded?",
+      "options": [
+        "May 1985",
+        "May 1990",
+        "May 1993",
+        "May 2000"
+      ],
+      "correct": 2,
+      "explanation": "Transparency International was founded in May 1993.",
+      "tags": []
+    },
+    {
+      "id": "worldo-031",
+      "q": "Where is the headquarters of the International Committee of the Red Cross (ICRC)?",
+      "options": [
+        "Geneva",
+        "Bern",
+        "Vienna",
+        "London"
+      ],
+      "correct": 0,
+      "explanation": "ICRC is headquartered in Geneva, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "worldo-032",
+      "q": "When was the ICRC established by Jean Henri Dunant?",
+      "options": [
+        "1859",
+        "1864",
+        "1901",
+        "1919"
+      ],
+      "correct": 1,
+      "explanation": "Jean Henri Dunant founded the ICRC in Geneva in 1864.",
+      "tags": []
+    },
+    {
+      "id": "worldo-033",
+      "q": "Where is the headquarters of the World Trade Organization (WTO)?",
+      "options": [
+        "Geneva",
+        "New York",
+        "Brussels",
+        "Vienna"
+      ],
+      "correct": 0,
+      "explanation": "WTO is headquartered in Geneva, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "worldo-034",
+      "q": "When did the WTO come into effect?",
+      "options": [
+        "1 January 1948",
+        "1 January 1995",
+        "15 April 1994",
+        "1 January 2001"
+      ],
+      "correct": 1,
+      "explanation": "WTO came into effect on 1 January 1995, replacing GATT.",
+      "tags": []
+    },
+    {
+      "id": "worldo-035",
+      "q": "Where is the headquarters of the Asian Development Bank (ADB)?",
+      "options": [
+        "Manila",
+        "Tokyo",
+        "Singapore",
+        "Beijing"
+      ],
+      "correct": 0,
+      "explanation": "The ADB is headquartered in Manila, the Philippines.",
+      "tags": []
+    },
+    {
+      "id": "worldo-036",
+      "q": "When was the Asian Development Bank established?",
+      "options": [
+        "22 August 1966",
+        "19 December 1966",
+        "12 March 1968",
+        "17 July 1958"
+      ],
+      "correct": 0,
+      "explanation": "The ADB was formally established in 1966.",
+      "tags": []
+    },
+    {
+      "id": "worldo-037",
+      "q": "Where is the headquarters of the Arab League?",
+      "options": [
+        "Riyadh",
+        "Cairo",
+        "Damascus",
+        "Amman"
+      ],
+      "correct": 1,
+      "explanation": "The Arab League is headquartered in Cairo, Egypt.",
+      "tags": []
+    },
+    {
+      "id": "worldo-038",
+      "q": "When was the Arab League established?",
+      "options": [
+        "22 March 1945",
+        "24 October 1945",
+        "26 May 1945",
+        "8 December 1945"
+      ],
+      "correct": 0,
+      "explanation": "The Arab League was established on 22 March 1945.",
+      "tags": []
+    },
+    {
+      "id": "worldo-039",
+      "q": "Where is the headquarters of NATO?",
+      "options": [
+        "Washington",
+        "Paris",
+        "Brussels",
+        "London"
+      ],
+      "correct": 2,
+      "explanation": "NATO is headquartered in Brussels, Belgium.",
+      "tags": []
+    },
+    {
+      "id": "worldo-040",
+      "q": "When was NATO established?",
+      "options": [
+        "1947",
+        "1949",
+        "1955",
+        "1961"
+      ],
+      "correct": 1,
+      "explanation": "NATO was established by the North Atlantic Treaty signed on 4 April 1949.",
+      "tags": []
+    },
+    {
+      "id": "worldo-041",
+      "q": "Where is the headquarters of INTERPOL?",
+      "options": [
+        "The Hague",
+        "Lyon",
+        "Paris",
+        "Geneva"
+      ],
+      "correct": 1,
+      "explanation": "INTERPOL is headquartered in Lyon, France.",
+      "tags": []
+    },
+    {
+      "id": "worldo-042",
+      "q": "In which year was the International Criminal Police Organization (INTERPOL) established?",
+      "options": [
+        "1923",
+        "1939",
+        "1945",
+        "1956"
+      ],
+      "correct": 0,
+      "explanation": "INTERPOL was established in 1923.",
+      "tags": []
+    },
+    {
+      "id": "worldo-043",
+      "q": "Where is the headquarters of the Commonwealth of Independent States (CIS)?",
+      "options": [
+        "Moscow",
+        "Minsk",
+        "Kyiv",
+        "Almaty"
+      ],
+      "correct": 1,
+      "explanation": "CIS is headquartered in Minsk, Belarus.",
+      "tags": []
+    },
+    {
+      "id": "worldo-044",
+      "q": "When was the CIS established?",
+      "options": [
+        "8 December 1991",
+        "25 December 1991",
+        "1 January 1992",
+        "26 December 1991"
+      ],
+      "correct": 0,
+      "explanation": "The CIS was established on 8 December 1991 with the Belavezha Accords.",
+      "tags": []
+    },
+    {
+      "id": "worldo-045",
+      "q": "Where is the seat of the African Union (formerly Organisation of African Unity)?",
+      "options": [
+        "Nairobi",
+        "Cairo",
+        "Addis Ababa",
+        "Pretoria"
+      ],
+      "correct": 2,
+      "explanation": "The seat of the OAU/AU is in Addis Ababa, Ethiopia.",
+      "tags": []
+    },
+    {
+      "id": "worldo-046",
+      "q": "When was the Organisation of African Unity (OAU) established?",
+      "options": [
+        "1957",
+        "1963",
+        "1976",
+        "1999"
+      ],
+      "correct": 1,
+      "explanation": "The OAU was established on 25 May 1963 in Addis Ababa.",
+      "tags": []
+    },
+    {
+      "id": "worldo-047",
+      "q": "Where is the headquarters of the Food and Agriculture Organization (FAO)?",
+      "options": [
+        "Rome",
+        "Geneva",
+        "Paris",
+        "Vienna"
+      ],
+      "correct": 0,
+      "explanation": "FAO is headquartered in Rome, Italy.",
+      "tags": []
+    },
+    {
+      "id": "worldo-048",
+      "q": "Where is the headquarters of UNESCO?",
+      "options": [
+        "New York",
+        "London",
+        "Paris",
+        "Geneva"
+      ],
+      "correct": 2,
+      "explanation": "UNESCO is headquartered in Paris, France.",
+      "tags": []
+    },
+    {
+      "id": "worldo-049",
+      "q": "Where is the headquarters of the World Health Organization (WHO)?",
+      "options": [
+        "Geneva",
+        "New York",
+        "Paris",
+        "Vienna"
+      ],
+      "correct": 0,
+      "explanation": "WHO is headquartered in Geneva, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "worldo-050",
+      "q": "In which year was the WHO established?",
+      "options": [
+        "1945",
+        "1948",
+        "1950",
+        "1957"
+      ],
+      "correct": 1,
+      "explanation": "The WHO was established in 1948.",
+      "tags": []
+    },
+    {
+      "id": "worldo-051",
+      "q": "Where is the headquarters of the International Bank for Reconstruction and Development (World Bank)?",
+      "options": [
+        "Washington",
+        "New York",
+        "Geneva",
+        "London"
+      ],
+      "correct": 0,
+      "explanation": "The World Bank (IBRD) is headquartered in Washington, D.C., USA.",
+      "tags": []
+    },
+    {
+      "id": "worldo-052",
+      "q": "When was the World Bank (IBRD) established?",
+      "options": [
+        "1944",
+        "1945",
+        "1947",
+        "1950"
+      ],
+      "correct": 0,
+      "explanation": "The IBRD was established at the 1944 Bretton Woods Conference.",
+      "tags": []
+    },
+    {
+      "id": "worldo-053",
+      "q": "Where is the headquarters of the World Meteorological Organization (WMO)?",
+      "options": [
+        "Geneva",
+        "Paris",
+        "London",
+        "New Delhi"
+      ],
+      "correct": 0,
+      "explanation": "WMO is headquartered in Geneva, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "worldo-054",
+      "q": "Where is the headquarters of the International Maritime Organization (IMO)?",
+      "options": [
+        "London",
+        "Paris",
+        "New York",
+        "Geneva"
+      ],
+      "correct": 0,
+      "explanation": "IMO (formerly IMCO, established 1958) is headquartered in London.",
+      "tags": []
+    },
+    {
+      "id": "worldo-055",
+      "q": "Where is the headquarters of UNICEF?",
+      "options": [
+        "Geneva",
+        "New York",
+        "Paris",
+        "Vienna"
+      ],
+      "correct": 1,
+      "explanation": "UNICEF is headquartered in New York, USA.",
+      "tags": []
+    },
+    {
+      "id": "worldo-056",
+      "q": "When was UNICEF established?",
+      "options": [
+        "1945",
+        "1946",
+        "1948",
+        "1950"
+      ],
+      "correct": 1,
+      "explanation": "UNICEF was established on 11 December 1946.",
+      "tags": []
+    },
+    {
+      "id": "worldo-057",
+      "q": "Where is the headquarters of UNDP (United Nations Development Programme)?",
+      "options": [
+        "Geneva",
+        "New York",
+        "Vienna",
+        "Paris"
+      ],
+      "correct": 1,
+      "explanation": "UNDP is headquartered in New York, USA.",
+      "tags": []
+    },
+    {
+      "id": "worldo-058",
+      "q": "Where is the headquarters of UNEP?",
+      "options": [
+        "Geneva",
+        "New York",
+        "Nairobi",
+        "Paris"
+      ],
+      "correct": 2,
+      "explanation": "UNEP is headquartered in Nairobi, Kenya.",
+      "tags": []
+    },
+    {
+      "id": "worldo-059",
+      "q": "Where is the headquarters of UNHCR (UN High Commissioner for Refugees)?",
+      "options": [
+        "Geneva",
+        "New York",
+        "Vienna",
+        "Brussels"
+      ],
+      "correct": 0,
+      "explanation": "UNHCR is headquartered in Geneva, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "worldo-060",
+      "q": "Where is the headquarters of UNIDO (UN Industrial Development Organization)?",
+      "options": [
+        "New York",
+        "Vienna",
+        "Geneva",
+        "Paris"
+      ],
+      "correct": 1,
+      "explanation": "UNIDO is headquartered in Vienna, Austria.",
+      "tags": []
+    },
+    {
+      "id": "worldo-061",
+      "q": "Where is the headquarters of the IMF (International Monetary Fund)?",
+      "options": [
+        "Washington",
+        "New York",
+        "London",
+        "Geneva"
+      ],
+      "correct": 0,
+      "explanation": "The IMF is headquartered in Washington, D.C., USA.",
+      "tags": []
+    },
+    {
+      "id": "worldo-062",
+      "q": "Where is the headquarters of ICAO (International Civil Aviation Organization)?",
+      "options": [
+        "Montreal",
+        "Geneva",
+        "Paris",
+        "Brussels"
+      ],
+      "correct": 0,
+      "explanation": "ICAO is headquartered in Montreal, Canada.",
+      "tags": []
+    },
+    {
+      "id": "worldo-063",
+      "q": "Where is the headquarters of the Universal Postal Union (UPU)?",
+      "options": [
+        "Bern",
+        "Geneva",
+        "Vienna",
+        "Paris"
+      ],
+      "correct": 0,
+      "explanation": "UPU is headquartered in Bern, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "worldo-064",
+      "q": "Where is the headquarters of the International Telecommunication Union (ITU)?",
+      "options": [
+        "Geneva",
+        "New York",
+        "Brussels",
+        "London"
+      ],
+      "correct": 0,
+      "explanation": "ITU is headquartered in Geneva, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "worldo-065",
+      "q": "Where is the headquarters of IFAD (International Fund for Agricultural Development)?",
+      "options": [
+        "Rome",
+        "Geneva",
+        "Vienna",
+        "Paris"
+      ],
+      "correct": 0,
+      "explanation": "IFAD is headquartered in Rome, Italy.",
+      "tags": []
+    },
+    {
+      "id": "worldo-066",
+      "q": "Where is the headquarters of UNCTAD?",
+      "options": [
+        "Geneva",
+        "New York",
+        "Vienna",
+        "Paris"
+      ],
+      "correct": 0,
+      "explanation": "UNCTAD is headquartered in Geneva, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "worldo-067",
+      "q": "Where is the headquarters of UNITAR (UN Institute for Training and Research)?",
+      "options": [
+        "New York",
+        "Geneva",
+        "Paris",
+        "Vienna"
+      ],
+      "correct": 0,
+      "explanation": "UNITAR is headquartered in New York, USA.",
+      "tags": []
+    },
+    {
+      "id": "worldo-068",
+      "q": "Where is the headquarters of UNRWA (UN Relief and Works Agency for Palestine Refugees)?",
+      "options": [
+        "New York",
+        "Geneva",
+        "Amman",
+        "Cairo"
+      ],
+      "correct": 0,
+      "explanation": "As per the original source bank, UNRWA's HQ is recorded here as New York. (Note: UNRWA actually maintains operational HQs in Amman and Gaza; the source attribution has been preserved.)",
+      "tags": []
+    },
+    {
+      "id": "worldo-069",
+      "q": "Where is the headquarters of UNFPA (UN Population Fund)?",
+      "options": [
+        "Geneva",
+        "New York",
+        "Vienna",
+        "Nairobi"
+      ],
+      "correct": 1,
+      "explanation": "UNFPA is headquartered in New York, USA.",
+      "tags": []
+    }
+  ]
+}

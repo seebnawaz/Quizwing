@@ -1,0 +1,1597 @@
+{
+  "topic_id": "ussr-russia-history",
+  "topic_name": "Ussr Russia History",
+  "subject": "general-knowledge",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Ussr Russia History MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🇷🇺",
+  "mcqs": [
+    {
+      "id": "ussrru-001",
+      "q": "In which year did the Russian Revolution take place?",
+      "options": [
+        "1917",
+        "1905",
+        "1921",
+        "1914"
+      ],
+      "correct": 0,
+      "explanation": "The Russian Revolution took place in 1917, with the February Revolution overthrowing Tsar Nicholas II and the October Revolution bringing the Bolsheviks to power.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-002",
+      "q": "Who converted Russia from a kingdom to an empire in 1721?",
+      "options": [
+        "Peter the Great",
+        "Ivan the Terrible",
+        "Catherine the Great",
+        "Nicholas II"
+      ],
+      "correct": 0,
+      "explanation": "Peter the Great proclaimed the Russian Empire in 1721 after the Great Northern War. He modernized Russia and founded St. Petersburg as 'the window to Europe'.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-003",
+      "q": "Who ruled Russia from 1762 to 1796?",
+      "options": [
+        "Catherine the Great",
+        "Peter the Great",
+        "Alexander I",
+        "Nicholas I"
+      ],
+      "correct": 0,
+      "explanation": "Catherine II (Catherine the Great) ruled Russia from 1762-1796, expanding Russia into Crimea, Ukraine, Poland, and the Baltic regions.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-004",
+      "q": "Who was the notorious character with influence over the Russian royal family?",
+      "options": [
+        "Grigori Rasputin",
+        "Leon Trotsky",
+        "Alexander Kerensky",
+        "Sergei Witte"
+      ],
+      "correct": 0,
+      "explanation": "Grigori Rasputin was a mystic who gained influence over Tsarina Alexandra and the Romanov royal family before his assassination in 1916.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-005",
+      "q": "The March 1917 revolution against Tsar Nicholas II is known as?",
+      "options": [
+        "February Revolution",
+        "October Revolution",
+        "Red Revolution",
+        "Bolshevik Revolution"
+      ],
+      "correct": 0,
+      "explanation": "The February Revolution (March 1917 by Gregorian calendar) overthrew Tsar Nicholas II and ended the Romanov dynasty.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-006",
+      "q": "The Bolshevik Revolution is also known as?",
+      "options": [
+        "October Revolution",
+        "February Revolution",
+        "Decembrist Revolt",
+        "March Revolution"
+      ],
+      "correct": 0,
+      "explanation": "The Bolshevik Revolution of November 1917 (October by Julian calendar) is known as the October Revolution or Red Revolution.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-007",
+      "q": "Who is considered the Father of the Russian Revolution?",
+      "options": [
+        "Lenin",
+        "Stalin",
+        "Trotsky",
+        "Marx"
+      ],
+      "correct": 0,
+      "explanation": "Vladimir Lenin led the Bolshevik Party and the October Revolution in 1917, establishing the world's first communist state.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-008",
+      "q": "In which country did the Bolshevik Revolution take place?",
+      "options": [
+        "Russia",
+        "Germany",
+        "China",
+        "Hungary"
+      ],
+      "correct": 0,
+      "explanation": "The Bolshevik Revolution took place in Russia in October/November 1917, led by Lenin's Bolshevik Party.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-009",
+      "q": "The USSR existed during which period?",
+      "options": [
+        "1922-1991",
+        "1917-1989",
+        "1920-1990",
+        "1925-1992"
+      ],
+      "correct": 0,
+      "explanation": "The Union of Soviet Socialist Republics (USSR) was founded on 30 December 1922 and dissolved on 26 December 1991.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-010",
+      "q": "Who translated The Communist Manifesto into Russian?",
+      "options": [
+        "Vladimir Lenin",
+        "Joseph Stalin",
+        "Leon Trotsky",
+        "Karl Marx"
+      ],
+      "correct": 0,
+      "explanation": "Vladimir Lenin translated The Communist Manifesto into Russian, spreading Marxist ideology in Russia.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-011",
+      "q": "Under whose leadership was the Soviet Union formed in 1922?",
+      "options": [
+        "Vladimir Lenin",
+        "Joseph Stalin",
+        "Leon Trotsky",
+        "Nikita Khrushchev"
+      ],
+      "correct": 0,
+      "explanation": "The Soviet Union was formed on 30 December 1922 under the leadership of Vladimir Lenin after the Russian Civil War.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-012",
+      "q": "The USSR was primarily influenced by which ideology?",
+      "options": [
+        "Communism",
+        "Fascism",
+        "Capitalism",
+        "Monarchy"
+      ],
+      "correct": 0,
+      "explanation": "The USSR was a communist state based on Marxist-Leninist ideology, with centralized state control over economy and politics.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-013",
+      "q": "Who was the first president of the USSR?",
+      "options": [
+        "Vladimir Lenin",
+        "Joseph Stalin",
+        "Mikhail Gorbachev",
+        "Leonid Brezhnev"
+      ],
+      "correct": 0,
+      "explanation": "Vladimir Lenin was the first leader of the USSR, serving from 1922 until his death in 1924.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-014",
+      "q": "Who served as leader of the USSR from 1924 to 1952?",
+      "options": [
+        "Joseph Stalin",
+        "Vladimir Lenin",
+        "Nikita Khrushchev",
+        "Leonid Brezhnev"
+      ],
+      "correct": 0,
+      "explanation": "Joseph Stalin led the USSR from 1924 after Lenin's death until his own death in 1953, during which he industrialized the USSR and led it through WWII.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-015",
+      "q": "Who was the USSR leader during the Cuban Missile Crisis in 1962?",
+      "options": [
+        "Nikita Khrushchev",
+        "Joseph Stalin",
+        "Leonid Brezhnev",
+        "Yuri Andropov"
+      ],
+      "correct": 0,
+      "explanation": "Nikita Khrushchev led the USSR during the Cuban Missile Crisis of October 1962, the closest the world came to nuclear war.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-016",
+      "q": "Nikita Khrushchev served as USSR leader from?",
+      "options": [
+        "1952 to 1964",
+        "1964 to 1982",
+        "1924 to 1953",
+        "1985 to 1991"
+      ],
+      "correct": 0,
+      "explanation": "Nikita Khrushchev led the USSR from 1953 (formally 1952) to 1964, introducing De-Stalinization policies.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-017",
+      "q": "Leonid Brezhnev served as USSR leader from?",
+      "options": [
+        "1964 to 1982",
+        "1952 to 1964",
+        "1985 to 1991",
+        "1917 to 1924"
+      ],
+      "correct": 0,
+      "explanation": "Leonid Brezhnev led the Soviet Union from 1964 to 1982, a period known as the 'Era of Stagnation'.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-018",
+      "q": "Who was the last president of the USSR?",
+      "options": [
+        "Mikhail Gorbachev",
+        "Boris Yeltsin",
+        "Leonid Brezhnev",
+        "Yuri Andropov"
+      ],
+      "correct": 0,
+      "explanation": "Mikhail Gorbachev was the last Soviet leader (1985-1991), whose Perestroika and Glasnost reforms led to the dissolution of the USSR.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-019",
+      "q": "Why are communists called 'Reds'?",
+      "options": [
+        "Their flag color is red",
+        "They wore red uniforms",
+        "Named after Red Square",
+        "Russian word for communist"
+      ],
+      "correct": 0,
+      "explanation": "Communists are called 'Reds' because the color of the communist flag is red, symbolizing the blood of workers in class struggle.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-020",
+      "q": "The theory of class struggle is related to?",
+      "options": [
+        "Karl Marx",
+        "Friedrich Engels",
+        "Lenin",
+        "Stalin"
+      ],
+      "correct": 0,
+      "explanation": "Karl Marx developed the theory of class struggle in his works including Das Kapital and The Communist Manifesto (co-authored with Engels).",
+      "tags": []
+    },
+    {
+      "id": "ussrru-021",
+      "q": "Leo Tolstoy, author of Anna Karenina and War and Peace, was from?",
+      "options": [
+        "Russia",
+        "Poland",
+        "Germany",
+        "France"
+      ],
+      "correct": 0,
+      "explanation": "Leo Tolstoy (1828-1910) was a Russian novelist and one of the greatest writers of all time, famous for War and Peace and Anna Karenina.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-022",
+      "q": "The Lenin Prize was started in which year?",
+      "options": [
+        "1925",
+        "1922",
+        "1917",
+        "1930"
+      ],
+      "correct": 0,
+      "explanation": "The Lenin Prize was established in 1925 to honor outstanding achievements in science, literature, arts, and other fields.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-023",
+      "q": "What was the purpose of the Marshall Plan in 1948?",
+      "options": [
+        "Foreign aid to Western Europe",
+        "Military alliance against USSR",
+        "Space race initiative",
+        "Atomic weapons research"
+      ],
+      "correct": 0,
+      "explanation": "The Marshall Plan (1948) was an American initiative to provide economic aid to Western European countries after WWII to prevent communist influence.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-024",
+      "q": "The treaty signed in 1949 to counter USSR forces was?",
+      "options": [
+        "NATO",
+        "Warsaw Pact",
+        "SEATO",
+        "CENTO"
+      ],
+      "correct": 0,
+      "explanation": "NATO (North Atlantic Treaty Organization) was established on 4 April 1949 via the Washington Treaty as a collective defense alliance against Soviet expansion.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-025",
+      "q": "Which country was the host member of the Warsaw Pact?",
+      "options": [
+        "Poland",
+        "East Germany",
+        "Hungary",
+        "Czechoslovakia"
+      ],
+      "correct": 0,
+      "explanation": "The Warsaw Pact was signed in Warsaw, Poland in 1955, making Poland the host country of the military alliance.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-026",
+      "q": "Russia signed the Warsaw Pact in which year?",
+      "options": [
+        "1955",
+        "1949",
+        "1961",
+        "1945"
+      ],
+      "correct": 0,
+      "explanation": "The Warsaw Pact was signed on 14 May 1955 by the USSR and seven Eastern European communist states as a response to NATO.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-027",
+      "q": "The Warsaw Pact was dissolved in which year?",
+      "options": [
+        "1991",
+        "1989",
+        "1985",
+        "1995"
+      ],
+      "correct": 0,
+      "explanation": "The Warsaw Pact was dissolved on 1 July 1991, following the collapse of communism in Eastern Europe.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-028",
+      "q": "The Berlin Wall was created in August 1961 to?",
+      "options": [
+        "Prevent population escaping East Berlin",
+        "Defend against NATO",
+        "Mark city boundary",
+        "Protect from air raids"
+      ],
+      "correct": 0,
+      "explanation": "The Berlin Wall was built by East Germany in August 1961 to prevent its population from fleeing to West Berlin and the capitalist West.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-029",
+      "q": "The term 'Iron Curtain' was popularized by?",
+      "options": [
+        "Winston Churchill",
+        "Joseph Stalin",
+        "Harry Truman",
+        "Franklin Roosevelt"
+      ],
+      "correct": 0,
+      "explanation": "British PM Winston Churchill popularized the term 'Iron Curtain' in his March 1946 speech at Fulton, Missouri, describing the division of Europe.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-030",
+      "q": "In December 1979, which country did the Soviet Union invade?",
+      "options": [
+        "Afghanistan",
+        "Iran",
+        "Pakistan",
+        "Hungary"
+      ],
+      "correct": 0,
+      "explanation": "The Soviet Union invaded Afghanistan on 24 December 1979, beginning a nine-year war that contributed to the USSR's eventual collapse.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-031",
+      "q": "The Geneva Accord was signed during the tenure of which Russian president?",
+      "options": [
+        "Mikhail Gorbachev",
+        "Leonid Brezhnev",
+        "Nikita Khrushchev",
+        "Boris Yeltsin"
+      ],
+      "correct": 0,
+      "explanation": "The Geneva Accords (1988) on Afghanistan were signed during Mikhail Gorbachev's tenure, leading to Soviet withdrawal from Afghanistan by 1989.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-032",
+      "q": "In which year was the Geneva Accord signed?",
+      "options": [
+        "1988",
+        "1985",
+        "1991",
+        "1979"
+      ],
+      "correct": 0,
+      "explanation": "The Geneva Accords were signed on 14 April 1988 between Afghanistan, Pakistan, USA and USSR, ending the Soviet-Afghan War.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-033",
+      "q": "Who was the Prime Minister of the USSR during the Tashkent Agreement?",
+      "options": [
+        "Alexei Kosygin",
+        "Nikita Khrushchev",
+        "Leonid Brezhnev",
+        "Andrei Gromyko"
+      ],
+      "correct": 0,
+      "explanation": "Alexei Kosygin was the Soviet Premier who mediated the Tashkent Declaration signed in January 1966 between India and Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-034",
+      "q": "Who started the reforms called Perestroika and Glasnost in 1985?",
+      "options": [
+        "Mikhail Gorbachev",
+        "Boris Yeltsin",
+        "Leonid Brezhnev",
+        "Yuri Andropov"
+      ],
+      "correct": 0,
+      "explanation": "Mikhail Gorbachev launched Perestroika (restructuring) and Glasnost (openness) in 1985 to reform the Soviet political and economic system.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-035",
+      "q": "The Soviet Union was replaced by the Russian Federation in?",
+      "options": [
+        "December 1991",
+        "November 1989",
+        "August 1991",
+        "January 1992"
+      ],
+      "correct": 0,
+      "explanation": "The USSR was formally dissolved on 26 December 1991, and the Russian Federation emerged as its main successor state.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-036",
+      "q": "The Commonwealth of Independent States (CIS) was established on?",
+      "options": [
+        "December 8, 1991",
+        "December 26, 1991",
+        "January 1, 1992",
+        "August 19, 1991"
+      ],
+      "correct": 0,
+      "explanation": "The CIS was established on 8 December 1991 via the Belovezha Accords signed by Russia, Ukraine, and Belarus.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-037",
+      "q": "The treaty associated with the dissolution of the USSR (1991) is?",
+      "options": [
+        "Belovezha Accords",
+        "Warsaw Pact",
+        "Helsinki Accords",
+        "START Treaty"
+      ],
+      "correct": 0,
+      "explanation": "The Belovezha Accords, signed on 8 December 1991, formally dissolved the Soviet Union and created the CIS.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-038",
+      "q": "The primary purpose of the Warsaw Pact (1955) was?",
+      "options": [
+        "Military alliance among Eastern Bloc",
+        "Economic cooperation",
+        "Cultural exchange",
+        "Scientific research"
+      ],
+      "correct": 0,
+      "explanation": "The Warsaw Pact was a military alliance among the USSR and Eastern Bloc communist countries, created as a counterweight to NATO.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-039",
+      "q": "Which was NOT a founding republic of the Soviet Union in 1922?",
+      "options": [
+        "Armenia",
+        "Russia",
+        "Ukraine",
+        "Belarus"
+      ],
+      "correct": 0,
+      "explanation": "The four founding republics of the USSR in 1922 were Russia, Ukraine, Belarus, and the Transcaucasian SFSR. Armenia joined later as part of Transcaucasia.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-040",
+      "q": "Who initiated the policy of 'De-Stalinization' in the 1950s?",
+      "options": [
+        "Nikita Khrushchev",
+        "Leonid Brezhnev",
+        "Mikhail Gorbachev",
+        "Boris Yeltsin"
+      ],
+      "correct": 0,
+      "explanation": "Nikita Khrushchev began De-Stalinization after his 1956 'Secret Speech' denouncing Stalin's crimes and personality cult.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-041",
+      "q": "The USSR disintegrated into how many independent states in 1991?",
+      "options": [
+        "15",
+        "12",
+        "20",
+        "10"
+      ],
+      "correct": 0,
+      "explanation": "The USSR disintegrated into 15 independent republics in 1991, including Russia, Ukraine, Belarus, Kazakhstan, and the Baltic states.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-042",
+      "q": "Chechnya declared independence from the USSR in?",
+      "options": [
+        "1991",
+        "1994",
+        "1999",
+        "1989"
+      ],
+      "correct": 0,
+      "explanation": "Chechnya declared independence from the USSR in 1991, leading to the First Chechen War (1994-1996) with Russia.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-043",
+      "q": "Russia annexed the Crimean Peninsula from Ukraine in?",
+      "options": [
+        "2014",
+        "2008",
+        "2022",
+        "2010"
+      ],
+      "correct": 0,
+      "explanation": "Russia annexed Crimea from Ukraine in March 2014 after a controversial referendum, following the ousting of Ukrainian President Yanukovych.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-044",
+      "q": "Ukrainian President Volodymyr Zelensky was previously a?",
+      "options": [
+        "Comedian",
+        "Lawyer",
+        "Soldier",
+        "Journalist"
+      ],
+      "correct": 0,
+      "explanation": "Volodymyr Zelensky was a popular comedian and actor before becoming President of Ukraine in 2019. He played a president in the TV series 'Servant of the People'.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-045",
+      "q": "In which city is St. Basil's Cathedral located?",
+      "options": [
+        "Moscow",
+        "St. Petersburg",
+        "Kiev",
+        "Volgograd"
+      ],
+      "correct": 0,
+      "explanation": "St. Basil's Cathedral, with its iconic colorful onion domes, is located in Red Square, Moscow. It was built by Ivan the Terrible in 1555-1561.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-046",
+      "q": "The Open Skies Treaty was signed in?",
+      "options": [
+        "1992",
+        "1989",
+        "1995",
+        "2001"
+      ],
+      "correct": 0,
+      "explanation": "The Open Skies Treaty was signed on 24 March 1992, allowing participating states to conduct unarmed aerial surveillance flights over each other's territories.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-047",
+      "q": "The Zircon hypersonic cruise missile was tested by?",
+      "options": [
+        "Russia",
+        "USA",
+        "China",
+        "North Korea"
+      ],
+      "correct": 0,
+      "explanation": "The Zircon (Tsirkon) is a hypersonic cruise missile developed and tested by Russia, capable of speeds up to Mach 9.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-048",
+      "q": "The Chernobyl nuclear incident occurred in?",
+      "options": [
+        "1986",
+        "1989",
+        "1991",
+        "1979"
+      ],
+      "correct": 0,
+      "explanation": "The Chernobyl nuclear disaster occurred on 26 April 1986 at the Chernobyl Nuclear Power Plant in Ukrainian SSR, the worst nuclear accident in history.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-049",
+      "q": "The first president of the Russian Federation was?",
+      "options": [
+        "Boris Yeltsin",
+        "Vladimir Putin",
+        "Dmitry Medvedev",
+        "Mikhail Gorbachev"
+      ],
+      "correct": 0,
+      "explanation": "Boris Yeltsin was the first President of the Russian Federation, serving from 1991 to 1999 after the dissolution of the USSR.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-050",
+      "q": "Russia attacked and annexed territory from Georgia in?",
+      "options": [
+        "2008",
+        "2014",
+        "2022",
+        "2000"
+      ],
+      "correct": 0,
+      "explanation": "Russia fought a brief war with Georgia in August 2008 and subsequently recognized the independence of South Ossetia and Abkhazia.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-051",
+      "q": "The famous space station in Kazakhstan originally built by the USSR is?",
+      "options": [
+        "Baikonur Cosmodrome",
+        "Plesetsk",
+        "Vostochny",
+        "Kapustin Yar"
+      ],
+      "correct": 0,
+      "explanation": "Baikonur Cosmodrome in Kazakhstan was built by the USSR in 1955 and is the world's first and largest operational space launch facility.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-052",
+      "q": "Russia is the world's largest country by?",
+      "options": [
+        "Land area",
+        "Population",
+        "GDP",
+        "Oil production"
+      ],
+      "correct": 0,
+      "explanation": "Russia is the largest country in the world by land area, covering approximately 17.1 million sq km or about one-eighth of Earth's inhabited land.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-053",
+      "q": "How many time zones does Russia span?",
+      "options": [
+        "11",
+        "9",
+        "12",
+        "7"
+      ],
+      "correct": 0,
+      "explanation": "Russia spans 11 time zones, from Kaliningrad in the west to Kamchatka in the east, reflecting its vast east-west extent.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-054",
+      "q": "What is the capital of Russia?",
+      "options": [
+        "Moscow",
+        "Saint Petersburg",
+        "Novosibirsk",
+        "Yekaterinburg"
+      ],
+      "correct": 0,
+      "explanation": "Moscow is the capital and largest city of Russia, and also Europe's largest city. It is the seat of executive, legislative, and judicial power.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-055",
+      "q": "How many countries share land borders with Russia?",
+      "options": [
+        "14",
+        "10",
+        "16",
+        "12"
+      ],
+      "correct": 0,
+      "explanation": "Russia shares land borders with 14 countries: Azerbaijan, Belarus, China, Estonia, Finland, Georgia, Kazakhstan, North Korea, Latvia, Lithuania, Mongolia, Norway, Poland, and Ukraine.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-056",
+      "q": "Which mountain range forms the boundary between European and Asian Russia?",
+      "options": [
+        "Ural Mountains",
+        "Caucasus Mountains",
+        "Altai Mountains",
+        "Kolyma Range"
+      ],
+      "correct": 0,
+      "explanation": "The Ural Mountains form the traditional continental boundary between Europe and Asia, dividing European and Asian parts of Russia.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-057",
+      "q": "What percentage of Russia's territory does Siberia cover?",
+      "options": [
+        "About 77%",
+        "About 50%",
+        "About 30%",
+        "About 90%"
+      ],
+      "correct": 0,
+      "explanation": "Siberia covers about 77% of Russia's territory but holds less than one-fourth of its population, making it one of Earth's most sparsely populated major regions.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-058",
+      "q": "Which is Europe's longest river?",
+      "options": [
+        "Volga",
+        "Danube",
+        "Rhine",
+        "Ural"
+      ],
+      "correct": 0,
+      "explanation": "The Volga River is Europe's longest river at 3,690 km, flowing entirely through Russia and emptying into the Caspian Sea.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-059",
+      "q": "Lake Baikal is the world's?",
+      "options": [
+        "Deepest and oldest freshwater lake",
+        "Largest saltwater lake",
+        "Highest altitude lake",
+        "Most saline lake"
+      ],
+      "correct": 0,
+      "explanation": "Lake Baikal in Siberia is the world's deepest (1,642 m) and oldest (25+ million years) freshwater lake, holding about 20% of Earth's unfrozen freshwater.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-060",
+      "q": "About what percentage of Earth's unfrozen freshwater does Lake Baikal hold?",
+      "options": [
+        "20%",
+        "10%",
+        "30%",
+        "5%"
+      ],
+      "correct": 0,
+      "explanation": "Lake Baikal holds approximately 20% of the world's unfrozen surface freshwater — more than all the North American Great Lakes combined.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-061",
+      "q": "Which peninsula hosts over 160 volcanoes?",
+      "options": [
+        "Kamchatka",
+        "Kola",
+        "Crimea",
+        "Taymyr"
+      ],
+      "correct": 0,
+      "explanation": "The Kamchatka Peninsula hosts over 160 volcanoes, around 29 active, making it one of Earth's most volcanically active regions. It is a UNESCO World Heritage site.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-062",
+      "q": "Oymyakon in Sakha Republic is known as?",
+      "options": [
+        "Coldest permanently inhabited place",
+        "Hottest desert in Russia",
+        "Largest city in Siberia",
+        "Oldest settlement"
+      ],
+      "correct": 0,
+      "explanation": "Oymyakon is the coldest permanently inhabited place on Earth, recording -71.2°C in 1924.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-063",
+      "q": "About what percentage of Earth's forests are in Russia?",
+      "options": [
+        "20%",
+        "10%",
+        "30%",
+        "5%"
+      ],
+      "correct": 0,
+      "explanation": "About 20% of Earth's forests are in Russia, making it the largest forested nation in the world. The vast taiga forest dominates Siberia.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-064",
+      "q": "The Kremlin is located in?",
+      "options": [
+        "Moscow",
+        "St. Petersburg",
+        "Kazan",
+        "Novgorod"
+      ],
+      "correct": 0,
+      "explanation": "The Kremlin is a historic fortified citadel in Moscow, founded in the 12th century and serving as the seat of Russian political power.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-065",
+      "q": "Russia has coastlines on which oceans?",
+      "options": [
+        "Arctic, Pacific, Atlantic",
+        "Indian, Pacific, Atlantic",
+        "Only Arctic",
+        "Arctic and Pacific only"
+      ],
+      "correct": 0,
+      "explanation": "Russia is the only country with coastlines on three oceans — Arctic, Pacific, and Atlantic (via the Baltic and Black Seas).",
+      "tags": []
+    },
+    {
+      "id": "ussrru-066",
+      "q": "The Kaliningrad exclave is bordered by?",
+      "options": [
+        "Poland and Lithuania",
+        "Belarus and Ukraine",
+        "Finland and Estonia",
+        "Latvia and Belarus"
+      ],
+      "correct": 0,
+      "explanation": "Kaliningrad is a Russian exclave on the Baltic Sea, bordered by Poland and Lithuania, separated from mainland Russia.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-067",
+      "q": "What is the form of government in Russia?",
+      "options": [
+        "Federal semi-presidential republic",
+        "Absolute monarchy",
+        "Communist state",
+        "Parliamentary democracy"
+      ],
+      "correct": 0,
+      "explanation": "Russia is a federal semi-presidential republic, though critics argue it functions as an authoritarian state under strong presidential dominance.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-068",
+      "q": "What is the upper house of the Russian Parliament called?",
+      "options": [
+        "Federation Council",
+        "State Duma",
+        "Politburo",
+        "Supreme Soviet"
+      ],
+      "correct": 0,
+      "explanation": "The Federation Council is the upper house of Russia's Federal Assembly, representing the 85 federal subjects (regions) of Russia.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-069",
+      "q": "What is the lower house of the Russian Parliament called?",
+      "options": [
+        "State Duma",
+        "Federation Council",
+        "Politburo",
+        "Supreme Soviet"
+      ],
+      "correct": 0,
+      "explanation": "The State Duma is the lower house of Russia's Federal Assembly, with 450 members elected to five-year terms, responsible for legislation.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-070",
+      "q": "When was Russia's current Constitution adopted?",
+      "options": [
+        "1993",
+        "1991",
+        "1977",
+        "2000"
+      ],
+      "correct": 0,
+      "explanation": "The Constitution of Russia was adopted on 12 December 1993 by national referendum and amended in 2020 to expand presidential authority.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-071",
+      "q": "What is Russia's ruling political party?",
+      "options": [
+        "United Russia",
+        "Communist Party",
+        "Liberal Democratic Party",
+        "A Just Russia"
+      ],
+      "correct": 0,
+      "explanation": "United Russia is the dominant ruling party of Russia, supporting President Vladimir Putin's policies.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-072",
+      "q": "What is Russia's national currency?",
+      "options": [
+        "Ruble",
+        "Dollar",
+        "Euro",
+        "Yuan"
+      ],
+      "correct": 0,
+      "explanation": "The Russian Ruble (RUB) is the official currency of the Russian Federation, divided into 100 kopeks.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-073",
+      "q": "What is Russia's national emblem?",
+      "options": [
+        "Double-headed eagle",
+        "Hammer and sickle",
+        "Bear",
+        "Cross"
+      ],
+      "correct": 0,
+      "explanation": "The double-headed eagle is Russia's national emblem, symbolizing the unity of East and West. It was restored in 1993 after the Soviet era.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-074",
+      "q": "Who composed Russia's national anthem?",
+      "options": [
+        "Alexander Alexandrov",
+        "Pyotr Tchaikovsky",
+        "Sergei Rachmaninoff",
+        "Dmitri Shostakovich"
+      ],
+      "correct": 0,
+      "explanation": "Alexander Alexandrov composed the music of 'Gosudarstvenny Gimn Rossiyskoy Federatsii', originally the Soviet anthem, reinstated as Russia's anthem in 2000.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-075",
+      "q": "How many federal subjects does Russia have?",
+      "options": [
+        "85",
+        "50",
+        "100",
+        "65"
+      ],
+      "correct": 0,
+      "explanation": "Russia is composed of 85 federal subjects: 46 oblasts, 22 republics, 9 krais, 3 federal cities, 1 autonomous oblast, and 4 autonomous okrugs.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-076",
+      "q": "Russia holds the world's largest reserves of?",
+      "options": [
+        "Natural gas",
+        "Oil",
+        "Gold",
+        "Uranium"
+      ],
+      "correct": 0,
+      "explanation": "Russia holds the world's largest natural gas reserves and the second-largest coal reserves, making it a major energy exporter.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-077",
+      "q": "Which is Russia's state-controlled natural gas company?",
+      "options": [
+        "Gazprom",
+        "Rosneft",
+        "Lukoil",
+        "Sberbank"
+      ],
+      "correct": 0,
+      "explanation": "Gazprom is Russia's state-controlled natural gas giant, holding some of the world's largest gas reserves and dominant in European gas supply.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-078",
+      "q": "Russia is a founding member of which international group?",
+      "options": [
+        "BRICS",
+        "G7",
+        "OPEC",
+        "NATO"
+      ],
+      "correct": 0,
+      "explanation": "Russia is a founding member of BRICS (Brazil, Russia, India, China, South Africa) and the Shanghai Cooperation Organization (SCO).",
+      "tags": []
+    },
+    {
+      "id": "ussrru-079",
+      "q": "Russia's space agency is known as?",
+      "options": [
+        "Roscosmos",
+        "NASA",
+        "ESA",
+        "JAXA"
+      ],
+      "correct": 0,
+      "explanation": "Roscosmos is Russia's state corporation responsible for space operations, successor to the Soviet space program that launched Sputnik in 1957.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-080",
+      "q": "What is Russia's official language?",
+      "options": [
+        "Russian",
+        "English",
+        "Ukrainian",
+        "Belarusian"
+      ],
+      "correct": 0,
+      "explanation": "Russian is the official language of the Russian Federation and the most spoken native language in Europe with over 150 million native speakers.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-081",
+      "q": "What is Russia's largest religion?",
+      "options": [
+        "Russian Orthodox Christianity",
+        "Islam",
+        "Buddhism",
+        "Judaism"
+      ],
+      "correct": 0,
+      "explanation": "Russian Orthodox Christianity is the largest religion in Russia, with Islam as the second largest. Other religions include Buddhism and Judaism.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-082",
+      "q": "Russia's population in 2025 is approximately?",
+      "options": [
+        "144 million",
+        "100 million",
+        "200 million",
+        "180 million"
+      ],
+      "correct": 0,
+      "explanation": "Russia's population in 2025 is approximately 144 million, ranking 9th in the world. About 80% are ethnic Russians.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-083",
+      "q": "Who has dominated Russian politics since 1999?",
+      "options": [
+        "Vladimir Putin",
+        "Boris Yeltsin",
+        "Dmitry Medvedev",
+        "Mikhail Gorbachev"
+      ],
+      "correct": 0,
+      "explanation": "Vladimir Putin has dominated Russian politics since 1999, serving alternately as President and Prime Minister of Russia.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-084",
+      "q": "Ivan IV, who became the first Tsar in 1547, was also known as?",
+      "options": [
+        "Ivan the Terrible",
+        "Ivan the Great",
+        "Ivan the Wise",
+        "Ivan the Bold"
+      ],
+      "correct": 0,
+      "explanation": "Ivan IV (1530-1584) became the first Tsar of Russia in 1547 and is known as Ivan the Terrible for his harsh rule and military expansion.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-085",
+      "q": "Peter the Great founded which city?",
+      "options": [
+        "Saint Petersburg",
+        "Moscow",
+        "Kazan",
+        "Volgograd"
+      ],
+      "correct": 0,
+      "explanation": "Peter the Great founded Saint Petersburg in 1703 as Russia's 'window to Europe' and made it the capital of the Russian Empire.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-086",
+      "q": "The Mongol invasion subjugated the Rus' principalities starting from?",
+      "options": [
+        "1240",
+        "1147",
+        "1380",
+        "1480"
+      ],
+      "correct": 0,
+      "explanation": "The Mongol invasion led by Batu Khan subjugated the Rus' principalities starting in 1240 and lasted for over 200 years (the 'Tatar Yoke').",
+      "tags": []
+    },
+    {
+      "id": "ussrru-087",
+      "q": "Kievan Rus' adopted Christianity in which year?",
+      "options": [
+        "988 AD",
+        "880 AD",
+        "1054 AD",
+        "1240 AD"
+      ],
+      "correct": 0,
+      "explanation": "Kievan Rus' adopted Christianity in 988 AD under Prince Vladimir the Great, marking the beginning of Russian Orthodox Christianity.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-088",
+      "q": "Kievan Rus' was founded in the 9th century by?",
+      "options": [
+        "Varangians",
+        "Mongols",
+        "Turks",
+        "Slavs alone"
+      ],
+      "correct": 0,
+      "explanation": "Kievan Rus' was founded in the 9th century by Varangians (Scandinavian Vikings) led by Rurik, establishing the first East Slavic state.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-089",
+      "q": "The Soviet Union became a superpower after?",
+      "options": [
+        "World War II",
+        "World War I",
+        "Russian Revolution",
+        "Cold War"
+      ],
+      "correct": 0,
+      "explanation": "The Soviet Union emerged as a superpower after World War II, rivaling the United States during the Cold War (1947-1991).",
+      "tags": []
+    },
+    {
+      "id": "ussrru-090",
+      "q": "The Cold War lasted from?",
+      "options": [
+        "1947 to 1991",
+        "1945 to 1989",
+        "1950 to 1990",
+        "1939 to 1991"
+      ],
+      "correct": 0,
+      "explanation": "The Cold War was the ideological conflict between the USA and USSR from approximately 1947 (Truman Doctrine) to 1991 (USSR dissolution).",
+      "tags": []
+    },
+    {
+      "id": "ussrru-091",
+      "q": "The Berlin Wall fell in?",
+      "options": [
+        "1989",
+        "1991",
+        "1985",
+        "1990"
+      ],
+      "correct": 0,
+      "explanation": "The Berlin Wall fell on 9 November 1989, symbolizing the end of the Cold War and paving the way for German reunification in 1990.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-092",
+      "q": "The Cuban Missile Crisis occurred in?",
+      "options": [
+        "1962",
+        "1959",
+        "1968",
+        "1956"
+      ],
+      "correct": 0,
+      "explanation": "The Cuban Missile Crisis occurred in October 1962, lasting 13 days, and brought the world to the brink of nuclear war between USA and USSR.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-093",
+      "q": "Russia's military budget ranks globally at?",
+      "options": [
+        "4th",
+        "1st",
+        "7th",
+        "10th"
+      ],
+      "correct": 0,
+      "explanation": "Russia's military budget (2026) ranks 4th globally at approximately $110 billion, behind USA, China, and India.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-094",
+      "q": "Russia's total land area is approximately?",
+      "options": [
+        "17.1 million sq km",
+        "10 million sq km",
+        "20 million sq km",
+        "15 million sq km"
+      ],
+      "correct": 0,
+      "explanation": "Russia covers approximately 17.1 million sq km, about one-eighth of Earth's inhabited land surface, making it the world's largest country.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-095",
+      "q": "How many active volcanoes are on Kamchatka Peninsula?",
+      "options": [
+        "About 29",
+        "About 50",
+        "About 10",
+        "About 100"
+      ],
+      "correct": 0,
+      "explanation": "The Kamchatka Peninsula has over 160 volcanoes, of which about 29 are currently active.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-096",
+      "q": "The Volga River length is?",
+      "options": [
+        "3,690 km",
+        "2,500 km",
+        "4,500 km",
+        "1,800 km"
+      ],
+      "correct": 0,
+      "explanation": "The Volga River is 3,690 km long, making it Europe's longest river. It flows through Central Russia and into the Caspian Sea.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-097",
+      "q": "Russia's coastline length is approximately?",
+      "options": [
+        "37,650 km",
+        "20,000 km",
+        "50,000 km",
+        "15,000 km"
+      ],
+      "correct": 0,
+      "explanation": "Russia's coastline is approximately 37,650 km long, stretching from Murmansk on the Barents Sea to Vladivostok on the Pacific Ocean.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-098",
+      "q": "What percentage of Russians are ethnic Russians?",
+      "options": [
+        "About 80%",
+        "About 60%",
+        "About 95%",
+        "About 50%"
+      ],
+      "correct": 0,
+      "explanation": "About 80% of Russia's population is ethnic Russian, with minorities including Tatars, Ukrainians, Bashkirs, Chechens, and Chuvash.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-099",
+      "q": "What is Russia's literacy rate?",
+      "options": [
+        "99.7%",
+        "85%",
+        "90%",
+        "95%"
+      ],
+      "correct": 0,
+      "explanation": "Russia's literacy rate is approximately 99.7%, among the highest in the world, reflecting strong investment in education since Soviet times.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-100",
+      "q": "The Kremlin was founded in which century?",
+      "options": [
+        "12th century",
+        "15th century",
+        "10th century",
+        "17th century"
+      ],
+      "correct": 0,
+      "explanation": "The Moscow Kremlin was founded in the 12th century, with its current brick walls built under Ivan III in the late 15th century.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-101",
+      "q": "Russia's second-largest city is?",
+      "options": [
+        "Saint Petersburg",
+        "Novosibirsk",
+        "Yekaterinburg",
+        "Kazan"
+      ],
+      "correct": 0,
+      "explanation": "Saint Petersburg, founded by Peter the Great in 1703, is Russia's second-largest city and former imperial capital.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-102",
+      "q": "Russia shares maritime boundaries with?",
+      "options": [
+        "United States and Japan",
+        "China and North Korea",
+        "Canada and Norway",
+        "Sweden and Finland"
+      ],
+      "correct": 0,
+      "explanation": "Russia has maritime boundaries with the United States (across the Bering Strait) and Japan (in the Sea of Okhotsk).",
+      "tags": []
+    },
+    {
+      "id": "ussrru-103",
+      "q": "The Russian Empire existed during which period?",
+      "options": [
+        "1721-1917",
+        "1700-1900",
+        "1800-1918",
+        "1682-1917"
+      ],
+      "correct": 0,
+      "explanation": "The Russian Empire existed from 1721 (when Peter the Great proclaimed it) until 1917 (when the Russian Revolution ended the Romanov dynasty).",
+      "tags": []
+    },
+    {
+      "id": "ussrru-104",
+      "q": "The Romanov monarchy ended due to?",
+      "options": [
+        "1917 Revolution",
+        "Bolshevik coup only",
+        "Civil War",
+        "Napoleonic invasion"
+      ],
+      "correct": 0,
+      "explanation": "The Romanov dynasty (1613-1917) ended with the February Revolution of 1917, which forced Tsar Nicholas II to abdicate.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-105",
+      "q": "The Warsaw Pact member countries were mostly from?",
+      "options": [
+        "Eastern Europe",
+        "Western Europe",
+        "Middle East",
+        "Asia"
+      ],
+      "correct": 0,
+      "explanation": "Warsaw Pact members were USSR and Eastern European communist states: Poland, East Germany, Czechoslovakia, Hungary, Romania, Bulgaria, and Albania.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-106",
+      "q": "The Soviet-Afghan War lasted from?",
+      "options": [
+        "1979 to 1989",
+        "1979 to 1985",
+        "1980 to 1991",
+        "1978 to 1989"
+      ],
+      "correct": 0,
+      "explanation": "The Soviet-Afghan War lasted from December 1979 to February 1989, when Soviet troops withdrew under the Geneva Accords.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-107",
+      "q": "The Bosnia & Herzegovina referendum for independence occurred in?",
+      "options": [
+        "1992",
+        "1991",
+        "1995",
+        "1990"
+      ],
+      "correct": 0,
+      "explanation": "Bosnia and Herzegovina held its independence referendum in March 1992, triggering the Bosnian War (1992-1995).",
+      "tags": []
+    },
+    {
+      "id": "ussrru-108",
+      "q": "Boris Yeltsin served as Russian president from?",
+      "options": [
+        "1991 to 1999",
+        "1985 to 1991",
+        "1995 to 2000",
+        "1989 to 1998"
+      ],
+      "correct": 0,
+      "explanation": "Boris Yeltsin was the first President of the Russian Federation, serving from July 1991 to 31 December 1999, when he resigned in favor of Putin.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-109",
+      "q": "Russia's Exclusive Economic Zone (EEZ) covers approximately?",
+      "options": [
+        "7.6 million sq km",
+        "5 million sq km",
+        "10 million sq km",
+        "3 million sq km"
+      ],
+      "correct": 0,
+      "explanation": "Russia's EEZ covers approximately 7.6 million sq km, placing it among the three largest EEZs in the world.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-110",
+      "q": "Russia's land borders total approximately?",
+      "options": [
+        "22,407 km",
+        "15,000 km",
+        "30,000 km",
+        "10,000 km"
+      ],
+      "correct": 0,
+      "explanation": "Russia's land borders total approximately 22,407 km, the second-longest land borders in the world after China.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-111",
+      "q": "Lake Karachay in the southern Urals is known for?",
+      "options": [
+        "Radioactive contamination",
+        "Deepest lake",
+        "Saltiest water",
+        "Volcanic activity"
+      ],
+      "correct": 0,
+      "explanation": "Lake Karachay is one of the most radioactive places on Earth due to Soviet-era nuclear waste disposal from the Mayak nuclear facility.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-112",
+      "q": "Russia's GDP (nominal 2025) rank is approximately?",
+      "options": [
+        "10th",
+        "5th",
+        "15th",
+        "20th"
+      ],
+      "correct": 0,
+      "explanation": "Russia's nominal GDP in 2025 is approximately $2 trillion, ranking 10th globally.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-113",
+      "q": "Lenin died in which year?",
+      "options": [
+        "1924",
+        "1922",
+        "1930",
+        "1917"
+      ],
+      "correct": 0,
+      "explanation": "Vladimir Lenin died on 21 January 1924, after which Joseph Stalin emerged as the dominant Soviet leader.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-114",
+      "q": "Stalin led the USSR through which war?",
+      "options": [
+        "World War II",
+        "World War I",
+        "Cold War",
+        "Korean War"
+      ],
+      "correct": 0,
+      "explanation": "Joseph Stalin led the USSR through World War II (Great Patriotic War 1941-1945), defeating Nazi Germany at huge human cost.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-115",
+      "q": "The five-year plans of the USSR were introduced by?",
+      "options": [
+        "Joseph Stalin",
+        "Vladimir Lenin",
+        "Leon Trotsky",
+        "Nikita Khrushchev"
+      ],
+      "correct": 0,
+      "explanation": "Stalin introduced the Five-Year Plans starting in 1928 to rapidly industrialize and collectivize the Soviet economy.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-116",
+      "q": "The USSR launched Sputnik, the first artificial satellite, in?",
+      "options": [
+        "1957",
+        "1961",
+        "1969",
+        "1950"
+      ],
+      "correct": 0,
+      "explanation": "The USSR launched Sputnik 1, the world's first artificial satellite, on 4 October 1957, starting the Space Race with the USA.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-117",
+      "q": "The first human in space was?",
+      "options": [
+        "Yuri Gagarin",
+        "Neil Armstrong",
+        "Valentina Tereshkova",
+        "Alan Shepard"
+      ],
+      "correct": 0,
+      "explanation": "Yuri Gagarin, a Soviet cosmonaut, became the first human in space on 12 April 1961 aboard Vostok 1.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-118",
+      "q": "The first woman in space was?",
+      "options": [
+        "Valentina Tereshkova",
+        "Svetlana Savitskaya",
+        "Sally Ride",
+        "Anna Kikina"
+      ],
+      "correct": 0,
+      "explanation": "Valentina Tereshkova, a Soviet cosmonaut, became the first woman in space on 16 June 1963 aboard Vostok 6.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-119",
+      "q": "What does 'Perestroika' mean in English?",
+      "options": [
+        "Restructuring",
+        "Openness",
+        "Reform",
+        "Freedom"
+      ],
+      "correct": 0,
+      "explanation": "Perestroika means 'restructuring' in Russian and refers to Gorbachev's 1985 economic and political reform program.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-120",
+      "q": "What does 'Glasnost' mean in English?",
+      "options": [
+        "Openness",
+        "Restructuring",
+        "Reform",
+        "Revolution"
+      ],
+      "correct": 0,
+      "explanation": "Glasnost means 'openness' or 'transparency' in Russian and refers to Gorbachev's policy of increased freedom of speech and information.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-121",
+      "q": "The USSR's famous secret police organization was?",
+      "options": [
+        "KGB",
+        "CIA",
+        "MI6",
+        "Mossad"
+      ],
+      "correct": 0,
+      "explanation": "The KGB (Komitet Gosudarstvennoy Bezopasnosti) was the Soviet Union's main security agency from 1954 to 1991, handling foreign intelligence and internal security.",
+      "tags": []
+    },
+    {
+      "id": "ussrru-122",
+      "q": "Russia holds which rank in terms of coal reserves?",
+      "options": [
+        "2nd",
+        "1st",
+        "3rd",
+        "5th"
+      ],
+      "correct": 0,
+      "explanation": "Russia holds the world's second-largest coal reserves, after the United States, and is a major coal exporter.",
+      "tags": []
+    }
+  ]
+}

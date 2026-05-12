@@ -2,13 +2,13 @@
   "topic_id": "solar-system-and-the-sun",
   "topic_name": "Solar System & the Sun",
   "subject": "everyday-science",
-  "version": 1,
+  "version": 2,
   "updated_at": "2026-05-12",
-  "description": "Solar System & the Sun MCQs for PPSC, FPSC, NTS, CSS & PMS preparation.",
+  "description": "Solar System & the Sun MCQs for PPSC, FPSC, NTS, CSS & PMS.",
   "icon": "☀️",
   "mcqs": [
     {
-      "id": "solar--001",
+      "id": "solars-001",
       "q": "Who discovered the Solar System (heliocentric model)?",
       "options": [
         "Galileo Galilei",
@@ -21,7 +21,7 @@
       "tags": []
     },
     {
-      "id": "solar--002",
+      "id": "solars-002",
       "q": "According to NASA, what is the mass of the Sun?",
       "options": [
         "1.989 × 10²⁵ kg",
@@ -34,7 +34,7 @@
       "tags": []
     },
     {
-      "id": "solar--003",
+      "id": "solars-003",
       "q": "The Sun and the rest of the solar system formed from a giant, rotating cloud of gas and dust called a:",
       "options": [
         "Black hole",
@@ -47,7 +47,7 @@
       "tags": []
     },
     {
-      "id": "solar--004",
+      "id": "solars-004",
       "q": "How many years ago did the Sun and solar system form?",
       "options": [
         "~1 million years",
@@ -60,7 +60,7 @@
       "tags": []
     },
     {
-      "id": "solar--005",
+      "id": "solars-005",
       "q": "Approximately what percentage of the solar system's total mass does the Sun contain?",
       "options": [
         "50 percent",
@@ -73,7 +73,7 @@
       "tags": []
     },
     {
-      "id": "solar--006",
+      "id": "solars-006",
       "q": "How many Earths would be required to fit across the Sun's disk?",
       "options": [
         "10",
@@ -86,7 +86,7 @@
       "tags": []
     },
     {
-      "id": "solar--007",
+      "id": "solars-007",
       "q": "How many Earths could fit inside the Sun's volume?",
       "options": [
         "1,000",
@@ -99,7 +99,7 @@
       "tags": []
     },
     {
-      "id": "solar--008",
+      "id": "solars-008",
       "q": "The Sun is the most prominent feature in:",
       "options": [
         "The Milky Way only",
@@ -112,7 +112,7 @@
       "tags": []
     },
     {
-      "id": "solar--009",
+      "id": "solars-009",
       "q": "Does the Sun have rings?",
       "options": [
         "Yes — many",
@@ -125,7 +125,7 @@
       "tags": []
     },
     {
-      "id": "solar--010",
+      "id": "solars-010",
       "q": "According to NASA, the Sun is a ball of gas containing approximately:",
       "options": [
         "50% hydrogen + 50% helium",
@@ -138,7 +138,7 @@
       "tags": []
     },
     {
-      "id": "solar--011",
+      "id": "solars-011",
       "q": "The diameter of the Sun is approximately:",
       "options": [
         "~12,000 km",
@@ -151,7 +151,7 @@
       "tags": []
     },
     {
-      "id": "solar--012",
+      "id": "solars-012",
       "q": "According to NASA, the mean radius of the Sun is approximately:",
       "options": [
         "~6,371 km",
@@ -164,7 +164,7 @@
       "tags": []
     },
     {
-      "id": "solar--013",
+      "id": "solars-013",
       "q": "The Sun's equatorial circumference is approximately:",
       "options": [
         "~40,000 km",
@@ -177,7 +177,7 @@
       "tags": []
     },
     {
-      "id": "solar--014",
+      "id": "solars-014",
       "q": "What is the Sun's outer visible layer called?",
       "options": [
         "Corona",
@@ -190,7 +190,7 @@
       "tags": []
     },
     {
-      "id": "solar--015",
+      "id": "solars-015",
       "q": "What is the temperature of the Sun's photosphere?",
       "options": [
         "~100°C",
@@ -203,7 +203,7 @@
       "tags": []
     },
     {
-      "id": "solar--016",
+      "id": "solars-016",
       "q": "At the Sun's core, the temperature is approximately:",
       "options": [
         "~5,500°C",
@@ -216,7 +216,7 @@
       "tags": []
     },
     {
-      "id": "solar--017",
+      "id": "solars-017",
       "q": "What classification of star is the Sun?",
       "options": [
         "Red Giant",
@@ -229,7 +229,7 @@
       "tags": []
     },
     {
-      "id": "solar--018",
+      "id": "solars-018",
       "q": "According to NASA, the distance of the Sun from the Earth is approximately:",
       "options": [
         "~3.84 lakh km",
@@ -242,7 +242,7 @@
       "tags": []
     },
     {
-      "id": "solar--019",
+      "id": "solars-019",
       "q": "The distance between the Earth and the Sun is equivalent to:",
       "options": [
         "1 light year",
@@ -255,7 +255,7 @@
       "tags": []
     },
     {
-      "id": "solar--020",
+      "id": "solars-020",
       "q": "How long does it take for light to travel from the Sun to the Earth?",
       "options": [
         "~10 seconds",
@@ -268,7 +268,7 @@
       "tags": []
     },
     {
-      "id": "solar--021",
+      "id": "solars-021",
       "q": "The Sun emits which type of radiation primarily?",
       "options": [
         "Long-wave radiation",
@@ -281,7 +281,7 @@
       "tags": []
     },
     {
-      "id": "solar--022",
+      "id": "solars-022",
       "q": "Why does the Sun emit predominantly shortwave radiation?",
       "options": [
         "Because it is small",
@@ -294,7 +294,7 @@
       "tags": []
     },
     {
-      "id": "solar--023",
+      "id": "solars-023",
       "q": "What are the inner layers of the Sun (in order)?",
       "options": [
         "Core, Radiative Zone, Convection Zone",
@@ -307,7 +307,7 @@
       "tags": []
     },
     {
-      "id": "solar--024",
+      "id": "solars-024",
       "q": "What are the outer layers of the Sun (in order)?",
       "options": [
         "Core, Radiative Zone, Convection Zone",
@@ -320,7 +320,7 @@
       "tags": []
     },
     {
-      "id": "solar--025",
+      "id": "solars-025",
       "q": "Which is the OUTERMOST layer of the Sun's atmosphere?",
       "options": [
         "Photosphere",
@@ -333,7 +333,7 @@
       "tags": []
     },
     {
-      "id": "solar--026",
+      "id": "solars-026",
       "q": "Which is the OUTER VISIBLE layer of the Sun (the surface we see)?",
       "options": [
         "Core",
@@ -346,7 +346,7 @@
       "tags": []
     },
     {
-      "id": "solar--027",
+      "id": "solars-027",
       "q": "Which type of fusion occurs inside the Sun?",
       "options": [
         "Proton-proton fusion",
@@ -359,7 +359,7 @@
       "tags": []
     },
     {
-      "id": "solar--028",
+      "id": "solars-028",
       "q": "In proton-proton fusion (in the Sun), hydrogen is fused into:",
       "options": [
         "Carbon",
@@ -372,7 +372,7 @@
       "tags": []
     },
     {
-      "id": "solar--029",
+      "id": "solars-029",
       "q": "How many layers (inner + outer) does the Sun typically have?",
       "options": [
         "3",
@@ -385,7 +385,7 @@
       "tags": []
     },
     {
-      "id": "solar--030",
+      "id": "solars-030",
       "q": "Which is the HOTTEST region within the Sun?",
       "options": [
         "Core",
@@ -398,7 +398,7 @@
       "tags": []
     },
     {
-      "id": "solar--031",
+      "id": "solars-031",
       "q": "In which year did Johannes Kepler announce his First Law of planetary motion?",
       "options": [
         "1509",
@@ -411,7 +411,7 @@
       "tags": []
     },
     {
-      "id": "solar--032",
+      "id": "solars-032",
       "q": "What does Kepler's First Law of planetary motion state?",
       "options": [
         "Planets orbit in perfect circles around Earth",
@@ -424,7 +424,7 @@
       "tags": []
     },
     {
-      "id": "solar--033",
+      "id": "solars-033",
       "q": "Comets are best described as:",
       "options": [
         "Bright stars",
@@ -437,7 +437,7 @@
       "tags": []
     },
     {
-      "id": "solar--034",
+      "id": "solars-034",
       "q": "Asteroids are best described as:",
       "options": [
         "Frozen comets",
@@ -450,7 +450,7 @@
       "tags": []
     },
     {
-      "id": "solar--035",
+      "id": "solars-035",
       "q": "What is the main difference between comets and asteroids?",
       "options": [
         "Comets are rocky; asteroids are icy",
@@ -463,7 +463,7 @@
       "tags": []
     },
     {
-      "id": "solar--036",
+      "id": "solars-036",
       "q": "Both comets and asteroids primarily orbit:",
       "options": [
         "The Earth",
@@ -476,7 +476,7 @@
       "tags": []
     },
     {
-      "id": "solar--037",
+      "id": "solars-037",
       "q": "An equinox occurs when:",
       "options": [
         "The Sun is at its highest point",
@@ -489,7 +489,7 @@
       "tags": []
     },
     {
-      "id": "solar--038",
+      "id": "solars-038",
       "q": "How many times a year does an equinox occur?",
       "options": [
         "Once",
@@ -502,7 +502,7 @@
       "tags": []
     },
     {
-      "id": "solar--039",
+      "id": "solars-039",
       "q": "The March equinox is called:",
       "options": [
         "Vernal (Spring) Equinox",
@@ -515,7 +515,7 @@
       "tags": []
     },
     {
-      "id": "solar--040",
+      "id": "solars-040",
       "q": "The September equinox is called:",
       "options": [
         "Vernal Equinox",
@@ -528,7 +528,7 @@
       "tags": []
     },
     {
-      "id": "solar--041",
+      "id": "solars-041",
       "q": "The Sun shines vertically on the Equator how many times per year?",
       "options": [
         "Once",
@@ -541,7 +541,7 @@
       "tags": []
     },
     {
-      "id": "solar--042",
+      "id": "solars-042",
       "q": "Which country is called 'the Land of the Rising Sun'?",
       "options": [
         "China",
@@ -554,7 +554,7 @@
       "tags": []
     },
     {
-      "id": "solar--043",
+      "id": "solars-043",
       "q": "For how long has Japan been recognised as the 'Land of the Rising Sun'?",
       "options": [
         "About 100 years",
@@ -567,7 +567,7 @@
       "tags": []
     },
     {
-      "id": "solar--044",
+      "id": "solars-044",
       "q": "What is a galactic year (also called a cosmic year)?",
       "options": [
         "The time Earth takes to orbit the Sun",
@@ -580,7 +580,7 @@
       "tags": []
     },
     {
-      "id": "solar--045",
+      "id": "solars-045",
       "q": "The Sun orbits the centre of which galaxy?",
       "options": [
         "Andromeda",

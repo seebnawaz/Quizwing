@@ -1,0 +1,726 @@
+{
+  "topic_id": "computer-networks",
+  "topic_name": "Computer Networks",
+  "subject": "computer-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Computer Networks MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🌐",
+  "mcqs": [
+    {
+      "id": "comput-001",
+      "q": "What is a computer network?",
+      "options": [
+        "A single computer",
+        "A collection of computers and devices connected via communications devices and transmission media",
+        "A type of operating system",
+        "A printer driver"
+      ],
+      "correct": 1,
+      "explanation": "A computer network is a collection of computers and devices connected together via communications devices and transmission media.",
+      "tags": []
+    },
+    {
+      "id": "comput-002",
+      "q": "A computer system used as a central repository of data and various programmes shared by users in a network is called a:",
+      "options": [
+        "Network server",
+        "Router",
+        "Hub",
+        "Modem"
+      ],
+      "correct": 0,
+      "explanation": "A network server is a computer system used as the central repository of data and programmes shared by users in a network.",
+      "tags": []
+    },
+    {
+      "id": "comput-003",
+      "q": "Two devices are said to be in a network if:",
+      "options": [
+        "They are physically close",
+        "A process in one device is able to exchange information with a process in another",
+        "They share a power outlet",
+        "They use the same brand"
+      ],
+      "correct": 1,
+      "explanation": "Two devices are in a network if a process in one device is able to exchange information with a process in another device.",
+      "tags": []
+    },
+    {
+      "id": "comput-004",
+      "q": "A network in which the communication channel is shared by all machines is called:",
+      "options": [
+        "Point-to-point network",
+        "Broadcast network",
+        "Virtual circuit network",
+        "Private network"
+      ],
+      "correct": 1,
+      "explanation": "In a broadcast network the communication channel is shared by all machines on the network.",
+      "tags": []
+    },
+    {
+      "id": "comput-005",
+      "q": "Which device forwards packets between networks by processing routing information in each packet?",
+      "options": [
+        "Hub",
+        "Switch",
+        "Router",
+        "Repeater"
+      ],
+      "correct": 2,
+      "explanation": "A router forwards packets between networks by processing the routing information included in each packet.",
+      "tags": []
+    },
+    {
+      "id": "comput-006",
+      "q": "A list of protocols used by a system — one protocol per layer — is called a:",
+      "options": [
+        "Protocol stack",
+        "Routing table",
+        "MAC table",
+        "Subnet mask"
+      ],
+      "correct": 0,
+      "explanation": "A protocol stack is a list of protocols used by a system, with one protocol per layer of the network model.",
+      "tags": []
+    },
+    {
+      "id": "comput-007",
+      "q": "Which of the following is considered a network performance issue?",
+      "options": [
+        "Faster RAM",
+        "Higher monitor resolution",
+        "An unauthorized user",
+        "A new keyboard"
+      ],
+      "correct": 2,
+      "explanation": "An unauthorized user accessing a network is considered a network performance (and security) issue.",
+      "tags": []
+    },
+    {
+      "id": "comput-008",
+      "q": "How long is a MAC address?",
+      "options": [
+        "2 bytes (16 bits)",
+        "4 bytes (32 bits)",
+        "6 bytes (48 bits)",
+        "8 bytes (64 bits)"
+      ],
+      "correct": 2,
+      "explanation": "A MAC (Media Access Control) address is 6 bytes (48 bits) long, in binary numbers — typically displayed in hexadecimal.",
+      "tags": []
+    },
+    {
+      "id": "comput-009",
+      "q": "In what number system is a MAC address fundamentally expressed?",
+      "options": [
+        "Decimal",
+        "Hexadecimal display only",
+        "Binary",
+        "Octal"
+      ],
+      "correct": 2,
+      "explanation": "A MAC address is fundamentally a binary number 48 bits long, although it is commonly displayed in hexadecimal for readability.",
+      "tags": []
+    },
+    {
+      "id": "comput-010",
+      "q": "Network computer devices that originate, route and terminate the data are called:",
+      "options": [
+        "Cables",
+        "Network nodes",
+        "Bandwidth",
+        "Sub-nets"
+      ],
+      "correct": 1,
+      "explanation": "Network computer devices that originate, route and terminate data are called network nodes.",
+      "tags": []
+    },
+    {
+      "id": "comput-011",
+      "q": "Which device connects multiple nodes to a network?",
+      "options": [
+        "Modem",
+        "Hub",
+        "CPU",
+        "Compiler"
+      ],
+      "correct": 1,
+      "explanation": "A hub is a device that connects multiple nodes to the network.",
+      "tags": []
+    },
+    {
+      "id": "comput-012",
+      "q": "In a Virtual Circuit Network, each packet contains:",
+      "options": [
+        "No address",
+        "Only the source address",
+        "Only the destination address",
+        "Full source and destination address"
+      ],
+      "correct": 3,
+      "explanation": "In a Virtual Circuit Network each packet contains the full source and destination address.",
+      "tags": []
+    },
+    {
+      "id": "comput-013",
+      "q": "LAN stands for:",
+      "options": [
+        "Long Area Network",
+        "Local Area Network",
+        "Linear Access Network",
+        "Local Address Node"
+      ],
+      "correct": 1,
+      "explanation": "LAN stands for Local Area Network — confined to a relatively small area such as a room or building.",
+      "tags": []
+    },
+    {
+      "id": "comput-014",
+      "q": "A LAN is best described as a network that:",
+      "options": [
+        "Spans the whole world",
+        "Is confined to a relatively small area",
+        "Is used by mobile phones only",
+        "Connects two cities"
+      ],
+      "correct": 1,
+      "explanation": "A LAN (Local Area Network) is a network confined to a relatively small area like an office, room or building.",
+      "tags": []
+    },
+    {
+      "id": "comput-015",
+      "q": "Is a LAN card necessary for a standalone computer?",
+      "options": [
+        "Yes — always required",
+        "No — LAN card is not necessary for a standalone computer",
+        "Only on Windows",
+        "Only on Linux"
+      ],
+      "correct": 1,
+      "explanation": "A LAN card is NOT necessary for a standalone computer — it is only required when the computer needs to connect to a local area network.",
+      "tags": []
+    },
+    {
+      "id": "comput-016",
+      "q": "MAN stands for:",
+      "options": [
+        "Major Area Node",
+        "Metropolitan Area Network",
+        "Multi Access Network",
+        "Modem Access Node"
+      ],
+      "correct": 1,
+      "explanation": "MAN stands for Metropolitan Area Network — covers a city or metropolitan region.",
+      "tags": []
+    },
+    {
+      "id": "comput-017",
+      "q": "A Metropolitan Area Network covers:",
+      "options": [
+        "Only a single building",
+        "A city or metropolitan-size geographic region",
+        "Multiple countries",
+        "A single person's space"
+      ],
+      "correct": 1,
+      "explanation": "A MAN (Metropolitan Area Network) covers a geographic region the size of a metropolitan area / city.",
+      "tags": []
+    },
+    {
+      "id": "comput-018",
+      "q": "WAN stands for:",
+      "options": [
+        "Wireless Area Node",
+        "Wide Area Network",
+        "Worldwide Address Network",
+        "Wired Access Node"
+      ],
+      "correct": 1,
+      "explanation": "WAN stands for Wide Area Network — covers a state, country or the whole world.",
+      "tags": []
+    },
+    {
+      "id": "comput-019",
+      "q": "A WAN typically covers:",
+      "options": [
+        "A single room",
+        "A single building",
+        "A state, country or the whole world",
+        "Only a campus"
+      ],
+      "correct": 2,
+      "explanation": "A WAN (Wide Area Network) covers a state, province, country or the whole world.",
+      "tags": []
+    },
+    {
+      "id": "comput-020",
+      "q": "Which of the following is a classic example of a WAN?",
+      "options": [
+        "Office network",
+        "Home Wi-Fi",
+        "The Internet",
+        "Bluetooth"
+      ],
+      "correct": 2,
+      "explanation": "The Internet is the largest and most classic example of a WAN (Wide Area Network).",
+      "tags": []
+    },
+    {
+      "id": "comput-021",
+      "q": "PAN stands for:",
+      "options": [
+        "Public Area Network",
+        "Personal Area Network",
+        "Private Access Node",
+        "Portable Access Network"
+      ],
+      "correct": 1,
+      "explanation": "PAN stands for Personal Area Network — enables communication between computer devices near a person.",
+      "tags": []
+    },
+    {
+      "id": "comput-022",
+      "q": "Bluetooth devices typically form which type of network?",
+      "options": [
+        "WAN",
+        "MAN",
+        "PAN",
+        "CAN"
+      ],
+      "correct": 2,
+      "explanation": "Bluetooth devices typically form a PAN (Personal Area Network) — communication near a single person.",
+      "tags": []
+    },
+    {
+      "id": "comput-023",
+      "q": "CAN stands for:",
+      "options": [
+        "Common Access Network",
+        "Campus Area Network",
+        "Country Access Node",
+        "Cellular Area Network"
+      ],
+      "correct": 1,
+      "explanation": "CAN stands for Campus Area Network — connects multiple buildings within a campus.",
+      "tags": []
+    },
+    {
+      "id": "comput-024",
+      "q": "Which of the following best describes a CAN?",
+      "options": [
+        "Network covering a country",
+        "Network connecting multiple buildings within a campus",
+        "Network for one room",
+        "Internet itself"
+      ],
+      "correct": 1,
+      "explanation": "A Campus Area Network (CAN) connects multiple buildings within a campus — common in universities.",
+      "tags": []
+    },
+    {
+      "id": "comput-025",
+      "q": "HAN stands for:",
+      "options": [
+        "Home Access Node",
+        "Home Area Network",
+        "Heavy Area Network",
+        "Hybrid Access Network"
+      ],
+      "correct": 1,
+      "explanation": "HAN stands for Home Area Network — used within a home connecting home devices.",
+      "tags": []
+    },
+    {
+      "id": "comput-026",
+      "q": "Home Wi-Fi connecting your devices forms which type of network?",
+      "options": [
+        "MAN",
+        "WAN",
+        "HAN",
+        "CAN"
+      ],
+      "correct": 2,
+      "explanation": "Home Wi-Fi connecting your devices is a Home Area Network (HAN).",
+      "tags": []
+    },
+    {
+      "id": "comput-027",
+      "q": "VPN stands for:",
+      "options": [
+        "Virtual Public Network",
+        "Virtual Private Network",
+        "Variable Packet Node",
+        "Verified Private Network"
+      ],
+      "correct": 1,
+      "explanation": "VPN stands for Virtual Private Network — extends a private network across a public network.",
+      "tags": []
+    },
+    {
+      "id": "comput-028",
+      "q": "A VPN extends:",
+      "options": [
+        "A public network across a private network",
+        "A private network across a public network",
+        "A LAN across a single room",
+        "A printer queue across multiple machines"
+      ],
+      "correct": 1,
+      "explanation": "A VPN (Virtual Private Network) extends a private network across a public network (e.g. the Internet) for secure remote access.",
+      "tags": []
+    },
+    {
+      "id": "comput-029",
+      "q": "Which of the following networks covers the LARGEST area?",
+      "options": [
+        "LAN",
+        "MAN",
+        "WAN",
+        "PAN"
+      ],
+      "correct": 2,
+      "explanation": "WAN (Wide Area Network) covers the largest area — state, country or worldwide. The Internet is the biggest WAN.",
+      "tags": []
+    },
+    {
+      "id": "comput-030",
+      "q": "Which of the following networks covers the SMALLEST area?",
+      "options": [
+        "LAN",
+        "MAN",
+        "WAN",
+        "PAN"
+      ],
+      "correct": 3,
+      "explanation": "PAN (Personal Area Network) covers the smallest area — typically devices near a single person, e.g. Bluetooth.",
+      "tags": []
+    },
+    {
+      "id": "comput-031",
+      "q": "A network topology is best defined as:",
+      "options": [
+        "The colour of network cables",
+        "The arrangement of nodes and connections in a network",
+        "The cost of a network",
+        "The brand of routers"
+      ],
+      "correct": 1,
+      "explanation": "A network topology is the arrangement of nodes and connections in a network — it defines the physical and logical layout.",
+      "tags": []
+    },
+    {
+      "id": "comput-032",
+      "q": "In which topology do all devices connect to a single central hub or switch?",
+      "options": [
+        "Bus",
+        "Star",
+        "Ring",
+        "Mesh"
+      ],
+      "correct": 1,
+      "explanation": "In a Star topology, all devices connect to a single central hub or switch — the most common LAN layout.",
+      "tags": []
+    },
+    {
+      "id": "comput-033",
+      "q": "In which topology do all devices share a single backbone cable?",
+      "options": [
+        "Star",
+        "Bus",
+        "Ring",
+        "Mesh"
+      ],
+      "correct": 1,
+      "explanation": "In a Bus topology, all devices share a single backbone cable. If the backbone breaks, the entire network fails.",
+      "tags": []
+    },
+    {
+      "id": "comput-034",
+      "q": "In which topology does each device connect to two others, forming a closed loop?",
+      "options": [
+        "Bus",
+        "Star",
+        "Ring",
+        "Tree"
+      ],
+      "correct": 2,
+      "explanation": "In a Ring topology, each device connects to exactly two other devices forming a closed loop.",
+      "tags": []
+    },
+    {
+      "id": "comput-035",
+      "q": "Which topology connects every device to every other device, providing maximum redundancy?",
+      "options": [
+        "Star",
+        "Bus",
+        "Ring",
+        "Mesh"
+      ],
+      "correct": 3,
+      "explanation": "A Mesh topology connects every device to every other device — providing maximum redundancy but requiring extensive cabling.",
+      "tags": []
+    },
+    {
+      "id": "comput-036",
+      "q": "Which topology is a hierarchical combination of star and bus?",
+      "options": [
+        "Tree",
+        "Mesh",
+        "Ring",
+        "Hybrid"
+      ],
+      "correct": 0,
+      "explanation": "A Tree topology is a hierarchical combination of star and bus — branches of star networks connected via a backbone.",
+      "tags": []
+    },
+    {
+      "id": "comput-037",
+      "q": "A Hybrid topology is:",
+      "options": [
+        "The same as a Bus topology",
+        "A combination of two or more topology types",
+        "Only used in WAN",
+        "Same as Ring"
+      ],
+      "correct": 1,
+      "explanation": "A Hybrid topology is a combination of two or more network topology types — common in large enterprise networks.",
+      "tags": []
+    },
+    {
+      "id": "comput-038",
+      "q": "Which topology has a single point of failure at the central hub?",
+      "options": [
+        "Mesh",
+        "Star",
+        "Bus",
+        "Ring"
+      ],
+      "correct": 1,
+      "explanation": "A Star topology has a single point of failure — if the central hub or switch fails, the entire network goes down.",
+      "tags": []
+    },
+    {
+      "id": "comput-039",
+      "q": "Which topology is the most common in modern Ethernet LANs?",
+      "options": [
+        "Bus",
+        "Star",
+        "Ring",
+        "Mesh"
+      ],
+      "correct": 1,
+      "explanation": "The Star topology is the most common in modern Ethernet LANs — devices connect to a central switch.",
+      "tags": []
+    },
+    {
+      "id": "comput-040",
+      "q": "Which topology has the highest fault tolerance?",
+      "options": [
+        "Bus",
+        "Ring",
+        "Star",
+        "Mesh"
+      ],
+      "correct": 3,
+      "explanation": "A Mesh topology has the highest fault tolerance — every device is connected to every other device, so multiple paths exist.",
+      "tags": []
+    },
+    {
+      "id": "comput-041",
+      "q": "A network server is best described as:",
+      "options": [
+        "A printer",
+        "A central repository of data and programmes shared by users",
+        "A type of cable",
+        "A modem"
+      ],
+      "correct": 1,
+      "explanation": "A network server is a central repository of data and various programmes that are shared by users in a network.",
+      "tags": []
+    },
+    {
+      "id": "comput-042",
+      "q": "Which of the following is the correct function of a router?",
+      "options": [
+        "Connects multiple nodes to a single LAN",
+        "Forwards packets between networks using routing information",
+        "Provides power to network devices",
+        "Stores user files"
+      ],
+      "correct": 1,
+      "explanation": "A router forwards packets between networks by processing the routing information included in each packet.",
+      "tags": []
+    },
+    {
+      "id": "comput-043",
+      "q": "What is the primary function of a hub?",
+      "options": [
+        "Routing between networks",
+        "Connecting multiple nodes within the same network",
+        "Providing internet access via 4G",
+        "Encrypting data"
+      ],
+      "correct": 1,
+      "explanation": "A hub's primary function is to connect multiple nodes to the same network.",
+      "tags": []
+    },
+    {
+      "id": "comput-044",
+      "q": "A protocol stack is:",
+      "options": [
+        "A list of protocols used by a system, one per layer",
+        "A type of router",
+        "A type of cable",
+        "A type of MAC address"
+      ],
+      "correct": 0,
+      "explanation": "A protocol stack is a list of protocols used by a system — one protocol per layer of the network model.",
+      "tags": []
+    },
+    {
+      "id": "comput-045",
+      "q": "Which of the following is a 6-byte address used to uniquely identify a network device?",
+      "options": [
+        "IP address",
+        "MAC address",
+        "Subnet mask",
+        "Default gateway"
+      ],
+      "correct": 1,
+      "explanation": "A MAC address is a 6-byte (48-bit) unique identifier assigned to each network device.",
+      "tags": []
+    },
+    {
+      "id": "comput-046",
+      "q": "A network node is a device that:",
+      "options": [
+        "Only stores files",
+        "Originates, routes and terminates data",
+        "Generates electricity",
+        "Cools the CPU"
+      ],
+      "correct": 1,
+      "explanation": "A network node is a device that originates, routes and terminates data within a network.",
+      "tags": []
+    },
+    {
+      "id": "comput-047",
+      "q": "In a broadcast network, the communication channel is:",
+      "options": [
+        "Used by only one device",
+        "Shared by all machines on the network",
+        "Encrypted by default",
+        "Always wireless"
+      ],
+      "correct": 1,
+      "explanation": "In a broadcast network, the communication channel is shared by all machines on the network.",
+      "tags": []
+    },
+    {
+      "id": "comput-048",
+      "q": "Which type of network requires that each packet contain the full source and destination address?",
+      "options": [
+        "Datagram network",
+        "Virtual Circuit Network",
+        "Private network",
+        "Switched network"
+      ],
+      "correct": 1,
+      "explanation": "A Virtual Circuit Network requires each packet to contain the full source and destination address.",
+      "tags": []
+    },
+    {
+      "id": "comput-049",
+      "q": "Which device operates primarily at the network layer (Layer 3)?",
+      "options": [
+        "Hub",
+        "Repeater",
+        "Router",
+        "Cable"
+      ],
+      "correct": 2,
+      "explanation": "A router operates primarily at Layer 3 (Network Layer) — it makes forwarding decisions based on IP addresses.",
+      "tags": []
+    },
+    {
+      "id": "comput-050",
+      "q": "Which device operates at the physical layer (Layer 1)?",
+      "options": [
+        "Router",
+        "Switch",
+        "Hub",
+        "Server"
+      ],
+      "correct": 2,
+      "explanation": "A hub operates at Layer 1 (Physical Layer) — it simply repeats incoming signals to all other ports.",
+      "tags": []
+    },
+    {
+      "id": "comput-051",
+      "q": "Network nodes can include which of the following?",
+      "options": [
+        "Computers",
+        "Printers and routers",
+        "Servers",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "Network nodes include all devices that originate, route or terminate data — computers, printers, routers, servers, etc.",
+      "tags": []
+    },
+    {
+      "id": "comput-052",
+      "q": "Which of the following best describes Internet?",
+      "options": [
+        "A type of LAN",
+        "A type of MAN",
+        "A type of WAN",
+        "A type of PAN"
+      ],
+      "correct": 2,
+      "explanation": "The Internet is the largest example of a WAN (Wide Area Network) — it spans the whole world.",
+      "tags": []
+    },
+    {
+      "id": "comput-053",
+      "q": "A LAN card (NIC) is required when:",
+      "options": [
+        "The computer is standalone",
+        "The computer needs to connect to a network",
+        "Only when printing",
+        "Only when shutting down"
+      ],
+      "correct": 1,
+      "explanation": "A LAN card (Network Interface Card) is required when the computer needs to connect to a network. It is NOT necessary for a standalone computer.",
+      "tags": []
+    },
+    {
+      "id": "comput-054",
+      "q": "Which of the following is true about a router?",
+      "options": [
+        "It connects nodes within a single LAN only",
+        "It forwards packets between different networks",
+        "It cannot read packet headers",
+        "It is the same as a hub"
+      ],
+      "correct": 1,
+      "explanation": "A router forwards packets between different networks by reading the destination address in each packet's header.",
+      "tags": []
+    },
+    {
+      "id": "comput-055",
+      "q": "Which of these is the correct definition of a network?",
+      "options": [
+        "A connection of fewer than 5 computers only",
+        "A collection of computers and devices connected via communications devices and transmission media",
+        "Only the Internet",
+        "Any wireless connection"
+      ],
+      "correct": 1,
+      "explanation": "A network is a collection of computers and devices connected via communications devices and transmission media — wired or wireless, large or small.",
+      "tags": []
+    }
+  ]
+}

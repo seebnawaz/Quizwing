@@ -1,0 +1,804 @@
+{
+  "topic_id": "arab-spring",
+  "topic_name": "Arab Spring",
+  "subject": "general-knowledge",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Arab Spring MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🌅",
+  "mcqs": [
+    {
+      "id": "arabsp-001",
+      "q": "The Arab Spring movement started in which country?",
+      "options": [
+        "Tunisia",
+        "Egypt",
+        "Libya",
+        "Syria"
+      ],
+      "correct": 0,
+      "explanation": "The Arab Spring began in Tunisia in December 2010 after the self-immolation of Mohamed Bouazizi, before spreading across the Middle East and North Africa.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-002",
+      "q": "The Arab Spring began in which year?",
+      "options": [
+        "2010",
+        "2011",
+        "2009",
+        "2012"
+      ],
+      "correct": 0,
+      "explanation": "The Arab Spring began in December 2010 in Tunisia, though most uprisings in other countries occurred in 2011.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-003",
+      "q": "The event that sparked the Arab Spring was?",
+      "options": [
+        "Self-immolation of Mohamed Bouazizi in Tunisia",
+        "Mubarak's resignation",
+        "Gaddafi's death",
+        "Assad's inauguration"
+      ],
+      "correct": 0,
+      "explanation": "Mohamed Bouazizi, a Tunisian street vendor, set himself on fire on 17 December 2010 in Sidi Bouzid, protesting police harassment and government corruption.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-004",
+      "q": "Which country experienced a prolonged civil war leading to major humanitarian crises?",
+      "options": [
+        "Syria",
+        "Tunisia",
+        "Morocco",
+        "Jordan"
+      ],
+      "correct": 0,
+      "explanation": "Syria's Arab Spring uprising evolved into a devastating civil war (2011-2024) with over 500,000 deaths and millions of refugees.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-005",
+      "q": "Who was the President of Syria during the Arab Spring uprisings?",
+      "options": [
+        "Bashar al-Assad",
+        "Hafez al-Assad",
+        "Saddam Hussein",
+        "Hosni Mubarak"
+      ],
+      "correct": 0,
+      "explanation": "Bashar al-Assad was President of Syria when Arab Spring protests began in 2011. He remained in power until December 2024.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-006",
+      "q": "Muammar Gaddafi belonged to which country?",
+      "options": [
+        "Libya",
+        "Egypt",
+        "Tunisia",
+        "Algeria"
+      ],
+      "correct": 0,
+      "explanation": "Muammar Gaddafi ruled Libya for 42 years (1969-2011) before being overthrown and killed during the Arab Spring.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-007",
+      "q": "The Yemen Crisis started in?",
+      "options": [
+        "2011",
+        "2014",
+        "2015",
+        "2009"
+      ],
+      "correct": 0,
+      "explanation": "The Yemen Crisis began in 2011 with Arab Spring protests against President Ali Abdullah Saleh, escalating into civil war by 2014-2015.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-008",
+      "q": "Mohamed Bouazizi was a?",
+      "options": [
+        "Street vendor",
+        "Politician",
+        "Soldier",
+        "Journalist"
+      ],
+      "correct": 0,
+      "explanation": "Mohamed Bouazizi was a 26-year-old Tunisian street vendor in Sidi Bouzid. His self-immolation ignited the Arab Spring.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-009",
+      "q": "Mohamed Bouazizi died on?",
+      "options": [
+        "4 January 2011",
+        "17 December 2010",
+        "14 January 2011",
+        "11 February 2011"
+      ],
+      "correct": 0,
+      "explanation": "Mohamed Bouazizi set himself on fire on 17 December 2010 and died from his injuries on 4 January 2011.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-010",
+      "q": "Tunisia's revolution was popularly called?",
+      "options": [
+        "Jasmine Revolution",
+        "Rose Revolution",
+        "Orange Revolution",
+        "Tulip Revolution"
+      ],
+      "correct": 0,
+      "explanation": "Tunisia's 2010-2011 revolution was called the Jasmine Revolution, named after Tunisia's national flower.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-011",
+      "q": "Who was the Tunisian President overthrown in January 2011?",
+      "options": [
+        "Zine El Abidine Ben Ali",
+        "Habib Bourguiba",
+        "Moncef Marzouki",
+        "Beji Caid Essebsi"
+      ],
+      "correct": 0,
+      "explanation": "President Zine El Abidine Ben Ali, who had ruled Tunisia for 23 years (1987-2011), fled to Saudi Arabia on 14 January 2011.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-012",
+      "q": "Ben Ali fled Tunisia to which country?",
+      "options": [
+        "Saudi Arabia",
+        "France",
+        "Libya",
+        "Egypt"
+      ],
+      "correct": 0,
+      "explanation": "Ben Ali fled to Saudi Arabia on 14 January 2011 where he lived in exile until his death in 2019.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-013",
+      "q": "Hosni Mubarak ruled Egypt for how many years before being overthrown?",
+      "options": [
+        "30 years",
+        "20 years",
+        "40 years",
+        "25 years"
+      ],
+      "correct": 0,
+      "explanation": "Hosni Mubarak ruled Egypt for 30 years (1981-2011), ending with his resignation on 11 February 2011 after 18 days of Tahrir Square protests.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-014",
+      "q": "Egyptian Revolution protests were centered at?",
+      "options": [
+        "Tahrir Square, Cairo",
+        "Pearl Roundabout",
+        "Sidi Bouzid",
+        "Green Square"
+      ],
+      "correct": 0,
+      "explanation": "Tahrir Square in Cairo was the epicenter of Egypt's 2011 revolution, where millions of protesters gathered for 18 days.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-015",
+      "q": "Hosni Mubarak resigned on?",
+      "options": [
+        "11 February 2011",
+        "25 January 2011",
+        "14 January 2011",
+        "17 December 2010"
+      ],
+      "correct": 0,
+      "explanation": "Hosni Mubarak resigned on 11 February 2011 after 18 days of massive protests at Tahrir Square.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-016",
+      "q": "Egypt's first democratically elected president was?",
+      "options": [
+        "Mohamed Morsi",
+        "Abdel Fattah el-Sisi",
+        "Hosni Mubarak",
+        "Anwar Sadat"
+      ],
+      "correct": 0,
+      "explanation": "Mohamed Morsi of the Muslim Brotherhood became Egypt's first democratically elected president in June 2012, ousted by a coup in July 2013.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-017",
+      "q": "Which party did Mohamed Morsi belong to?",
+      "options": [
+        "Muslim Brotherhood",
+        "Wafd Party",
+        "National Democratic Party",
+        "Free Egyptians"
+      ],
+      "correct": 0,
+      "explanation": "Mohamed Morsi represented the Freedom and Justice Party — the political wing of the Muslim Brotherhood — in Egypt.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-018",
+      "q": "Who led the military coup against Morsi in July 2013?",
+      "options": [
+        "Abdel Fattah el-Sisi",
+        "Mohamed Hussein Tantawi",
+        "Ahmed Shafik",
+        "Omar Suleiman"
+      ],
+      "correct": 0,
+      "explanation": "Then-Defense Minister General Abdel Fattah el-Sisi led the military coup against President Mohamed Morsi on 3 July 2013.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-019",
+      "q": "Muammar Gaddafi ruled Libya for how many years?",
+      "options": [
+        "42 years",
+        "30 years",
+        "50 years",
+        "25 years"
+      ],
+      "correct": 0,
+      "explanation": "Muammar Gaddafi ruled Libya for 42 years, from the 1969 coup that overthrew King Idris until his death on 20 October 2011.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-020",
+      "q": "Gaddafi was killed in which city?",
+      "options": [
+        "Sirte",
+        "Tripoli",
+        "Benghazi",
+        "Misrata"
+      ],
+      "correct": 0,
+      "explanation": "Muammar Gaddafi was captured and killed by rebel forces on 20 October 2011 in his hometown of Sirte, Libya.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-021",
+      "q": "Gaddafi was killed on?",
+      "options": [
+        "20 October 2011",
+        "17 February 2011",
+        "11 February 2011",
+        "31 October 2011"
+      ],
+      "correct": 0,
+      "explanation": "Muammar Gaddafi was killed on 20 October 2011 in Sirte, ending his 42-year rule of Libya.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-022",
+      "q": "NATO intervened in Libya under which UN Security Council resolution?",
+      "options": [
+        "Resolution 1973",
+        "Resolution 1267",
+        "Resolution 242",
+        "Resolution 687"
+      ],
+      "correct": 0,
+      "explanation": "UN Security Council Resolution 1973 (17 March 2011) authorized a no-fly zone and military action to protect civilians in Libya.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-023",
+      "q": "Syria's uprising began in which city?",
+      "options": [
+        "Daraa",
+        "Damascus",
+        "Aleppo",
+        "Homs"
+      ],
+      "correct": 0,
+      "explanation": "Syria's uprising began in Daraa in mid-March 2011 after the arrest and torture of schoolchildren who spray-painted anti-government graffiti.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-024",
+      "q": "Bashar al-Assad belongs to which religious sect?",
+      "options": [
+        "Alawite",
+        "Sunni",
+        "Druze",
+        "Ismaili"
+      ],
+      "correct": 0,
+      "explanation": "Bashar al-Assad belongs to the Alawite sect, a minority Shia offshoot (~12% of Syrians), ruling over a Sunni-majority population.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-025",
+      "q": "The Syrian Civil War caused approximately how many deaths?",
+      "options": [
+        "Over 500,000",
+        "100,000",
+        "50,000",
+        "1 million"
+      ],
+      "correct": 0,
+      "explanation": "The Syrian Civil War caused over 500,000 deaths and displaced over 13 million people, with many fleeing as refugees to Turkey, Jordan, Lebanon, and Europe.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-026",
+      "q": "The Yemeni President overthrown during Arab Spring was?",
+      "options": [
+        "Ali Abdullah Saleh",
+        "Abdrabbuh Mansur Hadi",
+        "Ali Nasser Muhammad",
+        "Ibrahim al-Hamdi"
+      ],
+      "correct": 0,
+      "explanation": "Ali Abdullah Saleh, who had ruled Yemen for 33 years, stepped down in February 2012 after Arab Spring protests and an assassination attempt.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-027",
+      "q": "Ali Abdullah Saleh stepped down in?",
+      "options": [
+        "February 2012",
+        "January 2011",
+        "November 2011",
+        "December 2010"
+      ],
+      "correct": 0,
+      "explanation": "Ali Abdullah Saleh formally stepped down on 27 February 2012, handing power to his deputy Abdrabbuh Mansur Hadi.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-028",
+      "q": "Which rebel group captured Yemen's capital Sanaa in 2014?",
+      "options": [
+        "Houthis",
+        "Al-Qaeda",
+        "Taliban",
+        "ISIS"
+      ],
+      "correct": 0,
+      "explanation": "Houthi rebels (Ansar Allah) captured Yemen's capital Sanaa in September 2014, triggering the current phase of the civil war.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-029",
+      "q": "Saudi Arabia-led coalition began military operations in Yemen in?",
+      "options": [
+        "2015",
+        "2011",
+        "2014",
+        "2017"
+      ],
+      "correct": 0,
+      "explanation": "The Saudi-led coalition, Operation Decisive Storm, began airstrikes in Yemen on 26 March 2015 against Houthi rebels.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-030",
+      "q": "The Arab Spring protest site in Bahrain was?",
+      "options": [
+        "Pearl Roundabout",
+        "Tahrir Square",
+        "Green Square",
+        "Sidi Bouzid"
+      ],
+      "correct": 0,
+      "explanation": "Pearl Roundabout in Manama became the epicenter of Bahrain's Arab Spring protests in February 2011. It was later demolished by the government.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-031",
+      "q": "Which GCC-led force intervened in Bahrain in March 2011?",
+      "options": [
+        "Peninsula Shield Force",
+        "NATO",
+        "UN peacekeepers",
+        "Arab League"
+      ],
+      "correct": 0,
+      "explanation": "The GCC's Peninsula Shield Force, led by Saudi Arabia and UAE, entered Bahrain on 14 March 2011 to suppress pro-democracy protests.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-032",
+      "q": "Which country was considered the only successful democratic transition of the Arab Spring?",
+      "options": [
+        "Tunisia",
+        "Egypt",
+        "Libya",
+        "Yemen"
+      ],
+      "correct": 0,
+      "explanation": "Tunisia was widely considered the only Arab Spring country to achieve a successful democratic transition, with peaceful elections and a 2014 constitution. Its democracy has since eroded under President Kais Saied.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-033",
+      "q": "Which social media platforms played a major role in the Arab Spring?",
+      "options": [
+        "Facebook and Twitter",
+        "Instagram and TikTok",
+        "Snapchat and WhatsApp",
+        "LinkedIn and Reddit"
+      ],
+      "correct": 0,
+      "explanation": "Facebook and Twitter were heavily used by Arab Spring activists to organize protests, share videos, and bypass state-controlled media, giving rise to the term 'Facebook Revolution'.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-034",
+      "q": "Which news network extensively covered the Arab Spring uprisings?",
+      "options": [
+        "Al Jazeera",
+        "CNN only",
+        "BBC only",
+        "RT"
+      ],
+      "correct": 0,
+      "explanation": "Al Jazeera, based in Qatar, provided extensive coverage of Arab Spring uprisings, playing a significant role in spreading information across the Arab world.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-035",
+      "q": "The Muslim Brotherhood was founded in which country?",
+      "options": [
+        "Egypt",
+        "Saudi Arabia",
+        "Jordan",
+        "Syria"
+      ],
+      "correct": 0,
+      "explanation": "The Muslim Brotherhood (Ikhwan al-Muslimeen) was founded in Egypt by Hassan al-Banna in 1928. It became a major political force during the Arab Spring.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-036",
+      "q": "Abdel Fattah el-Sisi became Egypt's President in?",
+      "options": [
+        "2014",
+        "2013",
+        "2012",
+        "2015"
+      ],
+      "correct": 0,
+      "explanation": "Abdel Fattah el-Sisi won Egypt's presidential election in May 2014 and took office on 8 June 2014, a year after the coup that ousted Morsi.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-037",
+      "q": "Libya's capital that saw major fighting during Arab Spring was?",
+      "options": [
+        "Tripoli",
+        "Benghazi",
+        "Misrata",
+        "Sirte"
+      ],
+      "correct": 0,
+      "explanation": "Tripoli, Libya's capital, saw major fighting in August-October 2011 as rebel forces advanced and captured Gaddafi's compound at Bab al-Azizia.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-038",
+      "q": "Benghazi became famous in 2011 as the?",
+      "options": [
+        "Libyan rebel stronghold",
+        "Gaddafi's hometown",
+        "Tunisian capital",
+        "Syrian opposition base"
+      ],
+      "correct": 0,
+      "explanation": "Benghazi, Libya's second-largest city, became the stronghold of anti-Gaddafi rebels from February 2011, and later the site of the 2012 US consulate attack.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-039",
+      "q": "The Arab Spring sparked protests in how many Arab countries?",
+      "options": [
+        "Over 15",
+        "5",
+        "50",
+        "8"
+      ],
+      "correct": 0,
+      "explanation": "The Arab Spring sparked protests in over 15 Arab countries including Tunisia, Egypt, Libya, Yemen, Syria, Bahrain, Algeria, Jordan, Morocco, Iraq, Kuwait, Lebanon, Mauritania, Oman, and Sudan.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-040",
+      "q": "The Russian-backed faction in Syria's civil war was?",
+      "options": [
+        "Assad's government",
+        "Free Syrian Army",
+        "ISIS",
+        "Kurdish SDF"
+      ],
+      "correct": 0,
+      "explanation": "Russia backed Bashar al-Assad's government in Syria's civil war, intervening militarily from September 2015 onwards.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-041",
+      "q": "Which terrorist group emerged from the chaos of the Syrian Civil War?",
+      "options": [
+        "ISIS (Islamic State)",
+        "Al-Qaeda",
+        "Taliban",
+        "Boko Haram"
+      ],
+      "correct": 0,
+      "explanation": "ISIS (Islamic State in Iraq and Syria), proclaimed the caliphate in 2014, emerging from the chaos of the Syrian Civil War and post-US Iraq.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-042",
+      "q": "The Libyan National Transitional Council was formed in?",
+      "options": [
+        "2011",
+        "2012",
+        "2010",
+        "2013"
+      ],
+      "correct": 0,
+      "explanation": "The National Transitional Council (NTC) was formed in February 2011 by opposition leaders during the Libyan Civil War.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-043",
+      "q": "Who became the face of Egypt's April 6 Youth Movement?",
+      "options": [
+        "Ahmed Maher",
+        "Wael Ghonim",
+        "Mohammed ElBaradei",
+        "Ayman Nour"
+      ],
+      "correct": 0,
+      "explanation": "Ahmed Maher was co-founder of the April 6 Youth Movement, a major pro-democracy group that organized Egypt's 2011 protests.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-044",
+      "q": "Wael Ghonim was associated with Arab Spring because he?",
+      "options": [
+        "Created 'We are all Khaled Said' Facebook page",
+        "Led Libyan rebels",
+        "Was Tunisian president",
+        "Was Yemeni opposition"
+      ],
+      "correct": 0,
+      "explanation": "Wael Ghonim, a Google executive, anonymously created the 'We are all Khaled Said' Facebook page that mobilized Egyptian protesters in 2011.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-045",
+      "q": "The Arab Spring resulted in the rise of refugees from which country the most?",
+      "options": [
+        "Syria",
+        "Libya",
+        "Egypt",
+        "Tunisia"
+      ],
+      "correct": 0,
+      "explanation": "Syria produced the largest Arab Spring refugee crisis, with over 6 million Syrian refugees and 7 million internally displaced by 2024.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-046",
+      "q": "Which Arab Spring country became a failed state?",
+      "options": [
+        "Libya",
+        "Tunisia",
+        "Egypt",
+        "Morocco"
+      ],
+      "correct": 0,
+      "explanation": "Libya descended into a failed state after Gaddafi's fall, with rival governments, militias, and two civil wars (2011, 2014-2020).",
+      "tags": []
+    },
+    {
+      "id": "arabsp-047",
+      "q": "Syria's main opposition coalition was called?",
+      "options": [
+        "Syrian National Coalition",
+        "National Transitional Council",
+        "Free Libyan Army",
+        "Houthis"
+      ],
+      "correct": 0,
+      "explanation": "The Syrian National Coalition (SNC) formed in November 2012 as the main umbrella opposition group against Bashar al-Assad.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-048",
+      "q": "The Free Syrian Army was established in?",
+      "options": [
+        "July 2011",
+        "March 2011",
+        "December 2010",
+        "August 2012"
+      ],
+      "correct": 0,
+      "explanation": "The Free Syrian Army (FSA) was established on 29 July 2011 by defected Syrian Armed Forces officers to fight against Assad's forces.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-049",
+      "q": "Bashar al-Assad was finally overthrown in?",
+      "options": [
+        "December 2024",
+        "2012",
+        "2016",
+        "2020"
+      ],
+      "correct": 0,
+      "explanation": "Bashar al-Assad was overthrown in December 2024 after a rapid offensive by Hayat Tahrir al-Sham (HTS) rebels captured Damascus. Assad fled to Russia.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-050",
+      "q": "Who replaced Assad as Syria's interim leader in December 2024?",
+      "options": [
+        "Ahmed al-Sharaa (Abu Mohammed al-Julani)",
+        "Abdul Rahman al-Rashed",
+        "Burhan Ghalioun",
+        "Riad Seif"
+      ],
+      "correct": 0,
+      "explanation": "Ahmed al-Sharaa (nom de guerre Abu Mohammed al-Julani), leader of Hayat Tahrir al-Sham, became Syria's interim leader after Assad's fall in December 2024.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-051",
+      "q": "The Algerian protests during Arab Spring primarily demanded?",
+      "options": [
+        "Political reform",
+        "Total regime change",
+        "Nuclear weapons",
+        "Islamic law"
+      ],
+      "correct": 0,
+      "explanation": "Algerian Arab Spring protests (2010-2012) demanded political reform, economic improvement, and ending the state of emergency, but did not overthrow the government.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-052",
+      "q": "Jordan's response to Arab Spring was?",
+      "options": [
+        "Constitutional reforms",
+        "Civil war",
+        "Regime change",
+        "Neutrality"
+      ],
+      "correct": 0,
+      "explanation": "Jordan's King Abdullah II responded with constitutional reforms, government reshuffles, and economic measures to prevent major upheaval.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-053",
+      "q": "Morocco's response to Arab Spring was?",
+      "options": [
+        "Constitutional referendum 2011",
+        "Civil war",
+        "Regime change",
+        "No response"
+      ],
+      "correct": 0,
+      "explanation": "Morocco held a constitutional referendum on 1 July 2011 under King Mohammed VI, granting more powers to parliament while maintaining the monarchy.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-054",
+      "q": "The Gulf Cooperation Council (GCC) response to Arab Spring was?",
+      "options": [
+        "Supported status quo",
+        "Encouraged uprisings",
+        "Remained neutral",
+        "Joined protesters"
+      ],
+      "correct": 0,
+      "explanation": "The GCC (Saudi Arabia, UAE, Kuwait, Qatar, Bahrain, Oman) broadly supported the status quo, intervening militarily in Bahrain and economically in Egypt and Jordan.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-055",
+      "q": "Qatar's role in Arab Spring was notable for?",
+      "options": [
+        "Supporting uprisings via Al Jazeera",
+        "Military intervention",
+        "Financial sanctions",
+        "Remaining neutral"
+      ],
+      "correct": 0,
+      "explanation": "Qatar was one of the few Gulf states that actively supported some Arab Spring uprisings, particularly in Libya and Egypt, largely through Al Jazeera coverage.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-056",
+      "q": "Sudan's Arab Spring-era protests eventually led to the fall of?",
+      "options": [
+        "Omar al-Bashir (2019)",
+        "Jaafar Nimeiry",
+        "Ahmad al-Bashir",
+        "Mahmoud Ahmadinejad"
+      ],
+      "correct": 0,
+      "explanation": "Sudan's Omar al-Bashir, who ruled for 30 years, was overthrown on 11 April 2019 after months of protests — often called a delayed Arab Spring wave.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-057",
+      "q": "The Algeria protests that led to Bouteflika's resignation in 2019 were?",
+      "options": [
+        "Hirak Movement",
+        "Green Movement",
+        "Jasmine Revolution",
+        "Pearl Revolution"
+      ],
+      "correct": 0,
+      "explanation": "Algeria's Hirak Movement began in February 2019 and led to President Abdelaziz Bouteflika's resignation in April 2019 after 20 years in power.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-058",
+      "q": "Which Arab Spring country had a successful power-sharing government after its uprising?",
+      "options": [
+        "Tunisia",
+        "Libya",
+        "Yemen",
+        "Syria"
+      ],
+      "correct": 0,
+      "explanation": "Tunisia formed a power-sharing government between the Islamist Ennahda party and secular parties after its 2011 revolution — the only such successful outcome.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-059",
+      "q": "Which Egyptian opposition figure won the 2005 Nobel Peace Prize?",
+      "options": [
+        "Mohamed ElBaradei",
+        "Mohamed Morsi",
+        "Ayman Nour",
+        "Amr Moussa"
+      ],
+      "correct": 0,
+      "explanation": "Mohamed ElBaradei, former IAEA Director General, won the 2005 Nobel Peace Prize and became a prominent Egyptian opposition figure during the Arab Spring.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-060",
+      "q": "Which Arab Spring phrase became internationally famous?",
+      "options": [
+        "The people want the fall of the regime",
+        "We are the 99%",
+        "Hands up, don't shoot",
+        "Hope and change"
+      ],
+      "correct": 0,
+      "explanation": "'The people want the fall of the regime' (Ash-sha'b yurid isqat an-nizam) was the iconic slogan chanted across Arab Spring protests in multiple countries.",
+      "tags": []
+    },
+    {
+      "id": "arabsp-061",
+      "q": "The 2019 Sudanese revolution ended which dictator's rule?",
+      "options": [
+        "Omar al-Bashir",
+        "Jaafar Nimeiry",
+        "Ibrahim Abboud",
+        "Abdel Fattah al-Burhan"
+      ],
+      "correct": 0,
+      "explanation": "Omar al-Bashir's 30-year rule of Sudan (1989-2019) ended on 11 April 2019 following mass protests, often seen as part of the Arab Spring's second wave.",
+      "tags": []
+    }
+  ]
+}

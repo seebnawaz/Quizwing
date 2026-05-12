@@ -1,0 +1,544 @@
+{
+  "topic_id": "palestine-israel-issue",
+  "topic_name": "Palestine Israel Issue",
+  "subject": "current-affairs",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Palestine Israel Issue MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🇵🇸",
+  "mcqs": [
+    {
+      "id": "palest-001",
+      "q": "Hamas, the armed Palestinian group, initiated 'Operation Al-Aqsa Flood' on:",
+      "options": [
+        "5 October 2023",
+        "6 October 2023",
+        "7 October 2023",
+        "8 October 2023"
+      ],
+      "correct": 2,
+      "explanation": "Hamas and allied Palestinian groups launched Operation Al-Aqsa Flood against Israel on 7 October 2023.",
+      "tags": []
+    },
+    {
+      "id": "palest-002",
+      "q": "Israel launched 'Operation Iron Swords' on:",
+      "options": [
+        "6 October 2023",
+        "7 October 2023",
+        "8 October 2023",
+        "9 October 2023"
+      ],
+      "correct": 2,
+      "explanation": "Israel launched Operation Iron Swords (Iron Sword) on 8 October 2023, the day after the Hamas attack.",
+      "tags": []
+    },
+    {
+      "id": "palest-003",
+      "q": "Israel's Security Cabinet formally declared war for the first time since the Yom Kippur War of:",
+      "options": [
+        "1972",
+        "1967",
+        "1973",
+        "1976"
+      ],
+      "correct": 2,
+      "explanation": "The 8 October 2023 declaration was the first formal war declaration by Israel's Security Cabinet since the Yom Kippur War of 1973.",
+      "tags": []
+    },
+    {
+      "id": "palest-004",
+      "q": "Al-Ibrahimi Mosque, which was closed by Israeli troops, is located in the city of:",
+      "options": [
+        "Al-Khalil (Hebron)",
+        "Gaza",
+        "West Bank",
+        "Jenin"
+      ],
+      "correct": 0,
+      "explanation": "The Al-Ibrahimi (Ibrahimi) Mosque is located in Al-Khalil (Hebron) in the occupied West Bank.",
+      "tags": []
+    },
+    {
+      "id": "palest-005",
+      "q": "Which country has developed a laser-based aerial defence system?",
+      "options": [
+        "Iran",
+        "North Korea",
+        "Israel",
+        "Türkiye"
+      ],
+      "correct": 2,
+      "explanation": "Israel has developed a laser-based aerial defence system named 'Iron Beam'.",
+      "tags": []
+    },
+    {
+      "id": "palest-006",
+      "q": "Which two countries called for an urgent UN Security Council meeting after Israeli minister Ben Gvir's visit to Al-Aqsa?",
+      "options": [
+        "Türkiye and China",
+        "China and Saudi Arabia",
+        "China and UAE",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "China and the UAE jointly requested an urgent UNSC meeting after Itamar Ben-Gvir's controversial visit to the Al-Aqsa compound.",
+      "tags": []
+    },
+    {
+      "id": "palest-007",
+      "q": "What codename has Israel given to its ongoing fight against Hamas?",
+      "options": [
+        "Operation Gaza",
+        "Operation Iron Man",
+        "Operation Iron Sword",
+        "Operation Attack"
+      ],
+      "correct": 2,
+      "explanation": "Israel's military named the operation 'Iron Swords' (sometimes Iron Sword).",
+      "tags": []
+    },
+    {
+      "id": "palest-008",
+      "q": "The Gaza Strip is an area between:",
+      "options": [
+        "Israel, Egypt and the Mediterranean Sea",
+        "Israel, Egypt and the Red Sea",
+        "Israel, Lebanon and the Mediterranean Sea",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The Gaza Strip is bordered by Israel, Egypt and the Mediterranean Sea — 41 km long and 10 km wide.",
+      "tags": []
+    },
+    {
+      "id": "palest-009",
+      "q": "Roughly how much area of Gaza came under Israeli military control during the war?",
+      "options": [
+        "35%",
+        "45%",
+        "65%",
+        "75%"
+      ],
+      "correct": 3,
+      "explanation": "By late 2023, Israeli ground forces had operational control over roughly 75% of the Gaza Strip.",
+      "tags": []
+    },
+    {
+      "id": "palest-010",
+      "q": "The 7 October 2023 surprise attack on Israel killed _____ Israelis and foreign nationals (including 815 civilians).",
+      "options": [
+        "1,195",
+        "2,195",
+        "3,195",
+        "4,195"
+      ],
+      "correct": 0,
+      "explanation": "Approximately 1,195 Israelis and foreign nationals were killed in the 7 October 2023 attack.",
+      "tags": []
+    },
+    {
+      "id": "palest-011",
+      "q": "Since the start of the Israeli offensive in Gaza, over _____ Palestinians have been killed (per available reporting).",
+      "options": [
+        "65,000",
+        "75,000",
+        "85,000",
+        "95,000"
+      ],
+      "correct": 0,
+      "explanation": "Reports indicate over 65,000 Palestinians killed in Gaza since the start of the Israeli offensive.",
+      "tags": []
+    },
+    {
+      "id": "palest-012",
+      "q": "Deir el-Balah, recently in the news, is located in:",
+      "options": [
+        "West Bank",
+        "Gaza Strip",
+        "Jordan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Deir el-Balah is a city in the central Gaza Strip.",
+      "tags": []
+    },
+    {
+      "id": "palest-013",
+      "q": "Nuseirat refugee camp is located in:",
+      "options": [
+        "West Bank",
+        "Gaza Strip",
+        "Jordan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Nuseirat is a Palestinian refugee camp in the central Gaza Strip.",
+      "tags": []
+    },
+    {
+      "id": "palest-014",
+      "q": "El-Remal area, recently in the news, is located in:",
+      "options": [
+        "West Bank",
+        "Gaza City",
+        "Jordan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "El-Remal (Rimal) is an upscale neighbourhood in Gaza City.",
+      "tags": []
+    },
+    {
+      "id": "palest-015",
+      "q": "Who called Gaza 'the city of evil' and urged its residents to leave the city?",
+      "options": [
+        "Hamas",
+        "Ben Gurion",
+        "Yoav Gallant",
+        "Benjamin Netanyahu"
+      ],
+      "correct": 3,
+      "explanation": "Israeli PM Benjamin Netanyahu called Gaza 'the city of evil' early in the war and urged its residents to leave.",
+      "tags": []
+    },
+    {
+      "id": "palest-016",
+      "q": "Al-Ahli Arabi Baptist Hospital, recently in the news, is located in:",
+      "options": [
+        "West Bank",
+        "Gaza City",
+        "Jordan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "The Al-Ahli Arabi Baptist Hospital is in Gaza City.",
+      "tags": []
+    },
+    {
+      "id": "palest-017",
+      "q": "Jabalia refugee camp, recently in the news, is located in:",
+      "options": [
+        "West Bank",
+        "Gaza Strip",
+        "Jordan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Jabalia is the largest refugee camp in the Gaza Strip, in the north.",
+      "tags": []
+    },
+    {
+      "id": "palest-018",
+      "q": "A 13-year-old Israeli hostage was released by Hamas during the first ceasefire on:",
+      "options": [
+        "21 November 2023",
+        "23 November 2023",
+        "24 November 2023",
+        "26 November 2023"
+      ],
+      "correct": 3,
+      "explanation": "The 13-year-old Israeli hostage was released by Hamas on 26 November 2023 during the first Qatari-brokered truce.",
+      "tags": []
+    },
+    {
+      "id": "palest-019",
+      "q": "Following the introduction of a Qatari-brokered truce on _____, active fighting in the Gaza Strip ceased temporarily.",
+      "options": [
+        "22 November 2023",
+        "23 November 2023",
+        "24 November 2023",
+        "25 November 2023"
+      ],
+      "correct": 2,
+      "explanation": "The first Qatari-brokered truce began on 24 November 2023.",
+      "tags": []
+    },
+    {
+      "id": "palest-020",
+      "q": "On 30 November 2023, Hamas released eight hostages in exchange for the release of how many imprisoned Palestinians and a one-day truce extension?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "correct": 2,
+      "explanation": "Hamas released 8 hostages in exchange for 30 imprisoned Palestinians and a one-day truce extension on 30 November 2023.",
+      "tags": []
+    },
+    {
+      "id": "palest-021",
+      "q": "On which date was Refaat Alareer, a prominent professor and writer in Gaza, killed by an Israeli airstrike?",
+      "options": [
+        "1 December 2023",
+        "3 December 2023",
+        "6 December 2023",
+        "8 December 2023"
+      ],
+      "correct": 2,
+      "explanation": "Refaat Alareer — author of the viral poem 'If I Must Die' — was killed in an Israeli airstrike on 6 December 2023.",
+      "tags": []
+    },
+    {
+      "id": "palest-022",
+      "q": "The UN Partition Plan for Palestine — UN Resolution 181 — was passed on:",
+      "options": [
+        "29 November 1947",
+        "14 May 1948",
+        "6 June 1967",
+        "6 October 1973"
+      ],
+      "correct": 0,
+      "explanation": "The UN General Assembly passed Resolution 181 (Partition Plan for Palestine) on 29 November 1947.",
+      "tags": []
+    },
+    {
+      "id": "palest-023",
+      "q": "The State of Israel was officially founded on:",
+      "options": [
+        "29 November 1947",
+        "14 May 1948",
+        "5 June 1967",
+        "6 October 1973"
+      ],
+      "correct": 1,
+      "explanation": "David Ben-Gurion declared the establishment of the State of Israel on 14 May 1948.",
+      "tags": []
+    },
+    {
+      "id": "palest-024",
+      "q": "The Six-Day War between Israel and Arab states was fought in:",
+      "options": [
+        "1948",
+        "1956",
+        "1967",
+        "1973"
+      ],
+      "correct": 2,
+      "explanation": "The Six-Day War was fought in June 1967 between Israel and Egypt, Syria and Jordan.",
+      "tags": []
+    },
+    {
+      "id": "palest-025",
+      "q": "Hamas, the Palestinian Islamist movement, was founded in:",
+      "options": [
+        "1964",
+        "1987",
+        "1993",
+        "2006"
+      ],
+      "correct": 1,
+      "explanation": "Hamas was founded in December 1987 by Sheikh Ahmed Yassin during the First Intifada.",
+      "tags": []
+    },
+    {
+      "id": "palest-026",
+      "q": "The Palestine Liberation Organization (PLO) was founded in:",
+      "options": [
+        "1948",
+        "1964",
+        "1974",
+        "1987"
+      ],
+      "correct": 1,
+      "explanation": "The PLO was founded in 1964; Yasser Arafat became its long-time chairman.",
+      "tags": []
+    },
+    {
+      "id": "palest-027",
+      "q": "The Oslo Accords between Israel and the PLO were first signed in:",
+      "options": [
+        "1978",
+        "1987",
+        "1993",
+        "2000"
+      ],
+      "correct": 2,
+      "explanation": "The first Oslo Accord was signed on 13 September 1993 by Yasser Arafat and Yitzhak Rabin in Washington.",
+      "tags": []
+    },
+    {
+      "id": "palest-028",
+      "q": "The Abraham Accords — under which the UAE and Bahrain normalised relations with Israel — were signed in:",
+      "options": [
+        "2018",
+        "2019",
+        "2020",
+        "2022"
+      ],
+      "correct": 2,
+      "explanation": "The Abraham Accords were signed in September 2020, brokered by the first Trump administration.",
+      "tags": []
+    },
+    {
+      "id": "palest-029",
+      "q": "The Israeli Prime Minister leading Operation Iron Swords is:",
+      "options": [
+        "Naftali Bennett",
+        "Benjamin Netanyahu",
+        "Yair Lapid",
+        "Ehud Olmert"
+      ],
+      "correct": 1,
+      "explanation": "Benjamin Netanyahu (Likud) is the Israeli Prime Minister who leads the war in Gaza.",
+      "tags": []
+    },
+    {
+      "id": "palest-030",
+      "q": "Hamas's political leader, killed in Tehran on 31 July 2024, was:",
+      "options": [
+        "Yahya Sinwar",
+        "Khaled Meshaal",
+        "Ismail Haniyeh",
+        "Mahmoud al-Zahar"
+      ],
+      "correct": 2,
+      "explanation": "Hamas political bureau chief Ismail Haniyeh was killed in Tehran on 31 July 2024.",
+      "tags": []
+    },
+    {
+      "id": "palest-031",
+      "q": "The Hamas Gaza leader killed by Israeli forces in October 2024 was:",
+      "options": [
+        "Mohammed Deif",
+        "Yahya Sinwar",
+        "Khaled Meshaal",
+        "Mahmoud al-Zahar"
+      ],
+      "correct": 1,
+      "explanation": "Yahya Sinwar — Hamas's Gaza leader and architect of Operation Al-Aqsa Flood — was killed in Rafah on 16 October 2024.",
+      "tags": []
+    },
+    {
+      "id": "palest-032",
+      "q": "The long-time Hezbollah Secretary General killed in an Israeli strike in September 2024 was:",
+      "options": [
+        "Hassan Nasrallah",
+        "Naim Qassem",
+        "Imad Mughniyeh",
+        "Fadlallah"
+      ],
+      "correct": 0,
+      "explanation": "Hezbollah Secretary General Hassan Nasrallah was killed in an Israeli airstrike in Beirut on 27 September 2024.",
+      "tags": []
+    },
+    {
+      "id": "palest-033",
+      "q": "Israel's main external intelligence agency is:",
+      "options": [
+        "Shin Bet",
+        "Mossad",
+        "Aman",
+        "IDF Unit 8200"
+      ],
+      "correct": 1,
+      "explanation": "Mossad is Israel's main external intelligence agency. Shin Bet handles internal security.",
+      "tags": []
+    },
+    {
+      "id": "palest-034",
+      "q": "The full name of the Israeli military force is:",
+      "options": [
+        "Israeli Armed Forces (IAF)",
+        "Israel Defense Forces (IDF)",
+        "Israeli Military Service (IMS)",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Israel's military is officially called the Israel Defense Forces (IDF).",
+      "tags": []
+    },
+    {
+      "id": "palest-035",
+      "q": "The Al-Aqsa Mosque is located in:",
+      "options": [
+        "Hebron",
+        "Bethlehem",
+        "Old City of Jerusalem",
+        "Ramallah"
+      ],
+      "correct": 2,
+      "explanation": "The Al-Aqsa Mosque is located in the Old City of Jerusalem on the Haram al-Sharif (Temple Mount).",
+      "tags": []
+    },
+    {
+      "id": "palest-036",
+      "q": "The Dome of the Rock is located in:",
+      "options": [
+        "Hebron",
+        "Old City of Jerusalem",
+        "Nazareth",
+        "Tel Aviv"
+      ],
+      "correct": 1,
+      "explanation": "The Dome of the Rock — the gold-domed shrine — sits on the Haram al-Sharif in the Old City of Jerusalem.",
+      "tags": []
+    },
+    {
+      "id": "palest-037",
+      "q": "Sheikh Jarrah, a frequently disputed neighbourhood, is located in:",
+      "options": [
+        "West Bank",
+        "Gaza Strip",
+        "East Jerusalem",
+        "Tel Aviv"
+      ],
+      "correct": 2,
+      "explanation": "Sheikh Jarrah is a Palestinian neighbourhood in East Jerusalem at the centre of evictions and clashes.",
+      "tags": []
+    },
+    {
+      "id": "palest-038",
+      "q": "The international border crossing between Gaza and Egypt is the:",
+      "options": [
+        "Erez crossing",
+        "Rafah crossing",
+        "Kerem Shalom crossing",
+        "Allenby crossing"
+      ],
+      "correct": 1,
+      "explanation": "The Rafah crossing connects Gaza to Egypt's Sinai. Erez connects Gaza to Israel for personnel; Kerem Shalom is for goods.",
+      "tags": []
+    },
+    {
+      "id": "palest-039",
+      "q": "Which country filed a genocide case against Israel at the ICJ on 29 December 2023?",
+      "options": [
+        "Algeria",
+        "South Africa",
+        "Türkiye",
+        "Pakistan"
+      ],
+      "correct": 1,
+      "explanation": "South Africa filed the genocide case against Israel at the International Court of Justice on 29 December 2023.",
+      "tags": []
+    },
+    {
+      "id": "palest-040",
+      "q": "In November 2024, the ICC issued arrest warrants for which Israeli leaders?",
+      "options": [
+        "Netanyahu and Gallant",
+        "Netanyahu and Lapid",
+        "Olmert and Barak",
+        "Sharon and Peres"
+      ],
+      "correct": 0,
+      "explanation": "On 21 November 2024, the ICC issued arrest warrants for PM Benjamin Netanyahu and former Defence Minister Yoav Gallant.",
+      "tags": []
+    },
+    {
+      "id": "palest-041",
+      "q": "The Hamas–Israel ceasefire that took effect on 19 January 2025 was brokered primarily by:",
+      "options": [
+        "UN, EU and Russia",
+        "Qatar, Egypt and the United States",
+        "Saudi Arabia and Türkiye",
+        "UK and France"
+      ],
+      "correct": 1,
+      "explanation": "The 19 January 2025 Gaza ceasefire was brokered primarily by Qatar, Egypt and the United States.",
+      "tags": []
+    }
+  ]
+}

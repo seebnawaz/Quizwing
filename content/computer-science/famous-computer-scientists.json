@@ -1,0 +1,726 @@
+{
+  "topic_id": "famous-computer-scientists",
+  "topic_name": "Famous Computer Scientists",
+  "subject": "computer-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Famous Computer Scientists MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "👨‍💻",
+  "mcqs": [
+    {
+      "id": "famous-001",
+      "q": "Who is known as the Father of Computers?",
+      "options": [
+        "Alan Turing",
+        "Charles Babbage",
+        "John von Neumann",
+        "Bill Gates"
+      ],
+      "correct": 1,
+      "explanation": "Charles Babbage is known as the Father of Computers. He designed the Analytical Engine in the 1830s — the first general-purpose mechanical computer.",
+      "tags": []
+    },
+    {
+      "id": "famous-002",
+      "q": "Charles Babbage is famous for designing which machine?",
+      "options": [
+        "The Difference Engine and Analytical Engine",
+        "The Turing Machine",
+        "ENIAC",
+        "UNIVAC"
+      ],
+      "correct": 0,
+      "explanation": "Charles Babbage is famous for designing the Difference Engine and the Analytical Engine — the latter is considered the first general-purpose mechanical computer.",
+      "tags": []
+    },
+    {
+      "id": "famous-003",
+      "q": "Who is widely considered the world's first computer programmer?",
+      "options": [
+        "Grace Hopper",
+        "Ada Lovelace",
+        "Marie Curie",
+        "Hedy Lamarr"
+      ],
+      "correct": 1,
+      "explanation": "Ada Lovelace is widely considered the world's first computer programmer — she wrote an algorithm for Babbage's Analytical Engine.",
+      "tags": []
+    },
+    {
+      "id": "famous-004",
+      "q": "Who proposed the concept of the Turing Machine and is considered a father of theoretical computer science?",
+      "options": [
+        "Alan Turing",
+        "Claude Shannon",
+        "John von Neumann",
+        "Charles Babbage"
+      ],
+      "correct": 0,
+      "explanation": "Alan Turing proposed the Turing Machine and is considered a father of theoretical computer science. He also helped break the Enigma code in WWII.",
+      "tags": []
+    },
+    {
+      "id": "famous-005",
+      "q": "Who is famous for the von Neumann architecture (stored-program computer)?",
+      "options": [
+        "John von Neumann",
+        "Alan Turing",
+        "Claude Shannon",
+        "Charles Babbage"
+      ],
+      "correct": 0,
+      "explanation": "John von Neumann is famous for the von Neumann architecture — the stored-program computer design used by virtually all modern computers.",
+      "tags": []
+    },
+    {
+      "id": "famous-006",
+      "q": "Who is known as the Father of Information Theory?",
+      "options": [
+        "Claude Shannon",
+        "Tim Berners-Lee",
+        "Alan Turing",
+        "Vinton Cerf"
+      ],
+      "correct": 0,
+      "explanation": "Claude Shannon is known as the Father of Information Theory — his 1948 paper laid the foundation of digital communication.",
+      "tags": []
+    },
+    {
+      "id": "famous-007",
+      "q": "Who coined the term 'Artificial Intelligence' and created LISP?",
+      "options": [
+        "Edward Feigenbaum",
+        "John McCarthy",
+        "Marvin Minsky",
+        "Donald Knuth"
+      ],
+      "correct": 1,
+      "explanation": "John McCarthy coined the term 'Artificial Intelligence' in 1956 at the Dartmouth Conference and created LISP — a key AI programming language.",
+      "tags": []
+    },
+    {
+      "id": "famous-008",
+      "q": "Which scientist is famous for the DENDRAL project and expert systems in AI?",
+      "options": [
+        "Edward A. Feigenbaum",
+        "Judea Pearl",
+        "Raj Reddy",
+        "Cynthia Solomon"
+      ],
+      "correct": 0,
+      "explanation": "Edward A. Feigenbaum is famous for the DENDRAL project and pioneering work on expert systems in AI.",
+      "tags": []
+    },
+    {
+      "id": "famous-009",
+      "q": "Who is famous for Bayesian Networks and causal reasoning in AI?",
+      "options": [
+        "Judea Pearl",
+        "Edward Feigenbaum",
+        "Raj Reddy",
+        "Donald Knuth"
+      ],
+      "correct": 0,
+      "explanation": "Judea Pearl is famous for probability theory, causal reasoning and Bayesian Networks — foundations of modern AI.",
+      "tags": []
+    },
+    {
+      "id": "famous-010",
+      "q": "Which scientist is famous for speech recognition research in AI?",
+      "options": [
+        "Raj Reddy (Dabbala B. Reddy)",
+        "Edward Feigenbaum",
+        "Tim Berners-Lee",
+        "Linus Torvalds"
+      ],
+      "correct": 0,
+      "explanation": "Dabbala B. ('Raj') Reddy is famous for artificial intelligence and speech recognition research.",
+      "tags": []
+    },
+    {
+      "id": "famous-011",
+      "q": "Who invented the World Wide Web (WWW) and the first web browser?",
+      "options": [
+        "Vinton Cerf",
+        "Tim Berners-Lee",
+        "Linus Torvalds",
+        "Bill Gates"
+      ],
+      "correct": 1,
+      "explanation": "Tim Berners-Lee invented the World Wide Web in 1989 along with the first web browser, HTML and HTTP.",
+      "tags": []
+    },
+    {
+      "id": "famous-012",
+      "q": "Tim Berners-Lee is associated with which of the following?",
+      "options": [
+        "TCP/IP",
+        "World Wide Web, HTTP, network design",
+        "Linux kernel",
+        "Quantum computing"
+      ],
+      "correct": 1,
+      "explanation": "Tim Berners-Lee is associated with network design, the World Wide Web (WWW) and HTTP.",
+      "tags": []
+    },
+    {
+      "id": "famous-013",
+      "q": "Who jointly developed the TCP/IP protocol — the foundation of the modern Internet?",
+      "options": [
+        "Tim Berners-Lee &amp; Bill Gates",
+        "Vinton Cerf &amp; Robert Kahn",
+        "Steve Jobs &amp; Bill Gates",
+        "Dennis Ritchie &amp; Ken Thompson"
+      ],
+      "correct": 1,
+      "explanation": "Vinton G. Cerf and Robert E. Kahn jointly developed the TCP/IP protocol — they are sometimes called the 'fathers of the Internet'.",
+      "tags": []
+    },
+    {
+      "id": "famous-014",
+      "q": "Vinton G. Cerf is most famous for:",
+      "options": [
+        "The Linux kernel",
+        "Network design and TCP/IP",
+        "The Java language",
+        "Quantum cryptography"
+      ],
+      "correct": 1,
+      "explanation": "Vinton G. Cerf is most famous for network design and co-inventing TCP/IP.",
+      "tags": []
+    },
+    {
+      "id": "famous-015",
+      "q": "Robert E. Kahn is most famous for:",
+      "options": [
+        "TCP/IP (with Vinton Cerf)",
+        "WWW",
+        "Pascal",
+        "Python"
+      ],
+      "correct": 0,
+      "explanation": "Robert E. Kahn is most famous for co-developing the TCP/IP protocol along with Vinton Cerf.",
+      "tags": []
+    },
+    {
+      "id": "famous-016",
+      "q": "Radia J. Perlman is famous for:",
+      "options": [
+        "WWW",
+        "Network design including the Spanning Tree Protocol (STP)",
+        "Linux kernel",
+        "Pascal"
+      ],
+      "correct": 1,
+      "explanation": "Radia J. Perlman is famous for network design — particularly the Spanning Tree Protocol (STP) and TORTIS.",
+      "tags": []
+    },
+    {
+      "id": "famous-017",
+      "q": "Butler W. Lampson contributed to which of the following?",
+      "options": [
+        "RAID storage",
+        "Time-sharing systems, SDS 940 and Alto",
+        "Quicksort",
+        "RSA"
+      ],
+      "correct": 1,
+      "explanation": "Butler W. Lampson contributed to network design, time-sharing systems, the SDS 940 and the Xerox Alto.",
+      "tags": []
+    },
+    {
+      "id": "famous-018",
+      "q": "Who created the C programming language and was a co-creator of UNIX?",
+      "options": [
+        "Ken Thompson",
+        "Dennis Ritchie",
+        "Bjarne Stroustrup",
+        "James Gosling"
+      ],
+      "correct": 1,
+      "explanation": "Dennis Ritchie created the C programming language and was a co-creator of UNIX (along with Ken Thompson) at AT&amp;T Bell Labs.",
+      "tags": []
+    },
+    {
+      "id": "famous-019",
+      "q": "Kenneth L. Thompson is famous for:",
+      "options": [
+        "The C language",
+        "The B programming language and UNIX (with Dennis Ritchie)",
+        "Python",
+        "Linux"
+      ],
+      "correct": 1,
+      "explanation": "Kenneth L. Thompson is famous for the B programming language and for co-creating UNIX along with Dennis Ritchie.",
+      "tags": []
+    },
+    {
+      "id": "famous-020",
+      "q": "Who designed the Pascal programming language?",
+      "options": [
+        "Niklaus Wirth",
+        "Bjarne Stroustrup",
+        "Linus Torvalds",
+        "Anders Hejlsberg"
+      ],
+      "correct": 0,
+      "explanation": "Niklaus E. Wirth designed Pascal — to teach structured programming without GOTO statements.",
+      "tags": []
+    },
+    {
+      "id": "famous-021",
+      "q": "Who developed the C++ programming language?",
+      "options": [
+        "Bjarne Stroustrup",
+        "Dennis Ritchie",
+        "James Gosling",
+        "Anders Hejlsberg"
+      ],
+      "correct": 0,
+      "explanation": "Bjarne Stroustrup developed C++ at AT&amp;T in the mid-1980s — extending C with object-oriented features.",
+      "tags": []
+    },
+    {
+      "id": "famous-022",
+      "q": "Who designed the Java programming language?",
+      "options": [
+        "James A. Gosling",
+        "Bjarne Stroustrup",
+        "Guido van Rossum",
+        "Anders Hejlsberg"
+      ],
+      "correct": 0,
+      "explanation": "James A. Gosling is famous for designing the Java programming language at Sun Microsystems in the early 1990s.",
+      "tags": []
+    },
+    {
+      "id": "famous-023",
+      "q": "Who developed the Python programming language?",
+      "options": [
+        "Guido van Rossum",
+        "Linus Torvalds",
+        "Bjarne Stroustrup",
+        "Donald Knuth"
+      ],
+      "correct": 0,
+      "explanation": "Guido van Rossum (Netherlands) developed Python and released it in 1991.",
+      "tags": []
+    },
+    {
+      "id": "famous-024",
+      "q": "Anders Hejlsberg developed which programming language at Microsoft?",
+      "options": [
+        "Java",
+        "Python",
+        "C#",
+        "Pascal"
+      ],
+      "correct": 2,
+      "explanation": "Anders Hejlsberg developed C# (C Sharp) at Microsoft in 2000.",
+      "tags": []
+    },
+    {
+      "id": "famous-025",
+      "q": "Who created the Linux operating system?",
+      "options": [
+        "Linus B. Torvalds",
+        "Ken Thompson",
+        "Dennis Ritchie",
+        "Tim Berners-Lee"
+      ],
+      "correct": 0,
+      "explanation": "Linus B. Torvalds created the Linux operating system in 1991 — now the most widely used open-source OS.",
+      "tags": []
+    },
+    {
+      "id": "famous-026",
+      "q": "C. Antony (Tony) Hoare is famous for:",
+      "options": [
+        "RSA cryptography",
+        "ALGOL-W, Quicksort, CSP and Hoare Logic",
+        "Python",
+        "Linux"
+      ],
+      "correct": 1,
+      "explanation": "C. Antony Hoare is famous for ALGOL-W, the Quicksort algorithm, CSP (Communicating Sequential Processes) and Hoare Logic.",
+      "tags": []
+    },
+    {
+      "id": "famous-027",
+      "q": "Alan Kay is famous for which of the following?",
+      "options": [
+        "Object-oriented languages, mobile computing and the windowing GUI",
+        "RSA",
+        "Linux",
+        "Bayesian Networks"
+      ],
+      "correct": 0,
+      "explanation": "Alan Kay is famous for object-oriented programming languages, mobile computing and the windowing GUI (Smalltalk).",
+      "tags": []
+    },
+    {
+      "id": "famous-028",
+      "q": "Barbara Liskov is famous for which programming-languages concept?",
+      "options": [
+        "Quicksort",
+        "CLU language and the Liskov Substitution Principle",
+        "Java generics",
+        "RAID"
+      ],
+      "correct": 1,
+      "explanation": "Barbara Liskov is famous for the CLU and Argus languages and the Liskov Substitution Principle (LSP) in OOP.",
+      "tags": []
+    },
+    {
+      "id": "famous-029",
+      "q": "Frederick P. Brooks Jr. is famous for which operating system?",
+      "options": [
+        "UNIX",
+        "Linux",
+        "OS/360",
+        "Windows"
+      ],
+      "correct": 2,
+      "explanation": "Frederick P. Brooks Jr. is famous for managing the development of IBM's OS/360 and the book 'The Mythical Man-Month'.",
+      "tags": []
+    },
+    {
+      "id": "famous-030",
+      "q": "Fernando J. Corbató is famous for:",
+      "options": [
+        "Time-sharing systems",
+        "Linux",
+        "Java",
+        "TCP/IP"
+      ],
+      "correct": 0,
+      "explanation": "Fernando J. Corbató is famous for operating systems and time-sharing systems.",
+      "tags": []
+    },
+    {
+      "id": "famous-031",
+      "q": "Who is famous for the Logo programming language for education?",
+      "options": [
+        "Cynthia Solomon",
+        "Donald Knuth",
+        "Niklaus Wirth",
+        "Anders Hejlsberg"
+      ],
+      "correct": 0,
+      "explanation": "Cynthia Solomon is famous for AI, programming languages and (along with Seymour Papert) the Logo programming language for education.",
+      "tags": []
+    },
+    {
+      "id": "famous-032",
+      "q": "Who wrote 'The Art of Computer Programming'?",
+      "options": [
+        "Donald E. Knuth",
+        "C.A.R. Hoare",
+        "Edsger Dijkstra",
+        "Linus Torvalds"
+      ],
+      "correct": 0,
+      "explanation": "Donald E. Knuth wrote 'The Art of Computer Programming' — the seminal multi-volume work on algorithms.",
+      "tags": []
+    },
+    {
+      "id": "famous-033",
+      "q": "Who is famous for the Hopcroft-Karp algorithm and formal languages/automata?",
+      "options": [
+        "John E. Hopcroft",
+        "Stephen Cook",
+        "Robert Tarjan",
+        "Leslie Lamport"
+      ],
+      "correct": 0,
+      "explanation": "John E. Hopcroft is famous for algorithms, formal languages and automata — including the Hopcroft-Karp algorithm and contributions to neural networks.",
+      "tags": []
+    },
+    {
+      "id": "famous-034",
+      "q": "Richard M. Karp is famous for:",
+      "options": [
+        "Computational complexity, Edmonds-Karp and Hopcroft-Karp algorithms",
+        "Pascal",
+        "Linux",
+        "TCP/IP"
+      ],
+      "correct": 0,
+      "explanation": "Richard M. Karp is famous for computational complexity theory, the Edmonds-Karp and Hopcroft-Karp algorithms, and bioinformatics.",
+      "tags": []
+    },
+    {
+      "id": "famous-035",
+      "q": "Stephen A. Cook is famous for:",
+      "options": [
+        "Computational complexity theory and proof complexity",
+        "Linux kernel",
+        "WWW",
+        "Pascal"
+      ],
+      "correct": 0,
+      "explanation": "Stephen A. Cook is famous for math/logic, computational complexity theory and proof complexity (the Cook-Levin theorem on NP-completeness).",
+      "tags": []
+    },
+    {
+      "id": "famous-036",
+      "q": "Robert E. Tarjan is famous for:",
+      "options": [
+        "Splay Trees, Fibonacci Heaps and Tarjan's algorithms",
+        "Pascal",
+        "Java",
+        "TCP/IP"
+      ],
+      "correct": 0,
+      "explanation": "Robert E. Tarjan is famous for Splay Trees, Fibonacci Heaps and Tarjan's algorithms (off-line lowest common ancestors etc.).",
+      "tags": []
+    },
+    {
+      "id": "famous-037",
+      "q": "Who is famous for distributed systems theory, logical clocks and LaTeX?",
+      "options": [
+        "Leslie Lamport",
+        "Donald Knuth",
+        "Robert Tarjan",
+        "Linus Torvalds"
+      ],
+      "correct": 0,
+      "explanation": "Leslie Lamport is famous for the theory of distributed systems, logical clocks, the Chandy-Lamport algorithm and LaTeX.",
+      "tags": []
+    },
+    {
+      "id": "famous-038",
+      "q": "Manuel Blum is famous for which web-security innovation?",
+      "options": [
+        "RSA",
+        "CAPTCHA",
+        "HTTP",
+        "SSL"
+      ],
+      "correct": 1,
+      "explanation": "Manuel Blum is famous for computational complexity theory, Blum-Goldwasser cryptography and CAPTCHA.",
+      "tags": []
+    },
+    {
+      "id": "famous-039",
+      "q": "David A. Patterson is famous for:",
+      "options": [
+        "RISC microprocessor and RAID storage",
+        "Quicksort",
+        "Pascal",
+        "Java"
+      ],
+      "correct": 0,
+      "explanation": "David A. Patterson is famous for the RISC microprocessor architecture and the RAID storage system.",
+      "tags": []
+    },
+    {
+      "id": "famous-040",
+      "q": "John L. Hennessy contributed to which of the following?",
+      "options": [
+        "RISC and FLASH multiprocessor",
+        "Pascal",
+        "Linux kernel",
+        "WWW"
+      ],
+      "correct": 0,
+      "explanation": "John L. Hennessy contributed to RISC microprocessors and the FLASH multiprocessor.",
+      "tags": []
+    },
+    {
+      "id": "famous-041",
+      "q": "Ivan E. Sutherland is famous for:",
+      "options": [
+        "Computer graphics, interactive interfaces and real-time computing",
+        "Quicksort",
+        "Pascal",
+        "RSA"
+      ],
+      "correct": 0,
+      "explanation": "Ivan E. Sutherland is famous for computer graphics (Sketchpad), interactive interfaces and real-time computing.",
+      "tags": []
+    },
+    {
+      "id": "famous-042",
+      "q": "Michael R. Stonebraker is famous for which of the following?",
+      "options": [
+        "DBMS — Ingres, C-Store, H-Store",
+        "Pascal",
+        "Linux",
+        "Quicksort"
+      ],
+      "correct": 0,
+      "explanation": "Michael R. Stonebraker is famous for database management systems — Ingres, C-Store, H-Store and SciDB.",
+      "tags": []
+    },
+    {
+      "id": "famous-043",
+      "q": "What does RSA in cryptography stand for?",
+      "options": [
+        "Random Secret Algorithm",
+        "The surnames of Rivest, Shamir and Adleman",
+        "Rapid Symmetric Algorithm",
+        "Randomised Stream Authentication"
+      ],
+      "correct": 1,
+      "explanation": "RSA stands for the surnames of its three inventors: Ron Rivest, Adi Shamir and Leonard Adleman.",
+      "tags": []
+    },
+    {
+      "id": "famous-044",
+      "q": "Who developed the Diffie-Hellman key exchange?",
+      "options": [
+        "Whitfield Diffie and Martin Hellman",
+        "Rivest and Shamir",
+        "Goldwasser and Micali",
+        "Diffie and Adleman"
+      ],
+      "correct": 0,
+      "explanation": "Whitfield Diffie and Martin E. Hellman developed the Diffie-Hellman key exchange — a foundation of public-key cryptography.",
+      "tags": []
+    },
+    {
+      "id": "famous-045",
+      "q": "Who is famous for the Miller-Rabin primality test?",
+      "options": [
+        "Michael O. Rabin",
+        "Ronald Rivest",
+        "Adi Shamir",
+        "Whitfield Diffie"
+      ],
+      "correct": 0,
+      "explanation": "Michael O. Rabin is famous for the Miller-Rabin primality test, nondeterministic finite automata and cryptography.",
+      "tags": []
+    },
+    {
+      "id": "famous-046",
+      "q": "Adi Shamir is famous for which of the following?",
+      "options": [
+        "RSA, Differential Cryptanalysis and Shamir Secret-Sharing",
+        "RAID storage",
+        "Pascal",
+        "Linux"
+      ],
+      "correct": 0,
+      "explanation": "Adi Shamir is famous for RSA, Differential Cryptanalysis and Shamir Secret-Sharing Scheme.",
+      "tags": []
+    },
+    {
+      "id": "famous-047",
+      "q": "Whitfield Diffie is famous for:",
+      "options": [
+        "Public-key cryptography and asymmetric-key algorithms",
+        "Linux",
+        "Pascal",
+        "Quicksort"
+      ],
+      "correct": 0,
+      "explanation": "Whitfield Diffie is famous for public-key cryptography and asymmetric-key algorithms (Diffie-Hellman).",
+      "tags": []
+    },
+    {
+      "id": "famous-048",
+      "q": "Shafi Goldwasser is famous for:",
+      "options": [
+        "Computational complexity, Blum-Goldwasser cryptography, computational number theory",
+        "RAID storage",
+        "Pascal",
+        "UNIX"
+      ],
+      "correct": 0,
+      "explanation": "Shafira (Shafi) Goldwasser is famous for computational complexity theory, Blum-Goldwasser cryptography and computational number theory.",
+      "tags": []
+    },
+    {
+      "id": "famous-049",
+      "q": "Silvio Micali is famous for which cryptographic concept?",
+      "options": [
+        "Public-key cryptosystems, pseudorandom functions and zero-knowledge proofs",
+        "RSA only",
+        "Pascal",
+        "Linux"
+      ],
+      "correct": 0,
+      "explanation": "Silvio Micali is famous for public-key cryptosystems, pseudorandom functions and zero-knowledge proofs.",
+      "tags": []
+    },
+    {
+      "id": "famous-050",
+      "q": "Who proposed the Quantum Mechanical Hamiltonian Model of a Turing Machine?",
+      "options": [
+        "Paul A. Benioff",
+        "Richard Feynman",
+        "Charles H. Bennett",
+        "David Deutsch"
+      ],
+      "correct": 0,
+      "explanation": "Paul A. Benioff proposed the Quantum Mechanical Hamiltonian Model of a Turing Machine — laying foundations for quantum computing.",
+      "tags": []
+    },
+    {
+      "id": "famous-051",
+      "q": "Who is famous for the Quantum Turing Machine and quantum algorithms?",
+      "options": [
+        "David Deutsch",
+        "Paul Benioff",
+        "Charles Bennett",
+        "Alan Turing"
+      ],
+      "correct": 0,
+      "explanation": "David Deutsch is famous for the Quantum Turing Machine, quantum information theory and quantum algorithms.",
+      "tags": []
+    },
+    {
+      "id": "famous-052",
+      "q": "What are the DiVincenzo Criteria associated with?",
+      "options": [
+        "Cryptographic key length",
+        "Theoretical requirements on physical implementations of quantum computers",
+        "Compiler design",
+        "Cache replacement"
+      ],
+      "correct": 1,
+      "explanation": "The DiVincenzo Criteria, by David P. DiVincenzo, list the theoretical requirements on physical implementations of quantum computers.",
+      "tags": []
+    },
+    {
+      "id": "famous-053",
+      "q": "Holevo's Theorem belongs to:",
+      "options": [
+        "Quantum communication channel theory",
+        "Cryptography",
+        "Compilers",
+        "RAID storage"
+      ],
+      "correct": 0,
+      "explanation": "Alexander Holevo is famous for Holevo's Theorem in quantum communication channel theory and quantum statistics.",
+      "tags": []
+    },
+    {
+      "id": "famous-054",
+      "q": "William K. Wootters is associated with:",
+      "options": [
+        "The No-Cloning Theorem and quantum teleportation",
+        "RAID",
+        "TCP/IP",
+        "Logo language"
+      ],
+      "correct": 0,
+      "explanation": "William K. Wootters is associated with quantum information theory — the No-Cloning Theorem, quantum teleportation and quantum cryptography.",
+      "tags": []
+    },
+    {
+      "id": "famous-055",
+      "q": "Charles H. Bennett is famous for:",
+      "options": [
+        "Quantum information theory, quantum cryptography, quantum teleportation",
+        "Pascal",
+        "Linux",
+        "RSA only"
+      ],
+      "correct": 0,
+      "explanation": "Charles H. Bennett is famous for logically reversible computation, algorithmic information theory, quantum information theory, quantum cryptography and quantum teleportation.",
+      "tags": []
+    }
+  ]
+}

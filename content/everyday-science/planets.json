@@ -2,9 +2,9 @@
   "topic_id": "planets",
   "topic_name": "Planets",
   "subject": "everyday-science",
-  "version": 1,
+  "version": 2,
   "updated_at": "2026-05-12",
-  "description": "Planets MCQs for PPSC, FPSC, NTS, CSS & PMS preparation.",
+  "description": "Planets MCQs for PPSC, FPSC, NTS, CSS & PMS.",
   "icon": "🪐",
   "mcqs": [
     {

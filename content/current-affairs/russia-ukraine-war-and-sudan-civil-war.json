@@ -1,0 +1,557 @@
+{
+  "topic_id": "russia-ukraine-war-and-sudan-civil-war",
+  "topic_name": "Russia Ukraine War & Sudan Civil War",
+  "subject": "current-affairs",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Russia Ukraine War & Sudan Civil War MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🛡️",
+  "mcqs": [
+    {
+      "id": "russia-001",
+      "q": "When did the war between Ukraine and Russia (Russian invasion of Ukraine) start?",
+      "options": [
+        "21 February 2022",
+        "22 February 2022",
+        "23 February 2022",
+        "24 February 2022"
+      ],
+      "correct": 3,
+      "explanation": "Russia launched its full-scale invasion of Ukraine on 24 February 2022.",
+      "tags": []
+    },
+    {
+      "id": "russia-002",
+      "q": "In the Russian Empire, Ukraine became known by the geographic term:",
+      "options": [
+        "Red Russia",
+        "Fertile Russia",
+        "Little Russia",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "In the Russian Empire, Ukraine was historically referred to by the geographic term 'Little Russia' (Malorossiya).",
+      "tags": []
+    },
+    {
+      "id": "russia-003",
+      "q": "Approximately how many tanks does Russia possess?",
+      "options": [
+        "4,000",
+        "5,000",
+        "6,000",
+        "7,000"
+      ],
+      "correct": 3,
+      "explanation": "Russia is widely estimated to have around 7,000 tanks in total.",
+      "tags": []
+    },
+    {
+      "id": "russia-004",
+      "q": "The first Russo-Ukrainian War began in:",
+      "options": [
+        "February 2013",
+        "February 2014",
+        "February 2015",
+        "February 2016"
+      ],
+      "correct": 1,
+      "explanation": "The first Russo-Ukrainian War began in February 2014 after the annexation of Crimea and the start of the Donbas War.",
+      "tags": []
+    },
+    {
+      "id": "russia-005",
+      "q": "Following Ukraine's Revolution of Dignity, Russia occupied and annexed _____ from Ukraine.",
+      "options": [
+        "Bulgaria",
+        "Georgia",
+        "Crimea",
+        "Donbas"
+      ],
+      "correct": 2,
+      "explanation": "Russia annexed Crimea after Ukraine's Revolution of Dignity (Maidan Revolution) in 2014.",
+      "tags": []
+    },
+    {
+      "id": "russia-006",
+      "q": "In 2014, Russia supported pro-Russian separatists fighting against the Ukrainian military in the:",
+      "options": [
+        "Bulgaria War",
+        "Crimea War",
+        "Donbas War",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Russia backed pro-Russian separatists in the Donbas War (eastern Ukraine) starting in 2014.",
+      "tags": []
+    },
+    {
+      "id": "russia-007",
+      "q": "Since the start of Russia's full-scale invasion in February 2022, approximately how many Ukrainian soldiers have been killed?",
+      "options": [
+        "41,000 soldiers",
+        "42,000 soldiers",
+        "43,000 soldiers",
+        "45,000 soldiers"
+      ],
+      "correct": 2,
+      "explanation": "Reports estimate roughly 43,000 Ukrainian soldiers killed since the start of Russia's full-scale invasion.",
+      "tags": []
+    },
+    {
+      "id": "russia-008",
+      "q": "The first Minsk agreement between Russia and Ukraine was signed in:",
+      "options": [
+        "September 2013",
+        "September 2014",
+        "September 2015",
+        "September 2016"
+      ],
+      "correct": 1,
+      "explanation": "The first Minsk Protocol was signed in September 2014 between Russia, Ukraine and the OSCE.",
+      "tags": []
+    },
+    {
+      "id": "russia-009",
+      "q": "Russia and Ukraine signed the Minsk II agreement in _____ to resolve the Donbas conflict; ceasefires repeatedly failed.",
+      "options": [
+        "February 2015",
+        "February 2016",
+        "February 2017",
+        "February 2018"
+      ],
+      "correct": 0,
+      "explanation": "Minsk II was signed in February 2015 in Belarus.",
+      "tags": []
+    },
+    {
+      "id": "russia-010",
+      "q": "When did Putin announce a 'special military operation' to 'demilitarise and denazify' Ukraine?",
+      "options": [
+        "22 February 2022",
+        "23 February 2022",
+        "24 February 2022",
+        "25 February 2022"
+      ],
+      "correct": 2,
+      "explanation": "Putin announced the 'special military operation' on 24 February 2022 — the start of the full-scale invasion.",
+      "tags": []
+    },
+    {
+      "id": "russia-011",
+      "q": "The International Criminal Court (ICC) opened an investigation into war crimes and issued arrest warrants for _____ and several other Russian officials.",
+      "options": [
+        "Sergiy Kyslytsya",
+        "Volodymyr Zelenskyy",
+        "Vladimir Putin",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The ICC issued an arrest warrant against Russian President Vladimir Putin in March 2023 for the unlawful deportation of Ukrainian children.",
+      "tags": []
+    },
+    {
+      "id": "russia-012",
+      "q": "Military aid for Ukraine is coordinated through the Ukraine Defense Contact Group, which has _____ countries — including all 32 NATO members.",
+      "options": [
+        "52 members",
+        "54 members",
+        "55 members",
+        "57 members"
+      ],
+      "correct": 3,
+      "explanation": "The Ukraine Defense Contact Group has 57 member countries, including all 32 NATO states.",
+      "tags": []
+    },
+    {
+      "id": "russia-013",
+      "q": "_____ was a series of protests that led to political upheaval in Ukraine from late November 2004 to January 2005.",
+      "options": [
+        "Lotus Revolution",
+        "Blue Revolution",
+        "Orange Revolution",
+        "Red Revolution"
+      ],
+      "correct": 2,
+      "explanation": "The Orange Revolution was the 2004–2005 Ukrainian protest movement against electoral fraud.",
+      "tags": []
+    },
+    {
+      "id": "russia-014",
+      "q": "Russia failed to take control of Kyiv and withdrew from the areas of:",
+      "options": [
+        "Northern Ukraine",
+        "Northeastern Ukraine",
+        "Both Northern and Northeastern Ukraine",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Russia withdrew from both northern and northeastern Ukraine after failing to take Kyiv in early 2022.",
+      "tags": []
+    },
+    {
+      "id": "russia-015",
+      "q": "The Russo-Ukrainian War is currently being fought primarily in:",
+      "options": [
+        "Eastern Ukraine",
+        "Southeastern Ukraine",
+        "Both Eastern and Southeastern Ukraine",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The active fighting now centres on eastern and southeastern Ukraine.",
+      "tags": []
+    },
+    {
+      "id": "russia-016",
+      "q": "Russia launched a full-scale invasion of Ukraine on 24 February 2022, starting the biggest war in Europe since:",
+      "options": [
+        "World War I",
+        "World War II",
+        "Korean War",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "The Russia–Ukraine war is the largest war in Europe since World War II.",
+      "tags": []
+    },
+    {
+      "id": "russia-017",
+      "q": "The first phase of the Russian invasion of Ukraine ended on:",
+      "options": [
+        "4 April 2022",
+        "5 April 2022",
+        "6 April 2022",
+        "7 April 2022"
+      ],
+      "correct": 3,
+      "explanation": "The first phase of the war is generally considered to have ended on 7 April 2022 with Russia's withdrawal from Kyiv and northern Ukraine.",
+      "tags": []
+    },
+    {
+      "id": "russia-018",
+      "q": "In late 2021, Russia massed troops near Ukraine's borders and demanded a ban on Ukraine joining the:",
+      "options": [
+        "European military alliance",
+        "Warsaw military alliance",
+        "NATO military alliance",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Russia demanded a ban on Ukraine joining the NATO military alliance — a key precursor to the 2022 invasion.",
+      "tags": []
+    },
+    {
+      "id": "russia-019",
+      "q": "The UN General Assembly passed a resolution condemning the invasion and demanding a full _____.",
+      "options": [
+        "NATO withdrawal",
+        "Russian withdrawal",
+        "Ukrainian withdrawal",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "The UNGA Emergency Special Session resolution demanded a full Russian withdrawal from Ukraine.",
+      "tags": []
+    },
+    {
+      "id": "russia-020",
+      "q": "The International Court of Justice ordered Russia to halt military operations, and the Council of Europe expelled:",
+      "options": [
+        "Ukraine",
+        "Russia",
+        "Belarus",
+        "Bulgaria"
+      ],
+      "correct": 1,
+      "explanation": "The Council of Europe expelled Russia in March 2022 in response to the invasion.",
+      "tags": []
+    },
+    {
+      "id": "russia-021",
+      "q": "Many countries imposed sanctions on Russia and its ally _____ and provided humanitarian and military aid to Ukraine.",
+      "options": [
+        "Belarus",
+        "Bulgaria",
+        "Georgia",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Belarus is Russia's principal ally in the Ukraine war and was placed under similar sanctions.",
+      "tags": []
+    },
+    {
+      "id": "russia-022",
+      "q": "Ukraine's parliament overwhelmingly approved finalising an association agreement with the EU in _____.",
+      "options": [
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "correct": 1,
+      "explanation": "Ukraine's parliament approved finalising the EU Association Agreement in 2013 — the rejection of which by President Yanukovych triggered the Maidan protests.",
+      "tags": []
+    },
+    {
+      "id": "russia-023",
+      "q": "Russia annexed Crimea in _____ after a widely disputed referendum held under occupation.",
+      "options": [
+        "January 2014",
+        "April 2014",
+        "March 2014",
+        "June 2014"
+      ],
+      "correct": 2,
+      "explanation": "Russia formally annexed Crimea in March 2014 following the disputed referendum.",
+      "tags": []
+    },
+    {
+      "id": "russia-024",
+      "q": "The Normandy Format meeting on _____ was the first and only meeting between Presidents Zelenskyy and Putin.",
+      "options": [
+        "9 December 2017",
+        "9 December 2018",
+        "9 December 2019",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The Paris Normandy Format meeting on 9 December 2019 was the only direct meeting between Presidents Zelenskyy and Putin.",
+      "tags": []
+    },
+    {
+      "id": "russia-025",
+      "q": "Who published the essay 'On the Historical Unity of Russians and Ukrainians', calling Ukraine 'historically Russian lands'?",
+      "options": [
+        "Vladimir Putin",
+        "Sergiy Kyslytsya",
+        "Volodymyr Zelenskyy",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Russian President Vladimir Putin published the controversial essay 'On the Historical Unity of Russians and Ukrainians' in July 2021.",
+      "tags": []
+    },
+    {
+      "id": "russia-026",
+      "q": "The 2022 invasion began at dawn on 24 February 2022 with fighting initially in:",
+      "options": [
+        "Luhansk Oblast",
+        "Crimea",
+        "Kyiv",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Initial heavy fighting on 24 February 2022 erupted in Luhansk Oblast in eastern Ukraine.",
+      "tags": []
+    },
+    {
+      "id": "russia-027",
+      "q": "Immediately after the invasion began, who declared martial law in Ukraine in his first video speech?",
+      "options": [
+        "Vladimir Putin",
+        "Sergiy Kyslytsya",
+        "Vasily Nebenzya",
+        "Volodymyr Zelenskyy"
+      ],
+      "correct": 3,
+      "explanation": "President Volodymyr Zelenskyy declared martial law in Ukraine on 24 February 2022 via video address.",
+      "tags": []
+    },
+    {
+      "id": "russia-028",
+      "q": "On 26 February NATO met and pledged military aid for Ukraine. On 27 February which country called the invasion a 'historic watershed' (Zeitenwende)?",
+      "options": [
+        "Bulgaria",
+        "Germany",
+        "France",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "German Chancellor Olaf Scholz called the invasion a 'Zeitenwende' (historic watershed) in his 27 February 2022 address.",
+      "tags": []
+    },
+    {
+      "id": "russia-029",
+      "q": "The civil war between two rival factions of Sudan's military government began on:",
+      "options": [
+        "11 April 2023",
+        "15 April 2023",
+        "25 April 2023",
+        "28 April 2023"
+      ],
+      "correct": 1,
+      "explanation": "The Sudan Civil War broke out on 15 April 2023.",
+      "tags": []
+    },
+    {
+      "id": "russia-030",
+      "q": "The Sudan conflict involves the Sudanese Armed Forces (SAF) and the paramilitary:",
+      "options": [
+        "Red Support Forces (RSF)",
+        "Rapid Support Forces (RSF)",
+        "Rapid Superior Forces (RSF)",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "The paramilitary force is the Rapid Support Forces (RSF).",
+      "tags": []
+    },
+    {
+      "id": "russia-031",
+      "q": "The Sudanese Armed Forces (SAF) is led by:",
+      "options": [
+        "General Mohamed Javeer",
+        "General Mohamed Raseeh Burhan",
+        "General Abdel Fattah al-Burhan",
+        "General Mohamed Hamdan Dagalo"
+      ],
+      "correct": 2,
+      "explanation": "SAF is led by General Abdel Fattah al-Burhan, who chairs Sudan's Transitional Sovereignty Council.",
+      "tags": []
+    },
+    {
+      "id": "russia-032",
+      "q": "The Rapid Support Forces (RSF) is commanded by:",
+      "options": [
+        "General Mohamed Javeer",
+        "General Mohamed Raseeh Burhan",
+        "General Abdel Fattah al-Burhan",
+        "General Mohamed Hamdan Dagalo"
+      ],
+      "correct": 3,
+      "explanation": "The RSF is commanded by General Mohamed Hamdan Dagalo, popularly known as Hemedti.",
+      "tags": []
+    },
+    {
+      "id": "russia-033",
+      "q": "Which areas of Sudan are the centre of fighting?",
+      "options": [
+        "Khartoum",
+        "Darfur region",
+        "Both Khartoum and Darfur",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Both Khartoum (the capital) and the Darfur region in the west are the major battlegrounds.",
+      "tags": []
+    },
+    {
+      "id": "russia-034",
+      "q": "The Hala'ib Triangle is a disputed territory between:",
+      "options": [
+        "Algeria and Libya",
+        "Sudan and Egypt",
+        "Botswana and Zambia",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "The Hala'ib Triangle on the Red Sea coast is disputed between Sudan and Egypt.",
+      "tags": []
+    },
+    {
+      "id": "russia-035",
+      "q": "Sudan has been described as facing the world's worst humanitarian crisis; nearly _____ people are experiencing extreme hunger.",
+      "options": [
+        "15 million",
+        "19 million",
+        "20 million",
+        "25 million"
+      ],
+      "correct": 3,
+      "explanation": "Approximately 25 million Sudanese face extreme hunger — the world's worst current humanitarian crisis.",
+      "tags": []
+    },
+    {
+      "id": "russia-036",
+      "q": "Since gaining independence in 1956, Sudan has endured chronic instability marked by how many coup attempts?",
+      "options": [
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "correct": 0,
+      "explanation": "Sudan has experienced about 20 coup attempts since independence in 1956.",
+      "tags": []
+    },
+    {
+      "id": "russia-037",
+      "q": "Which triangle is disputed among Kenya, Ethiopia and Sudan?",
+      "options": [
+        "Swazi",
+        "Ilemi Triangle",
+        "Corsica Triangle",
+        "Togo Triangle"
+      ],
+      "correct": 1,
+      "explanation": "The Ilemi Triangle is a disputed border area among Kenya, Ethiopia and Sudan.",
+      "tags": []
+    },
+    {
+      "id": "russia-038",
+      "q": "Which country has been widely reported as supporting the Rapid Support Forces (RSF)?",
+      "options": [
+        "Saudi Arabia",
+        "Qatar",
+        "UAE",
+        "Yemen"
+      ],
+      "correct": 2,
+      "explanation": "The UAE has been widely accused of supporting the RSF in Sudan.",
+      "tags": []
+    },
+    {
+      "id": "russia-039",
+      "q": "On _____, General al-Burhan confirmed that the SAF had withdrawn from El Fasher, confirming RSF control over the city.",
+      "options": [
+        "18 October 2025",
+        "20 October 2025",
+        "23 October 2025",
+        "28 October 2025"
+      ],
+      "correct": 3,
+      "explanation": "On 28 October 2025, General al-Burhan confirmed SAF's withdrawal from El Fasher, North Darfur.",
+      "tags": []
+    },
+    {
+      "id": "russia-040",
+      "q": "The RSF attacked Port Sudan for the first time using drones on:",
+      "options": [
+        "1 May 2025",
+        "5 May 2025",
+        "8 May 2025",
+        "9 May 2025"
+      ],
+      "correct": 1,
+      "explanation": "The RSF launched its first drone attack on Port Sudan on 5 May 2025.",
+      "tags": []
+    },
+    {
+      "id": "russia-041",
+      "q": "Which neighbouring countries have welcomed Sudanese refugees in large numbers?",
+      "options": [
+        "Chad and Egypt",
+        "Chad and South Sudan",
+        "Libya and Chad",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Chad and South Sudan have hosted the largest numbers of Sudanese refugees from the civil war.",
+      "tags": []
+    },
+    {
+      "id": "russia-042",
+      "q": "The Wadi Halfa Salient is disputed between:",
+      "options": [
+        "Algeria and Libya",
+        "Egypt and Sudan",
+        "Botswana and Zambia",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "The Wadi Halfa Salient is a small disputed area between Egypt and Sudan along the River Nile.",
+      "tags": []
+    }
+  ]
+}

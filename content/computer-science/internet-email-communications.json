@@ -1,0 +1,726 @@
+{
+  "topic_id": "internet-email-communications",
+  "topic_name": "Internet Email Communications",
+  "subject": "computer-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Internet Email Communications MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📧",
+  "mcqs": [
+    {
+      "id": "intern-001",
+      "q": "A programme used to view World Wide Web (WWW) pages, such as Chrome or Internet Explorer, is called a:",
+      "options": [
+        "Compiler",
+        "Browser",
+        "Search engine",
+        "Operating system"
+      ],
+      "correct": 1,
+      "explanation": "A programme used to view WWW pages is called a browser — examples include Google Chrome, Mozilla Firefox, Internet Explorer and Yahoo.",
+      "tags": []
+    },
+    {
+      "id": "intern-002",
+      "q": "Which organisation standardises the World Wide Web (WWW)?",
+      "options": [
+        "IEEE",
+        "W3C",
+        "IETF",
+        "ISO"
+      ],
+      "correct": 1,
+      "explanation": "The World Wide Web (WWW) is standardised by W3C (World Wide Web Consortium).",
+      "tags": []
+    },
+    {
+      "id": "intern-003",
+      "q": "WAP stands for:",
+      "options": [
+        "Wireless Application Protocol",
+        "Web Access Protocol",
+        "World Application Process",
+        "Wireless Authority Protocol"
+      ],
+      "correct": 0,
+      "explanation": "WAP stands for Wireless Application Protocol — a technical standard for accessing information over a mobile wireless network.",
+      "tags": []
+    },
+    {
+      "id": "intern-004",
+      "q": "HTML is best described as:",
+      "options": [
+        "A programming language for OS",
+        "The standard markup language for documents displayed in a web browser",
+        "A type of database",
+        "A network protocol"
+      ],
+      "correct": 1,
+      "explanation": "HTML (Hypertext Markup Language) is the standard markup language for documents designed to be displayed in a web browser.",
+      "tags": []
+    },
+    {
+      "id": "intern-005",
+      "q": "Which of the following was a common high-end Internet service in the 1990s and early 2000s?",
+      "options": [
+        "ISDN",
+        "Wi-Fi 6",
+        "5G",
+        "Fibre to home"
+      ],
+      "correct": 0,
+      "explanation": "ISDN (Integrated Services Digital Network) was a common high-end Internet service in the 1990s and early 2000s.",
+      "tags": []
+    },
+    {
+      "id": "intern-006",
+      "q": "A computer on the internet is uniquely identified by its:",
+      "options": [
+        "MAC address",
+        "IP address",
+        "BIOS version",
+        "Computer name"
+      ],
+      "correct": 1,
+      "explanation": "A computer on the internet is identified by its IP (Internet Protocol) address.",
+      "tags": []
+    },
+    {
+      "id": "intern-007",
+      "q": "Which of the following is used to protect a network server from damage by unauthorised users?",
+      "options": [
+        "Antivirus only",
+        "Firewall",
+        "Browser",
+        "Compiler"
+      ],
+      "correct": 1,
+      "explanation": "A firewall is used to protect a network server from damage by those who log into the computer without authorisation.",
+      "tags": []
+    },
+    {
+      "id": "intern-008",
+      "q": "File Explorer in Windows was previously known as:",
+      "options": [
+        "My Computer",
+        "Windows Explorer",
+        "Disk Manager",
+        "Task Manager"
+      ],
+      "correct": 1,
+      "explanation": "File Explorer was previously known as Windows Explorer — it is a file manager application.",
+      "tags": []
+    },
+    {
+      "id": "intern-009",
+      "q": "In which year was Facebook launched?",
+      "options": [
+        "2000",
+        "2002",
+        "2004",
+        "2006"
+      ],
+      "correct": 2,
+      "explanation": "Facebook, one of the most popular social networking sites, was launched in 2004.",
+      "tags": []
+    },
+    {
+      "id": "intern-010",
+      "q": "Which of the following is NOT a search engine?",
+      "options": [
+        "Google",
+        "Bing",
+        "Yahoo",
+        "Facebook.com"
+      ],
+      "correct": 3,
+      "explanation": "Facebook.com is a social networking site — NOT a search engine.",
+      "tags": []
+    },
+    {
+      "id": "intern-011",
+      "q": "Which is considered the oldest internet search engine?",
+      "options": [
+        "Google",
+        "Yahoo",
+        "Bing",
+        "DuckDuckGo"
+      ],
+      "correct": 1,
+      "explanation": "Yahoo is considered the oldest internet search engine.",
+      "tags": []
+    },
+    {
+      "id": "intern-012",
+      "q": "Which is the largest (biggest) search engine on the internet?",
+      "options": [
+        "Yahoo",
+        "Google",
+        "Bing",
+        "Ask"
+      ],
+      "correct": 1,
+      "explanation": "Google is the largest (biggest) search engine on the internet.",
+      "tags": []
+    },
+    {
+      "id": "intern-013",
+      "q": "Wikipedia is best described as:",
+      "options": [
+        "A search engine",
+        "An online encyclopedia",
+        "An email service",
+        "A messaging app"
+      ],
+      "correct": 1,
+      "explanation": "Wikipedia is an online encyclopedia — collaboratively edited by volunteers.",
+      "tags": []
+    },
+    {
+      "id": "intern-014",
+      "q": "Gmail is an example of:",
+      "options": [
+        "A search engine",
+        "A famous email programme",
+        "A web browser",
+        "An operating system"
+      ],
+      "correct": 1,
+      "explanation": "Gmail is a famous email programme provided by Google.",
+      "tags": []
+    },
+    {
+      "id": "intern-015",
+      "q": "Browser history keeps a list of:",
+      "options": [
+        "Files saved on disk",
+        "Web pages visited in the current session",
+        "Installed apps",
+        "Email contacts"
+      ],
+      "correct": 1,
+      "explanation": "Browser history keeps a list of web pages you have visited in the current session.",
+      "tags": []
+    },
+    {
+      "id": "intern-016",
+      "q": "Which of the following is a correctly formed email address?",
+      "options": [
+        "ppsc@punjab.gov.pk",
+        "ppsc.punjab.gov.pk",
+        "www.ppsc.punjab",
+        "ppsc#punjab.gov.pk"
+      ],
+      "correct": 0,
+      "explanation": "ppsc@punjab.gov.pk is a correctly formed email address — it follows the standard <strong>local-part@domain</strong> format.",
+      "tags": []
+    },
+    {
+      "id": "intern-017",
+      "q": "www.yahoo.com is an example of a:",
+      "options": [
+        "MAC address",
+        "URL",
+        "IP address",
+        "DNS server"
+      ],
+      "correct": 1,
+      "explanation": "www.yahoo.com is a URL (Uniform Resource Locator) — the address used to access a web page.",
+      "tags": []
+    },
+    {
+      "id": "intern-018",
+      "q": "Electronic mail works on which principle?",
+      "options": [
+        "Peer-to-peer only",
+        "Client/server principle",
+        "Broadcast only",
+        "Point-to-point telephone"
+      ],
+      "correct": 1,
+      "explanation": "Electronic mail works on the client/server principle — a client program enables the user to interact with a server to access information and services.",
+      "tags": []
+    },
+    {
+      "id": "intern-019",
+      "q": "To read and send mail, users need to access:",
+      "options": [
+        "The mail printer",
+        "The computer where their mail resides (the server)",
+        "Only their own laptop",
+        "Only their phone"
+      ],
+      "correct": 1,
+      "explanation": "To read and send mail, users need to access the computer where their mail resides — the mail server.",
+      "tags": []
+    },
+    {
+      "id": "intern-020",
+      "q": "Which of the following is the function of an email CLIENT application?",
+      "options": [
+        "Sending packets between routers",
+        "Letting users read, reply, forward, compose and send messages",
+        "Encrypting all internet traffic",
+        "Replacing the operating system"
+      ],
+      "correct": 1,
+      "explanation": "The email client application is the interface that lets a user read, reply to, forward, compose and send new messages.",
+      "tags": []
+    },
+    {
+      "id": "intern-021",
+      "q": "Which of the following is an example of an e-mail client programme?",
+      "options": [
+        "Qualcomm Eudora",
+        "Adobe Photoshop",
+        "Google Chrome",
+        "Windows Media Player"
+      ],
+      "correct": 0,
+      "explanation": "Qualcomm Eudora, pine, elm and Lotus cc:Mail are examples of e-mail client programmes.",
+      "tags": []
+    },
+    {
+      "id": "intern-022",
+      "q": "Which of the following is NOT typically considered an e-mail client programme?",
+      "options": [
+        "pine",
+        "elm",
+        "Lotus cc:Mail",
+        "Adobe Flash"
+      ],
+      "correct": 3,
+      "explanation": "Adobe Flash is multimedia software, NOT an e-mail client. pine, elm and Lotus cc:Mail are all e-mail clients.",
+      "tags": []
+    },
+    {
+      "id": "intern-023",
+      "q": "Compared to telephone or fax, email is:",
+      "options": [
+        "More expensive",
+        "The cheapest and most convenient form of communication",
+        "Slower than fax",
+        "More expensive than telephone"
+      ],
+      "correct": 1,
+      "explanation": "Email messages are the cheapest and most convenient form of communication compared to telephone or fax.",
+      "tags": []
+    },
+    {
+      "id": "intern-024",
+      "q": "Email and websites are transmitted through:",
+      "options": [
+        "Bluetooth only",
+        "Intranet, Internet and Extranet",
+        "Only the Intranet",
+        "Only the Extranet"
+      ],
+      "correct": 1,
+      "explanation": "Email and websites are transmitted through Intranet, Internet and Extranet.",
+      "tags": []
+    },
+    {
+      "id": "intern-025",
+      "q": "Which of the following social media apps does NOT provide an email feature?",
+      "options": [
+        "Gmail",
+        "Outlook",
+        "WhatsApp",
+        "Yahoo Mail"
+      ],
+      "correct": 2,
+      "explanation": "WhatsApp is a social media / messaging app — it does NOT provide an email feature. Gmail, Outlook and Yahoo Mail are email services.",
+      "tags": []
+    },
+    {
+      "id": "intern-026",
+      "q": "In an email, the part to the LEFT of the @ symbol is called the:",
+      "options": [
+        "Domain",
+        "Local part / username",
+        "Top-level domain",
+        "Subdomain"
+      ],
+      "correct": 1,
+      "explanation": "In an email address, the part to the left of the @ symbol is the local part (or username); the part to the right is the domain.",
+      "tags": []
+    },
+    {
+      "id": "intern-027",
+      "q": "Which of the following is the most likely outcome of using email instead of fax/phone?",
+      "options": [
+        "Higher cost",
+        "Lower cost and greater convenience",
+        "Slower delivery",
+        "More physical paperwork"
+      ],
+      "correct": 1,
+      "explanation": "Email is the cheapest and most convenient form of communication — it is faster, lower cost and avoids paperwork compared to fax or telephone.",
+      "tags": []
+    },
+    {
+      "id": "intern-028",
+      "q": "What is spear phishing?",
+      "options": [
+        "A type of fishing rod",
+        "An email/electronic communications scam targeted at a specific individual, organisation or business",
+        "A type of antivirus",
+        "A network protocol"
+      ],
+      "correct": 1,
+      "explanation": "Spear phishing is an email or electronic communications scam targeted towards a specific individual, organisation or business — unlike generic phishing which is mass-mailed.",
+      "tags": []
+    },
+    {
+      "id": "intern-029",
+      "q": "Which of the following is the process of taking plain text and scrambling it into an unreadable format?",
+      "options": [
+        "Hashing",
+        "Encryption",
+        "Compression",
+        "Indexing"
+      ],
+      "correct": 1,
+      "explanation": "Encryption is the process of taking plain text — like a text message or email — and scrambling it into an unreadable format that only authorised parties can decrypt.",
+      "tags": []
+    },
+    {
+      "id": "intern-030",
+      "q": "What is a cookie in the context of web browsing?",
+      "options": [
+        "A type of malware",
+        "A small text file stored on the hard drive of a user's terminal when he/she visits a website",
+        "A software firewall",
+        "An email attachment"
+      ],
+      "correct": 1,
+      "explanation": "A cookie is a small text file stored on the hard drive of a user's terminal when he/she visits a website — used for session management, preferences, etc.",
+      "tags": []
+    },
+    {
+      "id": "intern-031",
+      "q": "What is hacking?",
+      "options": [
+        "The process of writing legitimate code",
+        "Unauthorised and illegal accessing of computer programmes, often with criminal intent",
+        "A type of disk defragmentation",
+        "A printer command"
+      ],
+      "correct": 1,
+      "explanation": "Hacking is the term used to denote the unauthorised and illegal accessing of computer programmes, often with criminal intent.",
+      "tags": []
+    },
+    {
+      "id": "intern-032",
+      "q": "Which of the following is a SECURITY threat to email users?",
+      "options": [
+        "Browser bookmark",
+        "Spear phishing",
+        "Print preview",
+        "Auto-save"
+      ],
+      "correct": 1,
+      "explanation": "Spear phishing is a major security threat to email users — it targets specific individuals or organisations to steal information or money.",
+      "tags": []
+    },
+    {
+      "id": "intern-033",
+      "q": "Which of the following is true about cookies?",
+      "options": [
+        "They are large executable files",
+        "They are small text files saved by a website on the user's terminal",
+        "They are hardware components",
+        "They are encryption keys only"
+      ],
+      "correct": 1,
+      "explanation": "Cookies are small text files stored on a user's terminal by a website to remember preferences, session data and login states.",
+      "tags": []
+    },
+    {
+      "id": "intern-034",
+      "q": "What does the term Internet refer to?",
+      "options": [
+        "A single network in one office",
+        "A global information system",
+        "A type of LAN",
+        "A type of OS"
+      ],
+      "correct": 1,
+      "explanation": "Internet refers to a global information system — the worldwide network of interconnected networks.",
+      "tags": []
+    },
+    {
+      "id": "intern-035",
+      "q": "An Intranet is best described as:",
+      "options": [
+        "A public web open to all",
+        "A company's internal web that uses TCP/IP, HTTP and other internet protocols",
+        "The same as the Internet",
+        "A type of router"
+      ],
+      "correct": 1,
+      "explanation": "An Intranet is a company's internal web that uses TCP/IP, HTTP and other internet protocols — but is restricted to that organisation.",
+      "tags": []
+    },
+    {
+      "id": "intern-036",
+      "q": "What is an Extranet?",
+      "options": [
+        "A printer queue",
+        "A web within a web — a collaborative network using internet protocols for business purposes",
+        "A type of LAN",
+        "A search engine"
+      ],
+      "correct": 1,
+      "explanation": "Extranet is described as a 'web within a web' — a collaborative network that uses internet protocols for business purposes (often connecting partners and suppliers).",
+      "tags": []
+    },
+    {
+      "id": "intern-037",
+      "q": "Which of the following uses TCP/IP and HTTP but is restricted to one company?",
+      "options": [
+        "Internet",
+        "Extranet",
+        "Intranet",
+        "Bluetooth"
+      ],
+      "correct": 2,
+      "explanation": "An Intranet uses TCP/IP, HTTP and other internet protocols but is restricted to a single company's internal users.",
+      "tags": []
+    },
+    {
+      "id": "intern-038",
+      "q": "Which of the following is the BROADEST in scope?",
+      "options": [
+        "Intranet",
+        "Extranet",
+        "Internet",
+        "LAN"
+      ],
+      "correct": 2,
+      "explanation": "The Internet is the broadest in scope — it is a global information system. Extranet and Intranet are subsets of the same protocols restricted in access.",
+      "tags": []
+    },
+    {
+      "id": "intern-039",
+      "q": "In what year did Lawrence Roberts and Thomas Merrill connect computers in Massachusetts and California, creating the first WAN?",
+      "options": [
+        "1955",
+        "1965",
+        "1975",
+        "1985"
+      ],
+      "correct": 1,
+      "explanation": "In 1965, Lawrence Roberts and Thomas Merrill communicated between computers in Massachusetts and California — creating the first WAN and laying the groundwork for the internet.",
+      "tags": []
+    },
+    {
+      "id": "intern-040",
+      "q": "ARPANet — the first version of the internet — was created in which year?",
+      "options": [
+        "1965",
+        "1969",
+        "1974",
+        "1980"
+      ],
+      "correct": 1,
+      "explanation": "ARPANet, the first version of the internet, was created in 1969 and used to link computers at UCLA and Stanford.",
+      "tags": []
+    },
+    {
+      "id": "intern-041",
+      "q": "In 1969, ARPANet linked computers at:",
+      "options": [
+        "MIT and Harvard",
+        "UCLA and Stanford",
+        "Berkeley and Yale",
+        "Princeton and Chicago"
+      ],
+      "correct": 1,
+      "explanation": "In 1969, ARPANet was used to link computers at UCLA and Stanford.",
+      "tags": []
+    },
+    {
+      "id": "intern-042",
+      "q": "Who published the 1974 paper that laid the groundwork for TCP/IP?",
+      "options": [
+        "Tim Berners-Lee",
+        "Robert Kahn and Vinton Cerf",
+        "Bill Gates",
+        "Steve Jobs"
+      ],
+      "correct": 1,
+      "explanation": "In 1974, Robert Kahn and Vinton Cerf published 'A Protocol for Packet Network Communication', laying the groundwork for TCP/IP. The word 'internet' was first used in this paper.",
+      "tags": []
+    },
+    {
+      "id": "intern-043",
+      "q": "In which year was the word 'internet' first used?",
+      "options": [
+        "1965",
+        "1969",
+        "1974",
+        "1989"
+      ],
+      "correct": 2,
+      "explanation": "The word 'internet' was first used in 1974 in the TCP/IP paper by Kahn and Cerf.",
+      "tags": []
+    },
+    {
+      "id": "intern-044",
+      "q": "NSFNET — the backbone of the modern internet — was founded in:",
+      "options": [
+        "1980",
+        "1986",
+        "1989",
+        "1994"
+      ],
+      "correct": 1,
+      "explanation": "NSFNET was founded in 1986, providing the investment and backbone needed to create the internet as we know it today.",
+      "tags": []
+    },
+    {
+      "id": "intern-045",
+      "q": "Tim Berners-Lee invented the World Wide Web and the first web browser in:",
+      "options": [
+        "1985",
+        "1989",
+        "1993",
+        "1995"
+      ],
+      "correct": 1,
+      "explanation": "In 1989, Tim Berners-Lee invented the World Wide Web and the first web browser — opening the door for the internet to go mainstream.",
+      "tags": []
+    },
+    {
+      "id": "intern-046",
+      "q": "What was the name of the first commercial ISP launched in 1989?",
+      "options": [
+        "AOL",
+        "CompuServe",
+        "The World",
+        "Prodigy"
+      ],
+      "correct": 2,
+      "explanation": "In 1989, the first commercial ISP — 'The World' — launched.",
+      "tags": []
+    },
+    {
+      "id": "intern-047",
+      "q": "Mosaic — the first web browser available to the public — launched in:",
+      "options": [
+        "1989",
+        "1993",
+        "1996",
+        "2000"
+      ],
+      "correct": 1,
+      "explanation": "Mosaic, the first web browser available to the public, launched in 1993.",
+      "tags": []
+    },
+    {
+      "id": "intern-048",
+      "q": "Netscape Navigator was released in stores in:",
+      "options": [
+        "1989",
+        "1993",
+        "1994",
+        "2000"
+      ],
+      "correct": 2,
+      "explanation": "Netscape Navigator was released in stores in 1994 — quickly becoming the dominant web browser of the mid-1990s.",
+      "tags": []
+    },
+    {
+      "id": "intern-049",
+      "q": "By the year 2000, approximately how many people were online worldwide?",
+      "options": [
+        "50 million",
+        "100 million",
+        "300 million",
+        "1 billion"
+      ],
+      "correct": 2,
+      "explanation": "By 2000, approximately 300 million people around the world were officially online.",
+      "tags": []
+    },
+    {
+      "id": "intern-050",
+      "q": "In which year was the iPhone released, sparking the mobile internet revolution?",
+      "options": [
+        "2004",
+        "2005",
+        "2007",
+        "2010"
+      ],
+      "correct": 2,
+      "explanation": "The iPhone was released in 2007, giving rise to the mobile internet revolution.",
+      "tags": []
+    },
+    {
+      "id": "intern-051",
+      "q": "Which of the following is NOT typically listed as a use of the Internet?",
+      "options": [
+        "Social Networking",
+        "E-Commerce",
+        "Online Banking",
+        "Microwave cooking"
+      ],
+      "correct": 3,
+      "explanation": "Microwave cooking is unrelated to the Internet. Social Networking, E-Commerce, Online Banking, Education, Research and Email are all standard uses of the Internet.",
+      "tags": []
+    },
+    {
+      "id": "intern-052",
+      "q": "Online shopping is also known as:",
+      "options": [
+        "E-Commerce",
+        "Online Banking",
+        "Telnet",
+        "FTP only"
+      ],
+      "correct": 0,
+      "explanation": "Online shopping is also known as E-Commerce — the buying and selling of goods and services over the internet.",
+      "tags": []
+    },
+    {
+      "id": "intern-053",
+      "q": "Which of the following is the most common use of the Internet for ordinary users?",
+      "options": [
+        "Compiling kernel code",
+        "Social networking, email, browsing and online services",
+        "Designing routers",
+        "Manufacturing chips"
+      ],
+      "correct": 1,
+      "explanation": "For ordinary users, the most common Internet uses are social networking, email, web browsing, online banking, e-commerce, education and research.",
+      "tags": []
+    },
+    {
+      "id": "intern-054",
+      "q": "Cashless transactions, online banking and e-commerce are all categorised as:",
+      "options": [
+        "Hardware functions",
+        "Standard uses of the Internet",
+        "Operating system tasks",
+        "Office automation only"
+      ],
+      "correct": 1,
+      "explanation": "Cashless transactions, online banking and e-commerce are all standard uses of the Internet.",
+      "tags": []
+    },
+    {
+      "id": "intern-055",
+      "q": "Which of the following is NOT a typical use of the Internet?",
+      "options": [
+        "File Transfer",
+        "Real-time Updates",
+        "Job Search",
+        "Defragmenting a hard disk"
+      ],
+      "correct": 3,
+      "explanation": "Defragmenting a hard disk is a local OS maintenance task — NOT an internet use. File Transfer, Real-time Updates and Job Search are typical internet uses.",
+      "tags": []
+    }
+  ]
+}

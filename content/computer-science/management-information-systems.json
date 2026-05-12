@@ -1,0 +1,726 @@
+{
+  "topic_id": "management-information-systems",
+  "topic_name": "Management Information Systems",
+  "subject": "computer-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Management Information Systems MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📊",
+  "mcqs": [
+    {
+      "id": "manage-001",
+      "q": "What is a Management Information System (MIS)?",
+      "options": [
+        "A type of router",
+        "A planned system of collecting, storing and disseminating data in the form of information needed to carry out the functions of management",
+        "A type of antivirus",
+        "A type of OS"
+      ],
+      "correct": 1,
+      "explanation": "MIS is a planned system of collecting, storing and disseminating data in the form of information needed to carry out the functions of management.",
+      "tags": []
+    },
+    {
+      "id": "manage-002",
+      "q": "How many key components does MIS comprise?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 2,
+      "explanation": "MIS comprises four key components: People, Data, Software and Hardware.",
+      "tags": []
+    },
+    {
+      "id": "manage-003",
+      "q": "Which of the following are the four key components of MIS?",
+      "options": [
+        "Routers, Switches, Hubs, Modems",
+        "People, Data, Software, Hardware",
+        "RAM, ROM, CPU, GPU",
+        "Input, Output, Process, Storage"
+      ],
+      "correct": 1,
+      "explanation": "The four key components of MIS are People, Data, Software and Hardware.",
+      "tags": []
+    },
+    {
+      "id": "manage-004",
+      "q": "MIS as an academic subject is the study of:",
+      "options": [
+        "Only computers",
+        "People, technology, organizations and the relationships among them",
+        "Only marketing",
+        "Only finance"
+      ],
+      "correct": 1,
+      "explanation": "Management Information Systems is the study of people, technology, organizations and the relationships among them.",
+      "tags": []
+    },
+    {
+      "id": "manage-005",
+      "q": "An Information System can be any organized combination of:",
+      "options": [
+        "Only software",
+        "People, hardware, software, communications networks and data resources",
+        "Only hardware",
+        "Only data"
+      ],
+      "correct": 1,
+      "explanation": "An Information System is any organized combination of people, hardware, software, communications networks and data resources that collects, transforms and disseminates information in an organisation.",
+      "tags": []
+    },
+    {
+      "id": "manage-006",
+      "q": "Workers who collect, store, manage and analyze data as their primary activity are called:",
+      "options": [
+        "Knowledge workers",
+        "Data workers",
+        "Service workers",
+        "Field workers"
+      ],
+      "correct": 1,
+      "explanation": "Data workers are workers who collect, store, manage and analyze data as their primary activity, or as a relevant part of their activity.",
+      "tags": []
+    },
+    {
+      "id": "manage-007",
+      "q": "In MIS, an Entity is:",
+      "options": [
+        "A type of software",
+        "The real-world object, such as a person, place etc",
+        "A type of network",
+        "A keyboard"
+      ],
+      "correct": 1,
+      "explanation": "An Entity is a real-world object, such as a person, place, etc.",
+      "tags": []
+    },
+    {
+      "id": "manage-008",
+      "q": "Meta-Data refers to:",
+      "options": [
+        "Backup data",
+        "Information about data",
+        "Encrypted data",
+        "Deleted data"
+      ],
+      "correct": 1,
+      "explanation": "Meta-Data is the information about data — describing structure, format, source etc.",
+      "tags": []
+    },
+    {
+      "id": "manage-009",
+      "q": "In MIS, a Prototype is:",
+      "options": [
+        "A final version of the software",
+        "A working model of an existing system",
+        "A type of database",
+        "A type of network"
+      ],
+      "correct": 1,
+      "explanation": "A Prototype is a working model of an existing system.",
+      "tags": []
+    },
+    {
+      "id": "manage-010",
+      "q": "Integration in system concepts refers to:",
+      "options": [
+        "Adding more hardware",
+        "The holism of the system in real time",
+        "Encrypting data",
+        "Backing up data"
+      ],
+      "correct": 1,
+      "explanation": "Integration refers to the holism of the system in real time — the system as a unified whole.",
+      "tags": []
+    },
+    {
+      "id": "manage-011",
+      "q": "Groupware is the popular term for software that:",
+      "options": [
+        "Replaces the OS",
+        "Supports the collaborative efforts of a team",
+        "Manages a single user only",
+        "Cleans up disks"
+      ],
+      "correct": 1,
+      "explanation": "Groupware is the popular term for the software component that supports the collaborative efforts of a team.",
+      "tags": []
+    },
+    {
+      "id": "manage-012",
+      "q": "A Feedback System is concerned with:",
+      "options": [
+        "The way information is used for the purpose of control",
+        "Hardware cooling",
+        "Network speed",
+        "Antivirus updates"
+      ],
+      "correct": 0,
+      "explanation": "A Feedback System is concerned with the way information is used for purpose of control and applies technologies.",
+      "tags": []
+    },
+    {
+      "id": "manage-013",
+      "q": "A Deterministic System operates in a:",
+      "options": [
+        "Random manner",
+        "Predictable manner",
+        "Always offline mode",
+        "Read-only mode"
+      ],
+      "correct": 1,
+      "explanation": "A Deterministic System operates in a predictable manner — given the same input it always produces the same output.",
+      "tags": []
+    },
+    {
+      "id": "manage-014",
+      "q": "What is the most rapidly growing application for computer-assisted decision making?",
+      "options": [
+        "Word processing",
+        "Simulation",
+        "Image editing",
+        "Antivirus scanning"
+      ],
+      "correct": 1,
+      "explanation": "Simulation is the most rapidly growing application for computer-assisted decision making.",
+      "tags": []
+    },
+    {
+      "id": "manage-015",
+      "q": "Which type of system monitors the elementary activities and transactions of the organisation?",
+      "options": [
+        "Strategic Planning Systems",
+        "Operational-Level Systems",
+        "DSS only",
+        "Marketing IS"
+      ],
+      "correct": 1,
+      "explanation": "Operational-Level Systems monitor the elementary activities and transactions of the organisation — keeping track of daily regular business transactions.",
+      "tags": []
+    },
+    {
+      "id": "manage-016",
+      "q": "Which system transforms enterprise data into quickly accessible executive-level reports?",
+      "options": [
+        "TPS",
+        "ESS (Executive Support System)",
+        "Personnel IS",
+        "Operational-Level System"
+      ],
+      "correct": 1,
+      "explanation": "ESS (Executive Support System) is software that allows users to transform enterprise data into quickly accessible executive-level reports.",
+      "tags": []
+    },
+    {
+      "id": "manage-017",
+      "q": "Projections and responses to queries are information output characteristics associated with:",
+      "options": [
+        "TPS",
+        "ESS",
+        "Personnel IS",
+        "Operational-Level Systems"
+      ],
+      "correct": 1,
+      "explanation": "Projections and responses to queries are information output characteristics associated with ESS (Executive Support Systems).",
+      "tags": []
+    },
+    {
+      "id": "manage-018",
+      "q": "From which system does an MIS receive its input?",
+      "options": [
+        "DSS",
+        "TPS (Transaction Process System)",
+        "ESS",
+        "GIS"
+      ],
+      "correct": 1,
+      "explanation": "MIS receives input from the TPS (Transaction Process System) — the system that captures all business transactions.",
+      "tags": []
+    },
+    {
+      "id": "manage-019",
+      "q": "MIS usually serves managers interested in:",
+      "options": [
+        "Day-to-day activities",
+        "Weekly, monthly and yearly results",
+        "Only graphics",
+        "Only printing"
+      ],
+      "correct": 1,
+      "explanation": "MIS usually serves managers interested in weekly, monthly and yearly results — not day-to-day activities.",
+      "tags": []
+    },
+    {
+      "id": "manage-020",
+      "q": "What does TPS stand for in MIS?",
+      "options": [
+        "Total Processing System",
+        "Transaction Process System",
+        "Top Performing Server",
+        "Technical Processing Service"
+      ],
+      "correct": 1,
+      "explanation": "TPS stands for Transaction Process System — an information processing system for business transactions involving collection, modification and retrieval of all transaction data.",
+      "tags": []
+    },
+    {
+      "id": "manage-021",
+      "q": "Which system supports structured and semi-structured decision making?",
+      "options": [
+        "TPS",
+        "DSS (Decision Support System)",
+        "ESS",
+        "Operational-Level Systems"
+      ],
+      "correct": 1,
+      "explanation": "DSS (Decision Support System) supports structured and semi-structured decision making.",
+      "tags": []
+    },
+    {
+      "id": "manage-022",
+      "q": "EIS (Executive Information System) is best described as:",
+      "options": [
+        "A combination of MIS and DSS",
+        "Only an MIS",
+        "Only a DSS",
+        "A type of database"
+      ],
+      "correct": 0,
+      "explanation": "EIS (Executive Information System) is a combination of a MIS and DSS.",
+      "tags": []
+    },
+    {
+      "id": "manage-023",
+      "q": "GIS in the context of information systems stands for:",
+      "options": [
+        "General Information Service",
+        "Geographical Information System",
+        "Group Information Server",
+        "Global Internet Service"
+      ],
+      "correct": 1,
+      "explanation": "GIS stands for Geographical Information System — a computer-based system that stores and manipulates data viewed from a geographical reference.",
+      "tags": []
+    },
+    {
+      "id": "manage-024",
+      "q": "Which type of system deals with the projections of the future?",
+      "options": [
+        "Operational-Level Systems",
+        "Strategic Planning Systems",
+        "Personnel IS",
+        "TPS"
+      ],
+      "correct": 1,
+      "explanation": "Strategic Planning Systems deal with the projections of the future.",
+      "tags": []
+    },
+    {
+      "id": "manage-025",
+      "q": "A Personnel Information System deals with:",
+      "options": [
+        "Customer purchases",
+        "The flow of information about people working in the organization",
+        "Network packets",
+        "Hardware inventory"
+      ],
+      "correct": 1,
+      "explanation": "A Personnel Information System deals with the flow of information about people working in the organization.",
+      "tags": []
+    },
+    {
+      "id": "manage-026",
+      "q": "The effectiveness of a Marketing Information System depends largely on:",
+      "options": [
+        "Hard disk size",
+        "Feedback from the marketplace to the firm",
+        "Number of monitors",
+        "Cable type"
+      ],
+      "correct": 1,
+      "explanation": "The effectiveness of the Marketing Information System depends to a larger extent on feedback from the marketplace to the firm.",
+      "tags": []
+    },
+    {
+      "id": "manage-027",
+      "q": "Identifying customers and markets using demographics, consumer behaviour and trends is an example of which type of system?",
+      "options": [
+        "Operational-level system",
+        "Knowledge-level sales and marketing information system",
+        "TPS only",
+        "ESS only"
+      ],
+      "correct": 1,
+      "explanation": "Identifying customers and markets using data on demographics, markets, consumer behaviour and trends is an example of a knowledge-level sales and marketing information system.",
+      "tags": []
+    },
+    {
+      "id": "manage-028",
+      "q": "Operational-Level Systems primarily keep track of:",
+      "options": [
+        "Yearly summaries",
+        "Daily regular business transactions",
+        "Long-term forecasts only",
+        "Marketing surveys"
+      ],
+      "correct": 1,
+      "explanation": "Operational-Level Systems keep track of daily regular business transactions of the organisation.",
+      "tags": []
+    },
+    {
+      "id": "manage-029",
+      "q": "Which of the following is NOT a component of MIS structure?",
+      "options": [
+        "Hardware",
+        "Software",
+        "Database",
+        "Lunchroom"
+      ],
+      "correct": 3,
+      "explanation": "Lunchroom is NOT a component of MIS structure. The seven components are Hardware, Software, Database, Medium and Message, Input/Output, Operating Personnel and Procedure.",
+      "tags": []
+    },
+    {
+      "id": "manage-030",
+      "q": "In MIS structure, 'Procedure' refers to:",
+      "options": [
+        "A medical procedure",
+        "Rules and methods governing system operations",
+        "A type of hardware",
+        "A coding standard only"
+      ],
+      "correct": 1,
+      "explanation": "In MIS structure, 'Procedure' refers to the rules and methods governing system operations.",
+      "tags": []
+    },
+    {
+      "id": "manage-031",
+      "q": "In MIS structure, 'Operating Personnel' refers to:",
+      "options": [
+        "Hardware vendors",
+        "People who operate and manage the system",
+        "Customers",
+        "Software developers only"
+      ],
+      "correct": 1,
+      "explanation": "Operating Personnel are the people who operate and manage the MIS.",
+      "tags": []
+    },
+    {
+      "id": "manage-032",
+      "q": "In MIS structure, 'Medium and Message' refers to:",
+      "options": [
+        "Storage devices",
+        "Communication channels and the data transmitted",
+        "Only hardware",
+        "Only personnel"
+      ],
+      "correct": 1,
+      "explanation": "In MIS structure, 'Medium and Message' refers to the communication channels and the data that is transmitted.",
+      "tags": []
+    },
+    {
+      "id": "manage-033",
+      "q": "Which of the following BEST describes the 'Database' component in MIS?",
+      "options": [
+        "A type of hardware only",
+        "An organised collection of stored data",
+        "A software developer's tool",
+        "A type of cable"
+      ],
+      "correct": 1,
+      "explanation": "In MIS structure, the Database is the organised collection of stored data on which the MIS operates.",
+      "tags": []
+    },
+    {
+      "id": "manage-034",
+      "q": "In MIS structure, 'Input and Output' refers to:",
+      "options": [
+        "Only the keyboard",
+        "Data entered into and results produced by the system",
+        "Only the printer",
+        "Only the monitor"
+      ],
+      "correct": 1,
+      "explanation": "In MIS structure, Input and Output refer to the data entered into the system and the results produced by the system.",
+      "tags": []
+    },
+    {
+      "id": "manage-035",
+      "q": "SDLC stands for:",
+      "options": [
+        "Software Development Life Cycle",
+        "System Database Logical Connection",
+        "Standard Data Language Code",
+        "Software Diagnostic Local Cycle"
+      ],
+      "correct": 0,
+      "explanation": "SDLC stands for Software Development Life Cycle. The System Development process is also called the System Development Life Cycle.",
+      "tags": []
+    },
+    {
+      "id": "manage-036",
+      "q": "What is the first step in the SDLC?",
+      "options": [
+        "Coding",
+        "Problem / Opportunity Identification",
+        "Design",
+        "Testing"
+      ],
+      "correct": 1,
+      "explanation": "The first step in the SDLC is Problem / Opportunity Identification.",
+      "tags": []
+    },
+    {
+      "id": "manage-037",
+      "q": "Which is the most creative and challenging phase of the system life cycle?",
+      "options": [
+        "Coding",
+        "Testing",
+        "Design",
+        "Maintenance"
+      ],
+      "correct": 2,
+      "explanation": "The most creative and challenging phase of the system life cycle is Design.",
+      "tags": []
+    },
+    {
+      "id": "manage-038",
+      "q": "What is the first phase of IT planning called?",
+      "options": [
+        "Strategic Planning",
+        "Coding",
+        "Maintenance",
+        "Deployment"
+      ],
+      "correct": 0,
+      "explanation": "The first phase of IT planning is called Strategic Planning.",
+      "tags": []
+    },
+    {
+      "id": "manage-039",
+      "q": "Which of the following is NOT a phase of the software life cycle?",
+      "options": [
+        "Design",
+        "Implementation",
+        "Testing",
+        "Abstraction"
+      ],
+      "correct": 3,
+      "explanation": "Abstraction is NOT a phase of the software life cycle.",
+      "tags": []
+    },
+    {
+      "id": "manage-040",
+      "q": "Which of the following is NOT typically considered an attribute of software engineering?",
+      "options": [
+        "Maintainability",
+        "Efficiency",
+        "Dependability — actually this IS an attribute; the source notes Dependability is NOT",
+        "Reliability"
+      ],
+      "correct": 2,
+      "explanation": "Per the source material, Dependability is NOT considered an attribute of software engineering. (Many modern texts include it; this MCQ follows the source convention.)",
+      "tags": []
+    },
+    {
+      "id": "manage-041",
+      "q": "CASE in software engineering stands for:",
+      "options": [
+        "Common Application Software Environment",
+        "Computer Aided Software Engineering",
+        "Code Audit System Engine",
+        "Centralised Application Service Engine"
+      ],
+      "correct": 1,
+      "explanation": "CASE stands for Computer Aided Software Engineering — tools that support different stages of the software development life cycle.",
+      "tags": []
+    },
+    {
+      "id": "manage-042",
+      "q": "Which is considered the classical method of processing data?",
+      "options": [
+        "Real-time Processing",
+        "Batch Processing",
+        "Online Processing",
+        "Edge Processing"
+      ],
+      "correct": 1,
+      "explanation": "Batch Processing is considered the classical method of processing data — collecting transactions and processing them as a group.",
+      "tags": []
+    },
+    {
+      "id": "manage-043",
+      "q": "The Top-Down Approach is also known as:",
+      "options": [
+        "Bottom-up",
+        "Stepwise design / decomposition",
+        "Random walk",
+        "Forward chaining"
+      ],
+      "correct": 1,
+      "explanation": "The Top-Down Approach (also known as stepwise design or decomposition) is essentially the breaking down of a system to gain insight into its compositional sub-systems in a reverse engineering fashion.",
+      "tags": []
+    },
+    {
+      "id": "manage-044",
+      "q": "The Prototyping Model is a system development method where:",
+      "options": [
+        "Code is written first and tested last",
+        "A prototype is built, tested and reworked until acceptable, then the complete system is developed",
+        "Only one phase exists",
+        "Documentation is the final step"
+      ],
+      "correct": 1,
+      "explanation": "The Prototyping Model is a systems development method in which a prototype is built, tested and then reworked as necessary until an acceptable outcome is achieved, from which the complete system can be developed.",
+      "tags": []
+    },
+    {
+      "id": "manage-045",
+      "q": "What is one advantage of creating a prototype?",
+      "options": [
+        "It increases the price of the project",
+        "It allows developers to experiment with different design options and serves as a means of communication between developers and customers",
+        "It removes the need for testing",
+        "It eliminates the need for users"
+      ],
+      "correct": 1,
+      "explanation": "Advantages of a prototype include letting developers experiment with different design options and serving as a means of communication between developers and customers.",
+      "tags": []
+    },
+    {
+      "id": "manage-046",
+      "q": "EDI stands for:",
+      "options": [
+        "Electronic Data Interchange",
+        "Enterprise Data Interface",
+        "Extended Database Index",
+        "Encrypted Document Identifier"
+      ],
+      "correct": 0,
+      "explanation": "EDI stands for Electronic Data Interchange — the direct, computer-to-computer exchange of standardised business transaction documents between partners, suppliers and customers.",
+      "tags": []
+    },
+    {
+      "id": "manage-047",
+      "q": "EDP stands for:",
+      "options": [
+        "Electronic Data Processing",
+        "Enterprise Data Platform",
+        "Encrypted Database Procedure",
+        "External Device Protocol"
+      ],
+      "correct": 0,
+      "explanation": "EDP stands for Electronic Data Processing — the use of computers to process data.",
+      "tags": []
+    },
+    {
+      "id": "manage-048",
+      "q": "SRS stands for:",
+      "options": [
+        "Software Requirements Specification",
+        "System Resource Sheet",
+        "Structured Reporting Standard",
+        "Service Request Stream"
+      ],
+      "correct": 0,
+      "explanation": "SRS stands for Software Requirements Specification — the document that describes the functional and non-functional requirements of the software.",
+      "tags": []
+    },
+    {
+      "id": "manage-049",
+      "q": "GIS in MIS stands for:",
+      "options": [
+        "Global Internet Service",
+        "Geographical Information System",
+        "Group Information Server",
+        "General Information Storage"
+      ],
+      "correct": 1,
+      "explanation": "GIS stands for Geographical Information System — a system that stores and manipulates geographically referenced data.",
+      "tags": []
+    },
+    {
+      "id": "manage-050",
+      "q": "DSS stands for:",
+      "options": [
+        "Decision Support System",
+        "Distributed Server System",
+        "Data Storage Service",
+        "Direct Sequential Service"
+      ],
+      "correct": 0,
+      "explanation": "DSS stands for Decision Support System — supports structured and semi-structured decision making.",
+      "tags": []
+    },
+    {
+      "id": "manage-051",
+      "q": "ESS stands for:",
+      "options": [
+        "Electronic Sub-System",
+        "Executive Support System",
+        "Enterprise Server Service",
+        "Extended Storage Service"
+      ],
+      "correct": 1,
+      "explanation": "ESS stands for Executive Support System — software that transforms enterprise data into executive-level reports.",
+      "tags": []
+    },
+    {
+      "id": "manage-052",
+      "q": "What is the starting point of MIS planning?",
+      "options": [
+        "IT planning",
+        "General business planning",
+        "Hardware procurement",
+        "Hiring data workers"
+      ],
+      "correct": 1,
+      "explanation": "The starting point of MIS planning is general business planning — it should provide support for management planning, decision making and action.",
+      "tags": []
+    },
+    {
+      "id": "manage-053",
+      "q": "Which of the following is/are an information input characteristic of MIS?",
+      "options": [
+        "Summary transaction data, high-volume data, and simple models",
+        "Only graphics",
+        "Only audio",
+        "Only encrypted text"
+      ],
+      "correct": 0,
+      "explanation": "Summary transaction data, high-volume data, and simple models are information inputs characteristic of MIS.",
+      "tags": []
+    },
+    {
+      "id": "manage-054",
+      "q": "Which of the following is/are known as Functional Business Areas?",
+      "options": [
+        "Accounting, finance, marketing and human resources",
+        "Only IT",
+        "Only marketing",
+        "Only manufacturing"
+      ],
+      "correct": 0,
+      "explanation": "Accounting, finance, marketing and human resources are known as Functional Business Areas.",
+      "tags": []
+    },
+    {
+      "id": "manage-055",
+      "q": "What is the major drawback in decision making by MIS?",
+      "options": [
+        "It always uses too much electricity",
+        "It is difficult due to rules for business problems",
+        "It only runs on Windows",
+        "It cannot work with databases"
+      ],
+      "correct": 1,
+      "explanation": "The major drawback in decision making by MIS is that it is difficult due to rules for business problems.",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,739 @@
+{
+  "topic_id": "kashmir-siachen-and-sir-creek",
+  "topic_name": "Kashmir Siachen & Sir Creek",
+  "subject": "current-affairs",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Kashmir Siachen & Sir Creek MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🏔️",
+  "mcqs": [
+    {
+      "id": "kashmi-001",
+      "q": "Kashmir was purchased by Gulab Singh from the British Government for:",
+      "options": [
+        "Rs. 8.5 million",
+        "Rs. 7.5 million",
+        "Rs. 9.5 million",
+        "Rs. 5.5 million"
+      ],
+      "correct": 1,
+      "explanation": "Under the Treaty of Amritsar (1846), Gulab Singh purchased Kashmir from the British for Rs. 7.5 million (Nanakshahi rupees).",
+      "tags": []
+    },
+    {
+      "id": "kashmi-002",
+      "q": "The first battle for freedom against the arbitrary and repressive rule of the Dogra dynasty was fought in:",
+      "options": [
+        "1930",
+        "1932",
+        "1931",
+        "1933"
+      ],
+      "correct": 0,
+      "explanation": "The first organized battle for freedom against Dogra rule in Kashmir was fought in 1930.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-003",
+      "q": "The 'Chenab Formula' to resolve the Kashmir dispute was presented by:",
+      "options": [
+        "Sardar Abdul Qayyum Khan",
+        "Ali Shah Gilani",
+        "Sultan Mahmood",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The Chenab Formula — a proposed partition of Kashmir along the Chenab river — was presented by Sardar Abdul Qayyum Khan of Azad Kashmir.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-004",
+      "q": "The Line of Control in Kashmir was drawn in:",
+      "options": [
+        "1965",
+        "1971",
+        "1948",
+        "1972"
+      ],
+      "correct": 3,
+      "explanation": "The LoC was drawn in 1972 under the Simla Agreement signed between India and Pakistan after the 1971 war.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-005",
+      "q": "The total length of the 'Line of Control' in Kashmir is about:",
+      "options": [
+        "720 km",
+        "820 km",
+        "620 km",
+        "920 km"
+      ],
+      "correct": 0,
+      "explanation": "The Line of Control runs for about 720 km through Jammu & Kashmir.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-006",
+      "q": "Where is the Siachen Glacier located?",
+      "options": [
+        "Karakoram",
+        "Hindu Kush",
+        "Pamir",
+        "Kohistan"
+      ],
+      "correct": 0,
+      "explanation": "The Siachen Glacier is located in the Karakoram mountain range.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-007",
+      "q": "Which two countries claim the Siachen Glacier?",
+      "options": [
+        "Pakistan and India",
+        "India and China",
+        "China and Pakistan",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The Siachen Glacier is claimed by both Pakistan and India, with active troop deployments on both sides since 1984.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-008",
+      "q": "What does the word 'Siachen' mean?",
+      "options": [
+        "Place of red lilies",
+        "Place of wild roses",
+        "Place of white swans",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "'Siachen' in the local Balti language means 'place of wild roses'.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-009",
+      "q": "When was the Cease-Fire Line drawn in Kashmir?",
+      "options": [
+        "1947",
+        "1946",
+        "1948",
+        "1949"
+      ],
+      "correct": 2,
+      "explanation": "The Cease-Fire Line in Kashmir was drawn in 1948 following the first Indo-Pak war over Kashmir.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-010",
+      "q": "All Parties Hurriyat Conference (APHC) is an alliance of:",
+      "options": [
+        "18 parties",
+        "23 parties",
+        "19 parties",
+        "21 parties"
+      ],
+      "correct": 1,
+      "explanation": "APHC is an alliance of 23 political, social and religious parties from Indian-administered Jammu & Kashmir.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-011",
+      "q": "Out of 14 districts of Jammu & Kashmir, the Muslim-majority districts are:",
+      "options": [
+        "7",
+        "9",
+        "10",
+        "13"
+      ],
+      "correct": 2,
+      "explanation": "Out of 14 districts of J&K, 10 are Muslim-majority districts.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-012",
+      "q": "The percentage of Muslims in Jammu & Kashmir is approximately:",
+      "options": [
+        "80%",
+        "85%",
+        "90%",
+        "95%"
+      ],
+      "correct": 0,
+      "explanation": "Muslims make up approximately 80% of the population of Jammu & Kashmir.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-013",
+      "q": "The disputed territory between India and Pakistan after the partition of the Indian Subcontinent in August 1947 was:",
+      "options": [
+        "Kashmir",
+        "Siachen",
+        "Kishanganga",
+        "None"
+      ],
+      "correct": 0,
+      "explanation": "Kashmir has been the primary disputed territory between India and Pakistan since the partition of 1947.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-014",
+      "q": "When did Maharaja Hari Singh sign a standstill agreement with Pakistan?",
+      "options": [
+        "September 1947",
+        "August 1947",
+        "June 1947",
+        "July 1947"
+      ],
+      "correct": 2,
+      "explanation": "Maharaja Hari Singh signed a standstill agreement with Pakistan in June 1947 prior to partition.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-015",
+      "q": "Which declaration was issued by India and Pakistan after the 1965 war?",
+      "options": [
+        "Tashkent Declaration",
+        "Simla Declaration",
+        "Trieste",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The Tashkent Declaration, signed in January 1966, formally ended the 1965 Indo-Pak war.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-016",
+      "q": "India revised the Kashmir dispute in the UNO in 1948. When did the UN pass resolutions granting Kashmiris the right of plebiscite?",
+      "options": [
+        "13 August 1948",
+        "5 January 1949",
+        "Both of these",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The UN Security Council passed two plebiscite resolutions on Kashmir — on 13 August 1948 and on 5 January 1949.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-017",
+      "q": "The APHC (All Parties Hurriyat Conference) was formed in Jammu & Kashmir in:",
+      "options": [
+        "April 1993",
+        "April 1994",
+        "April 1995",
+        "April 1996"
+      ],
+      "correct": 0,
+      "explanation": "APHC was formed in April 1993 as an alliance of 23 pro-freedom parties in Jammu & Kashmir.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-018",
+      "q": "The boundary line which includes the creek in Sindh (Sir Creek area) is known as the:",
+      "options": [
+        "Blue line",
+        "Green line",
+        "Red line",
+        "Yellow line"
+      ],
+      "correct": 1,
+      "explanation": "The Green Line marks the disputed boundary between Sindh (Pakistan) and Gujarat (India) including Sir Creek.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-019",
+      "q": "A massive avalanche claimed the lives of more than a hundred Pakistani soldiers in Siachen on:",
+      "options": [
+        "6 April 2012",
+        "7 April 2012",
+        "8 April 2012",
+        "9 April 2012"
+      ],
+      "correct": 1,
+      "explanation": "The Gayari avalanche in Siachen occurred on 7 April 2012.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-020",
+      "q": "The Siachen Glacier in mountainous Kashmir is known as the world's highest:",
+      "options": [
+        "Glacier",
+        "Mountain",
+        "Battlefront",
+        "Lake"
+      ],
+      "correct": 2,
+      "explanation": "Siachen is known as the world's highest battlefield — where India and Pakistan have maintained troop deployments above 5,000 metres since 1984.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-021",
+      "q": "Siachen has been the site of fierce fighting between nuclear-armed rivals Pakistan and India since:",
+      "options": [
+        "1984",
+        "1985",
+        "1986",
+        "1987"
+      ],
+      "correct": 0,
+      "explanation": "Active military conflict on Siachen began in 1984 when India launched Operation Meghdoot to occupy the glacier.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-022",
+      "q": "Where is the Siachen Glacier situated?",
+      "options": [
+        "Baltistan",
+        "Skardu",
+        "Swat",
+        "Hunza"
+      ],
+      "correct": 0,
+      "explanation": "The Siachen Glacier is situated in the Baltistan region of Gilgit-Baltistan.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-023",
+      "q": "The Siachen camp of Pakistani troops is located in:",
+      "options": [
+        "Gayari district",
+        "Peb district",
+        "Ladakh district",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The Pakistan Army's Siachen base camp is located in the Gayari sector — where the 2012 avalanche struck.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-024",
+      "q": "India and Pakistan fought a fierce battle over Siachen in ______, raising fears of all-out conflict.",
+      "options": [
+        "1985",
+        "1986",
+        "1987",
+        "1988"
+      ],
+      "correct": 2,
+      "explanation": "In 1987, India and Pakistan fought a major battle over Siachen (the Bilafond La/Op Rajiv–Qaidat-e-Shaheed clashes), raising fears of wider war.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-025",
+      "q": "Guns on the Siachen Glacier have largely fallen silent since a peace process was launched between Pakistan and India in:",
+      "options": [
+        "2004",
+        "2005",
+        "2006",
+        "2007"
+      ],
+      "correct": 0,
+      "explanation": "The Siachen guns have largely fallen silent since the composite peace dialogue launched in 2004.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-026",
+      "q": "How many total persons were buried alive as the avalanche hit the Pakistan Army camp in Siachen in 2012?",
+      "options": [
+        "130",
+        "120",
+        "124",
+        "135"
+      ],
+      "correct": 3,
+      "explanation": "The 2012 Gayari avalanche buried 135 people alive in total — 124 soldiers and 11 civilian workers.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-027",
+      "q": "How many civilians were buried alive when the avalanche hit the Pakistan Army camp in Siachen?",
+      "options": [
+        "11",
+        "12",
+        "14",
+        "13"
+      ],
+      "correct": 0,
+      "explanation": "Eleven civilian workers were among those buried in the 2012 Gayari avalanche.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-028",
+      "q": "How many army soldiers were buried alive when the avalanche hit the Pakistan Army camp in Siachen?",
+      "options": [
+        "130",
+        "120",
+        "124",
+        "135"
+      ],
+      "correct": 2,
+      "explanation": "124 Pakistan Army soldiers were buried alive in the 2012 Gayari Siachen avalanche.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-029",
+      "q": "Siachen is close to four of the world's 14 peaks above 8,000 metres — K2, Broad Peak, Gasherbrum I and ______ — all on the Pakistani side of the frontline.",
+      "options": [
+        "Gasherbrum II",
+        "Nanga Parbat",
+        "Rakaposhi",
+        "Tirich Mir"
+      ],
+      "correct": 0,
+      "explanation": "The fourth 8,000-metre peak near Siachen (on the Pakistani side) is Gasherbrum II.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-030",
+      "q": "12 of the world's 30 highest mountains are located in which range?",
+      "options": [
+        "Himalaya",
+        "Hindu Kush",
+        "Pamir",
+        "Karakoram"
+      ],
+      "correct": 3,
+      "explanation": "12 of the world's 30 highest peaks — including K2, the world's second-highest mountain — are in the Karakoram range.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-031",
+      "q": "Name the longest glacier of Pakistan.",
+      "options": [
+        "Hispar",
+        "Baltoro",
+        "Siachen",
+        "Batura"
+      ],
+      "correct": 2,
+      "explanation": "Siachen is the longest glacier in Pakistan at about 72.5 km.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-032",
+      "q": "What is the total length of the Siachen Glacier?",
+      "options": [
+        "63 km",
+        "67 km",
+        "72.5 km",
+        "71.5 km"
+      ],
+      "correct": 2,
+      "explanation": "The Siachen Glacier is approximately 72.5 km long.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-033",
+      "q": "The Siachen Glacier is situated in the mountain range of:",
+      "options": [
+        "Karakoram",
+        "Sulaiman",
+        "Hindu Kush",
+        "Himalayas"
+      ],
+      "correct": 0,
+      "explanation": "Siachen lies in the Karakoram mountain range.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-034",
+      "q": "Name the highest glacier of Pakistan.",
+      "options": [
+        "Hispar",
+        "Baltoro",
+        "Siachen",
+        "Batura"
+      ],
+      "correct": 2,
+      "explanation": "Siachen is also the highest glacier in Pakistan by altitude.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-035",
+      "q": "The Siachen Glacier is the longest glacier in the Karakoram and the ____ longest in the world's non-polar areas.",
+      "options": [
+        "2nd",
+        "3rd",
+        "4th",
+        "5th"
+      ],
+      "correct": 0,
+      "explanation": "Siachen is the 2nd longest glacier in the world's non-polar regions (after Fedchenko Glacier in Tajikistan).",
+      "tags": []
+    },
+    {
+      "id": "kashmi-036",
+      "q": "When did the Rann of Kutch arbitration take place?",
+      "options": [
+        "1947",
+        "1968",
+        "1960",
+        "1965"
+      ],
+      "correct": 1,
+      "explanation": "The Rann of Kutch arbitration tribunal delivered its verdict in 1968.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-037",
+      "q": "In what year did the Rann of Kutch arbitration award Pakistan 10% of its claim over 9,000 sq km?",
+      "options": [
+        "1966",
+        "1967",
+        "1968",
+        "1969"
+      ],
+      "correct": 2,
+      "explanation": "The 1968 arbitration verdict awarded Pakistan roughly 10% of the 9,000 sq km it had claimed.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-038",
+      "q": "The Sir Creek dispute hinges on the interpretation of the line between the Rann of Kutch and Sindh as depicted in which maps?",
+      "options": [
+        "1914 map",
+        "1925 map",
+        "1945 map",
+        "Both 1914 and 1925 maps"
+      ],
+      "correct": 3,
+      "explanation": "The dispute over Sir Creek is based on interpretation of the 1914 and 1925 maps that show the boundary between the Rann of Kutch and Sindh.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-039",
+      "q": "The name of the highest battlefield in Pakistan as well as in the world is:",
+      "options": [
+        "Hispar Glacier",
+        "Baltoro Glacier",
+        "Yengutsa Glacier",
+        "Siachen Glacier"
+      ],
+      "correct": 3,
+      "explanation": "Siachen is universally referred to as the highest battlefield in Pakistan and the world.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-040",
+      "q": "What is the total length of Sir Creek?",
+      "options": [
+        "35 miles",
+        "45 miles",
+        "55 miles",
+        "60 miles"
+      ],
+      "correct": 3,
+      "explanation": "Sir Creek is a 60-mile tidal estuary in the Rann of Kutch.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-041",
+      "q": "Which Article of the Indian Constitution was scrapped by the Indian Parliament on 5 August 2019, stripping IIOJK of its special status?",
+      "options": [
+        "Article 370",
+        "Article 356",
+        "Article 377",
+        "Article 246"
+      ],
+      "correct": 0,
+      "explanation": "Article 370 was revoked by the Indian Parliament on 5 August 2019, ending the special autonomous status of Jammu & Kashmir.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-042",
+      "q": "Which of the following Articles was revoked alongside Article 370?",
+      "options": [
+        "Article 174",
+        "Article 244",
+        "Article 153",
+        "Article 35A"
+      ],
+      "correct": 3,
+      "explanation": "Article 35A — which permitted J&K to define its permanent residents — was revoked alongside Article 370 on 5 August 2019.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-043",
+      "q": "After the bifurcation of Jammu & Kashmir in 2019, which of the following became a new Union Territory without a legislature?",
+      "options": [
+        "Puducherry",
+        "Chandigarh",
+        "Ladakh",
+        "Jammu"
+      ],
+      "correct": 2,
+      "explanation": "Ladakh was declared a new Union Territory without a legislature, while Jammu & Kashmir became a Union Territory with a legislature.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-044",
+      "q": "Indian aircraft violated the Line of Control and were scrambled back after timely PAF response on:",
+      "options": [
+        "25 February 2019",
+        "26 February 2019",
+        "27 February 2019",
+        "28 February 2019"
+      ],
+      "correct": 1,
+      "explanation": "Indian aircraft violated the LoC on 26 February 2019 and were forced to return after the PAF scrambled its jets.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-045",
+      "q": "The Pakistan Air Force (PAF) shot down how many Indian jets on 27 February 2019?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "explanation": "PAF shot down 2 Indian Air Force jets on 27 February 2019 inside Pakistani airspace.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-046",
+      "q": "Wing Commander Noman Ali Khan shot down one Indian jet on 27 February 2019. The PAF Squadron Leader who shot down the second Indian jet was:",
+      "options": [
+        "Sq. Ldr Hassan Siddiqui",
+        "Sq. Ldr Sikander Khan",
+        "Sq. Ldr Javed Khan",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Squadron Leader Hassan Siddiqui shot down the second Indian Air Force jet on 27 February 2019.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-047",
+      "q": "The district of AJ&K (Azad Jammu & Kashmir) where an Indian aircraft crashed on 27 February 2019 was:",
+      "options": [
+        "Leepa, Hattian Bala",
+        "Khanjar, Bhimber district",
+        "Kohi Ratta, Kotli District",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The Indian aircraft crashed in Kohi Ratta, Kotli District, AJ&K on 27 February 2019.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-048",
+      "q": "Two Indian Air Force (IAF) aircraft were shot down by the PAF inside Pakistani airspace on 27 February 2019. One was a Sukhoi Su-30MKI; the second was a:",
+      "options": [
+        "MiG-21 aircraft",
+        "MiC-22 aircraft",
+        "MiE-31 aircraft",
+        "MiF-32 aircraft"
+      ],
+      "correct": 0,
+      "explanation": "The second IAF aircraft shot down on 27 February 2019 was a MiG-21 Bison.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-049",
+      "q": "Which Indian pilot was captured by the Pakistan Army on 27 February 2019?",
+      "options": [
+        "Abhinandan Varthaman",
+        "Parteeb Dev",
+        "Abhiganjan",
+        "Narendra Modi"
+      ],
+      "correct": 0,
+      "explanation": "Wing Commander Abhinandan Varthaman of the Indian Air Force was captured by the Pakistan Army on 27 February 2019 after his MiG-21 was shot down.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-050",
+      "q": "On which date did the Prime Minister of Pakistan announce the release of Indian pilot Abhinandan as a gesture of peace?",
+      "options": [
+        "25 February 2019",
+        "26 February 2019",
+        "27 February 2019",
+        "28 February 2019"
+      ],
+      "correct": 3,
+      "explanation": "Prime Minister Imran Khan announced the release of Indian pilot Abhinandan on 28 February 2019 as a 'gesture of peace'.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-051",
+      "q": "On which date was Indian pilot Abhinandan released?",
+      "options": [
+        "1 March 2019",
+        "2 March 2019",
+        "7 March 2019",
+        "8 March 2019"
+      ],
+      "correct": 0,
+      "explanation": "Indian pilot Abhinandan was released and handed over at the Wagah border on 1 March 2019.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-052",
+      "q": "Squadron Leader Hassan Siddiqui was featured in a Defence Day 2016 video song paying tribute to the bravery and professionalism of the Pakistan Air Force. The song's title was:",
+      "options": [
+        "Oonchi Uran",
+        "In Fazaon Se Aage",
+        "Fizaon Ke Mohafiz",
+        "Junoon Zouq-e-Parwaaz Hai"
+      ],
+      "correct": 2,
+      "explanation": "Squadron Leader Hassan Siddiqui was featured in the PAF Defence Day 2016 tribute video song 'Fizaon Ke Mohafiz'.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-053",
+      "q": "Who was the Director General of ISPR (Inter-Services Public Relations) when the 27 Feb 2019 events took place?",
+      "options": [
+        "Maj Gen Asim Munir",
+        "Maj Gen Asif Ghafoor",
+        "Lt Gen Zubair Hayat",
+        "Lt Gen Qamar Javed Bajwa"
+      ],
+      "correct": 1,
+      "explanation": "Maj Gen Asif Ghafoor was the DG ISPR during the 27 February 2019 India-Pakistan aerial engagement and the public announcement of the captured pilot Abhinandan.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-054",
+      "q": "Omar Abdullah was sworn in as Chief Minister of Indian Illegally Occupied Jammu & Kashmir (IIOJK) on ____, 2024.",
+      "options": [
+        "1 October",
+        "6 October",
+        "10 October",
+        "16 October"
+      ],
+      "correct": 3,
+      "explanation": "Omar Abdullah took oath as Chief Minister of IIOJK on 16 October 2024 — the first elected CM after Article 370 was scrapped.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-055",
+      "q": "Omar Abdullah, the Chief Minister of IIOJK, belongs to which political party?",
+      "options": [
+        "BJP",
+        "National Conference",
+        "Indian National Congress",
+        "Muslim Conference"
+      ],
+      "correct": 1,
+      "explanation": "Omar Abdullah is a senior leader of the Jammu & Kashmir National Conference (JKNC), the party founded by his grandfather Sheikh Abdullah.",
+      "tags": []
+    },
+    {
+      "id": "kashmi-056",
+      "q": "Which international body released two reports on 'the situation of human rights in Indian-administered Kashmir and Pakistan-administered Kashmir'?",
+      "options": [
+        "UN Commission of Human Rights (OHCHR)",
+        "Amnesty International",
+        "European Union Human Commission",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The UN Office of the High Commissioner for Human Rights (OHCHR) released two major reports on the human rights situation in Indian-administered Kashmir and Pakistan-administered Kashmir.",
+      "tags": []
+    }
+  ]
+}

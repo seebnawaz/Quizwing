@@ -1,0 +1,2208 @@
+{
+  "topic_id": "sports-national-and-international",
+  "topic_name": "Sports National & International",
+  "subject": "current-affairs",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Sports National & International MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "⚽",
+  "mcqs": [
+    {
+      "id": "sports-001",
+      "q": "The next ICC Cricket World Cup 2027 will be held in:",
+      "options": [
+        "England & Wales",
+        "Australia",
+        "South Africa",
+        "India"
+      ],
+      "correct": 3,
+      "explanation": "India is the lead host of the ICC Cricket World Cup 2027 (with co-hosts).",
+      "tags": []
+    },
+    {
+      "id": "sports-002",
+      "q": "The 9th ICC Men's T20 World Cup 2024 was won by:",
+      "options": [
+        "Pakistan",
+        "England",
+        "India",
+        "New Zealand"
+      ],
+      "correct": 2,
+      "explanation": "India won the 2024 T20 World Cup.",
+      "tags": []
+    },
+    {
+      "id": "sports-003",
+      "q": "The 2022 FIFA World Cup was held in:",
+      "options": [
+        "Qatar",
+        "Saudi Arabia",
+        "Morocco",
+        "Mexico"
+      ],
+      "correct": 0,
+      "explanation": "The 2022 FIFA World Cup was hosted by Qatar.",
+      "tags": []
+    },
+    {
+      "id": "sports-004",
+      "q": "Which Chinese city hosted the Asian Games 2022?",
+      "options": [
+        "Hangzhou",
+        "Beijing",
+        "Guangzhou",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The 19th Asian Games (held in 2023) were hosted by Hangzhou, China.",
+      "tags": []
+    },
+    {
+      "id": "sports-005",
+      "q": "The 2022 Winter Olympics was held in:",
+      "options": [
+        "Japan",
+        "USA",
+        "Brazil",
+        "China"
+      ],
+      "correct": 3,
+      "explanation": "The 2022 Winter Olympics were held in Beijing, China.",
+      "tags": []
+    },
+    {
+      "id": "sports-006",
+      "q": "The 2024 Summer Olympics were held in:",
+      "options": [
+        "Japan",
+        "USA",
+        "Paris, France",
+        "China"
+      ],
+      "correct": 2,
+      "explanation": "The 2024 Summer Olympics were hosted by Paris, France.",
+      "tags": []
+    },
+    {
+      "id": "sports-007",
+      "q": "The 2028 Summer Olympics will be held in:",
+      "options": [
+        "Japan",
+        "USA",
+        "Paris, France",
+        "China"
+      ],
+      "correct": 1,
+      "explanation": "The 2028 Summer Olympics will be held in Los Angeles, USA.",
+      "tags": []
+    },
+    {
+      "id": "sports-008",
+      "q": "The 7th ICC Men's T20 World Cup 2021 (held in UAE) was won by:",
+      "options": [
+        "Pakistan",
+        "England",
+        "Australia",
+        "New Zealand"
+      ],
+      "correct": 2,
+      "explanation": "Australia won the 2021 T20 World Cup in the UAE.",
+      "tags": []
+    },
+    {
+      "id": "sports-009",
+      "q": "Who won the first T20 Cricket World Cup played in South Africa in 2007?",
+      "options": [
+        "Australia",
+        "India",
+        "Pakistan",
+        "Sri Lanka"
+      ],
+      "correct": 1,
+      "explanation": "India won the inaugural ICC Men's T20 World Cup in 2007.",
+      "tags": []
+    },
+    {
+      "id": "sports-010",
+      "q": "The second T20 Cricket World Cup, played in England, was won by:",
+      "options": [
+        "England",
+        "India",
+        "West Indies",
+        "Pakistan"
+      ],
+      "correct": 3,
+      "explanation": "Pakistan won the 2009 T20 World Cup in England.",
+      "tags": []
+    },
+    {
+      "id": "sports-011",
+      "q": "The Thomas Cup is associated with which sport?",
+      "options": [
+        "Table tennis",
+        "Badminton",
+        "Tennis",
+        "Yacht Racing"
+      ],
+      "correct": 1,
+      "explanation": "The Thomas Cup is the premier men's badminton team championship.",
+      "tags": []
+    },
+    {
+      "id": "sports-012",
+      "q": "Who has the record for the fastest fifty in an ODI (16 balls vs West Indies)?",
+      "options": [
+        "A.B. de Villiers",
+        "Chris Gayle",
+        "Corey Anderson",
+        "Shahid Afridi"
+      ],
+      "correct": 0,
+      "explanation": "A.B. de Villiers scored the fastest ODI fifty in 16 balls against West Indies.",
+      "tags": []
+    },
+    {
+      "id": "sports-013",
+      "q": "The first FIFA Women's World Cup was played in:",
+      "options": [
+        "1971",
+        "1981",
+        "1991",
+        "1996"
+      ],
+      "correct": 2,
+      "explanation": "The first FIFA Women's World Cup was held in 1991 (China).",
+      "tags": []
+    },
+    {
+      "id": "sports-014",
+      "q": "Who won the first FIFA Women's World Cup?",
+      "options": [
+        "South Africa",
+        "England",
+        "Australia",
+        "United States"
+      ],
+      "correct": 3,
+      "explanation": "The United States won the first FIFA Women's World Cup in 1991.",
+      "tags": []
+    },
+    {
+      "id": "sports-015",
+      "q": "Who was the winner of the first Asia Cricket Cup?",
+      "options": [
+        "South Africa",
+        "England",
+        "Australia",
+        "India"
+      ],
+      "correct": 3,
+      "explanation": "India won the first Asia Cup in 1984.",
+      "tags": []
+    },
+    {
+      "id": "sports-016",
+      "q": "The first Asia Cricket Cup was played in:",
+      "options": [
+        "1984 in South Africa",
+        "1984 in England",
+        "1984 in Australia",
+        "1984 in UAE/Sharjah"
+      ],
+      "correct": 3,
+      "explanation": "As per the source bank: the first Asia Cup was played in 1984 (the venue here lists India as the original answer choice; the actual venue was Sharjah). User answer key kept.",
+      "tags": []
+    },
+    {
+      "id": "sports-017",
+      "q": "Who won the first ICC Champions Trophy?",
+      "options": [
+        "South Africa",
+        "England",
+        "Australia",
+        "India"
+      ],
+      "correct": 0,
+      "explanation": "South Africa won the inaugural ICC Champions Trophy in 1998.",
+      "tags": []
+    },
+    {
+      "id": "sports-018",
+      "q": "Who is called the 'Father of Cricket'?",
+      "options": [
+        "Sir Garfield Sobers",
+        "Steve Waugh",
+        "Allan Border",
+        "Dr W. G. Grace"
+      ],
+      "correct": 3,
+      "explanation": "Dr William Gilbert Grace is widely regarded as the Father of Cricket.",
+      "tags": []
+    },
+    {
+      "id": "sports-019",
+      "q": "Which team won PSL-7 (2022)?",
+      "options": [
+        "Peshawar Zalmi",
+        "Islamabad United",
+        "Quetta Gladiators",
+        "Lahore Qalandars"
+      ],
+      "correct": 3,
+      "explanation": "Lahore Qalandars won PSL-7 in 2022.",
+      "tags": []
+    },
+    {
+      "id": "sports-020",
+      "q": "Which team won PSL-8 (2023)?",
+      "options": [
+        "Peshawar Zalmi",
+        "Islamabad United",
+        "Quetta Gladiators",
+        "Lahore Qalandars"
+      ],
+      "correct": 3,
+      "explanation": "Lahore Qalandars won PSL-8 in 2023, retaining their title.",
+      "tags": []
+    },
+    {
+      "id": "sports-021",
+      "q": "The 2020 Summer Olympics were held in:",
+      "options": [
+        "Russia",
+        "USA",
+        "Brazil",
+        "Japan"
+      ],
+      "correct": 3,
+      "explanation": "The Tokyo 2020 Summer Olympics opened in Tokyo, Japan, on 23 July 2021.",
+      "tags": []
+    },
+    {
+      "id": "sports-022",
+      "q": "Which sport made its debut at the Olympics 2020?",
+      "options": [
+        "Karate",
+        "Fencing",
+        "Judo",
+        "Equestrian"
+      ],
+      "correct": 0,
+      "explanation": "Karate made its Olympic debut at Tokyo 2020.",
+      "tags": []
+    },
+    {
+      "id": "sports-023",
+      "q": "Which sport returned to the Olympics 2020 after being cut previously?",
+      "options": [
+        "Baseball",
+        "Golf",
+        "Judo",
+        "Fencing"
+      ],
+      "correct": 0,
+      "explanation": "Baseball/softball returned to the Olympics at Tokyo 2020.",
+      "tags": []
+    },
+    {
+      "id": "sports-024",
+      "q": "Japan has hosted the Summer Olympics for the:",
+      "options": [
+        "1st time",
+        "2nd time",
+        "3rd time",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Tokyo 2020 was Japan's 2nd Summer Olympics (first was Tokyo 1964).",
+      "tags": []
+    },
+    {
+      "id": "sports-025",
+      "q": "Which country finished 3rd with 58 medals at the Tokyo Olympics?",
+      "options": [
+        "Japan",
+        "Russia",
+        "India",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Japan finished 3rd at Tokyo 2020 with 58 medals.",
+      "tags": []
+    },
+    {
+      "id": "sports-026",
+      "q": "Which country finished 2nd at the Tokyo Olympics?",
+      "options": [
+        "China",
+        "UK",
+        "Australia",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "China finished 2nd at the Tokyo 2020 Olympics.",
+      "tags": []
+    },
+    {
+      "id": "sports-027",
+      "q": "Which country won the most medals at the Tokyo Olympics 2020?",
+      "options": [
+        "Japan",
+        "China",
+        "United States",
+        "India"
+      ],
+      "correct": 2,
+      "explanation": "The United States topped the medal table at Tokyo 2020.",
+      "tags": []
+    },
+    {
+      "id": "sports-028",
+      "q": "Which nation is always first in the Parade of Nations at the Olympics opening ceremony?",
+      "options": [
+        "Italy",
+        "Rome",
+        "Greece",
+        "UK"
+      ],
+      "correct": 2,
+      "explanation": "Greece always leads the Parade of Nations as the birthplace of the Olympics.",
+      "tags": []
+    },
+    {
+      "id": "sports-029",
+      "q": "How many gold medals did Pakistan get in the 2020 Summer Olympics?",
+      "options": [
+        "Zero",
+        "3",
+        "2",
+        "5"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan won zero gold medals at Tokyo 2020.",
+      "tags": []
+    },
+    {
+      "id": "sports-030",
+      "q": "Which nation's cricket board has refused to host the Afghanistan men's cricket team?",
+      "options": [
+        "England",
+        "Australia",
+        "India",
+        "South Africa"
+      ],
+      "correct": 1,
+      "explanation": "Cricket Australia has refused to host the Afghanistan men's team in protest of Taliban policies on women's cricket.",
+      "tags": []
+    },
+    {
+      "id": "sports-031",
+      "q": "The ICC Cricket World Cup 2019 was held in:",
+      "options": [
+        "England & Wales",
+        "Australia",
+        "South Africa",
+        "India"
+      ],
+      "correct": 0,
+      "explanation": "The 2019 Cricket World Cup was held in England and Wales.",
+      "tags": []
+    },
+    {
+      "id": "sports-032",
+      "q": "Which team won the FIFA World Cup 2018?",
+      "options": [
+        "England",
+        "France",
+        "Germany",
+        "Croatia"
+      ],
+      "correct": 1,
+      "explanation": "France won the 2018 FIFA World Cup.",
+      "tags": []
+    },
+    {
+      "id": "sports-033",
+      "q": "Which team won the FIFA World Cup 2022?",
+      "options": [
+        "Argentina",
+        "France",
+        "Germany",
+        "Croatia"
+      ],
+      "correct": 0,
+      "explanation": "Argentina won the 2022 FIFA World Cup in Qatar.",
+      "tags": []
+    },
+    {
+      "id": "sports-034",
+      "q": "The 2018 Commonwealth Games were held in which Australian city?",
+      "options": [
+        "Canberra",
+        "Sydney",
+        "Gold Coast",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The 2018 Commonwealth Games were held in Gold Coast, Australia.",
+      "tags": []
+    },
+    {
+      "id": "sports-035",
+      "q": "The 2018 Asian Games were held in:",
+      "options": [
+        "Jakarta",
+        "Palembang",
+        "Both Jakarta and Palembang",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The 2018 Asian Games were jointly held in Jakarta and Palembang, Indonesia.",
+      "tags": []
+    },
+    {
+      "id": "sports-036",
+      "q": "Which country won the first ICC Cricket World Cup?",
+      "options": [
+        "South Africa",
+        "Australia",
+        "England",
+        "West Indies"
+      ],
+      "correct": 3,
+      "explanation": "West Indies won the first ICC Cricket World Cup in 1975.",
+      "tags": []
+    },
+    {
+      "id": "sports-037",
+      "q": "Which country won the 5th ICC Cricket World Cup in 1992?",
+      "options": [
+        "South Africa",
+        "Pakistan",
+        "England",
+        "India"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan won the 1992 World Cup in Australia/New Zealand under Imran Khan.",
+      "tags": []
+    },
+    {
+      "id": "sports-038",
+      "q": "The first ICC Cricket World Cup was played in:",
+      "options": [
+        "South Africa",
+        "Australia",
+        "England",
+        "West Indies"
+      ],
+      "correct": 2,
+      "explanation": "The first ICC Cricket World Cup (1975) was held in England.",
+      "tags": []
+    },
+    {
+      "id": "sports-039",
+      "q": "Who is known as 'Chacha Cricket' — the mascot of Pakistani crowds?",
+      "options": [
+        "Abdul Jalil",
+        "Hashim Khan",
+        "Nasir Jamil",
+        "Yasir Khan"
+      ],
+      "correct": 0,
+      "explanation": "Chaudhry Abdul Jalil is famously known as 'Chacha Cricket'.",
+      "tags": []
+    },
+    {
+      "id": "sports-040",
+      "q": "Who was the first Test batsman to reach 11,000 Test runs?",
+      "options": [
+        "Sir Garfield Sobers",
+        "Steve Waugh",
+        "Allan Border",
+        "Sunil Gavaskar"
+      ],
+      "correct": 2,
+      "explanation": "Allan Border was the first batsman to reach 11,000 Test runs.",
+      "tags": []
+    },
+    {
+      "id": "sports-041",
+      "q": "Who faced the first ball in the first ever ODI match?",
+      "options": [
+        "Geoffrey Boycott",
+        "Allan Border",
+        "Greg Chappell",
+        "David Hookes"
+      ],
+      "correct": 0,
+      "explanation": "Geoffrey Boycott of England faced the first ball in the first ODI (5 January 1971).",
+      "tags": []
+    },
+    {
+      "id": "sports-042",
+      "q": "Which country won the 12th ICC Cricket World Cup 2019?",
+      "options": [
+        "Australia",
+        "Pakistan",
+        "Sri Lanka",
+        "England"
+      ],
+      "correct": 3,
+      "explanation": "England won the 2019 World Cup (their first).",
+      "tags": []
+    },
+    {
+      "id": "sports-043",
+      "q": "Which country won the 13th ICC Cricket World Cup 2023?",
+      "options": [
+        "Australia",
+        "Pakistan",
+        "Sri Lanka",
+        "England"
+      ],
+      "correct": 0,
+      "explanation": "Australia won the 2023 Cricket World Cup in India — their record 6th title.",
+      "tags": []
+    },
+    {
+      "id": "sports-044",
+      "q": "In 1955, which country became the first to officially tour Pakistan, playing five drawn Tests?",
+      "options": [
+        "India",
+        "England",
+        "West Indies",
+        "Australia"
+      ],
+      "correct": 0,
+      "explanation": "India was the first country to officially tour Pakistan in 1955.",
+      "tags": []
+    },
+    {
+      "id": "sports-045",
+      "q": "Who was the first captain of the Pakistan cricket team?",
+      "options": [
+        "Hanif Mohammad",
+        "Nazar Mohammad",
+        "Abdul Hafeez Kardar",
+        "Mohammad Yousuf"
+      ],
+      "correct": 2,
+      "explanation": "Abdul Hafeez Kardar was Pakistan's first Test captain.",
+      "tags": []
+    },
+    {
+      "id": "sports-046",
+      "q": "In the 1992 World Cup final at Melbourne, Pakistan beat which team by 22 runs?",
+      "options": [
+        "England",
+        "India",
+        "Australia",
+        "West Indies"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan beat England by 22 runs at the MCG in the 1992 World Cup final.",
+      "tags": []
+    },
+    {
+      "id": "sports-047",
+      "q": "Who made the highest individual score in an ODI from the Pakistan side?",
+      "options": [
+        "Fakhar Zaman",
+        "Rashid Ali",
+        "Shahid Afridi",
+        "Saeed Anwar"
+      ],
+      "correct": 0,
+      "explanation": "Fakhar Zaman holds Pakistan's highest individual ODI score (210 not out vs Zimbabwe).",
+      "tags": []
+    },
+    {
+      "id": "sports-048",
+      "q": "Who made the third-fastest century in an ODI (102 runs in 37 balls vs Sri Lanka)?",
+      "options": [
+        "Shahid Afridi",
+        "Mohammad Yousuf",
+        "Riaz Afridi",
+        "Imran Nazir"
+      ],
+      "correct": 0,
+      "explanation": "Shahid Afridi scored 102 in 37 balls — at the time the fastest ODI century, later held as third-fastest.",
+      "tags": []
+    },
+    {
+      "id": "sports-049",
+      "q": "Who delivered the fastest delivery in cricket (100.23 mph)?",
+      "options": [
+        "Shoaib Akhtar",
+        "Wasim Akram",
+        "Waqar Younis",
+        "Mohammad Amir"
+      ],
+      "correct": 0,
+      "explanation": "Shoaib Akhtar bowled at 100.23 mph against England in the 2003 World Cup at Cape Town.",
+      "tags": []
+    },
+    {
+      "id": "sports-050",
+      "q": "Name the Pakistani female bowler who took more than 100 wickets in cricket.",
+      "options": [
+        "Javeria",
+        "Sana Mir",
+        "Nadia",
+        "Saira Khan"
+      ],
+      "correct": 1,
+      "explanation": "Sana Mir was the first Pakistani woman to take more than 100 ODI wickets.",
+      "tags": []
+    },
+    {
+      "id": "sports-051",
+      "q": "What name is given to Test matches between Australia and England?",
+      "options": [
+        "The Ashes",
+        "Super Bowl",
+        "The Pinnacle",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The Ashes is the historic Test rivalry between Australia and England.",
+      "tags": []
+    },
+    {
+      "id": "sports-052",
+      "q": "Where was the first ICC Champions Trophy held?",
+      "options": [
+        "Kenya, 1999",
+        "England, 1995",
+        "India, 1997",
+        "Bangladesh, 1998"
+      ],
+      "correct": 3,
+      "explanation": "The first ICC Champions Trophy was held in Bangladesh in 1998.",
+      "tags": []
+    },
+    {
+      "id": "sports-053",
+      "q": "The Test-career highest individual score record (400 not out) is held by:",
+      "options": [
+        "S. T. Jayasuriya",
+        "D. G. Bradman",
+        "Brian Lara",
+        "M. Hayden"
+      ],
+      "correct": 2,
+      "explanation": "Brian Lara holds the highest Test individual score (400 not out vs England, 2004).",
+      "tags": []
+    },
+    {
+      "id": "sports-054",
+      "q": "Who made the fastest Test century in just 54 balls?",
+      "options": [
+        "Viv Richards",
+        "Misbah-ul-Haq",
+        "Shahid Afridi",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Misbah-ul-Haq scored a 56-ball Test century against Australia in 2014, equalling the record (the source bank states 54 balls).",
+      "tags": []
+    },
+    {
+      "id": "sports-055",
+      "q": "Which bowler has taken more than 700 wickets in Test cricket?",
+      "options": [
+        "M. Muralitharan",
+        "Wasim Akram",
+        "Shane Warne",
+        "Both Muralitharan and Warne"
+      ],
+      "correct": 3,
+      "explanation": "Both Muttiah Muralitharan and Shane Warne crossed 700 Test wickets.",
+      "tags": []
+    },
+    {
+      "id": "sports-056",
+      "q": "Who made the highest individual score in an ODI (264 runs)?",
+      "options": [
+        "Virender Sehwag",
+        "Saeed Anwar",
+        "Sachin Tendulkar",
+        "Rohit Sharma"
+      ],
+      "correct": 3,
+      "explanation": "Rohit Sharma scored 264 vs Sri Lanka in 2014 — the highest individual ODI score.",
+      "tags": []
+    },
+    {
+      "id": "sports-057",
+      "q": "Cricket is the national game of which country (per the source bank)?",
+      "options": [
+        "Bangladesh",
+        "Australia",
+        "Pakistan",
+        "Sri Lanka"
+      ],
+      "correct": 1,
+      "explanation": "As per the source bank: cricket is treated as the national game of Australia.",
+      "tags": []
+    },
+    {
+      "id": "sports-058",
+      "q": "M. Muralitharan ranks at which position among the all-time leading Test wicket-takers?",
+      "options": [
+        "1st",
+        "2nd",
+        "3rd",
+        "4th"
+      ],
+      "correct": 0,
+      "explanation": "Muttiah Muralitharan is the highest all-time wicket-taker in Test cricket (800).",
+      "tags": []
+    },
+    {
+      "id": "sports-059",
+      "q": "What is the height of the wickets used in cricket?",
+      "options": [
+        "26 inches (66 cm)",
+        "27 inches (68.6 cm)",
+        "28 inches (71.1 cm)",
+        "29 inches (73.7 cm)"
+      ],
+      "correct": 2,
+      "explanation": "Cricket wickets are 28 inches (71.1 cm) tall above the popping crease.",
+      "tags": []
+    },
+    {
+      "id": "sports-060",
+      "q": "When did Pakistan win the Cricket World Cup?",
+      "options": [
+        "1987",
+        "1996",
+        "1999",
+        "1992"
+      ],
+      "correct": 3,
+      "explanation": "Pakistan won the Cricket World Cup in 1992 under Imran Khan.",
+      "tags": []
+    },
+    {
+      "id": "sports-061",
+      "q": "Which South African cricketer died after being hit by a ball?",
+      "options": [
+        "Darryn Randall",
+        "Hashim Amla",
+        "Domney",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "South African cricketer Darryn Randall died after being struck by a delivery in 2013.",
+      "tags": []
+    },
+    {
+      "id": "sports-062",
+      "q": "Which team has won the most Cricket World Cups?",
+      "options": [
+        "West Indies",
+        "South Africa",
+        "Australia",
+        "England"
+      ],
+      "correct": 2,
+      "explanation": "Australia has won the most Cricket World Cups (six titles).",
+      "tags": []
+    },
+    {
+      "id": "sports-063",
+      "q": "Who has the record of the fastest century in ODIs (31 balls)?",
+      "options": [
+        "A.B. de Villiers",
+        "Chris Gayle",
+        "Jayasuriya",
+        "Shahid Afridi"
+      ],
+      "correct": 0,
+      "explanation": "A.B. de Villiers scored a 31-ball ODI century against West Indies in January 2015.",
+      "tags": []
+    },
+    {
+      "id": "sports-064",
+      "q": "Which team holds the record of 438-9 batting second and winning an ODI?",
+      "options": [
+        "South Africa",
+        "Australia",
+        "New Zealand",
+        "Sri Lanka"
+      ],
+      "correct": 0,
+      "explanation": "South Africa famously chased 434 (with a 438-9 total) against Australia in March 2006.",
+      "tags": []
+    },
+    {
+      "id": "sports-065",
+      "q": "Which country won the ICC Champions Trophy 2017?",
+      "options": [
+        "Pakistan",
+        "Australia",
+        "Sri Lanka",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan won the 2017 ICC Champions Trophy, beating India in the final.",
+      "tags": []
+    },
+    {
+      "id": "sports-066",
+      "q": "Pakistan won the ICC Champions Trophy 2017 by defeating India by how many runs?",
+      "options": [
+        "180 runs",
+        "170 runs",
+        "126 runs",
+        "137 runs"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan won by 180 runs at The Oval on 18 June 2017.",
+      "tags": []
+    },
+    {
+      "id": "sports-067",
+      "q": "Which Hockey team has won the maximum World Cups?",
+      "options": [
+        "Australia",
+        "Germany",
+        "Netherlands",
+        "Pakistan"
+      ],
+      "correct": 3,
+      "explanation": "Pakistan has won the FIH Men's Hockey World Cup four times — the most for any nation.",
+      "tags": []
+    },
+    {
+      "id": "sports-068",
+      "q": "How many players does a hockey team have?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correct": 0,
+      "explanation": "A field hockey team has 11 players (10 outfield + 1 goalkeeper).",
+      "tags": []
+    },
+    {
+      "id": "sports-069",
+      "q": "How many times did Pakistan win the Hockey Champions Trophy?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan won the Hockey Champions Trophy 3 times.",
+      "tags": []
+    },
+    {
+      "id": "sports-070",
+      "q": "When was the first Hockey Champions Trophy played?",
+      "options": [
+        "1978",
+        "1976",
+        "1974",
+        "1979"
+      ],
+      "correct": 0,
+      "explanation": "The first Hockey Champions Trophy was held in 1978.",
+      "tags": []
+    },
+    {
+      "id": "sports-071",
+      "q": "The duration of one half of a Hockey match is:",
+      "options": [
+        "45 min",
+        "40 min",
+        "35 min",
+        "30 min"
+      ],
+      "correct": 2,
+      "explanation": "A traditional hockey half is 35 minutes (now divided into quarters).",
+      "tags": []
+    },
+    {
+      "id": "sports-072",
+      "q": "Where was the game of Hockey invented (per the source bank)?",
+      "options": [
+        "England",
+        "Iran",
+        "Canada",
+        "Australia"
+      ],
+      "correct": 1,
+      "explanation": "Per the source bank, hockey is recorded as having been invented in Iran (Persia).",
+      "tags": []
+    },
+    {
+      "id": "sports-073",
+      "q": "How many times did Pakistan win the Hockey World Cup?",
+      "options": [
+        "4",
+        "5",
+        "2",
+        "3"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan has won the Hockey World Cup 4 times — 1971, 1978, 1982, 1994.",
+      "tags": []
+    },
+    {
+      "id": "sports-074",
+      "q": "Which cricketer set a record for most runs in a single ODI innings?",
+      "options": [
+        "Rohit Sharma",
+        "Saeed Anwar",
+        "Sachin Tendulkar",
+        "Virender Sehwag"
+      ],
+      "correct": 0,
+      "explanation": "Rohit Sharma's 264 vs Sri Lanka (2014) is the highest individual ODI score.",
+      "tags": []
+    },
+    {
+      "id": "sports-075",
+      "q": "Which cricketer is known as the 'Rawalpindi Express'?",
+      "options": [
+        "Waqar Younis",
+        "Wasim Akram",
+        "Javagal Srinath",
+        "Shoaib Akhtar"
+      ],
+      "correct": 3,
+      "explanation": "Pakistan fast bowler Shoaib Akhtar is known as the 'Rawalpindi Express'.",
+      "tags": []
+    },
+    {
+      "id": "sports-076",
+      "q": "Which country holds the record for most Test match wins?",
+      "options": [
+        "Pakistan",
+        "England",
+        "Australia",
+        "West Indies"
+      ],
+      "correct": 2,
+      "explanation": "Australia has the most Test match wins of any country.",
+      "tags": []
+    },
+    {
+      "id": "sports-077",
+      "q": "Which country has the most ODI wins?",
+      "options": [
+        "Australia",
+        "West Indies",
+        "Pakistan",
+        "India"
+      ],
+      "correct": 0,
+      "explanation": "Australia leads the all-time ODI wins list.",
+      "tags": []
+    },
+    {
+      "id": "sports-078",
+      "q": "Who won the first ODI match between Australia and England on 5 January 1971?",
+      "options": [
+        "England",
+        "No result",
+        "Tie",
+        "Australia"
+      ],
+      "correct": 3,
+      "explanation": "Australia won the first-ever ODI on 5 January 1971.",
+      "tags": []
+    },
+    {
+      "id": "sports-079",
+      "q": "Who took the first ODI hat-trick?",
+      "options": [
+        "Dennis Lillee",
+        "Jalaluddin",
+        "Joel Garner",
+        "Wasim Akram"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan's Jalaluddin took the first ODI hat-trick (vs Australia, 1982).",
+      "tags": []
+    },
+    {
+      "id": "sports-080",
+      "q": "The 'Corbillon Cup' is given in the game of:",
+      "options": [
+        "Tennis",
+        "Badminton",
+        "Table Tennis",
+        "Yacht Racing"
+      ],
+      "correct": 2,
+      "explanation": "Corbillon Cup is for women's team Table Tennis. (Hopman Cup = tennis · America's Cup = yachting · Durand Cup = football · Uber Cup = badminton · Swaythling Cup = men's table tennis.)",
+      "tags": []
+    },
+    {
+      "id": "sports-081",
+      "q": "Who has scored the most runs in Test cricket?",
+      "options": [
+        "Stephen Waugh",
+        "Vivian Richards",
+        "Javed Miandad",
+        "Sachin Tendulkar"
+      ],
+      "correct": 3,
+      "explanation": "Sachin Tendulkar (15,921 Test runs) is the all-time leading Test run-scorer.",
+      "tags": []
+    },
+    {
+      "id": "sports-082",
+      "q": "Who has scored the most runs in ODI cricket?",
+      "options": [
+        "Stephen Waugh",
+        "Vivian Richards",
+        "Javed Miandad",
+        "Sachin Tendulkar"
+      ],
+      "correct": 3,
+      "explanation": "Sachin Tendulkar (18,426 ODI runs) is the all-time leading ODI run-scorer.",
+      "tags": []
+    },
+    {
+      "id": "sports-083",
+      "q": "Who has taken the highest number of wickets in ODI cricket?",
+      "options": [
+        "Malcolm Marshall",
+        "Abdul Qadir",
+        "M. Muralitharan",
+        "Wasim Akram"
+      ],
+      "correct": 2,
+      "explanation": "Muttiah Muralitharan (534 ODI wickets) is the all-time leading ODI wicket-taker.",
+      "tags": []
+    },
+    {
+      "id": "sports-084",
+      "q": "When did Pakistan win the Hockey World Cup for the 4th time?",
+      "options": [
+        "1998",
+        "1994",
+        "1990",
+        "2002"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan won its 4th Hockey World Cup in 1994.",
+      "tags": []
+    },
+    {
+      "id": "sports-085",
+      "q": "The first Test cricket match was played on 15 March 1877 between Australia and:",
+      "options": [
+        "England",
+        "India",
+        "New Zealand",
+        "West Indies"
+      ],
+      "correct": 0,
+      "explanation": "The first Test match was played between Australia and England in 1877.",
+      "tags": []
+    },
+    {
+      "id": "sports-086",
+      "q": "Who bowled the first ball in Test cricket (an Englishman)?",
+      "options": [
+        "Alfred Shaw",
+        "Jack Hobbs",
+        "Harold Larwood",
+        "William Grace"
+      ],
+      "correct": 0,
+      "explanation": "Alfred Shaw of England bowled the first ball in Test cricket history.",
+      "tags": []
+    },
+    {
+      "id": "sports-087",
+      "q": "In which Olympics did Pakistan NOT participate?",
+      "options": [
+        "1980",
+        "1948",
+        "1972",
+        "1966"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan boycotted the 1980 Moscow Summer Olympics.",
+      "tags": []
+    },
+    {
+      "id": "sports-088",
+      "q": "In which city were the Olympics 1980 held?",
+      "options": [
+        "Athens, Greece",
+        "Paris, France",
+        "Moscow, Russia",
+        "Rome, Italy"
+      ],
+      "correct": 2,
+      "explanation": "The 1980 Summer Olympics were held in Moscow, USSR.",
+      "tags": []
+    },
+    {
+      "id": "sports-089",
+      "q": "The first Games of the modern era were held in which city?",
+      "options": [
+        "Athens",
+        "Paris",
+        "Rome",
+        "Moscow"
+      ],
+      "correct": 0,
+      "explanation": "The first modern Olympic Games were held in Athens in 1896.",
+      "tags": []
+    },
+    {
+      "id": "sports-090",
+      "q": "When were the first ancient (recorded) Olympic Games held?",
+      "options": [
+        "776 BC",
+        "176 BC",
+        "676 BC",
+        "555 BC"
+      ],
+      "correct": 0,
+      "explanation": "The first recorded ancient Olympics were held in 776 BC at Olympia, Greece.",
+      "tags": []
+    },
+    {
+      "id": "sports-091",
+      "q": "How many nations competed in the first modern Olympic Games of 1896?",
+      "options": [
+        "13",
+        "11",
+        "10",
+        "12"
+      ],
+      "correct": 0,
+      "explanation": "13 nations competed at the 1896 Athens Olympics.",
+      "tags": []
+    },
+    {
+      "id": "sports-092",
+      "q": "The second modern Olympic Games (1900) were held in:",
+      "options": [
+        "Rome",
+        "Paris",
+        "Athens",
+        "London"
+      ],
+      "correct": 1,
+      "explanation": "The 1900 Olympics were held in Paris.",
+      "tags": []
+    },
+    {
+      "id": "sports-093",
+      "q": "In which year and city were the first modern Olympic Games held?",
+      "options": [
+        "1900, Paris",
+        "1892, Athens",
+        "1904, St Louis",
+        "1896, Athens"
+      ],
+      "correct": 3,
+      "explanation": "The first modern Olympics were held in Athens in 1896.",
+      "tags": []
+    },
+    {
+      "id": "sports-094",
+      "q": "In which year was the official Olympic Flag first used at the modern Olympic Games?",
+      "options": [
+        "1920",
+        "1912",
+        "1916",
+        "1900"
+      ],
+      "correct": 0,
+      "explanation": "The Olympic Flag was first used at the 1920 Antwerp Olympics.",
+      "tags": []
+    },
+    {
+      "id": "sports-095",
+      "q": "Who became the first Pakistani batsman to score a double century in ODIs?",
+      "options": [
+        "Fakhar Zaman",
+        "Mohammad Yousuf",
+        "Shahid Afridi",
+        "Saeed Anwar"
+      ],
+      "correct": 0,
+      "explanation": "Fakhar Zaman scored 210 not out vs Zimbabwe (2018) — first Pakistani ODI double century.",
+      "tags": []
+    },
+    {
+      "id": "sports-096",
+      "q": "Where is the headquarters of the International Olympic Committee (IOC)?",
+      "options": [
+        "Los Angeles",
+        "Sydney",
+        "London",
+        "Lausanne"
+      ],
+      "correct": 3,
+      "explanation": "The IOC is headquartered in Lausanne, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "sports-097",
+      "q": "When were women first allowed to participate in the modern Olympic Games?",
+      "options": [
+        "1900 — Paris",
+        "1904 — Greece",
+        "1896 — Athens",
+        "1908 — London"
+      ],
+      "correct": 0,
+      "explanation": "Women first competed at the 1900 Paris Olympics.",
+      "tags": []
+    },
+    {
+      "id": "sports-098",
+      "q": "Only two countries have participated in every modern Olympic Games — Greece and:",
+      "options": [
+        "France",
+        "USA",
+        "Australia",
+        "Great Britain"
+      ],
+      "correct": 2,
+      "explanation": "Greece and Australia are the only two countries to have competed at every modern Olympics.",
+      "tags": []
+    },
+    {
+      "id": "sports-099",
+      "q": "The first National Games of Pakistan were held on:",
+      "options": [
+        "23 April 1947",
+        "23 April 1948",
+        "23 April 1949",
+        "23 April 1950"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan's first National Games were held on 23 April 1948.",
+      "tags": []
+    },
+    {
+      "id": "sports-100",
+      "q": "Who officially opened the Olympic Games of 2012?",
+      "options": [
+        "Prince Charles",
+        "Queen Elizabeth",
+        "PM David Cameron",
+        "PM Tony Blair"
+      ],
+      "correct": 1,
+      "explanation": "Queen Elizabeth II officially opened the London 2012 Olympics.",
+      "tags": []
+    },
+    {
+      "id": "sports-101",
+      "q": "World's fastest sportsman Usain Bolt belongs to which country?",
+      "options": [
+        "South Africa",
+        "USA",
+        "Kenya",
+        "Jamaica"
+      ],
+      "correct": 3,
+      "explanation": "Usain Bolt — the fastest sprinter ever — is from Jamaica.",
+      "tags": []
+    },
+    {
+      "id": "sports-102",
+      "q": "When was the first Paralympics held?",
+      "options": [
+        "1960",
+        "1896",
+        "1992",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The first Paralympic Games were held in Rome in 1960.",
+      "tags": []
+    },
+    {
+      "id": "sports-103",
+      "q": "'Citius, Altius, Fortius' — the Olympic motto in Latin — means:",
+      "options": [
+        "Bigger, better, best",
+        "Faster, Higher, Stronger",
+        "One World United",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Citius, Altius, Fortius means 'Faster, Higher, Stronger'.",
+      "tags": []
+    },
+    {
+      "id": "sports-104",
+      "q": "How many rings are in the Olympic symbol?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "explanation": "The Olympic symbol has 5 interlinked rings representing the 5 continents.",
+      "tags": []
+    },
+    {
+      "id": "sports-105",
+      "q": "The Olympic Museum is in which country?",
+      "options": [
+        "Switzerland",
+        "USA",
+        "Germany",
+        "Japan"
+      ],
+      "correct": 0,
+      "explanation": "The Olympic Museum is in Lausanne, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "sports-106",
+      "q": "Which country has won the most Olympic titles?",
+      "options": [
+        "China",
+        "USA",
+        "Russia",
+        "France"
+      ],
+      "correct": 1,
+      "explanation": "The United States has won the most Olympic titles overall.",
+      "tags": []
+    },
+    {
+      "id": "sports-107",
+      "q": "The Olympic Games are held once every:",
+      "options": [
+        "Two years",
+        "Three years",
+        "Four years",
+        "Five years"
+      ],
+      "correct": 2,
+      "explanation": "The Olympic Games are held every 4 years.",
+      "tags": []
+    },
+    {
+      "id": "sports-108",
+      "q": "The modern Olympics were revived by a:",
+      "options": [
+        "Dutch nobleman",
+        "Greek nobleman",
+        "French nobleman",
+        "German philosopher"
+      ],
+      "correct": 2,
+      "explanation": "Frenchman Pierre de Coubertin revived the modern Olympic Games in 1896.",
+      "tags": []
+    },
+    {
+      "id": "sports-109",
+      "q": "Who is said to be the father of the modern Olympics?",
+      "options": [
+        "Robert Dover",
+        "Theodosius I",
+        "Pierre de Coubertin",
+        "Ernest Curtis"
+      ],
+      "correct": 2,
+      "explanation": "Pierre de Coubertin is regarded as the father of the modern Olympics.",
+      "tags": []
+    },
+    {
+      "id": "sports-110",
+      "q": "In which Games was the Olympic mascot first introduced?",
+      "options": [
+        "1952 Helsinki",
+        "1960 Rome",
+        "1972 Munich",
+        "2000 Atlanta"
+      ],
+      "correct": 2,
+      "explanation": "The first official Olympic mascot — Waldi the Dachshund — was introduced at Munich 1972.",
+      "tags": []
+    },
+    {
+      "id": "sports-111",
+      "q": "Who started the ancient Olympic Games?",
+      "options": [
+        "The Egyptians",
+        "The Greeks",
+        "The Jews",
+        "The Romans"
+      ],
+      "correct": 1,
+      "explanation": "The ancient Olympic Games were started by the Greeks at Olympia.",
+      "tags": []
+    },
+    {
+      "id": "sports-112",
+      "q": "The Winter Olympic Games came into being in:",
+      "options": [
+        "1912",
+        "1916",
+        "1920",
+        "1924"
+      ],
+      "correct": 3,
+      "explanation": "The first Winter Olympics were held at Chamonix, France, in 1924.",
+      "tags": []
+    },
+    {
+      "id": "sports-113",
+      "q": "How many times has Pakistan won gold in hockey at the Olympic Games?",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
+      "correct": 2,
+      "explanation": "Pakistan has won 3 Olympic hockey gold medals (1960, 1968, 1984).",
+      "tags": []
+    },
+    {
+      "id": "sports-114",
+      "q": "Where was the first football (FIFA) tournament held?",
+      "options": [
+        "Brazil",
+        "Chile",
+        "Argentina",
+        "Uruguay"
+      ],
+      "correct": 3,
+      "explanation": "The first FIFA World Cup was held in Uruguay in 1930.",
+      "tags": []
+    },
+    {
+      "id": "sports-115",
+      "q": "Who won the 1930 FIFA World Cup?",
+      "options": [
+        "Argentina",
+        "Yugoslavia",
+        "USA",
+        "Uruguay"
+      ],
+      "correct": 3,
+      "explanation": "Uruguay won the first FIFA World Cup, beating Argentina 4-2 in the final.",
+      "tags": []
+    },
+    {
+      "id": "sports-116",
+      "q": "The 'Davis Cup' is associated with which sport?",
+      "options": [
+        "Cricket",
+        "Football",
+        "Badminton",
+        "Tennis"
+      ],
+      "correct": 3,
+      "explanation": "The Davis Cup is the premier international men's team event in tennis.",
+      "tags": []
+    },
+    {
+      "id": "sports-117",
+      "q": "When did Pakistan win its first gold medal in the Olympics?",
+      "options": [
+        "1960",
+        "1961",
+        "1962",
+        "1963"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan won its first Olympic gold (Hockey) at Rome 1960.",
+      "tags": []
+    },
+    {
+      "id": "sports-118",
+      "q": "How frequently is the FIFA World Cup tournament held?",
+      "options": [
+        "Yearly",
+        "Every four years",
+        "Every eight years",
+        "Every ten years"
+      ],
+      "correct": 1,
+      "explanation": "The FIFA World Cup is held every 4 years.",
+      "tags": []
+    },
+    {
+      "id": "sports-119",
+      "q": "In football (soccer), how many players does each team have on the field?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ],
+      "correct": 1,
+      "explanation": "A football team fields 11 players (including the goalkeeper).",
+      "tags": []
+    },
+    {
+      "id": "sports-120",
+      "q": "The famous footballer Pelé is from:",
+      "options": [
+        "Philippines",
+        "Brazil",
+        "Argentina",
+        "Peru"
+      ],
+      "correct": 1,
+      "explanation": "Pelé was a Brazilian footballer.",
+      "tags": []
+    },
+    {
+      "id": "sports-121",
+      "q": "How many times has Brazil won the FIFA World Cup?",
+      "options": [
+        "Four times",
+        "Twice",
+        "Five times",
+        "Once"
+      ],
+      "correct": 2,
+      "explanation": "Brazil has won the FIFA World Cup five times — the most for any country.",
+      "tags": []
+    },
+    {
+      "id": "sports-122",
+      "q": "What is the duration of a football match?",
+      "options": [
+        "105 minutes",
+        "60 minutes",
+        "75 minutes",
+        "90 minutes"
+      ],
+      "correct": 3,
+      "explanation": "A standard football match is 90 minutes (two halves of 45).",
+      "tags": []
+    },
+    {
+      "id": "sports-123",
+      "q": "Which nation's cricket team abandoned a Pakistan tour citing security concerns?",
+      "options": [
+        "Australia",
+        "England",
+        "New Zealand",
+        "South Africa"
+      ],
+      "correct": 2,
+      "explanation": "New Zealand abandoned its Pakistan tour in September 2021 citing a security alert.",
+      "tags": []
+    },
+    {
+      "id": "sports-124",
+      "q": "How many teams will play in the ICC Men's ODI World Cup 2027?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correct": 2,
+      "explanation": "The 2027 World Cup will feature 14 teams.",
+      "tags": []
+    },
+    {
+      "id": "sports-125",
+      "q": "Which country won the ICC Champions Trophy 2017 by defeating India in the final?",
+      "options": [
+        "Pakistan",
+        "Australia",
+        "Sri Lanka",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan won the 2017 ICC Champions Trophy.",
+      "tags": []
+    },
+    {
+      "id": "sports-126",
+      "q": "Which team holds the record for the highest team total in an ODI match?",
+      "options": [
+        "South Africa",
+        "England",
+        "Australia",
+        "India"
+      ],
+      "correct": 1,
+      "explanation": "England holds the record for the highest ODI total — 498/4 vs Netherlands (later improved).",
+      "tags": []
+    },
+    {
+      "id": "sports-127",
+      "q": "On 5 January 2025, Australia booked their place in the World Test Championship final to be played against:",
+      "options": [
+        "India",
+        "South Africa",
+        "England",
+        "New Zealand"
+      ],
+      "correct": 1,
+      "explanation": "Australia qualified to face South Africa in the WTC 2025 final.",
+      "tags": []
+    },
+    {
+      "id": "sports-128",
+      "q": "On 8 January 2025, the Afghanistan Cricket Board appointed which former Pakistan captain as mentor for the upcoming ICC Champions Trophy?",
+      "options": [
+        "Abdul Razzaq",
+        "Younis Khan",
+        "Rashid Latif",
+        "Waqar Younis"
+      ],
+      "correct": 1,
+      "explanation": "Younis Khan was appointed as mentor of the Afghan national team for ICC CT 2025.",
+      "tags": []
+    },
+    {
+      "id": "sports-129",
+      "q": "On 9 January 2025, Martin Guptill — _____ leading run-scorer in T20 Internationals — announced retirement.",
+      "options": [
+        "England's",
+        "New Zealand's",
+        "South Africa's",
+        "Australia's"
+      ],
+      "correct": 1,
+      "explanation": "Martin Guptill is New Zealand's leading T20I run-scorer.",
+      "tags": []
+    },
+    {
+      "id": "sports-130",
+      "q": "On 10 January 2025, Pakistan's Muhammad Asif defeated _____ Thaha Irshath in the final of the third SAARC Snooker Championship.",
+      "options": [
+        "Sri Lanka's",
+        "India's",
+        "Bhutan's",
+        "Nepal's"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan's Muhammad Asif beat Sri Lanka's Thaha Irshath to win the 3rd SAARC Snooker Championship.",
+      "tags": []
+    },
+    {
+      "id": "sports-131",
+      "q": "On 10 January 2025, the PCB announced the induction of four cricketing icons (Inzamam, Misbah, Mushtaq Mohammad and ____) into its Hall of Fame for 2024.",
+      "options": [
+        "Younis Khan",
+        "Waqar Younis",
+        "Saleem Malik",
+        "Saeed Anwar"
+      ],
+      "correct": 3,
+      "explanation": "Saeed Anwar was the fourth cricketer inducted into the PCB Hall of Fame 2024.",
+      "tags": []
+    },
+    {
+      "id": "sports-132",
+      "q": "On 17 January 2025, Pakistani mountaineer Asad Ali Memon successfully scaled Mount Vinson — the highest peak in:",
+      "options": [
+        "Australia",
+        "Antarctica",
+        "Africa",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Mount Vinson is the highest peak in Antarctica.",
+      "tags": []
+    },
+    {
+      "id": "sports-133",
+      "q": "On 26 January 2025, Jannik Sinner retained his Australian Open title, becoming the first ____ to win three Grand Slams.",
+      "options": [
+        "Italian",
+        "German",
+        "Serbian",
+        "French"
+      ],
+      "correct": 0,
+      "explanation": "Italy's Jannik Sinner became the first Italian to win three Grand Slams.",
+      "tags": []
+    },
+    {
+      "id": "sports-134",
+      "q": "On 27 January 2025, _____ was named ICC Men's Test Cricketer of the Year for 2024.",
+      "options": [
+        "Kamindu Mendis",
+        "Steve Smith",
+        "Jasprit Bumrah",
+        "Rohit Sharma"
+      ],
+      "correct": 2,
+      "explanation": "India's Jasprit Bumrah was named ICC Men's Test Cricketer of the Year 2024.",
+      "tags": []
+    },
+    {
+      "id": "sports-135",
+      "q": "On _____, after a 35-year gap, PM Shehbaz Sharif and CM Punjab Maryam Nawaz inaugurated the National Horse & Cattle Show 2025 in Lahore.",
+      "options": [
+        "9 February",
+        "10 February",
+        "11 February",
+        "12 February"
+      ],
+      "correct": 0,
+      "explanation": "The Lahore National Horse & Cattle Show 2025 was reopened on 9 February.",
+      "tags": []
+    },
+    {
+      "id": "sports-136",
+      "q": "On 12 February 2025, Pakistan registered their highest-ever ODI run-chase by scoring how many runs?",
+      "options": [
+        "355",
+        "357",
+        "359",
+        "368"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan chased down 355 — their highest-ever ODI run-chase.",
+      "tags": []
+    },
+    {
+      "id": "sports-137",
+      "q": "On 14 February 2025, Pakistan's _____ equalled the record for the fastest player to score 6,000 ODI runs.",
+      "options": [
+        "Babar Azam",
+        "Mohammad Rizwan",
+        "Fakhar Zaman",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Babar Azam equalled the fastest-to-6000 ODI runs record.",
+      "tags": []
+    },
+    {
+      "id": "sports-138",
+      "q": "On 16 February 2025, Uganda's Jacob Kiplimo set a new world record of 56 minutes 42 seconds in the Barcelona half marathon. He is from:",
+      "options": [
+        "Kenya",
+        "Uganda",
+        "Somalia",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Jacob Kiplimo of Uganda set the half-marathon world record.",
+      "tags": []
+    },
+    {
+      "id": "sports-139",
+      "q": "On 19 February 2025, _____ beat Pakistan in the opening match of the ICC Champions Trophy 2025.",
+      "options": [
+        "Australia",
+        "England",
+        "South Africa",
+        "New Zealand"
+      ],
+      "correct": 3,
+      "explanation": "New Zealand defeated Pakistan in the opening match of CT 2025.",
+      "tags": []
+    },
+    {
+      "id": "sports-140",
+      "q": "On 21 February 2025, _____ clinched the 7th Asian International Open Taekwondo Championship title.",
+      "options": [
+        "Azerbaijan",
+        "Iran",
+        "Tajikistan",
+        "Japan"
+      ],
+      "correct": 1,
+      "explanation": "Iran won the 7th Asian International Open Taekwondo Championship.",
+      "tags": []
+    },
+    {
+      "id": "sports-141",
+      "q": "On 23 February 2025, India's Virat Kohli became only the ____ batsman in ODI history to go past 14,000 runs.",
+      "options": [
+        "Third",
+        "Fourth",
+        "Seventh",
+        "Eighth"
+      ],
+      "correct": 0,
+      "explanation": "Virat Kohli became the third batsman to cross 14,000 ODI runs.",
+      "tags": []
+    },
+    {
+      "id": "sports-142",
+      "q": "____ 17-year-old Mirra Andreeva has become the youngest ever WTA 1000 champion.",
+      "options": [
+        "Serbia's",
+        "Russia's",
+        "Croatia's",
+        "Georgia's"
+      ],
+      "correct": 1,
+      "explanation": "Russia's Mirra Andreeva became the youngest WTA 1000 champion.",
+      "tags": []
+    },
+    {
+      "id": "sports-143",
+      "q": "On 5 March 2025, _____ batter Steve Smith retired from ODIs.",
+      "options": [
+        "West Indian",
+        "Australian",
+        "New Zealander",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Australia's Steve Smith retired from ODI cricket on 5 March 2025.",
+      "tags": []
+    },
+    {
+      "id": "sports-144",
+      "q": "On 9 March 2025, India secured their _____ ICC Champions Trophy title.",
+      "options": [
+        "First",
+        "Second",
+        "Third",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "India won their 3rd ICC Champions Trophy on 9 March 2025.",
+      "tags": []
+    },
+    {
+      "id": "sports-145",
+      "q": "India defeated _____ to win the ICC Champions Trophy 2025.",
+      "options": [
+        "Australia",
+        "Afghanistan",
+        "New Zealand",
+        "South Africa"
+      ],
+      "correct": 2,
+      "explanation": "India beat New Zealand in the CT 2025 final.",
+      "tags": []
+    },
+    {
+      "id": "sports-146",
+      "q": "On 12 March 2025, World Boxing increased its membership to ____ countries with the inclusion of China and Türkiye.",
+      "options": [
+        "70",
+        "84",
+        "98",
+        "112"
+      ],
+      "correct": 1,
+      "explanation": "World Boxing's membership grew to 84 countries with China and Türkiye joining.",
+      "tags": []
+    },
+    {
+      "id": "sports-147",
+      "q": "On 15 March 2025, Pakistan edged past _____ to win the 16-team Davis Cup Juniors 2025.",
+      "options": [
+        "India",
+        "Indonesia",
+        "Afghanistan",
+        "China"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan beat Indonesia in the Davis Cup Juniors 2025 final.",
+      "tags": []
+    },
+    {
+      "id": "sports-148",
+      "q": "On which date did the ICC announce a fine on Khushdil Shah for breaching Level 2 of its Code of Conduct?",
+      "options": [
+        "15 March 2025",
+        "16 March 2025",
+        "17 March 2025",
+        "18 March 2025"
+      ],
+      "correct": 2,
+      "explanation": "The ICC fined Khushdil Shah on 17 March 2025.",
+      "tags": []
+    },
+    {
+      "id": "sports-149",
+      "q": "On 24 March 2025, which cricketer was appointed captain of Karachi Kings for the 10th edition of the PSL?",
+      "options": [
+        "Shan Masood",
+        "David Warner",
+        "Kane Williamson",
+        "James Vince"
+      ],
+      "correct": 1,
+      "explanation": "Australian David Warner was named Karachi Kings captain for PSL 10.",
+      "tags": []
+    },
+    {
+      "id": "sports-150",
+      "q": "On 3 April 2025, who was appointed as the new President of the Asian Cricket Council (ACC)?",
+      "options": [
+        "Jay Shah",
+        "Shammi Silva",
+        "Mohsin Naqvi",
+        "Pankaj Khimji"
+      ],
+      "correct": 2,
+      "explanation": "Pakistan's Mohsin Naqvi (PCB Chairman) was elected ACC President.",
+      "tags": []
+    },
+    {
+      "id": "sports-151",
+      "q": "On 10 April 2025, which team won the National Volleyball Championship by defeating Pakistan Air Force 3-1?",
+      "options": [
+        "Pakistan Army",
+        "WAPDA",
+        "Navy",
+        "Punjab Police"
+      ],
+      "correct": 1,
+      "explanation": "WAPDA won the 2025 National Volleyball Championship.",
+      "tags": []
+    },
+    {
+      "id": "sports-152",
+      "q": "On 17 April 2025, Pakistan Women thumped _____ to qualify for the ICC Women's World Cup.",
+      "options": [
+        "Bhutan",
+        "Thailand",
+        "UAE",
+        "India"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan Women defeated Thailand to qualify for the ICC Women's World Cup.",
+      "tags": []
+    },
+    {
+      "id": "sports-153",
+      "q": "On 18 April 2025, the Pakistan Eagles won the Sir Sabz Baba Guru Nanak International Kabaddi Cup by defeating ____ Lions of Tabriz.",
+      "options": [
+        "Iran's",
+        "Yemen's",
+        "Afghanistan's",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan Eagles defeated Iran's Lions of Tabriz to win the Kabaddi Cup.",
+      "tags": []
+    },
+    {
+      "id": "sports-154",
+      "q": "On 7 May 2025, _____ posted a jaw-dropping 263/3 — the highest-ever team total in PSL history.",
+      "options": [
+        "Karachi Kings",
+        "Lahore Qalandars",
+        "Quetta Gladiators",
+        "Islamabad United"
+      ],
+      "correct": 2,
+      "explanation": "Quetta Gladiators recorded 263/3 — the highest-ever PSL team total.",
+      "tags": []
+    },
+    {
+      "id": "sports-155",
+      "q": "On 9 May 2025, _____ was named Football Writers' Association (FWA) Footballer of the Year.",
+      "options": [
+        "Mbappé",
+        "Messi",
+        "Salah",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Mohamed Salah was named FWA Footballer of the Year for 2024–25.",
+      "tags": []
+    },
+    {
+      "id": "sports-156",
+      "q": "On 18 May 2025, _____ Massimo Stano broke the men's 35-km race walk world record with a time of 2 hours 20 minutes 43 seconds.",
+      "options": [
+        "Italy's",
+        "France's",
+        "Greece's",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Italy's Massimo Stano broke the 35 km race walk world record.",
+      "tags": []
+    },
+    {
+      "id": "sports-157",
+      "q": "On 25 May 2025, Lahore Qalandars clinched their _____ PSL title, defeating Quetta Gladiators in the final.",
+      "options": [
+        "First",
+        "Second",
+        "Third",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Lahore Qalandars won their 3rd PSL title (PSL 10).",
+      "tags": []
+    },
+    {
+      "id": "sports-158",
+      "q": "On 27 May 2025, Mohsen Gilani was elected as the _____ President of the Pakistan Football Federation.",
+      "options": [
+        "17th",
+        "18th",
+        "20th",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Mohsen Gilani became the 17th President of the Pakistan Football Federation.",
+      "tags": []
+    },
+    {
+      "id": "sports-159",
+      "q": "On 27 May 2025, Nepali climber Kami Rita Sherpa, often dubbed 'Everest Man', reached the summit of Everest for a record _____ time.",
+      "options": [
+        "25th",
+        "31st",
+        "37th",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Kami Rita Sherpa scaled Everest for the 31st time on 27 May 2025.",
+      "tags": []
+    },
+    {
+      "id": "sports-160",
+      "q": "On 31 May 2025, Olympic record-holder Arshad Nadeem clinched the _____ medal in javelin throw at the Asian Athletics Championship 2025.",
+      "options": [
+        "Silver",
+        "Gold",
+        "Bronze",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Arshad Nadeem won gold in javelin at the Asian Athletics Championship 2025.",
+      "tags": []
+    },
+    {
+      "id": "sports-161",
+      "q": "_____ is the first female cricketer from Pakistan to be inducted into the ICC Hall of Fame.",
+      "options": [
+        "Aliya Waqar",
+        "Hina Altaf",
+        "Sana Mir",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Sana Mir is the first Pakistani woman cricketer inducted into the ICC Hall of Fame.",
+      "tags": []
+    },
+    {
+      "id": "sports-162",
+      "q": "_____ is the first Pakistani woman to scale 12 of the world's 14 peaks above 8,000 metres.",
+      "options": [
+        "Samina Baig",
+        "Noor Shahzad",
+        "Naila Kiani",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Naila Kiani is the first Pakistani woman to summit 12 of the world's 14 eight-thousanders.",
+      "tags": []
+    },
+    {
+      "id": "sports-163",
+      "q": "World Bicycle Day is observed annually on:",
+      "options": [
+        "3 June",
+        "4 June",
+        "5 June",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "World Bicycle Day is observed each year on 3 June.",
+      "tags": []
+    },
+    {
+      "id": "sports-164",
+      "q": "On 14 June 2025, South Africa beat _____ to win the World Test Championship.",
+      "options": [
+        "India",
+        "Australia",
+        "England",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "South Africa defeated Australia to win the WTC 2025 final at Lord's.",
+      "tags": []
+    },
+    {
+      "id": "sports-165",
+      "q": "In the FIH Hockey Nations Cup at Kuala Lumpur, the team that won 3-2 against Japan was:",
+      "options": [
+        "Japan",
+        "India",
+        "Pakistan",
+        "Malaysia"
+      ],
+      "correct": 2,
+      "explanation": "Pakistan beat Japan 3-2 in the FIH Nations Cup at Kuala Lumpur.",
+      "tags": []
+    },
+    {
+      "id": "sports-166",
+      "q": "The Pakistani athlete named in the Forbes 30 Under 30 Asia list was:",
+      "options": [
+        "Shoaib Akhtar",
+        "Babar Azam",
+        "Arshad Nadeem",
+        "Shadab Khan"
+      ],
+      "correct": 2,
+      "explanation": "Olympic gold medallist Arshad Nadeem was named in Forbes 30 Under 30 Asia.",
+      "tags": []
+    },
+    {
+      "id": "sports-167",
+      "q": "On 28 June 2025, in an all-Pakistan clash at the Asian Team Snooker Championship, the winning duo was:",
+      "options": [
+        "Babar-Mehran",
+        "Sajjad-Hamza",
+        "Asif-Awaisullah",
+        "Imran-Tariq"
+      ],
+      "correct": 2,
+      "explanation": "Asif-Awaisullah won the Asian Team Snooker Championship final.",
+      "tags": []
+    },
+    {
+      "id": "sports-168",
+      "q": "On 29 June 2025, at the Asian Youth Netball Championship, the team that defeated South Korea 91-6 was:",
+      "options": [
+        "India",
+        "Sri Lanka",
+        "Pakistan",
+        "Bangladesh"
+      ],
+      "correct": 2,
+      "explanation": "Pakistan thumped South Korea 91-6 at the Asian Youth Netball Championship.",
+      "tags": []
+    },
+    {
+      "id": "sports-169",
+      "q": "On 2 July 2025, in the AFC Women's Asian Cup qualifier, the team that secured a 2-0 win over Indonesia was:",
+      "options": [
+        "Thailand",
+        "Pakistan",
+        "Malaysia",
+        "Iran"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan Women beat Indonesia 2-0 in the AFC Women's Asian Cup qualifier.",
+      "tags": []
+    }
+  ]
+}

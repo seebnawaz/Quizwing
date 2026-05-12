@@ -1,0 +1,752 @@
+{
+  "topic_id": "languages-of-computer",
+  "topic_name": "Languages of Computer",
+  "subject": "computer-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Languages of Computer MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "⌨️",
+  "mcqs": [
+    {
+      "id": "langua-001",
+      "q": "Computer languages are broadly classified into how many main levels?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 1,
+      "explanation": "Computer languages are classified into three main levels: Low-Level (Machine), Middle-Level (Assembly) and High-Level.",
+      "tags": []
+    },
+    {
+      "id": "langua-002",
+      "q": "Which of the following is also known as Machine Language?",
+      "options": [
+        "High-Level Language",
+        "Middle-Level Language",
+        "Low-Level Language",
+        "Scripting Language"
+      ],
+      "correct": 2,
+      "explanation": "The Low-Level Language is also called Machine Language. It uses 1s and 0s to create instructions.",
+      "tags": []
+    },
+    {
+      "id": "langua-003",
+      "q": "Machine language uses which of the following to create instructions?",
+      "options": [
+        "English words",
+        "Mnemonics",
+        "1s and 0s (binary)",
+        "Diagrams"
+      ],
+      "correct": 2,
+      "explanation": "Machine language uses 1s and 0s (binary) — numeric codes that the computer can execute directly.",
+      "tags": []
+    },
+    {
+      "id": "langua-004",
+      "q": "Which type of language is also known as Assembly Language?",
+      "options": [
+        "Low-Level",
+        "Middle-Level",
+        "High-Level",
+        "Scripting"
+      ],
+      "correct": 1,
+      "explanation": "Middle-Level Language is also called Assembly Language. It uses short mnemonic codes for instructions.",
+      "tags": []
+    },
+    {
+      "id": "langua-005",
+      "q": "Assembly Language uses which of the following to create instructions?",
+      "options": [
+        "1s and 0s",
+        "Mnemonics",
+        "Plain English",
+        "Hexadecimal only"
+      ],
+      "correct": 1,
+      "explanation": "Assembly Language uses short mnemonic codes (like MOV, ADD, SUB) instead of binary, making it easier to read than machine language.",
+      "tags": []
+    },
+    {
+      "id": "langua-006",
+      "q": "Which language is most similar to human language?",
+      "options": [
+        "Machine Language",
+        "Assembly Language",
+        "High-Level Language",
+        "Microcode"
+      ],
+      "correct": 2,
+      "explanation": "High-Level Languages (e.g. COBOL, FORTRAN, BASIC, C, C++, Java) are designed to be similar to human language.",
+      "tags": []
+    },
+    {
+      "id": "langua-007",
+      "q": "Which of the following is NOT a High-Level Language?",
+      "options": [
+        "COBOL",
+        "FORTRAN",
+        "Assembly",
+        "Java"
+      ],
+      "correct": 2,
+      "explanation": "Assembly is a Middle-Level (Assembly) Language. COBOL, FORTRAN and Java are all High-Level Languages.",
+      "tags": []
+    },
+    {
+      "id": "langua-008",
+      "q": "Languages designed to express mathematical or symbolic computations are called:",
+      "options": [
+        "Algorithmic languages",
+        "Scripting languages",
+        "Markup languages",
+        "Page-description languages"
+      ],
+      "correct": 0,
+      "explanation": "Algorithmic languages (such as FORTRAN and ALGOL) are designed to express mathematical or symbolic computations.",
+      "tags": []
+    },
+    {
+      "id": "langua-009",
+      "q": "Which type of languages help manage complexity in large programmes?",
+      "options": [
+        "Object-oriented languages",
+        "Machine languages",
+        "Markup languages",
+        "Scripting languages"
+      ],
+      "correct": 0,
+      "explanation": "Object-oriented languages (e.g. C++, Java, C#) help manage complexity in large programmes through encapsulation, inheritance and polymorphism.",
+      "tags": []
+    },
+    {
+      "id": "langua-010",
+      "q": "Declarative languages specify:",
+      "options": [
+        "How a task is to be done",
+        "What is to be done rather than how",
+        "Only the input format",
+        "Only the output format"
+      ],
+      "correct": 1,
+      "explanation": "Declarative languages (also called nonprocedural or very high-level) specify WHAT is to be done rather than HOW to do it.",
+      "tags": []
+    },
+    {
+      "id": "langua-011",
+      "q": "Which of the following is another name for declarative languages?",
+      "options": [
+        "Procedural / low-level",
+        "Nonprocedural / very high level",
+        "Machine / assembly",
+        "Object-oriented / scripting"
+      ],
+      "correct": 1,
+      "explanation": "Declarative languages are also called nonprocedural or very high-level languages.",
+      "tags": []
+    },
+    {
+      "id": "langua-012",
+      "q": "Scripting languages are sometimes called:",
+      "options": [
+        "Heavy languages",
+        "Little languages",
+        "Markup languages",
+        "System languages"
+      ],
+      "correct": 1,
+      "explanation": "Scripting languages are sometimes called 'little languages' because they solve relatively small programming problems without heavy data declarations.",
+      "tags": []
+    },
+    {
+      "id": "langua-013",
+      "q": "Which is the first important algorithmic language ever designed?",
+      "options": [
+        "COBOL",
+        "FORTRAN",
+        "BASIC",
+        "ALGOL"
+      ],
+      "correct": 1,
+      "explanation": "FORTRAN (Formula Translation) was the first important algorithmic language — designed in 1957 by an IBM team led by John Backus.",
+      "tags": []
+    },
+    {
+      "id": "langua-014",
+      "q": "FORTRAN was designed in which year?",
+      "options": [
+        "1947",
+        "1957",
+        "1967",
+        "1977"
+      ],
+      "correct": 1,
+      "explanation": "FORTRAN was designed in 1957 by an IBM team led by John Backus.",
+      "tags": []
+    },
+    {
+      "id": "langua-015",
+      "q": "FORTRAN stands for:",
+      "options": [
+        "Formula Transmission",
+        "Formula Translation",
+        "Forward Translator",
+        "Format Transcoder"
+      ],
+      "correct": 1,
+      "explanation": "FORTRAN stands for Formula Translation — designed for mathematical and scientific computing.",
+      "tags": []
+    },
+    {
+      "id": "langua-016",
+      "q": "FORTRAN was developed at which company?",
+      "options": [
+        "Microsoft",
+        "Apple",
+        "IBM",
+        "AT&T"
+      ],
+      "correct": 2,
+      "explanation": "FORTRAN was developed at IBM in 1957, led by John Backus.",
+      "tags": []
+    },
+    {
+      "id": "langua-017",
+      "q": "ALGOL stands for:",
+      "options": [
+        "Algebraic Logical Language",
+        "Algorithmic Language",
+        "Algorithm Logical Library",
+        "Algebra Online Language"
+      ],
+      "correct": 1,
+      "explanation": "ALGOL stands for Algorithmic Language — designed by American and European computer scientists during 1958–60.",
+      "tags": []
+    },
+    {
+      "id": "langua-018",
+      "q": "LISP was developed by John McCarthy around which year?",
+      "options": [
+        "1955",
+        "1960",
+        "1970",
+        "1980"
+      ],
+      "correct": 1,
+      "explanation": "LISP (List Processing) was developed about 1960 by John McCarthy at MIT, founded on the mathematical theory of recursive functions.",
+      "tags": []
+    },
+    {
+      "id": "langua-019",
+      "q": "LISP stands for:",
+      "options": [
+        "List Processing",
+        "Linear System Programme",
+        "Logical System Programming",
+        "Library Interactive Source Programme"
+      ],
+      "correct": 0,
+      "explanation": "LISP stands for List Processing — developed by John McCarthy at MIT around 1960.",
+      "tags": []
+    },
+    {
+      "id": "langua-020",
+      "q": "LISP was developed at which institution?",
+      "options": [
+        "Stanford",
+        "MIT",
+        "Harvard",
+        "Cambridge"
+      ],
+      "correct": 1,
+      "explanation": "LISP was developed by John McCarthy at MIT (Massachusetts Institute of Technology) around 1960.",
+      "tags": []
+    },
+    {
+      "id": "langua-021",
+      "q": "COBOL was first introduced in which year?",
+      "options": [
+        "1949",
+        "1959",
+        "1969",
+        "1979"
+      ],
+      "correct": 1,
+      "explanation": "COBOL has been heavily used by businesses since its inception in 1959.",
+      "tags": []
+    },
+    {
+      "id": "langua-022",
+      "q": "COBOL stands for:",
+      "options": [
+        "Common Binary-Oriented Language",
+        "Common Business-Oriented Language",
+        "Computer Business Operating Language",
+        "Code-Based Office Language"
+      ],
+      "correct": 1,
+      "explanation": "COBOL stands for Common Business-Oriented Language.",
+      "tags": []
+    },
+    {
+      "id": "langua-023",
+      "q": "The C programming language was developed in:",
+      "options": [
+        "1962",
+        "1972",
+        "1982",
+        "1992"
+      ],
+      "correct": 1,
+      "explanation": "The C language was developed in 1972 by Dennis Ritchie and Brian Kernighan at AT&T Corporation.",
+      "tags": []
+    },
+    {
+      "id": "langua-024",
+      "q": "Who developed the C language?",
+      "options": [
+        "Bjarne Stroustrup",
+        "Dennis Ritchie & Brian Kernighan",
+        "Niklaus Wirth",
+        "Anders Hejlsberg"
+      ],
+      "correct": 1,
+      "explanation": "C was developed by Dennis Ritchie and Brian Kernighan at AT&T Corporation in 1972, mainly for OS programming.",
+      "tags": []
+    },
+    {
+      "id": "langua-025",
+      "q": "How many basic data types does the C language have?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "explanation": "C has 5 basic data types: int, char, float, double and void.",
+      "tags": []
+    },
+    {
+      "id": "langua-026",
+      "q": "Which of the following is NOT a basic data type in C?",
+      "options": [
+        "int",
+        "char",
+        "float",
+        "string"
+      ],
+      "correct": 3,
+      "explanation": "C has 5 basic data types: int, char, float, double and void. 'string' is NOT a basic data type in C — strings are implemented as arrays of char.",
+      "tags": []
+    },
+    {
+      "id": "langua-027",
+      "q": "C++ was developed by:",
+      "options": [
+        "Dennis Ritchie",
+        "Bjarne Stroustrup",
+        "Anders Hejlsberg",
+        "James Gosling"
+      ],
+      "correct": 1,
+      "explanation": "C++ was developed by Bjarne Stroustrup at AT&T in the mid-1980s — extending C by adding objects while preserving efficiency.",
+      "tags": []
+    },
+    {
+      "id": "langua-028",
+      "q": "C++ extended C by adding:",
+      "options": [
+        "Pointers",
+        "Objects",
+        "Recursion",
+        "Functions"
+      ],
+      "correct": 1,
+      "explanation": "C++ extended C by adding objects (object-oriented features) while preserving the efficiency of C.",
+      "tags": []
+    },
+    {
+      "id": "langua-029",
+      "q": "C# (C Sharp) was developed by Anders Hejlsberg at:",
+      "options": [
+        "IBM",
+        "Microsoft",
+        "Apple",
+        "Oracle"
+      ],
+      "correct": 1,
+      "explanation": "C# was developed by Anders Hejlsberg at Microsoft in 2000.",
+      "tags": []
+    },
+    {
+      "id": "langua-030",
+      "q": "C# was released in which year?",
+      "options": [
+        "1995",
+        "2000",
+        "2005",
+        "2010"
+      ],
+      "correct": 1,
+      "explanation": "C# (pronounced 'C sharp') was developed by Anders Hejlsberg at Microsoft in 2000.",
+      "tags": []
+    },
+    {
+      "id": "langua-031",
+      "q": "Pascal was designed by Niklaus Wirth around which year?",
+      "options": [
+        "1960",
+        "1970",
+        "1980",
+        "1990"
+      ],
+      "correct": 1,
+      "explanation": "Pascal was designed about 1970 by Niklaus Wirth of Switzerland to teach structured programming.",
+      "tags": []
+    },
+    {
+      "id": "langua-032",
+      "q": "Pascal was designed primarily to teach:",
+      "options": [
+        "Object-oriented programming",
+        "Structured programming without GOTO",
+        "Functional programming",
+        "Logic programming"
+      ],
+      "correct": 1,
+      "explanation": "Pascal was designed by Niklaus Wirth to teach structured programming, emphasising conditional and loop control structures WITHOUT GOTO statements.",
+      "tags": []
+    },
+    {
+      "id": "langua-033",
+      "q": "BASIC stands for:",
+      "options": [
+        "Basic Algorithmic Systematic Instruction Code",
+        "Beginners All-purpose Symbolic Instruction Code",
+        "Binary Application System Information Code",
+        "Basic Application Software Integration Code"
+      ],
+      "correct": 1,
+      "explanation": "BASIC stands for Beginners All-purpose Symbolic Instruction Code — designed at Dartmouth in the mid-1960s by John Kemeny and Thomas Kurtz.",
+      "tags": []
+    },
+    {
+      "id": "langua-034",
+      "q": "BASIC was designed at:",
+      "options": [
+        "MIT",
+        "Stanford",
+        "Dartmouth College",
+        "Harvard"
+      ],
+      "correct": 2,
+      "explanation": "BASIC was designed at Dartmouth College in the mid-1960s by John Kemeny and Thomas Kurtz.",
+      "tags": []
+    },
+    {
+      "id": "langua-035",
+      "q": "Logo originated as a simplified dialect of which language?",
+      "options": [
+        "FORTRAN",
+        "COBOL",
+        "LISP",
+        "BASIC"
+      ],
+      "correct": 2,
+      "explanation": "Logo originated in the late 1960s as a simplified LISP dialect for education.",
+      "tags": []
+    },
+    {
+      "id": "langua-036",
+      "q": "Hypertalk was designed by Bill Atkinson for:",
+      "options": [
+        "IBM PCs",
+        "Apple's Macintosh",
+        "UNIX systems",
+        "Windows NT"
+      ],
+      "correct": 1,
+      "explanation": "Hypertalk was designed as 'programming for the rest of us' by Bill Atkinson for Apple's Macintosh.",
+      "tags": []
+    },
+    {
+      "id": "langua-037",
+      "q": "Ada was developed in the early 1980s for:",
+      "options": [
+        "IBM",
+        "Microsoft",
+        "US Department of Defense",
+        "Apple"
+      ],
+      "correct": 2,
+      "explanation": "Ada was developed in the early 1980s for the US Department of Defense for large-scale programming.",
+      "tags": []
+    },
+    {
+      "id": "langua-038",
+      "q": "Java was designed by which company?",
+      "options": [
+        "Microsoft",
+        "Sun Microsystems",
+        "Oracle",
+        "IBM"
+      ],
+      "correct": 1,
+      "explanation": "Java was designed in the early 1990s by Sun Microsystems, Inc. as a programming language for the World Wide Web (WWW).",
+      "tags": []
+    },
+    {
+      "id": "langua-039",
+      "q": "Java was originally designed as a programming language for:",
+      "options": [
+        "Mobile phones",
+        "World Wide Web (WWW)",
+        "Mainframes only",
+        "Embedded systems only"
+      ],
+      "correct": 1,
+      "explanation": "Java was designed in the early 1990s by Sun Microsystems as a programming language for the World Wide Web (WWW).",
+      "tags": []
+    },
+    {
+      "id": "langua-040",
+      "q": "Visual Basic was developed by Microsoft to extend:",
+      "options": [
+        "Pascal",
+        "BASIC",
+        "C",
+        "FORTRAN"
+      ],
+      "correct": 1,
+      "explanation": "Visual Basic was developed by Microsoft to extend the capabilities of BASIC by adding objects and 'event-driven' programming.",
+      "tags": []
+    },
+    {
+      "id": "langua-041",
+      "q": "Python was developed in which year?",
+      "options": [
+        "1981",
+        "1991",
+        "2001",
+        "2011"
+      ],
+      "correct": 1,
+      "explanation": "Python is an open-source language developed by Dutch programmer Guido van Rossum in 1991.",
+      "tags": []
+    },
+    {
+      "id": "langua-042",
+      "q": "Who developed the Python programming language?",
+      "options": [
+        "Bjarne Stroustrup",
+        "Guido van Rossum",
+        "Anders Hejlsberg",
+        "James Gosling"
+      ],
+      "correct": 1,
+      "explanation": "Python was developed by Dutch programmer Guido van Rossum in 1991.",
+      "tags": []
+    },
+    {
+      "id": "langua-043",
+      "q": "Python uses which of the following to group statements?",
+      "options": [
+        "Curly braces { }",
+        "Square brackets [ ]",
+        "Indentation",
+        "Semicolons"
+      ],
+      "correct": 2,
+      "explanation": "Python is unique in that it uses indentation (whitespace) instead of brackets/braces to group statements.",
+      "tags": []
+    },
+    {
+      "id": "langua-044",
+      "q": "PROLOG stands for:",
+      "options": [
+        "Programme Logic",
+        "Programming in Logic",
+        "Progressive Logic",
+        "Programmable Logic Operations Group"
+      ],
+      "correct": 1,
+      "explanation": "PROLOG stands for Programming in Logic. It states a programme as a set of logical relations.",
+      "tags": []
+    },
+    {
+      "id": "langua-045",
+      "q": "PROLOG states a programme as:",
+      "options": [
+        "A sequence of arithmetic operations",
+        "A set of logical relations",
+        "A graphical flowchart",
+        "A list of pointers"
+      ],
+      "correct": 1,
+      "explanation": "PROLOG states a programme as a set of logical relations — making it ideal for AI and theorem-proving applications.",
+      "tags": []
+    },
+    {
+      "id": "langua-046",
+      "q": "LISP, ML and Haskell are typically used as:",
+      "options": [
+        "Game engines",
+        "Research tools, automated theorem provers and some commercial projects",
+        "Database query languages",
+        "Web markup languages"
+      ],
+      "correct": 1,
+      "explanation": "LISP, ML and Haskell are used as research tools in language development, automated mathematical theorem provers, and some commercial projects.",
+      "tags": []
+    },
+    {
+      "id": "langua-047",
+      "q": "Pascal was designed by Niklaus Wirth in which country?",
+      "options": [
+        "USA",
+        "Germany",
+        "Switzerland",
+        "France"
+      ],
+      "correct": 2,
+      "explanation": "Pascal was designed about 1970 by Niklaus Wirth of Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "langua-048",
+      "q": "FORTRAN was led by which IBM scientist?",
+      "options": [
+        "John Backus",
+        "John McCarthy",
+        "Dennis Ritchie",
+        "Niklaus Wirth"
+      ],
+      "correct": 0,
+      "explanation": "FORTRAN was designed in 1957 by an IBM team led by John Backus.",
+      "tags": []
+    },
+    {
+      "id": "langua-049",
+      "q": "SQL stands for:",
+      "options": [
+        "Structured Question Language",
+        "Structured Query Language",
+        "Sequential Query Language",
+        "System Query Language"
+      ],
+      "correct": 1,
+      "explanation": "SQL stands for Structured Query Language — used for specifying the organisation of databases (collections of records).",
+      "tags": []
+    },
+    {
+      "id": "langua-050",
+      "q": "SQL is a language for:",
+      "options": [
+        "Web page design",
+        "Database organisation",
+        "System programming",
+        "Mobile apps"
+      ],
+      "correct": 1,
+      "explanation": "SQL is a language for specifying the organisation of databases — collections of records.",
+      "tags": []
+    },
+    {
+      "id": "langua-051",
+      "q": "TeX was developed during 1977–86 by:",
+      "options": [
+        "Donald Knuth",
+        "Bjarne Stroustrup",
+        "Tim Berners-Lee",
+        "Linus Torvalds"
+      ],
+      "correct": 0,
+      "explanation": "TeX was developed during 1977–86 as a text-formatting language by Donald Knuth, a Stanford University professor, to improve mathematical notation in his books.",
+      "tags": []
+    },
+    {
+      "id": "langua-052",
+      "q": "PostScript is a:",
+      "options": [
+        "Database language",
+        "Page-description language",
+        "Markup language",
+        "Scripting language for OS"
+      ],
+      "correct": 1,
+      "explanation": "PostScript is a page-description language developed in the early 1980s by Adobe Systems Incorporated, based on work at Xerox PARC.",
+      "tags": []
+    },
+    {
+      "id": "langua-053",
+      "q": "PostScript was developed by:",
+      "options": [
+        "Microsoft",
+        "Adobe Systems",
+        "IBM",
+        "Apple"
+      ],
+      "correct": 1,
+      "explanation": "PostScript was developed in the early 1980s by Adobe Systems Incorporated.",
+      "tags": []
+    },
+    {
+      "id": "langua-054",
+      "q": "SGML stands for:",
+      "options": [
+        "Standard Generalized Markup Language",
+        "System General Module Language",
+        "Structured Graphical Markup Language",
+        "Standard Generic Memory Language"
+      ],
+      "correct": 0,
+      "explanation": "SGML stands for Standard Generalized Markup Language — an international standard for the definition of markup languages.",
+      "tags": []
+    },
+    {
+      "id": "langua-055",
+      "q": "HTML stands for:",
+      "options": [
+        "Hyperlink and Text Markup Language",
+        "Hypertext Markup Language",
+        "High Text Module Language",
+        "Hypertext Module Library"
+      ],
+      "correct": 1,
+      "explanation": "HTML stands for Hypertext Markup Language — the markup language for encoding Web pages.",
+      "tags": []
+    },
+    {
+      "id": "langua-056",
+      "q": "XML is a simplified form of which language?",
+      "options": [
+        "HTML",
+        "SGML",
+        "CSS",
+        "JSON"
+      ],
+      "correct": 1,
+      "explanation": "XML (Extensible Markup Language) is a simplified form of SGML, intended for documents published on the Web.",
+      "tags": []
+    },
+    {
+      "id": "langua-057",
+      "q": "CGI stands for:",
+      "options": [
+        "Computer Generated Image",
+        "Common Gateway Interface",
+        "Common General Interpreter",
+        "Code Gateway Integrator"
+      ],
+      "correct": 1,
+      "explanation": "CGI stands for Common Gateway Interface — it transmits requests and responses between the reader's Web browser and the Web server that provides the page.",
+      "tags": []
+    }
+  ]
+}

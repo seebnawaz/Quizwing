@@ -1,0 +1,661 @@
+{
+  "topic_id": "operating-system",
+  "topic_name": "Operating System",
+  "subject": "computer-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Operating System MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🪟",
+  "mcqs": [
+    {
+      "id": "operat-001",
+      "q": "What is an Operating System (OS)?",
+      "options": [
+        "A type of hardware",
+        "A set of programs that controls, supervises and supports a computer's hardware and application packages",
+        "A printer driver",
+        "A type of database"
+      ],
+      "correct": 1,
+      "explanation": "An Operating System is a set of programs that controls, supervises and supports a computer system's hardware and application packages.",
+      "tags": []
+    },
+    {
+      "id": "operat-002",
+      "q": "What is the correct OS layer order from top to bottom?",
+      "options": [
+        "Hardware → OS → Application → User",
+        "User → Application → Operating System → Hardware",
+        "Application → User → Hardware → OS",
+        "OS → Hardware → User → Application"
+      ],
+      "correct": 1,
+      "explanation": "The standard OS layer structure from top to bottom is: User → Application → Operating System → Hardware.",
+      "tags": []
+    },
+    {
+      "id": "operat-003",
+      "q": "Which of the following is NOT an operating system?",
+      "options": [
+        "Windows",
+        "Linux",
+        "Oracle",
+        "Mac OS"
+      ],
+      "correct": 2,
+      "explanation": "Oracle is NOT an operating system — it is a relational database management system (RDBMS).",
+      "tags": []
+    },
+    {
+      "id": "operat-004",
+      "q": "Which of the following is an open-source operating system?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Solaris"
+      ],
+      "correct": 2,
+      "explanation": "Linux is an open-source operating system, freely available with its source code.",
+      "tags": []
+    },
+    {
+      "id": "operat-005",
+      "q": "Unix-based systems offer:",
+      "options": [
+        "Only a command line interface",
+        "Only a graphical user interface",
+        "Both CLI and GUI",
+        "Neither CLI nor GUI"
+      ],
+      "correct": 2,
+      "explanation": "Unix-based systems offer both a command line interface (CLI) and a graphical user interface (GUI).",
+      "tags": []
+    },
+    {
+      "id": "operat-006",
+      "q": "OS X uses which type of kernel?",
+      "options": [
+        "Monolithic kernel",
+        "Microkernel",
+        "Hybrid kernel",
+        "Exokernel"
+      ],
+      "correct": 2,
+      "explanation": "OS X uses a hybrid kernel — combining elements of monolithic and microkernel designs.",
+      "tags": []
+    },
+    {
+      "id": "operat-007",
+      "q": "A hybrid kernel is:",
+      "options": [
+        "A kernel without modules",
+        "A combination of two different kernels",
+        "Only used in Linux",
+        "An obsolete kernel type"
+      ],
+      "correct": 1,
+      "explanation": "A hybrid kernel is a combination of two different kernel types, typically blending features of monolithic and microkernel architectures.",
+      "tags": []
+    },
+    {
+      "id": "operat-008",
+      "q": "To access services of the Operating System, an interface is provided by:",
+      "options": [
+        "Device drivers",
+        "System Calls",
+        "Compilers",
+        "Boot loaders"
+      ],
+      "correct": 1,
+      "explanation": "System Calls provide the interface used by user programs to access services of the Operating System.",
+      "tags": []
+    },
+    {
+      "id": "operat-009",
+      "q": "What is the main function of a command interpreter?",
+      "options": [
+        "To compile source code",
+        "To get and execute the next user-specified command",
+        "To print files",
+        "To allocate memory"
+      ],
+      "correct": 1,
+      "explanation": "The main function of a command interpreter is to get and execute the next user-specified command.",
+      "tags": []
+    },
+    {
+      "id": "operat-010",
+      "q": "If a process fails, where do most operating systems write the error information?",
+      "options": [
+        "To RAM",
+        "To a log file",
+        "To the BIOS",
+        "To the cache"
+      ],
+      "correct": 1,
+      "explanation": "If a process fails, most operating systems write the error information to a log file for later analysis and debugging.",
+      "tags": []
+    },
+    {
+      "id": "operat-011",
+      "q": "DTrace is a facility that:",
+      "options": [
+        "Compresses files",
+        "Dynamically adds probes to a running system in user process and kernel",
+        "Defragments hard disks",
+        "Encrypts data"
+      ],
+      "correct": 1,
+      "explanation": "DTrace is a facility that dynamically adds probes to a running system, both in user processes and in the kernel — used for performance analysis and troubleshooting.",
+      "tags": []
+    },
+    {
+      "id": "operat-012",
+      "q": "Systems which allow more than one process execution at a time are called:",
+      "options": [
+        "Single-tasking systems",
+        "Multiprogramming systems",
+        "Real-time only systems",
+        "Batch-only systems"
+      ],
+      "correct": 1,
+      "explanation": "Multiprogramming systems allow more than one process execution at a time, increasing CPU utilisation.",
+      "tags": []
+    },
+    {
+      "id": "operat-013",
+      "q": "What is throughput in an operating system?",
+      "options": [
+        "The total RAM size",
+        "The number of processes completed per unit time",
+        "The CPU clock speed",
+        "The hard disk capacity"
+      ],
+      "correct": 1,
+      "explanation": "Throughput is the number of processes completed per unit time — a key metric of OS performance.",
+      "tags": []
+    },
+    {
+      "id": "operat-014",
+      "q": "Which of the following is an OS-level concept?",
+      "options": [
+        "LAN topology",
+        "System Calls",
+        "Page Margins",
+        "Mouse DPI"
+      ],
+      "correct": 1,
+      "explanation": "System Calls are an OS-level concept — they form the interface between user programs and the operating system.",
+      "tags": []
+    },
+    {
+      "id": "operat-015",
+      "q": "Which OS function keeps track of the primary memory?",
+      "options": [
+        "Memory Management",
+        "Device Management",
+        "Job Accounting",
+        "CPU Deallocation"
+      ],
+      "correct": 0,
+      "explanation": "Memory Management keeps track of the primary memory — what is allocated, what is free and to which process each block belongs.",
+      "tags": []
+    },
+    {
+      "id": "operat-016",
+      "q": "Which OS function is also called the I/O controller?",
+      "options": [
+        "Memory Management",
+        "Device Management",
+        "Job Accounting",
+        "System Calls"
+      ],
+      "correct": 1,
+      "explanation": "Device Management is also called the I/O controller. It decides which process gets the device, when and for how long.",
+      "tags": []
+    },
+    {
+      "id": "operat-017",
+      "q": "Device Management decides:",
+      "options": [
+        "Only the CPU clock speed",
+        "Which process gets the device, when, and for how long",
+        "Only the memory size",
+        "The colour of the monitor"
+      ],
+      "correct": 1,
+      "explanation": "Device Management (I/O controller) decides which process gets the device, when and for how long.",
+      "tags": []
+    },
+    {
+      "id": "operat-018",
+      "q": "Which OS function keeps track of time and resources used by various jobs/users?",
+      "options": [
+        "Memory Management",
+        "Device Management",
+        "Job Accounting",
+        "System Calls"
+      ],
+      "correct": 2,
+      "explanation": "Job Accounting keeps track of time and resources used by various jobs and/or users.",
+      "tags": []
+    },
+    {
+      "id": "operat-019",
+      "q": "Which OS function records delays between the request for a service and the response from the system?",
+      "options": [
+        "Memory Management",
+        "Job Accounting",
+        "Control over System Performance",
+        "Device Management"
+      ],
+      "correct": 2,
+      "explanation": "Control over System Performance records delays between the request for a service and the response from the system.",
+      "tags": []
+    },
+    {
+      "id": "operat-020",
+      "q": "Which OS function helps deallocate the CPU when the processor is no longer required?",
+      "options": [
+        "CPU Deallocation",
+        "Memory Management",
+        "Job Accounting",
+        "Device Management"
+      ],
+      "correct": 0,
+      "explanation": "CPU Deallocation helps deallocate the CPU when the processor is no longer required for process execution.",
+      "tags": []
+    },
+    {
+      "id": "operat-021",
+      "q": "Which OS function provides an interface to access OS services?",
+      "options": [
+        "Memory Management",
+        "System Calls",
+        "Device Management",
+        "Job Accounting"
+      ],
+      "correct": 1,
+      "explanation": "System Calls provide an interface to access services of the Operating System.",
+      "tags": []
+    },
+    {
+      "id": "operat-022",
+      "q": "Which OS function decides which process gets a device, when, and for how long?",
+      "options": [
+        "Memory Management",
+        "Job Accounting",
+        "Device Management (I/O controller)",
+        "Programme Counter"
+      ],
+      "correct": 2,
+      "explanation": "Device Management (also called the I/O controller) decides which process gets a device, when and for how long.",
+      "tags": []
+    },
+    {
+      "id": "operat-023",
+      "q": "How many primary OS management functions are typically classified?",
+      "options": [
+        "Three",
+        "Four",
+        "Six",
+        "Ten"
+      ],
+      "correct": 2,
+      "explanation": "There are six primary OS management functions: Memory Management, Device Management, Job Accounting, Control over System Performance, CPU Deallocation and System Calls.",
+      "tags": []
+    },
+    {
+      "id": "operat-024",
+      "q": "When a process is unable to run until some task has been completed, the process is in which state?",
+      "options": [
+        "Running state",
+        "Ready state",
+        "Blocked state",
+        "Terminated state"
+      ],
+      "correct": 2,
+      "explanation": "A process is in the blocked state when it is unable to run until some task (e.g. I/O completion) has finished.",
+      "tags": []
+    },
+    {
+      "id": "operat-025",
+      "q": "When a process is using the CPU, it is said to be in which state?",
+      "options": [
+        "Blocked state",
+        "Running state",
+        "Waiting state",
+        "New state"
+      ],
+      "correct": 1,
+      "explanation": "When a process is actively using the CPU, it is in the running state.",
+      "tags": []
+    },
+    {
+      "id": "operat-026",
+      "q": "Which of the following is NOT contained in a Process Control Block (PCB)?",
+      "options": [
+        "Process state",
+        "Programme counter",
+        "Bootstrap programme",
+        "Memory limits"
+      ],
+      "correct": 2,
+      "explanation": "A Process Control Block (PCB) does NOT contain a bootstrap programme. It contains process state, programme counter, registers, scheduling info and memory limits.",
+      "tags": []
+    },
+    {
+      "id": "operat-027",
+      "q": "What does PCB stand for in the context of operating systems?",
+      "options": [
+        "Printed Circuit Board",
+        "Process Control Block",
+        "Programmable Control Bus",
+        "Primary Control Buffer"
+      ],
+      "correct": 1,
+      "explanation": "In OS context, PCB stands for Process Control Block — a data structure that stores information about each process.",
+      "tags": []
+    },
+    {
+      "id": "operat-028",
+      "q": "A process stack does NOT contain:",
+      "options": [
+        "Local variables",
+        "Function parameters",
+        "Return addresses",
+        "PID of child process"
+      ],
+      "correct": 3,
+      "explanation": "A process stack does NOT contain the PID of a child process. It contains local variables, function parameters and return addresses.",
+      "tags": []
+    },
+    {
+      "id": "operat-029",
+      "q": "The address of the next instruction to be executed by the current process is provided by:",
+      "options": [
+        "Stack pointer",
+        "Programme counter",
+        "Base register",
+        "Status register"
+      ],
+      "correct": 1,
+      "explanation": "The Programme Counter provides the address of the next instruction to be executed by the current process.",
+      "tags": []
+    },
+    {
+      "id": "operat-030",
+      "q": "A set of processes is said to be in deadlock if:",
+      "options": [
+        "One process is using the CPU",
+        "Each process is blocked and will remain so forever",
+        "All processes are running",
+        "All processes have terminated"
+      ],
+      "correct": 1,
+      "explanation": "A set of processes is in deadlock if each process is blocked and will remain so forever — each is waiting for a resource held by another.",
+      "tags": []
+    },
+    {
+      "id": "operat-031",
+      "q": "Which of the following best describes the running state of a process?",
+      "options": [
+        "Process is waiting for I/O",
+        "Process is using the CPU",
+        "Process has terminated",
+        "Process is in the ready queue"
+      ],
+      "correct": 1,
+      "explanation": "In the running state, the process is actively using the CPU to execute instructions.",
+      "tags": []
+    },
+    {
+      "id": "operat-032",
+      "q": "What is the typical condition for a process to be in the blocked state?",
+      "options": [
+        "It is currently using the CPU",
+        "It is unable to run until some task is completed",
+        "It has just been created",
+        "It has finished execution"
+      ],
+      "correct": 1,
+      "explanation": "A process is in the blocked state when it is unable to run until some task (typically I/O) is completed.",
+      "tags": []
+    },
+    {
+      "id": "operat-033",
+      "q": "Which of the following is true about a Process Control Block (PCB)?",
+      "options": [
+        "It contains the bootstrap programme",
+        "It contains only the program counter",
+        "It is a data structure that stores process information but NOT the bootstrap programme",
+        "It is a hardware register"
+      ],
+      "correct": 2,
+      "explanation": "A PCB is a data structure that stores process information including state, programme counter and registers — but does NOT contain a bootstrap programme.",
+      "tags": []
+    },
+    {
+      "id": "operat-034",
+      "q": "A deadlock condition is characterized by:",
+      "options": [
+        "High CPU usage",
+        "Each process being blocked indefinitely",
+        "Fast process execution",
+        "High throughput"
+      ],
+      "correct": 1,
+      "explanation": "A deadlock is characterised by every process in the set being blocked and remaining so forever.",
+      "tags": []
+    },
+    {
+      "id": "operat-035",
+      "q": "The programme counter is used to:",
+      "options": [
+        "Count the number of users",
+        "Hold the address of the next instruction to be executed",
+        "Track CPU temperature",
+        "Count failed processes"
+      ],
+      "correct": 1,
+      "explanation": "The Programme Counter holds the address of the next instruction to be executed by the current process.",
+      "tags": []
+    },
+    {
+      "id": "operat-036",
+      "q": "In a Monolithic Kernel:",
+      "options": [
+        "All OS services run in user space",
+        "All OS services run in kernel space",
+        "Only essential services run in kernel space",
+        "Only file system services run in kernel space"
+      ],
+      "correct": 1,
+      "explanation": "In a Monolithic Kernel, all OS services run in kernel space. It is fast but large in size.",
+      "tags": []
+    },
+    {
+      "id": "operat-037",
+      "q": "In a Microkernel:",
+      "options": [
+        "All services run in kernel space",
+        "Only essential services run in kernel space; the rest run in user space",
+        "Only device drivers run in kernel space",
+        "Nothing runs in kernel space"
+      ],
+      "correct": 1,
+      "explanation": "In a Microkernel, only essential services run in kernel space; the rest run in user space — making it more modular.",
+      "tags": []
+    },
+    {
+      "id": "operat-038",
+      "q": "Which kernel type is more modular by design?",
+      "options": [
+        "Monolithic",
+        "Microkernel",
+        "No-kernel",
+        "Mainframe kernel"
+      ],
+      "correct": 1,
+      "explanation": "A Microkernel is more modular by design because non-essential services run in user space, isolated from the core kernel.",
+      "tags": []
+    },
+    {
+      "id": "operat-039",
+      "q": "Which kernel type combines features of monolithic and microkernel?",
+      "options": [
+        "Exokernel",
+        "Hybrid kernel",
+        "Nano kernel",
+        "No kernel"
+      ],
+      "correct": 1,
+      "explanation": "A Hybrid Kernel combines features of monolithic and microkernel designs. OS X uses a hybrid kernel.",
+      "tags": []
+    },
+    {
+      "id": "operat-040",
+      "q": "Which of the following operating systems uses a hybrid kernel?",
+      "options": [
+        "Linux",
+        "OS X",
+        "DOS",
+        "Solaris"
+      ],
+      "correct": 1,
+      "explanation": "OS X uses a hybrid kernel that combines elements of monolithic and microkernel designs.",
+      "tags": []
+    },
+    {
+      "id": "operat-041",
+      "q": "How many main types of kernels are typically classified?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 1,
+      "explanation": "Three main types of kernels are typically classified: Monolithic, Microkernel and Hybrid.",
+      "tags": []
+    },
+    {
+      "id": "operat-042",
+      "q": "The number of processes completed per unit time is called:",
+      "options": [
+        "Latency",
+        "Throughput",
+        "Bandwidth",
+        "Frequency"
+      ],
+      "correct": 1,
+      "explanation": "Throughput is the number of processes completed per unit time.",
+      "tags": []
+    },
+    {
+      "id": "operat-043",
+      "q": "Multiprogramming refers to:",
+      "options": [
+        "Writing in multiple languages",
+        "Running more than one process at a time",
+        "Using multiple monitors",
+        "Using multiple printers"
+      ],
+      "correct": 1,
+      "explanation": "Multiprogramming refers to systems that allow more than one process execution at a time.",
+      "tags": []
+    },
+    {
+      "id": "operat-044",
+      "q": "DTrace is primarily used for:",
+      "options": [
+        "Defragmenting disks",
+        "Adding probes dynamically to a running system",
+        "Encrypting files",
+        "Building user interfaces"
+      ],
+      "correct": 1,
+      "explanation": "DTrace is a facility that dynamically adds probes to a running system, both in user processes and the kernel — primarily used for performance analysis.",
+      "tags": []
+    },
+    {
+      "id": "operat-045",
+      "q": "The 'log file' in an operating system is used to:",
+      "options": [
+        "Store user passwords",
+        "Record error information when a process fails",
+        "Store boot loader code",
+        "Hold the swap area"
+      ],
+      "correct": 1,
+      "explanation": "When a process fails, most operating systems write the error information to a log file.",
+      "tags": []
+    },
+    {
+      "id": "operat-046",
+      "q": "Which of the following is the correct definition of system calls?",
+      "options": [
+        "A type of network protocol",
+        "Interface that provides access to OS services",
+        "A type of file extension",
+        "Hardware interrupts only"
+      ],
+      "correct": 1,
+      "explanation": "System Calls are the interface that provides user programs access to the services of the Operating System.",
+      "tags": []
+    },
+    {
+      "id": "operat-047",
+      "q": "Which of the following statements is TRUE about Linux?",
+      "options": [
+        "It is closed source",
+        "It is open source",
+        "It is owned by Microsoft",
+        "It is the same as Windows"
+      ],
+      "correct": 1,
+      "explanation": "Linux is an open-source operating system — its source code is freely available.",
+      "tags": []
+    },
+    {
+      "id": "operat-048",
+      "q": "Which type of interface do Unix-based systems support?",
+      "options": [
+        "Only command line",
+        "Only graphical",
+        "Both command line and graphical",
+        "Only voice interface"
+      ],
+      "correct": 2,
+      "explanation": "Unix-based systems support both a command line interface (CLI) and a graphical user interface (GUI).",
+      "tags": []
+    },
+    {
+      "id": "operat-049",
+      "q": "The interface used by application programmes to request OS services is:",
+      "options": [
+        "File system",
+        "System Calls",
+        "Hard disk",
+        "Cache"
+      ],
+      "correct": 1,
+      "explanation": "Application programmes use System Calls to request services from the Operating System.",
+      "tags": []
+    },
+    {
+      "id": "operat-050",
+      "q": "Which one of the following is NOT considered an operating system?",
+      "options": [
+        "Linux",
+        "Windows",
+        "Mac OS",
+        "Oracle"
+      ],
+      "correct": 3,
+      "explanation": "Oracle is NOT an operating system — it is a database management system. Linux, Windows and Mac OS are all operating systems.",
+      "tags": []
+    }
+  ]
+}

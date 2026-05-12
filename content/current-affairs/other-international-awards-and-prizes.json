@@ -1,0 +1,427 @@
+{
+  "topic_id": "other-international-awards-and-prizes",
+  "topic_name": "Other International Awards & Prizes",
+  "subject": "current-affairs",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Other International Awards & Prizes MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🏅",
+  "mcqs": [
+    {
+      "id": "otheri-001",
+      "q": "Which award is named after a US publisher and given for Journalism, Literature and Music?",
+      "options": [
+        "Pulitzer Prize",
+        "Magsaysay Award",
+        "Man Booker Prize",
+        "Pritzker Prize"
+      ],
+      "correct": 0,
+      "explanation": "The Pulitzer Prize is named after US publisher Joseph Pulitzer and conferred annually in the USA for Journalism, Literature and Music.",
+      "tags": []
+    },
+    {
+      "id": "otheri-002",
+      "q": "In which year was the Pulitzer Prize first instituted?",
+      "options": [
+        "1901",
+        "1917",
+        "1929",
+        "1957"
+      ],
+      "correct": 1,
+      "explanation": "The Pulitzer Prize was instituted in 1917.",
+      "tags": []
+    },
+    {
+      "id": "otheri-003",
+      "q": "In which country is the Pulitzer Prize awarded?",
+      "options": [
+        "United Kingdom",
+        "USA",
+        "Sweden",
+        "Philippines"
+      ],
+      "correct": 1,
+      "explanation": "The Pulitzer Prize is awarded annually in the United States.",
+      "tags": []
+    },
+    {
+      "id": "otheri-004",
+      "q": "Which award is often called 'Asia's Nobel Prize'?",
+      "options": [
+        "Pulitzer Prize",
+        "Templeton Prize",
+        "Magsaysay Award",
+        "Pritzker Prize"
+      ],
+      "correct": 2,
+      "explanation": "The Magsaysay Award is widely known as 'Asia's Nobel Prize'.",
+      "tags": []
+    },
+    {
+      "id": "otheri-005",
+      "q": "The Magsaysay Award is named after a former President of which country?",
+      "options": [
+        "Indonesia",
+        "Philippines",
+        "Vietnam",
+        "Malaysia"
+      ],
+      "correct": 1,
+      "explanation": "The Magsaysay Award is named after Ramon Magsaysay, former President of the Philippines.",
+      "tags": []
+    },
+    {
+      "id": "otheri-006",
+      "q": "On which date is the Magsaysay Award conferred annually?",
+      "options": [
+        "1 January",
+        "23 March",
+        "14 August",
+        "31 August"
+      ],
+      "correct": 3,
+      "explanation": "The Magsaysay Award is conferred annually on 31 August.",
+      "tags": []
+    },
+    {
+      "id": "otheri-007",
+      "q": "In which year was the Magsaysay Award instituted?",
+      "options": [
+        "1929",
+        "1957",
+        "1968",
+        "1976"
+      ],
+      "correct": 1,
+      "explanation": "The Ramon Magsaysay Award was instituted in 1957.",
+      "tags": []
+    },
+    {
+      "id": "otheri-008",
+      "q": "Which prize is awarded for 'Progress in Religion'?",
+      "options": [
+        "Templeton Prize",
+        "King Faisal Foundation Prize",
+        "UN Human Rights Award",
+        "UNESCO Peace Award"
+      ],
+      "correct": 0,
+      "explanation": "The Templeton Prize is awarded for progress in religion.",
+      "tags": []
+    },
+    {
+      "id": "otheri-009",
+      "q": "After whom is the Templeton Prize named?",
+      "options": [
+        "John M. Templeton",
+        "Joseph Pulitzer",
+        "Ramon Magsaysay",
+        "Alfred Nobel"
+      ],
+      "correct": 0,
+      "explanation": "The Templeton Prize is named after John M. Templeton, a Presbyterian of Nassau, Bahamas.",
+      "tags": []
+    },
+    {
+      "id": "otheri-010",
+      "q": "In which year was the Templeton Prize instituted?",
+      "options": [
+        "1929",
+        "1957",
+        "1968",
+        "1972"
+      ],
+      "correct": 3,
+      "explanation": "The Templeton Prize was instituted in 1972.",
+      "tags": []
+    },
+    {
+      "id": "otheri-011",
+      "q": "The Man Booker Prize is conferred annually for excellence in:",
+      "options": [
+        "Fiction (Literature)",
+        "Non-fiction",
+        "Journalism",
+        "Architecture"
+      ],
+      "correct": 0,
+      "explanation": "The Man Booker Prize is the UK's most prestigious literary award for fiction.",
+      "tags": []
+    },
+    {
+      "id": "otheri-012",
+      "q": "In which year was the Man Booker Prize first awarded?",
+      "options": [
+        "1957",
+        "1968",
+        "1972",
+        "2005"
+      ],
+      "correct": 1,
+      "explanation": "The Man Booker Prize was first awarded in 1968.",
+      "tags": []
+    },
+    {
+      "id": "otheri-013",
+      "q": "In which country is the Man Booker Prize awarded?",
+      "options": [
+        "USA",
+        "United Kingdom",
+        "France",
+        "India"
+      ],
+      "correct": 1,
+      "explanation": "The Man Booker Prize is awarded in the United Kingdom.",
+      "tags": []
+    },
+    {
+      "id": "otheri-014",
+      "q": "The Man Booker International Prize was first awarded in:",
+      "options": [
+        "2001",
+        "2003",
+        "2005",
+        "2010"
+      ],
+      "correct": 2,
+      "explanation": "The Man Booker International Prize was first awarded in 2005 (instituted in 2004).",
+      "tags": []
+    },
+    {
+      "id": "otheri-015",
+      "q": "How frequently was the Man Booker International Prize originally awarded?",
+      "options": [
+        "Every year",
+        "Every two years",
+        "Every three years",
+        "Every five years"
+      ],
+      "correct": 1,
+      "explanation": "The Man Booker International Prize was originally awarded every two years to a living author of any nationality.",
+      "tags": []
+    },
+    {
+      "id": "otheri-016",
+      "q": "The Oscar Award is also known as the:",
+      "options": [
+        "Booker Award",
+        "Academy Award",
+        "Golden Globe",
+        "Cannes Award"
+      ],
+      "correct": 1,
+      "explanation": "The Oscar Award is officially known as the Academy Award.",
+      "tags": []
+    },
+    {
+      "id": "otheri-017",
+      "q": "In which year was the first Oscar Award given?",
+      "options": [
+        "1917",
+        "1929",
+        "1957",
+        "1968"
+      ],
+      "correct": 1,
+      "explanation": "The first Oscar / Academy Awards ceremony was held in 1929.",
+      "tags": []
+    },
+    {
+      "id": "otheri-018",
+      "q": "Which body confers the Oscar Award?",
+      "options": [
+        "UNESCO",
+        "Academy of Motion Picture Arts and Sciences",
+        "Royal Society",
+        "Hyatt Foundation"
+      ],
+      "correct": 1,
+      "explanation": "The Oscar is conferred by the Academy of Motion Picture Arts and Sciences.",
+      "tags": []
+    },
+    {
+      "id": "otheri-019",
+      "q": "The Emmy Awards are given for excellence in:",
+      "options": [
+        "Music",
+        "Cinema",
+        "Television",
+        "Architecture"
+      ],
+      "correct": 2,
+      "explanation": "The Emmy Awards recognise excellence in television (Primetime, Daytime, Creative Arts and Engineering).",
+      "tags": []
+    },
+    {
+      "id": "otheri-020",
+      "q": "The Grammy Awards recognise achievements in:",
+      "options": [
+        "Music / Recording Arts",
+        "Television",
+        "Film",
+        "Theatre"
+      ],
+      "correct": 0,
+      "explanation": "The Grammy Awards are the most prestigious awards in music and the recording arts.",
+      "tags": []
+    },
+    {
+      "id": "otheri-021",
+      "q": "Which body organises the Grammy Awards?",
+      "options": [
+        "The Recording Academy",
+        "Academy of Motion Pictures",
+        "Hyatt Foundation",
+        "UNESCO"
+      ],
+      "correct": 0,
+      "explanation": "The Grammy Awards are organised by The Recording Academy.",
+      "tags": []
+    },
+    {
+      "id": "otheri-022",
+      "q": "The UN Human Rights Award was instituted in:",
+      "options": [
+        "1948",
+        "1966",
+        "1972",
+        "1979"
+      ],
+      "correct": 1,
+      "explanation": "The UN Human Rights Award was instituted in 1966.",
+      "tags": []
+    },
+    {
+      "id": "otheri-023",
+      "q": "How frequently is the UN Human Rights Award given?",
+      "options": [
+        "Every year",
+        "Every 2 years",
+        "Every 5 years",
+        "Every 10 years"
+      ],
+      "correct": 2,
+      "explanation": "The UN Human Rights Award is given every 5 years for individual contributions to the establishment of human rights.",
+      "tags": []
+    },
+    {
+      "id": "otheri-024",
+      "q": "Which international award is popularly called the 'Little Nobel'?",
+      "options": [
+        "Templeton Prize",
+        "Pritzker Prize",
+        "UNESCO Peace Award",
+        "Magsaysay Award"
+      ],
+      "correct": 2,
+      "explanation": "The UNESCO Peace Award is widely called the 'Little Nobel' Prize.",
+      "tags": []
+    },
+    {
+      "id": "otheri-025",
+      "q": "The Pritzker Architecture Prize is regarded as the highest accolade in:",
+      "options": [
+        "Engineering",
+        "Architecture",
+        "Music",
+        "Fine Arts"
+      ],
+      "correct": 1,
+      "explanation": "The Pritzker Architecture Prize is considered the highest international award in architecture.",
+      "tags": []
+    },
+    {
+      "id": "otheri-026",
+      "q": "In which year was the Pritzker Architecture Prize first awarded?",
+      "options": [
+        "1968",
+        "1972",
+        "1978–79",
+        "1985"
+      ],
+      "correct": 2,
+      "explanation": "The Pritzker Architecture Prize was first awarded in 1979 (instituted 1978).",
+      "tags": []
+    },
+    {
+      "id": "otheri-027",
+      "q": "Which foundation sponsors the Pritzker Architecture Prize?",
+      "options": [
+        "Ford Foundation",
+        "Carnegie Foundation",
+        "Hyatt Foundation",
+        "Templeton Foundation"
+      ],
+      "correct": 2,
+      "explanation": "The Pritzker Architecture Prize is sponsored by the Hyatt Foundation of Los Angeles.",
+      "tags": []
+    },
+    {
+      "id": "otheri-028",
+      "q": "In which year was the King Faisal Foundation Prize established?",
+      "options": [
+        "1969",
+        "1972",
+        "1976",
+        "1979"
+      ],
+      "correct": 2,
+      "explanation": "The King Faisal Foundation was established in 1976 by the eight sons of the late King Faisal ibn Abd Al Aziz of Saudi Arabia.",
+      "tags": []
+    },
+    {
+      "id": "otheri-029",
+      "q": "The King Faisal Prizes for Service to Islam, Islamic Studies and Arabic Literature were first awarded in:",
+      "options": [
+        "1976",
+        "1977",
+        "1978",
+        "1979"
+      ],
+      "correct": 3,
+      "explanation": "The first King Faisal Prizes were awarded in 1979.",
+      "tags": []
+    },
+    {
+      "id": "otheri-030",
+      "q": "In which year was Medicine added as a category to the King Faisal Foundation Prize?",
+      "options": [
+        "1979",
+        "1980",
+        "1981",
+        "1982"
+      ],
+      "correct": 2,
+      "explanation": "Medicine was added to the King Faisal Prize in 1981.",
+      "tags": []
+    },
+    {
+      "id": "otheri-031",
+      "q": "In which year was Science added as a category to the King Faisal Foundation Prize?",
+      "options": [
+        "1979",
+        "1980",
+        "1981",
+        "1982"
+      ],
+      "correct": 3,
+      "explanation": "Science was added to the King Faisal Prize in 1982.",
+      "tags": []
+    },
+    {
+      "id": "otheri-032",
+      "q": "Which country awards the King Faisal Foundation Prize?",
+      "options": [
+        "UAE",
+        "Egypt",
+        "Saudi Arabia",
+        "Iran"
+      ],
+      "correct": 2,
+      "explanation": "The King Faisal Foundation Prize is awarded by Saudi Arabia.",
+      "tags": []
+    }
+  ]
+}

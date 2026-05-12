@@ -1,0 +1,778 @@
+{
+  "topic_id": "nobel-prizes-and-2025-winners",
+  "topic_name": "Nobel Prizes & 2025 Winners",
+  "subject": "current-affairs",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Nobel Prizes & 2025 Winners MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🏆",
+  "mcqs": [
+    {
+      "id": "nobelp-001",
+      "q": "Who is the author of 'Gitanjali' and the first Asian, first Indian and first non-European to win the Nobel Prize in Literature in 1913?",
+      "options": [
+        "Mr Bholla and Nasir Rajpoot",
+        "Mahatma Gandhi",
+        "Amrita Pritam",
+        "Rabindranath Tagore"
+      ],
+      "correct": 3,
+      "explanation": "Rabindranath Tagore won the 1913 Nobel Prize in Literature for 'Gitanjali' — the first Asian, Indian and non-European to do so.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-002",
+      "q": "Who is the youngest person ever to win a Nobel Prize?",
+      "options": [
+        "William Lawrence Bragg",
+        "William Henry Bragg",
+        "Malala Yousafzai",
+        "Frederick Sanger"
+      ],
+      "correct": 2,
+      "explanation": "Malala Yousafzai is the youngest Nobel laureate ever — Peace Prize 2014 at age 17.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-003",
+      "q": "Who is the first female Pakistani to receive the Nobel Peace Prize (and the second Pakistani after Abdus Salam)?",
+      "options": [
+        "Malala Yousafzai",
+        "Nasira Anwar",
+        "Effat Ashiq",
+        "Asma Jahangir"
+      ],
+      "correct": 0,
+      "explanation": "Malala Yousafzai is Pakistan's first female Nobel laureate (Peace 2014) and second Pakistani Nobel winner overall after Dr Abdus Salam (Physics 1979).",
+      "tags": []
+    },
+    {
+      "id": "nobelp-004",
+      "q": "Who won both the Nobel Prize in Literature and an Oscar Award?",
+      "options": [
+        "George Bernard Shaw",
+        "Arthur Conan Doyle",
+        "Charles Dickens",
+        "Alexandre Dumas"
+      ],
+      "correct": 0,
+      "explanation": "George Bernard Shaw won the 1925 Nobel Prize in Literature and a 1938 Academy Award for the screenplay of Pygmalion.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-005",
+      "q": "In which year was the first Nobel Prize given in Economics?",
+      "options": [
+        "1967",
+        "1901",
+        "1951",
+        "1969"
+      ],
+      "correct": 3,
+      "explanation": "The Nobel Memorial Prize in Economic Sciences was first awarded in 1969.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-006",
+      "q": "In how many fields is the Nobel Prize distributed?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "explanation": "The Nobel Prize is awarded in six fields: Physics, Chemistry, Physiology or Medicine, Literature, Peace and Economic Sciences.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-007",
+      "q": "In which discipline does the United States hold the record for the maximum number of Nobel Prize awards?",
+      "options": [
+        "Science",
+        "Physics",
+        "Chemistry",
+        "Medicine"
+      ],
+      "correct": 3,
+      "explanation": "The United States has won the most Nobel Prizes in the field of Medicine (Physiology or Medicine).",
+      "tags": []
+    },
+    {
+      "id": "nobelp-008",
+      "q": "Which country awards the Nobel Prize?",
+      "options": [
+        "America",
+        "England",
+        "Sweden",
+        "Ireland"
+      ],
+      "correct": 2,
+      "explanation": "Sweden awards the Nobel Prize (the Peace Prize is awarded in Oslo, Norway).",
+      "tags": []
+    },
+    {
+      "id": "nobelp-009",
+      "q": "What was the full name of Alfred Nobel?",
+      "options": [
+        "Alfred Nobel",
+        "Bernhard Nobel",
+        "Alfred Bernhard Nobel",
+        "Bernhard Alfred Nobel"
+      ],
+      "correct": 2,
+      "explanation": "His full name was Alfred Bernhard Nobel.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-010",
+      "q": "Marie Sklodowska-Curie received the Physics Prize in 1903 and the Chemistry Prize in:",
+      "options": [
+        "1911",
+        "1913",
+        "1912",
+        "1914"
+      ],
+      "correct": 0,
+      "explanation": "Marie Curie received her second Nobel Prize, in Chemistry, in 1911.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-011",
+      "q": "Who won the first Nobel Peace Prize in 1901?",
+      "options": [
+        "Marconi",
+        "Heinrich Hertz",
+        "Wilhelm von Röntgen",
+        "Frédéric Passy and Henri Dunant"
+      ],
+      "correct": 3,
+      "explanation": "The first Nobel Peace Prize (1901) was jointly awarded to Frédéric Passy and Henri Dunant.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-012",
+      "q": "On which date is the Nobel Prize awarded each year?",
+      "options": [
+        "No fixed date",
+        "31 December every year",
+        "10 December every year",
+        "1 January every year"
+      ],
+      "correct": 2,
+      "explanation": "The Nobel Prize is awarded every year on 10 December — the death anniversary of Alfred Nobel.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-013",
+      "q": "Which country has won the maximum Nobel Prizes in Literature to date?",
+      "options": [
+        "United Kingdom",
+        "France",
+        "USA",
+        "Germany"
+      ],
+      "correct": 2,
+      "explanation": "The USA holds the record for the most Nobel Prizes in Literature.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-014",
+      "q": "Which country has won the most Nobel Prizes overall to date?",
+      "options": [
+        "United Kingdom",
+        "France",
+        "USA",
+        "Germany"
+      ],
+      "correct": 2,
+      "explanation": "The USA leads in total Nobel Prizes won across all categories.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-015",
+      "q": "Which is the second largest Nobel Prize-winning country to date?",
+      "options": [
+        "United Kingdom",
+        "France",
+        "USA",
+        "Germany"
+      ],
+      "correct": 0,
+      "explanation": "The United Kingdom is second on the all-time Nobel laureate count.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-016",
+      "q": "Which is the third largest Nobel Prize-winning country to date?",
+      "options": [
+        "United Kingdom",
+        "France",
+        "USA",
+        "Germany"
+      ],
+      "correct": 3,
+      "explanation": "Germany is third on the all-time Nobel laureate count.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-017",
+      "q": "In which year did the maximum number of women win a Nobel Prize?",
+      "options": [
+        "2010",
+        "2012",
+        "2009",
+        "2011"
+      ],
+      "correct": 2,
+      "explanation": "In 2009, a record number of women laureates were awarded Nobel Prizes.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-018",
+      "q": "In which category has the USA won the maximum number of Nobel Prizes?",
+      "options": [
+        "Medicine",
+        "Literature",
+        "Physics",
+        "Economics"
+      ],
+      "correct": 2,
+      "explanation": "The USA's largest tally of Nobel Prizes is in Physics.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-019",
+      "q": "Which woman was awarded two Nobel Prizes for two different sciences?",
+      "options": [
+        "Marie Curie",
+        "Emily Greene Balch",
+        "Irène Joliot-Curie",
+        "Aung San Suu Kyi"
+      ],
+      "correct": 0,
+      "explanation": "Marie Curie won the 1903 Physics Prize and the 1911 Chemistry Prize.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-020",
+      "q": "Who is the first woman winner of the Nobel Prize (Physics 1903)?",
+      "options": [
+        "Marie Curie",
+        "Irène Joliot-Curie",
+        "Aung San Suu Kyi",
+        "Emily Greene Balch"
+      ],
+      "correct": 0,
+      "explanation": "Marie Curie became the first woman Nobel laureate when she shared the 1903 Physics Prize.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-021",
+      "q": "The 1979 Nobel Peace Prize winner whose real name was Agnes Gonxha Bojaxhiu was universally known as:",
+      "options": [
+        "Golda Meir",
+        "Betty Williams",
+        "Lady Diana Spencer",
+        "Mother Teresa"
+      ],
+      "correct": 3,
+      "explanation": "Mother Teresa (born Agnes Gonxha Bojaxhiu, ethnically Albanian) won the 1979 Nobel Peace Prize.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-022",
+      "q": "Who won the first Nobel Prize in Chemistry in 1901?",
+      "options": [
+        "Jacobus van 't Hoff",
+        "Von Behring",
+        "Andrei Sakharov",
+        "Linus Pauling"
+      ],
+      "correct": 0,
+      "explanation": "Jacobus Henricus van 't Hoff won the first Nobel Prize in Chemistry (1901).",
+      "tags": []
+    },
+    {
+      "id": "nobelp-023",
+      "q": "Who is the only person to win two unshared Nobel Prizes?",
+      "options": [
+        "Marie Curie",
+        "Linus Pauling",
+        "John Jackson",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Linus Pauling is the only person ever to receive two UNSHARED Nobel Prizes — Chemistry 1954 and Peace 1962.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-024",
+      "q": "Which country awards the Nobel Prize?",
+      "options": [
+        "America",
+        "England",
+        "Sweden",
+        "Ireland"
+      ],
+      "correct": 2,
+      "explanation": "Sweden awards the Nobel Prize (Peace Prize at Oslo, Norway).",
+      "tags": []
+    },
+    {
+      "id": "nobelp-025",
+      "q": "Who won the first Nobel Prize in Physics in 1901?",
+      "options": [
+        "Marconi",
+        "Heinrich Hertz",
+        "Wilhelm von Röntgen",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Wilhelm Conrad Röntgen won the first Nobel Prize in Physics (1901) for the discovery of X-rays.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-026",
+      "q": "This famous US chemist won a Nobel Prize in Chemistry in 1954 and the Nobel Peace Prize in 1962 for opposition to nuclear testing. Who was he?",
+      "options": [
+        "Linus Pauling",
+        "Harold Urey",
+        "Jonas Salk",
+        "Yuan T. Lee"
+      ],
+      "correct": 0,
+      "explanation": "Linus Pauling — the only person to win two unshared Nobels — was a vocal opponent of atmospheric nuclear testing.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-027",
+      "q": "Alfred Nobel was the inventor of which high explosive?",
+      "options": [
+        "Dynamite",
+        "Microwaves",
+        "Insulin",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Alfred Nobel invented dynamite (patented 1867) and used the wealth from his patents to fund the Nobel Prize.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-028",
+      "q": "What was the name of the Burmese (Myanmar) woman who won the 1991 Nobel Peace Prize?",
+      "options": [
+        "Le Duc Tho",
+        "Akihito",
+        "Aung San Suu Kyi",
+        "Bai Ling"
+      ],
+      "correct": 2,
+      "explanation": "Aung San Suu Kyi won the Nobel Peace Prize in 1991 for her non-violent struggle for democracy in Myanmar.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-029",
+      "q": "Which Nobel Prize is also awarded to organisations, besides individuals?",
+      "options": [
+        "Physics",
+        "Peace",
+        "Chemistry",
+        "Medicine"
+      ],
+      "correct": 1,
+      "explanation": "Only the Nobel Peace Prize can be awarded to organisations (e.g. ICRC, UN, OPCW, EU).",
+      "tags": []
+    },
+    {
+      "id": "nobelp-030",
+      "q": "Alfred Bernhard Nobel — who instituted the Nobel Prize — belonged to which country?",
+      "options": [
+        "Germany",
+        "Sweden",
+        "France",
+        "Norway"
+      ],
+      "correct": 1,
+      "explanation": "Alfred Nobel was a Swedish chemist and industrialist.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-031",
+      "q": "Which Nobel Prize has been awarded continuously from its institution date?",
+      "options": [
+        "Literature",
+        "Peace",
+        "Economic Sciences",
+        "Medicine"
+      ],
+      "correct": 2,
+      "explanation": "The Nobel Memorial Prize in Economic Sciences (instituted 1968, first awarded 1969) has been awarded every year since its institution.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-032",
+      "q": "Who jointly won the 1979 Nobel Prize in Physics?",
+      "options": [
+        "Steven Weinberg",
+        "Abdus Salam",
+        "Sheldon Lee Glashow",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "The 1979 Physics Prize was shared by Steven Weinberg, Abdus Salam and Sheldon Glashow for the electroweak unification theory.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-033",
+      "q": "Who received the Nobel Prize twice in Chemistry — in 1958 and 1980?",
+      "options": [
+        "Frederick Sanger",
+        "John Bardeen",
+        "Sumeil Bengon",
+        "Linus Pauling"
+      ],
+      "correct": 0,
+      "explanation": "British biochemist Frederick Sanger won the Chemistry Prize twice (1958 and 1980).",
+      "tags": []
+    },
+    {
+      "id": "nobelp-034",
+      "q": "Who received the Nobel Prize twice in Physics — in 1956 and 1972?",
+      "options": [
+        "John Bardeen",
+        "Sumeil Bengon",
+        "Frederick Sanger",
+        "Linus Pauling"
+      ],
+      "correct": 0,
+      "explanation": "John Bardeen is the only person to have won two Nobel Prizes in Physics (1956 and 1972).",
+      "tags": []
+    },
+    {
+      "id": "nobelp-035",
+      "q": "Who won the 1954 Chemistry Prize and the 1962 Peace Prize?",
+      "options": [
+        "John Bardeen",
+        "Frederick Sanger",
+        "Sumeil Bengon",
+        "Linus Pauling"
+      ],
+      "correct": 3,
+      "explanation": "Linus Pauling won the 1954 Chemistry Prize and the 1962 Peace Prize.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-036",
+      "q": "Tawakkol Karman, the second Muslim woman after Shirin Ebadi to win the Nobel Peace Prize (2011), is from:",
+      "options": [
+        "Yemen",
+        "Iraq",
+        "Syria",
+        "Türkiye"
+      ],
+      "correct": 0,
+      "explanation": "Tawakkol Karman of Yemen won the 2011 Nobel Peace Prize.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-037",
+      "q": "After Malala Yousafzai received the Peace Nobel Prize in 2014, which records were established?",
+      "options": [
+        "The youngest person ever to win a Nobel Prize",
+        "Second Pakistani to win a Nobel Prize",
+        "First female Pakistani to win a Nobel Peace Prize",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "Malala became the youngest Nobel laureate, the second Pakistani after Abdus Salam, and the first female Pakistani Nobel laureate.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-038",
+      "q": "Name the first international organisation to win the Nobel Prize.",
+      "options": [
+        "International Organization for Refugees",
+        "Institute of International Law",
+        "International Committee of the Red Cross",
+        "United Nations Organization"
+      ],
+      "correct": 1,
+      "explanation": "The Institute of International Law was the first international organisation to win the Nobel Peace Prize (1904).",
+      "tags": []
+    },
+    {
+      "id": "nobelp-039",
+      "q": "How many US Presidents have won the Nobel Peace Prize?",
+      "options": [
+        "3",
+        "4",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "explanation": "Four US Presidents have won the Nobel Peace Prize: Theodore Roosevelt (1906), Woodrow Wilson (1919), Jimmy Carter (2002) and Barack Obama (2009).",
+      "tags": []
+    },
+    {
+      "id": "nobelp-040",
+      "q": "Who is the first Muslim woman to receive the Nobel Peace Prize?",
+      "options": [
+        "Ellen Johnson Sirleaf",
+        "Tawakkol Karman",
+        "Shirin Ebadi",
+        "Aung San Suu Kyi"
+      ],
+      "correct": 2,
+      "explanation": "Iranian human-rights lawyer Shirin Ebadi (2003) was the first Muslim woman to win the Nobel Peace Prize.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-041",
+      "q": "Who is the first Muslim ever to receive the Nobel Peace Prize?",
+      "options": [
+        "Anwar El Sadat (Egypt)",
+        "Yasser Arafat (Palestine)",
+        "Shirin Ebadi (Iran)",
+        "Tawakkol Karman (Yemen)"
+      ],
+      "correct": 0,
+      "explanation": "Egyptian President Anwar El Sadat won the 1978 Nobel Peace Prize — the first Muslim recipient.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-042",
+      "q": "Dr Abdus Salam — the first Pakistani Nobel laureate (1979) — won in:",
+      "options": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Peace"
+      ],
+      "correct": 0,
+      "explanation": "Dr Abdus Salam won the 1979 Nobel Prize in Physics for the electroweak unification theory.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-043",
+      "q": "In which year was the Nobel Foundation instituted?",
+      "options": [
+        "1896",
+        "1901",
+        "1876",
+        "1900"
+      ],
+      "correct": 3,
+      "explanation": "The Nobel Foundation was instituted in 1900 (first prizes awarded in 1901).",
+      "tags": []
+    },
+    {
+      "id": "nobelp-044",
+      "q": "The Peace Nobel Prize is awarded annually at:",
+      "options": [
+        "Stockholm, Sweden",
+        "Oslo, Norway",
+        "New York, USA",
+        "UNO"
+      ],
+      "correct": 1,
+      "explanation": "The Nobel Peace Prize is awarded in Oslo, Norway. The other five Nobel Prizes are awarded in Stockholm.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-045",
+      "q": "In which year was the Nobel Prize given for the first time?",
+      "options": [
+        "1900",
+        "1903",
+        "1901",
+        "1902"
+      ],
+      "correct": 2,
+      "explanation": "The first Nobel Prizes were awarded in 1901.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-046",
+      "q": "Which country won the maximum Nobel Prizes in 2016?",
+      "options": [
+        "Japan",
+        "USA",
+        "Germany",
+        "UK (5 Prizes)"
+      ],
+      "correct": 3,
+      "explanation": "As per this MCQ source, the UK won 5 Nobel Prizes in 2016, the most of any country that year.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-047",
+      "q": "How many people have won more than one Nobel Prize?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 3,
+      "explanation": "Five people have won more than one Nobel Prize — Marie Curie, Linus Pauling, John Bardeen, Frederick Sanger and Karl Barry Sharpless (plus organisations like ICRC and UNHCR).",
+      "tags": []
+    },
+    {
+      "id": "nobelp-048",
+      "q": "The 2025 Nobel Prize in Chemistry was awarded jointly to Susumu Kitagawa, Richard Robson and Omar M. Yaghi for the development of:",
+      "options": [
+        "Carbon nanotubes",
+        "Metal-organic frameworks (MOFs)",
+        "Quantum dots",
+        "CRISPR gene editing"
+      ],
+      "correct": 1,
+      "explanation": "The 2025 Chemistry Nobel was awarded for the development of metal-organic frameworks (MOFs).",
+      "tags": []
+    },
+    {
+      "id": "nobelp-049",
+      "q": "The 2025 Nobel Prize in Economic Sciences was awarded to Joel Mokyr, Peter Howitt and Philippe Aghion for their work on:",
+      "options": [
+        "Behavioural economics",
+        "Sustained growth through technological progress and the theory of creative destruction",
+        "Auction theory",
+        "Game theory"
+      ],
+      "correct": 1,
+      "explanation": "The 2025 Economics Nobel honoured the trio's work on prerequisites for sustained growth via technological progress and 'creative destruction'.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-050",
+      "q": "The 2025 Nobel Prize in Literature was awarded to:",
+      "options": [
+        "Han Kang",
+        "László Krasznahorkai",
+        "Annie Ernaux",
+        "Jon Fosse"
+      ],
+      "correct": 1,
+      "explanation": "Hungarian writer László Krasznahorkai won the 2025 Nobel Prize in Literature.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-051",
+      "q": "László Krasznahorkai — the 2025 Nobel laureate in Literature — is from which country?",
+      "options": [
+        "Norway",
+        "Hungary",
+        "Poland",
+        "Germany"
+      ],
+      "correct": 1,
+      "explanation": "László Krasznahorkai is a Hungarian novelist.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-052",
+      "q": "The 2025 Nobel Peace Prize was awarded to:",
+      "options": [
+        "Maria Ressa",
+        "Narges Mohammadi",
+        "María Corina Machado",
+        "Volodymyr Zelenskyy"
+      ],
+      "correct": 2,
+      "explanation": "María Corina Machado of Venezuela won the 2025 Nobel Peace Prize.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-053",
+      "q": "María Corina Machado — the 2025 Nobel Peace Prize laureate — is a democracy advocate from which country?",
+      "options": [
+        "Colombia",
+        "Venezuela",
+        "Brazil",
+        "Cuba"
+      ],
+      "correct": 1,
+      "explanation": "María Corina Machado is a Venezuelan opposition leader and democracy advocate.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-054",
+      "q": "The 2025 Nobel Prize in Physics was awarded jointly to John Clarke, Michel H. Devoret and John M. Martinis for the discovery of:",
+      "options": [
+        "Higgs boson",
+        "Macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit",
+        "Dark matter signatures",
+        "Gravitational waves"
+      ],
+      "correct": 1,
+      "explanation": "The 2025 Physics Nobel honoured macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-055",
+      "q": "The 2025 Nobel Prize in Physiology or Medicine was awarded jointly to Mary E. Brunkow, Fred Ramsdell and Shimon Sakaguchi for their discoveries concerning:",
+      "options": [
+        "mRNA vaccines",
+        "Peripheral immune tolerance",
+        "Cancer immunotherapy",
+        "Hepatitis C virus"
+      ],
+      "correct": 1,
+      "explanation": "The 2025 Medicine Nobel was awarded for discoveries on peripheral immune tolerance — how the immune system avoids attacking the body itself.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-056",
+      "q": "On what date are the Nobel Prizes formally awarded each year?",
+      "options": [
+        "10 October",
+        "10 November",
+        "10 December",
+        "21 December"
+      ],
+      "correct": 2,
+      "explanation": "All Nobel Prizes are formally awarded on 10 December — the death anniversary of Alfred Nobel.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-057",
+      "q": "In what month are Nobel Prize winners typically announced?",
+      "options": [
+        "January",
+        "July",
+        "October",
+        "December"
+      ],
+      "correct": 2,
+      "explanation": "The Nobel Prize laureates are announced each year in October.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-058",
+      "q": "Where is the Nobel Peace Prize awarded?",
+      "options": [
+        "Stockholm, Sweden",
+        "Oslo, Norway",
+        "Copenhagen, Denmark",
+        "Helsinki, Finland"
+      ],
+      "correct": 1,
+      "explanation": "The Nobel Peace Prize is awarded in Oslo, Norway. The other five prizes are awarded in Stockholm, Sweden.",
+      "tags": []
+    },
+    {
+      "id": "nobelp-059",
+      "q": "How many Nobel Prize winners were honoured in the 2025 Chemistry, Physics and Medicine categories combined?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 2,
+      "explanation": "Three winners each in Chemistry, Physics and Medicine = 9 individuals were honoured across these three sciences in 2025.",
+      "tags": []
+    }
+  ]
+}

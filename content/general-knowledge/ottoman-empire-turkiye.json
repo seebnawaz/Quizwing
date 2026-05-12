@@ -1,0 +1,947 @@
+{
+  "topic_id": "ottoman-empire-turkiye",
+  "topic_name": "Ottoman Empire Turkiye",
+  "subject": "general-knowledge",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Ottoman Empire Turkiye MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🏛️",
+  "mcqs": [
+    {
+      "id": "ottoma-001",
+      "q": "The Ottoman Empire was established in the year:",
+      "options": [
+        "1299",
+        "1453",
+        "1326",
+        "1389"
+      ],
+      "correct": 0,
+      "explanation": "The Ottoman Empire was established in 1299 by Osman I in northwestern Anatolia.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-002",
+      "q": "The Ottoman Empire was founded by:",
+      "options": [
+        "Osman I",
+        "Mehmed II",
+        "Suleiman I",
+        "Bayezid I"
+      ],
+      "correct": 0,
+      "explanation": "Osman I (also known as Osman Gazi) founded the Ottoman Empire in 1299.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-003",
+      "q": "The initial center (first capital) of the Ottoman Empire was:",
+      "options": [
+        "Bursa",
+        "Constantinople",
+        "Edirne",
+        "Ankara"
+      ],
+      "correct": 0,
+      "explanation": "Bursa was the initial center and first major capital of the Ottoman Empire after its capture in 1326.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-004",
+      "q": "The capital of the Ottoman Empire before Constantinople (1453) was:",
+      "options": [
+        "Edirne",
+        "Bursa",
+        "Ankara",
+        "Konya"
+      ],
+      "correct": 0,
+      "explanation": "Edirne (Adrianople) served as the Ottoman capital from 1369 until the conquest of Constantinople in 1453.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-005",
+      "q": "The Battle of Ankara (1402) was fought between:",
+      "options": [
+        "Timur and Sultan Bayezid I",
+        "Mehmed II and Constantine XI",
+        "Suleiman and Charles V",
+        "Selim I and Ismail I"
+      ],
+      "correct": 0,
+      "explanation": "The Battle of Ankara in 1402 was fought between Timur (Tamerlane) and Ottoman Sultan Bayezid I, resulting in Bayezid's capture.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-006",
+      "q": "The Battle of Kosovo (1389) established Ottoman dominance in:",
+      "options": [
+        "The Balkans",
+        "North Africa",
+        "Persia",
+        "Central Asia"
+      ],
+      "correct": 0,
+      "explanation": "The Battle of Kosovo in 1389 established Ottoman dominance in the Balkans and southeastern Europe.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-007",
+      "q": "Sultan Muhammad Fateh (Mehmed II) conquered Constantinople on:",
+      "options": [
+        "29 May 1453",
+        "15 June 1453",
+        "1 January 1453",
+        "29 May 1389"
+      ],
+      "correct": 0,
+      "explanation": "Sultan Mehmed II (Fateh/the Conqueror) conquered Constantinople on May 29, 1453, ending the Byzantine Empire.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-008",
+      "q": "The conquest of Constantinople in 1453 marks the start of the:",
+      "options": [
+        "Modern Era",
+        "Medieval Era",
+        "Bronze Age",
+        "Classical Era"
+      ],
+      "correct": 0,
+      "explanation": "The fall of Constantinople in 1453 is often regarded as the event marking the end of the Middle Ages and the start of the Modern Era.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-009",
+      "q": "After conquering Constantinople, the Ottomans renamed it to:",
+      "options": [
+        "Istanbul",
+        "Ankara",
+        "Edirne",
+        "Bursa"
+      ],
+      "correct": 0,
+      "explanation": "Constantinople was gradually renamed Istanbul after the Ottoman conquest, becoming the empire's grand capital.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-010",
+      "q": "The Caliphate was established in the Ottoman Empire after defeating the Mamluks in:",
+      "options": [
+        "1517",
+        "1453",
+        "1520",
+        "1566"
+      ],
+      "correct": 0,
+      "explanation": "The Ottoman Caliphate was established in 1517 after Sultan Selim I defeated the Mamluk Sultanate and assumed the title of Caliph.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-011",
+      "q": "The Battle of Chaldiran (1514) was fought against the:",
+      "options": [
+        "Safavid Empire",
+        "Byzantine Empire",
+        "Mamluk Sultanate",
+        "Mongol Empire"
+      ],
+      "correct": 0,
+      "explanation": "The Battle of Chaldiran in 1514 was fought between Sultan Selim I and the Safavid Shah Ismail I of Persia.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-012",
+      "q": "The tenure of Suleiman the Magnificent was from:",
+      "options": [
+        "1520 to 1566",
+        "1453 to 1481",
+        "1512 to 1520",
+        "1566 to 1574"
+      ],
+      "correct": 0,
+      "explanation": "Suleiman the Magnificent ruled the Ottoman Empire from 1520 to 1566, its longest and most glorious era.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-013",
+      "q": "The Ottoman Empire entered its classical golden age under:",
+      "options": [
+        "Sultan Suleiman the Magnificent",
+        "Sultan Mehmed II",
+        "Sultan Selim I",
+        "Sultan Bayezid II"
+      ],
+      "correct": 0,
+      "explanation": "The Ottoman Empire reached its peak under Suleiman the Magnificent, expanding across three continents.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-014",
+      "q": "The primary elite military unit of Christian boys converted to Islam were the:",
+      "options": [
+        "Janissaries",
+        "Sipahis",
+        "Mamluks",
+        "Ghazis"
+      ],
+      "correct": 0,
+      "explanation": "The Janissaries were an elite military corps formed from Christian boys through the devshirme system, converted to Islam and trained as soldiers.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-015",
+      "q": "The Battle of Lepanto (1571) was a major naval defeat for the Ottomans against:",
+      "options": [
+        "A Christian coalition (Holy League)",
+        "The Persian Safavids",
+        "The Mughal Empire",
+        "The Portuguese"
+      ],
+      "correct": 0,
+      "explanation": "The Battle of Lepanto in 1571 was a major naval defeat for the Ottomans at the hands of the Holy League (Spain, Venice, and the Papacy).",
+      "tags": []
+    },
+    {
+      "id": "ottoma-016",
+      "q": "Hungary remained under Ottoman control for:",
+      "options": [
+        "158 years (1541-1699)",
+        "200 years",
+        "100 years",
+        "50 years"
+      ],
+      "correct": 0,
+      "explanation": "Hungary was under Ottoman rule from 1541 to 1699, a period of 158 years.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-017",
+      "q": "The period during which Hungary was under Ottoman rule was:",
+      "options": [
+        "1541 to 1699",
+        "1453 to 1600",
+        "1520 to 1683",
+        "1389 to 1541"
+      ],
+      "correct": 0,
+      "explanation": "Hungary was under Ottoman control from 1541 to 1699, ending with the Treaty of Karlowitz.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-018",
+      "q": "The Crimean War began on:",
+      "options": [
+        "October 5, 1853",
+        "March 28, 1854",
+        "June 1, 1856",
+        "January 1, 1853"
+      ],
+      "correct": 0,
+      "explanation": "The Crimean War began on October 5, 1853, primarily between Russia and the Ottoman Empire (allied with Britain and France).",
+      "tags": []
+    },
+    {
+      "id": "ottoma-019",
+      "q": "The Crimean War involved which Russian and Ottoman leaders?",
+      "options": [
+        "Tsar Nicholas I and Sultan Abdulmejid I",
+        "Tsar Alexander II and Sultan Mehmed V",
+        "Tsar Alexander I and Sultan Mahmud II",
+        "Tsar Nicholas II and Sultan Abdul Hamid II"
+      ],
+      "correct": 0,
+      "explanation": "The Crimean War involved Tsar Nicholas I of Russia against Sultan Abdulmejid I of the Ottoman Empire.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-020",
+      "q": "The primary result of the Crimean War for the Ottomans was:",
+      "options": [
+        "Rise of Ottoman nationalism",
+        "Conquest of new territories",
+        "Defeat of Britain",
+        "End of the Sultanate"
+      ],
+      "correct": 0,
+      "explanation": "The Crimean War led to a rise of Ottoman nationalism and efforts to modernize and reform the empire.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-021",
+      "q": "Turkey became known as the 'Sick Man of Europe' around:",
+      "options": [
+        "1876",
+        "1453",
+        "1922",
+        "1914"
+      ],
+      "correct": 0,
+      "explanation": "The Ottoman Empire was famously called the 'Sick Man of Europe' around 1876 due to its declining power and territorial losses.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-022",
+      "q": "Prior to the 19th century, the Ottoman Empire's main rival was:",
+      "options": [
+        "Russia",
+        "Britain",
+        "France",
+        "Austria"
+      ],
+      "correct": 0,
+      "explanation": "Russia was the Ottoman Empire's principal rival, with multiple Russo-Turkish wars fought over centuries.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-023",
+      "q": "The military commander of Sultan Abdul Hamid II was:",
+      "options": [
+        "Hassan Pasha",
+        "Enver Pasha",
+        "Talat Pasha",
+        "Cemal Pasha"
+      ],
+      "correct": 0,
+      "explanation": "Hassan Pasha served as the military commander under Sultan Abdulhamid II.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-024",
+      "q": "Sultan Abdulhamid II promoted pan-Islamic ideology with authoritarian centralization during:",
+      "options": [
+        "1876-1909",
+        "1853-1876",
+        "1914-1918",
+        "1920-1924"
+      ],
+      "correct": 0,
+      "explanation": "Sultan Abdulhamid II ruled from 1876 to 1909, promoting pan-Islamic ideology amid crises (1876-1909).",
+      "tags": []
+    },
+    {
+      "id": "ottoma-025",
+      "q": "The Tanzimat reforms sought to modernize the Ottoman Empire through:",
+      "options": [
+        "Legal and administrative modernization",
+        "Military conquest",
+        "Religious authority",
+        "Colonial expansion"
+      ],
+      "correct": 0,
+      "explanation": "The Tanzimat reforms (1839-1876) sought legal and administrative modernization amid imperial pressures.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-026",
+      "q": "The Young Turk Revolution took place in:",
+      "options": [
+        "1908",
+        "1876",
+        "1914",
+        "1922"
+      ],
+      "correct": 0,
+      "explanation": "The Young Turk Revolution of 1908 restored the Ottoman constitution and aimed at imperial reform.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-027",
+      "q": "Sultan Abdulhamid II was weakened after the:",
+      "options": [
+        "Young Turk Revolution",
+        "Crimean War",
+        "Battle of Gallipoli",
+        "Treaty of Lausanne"
+      ],
+      "correct": 0,
+      "explanation": "Sultan Abdulhamid II was weakened and later deposed after the Young Turk Revolution of 1908.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-028",
+      "q": "The Ottoman Empire officially entered World War I in:",
+      "options": [
+        "1914",
+        "1915",
+        "1916",
+        "1918"
+      ],
+      "correct": 0,
+      "explanation": "The Ottoman Empire entered WWI in 1914, aligning with the Central Powers (Germany and Austria-Hungary).",
+      "tags": []
+    },
+    {
+      "id": "ottoma-029",
+      "q": "The Gallipoli Campaign (1915-1916) saw Ottoman forces successfully defend against:",
+      "options": [
+        "Allied (British and French) invasion",
+        "Russian invasion",
+        "Italian invasion",
+        "Greek invasion"
+      ],
+      "correct": 0,
+      "explanation": "The Gallipoli Campaign saw Ottoman forces, led partly by Mustafa Kemal, successfully repel the Allied invasion at the Dardanelles.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-030",
+      "q": "The Treaty of Sèvres was significant because it led to the:",
+      "options": [
+        "Fragmentation of the Ottoman Empire",
+        "Expansion of the Ottoman Empire",
+        "Founding of the Ottoman Empire",
+        "Ottoman victory in WWI"
+      ],
+      "correct": 0,
+      "explanation": "The Treaty of Sèvres (1920) dismembered the Ottoman Empire, but was later replaced by the Treaty of Lausanne.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-031",
+      "q": "The Ottoman Sultanate was abolished on:",
+      "options": [
+        "1 November 1922",
+        "3 March 1924",
+        "29 October 1923",
+        "15 June 1920"
+      ],
+      "correct": 0,
+      "explanation": "The Ottoman Sultanate was abolished on November 1, 1922 by the Grand National Assembly of Turkey.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-032",
+      "q": "The last Sultan of the Ottoman Sultanate was:",
+      "options": [
+        "Mehmed VI",
+        "Abdulhamid II",
+        "Suleiman II",
+        "Mehmed V"
+      ],
+      "correct": 0,
+      "explanation": "Mehmed VI (Vahideddin) was the last Sultan of the Ottoman Empire, ruling from 1918 to 1922.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-033",
+      "q": "The Ottoman Caliphate was abolished on:",
+      "options": [
+        "3 March 1924",
+        "1 November 1922",
+        "29 October 1923",
+        "24 July 1923"
+      ],
+      "correct": 0,
+      "explanation": "The Ottoman Caliphate was abolished on March 3, 1924 by Mustafa Kemal Atatürk.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-034",
+      "q": "The last Caliph of the Ottoman Caliphate was:",
+      "options": [
+        "Abdulmejid II",
+        "Mehmed VI",
+        "Abdulhamid II",
+        "Suleiman I"
+      ],
+      "correct": 0,
+      "explanation": "Abdulmejid II was the last Caliph of the Ottoman Caliphate, serving from 1922 until abolition in 1924.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-035",
+      "q": "The institution of Caliphate was abolished by:",
+      "options": [
+        "Mustafa Kemal Atatürk",
+        "Mehmed VI",
+        "Enver Pasha",
+        "Ismet Inönü"
+      ],
+      "correct": 0,
+      "explanation": "Mustafa Kemal Atatürk abolished the Ottoman Caliphate in 1924 as part of his secularization reforms.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-036",
+      "q": "The civil government of Turkey (Republic) was formed in:",
+      "options": [
+        "1923",
+        "1924",
+        "1922",
+        "1920"
+      ],
+      "correct": 0,
+      "explanation": "The Republic of Turkey was proclaimed on October 29, 1923 with Mustafa Kemal Atatürk as its first president.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-037",
+      "q": "The Treaty of Lausanne (1923) served as the basis to form:",
+      "options": [
+        "Modern Turkey",
+        "The Ottoman Empire",
+        "The Byzantine Empire",
+        "The Seljuk state"
+      ],
+      "correct": 0,
+      "explanation": "The Treaty of Lausanne (1923) replaced the Treaty of Sèvres and recognized the sovereignty of the new Republic of Turkey.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-038",
+      "q": "Hagia Sophia was originally built by the:",
+      "options": [
+        "Romans (Byzantines)",
+        "Ottomans",
+        "Seljuk Turks",
+        "Greeks"
+      ],
+      "correct": 0,
+      "explanation": "Hagia Sophia was built by the Byzantine Emperor Justinian I in 537 AD as a Christian cathedral in Constantinople.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-039",
+      "q": "Hagia Sophia is located in:",
+      "options": [
+        "Turkey (Istanbul)",
+        "Greece (Athens)",
+        "Egypt (Cairo)",
+        "Italy (Rome)"
+      ],
+      "correct": 0,
+      "explanation": "Hagia Sophia is located in Istanbul, Turkey. It served as a cathedral, mosque, museum, and is now a mosque again.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-040",
+      "q": "The Sultan Ahmed Mosque of Istanbul is also called the:",
+      "options": [
+        "Blue Mosque",
+        "Red Mosque",
+        "Grand Mosque",
+        "White Mosque"
+      ],
+      "correct": 0,
+      "explanation": "The Sultan Ahmed Mosque, built in the early 17th century, is popularly known as the Blue Mosque due to its blue tile interior.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-041",
+      "q": "The political party of President Erdoğan is the:",
+      "options": [
+        "Justice and Development Party (AKP)",
+        "Republican People's Party (CHP)",
+        "Nationalist Movement Party (MHP)",
+        "Peoples' Democratic Party (HDP)"
+      ],
+      "correct": 0,
+      "explanation": "Recep Tayyip Erdoğan leads the Justice and Development Party (AKP), which he co-founded in 2001.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-042",
+      "q": "President Erdoğan was fond of which sport in his young age?",
+      "options": [
+        "Football",
+        "Basketball",
+        "Wrestling",
+        "Boxing"
+      ],
+      "correct": 0,
+      "explanation": "Recep Tayyip Erdoğan was a passionate footballer in his youth and played semi-professional football.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-043",
+      "q": "Which foreign leader addressed the Parliament of Pakistan for the third time?",
+      "options": [
+        "Tayyip Erdoğan",
+        "Xi Jinping",
+        "King Salman",
+        "Emmanuel Macron"
+      ],
+      "correct": 0,
+      "explanation": "Turkish President Recep Tayyip Erdoğan addressed the Parliament of Pakistan for the third time, reflecting strong Pakistan-Turkey ties.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-044",
+      "q": "The writer of Turkish drama 'Diriliş: Ertuğrul' is:",
+      "options": [
+        "Mehmet Bozdağ",
+        "Orhan Pamuk",
+        "Elif Shafak",
+        "Ahmet Hamdi Tanpinar"
+      ],
+      "correct": 0,
+      "explanation": "Mehmet Bozdağ is the creator and writer of the popular Turkish historical drama Diriliş: Ertuğrul.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-045",
+      "q": "The last holder of the Prime Minister post in Turkey was:",
+      "options": [
+        "Binali Yıldırım",
+        "Ahmet Davutoğlu",
+        "Recep Tayyip Erdoğan",
+        "Abdullah Gül"
+      ],
+      "correct": 0,
+      "explanation": "Binali Yıldırım was the last Prime Minister of Turkey before the post was abolished in 2018.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-046",
+      "q": "The post of Prime Minister of Turkey was abolished in:",
+      "options": [
+        "2018",
+        "2017",
+        "2019",
+        "2023"
+      ],
+      "correct": 0,
+      "explanation": "Turkey abolished the post of Prime Minister in 2018 after a constitutional referendum shifted to a presidential system.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-047",
+      "q": "Turkey officially changed its name to Türkiye on:",
+      "options": [
+        "June 1, 2022",
+        "January 1, 2023",
+        "October 29, 2022",
+        "March 3, 2022"
+      ],
+      "correct": 0,
+      "explanation": "Turkey officially changed its internationally recognized name to Türkiye on June 1, 2022 at the United Nations.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-048",
+      "q": "The Ottoman Empire at its peak spanned across:",
+      "options": [
+        "Three continents (Europe, Asia, Africa)",
+        "Two continents",
+        "Four continents",
+        "One continent"
+      ],
+      "correct": 0,
+      "explanation": "At its height under Suleiman the Magnificent, the Ottoman Empire spanned Europe, Asia, and Africa.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-049",
+      "q": "The Treaty of Karlowitz (1699) marked the first major Ottoman territorial losses to:",
+      "options": [
+        "European powers (Austria, Venice, Poland)",
+        "Russia alone",
+        "Britain and France",
+        "The Safavid Empire"
+      ],
+      "correct": 0,
+      "explanation": "The Treaty of Karlowitz (1699) marked the first major Ottoman territorial losses, ceding Hungary to Austria and other lands.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-050",
+      "q": "The Ottoman Empire's 'millet system' was a form of:",
+      "options": [
+        "Religious community self-governance",
+        "Military conscription",
+        "Economic taxation",
+        "Land distribution"
+      ],
+      "correct": 0,
+      "explanation": "The millet system allowed religious communities (Christians, Jews) a degree of self-governance under Ottoman rule.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-051",
+      "q": "The devshirme system involved:",
+      "options": [
+        "Recruiting Christian boys for military and administrative service",
+        "Taxing merchants",
+        "Building mosques",
+        "Training diplomats"
+      ],
+      "correct": 0,
+      "explanation": "The devshirme system recruited Christian boys from the Balkans, converting them to Islam and training them as Janissaries or administrators.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-052",
+      "q": "Sultan Selim I (Selim the Grim) conquered Egypt and assumed the Caliphate in:",
+      "options": [
+        "1517",
+        "1453",
+        "1520",
+        "1566"
+      ],
+      "correct": 0,
+      "explanation": "Sultan Selim I defeated the Mamluks and conquered Egypt in 1517, assuming the title of Caliph.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-053",
+      "q": "The Siege of Vienna (1683) was the Ottoman Empire's last major attempt to:",
+      "options": [
+        "Expand into Central Europe",
+        "Conquer Russia",
+        "Invade North Africa",
+        "Attack Persia"
+      ],
+      "correct": 0,
+      "explanation": "The Siege of Vienna in 1683 was the Ottomans' last major attempt to expand into Central Europe, ending in defeat.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-054",
+      "q": "Göbekli Tepe, the world's oldest known temple complex (c. 9600 BCE), is located in present-day:",
+      "options": [
+        "Türkiye",
+        "Iraq",
+        "Syria",
+        "Iran"
+      ],
+      "correct": 0,
+      "explanation": "Göbekli Tepe, dating to c. 9600 BCE, is located in southeastern Türkiye and is the world's oldest known temple complex.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-055",
+      "q": "Ephesus, an ancient Greek city famous for the Temple of Artemis, is in present-day:",
+      "options": [
+        "Türkiye",
+        "Greece",
+        "Italy",
+        "Egypt"
+      ],
+      "correct": 0,
+      "explanation": "Ephesus is an ancient Greek city in present-day Türkiye, famous for the Temple of Artemis (one of the Seven Wonders).",
+      "tags": []
+    },
+    {
+      "id": "ottoma-056",
+      "q": "Troy, an ancient city associated with the Trojan War, is located in present-day:",
+      "options": [
+        "Türkiye",
+        "Greece",
+        "Italy",
+        "Cyprus"
+      ],
+      "correct": 0,
+      "explanation": "Troy is located in present-day Türkiye (near Çanakkale), associated with the legendary Trojan War.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-057",
+      "q": "The Ottoman-Habsburg rivalry dominated European politics for nearly:",
+      "options": [
+        "Three centuries",
+        "One century",
+        "Five centuries",
+        "Two decades"
+      ],
+      "correct": 0,
+      "explanation": "The Ottoman-Habsburg rivalry dominated European politics from the 15th to 18th centuries, spanning nearly three centuries.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-058",
+      "q": "The Balkan Wars (1912-1913) weakened the Ottoman Empire and redrew borders in:",
+      "options": [
+        "Southeast Europe",
+        "Central Asia",
+        "North Africa",
+        "The Middle East"
+      ],
+      "correct": 0,
+      "explanation": "The Balkan Wars (1912-1913) saw the Ottoman Empire lose most of its European territories to Balkan states.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-059",
+      "q": "Mustafa Kemal Atatürk served as the first President of Turkey from:",
+      "options": [
+        "1923 to 1938",
+        "1918 to 1923",
+        "1924 to 1940",
+        "1920 to 1935"
+      ],
+      "correct": 0,
+      "explanation": "Mustafa Kemal Atatürk served as the first President of the Republic of Turkey from 1923 until his death in 1938.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-060",
+      "q": "Atatürk's reforms included replacing the Arabic script with:",
+      "options": [
+        "Latin alphabet",
+        "Cyrillic alphabet",
+        "Greek alphabet",
+        "Persian script"
+      ],
+      "correct": 0,
+      "explanation": "Atatürk replaced the Arabic script with the Latin alphabet in 1928 as part of his modernization and secularization reforms.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-061",
+      "q": "The Ottoman Empire was dissolved after which war?",
+      "options": [
+        "World War I",
+        "World War II",
+        "Crimean War",
+        "Russo-Turkish War"
+      ],
+      "correct": 0,
+      "explanation": "The Ottoman Empire was dissolved after World War I, with the Treaty of Sèvres (1920) and later the Treaty of Lausanne (1923).",
+      "tags": []
+    },
+    {
+      "id": "ottoma-062",
+      "q": "The Khilafat Movement in British India sought to preserve the Ottoman Caliphate, mobilizing Indian Muslims during:",
+      "options": [
+        "1919-1924",
+        "1905-1910",
+        "1930-1935",
+        "1940-1947"
+      ],
+      "correct": 0,
+      "explanation": "The Khilafat Movement (1919-1924) in British India sought to preserve the Ottoman Caliphate, mobilizing Indian Muslims.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-063",
+      "q": "Turkey joined NATO as a member in:",
+      "options": [
+        "1952",
+        "1949",
+        "1955",
+        "1960"
+      ],
+      "correct": 0,
+      "explanation": "Turkey joined NATO in 1952, becoming a key Western alliance member on the southern flank during the Cold War.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-064",
+      "q": "The 2016 coup attempt in Turkey was directed against:",
+      "options": [
+        "President Erdoğan's government",
+        "The military establishment",
+        "The opposition party",
+        "The judiciary"
+      ],
+      "correct": 0,
+      "explanation": "The 2016 failed coup attempt was directed against President Erdoğan's government, leading to widespread purges and state of emergency.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-065",
+      "q": "Turkey's application to join the European Union has been pending since:",
+      "options": [
+        "1987 (formal application)",
+        "1999",
+        "2005",
+        "1973"
+      ],
+      "correct": 0,
+      "explanation": "Turkey formally applied for EU membership in 1987, with accession negotiations beginning in 2005 but remaining stalled.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-066",
+      "q": "The Bosphorus Strait, connecting the Black Sea to the Sea of Marmara, is located in:",
+      "options": [
+        "Istanbul, Türkiye",
+        "Athens, Greece",
+        "Cairo, Egypt",
+        "Rome, Italy"
+      ],
+      "correct": 0,
+      "explanation": "The Bosphorus Strait runs through Istanbul, Türkiye, connecting the Black Sea to the Sea of Marmara and dividing Europe from Asia.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-067",
+      "q": "The Ottoman Empire's legal system was based on:",
+      "options": [
+        "Sharia law and Kanun (secular law)",
+        "Only common law",
+        "Only Roman law",
+        "Only customary law"
+      ],
+      "correct": 0,
+      "explanation": "The Ottoman legal system combined Sharia (Islamic law) with Kanun (secular law decreed by the Sultan) for governance.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-068",
+      "q": "Suleiman the Magnificent was known in the Ottoman Empire as:",
+      "options": [
+        "Kanuni (the Lawgiver)",
+        "Fateh (the Conqueror)",
+        "Yavuz (the Stern)",
+        "Murad the Great"
+      ],
+      "correct": 0,
+      "explanation": "Within the Ottoman Empire, Suleiman was known as 'Kanuni' (the Lawgiver) for his comprehensive reform of Ottoman law.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-069",
+      "q": "The capitulations granted by the Ottoman Empire gave special privileges to:",
+      "options": [
+        "European merchants and diplomats",
+        "Ottoman soldiers",
+        "Religious scholars",
+        "Provincial governors"
+      ],
+      "correct": 0,
+      "explanation": "The capitulations were trade and legal privileges granted to European powers, which increasingly undermined Ottoman sovereignty.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-070",
+      "q": "The Committee of Union and Progress (CUP) was the political organization behind the:",
+      "options": [
+        "Young Turk Revolution (1908)",
+        "Crimean War",
+        "Tanzimat reforms",
+        "Treaty of Lausanne"
+      ],
+      "correct": 0,
+      "explanation": "The Committee of Union and Progress (CUP) was the political organization that led the Young Turk Revolution of 1908.",
+      "tags": []
+    },
+    {
+      "id": "ottoma-071",
+      "q": "The Topkapi Palace in Istanbul served as the primary residence of Ottoman sultans for approximately:",
+      "options": [
+        "400 years (1465-1856)",
+        "200 years",
+        "600 years",
+        "100 years"
+      ],
+      "correct": 0,
+      "explanation": "The Topkapi Palace served as the primary residence and administrative center of Ottoman sultans for about 400 years (1465-1856).",
+      "tags": []
+    },
+    {
+      "id": "ottoma-072",
+      "q": "The Treaty of San Stefano (1878) forced the Ottoman Empire to cede territory to:",
+      "options": [
+        "Romania, Serbia, Montenegro, and Bulgaria",
+        "Only Russia",
+        "Only Britain",
+        "Only Austria"
+      ],
+      "correct": 0,
+      "explanation": "The Treaty of San Stefano (1878) after the Russo-Turkish War forced the Ottomans to cede territory, reshaping the Balkans.",
+      "tags": []
+    }
+  ]
+}

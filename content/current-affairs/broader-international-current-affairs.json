@@ -1,0 +1,557 @@
+{
+  "topic_id": "broader-international-current-affairs",
+  "topic_name": "Broader International Current Affairs",
+  "subject": "current-affairs",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Broader International Current Affairs MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🌐",
+  "mcqs": [
+    {
+      "id": "broade-001",
+      "q": "The acronym 'BRIC' was coined in 2001 by economist Jim O'Neill of which firm?",
+      "options": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "JP Morgan",
+        "Citigroup"
+      ],
+      "correct": 0,
+      "explanation": "Jim O'Neill coined 'BRIC' at Goldman Sachs in 2001. South Africa joined in 2010 making it BRICS.",
+      "tags": []
+    },
+    {
+      "id": "broade-002",
+      "q": "The first ever BRIC Summit was held in 2009 in:",
+      "options": [
+        "Beijing",
+        "Yekaterinburg",
+        "Brasília",
+        "New Delhi"
+      ],
+      "correct": 1,
+      "explanation": "The first BRIC Summit was held in Yekaterinburg, Russia, in 2009.",
+      "tags": []
+    },
+    {
+      "id": "broade-003",
+      "q": "South Africa joined BRIC — making it BRICS — in:",
+      "options": [
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+      ],
+      "correct": 1,
+      "explanation": "South Africa formally joined BRIC at the end of 2010 (first BRICS Summit attended in 2011).",
+      "tags": []
+    },
+    {
+      "id": "broade-004",
+      "q": "Which of the following countries joined BRICS on 1 January 2024?",
+      "options": [
+        "Egypt, Ethiopia, Iran, UAE",
+        "Saudi Arabia, Indonesia, Argentina, Türkiye",
+        "Pakistan, Türkiye, Mexico, Egypt",
+        "Iran, Iraq, Türkiye, UAE"
+      ],
+      "correct": 0,
+      "explanation": "Egypt, Ethiopia, Iran and the UAE joined BRICS on 1 January 2024.",
+      "tags": []
+    },
+    {
+      "id": "broade-005",
+      "q": "Indonesia became a full BRICS member on:",
+      "options": [
+        "1 January 2024",
+        "1 January 2025",
+        "7 January 2025",
+        "7 February 2025"
+      ],
+      "correct": 2,
+      "explanation": "Indonesia became a full BRICS member on 7 January 2025.",
+      "tags": []
+    },
+    {
+      "id": "broade-006",
+      "q": "The headquarters of the BRICS New Development Bank (NDB) is in:",
+      "options": [
+        "Beijing",
+        "Shanghai",
+        "Mumbai",
+        "Johannesburg"
+      ],
+      "correct": 1,
+      "explanation": "The NDB is headquartered in Shanghai, China.",
+      "tags": []
+    },
+    {
+      "id": "broade-007",
+      "q": "The current President of the BRICS New Development Bank is:",
+      "options": [
+        "K. V. Kamath",
+        "Marcos Troyjo",
+        "Dilma Rousseff",
+        "Wang Yi"
+      ],
+      "correct": 2,
+      "explanation": "Former Brazilian President Dilma Rousseff has been NDB President since 2023.",
+      "tags": []
+    },
+    {
+      "id": "broade-008",
+      "q": "The 16th BRICS Summit (2024) was hosted by:",
+      "options": [
+        "South Africa",
+        "Brazil",
+        "Russia",
+        "India"
+      ],
+      "correct": 2,
+      "explanation": "The 16th BRICS Summit was held in Kazan, Russia in October 2024.",
+      "tags": []
+    },
+    {
+      "id": "broade-009",
+      "q": "The 17th BRICS Summit (2025) was hosted by:",
+      "options": [
+        "China",
+        "India",
+        "Brazil",
+        "South Africa"
+      ],
+      "correct": 2,
+      "explanation": "The 17th BRICS Summit was hosted by Brazil in Rio de Janeiro in July 2025.",
+      "tags": []
+    },
+    {
+      "id": "broade-010",
+      "q": "The G-20 was established in:",
+      "options": [
+        "1995",
+        "1999",
+        "2008",
+        "2010"
+      ],
+      "correct": 1,
+      "explanation": "The G-20 was established in 1999 as a finance-ministers forum after the Asian financial crisis.",
+      "tags": []
+    },
+    {
+      "id": "broade-011",
+      "q": "After the African Union's induction in 2023, the G-20 has how many members?",
+      "options": [
+        "19 countries + EU",
+        "19 countries + EU + AU",
+        "20 countries",
+        "20 countries + EU"
+      ],
+      "correct": 1,
+      "explanation": "Since 2023 the G-20 = 19 countries + the European Union + the African Union.",
+      "tags": []
+    },
+    {
+      "id": "broade-012",
+      "q": "The African Union was admitted as a permanent member of the G-20 at which summit?",
+      "options": [
+        "Bali 2022",
+        "New Delhi 2023",
+        "Rio 2024",
+        "Johannesburg 2025"
+      ],
+      "correct": 1,
+      "explanation": "Indian PM Modi admitted the African Union to the G-20 at the New Delhi 2023 summit.",
+      "tags": []
+    },
+    {
+      "id": "broade-013",
+      "q": "The G-20 Summit 2024 was hosted by:",
+      "options": [
+        "Italy",
+        "Indonesia",
+        "Brazil",
+        "India"
+      ],
+      "correct": 2,
+      "explanation": "The G-20 Summit 2024 was hosted by Brazil in Rio de Janeiro.",
+      "tags": []
+    },
+    {
+      "id": "broade-014",
+      "q": "The first ever G-20 Summit on the African continent was held in 2025 in:",
+      "options": [
+        "Cairo",
+        "Johannesburg",
+        "Addis Ababa",
+        "Lagos"
+      ],
+      "correct": 1,
+      "explanation": "South Africa hosted the G-20 Summit 2025 in Johannesburg — the first ever in Africa.",
+      "tags": []
+    },
+    {
+      "id": "broade-015",
+      "q": "Which of the following countries is NOT a member of the G-20?",
+      "options": [
+        "Pakistan",
+        "Argentina",
+        "South Korea",
+        "Türkiye"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan is NOT a G-20 member.",
+      "tags": []
+    },
+    {
+      "id": "broade-016",
+      "q": "The G-20 Summit 2026 will be held in:",
+      "options": [
+        "United States",
+        "India",
+        "China",
+        "South Korea"
+      ],
+      "correct": 0,
+      "explanation": "The G-20 Summit 2026 will be hosted by the United States.",
+      "tags": []
+    },
+    {
+      "id": "broade-017",
+      "q": "COP29 (UN Climate Conference 2024) was held in:",
+      "options": [
+        "Dubai",
+        "Baku",
+        "Belém",
+        "Sharm el-Sheikh"
+      ],
+      "correct": 1,
+      "explanation": "COP29 was held in Baku, Azerbaijan, in November 2024.",
+      "tags": []
+    },
+    {
+      "id": "broade-018",
+      "q": "COP30 (UN Climate Conference 2025) was held in:",
+      "options": [
+        "Cairo",
+        "Belém",
+        "Dubai",
+        "Bonn"
+      ],
+      "correct": 1,
+      "explanation": "COP30 was held in Belém, Brazil, in November 2025.",
+      "tags": []
+    },
+    {
+      "id": "broade-019",
+      "q": "The Paris Agreement on climate change was adopted in:",
+      "options": [
+        "2009",
+        "2012",
+        "2015",
+        "2020"
+      ],
+      "correct": 2,
+      "explanation": "The Paris Agreement was adopted at COP21 in December 2015.",
+      "tags": []
+    },
+    {
+      "id": "broade-020",
+      "q": "According to the World Happiness Report 2025, the world's happiest country is:",
+      "options": [
+        "Denmark",
+        "Norway",
+        "Finland",
+        "Iceland"
+      ],
+      "correct": 2,
+      "explanation": "Finland topped the World Happiness Report 2025 — its 8th consecutive year at #1.",
+      "tags": []
+    },
+    {
+      "id": "broade-021",
+      "q": "Per the Global Peace Index, the most peaceful country in the world is consistently:",
+      "options": [
+        "Switzerland",
+        "Iceland",
+        "New Zealand",
+        "Norway"
+      ],
+      "correct": 1,
+      "explanation": "Iceland tops the Global Peace Index every year since 2008.",
+      "tags": []
+    },
+    {
+      "id": "broade-022",
+      "q": "On the Global Gender Gap Report 2025, the country topping the list is:",
+      "options": [
+        "Norway",
+        "Iceland",
+        "Sweden",
+        "Finland"
+      ],
+      "correct": 1,
+      "explanation": "Iceland has topped the WEF Global Gender Gap Report every year since 2009.",
+      "tags": []
+    },
+    {
+      "id": "broade-023",
+      "q": "On the Press Freedom Index 2025, the top-ranked country is:",
+      "options": [
+        "Norway",
+        "Sweden",
+        "Finland",
+        "Switzerland"
+      ],
+      "correct": 0,
+      "explanation": "Norway leads the RSF World Press Freedom Index 2025.",
+      "tags": []
+    },
+    {
+      "id": "broade-024",
+      "q": "On the Corruption Perceptions Index 2024, the world's least corrupt country is:",
+      "options": [
+        "Denmark",
+        "New Zealand",
+        "Finland",
+        "Singapore"
+      ],
+      "correct": 0,
+      "explanation": "Denmark topped the CPI 2024 (released January 2025).",
+      "tags": []
+    },
+    {
+      "id": "broade-025",
+      "q": "As of 2024, the world's most populous country is:",
+      "options": [
+        "China",
+        "India",
+        "USA",
+        "Indonesia"
+      ],
+      "correct": 1,
+      "explanation": "India overtook China in 2023 to become the world's most populous country.",
+      "tags": []
+    },
+    {
+      "id": "broade-026",
+      "q": "On the Global Firepower Index 2025, the world's strongest military is:",
+      "options": [
+        "United States",
+        "China",
+        "Russia",
+        "India"
+      ],
+      "correct": 0,
+      "explanation": "The United States ranks #1 on the Global Firepower Index 2025, followed by Russia and China.",
+      "tags": []
+    },
+    {
+      "id": "broade-027",
+      "q": "On the Global Firepower Index 2025, Pakistan ranks approximately:",
+      "options": [
+        "5th",
+        "7th",
+        "9th",
+        "12th"
+      ],
+      "correct": 2,
+      "explanation": "Pakistan typically ranks around 9th on the Global Firepower Index.",
+      "tags": []
+    },
+    {
+      "id": "broade-028",
+      "q": "On the Global Innovation Index 2024, the top-ranked country is:",
+      "options": [
+        "Sweden",
+        "Singapore",
+        "Switzerland",
+        "USA"
+      ],
+      "correct": 2,
+      "explanation": "Switzerland has topped the Global Innovation Index for over a decade.",
+      "tags": []
+    },
+    {
+      "id": "broade-029",
+      "q": "The current Managing Director of the International Monetary Fund (IMF) is:",
+      "options": [
+        "Christine Lagarde",
+        "Kristalina Georgieva",
+        "Janet Yellen",
+        "Anna Bjerde"
+      ],
+      "correct": 1,
+      "explanation": "Bulgarian economist Kristalina Georgieva is the IMF Managing Director (since 2019, second term from 2024).",
+      "tags": []
+    },
+    {
+      "id": "broade-030",
+      "q": "The current President of the World Bank Group is:",
+      "options": [
+        "David Malpass",
+        "Ajay Banga",
+        "Jim Yong Kim",
+        "Robert Zoellick"
+      ],
+      "correct": 1,
+      "explanation": "Ajay Banga has been President of the World Bank Group since 2 June 2023.",
+      "tags": []
+    },
+    {
+      "id": "broade-031",
+      "q": "The current Director-General of the World Trade Organization (WTO) is:",
+      "options": [
+        "Roberto Azevêdo",
+        "Pascal Lamy",
+        "Ngozi Okonjo-Iweala",
+        "Mike Moore"
+      ],
+      "correct": 2,
+      "explanation": "Ngozi Okonjo-Iweala (Nigeria) is WTO Director-General since 2021 (re-appointed for a 2nd term in 2024).",
+      "tags": []
+    },
+    {
+      "id": "broade-032",
+      "q": "The current Director-General of the World Health Organization (WHO) is:",
+      "options": [
+        "Margaret Chan",
+        "Tedros Adhanom Ghebreyesus",
+        "Hiroshi Nakajima",
+        "Halfdan Mahler"
+      ],
+      "correct": 1,
+      "explanation": "Dr Tedros Adhanom Ghebreyesus (Ethiopia) has been WHO DG since 2017 (second term 2022–27).",
+      "tags": []
+    },
+    {
+      "id": "broade-033",
+      "q": "The current NATO Secretary-General is:",
+      "options": [
+        "Jens Stoltenberg",
+        "Mark Rutte",
+        "Anders Fogh Rasmussen",
+        "Javier Solana"
+      ],
+      "correct": 1,
+      "explanation": "Former Dutch PM Mark Rutte became NATO Secretary-General on 1 October 2024.",
+      "tags": []
+    },
+    {
+      "id": "broade-034",
+      "q": "The current Secretary-General of the OIC is:",
+      "options": [
+        "Yousef Al-Othaimeen",
+        "Hissein Brahim Taha",
+        "Iyad Madani",
+        "Ekmeleddin İhsanoğlu"
+      ],
+      "correct": 1,
+      "explanation": "Hissein Brahim Taha (Chad) is OIC Secretary-General since November 2021.",
+      "tags": []
+    },
+    {
+      "id": "broade-035",
+      "q": "The current Secretary-General of the Economic Cooperation Organization (ECO) is:",
+      "options": [
+        "Hadi Soleimanpour",
+        "Asad Majeed Khan",
+        "Khurshid Anwar",
+        "Mahmoud Mohieldin"
+      ],
+      "correct": 1,
+      "explanation": "Asad Majeed Khan of Pakistan became ECO Secretary-General in 2024.",
+      "tags": []
+    },
+    {
+      "id": "broade-036",
+      "q": "The current Prime Minister of the United Kingdom is:",
+      "options": [
+        "Rishi Sunak",
+        "Keir Starmer",
+        "Liz Truss",
+        "Boris Johnson"
+      ],
+      "correct": 1,
+      "explanation": "Sir Keir Starmer (Labour) became UK Prime Minister on 5 July 2024.",
+      "tags": []
+    },
+    {
+      "id": "broade-037",
+      "q": "The current President of Mexico, the country's first woman president, is:",
+      "options": [
+        "Xochitl Galvez",
+        "Claudia Sheinbaum",
+        "Beatriz Gutiérrez",
+        "Olga Sánchez Cordero"
+      ],
+      "correct": 1,
+      "explanation": "Claudia Sheinbaum became Mexico's first woman President on 1 October 2024.",
+      "tags": []
+    },
+    {
+      "id": "broade-038",
+      "q": "The current President of Indonesia is:",
+      "options": [
+        "Joko Widodo",
+        "Prabowo Subianto",
+        "Anies Baswedan",
+        "Ganjar Pranowo"
+      ],
+      "correct": 1,
+      "explanation": "Prabowo Subianto became Indonesia's President on 20 October 2024.",
+      "tags": []
+    },
+    {
+      "id": "broade-039",
+      "q": "The current Prime Minister of Japan (as of late 2024) is:",
+      "options": [
+        "Fumio Kishida",
+        "Shigeru Ishiba",
+        "Taro Kono",
+        "Sanae Takaichi"
+      ],
+      "correct": 1,
+      "explanation": "Shigeru Ishiba became Japan's PM on 1 October 2024.",
+      "tags": []
+    },
+    {
+      "id": "broade-040",
+      "q": "The current Vice President of the United States is:",
+      "options": [
+        "Kamala Harris",
+        "JD Vance",
+        "Mike Pence",
+        "Tim Walz"
+      ],
+      "correct": 1,
+      "explanation": "JD Vance is the Vice President of the United States since 20 January 2025.",
+      "tags": []
+    },
+    {
+      "id": "broade-041",
+      "q": "The Crown Prince and Prime Minister of Saudi Arabia is:",
+      "options": [
+        "Mohammed bin Zayed",
+        "Mohammed bin Salman",
+        "Khalid bin Salman",
+        "Bandar bin Sultan"
+      ],
+      "correct": 1,
+      "explanation": "Mohammed bin Salman (MBS) is Crown Prince and Prime Minister of Saudi Arabia.",
+      "tags": []
+    },
+    {
+      "id": "broade-042",
+      "q": "The current President of the United Arab Emirates is:",
+      "options": [
+        "Sheikh Khalifa bin Zayed",
+        "Sheikh Mohammed bin Zayed",
+        "Sheikh Mohammed bin Rashid",
+        "Sheikh Hamdan bin Mohammed"
+      ],
+      "correct": 1,
+      "explanation": "Sheikh Mohammed bin Zayed Al Nahyan (MBZ) is the President of the UAE since 2022.",
+      "tags": []
+    }
+  ]
+}

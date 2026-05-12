@@ -1,0 +1,726 @@
+{
+  "topic_id": "network-security-encryption-viruses",
+  "topic_name": "Network Security Encryption Viruses",
+  "subject": "computer-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Network Security Encryption Viruses MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🔐",
+  "mcqs": [
+    {
+      "id": "networ-001",
+      "q": "What is Network Security?",
+      "options": [
+        "The brand of a router",
+        "The rules and configurations in place to secure the accessibility and integrity of computer networks",
+        "A type of operating system",
+        "A type of cable"
+      ],
+      "correct": 1,
+      "explanation": "Network security consists of the rules and configurations in place to secure the accessibility and integrity of computer networks — protecting them from hacking, misuse and unauthorised changes.",
+      "tags": []
+    },
+    {
+      "id": "networ-002",
+      "q": "Network security covers which type of computer networks?",
+      "options": [
+        "Only private networks",
+        "Only public networks",
+        "Both private and public networks",
+        "Only WAN"
+      ],
+      "correct": 2,
+      "explanation": "Network security covers a variety of computer networks — both private and public.",
+      "tags": []
+    },
+    {
+      "id": "networ-003",
+      "q": "What does Network Security primarily provide for resources?",
+      "options": [
+        "Storage and printing",
+        "Authentication and access control",
+        "Image editing",
+        "Word processing"
+      ],
+      "correct": 1,
+      "explanation": "Network Security provides authentication and access control for resources.",
+      "tags": []
+    },
+    {
+      "id": "networ-004",
+      "q": "What are the three objectives of network security?",
+      "options": [
+        "Identification, Authentication, Access Control",
+        "Encryption, Decryption, Hashing",
+        "Speed, Cost, Latency",
+        "Hardware, Software, Firmware"
+      ],
+      "correct": 0,
+      "explanation": "The three objectives of network security are Identification, Authentication and Access Control.",
+      "tags": []
+    },
+    {
+      "id": "networ-005",
+      "q": "User-ID (such as username or student number) is part of which network security objective?",
+      "options": [
+        "Authentication",
+        "Identification",
+        "Access Control",
+        "Auditing"
+      ],
+      "correct": 1,
+      "explanation": "User-ID is part of identification — it can be a combination of username, user student number, etc., used to identify who the user is.",
+      "tags": []
+    },
+    {
+      "id": "networ-006",
+      "q": "The process of verifying the identity of a user is called:",
+      "options": [
+        "Identification",
+        "Authentication",
+        "Authorization",
+        "Auditing"
+      ],
+      "correct": 1,
+      "explanation": "The process of verifying the identity of a user is called authentication.",
+      "tags": []
+    },
+    {
+      "id": "networ-007",
+      "q": "Functional authorization is concerned with:",
+      "options": [
+        "Network bandwidth",
+        "Individual user rights",
+        "Hard disk size",
+        "Monitor refresh rate"
+      ],
+      "correct": 1,
+      "explanation": "Functional authorization is concerned with individual user rights.",
+      "tags": []
+    },
+    {
+      "id": "networ-008",
+      "q": "Access control refers to:",
+      "options": [
+        "The router speed",
+        "The security features that determine what the authenticated user is allowed to do",
+        "The colour of cables",
+        "The brand of switches"
+      ],
+      "correct": 1,
+      "explanation": "Access control refers to the security features that determine what an authenticated user is allowed to do.",
+      "tags": []
+    },
+    {
+      "id": "networ-009",
+      "q": "Auditing in network security is done to:",
+      "options": [
+        "Increase network speed",
+        "Keep an eye on wrongdoings",
+        "Reduce hardware cost",
+        "Replace passwords"
+      ],
+      "correct": 1,
+      "explanation": "Auditing is done to keep an eye on wrongdoings — recording and reviewing security-relevant events.",
+      "tags": []
+    },
+    {
+      "id": "networ-010",
+      "q": "A Honey Pot is an example of:",
+      "options": [
+        "A direct attack tool",
+        "An indirect form of surveillance",
+        "A type of cable",
+        "A search engine"
+      ],
+      "correct": 1,
+      "explanation": "A Honey Pot is an indirect form of surveillance — a system designed to attract attackers so their behaviour can be observed.",
+      "tags": []
+    },
+    {
+      "id": "networ-011",
+      "q": "SATAN stands for:",
+      "options": [
+        "Secure Authentication Tool for Anti-Networking",
+        "Security Analysis Tool for Auditing Networks",
+        "Standard Authentication Tool for Access Networks",
+        "Static Analysis Tool for All Networks"
+      ],
+      "correct": 1,
+      "explanation": "SATAN stands for Security Analysis Tool for Auditing Networks.",
+      "tags": []
+    },
+    {
+      "id": "networ-012",
+      "q": "A person who enjoys learning details about computers and how to enhance their capabilities is known as a:",
+      "options": [
+        "Hacker",
+        "Spammer",
+        "Phisher",
+        "Auditor"
+      ],
+      "correct": 0,
+      "explanation": "A person who enjoys learning details about computers and how to enhance their capabilities is known as a hacker (the term is often used pejoratively for illegal access).",
+      "tags": []
+    },
+    {
+      "id": "networ-013",
+      "q": "What is the correct order of the six pillars of network security?",
+      "options": [
+        "Implement → Operate → Plan → Design → Analyse → Training",
+        "Analyse → Plan → Design → Implement → Operate → Ongoing Training",
+        "Operate → Analyse → Plan → Design → Implement → Audit",
+        "Plan → Analyse → Implement → Operate → Design → Training"
+      ],
+      "correct": 1,
+      "explanation": "The six pillars of network security in order are: Analyse → Plan → Design → Implement → Operate → Ongoing Training.",
+      "tags": []
+    },
+    {
+      "id": "networ-014",
+      "q": "Which is NOT one of the three core network security objectives?",
+      "options": [
+        "Identification",
+        "Authentication",
+        "Access Control",
+        "Defragmentation"
+      ],
+      "correct": 3,
+      "explanation": "Defragmentation is a disk-maintenance task — NOT a network security objective. Identification, Authentication and Access Control are the three core objectives.",
+      "tags": []
+    },
+    {
+      "id": "networ-015",
+      "q": "Encryption is best described as:",
+      "options": [
+        "Speeding up the network",
+        "Transforming readable plain text into unreadable cipher text using a key",
+        "Backing up files",
+        "Defragmenting disks"
+      ],
+      "correct": 1,
+      "explanation": "Encryption is the process of transforming readable text (plain text) to make it unreadable to anyone except those possessing the key.",
+      "tags": []
+    },
+    {
+      "id": "networ-016",
+      "q": "The process of making encrypted text readable again is called:",
+      "options": [
+        "Encryption",
+        "Decryption",
+        "Compression",
+        "Hashing"
+      ],
+      "correct": 1,
+      "explanation": "Decryption is the process of making the encrypted (cipher) text readable again.",
+      "tags": []
+    },
+    {
+      "id": "networ-017",
+      "q": "An algorithm used in encryption is referred to as a:",
+      "options": [
+        "Cipher",
+        "Codec",
+        "Compiler",
+        "Compressor"
+      ],
+      "correct": 0,
+      "explanation": "An algorithm used in encryption is referred to as a cipher.",
+      "tags": []
+    },
+    {
+      "id": "networ-018",
+      "q": "The text that gets transformed during encryption is called:",
+      "options": [
+        "Plain text",
+        "Cipher text",
+        "Hash text",
+        "Key text"
+      ],
+      "correct": 0,
+      "explanation": "The text that gets transformed during encryption is called plain text.",
+      "tags": []
+    },
+    {
+      "id": "networ-019",
+      "q": "The transformed output of encryption is called:",
+      "options": [
+        "Plain text",
+        "Cipher text",
+        "Key text",
+        "Open text"
+      ],
+      "correct": 1,
+      "explanation": "The transformed (encrypted) output is called cipher text.",
+      "tags": []
+    },
+    {
+      "id": "networ-020",
+      "q": "In encryption, the unique piece of information used to create the cipher text and decrypt it back is called:",
+      "options": [
+        "The key",
+        "The cipher",
+        "The hash",
+        "The salt"
+      ],
+      "correct": 0,
+      "explanation": "The key is the unique piece of information used to create the cipher text and decrypt it back.",
+      "tags": []
+    },
+    {
+      "id": "networ-021",
+      "q": "Cryptography is the study of:",
+      "options": [
+        "Network cabling",
+        "Creating and using encryption and decryption techniques",
+        "Hardware design",
+        "Operating systems"
+      ],
+      "correct": 1,
+      "explanation": "Cryptography is the study of creating and using encryption and decryption techniques.",
+      "tags": []
+    },
+    {
+      "id": "networ-022",
+      "q": "How many keys does Public Key Cryptography use?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "explanation": "Public Key Cryptography uses 2 keys — a public key and a private key.",
+      "tags": []
+    },
+    {
+      "id": "networ-023",
+      "q": "In Public Key Cryptography, which key encrypts the message?",
+      "options": [
+        "Private key",
+        "Public key",
+        "Master key",
+        "Session key"
+      ],
+      "correct": 1,
+      "explanation": "In public key cryptography, the public key encrypts the message; the private key decrypts the message.",
+      "tags": []
+    },
+    {
+      "id": "networ-024",
+      "q": "In Public Key Cryptography, which key decrypts the message?",
+      "options": [
+        "Public key",
+        "Private key",
+        "Master key",
+        "Session key"
+      ],
+      "correct": 1,
+      "explanation": "In public key cryptography, the private key (held only by the recipient) decrypts the message that was encrypted with the corresponding public key.",
+      "tags": []
+    },
+    {
+      "id": "networ-025",
+      "q": "In a transposition-based cipher:",
+      "options": [
+        "The order of the plain text is preserved",
+        "The order of the plain text is NOT preserved",
+        "Plain text is removed entirely",
+        "Cipher text is identical to plain text"
+      ],
+      "correct": 1,
+      "explanation": "In a transposition-based cipher, the order of the plain text is NOT preserved — characters are rearranged according to a key.",
+      "tags": []
+    },
+    {
+      "id": "networ-026",
+      "q": "In a mono alphabetic substitution-based cipher:",
+      "options": [
+        "Multiple keys are used per character",
+        "A character is replaced with some other character (or characters) based on a key",
+        "No substitution occurs",
+        "Only numbers are replaced"
+      ],
+      "correct": 1,
+      "explanation": "In a mono alphabetic substitution-based cipher, a character is replaced with some other character or multiple characters, based on a key.",
+      "tags": []
+    },
+    {
+      "id": "networ-027",
+      "q": "WEP encryption was broken in which year?",
+      "options": [
+        "1991",
+        "2001",
+        "2011",
+        "2021"
+      ],
+      "correct": 1,
+      "explanation": "WEP (Wired Equivalent Privacy) was broken already in 2001 — making it unsuitable for modern wireless security.",
+      "tags": []
+    },
+    {
+      "id": "networ-028",
+      "q": "A Digital Certificate is best described as:",
+      "options": [
+        "A printed certificate awarded to IT students",
+        "An electronic document responsible for secure internet transactions",
+        "A type of malware",
+        "A USB device"
+      ],
+      "correct": 1,
+      "explanation": "A Digital Certificate is an electronic document that is responsible for secure internet transactions — it binds a public key to an identity.",
+      "tags": []
+    },
+    {
+      "id": "networ-029",
+      "q": "DES stands for:",
+      "options": [
+        "Digital Encryption Standard",
+        "Data Encryption Standard",
+        "Direct Encryption Schema",
+        "Data Encoding Standard"
+      ],
+      "correct": 1,
+      "explanation": "DES stands for Data Encryption Standard.",
+      "tags": []
+    },
+    {
+      "id": "networ-030",
+      "q": "DES takes a block of how many bits and subjects it to how many levels of encryption?",
+      "options": [
+        "32-bit block, 8 levels",
+        "64-bit block, 16 levels",
+        "128-bit block, 10 levels",
+        "256-bit block, 14 levels"
+      ],
+      "correct": 1,
+      "explanation": "DES takes a 64-bit block of data and subjects it to 16 levels of encryption.",
+      "tags": []
+    },
+    {
+      "id": "networ-031",
+      "q": "AES stands for:",
+      "options": [
+        "Advanced Encryption Standard",
+        "Advanced Encoding Schema",
+        "Automated Encryption Service",
+        "Algorithmic Encryption Standard"
+      ],
+      "correct": 0,
+      "explanation": "AES stands for Advanced Encryption Standard.",
+      "tags": []
+    },
+    {
+      "id": "networ-032",
+      "q": "AES was selected by the US government to replace which standard?",
+      "options": [
+        "WEP",
+        "DES",
+        "RSA",
+        "SHA"
+      ],
+      "correct": 1,
+      "explanation": "AES (Advanced Encryption Standard) was selected by the US government to replace DES (Data Encryption Standard).",
+      "tags": []
+    },
+    {
+      "id": "networ-033",
+      "q": "WEP stands for:",
+      "options": [
+        "Wired Equivalent Privacy",
+        "Wireless Encryption Protocol",
+        "Web Equivalent Protection",
+        "Wide Encryption Pattern"
+      ],
+      "correct": 0,
+      "explanation": "WEP stands for Wired Equivalent Privacy — a wireless encryption standard that was broken in 2001.",
+      "tags": []
+    },
+    {
+      "id": "networ-034",
+      "q": "A virus is best described as:",
+      "options": [
+        "A piece of hardware",
+        "A small programme that changes the way a computer operates",
+        "A power supply",
+        "A type of cable"
+      ],
+      "correct": 1,
+      "explanation": "A virus is a small programme that changes the way a computer operates — typically without the user's permission.",
+      "tags": []
+    },
+    {
+      "id": "networ-035",
+      "q": "A worm is best described as:",
+      "options": [
+        "A virus that needs user action to spread",
+        "Malware that copies itself from one system to another over a network without human assistance",
+        "A printer driver",
+        "A USB device"
+      ],
+      "correct": 1,
+      "explanation": "A worm copies itself from one system to another over a network without human assistance — it self-replicates and spreads automatically.",
+      "tags": []
+    },
+    {
+      "id": "networ-036",
+      "q": "What is a Trojan Horse in cybersecurity?",
+      "options": [
+        "A wooden statue",
+        "A code present in a programme that appears harmless but contains malicious code",
+        "A type of firewall",
+        "A spreadsheet"
+      ],
+      "correct": 1,
+      "explanation": "A Trojan Horse is a code present in a programme that appears harmless on the outside but contains malicious functionality.",
+      "tags": []
+    },
+    {
+      "id": "networ-037",
+      "q": "Spyware is software that:",
+      "options": [
+        "Speeds up the computer",
+        "Secretly monitors user activity",
+        "Improves graphics",
+        "Defragments memory"
+      ],
+      "correct": 1,
+      "explanation": "Spyware is software that secretly monitors user activity — capturing passwords, browsing habits and personal data.",
+      "tags": []
+    },
+    {
+      "id": "networ-038",
+      "q": "What does Malware refer to?",
+      "options": [
+        "High-quality software",
+        "Malicious software designed to damage or gain unauthorised access to systems",
+        "Mathematical software",
+        "Mail-merge software"
+      ],
+      "correct": 1,
+      "explanation": "Malware refers to any malicious software designed to damage or gain unauthorised access to a computer system.",
+      "tags": []
+    },
+    {
+      "id": "networ-039",
+      "q": "Which of the following best describes Spam?",
+      "options": [
+        "A type of router",
+        "Unsolicited bulk messages sent over the internet",
+        "A type of antivirus",
+        "A type of compiler"
+      ],
+      "correct": 1,
+      "explanation": "Spam refers to unsolicited bulk messages — typically email — sent over the internet.",
+      "tags": []
+    },
+    {
+      "id": "networ-040",
+      "q": "Smurfing is a network attack technique in which:",
+      "options": [
+        "Files are encrypted for ransom",
+        "A programme attacks a network by exploiting IP broadcast addressing operations",
+        "Cables are physically cut",
+        "Servers are physically stolen"
+      ],
+      "correct": 1,
+      "explanation": "Smurfing is a technique in which a programme attacks a network by exploiting IP broadcast addressing operations — flooding a target with ICMP traffic.",
+      "tags": []
+    },
+    {
+      "id": "networ-041",
+      "q": "A Denial of Service (DoS) Attack is best described as:",
+      "options": [
+        "A type of virus signature",
+        "A computer site bombarded with a lot of messages, making it unavailable",
+        "A type of compiler error",
+        "A printer error"
+      ],
+      "correct": 1,
+      "explanation": "A Denial of Service (DoS) Attack is when a computer site is bombarded with so many messages that it becomes unavailable to legitimate users.",
+      "tags": []
+    },
+    {
+      "id": "networ-042",
+      "q": "E-mail Bombing refers to:",
+      "options": [
+        "Encrypting an email",
+        "A user sending an excessive amount of unwanted e-mail to someone",
+        "Deleting emails permanently",
+        "Compressing email attachments"
+      ],
+      "correct": 1,
+      "explanation": "E-mail Bombing is when a user sends an excessive amount of unwanted e-mail to someone — overwhelming their inbox.",
+      "tags": []
+    },
+    {
+      "id": "networ-043",
+      "q": "Spear Phishing is best described as:",
+      "options": [
+        "A general mass-mailed scam",
+        "A targeted email or electronic communications scam aimed at a specific individual, organisation or business",
+        "A type of antivirus",
+        "A type of cable"
+      ],
+      "correct": 1,
+      "explanation": "Spear Phishing is an email or electronic communications scam targeted towards a specific individual, organisation or business.",
+      "tags": []
+    },
+    {
+      "id": "networ-044",
+      "q": "Which of the following malware types spreads WITHOUT human assistance?",
+      "options": [
+        "Virus",
+        "Worm",
+        "Trojan Horse",
+        "Spyware"
+      ],
+      "correct": 1,
+      "explanation": "A worm spreads automatically over networks WITHOUT human assistance, unlike a virus which usually requires user action.",
+      "tags": []
+    },
+    {
+      "id": "networ-045",
+      "q": "Which malware type appears HARMLESS but secretly contains malicious code?",
+      "options": [
+        "Worm",
+        "Virus",
+        "Trojan Horse",
+        "Spyware"
+      ],
+      "correct": 2,
+      "explanation": "A Trojan Horse appears harmless (e.g. a fake game or utility) but secretly contains malicious code that runs once installed.",
+      "tags": []
+    },
+    {
+      "id": "networ-046",
+      "q": "Which of the following secretly tracks the user's keystrokes, browsing and personal data?",
+      "options": [
+        "Worm",
+        "Virus",
+        "Spyware",
+        "Backup software"
+      ],
+      "correct": 2,
+      "explanation": "Spyware secretly monitors and tracks user activity — keystrokes, browsing habits and personal data.",
+      "tags": []
+    },
+    {
+      "id": "networ-047",
+      "q": "Which attack overwhelms a server so legitimate users cannot access it?",
+      "options": [
+        "Phishing",
+        "Trojan",
+        "DoS attack",
+        "Hashing"
+      ],
+      "correct": 2,
+      "explanation": "A Denial of Service (DoS) attack overwhelms a server with traffic so that legitimate users cannot access it.",
+      "tags": []
+    },
+    {
+      "id": "networ-048",
+      "q": "Which of the following is the BROADEST term that includes viruses, worms, trojans and spyware?",
+      "options": [
+        "Spam",
+        "Malware",
+        "Cookie",
+        "Cipher"
+      ],
+      "correct": 1,
+      "explanation": "Malware is the broadest term — it includes viruses, worms, trojans, spyware and any other malicious software.",
+      "tags": []
+    },
+    {
+      "id": "networ-049",
+      "q": "Which type of phishing targets a SPECIFIC individual or organisation?",
+      "options": [
+        "General phishing",
+        "Spear phishing",
+        "Spam",
+        "Mass mailing"
+      ],
+      "correct": 1,
+      "explanation": "Spear phishing targets a SPECIFIC individual, organisation or business — unlike general phishing which is mass-mailed.",
+      "tags": []
+    },
+    {
+      "id": "networ-050",
+      "q": "Which of the following is NOT typically a malware type?",
+      "options": [
+        "Virus",
+        "Worm",
+        "Trojan Horse",
+        "Compiler"
+      ],
+      "correct": 3,
+      "explanation": "A Compiler is legitimate software that translates code — it is NOT malware. Virus, Worm and Trojan Horse are all malware.",
+      "tags": []
+    },
+    {
+      "id": "networ-051",
+      "q": "Which of the following is the primary purpose of a Honey Pot?",
+      "options": [
+        "Speed up the network",
+        "Indirect surveillance — attract attackers to study their behaviour",
+        "Compile programs faster",
+        "Replace antivirus software"
+      ],
+      "correct": 1,
+      "explanation": "A Honey Pot is an indirect form of surveillance — a system or network deliberately designed to attract attackers so their behaviour can be studied.",
+      "tags": []
+    },
+    {
+      "id": "networ-052",
+      "q": "Which of these is an UNSOLICITED bulk-message threat?",
+      "options": [
+        "Worm",
+        "Spam",
+        "DES",
+        "WEP"
+      ],
+      "correct": 1,
+      "explanation": "Spam is unsolicited bulk messages — typically email — sent over the internet.",
+      "tags": []
+    },
+    {
+      "id": "networ-053",
+      "q": "A computer site bombarded with messages until it becomes unavailable describes:",
+      "options": [
+        "Phishing",
+        "DoS attack",
+        "Worm replication",
+        "Encryption"
+      ],
+      "correct": 1,
+      "explanation": "A computer site bombarded with messages until it becomes unavailable describes a Denial of Service (DoS) attack.",
+      "tags": []
+    },
+    {
+      "id": "networ-054",
+      "q": "Which of the following is true about Worms?",
+      "options": [
+        "They cannot replicate",
+        "They need a user to click them to spread",
+        "They self-replicate and spread across networks without human assistance",
+        "They only attack printers"
+      ],
+      "correct": 2,
+      "explanation": "Worms self-replicate and spread across networks without human assistance — making them especially dangerous in connected environments.",
+      "tags": []
+    },
+    {
+      "id": "networ-055",
+      "q": "Which of the following statements about WEP is correct?",
+      "options": [
+        "WEP is the strongest wireless encryption available",
+        "WEP was broken already in 2001",
+        "WEP stands for Wireless Encryption Protocol",
+        "WEP replaces AES"
+      ],
+      "correct": 1,
+      "explanation": "WEP (Wired Equivalent Privacy) was broken already in 2001 and should not be used for modern wireless security.",
+      "tags": []
+    }
+  ]
+}

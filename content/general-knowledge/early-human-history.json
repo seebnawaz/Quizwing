@@ -1,0 +1,2819 @@
+{
+  "topic_id": "early-human-history",
+  "topic_name": "Early Human History",
+  "subject": "general-knowledge",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Early Human History MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🏺",
+  "mcqs": [
+    {
+      "id": "earlyh-001",
+      "q": "What does 'Big History' refer to?",
+      "options": [
+        "History from the Big Bang to present",
+        "History of ancient empires only",
+        "History of the 20th century",
+        "History of European colonization"
+      ],
+      "correct": 0,
+      "explanation": "Big History examines the entire timeline from the Big Bang (13.8 billion years ago) to the present day.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-002",
+      "q": "Dinosaurs were the largest known:",
+      "options": [
+        "Cold-blooded reptiles",
+        "Warm-blooded mammals",
+        "Amphibians",
+        "Invertebrates"
+      ],
+      "correct": 0,
+      "explanation": "Dinosaurs were the largest cold-blooded reptiles to roam the Earth, dominating for over 100 million years.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-003",
+      "q": "Earliest humans who started walking on two feet are known as:",
+      "options": [
+        "Bipedal",
+        "Quadrupedal",
+        "Arboreal",
+        "Nomadic"
+      ],
+      "correct": 0,
+      "explanation": "Bipedalism (walking on two feet) was a key evolutionary development distinguishing early humans from other primates.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-004",
+      "q": "Homo Erectus fossils were first discovered in:",
+      "options": [
+        "Java",
+        "Africa",
+        "China",
+        "Europe"
+      ],
+      "correct": 0,
+      "explanation": "Homo Erectus fossils were first discovered in Java, Indonesia by Eugene Dubois in 1891.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-005",
+      "q": "What is considered the oldest organized occupation of humans?",
+      "options": [
+        "Agriculture",
+        "Hunting",
+        "Fishing",
+        "Mining"
+      ],
+      "correct": 0,
+      "explanation": "Agriculture marked the transition from nomadic hunter-gatherers to settled communities during the Neolithic Revolution.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-006",
+      "q": "What was the first metal discovered by humans?",
+      "options": [
+        "Copper",
+        "Iron",
+        "Gold",
+        "Bronze"
+      ],
+      "correct": 0,
+      "explanation": "Copper was the first metal discovered and used by humans, predating the Bronze and Iron Ages.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-007",
+      "q": "The first technology of man on Earth is:",
+      "options": [
+        "Use of fire",
+        "Wheel",
+        "Writing",
+        "Pottery"
+      ],
+      "correct": 0,
+      "explanation": "The controlled use of fire was mankind's earliest technological achievement, providing warmth, cooking, and protection.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-008",
+      "q": "The Bronze era started from which country?",
+      "options": [
+        "Egypt",
+        "Mesopotamia",
+        "China",
+        "India"
+      ],
+      "correct": 0,
+      "explanation": "The Bronze Age is associated with early developments in Egypt, where copper was alloyed with tin to create bronze.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-009",
+      "q": "Which era marked the first use of stone tools and human migration from Africa?",
+      "options": [
+        "Stone Age",
+        "Bronze Age",
+        "Iron Age",
+        "Classical Age"
+      ],
+      "correct": 0,
+      "explanation": "The Stone Age was the earliest period of human culture, when stone tools were first used and humans migrated out of Africa.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-010",
+      "q": "During which period did humans invent the wheel and metalworking?",
+      "options": [
+        "Bronze Age",
+        "Stone Age",
+        "Iron Age",
+        "Modern Age"
+      ],
+      "correct": 0,
+      "explanation": "The Bronze Age saw major innovations including the wheel, metalworking (bronze), and early writing systems.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-011",
+      "q": "The Iron Age introduced which of the following?",
+      "options": [
+        "Written systems and steel",
+        "Nuclear energy",
+        "Printing press",
+        "Electricity"
+      ],
+      "correct": 0,
+      "explanation": "The Iron Age brought advances in written language systems and the use of iron and steel for tools and weapons.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-012",
+      "q": "Which of the following is among the oldest written languages?",
+      "options": [
+        "Cambodian (Khmer)",
+        "Latin",
+        "French",
+        "Spanish"
+      ],
+      "correct": 0,
+      "explanation": "Cambodian (Khmer) is often cited in competitive exams as one of the oldest written languages with ancient inscriptions.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-013",
+      "q": "Which era is called Modern History?",
+      "options": [
+        "Era of Enlightenment and Industrial Revolution",
+        "Stone Age",
+        "Bronze Age",
+        "Medieval Period"
+      ],
+      "correct": 0,
+      "explanation": "Modern History refers to the era of Enlightenment, Reason, and the Industrial Revolution (17th-18th centuries onward).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-014",
+      "q": "Mesopotamia is the ancient name of:",
+      "options": [
+        "Iraq",
+        "Iran",
+        "Syria",
+        "Egypt"
+      ],
+      "correct": 0,
+      "explanation": "Mesopotamia, the land between the Tigris and Euphrates rivers, is modern-day Iraq.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-015",
+      "q": "The word 'Mesopotamia' originated from:",
+      "options": [
+        "Sumerian",
+        "Greek",
+        "Latin",
+        "Persian"
+      ],
+      "correct": 0,
+      "explanation": "The word Mesopotamia has roots in the Sumerian civilization, though commonly known through its Greek form meaning 'land between rivers'.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-016",
+      "q": "Mesopotamia means land between two:",
+      "options": [
+        "Rivers",
+        "Mountains",
+        "Seas",
+        "Deserts"
+      ],
+      "correct": 0,
+      "explanation": "Mesopotamia literally means 'land between two rivers' — the Tigris and the Euphrates.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-017",
+      "q": "The two main rivers of Mesopotamia are:",
+      "options": [
+        "Euphrates and Tigris",
+        "Nile and Congo",
+        "Indus and Ganges",
+        "Amazon and Mississippi"
+      ],
+      "correct": 0,
+      "explanation": "Mesopotamia was the land between the Euphrates and Tigris rivers in present-day Iraq.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-018",
+      "q": "What does the term 'Cradle of Civilization' refer to?",
+      "options": [
+        "Mesopotamia",
+        "Egypt",
+        "Greece",
+        "China"
+      ],
+      "correct": 0,
+      "explanation": "Mesopotamia is known as the Cradle of Civilization where agriculture, writing, and urban life first developed.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-019",
+      "q": "Mesopotamian civilization belongs to which age?",
+      "options": [
+        "Neolithic",
+        "Paleolithic",
+        "Bronze Age",
+        "Iron Age"
+      ],
+      "correct": 0,
+      "explanation": "The earliest Mesopotamian settlements emerged during the Neolithic Age (New Stone Age) around 10,000-4,500 BC.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-020",
+      "q": "The Sumerian civilization was located in:",
+      "options": [
+        "Iraq",
+        "Iran",
+        "Egypt",
+        "Turkey"
+      ],
+      "correct": 0,
+      "explanation": "The Sumerian civilization developed in southern Mesopotamia, in what is now southern Iraq.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-021",
+      "q": "What is significant about the Sumerian civilization?",
+      "options": [
+        "Oldest written records",
+        "Largest empire",
+        "First democracy",
+        "Longest dynasty"
+      ],
+      "correct": 0,
+      "explanation": "The Sumerian civilization produced the world's oldest known written records using cuneiform script on clay tablets.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-022",
+      "q": "Which ancient Mesopotamian king is known for his code of laws?",
+      "options": [
+        "Hammurabi",
+        "Nebuchadnezzar",
+        "Gilgamesh",
+        "Sargon"
+      ],
+      "correct": 0,
+      "explanation": "Hammurabi of Babylon created one of the earliest known written legal codes around 1754 BC.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-023",
+      "q": "Which metal was predominantly used in the Sumerian civilization?",
+      "options": [
+        "Bronze",
+        "Iron",
+        "Gold",
+        "Copper"
+      ],
+      "correct": 0,
+      "explanation": "The Sumerians were part of the Bronze Age and predominantly used bronze for tools, weapons, and artifacts.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-024",
+      "q": "The Fertile Crescent is associated with which civilization?",
+      "options": [
+        "Mesopotamian",
+        "Egyptian",
+        "Chinese",
+        "Aztec"
+      ],
+      "correct": 0,
+      "explanation": "The Fertile Crescent is closely associated with Mesopotamian civilization.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-025",
+      "q": "The local people of Mesopotamia were referred to as:",
+      "options": [
+        "Yazidi",
+        "Berbers",
+        "Celts",
+        "Slavs"
+      ],
+      "correct": 0,
+      "explanation": "The Yazidi people are an indigenous ethno-religious group from the Mesopotamian region of modern Iraq.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-026",
+      "q": "The first underground drainage system was introduced by which civilization?",
+      "options": [
+        "Indus Valley Civilization",
+        "Egyptian Civilization",
+        "Greek Civilization",
+        "Roman Civilization"
+      ],
+      "correct": 0,
+      "explanation": "The Indus Valley Civilization (Mohenjo-daro and Harappa) had an advanced underground drainage system around 2500 BC.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-027",
+      "q": "The age of the Great Pyramid of Giza is almost:",
+      "options": [
+        "5000 years",
+        "3000 years",
+        "7000 years",
+        "2000 years"
+      ],
+      "correct": 0,
+      "explanation": "The Great Pyramid of Giza was built around 2560 BC, making it approximately 5000 years old.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-028",
+      "q": "Surena was a notable leader of which empire?",
+      "options": [
+        "Parthian Empire",
+        "Roman Empire",
+        "Persian Empire",
+        "Ottoman Empire"
+      ],
+      "correct": 0,
+      "explanation": "Surena was a military commander of the Parthian Empire who defeated the Romans at the Battle of Carrhae (53 BC).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-029",
+      "q": "The famous city of Carthage is located in which country?",
+      "options": [
+        "Tunisia",
+        "Libya",
+        "Morocco",
+        "Algeria"
+      ],
+      "correct": 0,
+      "explanation": "Carthage was an ancient city-state located in present-day Tunisia, North Africa.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-030",
+      "q": "Bakht Nasr (Nebuchadnezzar II) was from:",
+      "options": [
+        "Babylon",
+        "Persia",
+        "Egypt",
+        "Assyria"
+      ],
+      "correct": 0,
+      "explanation": "Nebuchadnezzar II (Bakht Nasr) was the greatest king of the Neo-Babylonian Empire.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-031",
+      "q": "Who is referred to as the King of Egypt?",
+      "options": [
+        "Pharaoh",
+        "Caesar",
+        "Sultan",
+        "Emperor"
+      ],
+      "correct": 0,
+      "explanation": "Pharaoh is the title given to the ancient rulers of Egypt who were both political and religious leaders.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-032",
+      "q": "Ancient Greece contributed to which of the following?",
+      "options": [
+        "Democracy and philosophy",
+        "Nuclear physics",
+        "Space exploration",
+        "Digital technology"
+      ],
+      "correct": 0,
+      "explanation": "Ancient Greece is the birthplace of democracy, philosophy, Olympic Games, and major advances in science.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-033",
+      "q": "The Persian Empire practiced which religion before Islam?",
+      "options": [
+        "Zoroastrianism",
+        "Christianity",
+        "Buddhism",
+        "Hinduism"
+      ],
+      "correct": 0,
+      "explanation": "Zoroastrianism was the dominant religion of the Persian Empire before the Islamic conquest.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-034",
+      "q": "Alexander the Great was the king of:",
+      "options": [
+        "Macedonia",
+        "Athens",
+        "Sparta",
+        "Persia"
+      ],
+      "correct": 0,
+      "explanation": "Alexander III of Macedon (356-323 BC) created one of the largest empires from Greece to northwestern India.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-035",
+      "q": "Alexander the Great's teacher was:",
+      "options": [
+        "Aristotle",
+        "Plato",
+        "Socrates",
+        "Pythagoras"
+      ],
+      "correct": 0,
+      "explanation": "Alexander the Great was tutored by the philosopher Aristotle before becoming king of Macedonia.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-036",
+      "q": "Socrates was born in Greece around:",
+      "options": [
+        "469 BC",
+        "399 BC",
+        "428 BC",
+        "384 BC"
+      ],
+      "correct": 0,
+      "explanation": "Socrates was born around 469 BC in Athens and is considered the founder of Western philosophy.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-037",
+      "q": "In which year did Socrates die?",
+      "options": [
+        "399 BC",
+        "469 BC",
+        "347 BC",
+        "322 BC"
+      ],
+      "correct": 0,
+      "explanation": "Socrates was sentenced to death by drinking hemlock in 399 BC for allegedly corrupting the youth of Athens.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-038",
+      "q": "Julius Caesar was a politician and general of:",
+      "options": [
+        "Rome",
+        "France",
+        "Greece",
+        "Spain"
+      ],
+      "correct": 0,
+      "explanation": "Julius Caesar was a Roman general and statesman who played a critical role in the fall of the Roman Republic.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-039",
+      "q": "Who was Cleopatra?",
+      "options": [
+        "Queen of ancient Egypt",
+        "Greek goddess",
+        "Roman Empress",
+        "Persian princess"
+      ],
+      "correct": 0,
+      "explanation": "Cleopatra VII was the last active ruler of the Ptolemaic Kingdom of Egypt.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-040",
+      "q": "The Byzantine Empire was the Eastern part of which empire?",
+      "options": [
+        "Roman Empire",
+        "Persian Empire",
+        "Greek Empire",
+        "Mongol Empire"
+      ],
+      "correct": 0,
+      "explanation": "When the Roman Empire split in 395 AD, the eastern half became the Byzantine Empire, lasting until 1453.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-041",
+      "q": "The Colosseum was built in:",
+      "options": [
+        "Rome",
+        "Athens",
+        "Alexandria",
+        "Carthage"
+      ],
+      "correct": 0,
+      "explanation": "The Colosseum (Flavian Amphitheatre) was built in Rome between 70-80 AD.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-042",
+      "q": "Who is the Greek god of war?",
+      "options": [
+        "Ares",
+        "Zeus",
+        "Apollo",
+        "Hermes"
+      ],
+      "correct": 0,
+      "explanation": "Ares is the Greek god of war. His Roman equivalent is Mars.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-043",
+      "q": "What was the main cultural influence of the Byzantine Empire?",
+      "options": [
+        "Practices from Greece and Rome",
+        "Chinese traditions",
+        "Indian philosophy",
+        "African customs"
+      ],
+      "correct": 0,
+      "explanation": "The Byzantine Empire preserved and blended Greek and Roman cultural, legal, and architectural traditions.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-044",
+      "q": "The Middle Ages began after the fall of which empire?",
+      "options": [
+        "Roman Empire",
+        "Persian Empire",
+        "Mongol Empire",
+        "Ottoman Empire"
+      ],
+      "correct": 0,
+      "explanation": "The fall of the Western Roman Empire in 476 AD marked the beginning of the Middle Ages.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-045",
+      "q": "Al-Farabi (9th-10th century) is regarded as the greatest philosophical authority of the:",
+      "options": [
+        "Medieval Islamic world",
+        "Ancient Greek world",
+        "Modern European world",
+        "Ancient Chinese world"
+      ],
+      "correct": 0,
+      "explanation": "Al-Farabi laid the foundations of Islamic political philosophy, earning the title 'Second Teacher' after Aristotle.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-046",
+      "q": "Al-Kindi advanced optics, mathematics, and philosophy, earning the title:",
+      "options": [
+        "Philosopher of the Arabs",
+        "Father of Medicine",
+        "Father of Algebra",
+        "Prince of Physicians"
+      ],
+      "correct": 0,
+      "explanation": "Al-Kindi earned the title 'Philosopher of the Arabs' for his pioneering work in optics, mathematics, and philosophy (9th century).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-047",
+      "q": "Al-Razi (Rhazes) pioneered clinical medicine during the:",
+      "options": [
+        "9th-10th centuries",
+        "5th-6th centuries",
+        "12th-13th centuries",
+        "15th-16th centuries"
+      ],
+      "correct": 0,
+      "explanation": "Al-Razi (Rhazes) wrote influential medical encyclopedias and pioneered clinical medicine (9th-10th centuries).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-048",
+      "q": "Papermaking technology was learned from the Chinese after the:",
+      "options": [
+        "Battle of Talas (751 AD)",
+        "Battle of Tours (732 AD)",
+        "Battle of Hastings (1066)",
+        "Battle of Manzikert (1071)"
+      ],
+      "correct": 0,
+      "explanation": "Papermaking was learned from the Chinese after the Battle of Talas in 751 AD, accelerating book production in the Islamic world.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-049",
+      "q": "Ibn Sina (Avicenna) composed works that defined:",
+      "options": [
+        "Medieval medicine and philosophy",
+        "Modern physics",
+        "Computer science",
+        "Nuclear technology"
+      ],
+      "correct": 0,
+      "explanation": "Ibn Sina (Avicenna) was a pioneering polymath whose Canon of Medicine was a standard medical text for centuries.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-050",
+      "q": "Abu Rayhan al-Biruni (born 973 AD) became a pioneer in:",
+      "options": [
+        "Geography, astronomy, and comparative religion",
+        "Military strategy",
+        "Maritime navigation",
+        "Architecture"
+      ],
+      "correct": 0,
+      "explanation": "Al-Biruni was born in 973 AD and became a pioneer in geography, astronomy, and comparative religion.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-051",
+      "q": "Ferdowsi began composing the Shahnameh, preserving pre-Islamic Persian history, around:",
+      "options": [
+        "977 AD",
+        "800 AD",
+        "1100 AD",
+        "1200 AD"
+      ],
+      "correct": 0,
+      "explanation": "Ferdowsi began composing the Shahnameh (Book of Kings) around 977 AD, a masterpiece of Persian literature.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-052",
+      "q": "The Samanid dynasty promoted Persian language and culture, sponsoring poets like:",
+      "options": [
+        "Rudaki (819-999 AD)",
+        "Rumi (13th century)",
+        "Hafiz (14th century)",
+        "Omar Khayyam (11th century)"
+      ],
+      "correct": 0,
+      "explanation": "The Samanid dynasty (819-999 AD) promoted Persian language and culture, sponsoring poets like Rudaki.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-053",
+      "q": "The Buyid dynasty seized control of Baghdad, reducing Abbasid caliphs to figureheads, in:",
+      "options": [
+        "945 AD",
+        "800 AD",
+        "1055 AD",
+        "1258 AD"
+      ],
+      "correct": 0,
+      "explanation": "The Buyid dynasty, a Shi'a Persian dynasty, seized control of Baghdad in 945 AD.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-054",
+      "q": "The Fatimid Caliphate established its capital in Cairo and founded:",
+      "options": [
+        "Al-Azhar University (969 AD)",
+        "Oxford University",
+        "Bologna University",
+        "Cambridge University"
+      ],
+      "correct": 0,
+      "explanation": "The Fatimid Caliphate founded al-Azhar University in Cairo in 969 AD, a center of Islamic scholarship.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-055",
+      "q": "The Great Mosque of Córdoba symbolized the splendor of:",
+      "options": [
+        "Islamic Spain",
+        "Ottoman Turkey",
+        "Mughal India",
+        "Abbasid Iraq"
+      ],
+      "correct": 0,
+      "explanation": "The Great Mosque of Córdoba symbolized the splendor of Islamic Spain and its role as a center of learning.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-056",
+      "q": "Tariq ibn Ziyad's victory in Iberia established Muslim presence in Spain starting:",
+      "options": [
+        "711 AD",
+        "632 AD",
+        "1000 AD",
+        "800 AD"
+      ],
+      "correct": 0,
+      "explanation": "Tariq ibn Ziyad's victory in 711 AD established nearly eight centuries of Muslim presence in Spain.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-057",
+      "q": "Al-Andalus became a beacon of science and philosophy during the:",
+      "options": [
+        "9th-10th centuries",
+        "5th-6th centuries",
+        "13th-14th centuries",
+        "1st-2nd centuries"
+      ],
+      "correct": 0,
+      "explanation": "Al-Andalus (Islamic Spain) became a leading center of learning during the 9th-10th centuries.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-058",
+      "q": "Charlemagne was crowned 'Emperor of the Romans' by Pope Leo III in:",
+      "options": [
+        "800 AD",
+        "700 AD",
+        "900 AD",
+        "1000 AD"
+      ],
+      "correct": 0,
+      "explanation": "Charlemagne was crowned Emperor of the Romans by Pope Leo III in 800 AD.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-059",
+      "q": "The Carolingian Renaissance fostered learning, script reform, and:",
+      "options": [
+        "Monastic scholarship (8th-9th centuries)",
+        "Industrial development",
+        "Maritime exploration",
+        "Democratic governance"
+      ],
+      "correct": 0,
+      "explanation": "The Carolingian Renaissance fostered learning, script reform, and monastic scholarship (8th-9th centuries).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-060",
+      "q": "The Vikings reached as far as:",
+      "options": [
+        "Baghdad and North America",
+        "Australia and Antarctica",
+        "South America and Africa",
+        "India and China"
+      ],
+      "correct": 0,
+      "explanation": "The Vikings launched raids across Europe, reaching as far as Baghdad and North America (8th-10th centuries).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-061",
+      "q": "Kievan Rus converted to Orthodox Christianity under:",
+      "options": [
+        "Vladimir the Great (988 AD)",
+        "Ivan the Terrible",
+        "Peter the Great",
+        "Catherine the Great"
+      ],
+      "correct": 0,
+      "explanation": "Kievan Rus converted to Orthodox Christianity under Vladimir the Great in 988 AD.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-062",
+      "q": "The Treaty of Verdun (843 AD) divided which empire?",
+      "options": [
+        "Charlemagne's Empire",
+        "Roman Empire",
+        "Ottoman Empire",
+        "Persian Empire"
+      ],
+      "correct": 0,
+      "explanation": "The Treaty of Verdun divided Charlemagne's empire among his grandsons, shaping France and Germany.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-063",
+      "q": "Rurik founded the Rus' state in Eastern Europe in:",
+      "options": [
+        "862 AD",
+        "800 AD",
+        "900 AD",
+        "1000 AD"
+      ],
+      "correct": 0,
+      "explanation": "Rurik founded the Rus' state in 862 AD, laying the foundation for future Russian and Ukrainian states.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-064",
+      "q": "Feudalism was the dominant political system in:",
+      "options": [
+        "Medieval Europe",
+        "Ancient Egypt",
+        "Modern Asia",
+        "Pre-Columbian Americas"
+      ],
+      "correct": 0,
+      "explanation": "Feudalism matured as the dominant political system in Europe, based on vassalage and land tenure (8th-10th centuries).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-065",
+      "q": "The three-field system improved agricultural productivity in:",
+      "options": [
+        "Medieval Europe (9th century)",
+        "Ancient Rome",
+        "Modern Africa",
+        "Colonial Americas"
+      ],
+      "correct": 0,
+      "explanation": "The three-field crop rotation system improved agricultural productivity in medieval Europe (9th century).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-066",
+      "q": "Oxford University began teaching in cathedral schools around:",
+      "options": [
+        "1096 AD",
+        "800 AD",
+        "1200 AD",
+        "1400 AD"
+      ],
+      "correct": 0,
+      "explanation": "Oxford University evolved from cathedral schools into a major center of scholasticism around 1096 AD.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-067",
+      "q": "The First Crusade was launched by Pope Urban II to capture:",
+      "options": [
+        "Jerusalem (1095-1099 AD)",
+        "Constantinople",
+        "Rome",
+        "Baghdad"
+      ],
+      "correct": 0,
+      "explanation": "The First Crusade, launched by Pope Urban II in 1095, captured Jerusalem and established Crusader states.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-068",
+      "q": "The Magna Carta was signed in:",
+      "options": [
+        "1215",
+        "1066",
+        "1300",
+        "1400"
+      ],
+      "correct": 0,
+      "explanation": "The Magna Carta was signed in 1215 by King John, establishing principles of limited government.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-069",
+      "q": "Genghis Khan unified the Mongol tribes and created:",
+      "options": [
+        "The largest contiguous land empire",
+        "The first democracy",
+        "The printing press",
+        "The first university"
+      ],
+      "correct": 0,
+      "explanation": "Genghis Khan created the largest contiguous land empire in history, spanning from China to Eastern Europe.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-070",
+      "q": "Salahuddin Ayyubi (Saladin) recaptured Jerusalem in:",
+      "options": [
+        "1187 AD",
+        "1099 AD",
+        "1200 AD",
+        "1250 AD"
+      ],
+      "correct": 0,
+      "explanation": "Salahuddin Ayyubi recaptured Jerusalem in 1187 AD, becoming the era's iconic Muslim commander.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-071",
+      "q": "Marco Polo traveled to Yuan China, popularizing Eurasian markets, around:",
+      "options": [
+        "1271-1295 AD",
+        "1200-1220 AD",
+        "1300-1320 AD",
+        "1350-1370 AD"
+      ],
+      "correct": 0,
+      "explanation": "Marco Polo traveled to Yuan China (c. 1271-1295 AD), popularizing Eurasian trade opportunities in Europe.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-072",
+      "q": "The Hundred Years' War (1337-1453) was fought between:",
+      "options": [
+        "England and France",
+        "Spain and Portugal",
+        "Rome and Carthage",
+        "Greece and Persia"
+      ],
+      "correct": 0,
+      "explanation": "The Hundred Years' War was a series of conflicts between England and France over dynastic claims.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-073",
+      "q": "The Black Death (1347-1351) killed tens of millions and transformed:",
+      "options": [
+        "Labor and social structures",
+        "Only animal populations",
+        "Military strategies",
+        "Trade routes alone"
+      ],
+      "correct": 0,
+      "explanation": "The Black Death ravaged Eurasia and North Africa, killing tens of millions and transforming labor and social structures.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-074",
+      "q": "The Battle of Crécy (1346) showcased the English:",
+      "options": [
+        "Longbow",
+        "Cavalry charge",
+        "Naval superiority",
+        "Siege technology"
+      ],
+      "correct": 0,
+      "explanation": "The Battle of Crécy showcased the English longbow and new tactics against French chivalry.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-075",
+      "q": "Bologna University emerged as Europe's first university in:",
+      "options": [
+        "1088",
+        "1000",
+        "1150",
+        "1200"
+      ],
+      "correct": 0,
+      "explanation": "Bologna University, founded around 1088, is Europe's first university and a center for Roman law.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-076",
+      "q": "The Delhi Sultanate (Mamluk/Slave Dynasty) was founded by:",
+      "options": [
+        "Qutb-ud-din Aibak",
+        "Babur",
+        "Akbar",
+        "Aurangzeb"
+      ],
+      "correct": 0,
+      "explanation": "Qutb-ud-din Aibak founded the Delhi Sultanate and began building the Qutb Minar complex.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-077",
+      "q": "Razia Sultan became South Asia's first reigning female sovereign at Delhi in:",
+      "options": [
+        "1236-1240 AD",
+        "1206-1210 AD",
+        "1290-1296 AD",
+        "1320-1325 AD"
+      ],
+      "correct": 0,
+      "explanation": "Razia Sultan became South Asia's first reigning female sovereign at Delhi (1236-1240 AD).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-078",
+      "q": "Mahmud of Ghazni made Lahore a forward base for India campaigns around:",
+      "options": [
+        "1000-1030 AD",
+        "900-950 AD",
+        "1100-1150 AD",
+        "1200-1250 AD"
+      ],
+      "correct": 0,
+      "explanation": "Mahmud of Ghazni consolidated the Ghaznavids and made Lahore a forward base for India campaigns (c. 1000-1030 AD).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-079",
+      "q": "Al-Biruni composed Kitab al-Hind, a scientific study of Indian society and astronomy, at the court of:",
+      "options": [
+        "The Ghaznavids (c. 1017-1030)",
+        "The Mughals",
+        "The Abbasids",
+        "The Fatimids"
+      ],
+      "correct": 0,
+      "explanation": "Al-Biruni composed Kitab al-Hind at the Ghaznavid court (c. 1017-1030).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-080",
+      "q": "The Seljuk Turks became de facto protectors of the Abbasid caliphate in the:",
+      "options": [
+        "11th century",
+        "9th century",
+        "13th century",
+        "7th century"
+      ],
+      "correct": 0,
+      "explanation": "The Seljuk Turks became de facto protectors of the Abbasid caliphate, reshaping power in Iraq and the Levant (11th century).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-081",
+      "q": "The Mongols sacked Baghdad, ending the Abbasid Caliphate, in:",
+      "options": [
+        "1258 AD",
+        "1187 AD",
+        "1300 AD",
+        "1453 AD"
+      ],
+      "correct": 0,
+      "explanation": "The Mongols sacked Baghdad in 1258 AD, ending the Abbasid temporal rule in Iraq.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-082",
+      "q": "The Portuguese expansion opened the Age of Discovery with the capture of Ceuta in:",
+      "options": [
+        "1415",
+        "1492",
+        "1500",
+        "1350"
+      ],
+      "correct": 0,
+      "explanation": "Portugal's capture of Ceuta in 1415 opened the Age of Discovery.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-083",
+      "q": "Bartolomeu Dias rounded the Cape of Good Hope in:",
+      "options": [
+        "1488",
+        "1492",
+        "1498",
+        "1500"
+      ],
+      "correct": 0,
+      "explanation": "Bartolomeu Dias rounded the Cape of Good Hope in 1488, proving an oceanic route to the Indian Ocean.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-084",
+      "q": "Christopher Columbus reached the Americas in:",
+      "options": [
+        "1492",
+        "1488",
+        "1498",
+        "1500"
+      ],
+      "correct": 0,
+      "explanation": "Christopher Columbus, sailing for Spain, reached the Americas in 1492.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-085",
+      "q": "The Treaty of Tordesillas (1494) divided the non-European world between:",
+      "options": [
+        "Spain and Portugal",
+        "England and France",
+        "Rome and Constantinople",
+        "Ottomans and Mughals"
+      ],
+      "correct": 0,
+      "explanation": "The Treaty of Tordesillas divided the non-European world between Spain and Portugal (1494).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-086",
+      "q": "Vasco da Gama reached India via the Cape Route in:",
+      "options": [
+        "1498",
+        "1488",
+        "1492",
+        "1500"
+      ],
+      "correct": 0,
+      "explanation": "Vasco da Gama reached India via the Cape Route in 1498, linking Europe and the Indian Ocean by sea.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-087",
+      "q": "The Alhambra Decree (1492) expelled:",
+      "options": [
+        "Spain's Jews",
+        "England's nobility",
+        "France's merchants",
+        "Italy's bankers"
+      ],
+      "correct": 0,
+      "explanation": "The Alhambra Decree of 1492 expelled Spain's Jews, reshaping Iberian society.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-088",
+      "q": "The Renaissance is often referred to as a:",
+      "options": [
+        "Cultural rebirth",
+        "Military conquest",
+        "Religious war",
+        "Scientific decline"
+      ],
+      "correct": 0,
+      "explanation": "The Renaissance (14th-17th century) was a cultural 'rebirth' of classical Greek and Roman art, science, and learning.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-089",
+      "q": "Which movement challenged the Catholic Church and redefined Christianity?",
+      "options": [
+        "Protestant Reformation",
+        "Crusades",
+        "Enlightenment",
+        "Industrial Revolution"
+      ],
+      "correct": 0,
+      "explanation": "The Protestant Reformation, led by Martin Luther in 1517, challenged Catholic Church practices.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-090",
+      "q": "The Ottoman Empire conquered Constantinople in:",
+      "options": [
+        "1453",
+        "1389",
+        "1492",
+        "1517"
+      ],
+      "correct": 0,
+      "explanation": "Sultan Mehmed II conquered Constantinople on May 29, 1453, ending the Byzantine Empire.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-091",
+      "q": "The Ottoman Empire entered its classical golden age under:",
+      "options": [
+        "Sultan Suleiman the Magnificent",
+        "Mehmed II",
+        "Osman I",
+        "Bayezid I"
+      ],
+      "correct": 0,
+      "explanation": "The Ottoman Empire entered its golden age under Sultan Suleiman the Magnificent (1520-1566).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-092",
+      "q": "The Mughal Empire was founded by Babur after the First Battle of Panipat in:",
+      "options": [
+        "1526",
+        "1498",
+        "1556",
+        "1600"
+      ],
+      "correct": 0,
+      "explanation": "Babur defeated Ibrahim Lodhi at the First Battle of Panipat in 1526, founding the Mughal Empire.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-093",
+      "q": "The Taj Mahal was built by Shah Jahan in memory of:",
+      "options": [
+        "Mumtaz Mahal",
+        "Nur Jahan",
+        "Jodha Bai",
+        "Hamida Banu"
+      ],
+      "correct": 0,
+      "explanation": "The Taj Mahal was built by Shah Jahan in memory of Mumtaz Mahal (1632-1653).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-094",
+      "q": "Galileo was tried by the Inquisition for supporting:",
+      "options": [
+        "Heliocentrism (1633)",
+        "Democracy",
+        "Evolution",
+        "Alchemy"
+      ],
+      "correct": 0,
+      "explanation": "Galileo was tried by the Inquisition for heresy due to his support for heliocentrism in 1633.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-095",
+      "q": "The Treaty of Westphalia (1648) introduced principles of:",
+      "options": [
+        "State sovereignty",
+        "Religious unity",
+        "Colonial expansion",
+        "Military alliances"
+      ],
+      "correct": 0,
+      "explanation": "The Treaty of Westphalia ended the Thirty Years' War and introduced principles of state sovereignty (1648).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-096",
+      "q": "The Jamestown Colony (1607) was the first permanent English settlement in:",
+      "options": [
+        "North America",
+        "South America",
+        "Australia",
+        "Africa"
+      ],
+      "correct": 0,
+      "explanation": "Jamestown Colony was founded in Virginia in 1607, the first permanent English settlement in North America.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-097",
+      "q": "The Mughal Empire reached its cultural zenith under:",
+      "options": [
+        "Shah Jahan",
+        "Akbar",
+        "Aurangzeb",
+        "Babur"
+      ],
+      "correct": 0,
+      "explanation": "The Mughal Empire reached its cultural zenith under Shah Jahan, who commissioned the Red Fort and Jama Masjid.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-098",
+      "q": "Oliver Cromwell rose to prominence during:",
+      "options": [
+        "England's civil wars (1642-1651)",
+        "The French Revolution",
+        "The American Revolution",
+        "The Napoleonic Wars"
+      ],
+      "correct": 0,
+      "explanation": "Oliver Cromwell rose to prominence in England's civil wars, leading parliamentary forces (1642-1651).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-099",
+      "q": "The Thirty Years' War (1618-1648) was a devastating conflict in:",
+      "options": [
+        "Europe between Protestant and Catholic states",
+        "Asia between China and Japan",
+        "Africa between rival kingdoms",
+        "Americas between colonial powers"
+      ],
+      "correct": 0,
+      "explanation": "The Thirty Years' War was a devastating conflict between Protestant and Catholic states in Europe (1618-1648).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-100",
+      "q": "The Dutch captured Malacca from the Portuguese in:",
+      "options": [
+        "1641",
+        "1600",
+        "1700",
+        "1580"
+      ],
+      "correct": 0,
+      "explanation": "The Dutch captured Malacca in 1641, weakening Portuguese dominance in Southeast Asia.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-101",
+      "q": "The English East India Company was established in:",
+      "options": [
+        "1600",
+        "1650",
+        "1700",
+        "1550"
+      ],
+      "correct": 0,
+      "explanation": "The English East India Company was established in 1600, eventually becoming a major power in India.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-102",
+      "q": "The Glorious Revolution (1688) in England established:",
+      "options": [
+        "Parliamentary supremacy",
+        "Absolute monarchy",
+        "A republic",
+        "Military dictatorship"
+      ],
+      "correct": 0,
+      "explanation": "The Glorious Revolution of 1688 deposed James II and established parliamentary supremacy.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-103",
+      "q": "The Enlightenment is also known as the:",
+      "options": [
+        "Age of Reason",
+        "Age of Discovery",
+        "Dark Ages",
+        "Golden Age"
+      ],
+      "correct": 0,
+      "explanation": "The Enlightenment (17th-18th century) emphasized reason, science, and individual rights.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-104",
+      "q": "Isaac Newton published Principia Mathematica in:",
+      "options": [
+        "1687",
+        "1600",
+        "1700",
+        "1750"
+      ],
+      "correct": 0,
+      "explanation": "Newton published Principia Mathematica in 1687, redefining physics with laws of motion and universal gravitation.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-105",
+      "q": "George Washington became the first U.S. President in:",
+      "options": [
+        "1789",
+        "1776",
+        "1800",
+        "1812"
+      ],
+      "correct": 0,
+      "explanation": "George Washington was inaugurated as the first U.S. President in 1789.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-106",
+      "q": "The French Revolution erupted with the Storming of the Bastille on:",
+      "options": [
+        "July 14, 1789",
+        "July 4, 1776",
+        "October 1, 1791",
+        "January 1, 1800"
+      ],
+      "correct": 0,
+      "explanation": "The French Revolution erupted with the Storming of the Bastille on July 14, 1789.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-107",
+      "q": "The Declaration of Independence was drafted chiefly by:",
+      "options": [
+        "Thomas Jefferson",
+        "George Washington",
+        "Benjamin Franklin",
+        "John Adams"
+      ],
+      "correct": 0,
+      "explanation": "Thomas Jefferson drafted the Declaration of Independence, proclaimed July 4, 1776.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-108",
+      "q": "The U.S. Bill of Rights (1791) guaranteed fundamental liberties including:",
+      "options": [
+        "Speech, religion, and due process",
+        "Right to bear arms only",
+        "Freedom of trade only",
+        "Military service only"
+      ],
+      "correct": 0,
+      "explanation": "The U.S. Bill of Rights (1791) guaranteed fundamental liberties like speech, religion, and due process.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-109",
+      "q": "The Haitian Revolution was the only successful large-scale slave revolt to found a state, beginning in:",
+      "options": [
+        "1791",
+        "1776",
+        "1804",
+        "1820"
+      ],
+      "correct": 0,
+      "explanation": "The Haitian Revolution (beginning 1791) was the only successful large-scale slave revolt to found a state.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-110",
+      "q": "The Transatlantic Slave Trade peaked in the:",
+      "options": [
+        "18th century",
+        "16th century",
+        "15th century",
+        "19th century"
+      ],
+      "correct": 0,
+      "explanation": "The Transatlantic Slave Trade peaked in the 18th century, binding Europe, Africa, and the Americas.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-111",
+      "q": "The Catherine the Great era expanded Russia to the Black Sea and partitioned:",
+      "options": [
+        "Poland (1762-1796)",
+        "Sweden (1762-1796)",
+        "Ottoman lands only",
+        "Persia only"
+      ],
+      "correct": 0,
+      "explanation": "Catherine the Great expanded Russia to the Black Sea and partitioned Poland (1762-1796).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-112",
+      "q": "Napoleon Bonaparte crowned himself Emperor of the French in:",
+      "options": [
+        "1804",
+        "1789",
+        "1815",
+        "1799"
+      ],
+      "correct": 0,
+      "explanation": "Napoleon crowned himself Emperor in 1804, reorganizing Europe through war and legal codification.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-113",
+      "q": "The Battle of Trafalgar (1805) secured British naval supremacy under:",
+      "options": [
+        "Admiral Nelson",
+        "Duke of Wellington",
+        "Napoleon",
+        "King George III"
+      ],
+      "correct": 0,
+      "explanation": "Admiral Nelson destroyed the Franco-Spanish fleet at Trafalgar in 1805, securing British naval supremacy.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-114",
+      "q": "Napoleon was defeated at the Battle of Waterloo in:",
+      "options": [
+        "1815",
+        "1812",
+        "1804",
+        "1806"
+      ],
+      "correct": 0,
+      "explanation": "Napoleon was defeated at Waterloo in 1815, ending his rule and the Napoleonic Wars.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-115",
+      "q": "The Congress of Vienna (1815) restored a conservative balance of power after:",
+      "options": [
+        "The Napoleonic Wars",
+        "World War I",
+        "French Revolution only",
+        "American Revolution"
+      ],
+      "correct": 0,
+      "explanation": "The Congress of Vienna restored a conservative balance of power and redrew Europe after Napoleon (1814-1815).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-116",
+      "q": "The First Opium War (1839-1842) was fought between:",
+      "options": [
+        "Britain and China",
+        "France and China",
+        "Spain and China",
+        "Russia and China"
+      ],
+      "correct": 0,
+      "explanation": "The First Opium War was fought between Britain and China over forced opium trade, ending with the Treaty of Nanjing.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-117",
+      "q": "The Communist Manifesto was published by Karl Marx and Friedrich Engels in:",
+      "options": [
+        "1848",
+        "1867",
+        "1917",
+        "1789"
+      ],
+      "correct": 0,
+      "explanation": "The Communist Manifesto (1848) framed modern socialist theory.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-118",
+      "q": "The U.S. Civil War led to abolition of slavery via the:",
+      "options": [
+        "13th Amendment (1865)",
+        "14th Amendment",
+        "15th Amendment",
+        "Bill of Rights"
+      ],
+      "correct": 0,
+      "explanation": "The U.S. Civil War (1861-1865) led to abolition of slavery via the 13th Amendment.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-119",
+      "q": "The Suez Canal opened in 1869, re-routing global trade through:",
+      "options": [
+        "Egypt",
+        "Panama",
+        "Turkey",
+        "Greece"
+      ],
+      "correct": 0,
+      "explanation": "The Suez Canal opened in 1869, re-routing global trade between Asia and Europe through Egypt.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-120",
+      "q": "German unification was completed in:",
+      "options": [
+        "1871",
+        "1848",
+        "1815",
+        "1900"
+      ],
+      "correct": 0,
+      "explanation": "German unification was completed in 1871 after the Franco-Prussian War.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-121",
+      "q": "The Berlin Conference (1884-1885) regulated the European:",
+      "options": [
+        "Scramble for Africa",
+        "Trade with Asia",
+        "Colonial rule in Americas",
+        "Naval warfare"
+      ],
+      "correct": 0,
+      "explanation": "The Berlin Conference regulated the European partition of Africa (1884-1885).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-122",
+      "q": "Florence Nightingale professionalized nursing during the:",
+      "options": [
+        "Crimean War (1854-1856)",
+        "World War I",
+        "World War II",
+        "Napoleonic Wars"
+      ],
+      "correct": 0,
+      "explanation": "Florence Nightingale revolutionized military medicine during the Crimean War (1854-1856).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-123",
+      "q": "The First Industrial Revolution began around:",
+      "options": [
+        "1760",
+        "1800",
+        "1850",
+        "1700"
+      ],
+      "correct": 0,
+      "explanation": "The First Industrial Revolution began around 1760 in Britain, driven by steam power and textile manufacturing.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-124",
+      "q": "The Second Industrial Revolution is also known as the:",
+      "options": [
+        "Technological Revolution",
+        "Digital Revolution",
+        "Scientific Revolution",
+        "Green Revolution"
+      ],
+      "correct": 0,
+      "explanation": "The Second Industrial Revolution (1870-1914) introduced electricity, petroleum, and steel.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-125",
+      "q": "The Victorian Era is associated with the reign of:",
+      "options": [
+        "Queen Victoria",
+        "Queen Elizabeth I",
+        "King George III",
+        "King Henry VIII"
+      ],
+      "correct": 0,
+      "explanation": "The Victorian Era (1837-1901) was a period of industrial and imperial expansion under Queen Victoria.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-126",
+      "q": "The Indian Rebellion of 1857 ended East India Company rule, leading to:",
+      "options": [
+        "Direct British Raj governance",
+        "Indian independence",
+        "Mughal restoration",
+        "French colonization"
+      ],
+      "correct": 0,
+      "explanation": "The Indian Rebellion of 1857 ended East India Company rule, leading to direct British Raj governance.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-127",
+      "q": "The Meiji Restoration restored imperial rule in Japan in:",
+      "options": [
+        "1868",
+        "1853",
+        "1890",
+        "1912"
+      ],
+      "correct": 0,
+      "explanation": "The Meiji Restoration in 1868 restored imperial rule and launched rapid industrialization in Japan.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-128",
+      "q": "Mendeleev's periodic table organized chemical elements in:",
+      "options": [
+        "1869",
+        "1859",
+        "1879",
+        "1889"
+      ],
+      "correct": 0,
+      "explanation": "Mendeleev's periodic table (1869) organized chemical elements, underpinning modern chemistry.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-129",
+      "q": "Pasteur and Koch founded germ theory during the:",
+      "options": [
+        "1860s-1880s",
+        "1820s-1840s",
+        "1900s-1920s",
+        "1780s-1800s"
+      ],
+      "correct": 0,
+      "explanation": "Pasteur and Koch founded germ theory during the 1860s-1880s, transforming public health.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-130",
+      "q": "The assassination of Archduke Franz Ferdinand triggered:",
+      "options": [
+        "World War I (1914)",
+        "World War II",
+        "The Franco-Prussian War",
+        "The Napoleonic Wars"
+      ],
+      "correct": 0,
+      "explanation": "The assassination of Archduke Franz Ferdinand in Sarajevo on June 28, 1914 triggered World War I.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-131",
+      "q": "The Triple Entente (1907) consisted of:",
+      "options": [
+        "Britain, France, and Russia",
+        "Germany, Austria-Hungary, and Italy",
+        "USA, Britain, and France",
+        "Russia, Germany, and Japan"
+      ],
+      "correct": 0,
+      "explanation": "The Triple Entente consisted of Britain, France, and Russia, formed to counterbalance the Triple Alliance.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-132",
+      "q": "The Battle of the Somme (1916) introduced the first:",
+      "options": [
+        "Tanks in warfare",
+        "Nuclear weapons",
+        "Aircraft carriers",
+        "Submarines"
+      ],
+      "correct": 0,
+      "explanation": "The Battle of the Somme in 1916 introduced the first tanks in warfare.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-133",
+      "q": "The Balfour Declaration (1917) promised a national home for Jewish people in:",
+      "options": [
+        "Palestine",
+        "Egypt",
+        "Syria",
+        "Iraq"
+      ],
+      "correct": 0,
+      "explanation": "The Balfour Declaration of 1917 promised a national home for the Jewish people in Palestine.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-134",
+      "q": "The Russian Revolution (1917) brought to power:",
+      "options": [
+        "Vladimir Lenin and the Bolsheviks",
+        "Tsar Nicholas III",
+        "Alexander Kerensky permanently",
+        "Joseph Stalin directly"
+      ],
+      "correct": 0,
+      "explanation": "The Russian Revolution of 1917 overthrew the Tsarist regime and brought Lenin and the Bolsheviks to power.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-135",
+      "q": "The Armistice ending WWI was signed on:",
+      "options": [
+        "November 11, 1918",
+        "June 28, 1919",
+        "January 1, 1918",
+        "December 25, 1917"
+      ],
+      "correct": 0,
+      "explanation": "The Armistice of Compiègne ended fighting on the Western Front on November 11, 1918.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-136",
+      "q": "The Treaty of Versailles (1919) blamed which country for WWI?",
+      "options": [
+        "Germany",
+        "Austria-Hungary",
+        "Ottoman Empire",
+        "Russia"
+      ],
+      "correct": 0,
+      "explanation": "The Treaty of Versailles blamed Germany for WWI, imposed reparations, and created the League of Nations.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-137",
+      "q": "The League of Nations was established but lacked:",
+      "options": [
+        "Enforcement power",
+        "A headquarters",
+        "Member nations",
+        "A charter"
+      ],
+      "correct": 0,
+      "explanation": "The League of Nations was established in 1920 but lacked enforcement power and U.S. membership.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-138",
+      "q": "Woodrow Wilson's Fourteen Points proposed:",
+      "options": [
+        "National self-determination and collective security",
+        "Colonial expansion",
+        "Military alliances",
+        "Trade restrictions"
+      ],
+      "correct": 0,
+      "explanation": "Woodrow Wilson's Fourteen Points proposed national self-determination and collective security (1918-1919).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-139",
+      "q": "The abolition of the Ottoman Caliphate by Mustafa Kemal Atatürk occurred in:",
+      "options": [
+        "1924",
+        "1918",
+        "1930",
+        "1922"
+      ],
+      "correct": 0,
+      "explanation": "Atatürk abolished the Ottoman Caliphate in 1924, a major shift in Islamic political authority.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-140",
+      "q": "The Kellogg-Briand Pact renounced war as national policy in:",
+      "options": [
+        "1928",
+        "1919",
+        "1945",
+        "1938"
+      ],
+      "correct": 0,
+      "explanation": "The Kellogg-Briand Pact of 1928 renounced war as national policy, though without enforcement.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-141",
+      "q": "The Great Depression began with the Wall Street Crash in:",
+      "options": [
+        "1929",
+        "1932",
+        "1933",
+        "1939"
+      ],
+      "correct": 0,
+      "explanation": "The Great Depression began with the Wall Street Crash in 1929, triggering global economic collapse.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-142",
+      "q": "Adolf Hitler became Chancellor of Germany in:",
+      "options": [
+        "1933",
+        "1929",
+        "1939",
+        "1945"
+      ],
+      "correct": 0,
+      "explanation": "Hitler became Chancellor of Germany in 1933, marking the rise of Nazism.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-143",
+      "q": "World War II began with Germany's invasion of:",
+      "options": [
+        "Poland (September 1, 1939)",
+        "France (1940)",
+        "USSR (1941)",
+        "Belgium (1914)"
+      ],
+      "correct": 0,
+      "explanation": "WWII began with Germany's invasion of Poland on September 1, 1939.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-144",
+      "q": "The Battle of Britain (1940) was the first major air campaign with the RAF resisting:",
+      "options": [
+        "German Luftwaffe attacks",
+        "Italian naval raids",
+        "Japanese air strikes",
+        "Soviet bombing"
+      ],
+      "correct": 0,
+      "explanation": "The Battle of Britain in 1940 had the RAF resisting German Luftwaffe attacks.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-145",
+      "q": "Operation Barbarossa (1941) was Germany's invasion of:",
+      "options": [
+        "The Soviet Union",
+        "Britain",
+        "France",
+        "North Africa"
+      ],
+      "correct": 0,
+      "explanation": "Operation Barbarossa in 1941 was Germany's invasion of the Soviet Union, opening the Eastern Front.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-146",
+      "q": "Pearl Harbor brought America into WWII on:",
+      "options": [
+        "December 7, 1941",
+        "June 6, 1944",
+        "August 6, 1945",
+        "September 1, 1939"
+      ],
+      "correct": 0,
+      "explanation": "Japan's surprise attack on Pearl Harbor on December 7, 1941 brought America into WWII.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-147",
+      "q": "D-Day (Allied invasion of Normandy) occurred on:",
+      "options": [
+        "June 6, 1944",
+        "December 7, 1941",
+        "August 15, 1945",
+        "May 8, 1945"
+      ],
+      "correct": 0,
+      "explanation": "D-Day on June 6, 1944 saw Allied forces land in Normandy, beginning the liberation of Western Europe.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-148",
+      "q": "The first atomic bomb was dropped on Hiroshima on:",
+      "options": [
+        "August 6, 1945",
+        "August 9, 1945",
+        "September 2, 1945",
+        "July 16, 1945"
+      ],
+      "correct": 0,
+      "explanation": "The first atomic bomb was dropped on Hiroshima on August 6, 1945, killing over 140,000 people.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-149",
+      "q": "The second atomic bomb was dropped on:",
+      "options": [
+        "Nagasaki (August 9, 1945)",
+        "Tokyo",
+        "Osaka",
+        "Kyoto"
+      ],
+      "correct": 0,
+      "explanation": "The second atomic bomb was dropped on Nagasaki on August 9, 1945, accelerating Japan's surrender.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-150",
+      "q": "Germany surrendered, ending WWII in Europe, on:",
+      "options": [
+        "May 8, 1945 (V-E Day)",
+        "June 6, 1944",
+        "September 2, 1945",
+        "April 30, 1945"
+      ],
+      "correct": 0,
+      "explanation": "Germany surrendered unconditionally on May 8, 1945 (V-E Day), ending WWII in Europe.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-151",
+      "q": "The United Nations was established in:",
+      "options": [
+        "1945",
+        "1919",
+        "1948",
+        "1950"
+      ],
+      "correct": 0,
+      "explanation": "The United Nations was established in 1945 with 51 founding members to promote peace and security.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-152",
+      "q": "The Yalta Conference (February 1945) shaped postwar Europe and the framework of:",
+      "options": [
+        "The United Nations",
+        "NATO",
+        "The EU",
+        "The Warsaw Pact"
+      ],
+      "correct": 0,
+      "explanation": "The Yalta Conference shaped postwar Europe and the United Nations framework (February 1945).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-153",
+      "q": "The Cold War began as ideological rivalry between the U.S. and:",
+      "options": [
+        "Soviet Union (1947)",
+        "China (1949)",
+        "Britain (1945)",
+        "France (1948)"
+      ],
+      "correct": 0,
+      "explanation": "The Cold War began between the United States and the Soviet Union around 1947.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-154",
+      "q": "The Truman Doctrine (1947) pledged U.S. support to countries resisting:",
+      "options": [
+        "Communism",
+        "Fascism",
+        "Colonialism",
+        "Monarchy"
+      ],
+      "correct": 0,
+      "explanation": "The Truman Doctrine pledged U.S. support to countries resisting communism.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-155",
+      "q": "The Marshall Plan was launched to rebuild:",
+      "options": [
+        "War-torn Europe (1948)",
+        "Post-WWII Japan",
+        "Colonial Africa",
+        "South America"
+      ],
+      "correct": 0,
+      "explanation": "The Marshall Plan was launched in 1948 to rebuild war-torn Europe and counter Soviet influence.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-156",
+      "q": "NATO was formed as a Western military alliance in:",
+      "options": [
+        "1949",
+        "1945",
+        "1955",
+        "1948"
+      ],
+      "correct": 0,
+      "explanation": "NATO was formed in 1949 as a Western military alliance.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-157",
+      "q": "The People's Republic of China was proclaimed by Mao Zedong on:",
+      "options": [
+        "October 1, 1949",
+        "January 1, 1950",
+        "July 1, 1949",
+        "December 1, 1948"
+      ],
+      "correct": 0,
+      "explanation": "Mao Zedong proclaimed the People's Republic of China on October 1, 1949.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-158",
+      "q": "The Korean War began when North Korea invaded South Korea on:",
+      "options": [
+        "June 25, 1950",
+        "September 1, 1950",
+        "January 1, 1951",
+        "December 25, 1950"
+      ],
+      "correct": 0,
+      "explanation": "The Korean War began on June 25, 1950.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-159",
+      "q": "The Universal Declaration of Human Rights was adopted on:",
+      "options": [
+        "December 10, 1948",
+        "June 26, 1945",
+        "January 1, 1950",
+        "October 24, 1945"
+      ],
+      "correct": 0,
+      "explanation": "The UDHR was adopted by the UN General Assembly on December 10, 1948.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-160",
+      "q": "The State of Israel was proclaimed in:",
+      "options": [
+        "May 14, 1948",
+        "November 29, 1947",
+        "June 5, 1967",
+        "October 6, 1973"
+      ],
+      "correct": 0,
+      "explanation": "The State of Israel was proclaimed on May 14, 1948, sparking the first Arab-Israeli war.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-161",
+      "q": "The Suez Crisis erupted when Egypt nationalized the canal in:",
+      "options": [
+        "1956",
+        "1948",
+        "1967",
+        "1973"
+      ],
+      "correct": 0,
+      "explanation": "The Suez Crisis erupted in 1956 when Egypt nationalized the Suez Canal.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-162",
+      "q": "The Six-Day War (1967) saw Israel capture Sinai, Golan Heights, and:",
+      "options": [
+        "West Bank",
+        "Lebanon",
+        "Iraq",
+        "Saudi Arabia"
+      ],
+      "correct": 0,
+      "explanation": "The Six-Day War saw Israel capture Sinai, Golan Heights, and West Bank (1967).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-163",
+      "q": "The Cuban Missile Crisis (1962) brought the U.S. and USSR to the brink of:",
+      "options": [
+        "Nuclear war",
+        "Trade war",
+        "Space race",
+        "Conventional war"
+      ],
+      "correct": 0,
+      "explanation": "The Cuban Missile Crisis in 1962 brought the U.S. and USSR to the brink of nuclear war.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-164",
+      "q": "The Vietnam War escalated with U.S. involvement during:",
+      "options": [
+        "1955-1975",
+        "1945-1955",
+        "1960-1965 only",
+        "1970-1980"
+      ],
+      "correct": 0,
+      "explanation": "The Vietnam War escalated with U.S. involvement against communist North Vietnam (1955-1975).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-165",
+      "q": "The Berlin Wall fell in:",
+      "options": [
+        "1989",
+        "1991",
+        "1985",
+        "1987"
+      ],
+      "correct": 0,
+      "explanation": "The Berlin Wall fell in 1989, symbolizing the collapse of communist regimes in Eastern Europe.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-166",
+      "q": "The Soviet Union dissolved in:",
+      "options": [
+        "December 1991",
+        "January 1990",
+        "August 1991",
+        "March 1992"
+      ],
+      "correct": 0,
+      "explanation": "The Soviet Union dissolved in December 1991, creating 15 independent states.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-167",
+      "q": "Nelson Mandela became President of South Africa in:",
+      "options": [
+        "1994",
+        "1990",
+        "1991",
+        "1999"
+      ],
+      "correct": 0,
+      "explanation": "Mandela became President in 1994, institutionalizing post-apartheid democracy.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-168",
+      "q": "The Rwandan Genocide killed around 800,000 people in:",
+      "options": [
+        "1994",
+        "1991",
+        "1999",
+        "2000"
+      ],
+      "correct": 0,
+      "explanation": "The Rwandan Genocide killed around 800,000 people in 1994.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-169",
+      "q": "The Maastricht Treaty created the European Union in:",
+      "options": [
+        "1992",
+        "1989",
+        "1999",
+        "2002"
+      ],
+      "correct": 0,
+      "explanation": "The Maastricht Treaty created the European Union and set the path to the euro (1992).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-170",
+      "q": "The WTO was established in:",
+      "options": [
+        "1995",
+        "1990",
+        "2000",
+        "1985"
+      ],
+      "correct": 0,
+      "explanation": "The World Trade Organization was established in 1995, deepening rules-based global trade.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-171",
+      "q": "Hong Kong returned to China under 'One Country, Two Systems' in:",
+      "options": [
+        "1997",
+        "1999",
+        "1989",
+        "2001"
+      ],
+      "correct": 0,
+      "explanation": "Hong Kong returned to China in 1997, marking decolonization's late stage.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-172",
+      "q": "The 9/11 attacks triggered the U.S.-led War on Terror on:",
+      "options": [
+        "September 11, 2001",
+        "October 7, 2001",
+        "March 20, 2003",
+        "December 7, 2001"
+      ],
+      "correct": 0,
+      "explanation": "The 9/11 attacks on September 11, 2001 killed nearly 3,000 people and triggered the War on Terror.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-173",
+      "q": "The Arab Spring uprisings (2010-2011) toppled regimes in:",
+      "options": [
+        "Tunisia, Egypt, and Libya",
+        "Saudi Arabia and Iran",
+        "Turkey and Jordan",
+        "Pakistan and Afghanistan"
+      ],
+      "correct": 0,
+      "explanation": "The Arab Spring uprisings toppled regimes in Tunisia, Egypt, and Libya, and destabilized Yemen (2010-2011).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-174",
+      "q": "The Russia-Ukraine War began with a full-scale invasion on:",
+      "options": [
+        "February 24, 2022",
+        "March 1, 2022",
+        "January 1, 2022",
+        "December 2021"
+      ],
+      "correct": 0,
+      "explanation": "Russia launched a full-scale invasion of Ukraine on February 24, 2022.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-175",
+      "q": "COVID-19 pandemic caused unprecedented global shutdowns starting in:",
+      "options": [
+        "2019-2022",
+        "2017-2018",
+        "2020-2021 only",
+        "2018-2019"
+      ],
+      "correct": 0,
+      "explanation": "The COVID-19 pandemic emerged in late 2019, causing millions of deaths and unprecedented global shutdowns.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-176",
+      "q": "The United Arab Emirates (UAE) was formed in:",
+      "options": [
+        "1971",
+        "1960",
+        "1980",
+        "1956"
+      ],
+      "correct": 0,
+      "explanation": "The UAE was formed as a federation of seven emirates in 1971.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-177",
+      "q": "The Organization of Islamic Cooperation (OIC) was founded in:",
+      "options": [
+        "1969",
+        "1945",
+        "1979",
+        "1990"
+      ],
+      "correct": 0,
+      "explanation": "The OIC was founded in Rabat, Morocco in 1969.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-178",
+      "q": "Pakistan conducted its first nuclear tests at Chagai Hills on:",
+      "options": [
+        "May 28, 1998",
+        "May 11, 1998",
+        "August 14, 1998",
+        "March 23, 1998"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan conducted its first nuclear tests at Chagai Hills on May 28, 1998.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-179",
+      "q": "India conducted its first nuclear test at Pokhran in:",
+      "options": [
+        "1974",
+        "1998",
+        "1964",
+        "1980"
+      ],
+      "correct": 0,
+      "explanation": "India conducted its first nuclear test at Pokhran in 1974, declaring itself a nuclear power.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-180",
+      "q": "The Kargil conflict between Pakistan and India occurred in:",
+      "options": [
+        "1999",
+        "1998",
+        "2001",
+        "1995"
+      ],
+      "correct": 0,
+      "explanation": "The Kargil conflict saw high-altitude combat along the Line of Control (1999).",
+      "tags": []
+    },
+    {
+      "id": "earlyh-181",
+      "q": "Tipu Sultan fell at Seringapatam, ending Mysore's resistance to British power, in:",
+      "options": [
+        "1799",
+        "1757",
+        "1857",
+        "1818"
+      ],
+      "correct": 0,
+      "explanation": "Tipu Sultan fell at Seringapatam in 1799, ending Mysore's bid to check British power in southern India.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-182",
+      "q": "Mesopotamian Civilization developed along the Tigris-Euphrates rivers in present-day:",
+      "options": [
+        "Iraq",
+        "Iran",
+        "Syria",
+        "Turkey"
+      ],
+      "correct": 0,
+      "explanation": "Mesopotamian Civilization developed along the Tigris-Euphrates rivers in present-day Iraq.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-183",
+      "q": "Egyptian Civilization emerged along which river?",
+      "options": [
+        "Nile",
+        "Tigris",
+        "Euphrates",
+        "Jordan"
+      ],
+      "correct": 0,
+      "explanation": "Egyptian Civilization emerged along the River Nile in ancient Egypt.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-184",
+      "q": "The Indus Valley Civilization flourished in present-day:",
+      "options": [
+        "Pakistan and northwestern India",
+        "Iran and Afghanistan",
+        "China and Mongolia",
+        "Egypt and Sudan"
+      ],
+      "correct": 0,
+      "explanation": "The Indus Valley Civilization flourished in present-day Pakistan and northwestern India.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-185",
+      "q": "Chinese Civilization arose along which river?",
+      "options": [
+        "Yellow (Huang He) River",
+        "Yangtze River",
+        "Mekong River",
+        "Ganges River"
+      ],
+      "correct": 0,
+      "explanation": "Chinese Civilization arose along the Yellow (Huang He) River in present-day northern China.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-186",
+      "q": "The Gandhara Civilization flourished between the Indus and Jhelum Rivers under:",
+      "options": [
+        "Buddhist rulers in Punjab, Pakistan",
+        "Hindu rulers in South India",
+        "Chinese emperors",
+        "Persian kings"
+      ],
+      "correct": 0,
+      "explanation": "The Gandhara Civilization flourished between the Indus and Jhelum Rivers in Punjab and Khyber Pakhtunkhwa.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-187",
+      "q": "The Mauryan Civilization unified much of the Indian subcontinent under:",
+      "options": [
+        "Present-day India and Pakistan",
+        "China only",
+        "Persia only",
+        "Southeast Asia only"
+      ],
+      "correct": 0,
+      "explanation": "The Mauryan Civilization unified much of the Indian subcontinent, present-day India and Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-188",
+      "q": "The Mayan Civilization flourished in ancient Mesoamerica, present-day:",
+      "options": [
+        "Southern Mexico, Guatemala, and Honduras",
+        "Peru and Bolivia",
+        "Brazil and Argentina",
+        "North America"
+      ],
+      "correct": 0,
+      "explanation": "The Mayan Civilization flourished in present-day southern Mexico, Guatemala, and Honduras.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-189",
+      "q": "The Aztec Civilization dominated present-day:",
+      "options": [
+        "Central Mexico",
+        "Peru",
+        "Colombia",
+        "Argentina"
+      ],
+      "correct": 0,
+      "explanation": "The Aztec Civilization dominated central Mexico, present-day Mexico.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-190",
+      "q": "The Inca Civilization ruled the Andean highlands in present-day:",
+      "options": [
+        "Peru, Bolivia, Ecuador, and Chile",
+        "Mexico and Guatemala",
+        "Brazil and Argentina",
+        "Colombia and Venezuela"
+      ],
+      "correct": 0,
+      "explanation": "The Inca Civilization ruled the Andean highlands in present-day Peru, Bolivia, Ecuador, and Chile.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-191",
+      "q": "Mohenjo-Daro means:",
+      "options": [
+        "Mound of the Dead",
+        "City of Gold",
+        "Land of Rivers",
+        "House of Kings"
+      ],
+      "correct": 0,
+      "explanation": "Mohenjo-Daro, a principal city of the Indus Valley Civilization, means 'Mound of the Dead'.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-192",
+      "q": "The Indus Valley Civilization was scientifically identified in the 1920s by:",
+      "options": [
+        "Sir John Marshall",
+        "Howard Carter",
+        "Heinrich Schliemann",
+        "Arthur Evans"
+      ],
+      "correct": 0,
+      "explanation": "Major excavations were led by Sir John Marshall under British India in the 1920s.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-193",
+      "q": "Taxila University was one of the world's earliest centers of higher education, flourishing around:",
+      "options": [
+        "500 BCE",
+        "1000 BCE",
+        "200 CE",
+        "800 CE"
+      ],
+      "correct": 0,
+      "explanation": "Taxila University flourished around 500 BCE in present-day Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-194",
+      "q": "The Great Bath of Mohenjo-Daro represents the earliest known:",
+      "options": [
+        "Public water tank in history",
+        "Temple in South Asia",
+        "Library in the world",
+        "Observatory"
+      ],
+      "correct": 0,
+      "explanation": "The Great Bath of Mohenjo-Daro (c. 2500 BCE) is the earliest known public water tank.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-195",
+      "q": "Mehrgarh in present-day Balochistan, Pakistan dates back to c. 7000 BCE and is one of the world's:",
+      "options": [
+        "Earliest farming settlements",
+        "Oldest libraries",
+        "First iron smelting sites",
+        "Earliest democracies"
+      ],
+      "correct": 0,
+      "explanation": "Mehrgarh dates to c. 7000 BCE and is one of the world's earliest farming settlements.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-196",
+      "q": "The Great Pyramid of Giza is the only surviving:",
+      "options": [
+        "Wonder of the Ancient World",
+        "Egyptian temple",
+        "Pharaoh's tomb known",
+        "Mediterranean lighthouse"
+      ],
+      "correct": 0,
+      "explanation": "The Great Pyramid of Giza is the only surviving Wonder of the Ancient World.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-197",
+      "q": "The Sphinx of Giza represents ancient Egyptian mastery in:",
+      "options": [
+        "Monumental stone sculpture",
+        "Pottery",
+        "Textile weaving",
+        "Metal forging"
+      ],
+      "correct": 0,
+      "explanation": "The Sphinx of Giza represents ancient Egyptian mastery in monumental stone sculpture.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-198",
+      "q": "Angkor Wat in present-day Cambodia is the:",
+      "options": [
+        "Largest religious monument in the world",
+        "Oldest temple in Asia",
+        "Tallest ancient building",
+        "First stone structure"
+      ],
+      "correct": 0,
+      "explanation": "Angkor Wat is the largest religious monument in the world.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-199",
+      "q": "The Terracotta Army in Xi'an, China was built to guard the tomb of:",
+      "options": [
+        "Emperor Qin Shi Huang",
+        "Confucius",
+        "Kublai Khan",
+        "Sun Tzu"
+      ],
+      "correct": 0,
+      "explanation": "The Terracotta Army guards the tomb of Emperor Qin Shi Huang, first emperor of unified China.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-200",
+      "q": "The Great Wall of China, extending over 21,000 km, was constructed to defend against:",
+      "options": [
+        "Northern invaders",
+        "Naval attacks",
+        "Southern tribes",
+        "Western empires"
+      ],
+      "correct": 0,
+      "explanation": "The Great Wall was constructed to defend against invasions from the north.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-201",
+      "q": "Machu Picchu, built by the Incas, is located in present-day:",
+      "options": [
+        "Peru",
+        "Bolivia",
+        "Ecuador",
+        "Colombia"
+      ],
+      "correct": 0,
+      "explanation": "Machu Picchu is located in present-day Peru, high in the Andes Mountains.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-202",
+      "q": "Persepolis was the ceremonial capital of the:",
+      "options": [
+        "Achaemenid Persian Empire",
+        "Roman Empire",
+        "Byzantine Empire",
+        "Ottoman Empire"
+      ],
+      "correct": 0,
+      "explanation": "Persepolis in present-day Iran was the ceremonial capital of the Achaemenid Persian Empire.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-203",
+      "q": "Stonehenge in England dates to around:",
+      "options": [
+        "3000 BCE",
+        "1000 BCE",
+        "500 CE",
+        "2000 CE"
+      ],
+      "correct": 0,
+      "explanation": "Stonehenge dates to around 3000 BCE and was possibly used for astronomical or ritual purposes.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-204",
+      "q": "Lascaux Caves in France are famous for:",
+      "options": [
+        "Prehistoric paintings dating back 17,000 years",
+        "Ancient manuscripts",
+        "Bronze Age tools",
+        "Roman mosaics"
+      ],
+      "correct": 0,
+      "explanation": "Lascaux Caves preserve prehistoric paintings dating back about 17,000 years.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-205",
+      "q": "Borobudur in Indonesia is the world's largest:",
+      "options": [
+        "Buddhist temple complex",
+        "Hindu temple",
+        "Mosque",
+        "Cathedral"
+      ],
+      "correct": 0,
+      "explanation": "Borobudur in present-day Indonesia is the world's largest Buddhist temple complex.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-206",
+      "q": "Chichen Itza in Mexico features the Temple of Kukulcan, reflecting advanced:",
+      "options": [
+        "Mayan astronomy",
+        "Roman engineering",
+        "Egyptian mathematics",
+        "Chinese philosophy"
+      ],
+      "correct": 0,
+      "explanation": "Chichen Itza reflects advanced Mayan astronomy and calendar systems.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-207",
+      "q": "Göbekli Tepe in Türkiye, built around 9600 BCE, is the world's oldest known:",
+      "options": [
+        "Temple complex",
+        "City",
+        "Library",
+        "Palace"
+      ],
+      "correct": 0,
+      "explanation": "Göbekli Tepe (c. 9600 BCE) is the world's oldest known temple complex.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-208",
+      "q": "Pompeii, destroyed by Mount Vesuvius in 79 CE, provides insight into daily:",
+      "options": [
+        "Roman life",
+        "Greek life",
+        "Egyptian life",
+        "Persian life"
+      ],
+      "correct": 0,
+      "explanation": "Pompeii was destroyed by Vesuvius in 79 CE, preserving a snapshot of daily Roman life.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-209",
+      "q": "The Acropolis of Athens, crowned by the Parthenon, symbolizes:",
+      "options": [
+        "Classical Greek civilization",
+        "Roman engineering",
+        "Egyptian architecture",
+        "Persian art"
+      ],
+      "correct": 0,
+      "explanation": "The Acropolis of Athens symbolizes Classical Greek civilization.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-210",
+      "q": "Troy was an ancient city in present-day Türkiye associated with:",
+      "options": [
+        "The Trojan War",
+        "The Persian Wars",
+        "The Punic Wars",
+        "The Crusades"
+      ],
+      "correct": 0,
+      "explanation": "Troy in present-day Türkiye dates to c. 3000 BCE and is associated with the Trojan War.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-211",
+      "q": "Petra, a Nabataean rock-cut city, is in present-day:",
+      "options": [
+        "Jordan",
+        "Egypt",
+        "Syria",
+        "Lebanon"
+      ],
+      "correct": 0,
+      "explanation": "Petra is a Nabataean rock-cut city with rose-red cliffs in present-day Jordan.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-212",
+      "q": "Altamira Caves in Spain are famous for:",
+      "options": [
+        "Paleolithic animal art",
+        "Greek sculptures",
+        "Roman frescoes",
+        "Medieval manuscripts"
+      ],
+      "correct": 0,
+      "explanation": "Altamira Caves in present-day Spain are famous for Paleolithic animal art.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-213",
+      "q": "The ruins of Mohenjo-Daro are located in:",
+      "options": [
+        "District Larkana, Sindh, Pakistan",
+        "District Lahore, Punjab, Pakistan",
+        "Rajasthan, India",
+        "Gujarat, India"
+      ],
+      "correct": 0,
+      "explanation": "The ruins of Mohenjo-Daro are located in District Larkana, Sindh, Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-214",
+      "q": "Kot Diji, a pre-Harappan archaeological site near Khairpur, Sindh, was discovered in:",
+      "options": [
+        "1955",
+        "1920",
+        "1890",
+        "1970"
+      ],
+      "correct": 0,
+      "explanation": "Kot Diji, dating to around 3300 BCE, is a pre-Harappan site discovered in 1955.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-215",
+      "q": "Babylon, located in present-day Iraq, was associated with:",
+      "options": [
+        "The Hanging Gardens",
+        "The Colossus",
+        "The Lighthouse",
+        "The Mausoleum"
+      ],
+      "correct": 0,
+      "explanation": "Babylon was a major Mesopotamian city associated with the Hanging Gardens, one of the ancient wonders.",
+      "tags": []
+    },
+    {
+      "id": "earlyh-216",
+      "q": "The Ziggurat of Ur in present-day Iraq is one of the best-preserved:",
+      "options": [
+        "Religious monuments of ancient Mesopotamia",
+        "Roman temples",
+        "Greek theaters",
+        "Egyptian tombs"
+      ],
+      "correct": 0,
+      "explanation": "The Ziggurat of Ur is one of the best-preserved religious monuments of ancient Mesopotamia.",
+      "tags": []
+    }
+  ]
+}

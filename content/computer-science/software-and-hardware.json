@@ -1,0 +1,583 @@
+{
+  "topic_id": "software-and-hardware",
+  "topic_name": "Software & Hardware",
+  "subject": "computer-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Software & Hardware MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🧰",
+  "mcqs": [
+    {
+      "id": "softwa-001",
+      "q": "What are the physical components of a computer system called?",
+      "options": [
+        "Software",
+        "Hardware",
+        "Firmware",
+        "Middleware"
+      ],
+      "correct": 1,
+      "explanation": "The physical components of a computer system are called hardware — they are the parts you can see and touch.",
+      "tags": []
+    },
+    {
+      "id": "softwa-002",
+      "q": "A collection of programs designed for a specific need is called:",
+      "options": [
+        "Hardware",
+        "Software",
+        "Driver",
+        "Cable"
+      ],
+      "correct": 1,
+      "explanation": "A collection of programs designed for a specific need is called software.",
+      "tags": []
+    },
+    {
+      "id": "softwa-003",
+      "q": "Which of the following is hardware?",
+      "options": [
+        "MS Word",
+        "Operating system",
+        "Keyboard",
+        "Antivirus"
+      ],
+      "correct": 2,
+      "explanation": "Keyboard is hardware — a physical input device. MS Word, OS and Antivirus are all software.",
+      "tags": []
+    },
+    {
+      "id": "softwa-004",
+      "q": "Which of the following is software?",
+      "options": [
+        "Mouse",
+        "CPU",
+        "Operating System",
+        "Printer"
+      ],
+      "correct": 2,
+      "explanation": "An Operating System is software. Mouse, CPU and Printer are hardware.",
+      "tags": []
+    },
+    {
+      "id": "softwa-005",
+      "q": "Software can be divided into how many main types (application, system, general purpose)?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 1,
+      "explanation": "Software can be divided into three types — application, system and general purpose software.",
+      "tags": []
+    },
+    {
+      "id": "softwa-006",
+      "q": "Which of the following is NOT considered hardware?",
+      "options": [
+        "Keyboard",
+        "RAM",
+        "CPU",
+        "Operating System"
+      ],
+      "correct": 3,
+      "explanation": "Operating System is software — not hardware. Keyboard, RAM and CPU are hardware components.",
+      "tags": []
+    },
+    {
+      "id": "softwa-007",
+      "q": "Where in Windows do you find the 'Add new hardware' option?",
+      "options": [
+        "Start menu only",
+        "Control Panel",
+        "Recycle Bin",
+        "Task Manager"
+      ],
+      "correct": 1,
+      "explanation": "The 'Add new hardware' option is found in the Control Panel.",
+      "tags": []
+    },
+    {
+      "id": "softwa-008",
+      "q": "A hard disk drive (HDD) is what type of storage?",
+      "options": [
+        "Volatile",
+        "Non-volatile",
+        "Optical",
+        "Cache"
+      ],
+      "correct": 1,
+      "explanation": "A hard disk drive is a non-volatile data storage device — it retains its data even when power is off.",
+      "tags": []
+    },
+    {
+      "id": "softwa-009",
+      "q": "A set of instructions that directs a computer's hardware to perform a task is called:",
+      "options": [
+        "A circuit",
+        "A programme (software programme)",
+        "A keyboard shortcut",
+        "A power supply"
+      ],
+      "correct": 1,
+      "explanation": "A set of instructions that directs a computer's hardware to perform a task is called a programme or software programme.",
+      "tags": []
+    },
+    {
+      "id": "softwa-010",
+      "q": "What is the conventional designation for pre-released software?",
+      "options": [
+        "Alpha",
+        "Beta",
+        "Gamma",
+        "Delta"
+      ],
+      "correct": 1,
+      "explanation": "Beta is the conventional designation for pre-released software — it follows the alpha stage and precedes the final release.",
+      "tags": []
+    },
+    {
+      "id": "softwa-011",
+      "q": "A device driver is:",
+      "options": [
+        "A type of hardware",
+        "A software programme that controls a particular type of hardware device",
+        "A type of cable",
+        "A printer model"
+      ],
+      "correct": 1,
+      "explanation": "A device driver is a software programme that controls a particular type of hardware device attached to a computer.",
+      "tags": []
+    },
+    {
+      "id": "softwa-012",
+      "q": "What are the two main types of software?",
+      "options": [
+        "System software and application software",
+        "Hardware and software",
+        "Free and paid software",
+        "Online and offline software"
+      ],
+      "correct": 0,
+      "explanation": "The two main types of software are system software and application software.",
+      "tags": []
+    },
+    {
+      "id": "softwa-013",
+      "q": "Which of the following is part of system software?",
+      "options": [
+        "MS Word",
+        "Device drivers, OS, compilers, disk formatters, text editors, utilities",
+        "Image viewer",
+        "Web browser"
+      ],
+      "correct": 1,
+      "explanation": "System software includes device drivers, operating systems, compilers, disk formatters, text editors and utilities — all of which help the computer operate efficiently.",
+      "tags": []
+    },
+    {
+      "id": "softwa-014",
+      "q": "What is the main role of system software?",
+      "options": [
+        "Playing games",
+        "Controlling, integrating and managing the individual hardware components",
+        "Drawing pictures",
+        "Browsing the internet"
+      ],
+      "correct": 1,
+      "explanation": "System software is responsible for controlling, integrating and managing the individual hardware components of a computer system.",
+      "tags": []
+    },
+    {
+      "id": "softwa-015",
+      "q": "Application software is used to:",
+      "options": [
+        "Run the computer system",
+        "Accomplish specific tasks other than running the computer system",
+        "Replace hardware",
+        "Format disks"
+      ],
+      "correct": 1,
+      "explanation": "Application software is used to accomplish specific tasks other than just running the computer system — e.g. an image viewer, a browser, a word processor.",
+      "tags": []
+    },
+    {
+      "id": "softwa-016",
+      "q": "Which of the following is NOT an application software?",
+      "options": [
+        "MS Word",
+        "Image viewer",
+        "Web browser",
+        "Windows XP"
+      ],
+      "correct": 3,
+      "explanation": "Windows XP is NOT application software — it is an operating system (system software). MS Word, image viewer and web browser are application software.",
+      "tags": []
+    },
+    {
+      "id": "softwa-017",
+      "q": "Which type of software is used for storing, manipulating and managing data in a database environment?",
+      "options": [
+        "DBMS",
+        "Spreadsheet",
+        "Word processor",
+        "Antivirus"
+      ],
+      "correct": 0,
+      "explanation": "A Database Management Software (DBMS) is used for storing, manipulating and managing data — including format, names of fields, record and file structures.",
+      "tags": []
+    },
+    {
+      "id": "softwa-018",
+      "q": "Which type of software contains rows and columns?",
+      "options": [
+        "Word processor",
+        "Spreadsheet",
+        "Web browser",
+        "Antivirus"
+      ],
+      "correct": 1,
+      "explanation": "Spreadsheet software contains rows and columns and is used for calculations — e.g. MS Excel, Lotus 1-2-3, Quattro Pro.",
+      "tags": []
+    },
+    {
+      "id": "softwa-019",
+      "q": "Which of the following is graphic software used for?",
+      "options": [
+        "Sending email",
+        "Drawing pictures, 3D images and animation",
+        "Calculating taxes",
+        "Browsing the internet"
+      ],
+      "correct": 1,
+      "explanation": "Graphic software is used to draw pictures, 3D images and animation — e.g. Adobe Photoshop, CorelDRAW.",
+      "tags": []
+    },
+    {
+      "id": "softwa-020",
+      "q": "Multimedia software is used to:",
+      "options": [
+        "Calculate spreadsheets",
+        "Create visual presentations with audio and video clips",
+        "Print documents",
+        "Defragment hard disks"
+      ],
+      "correct": 1,
+      "explanation": "Multimedia software is used to create visual presentations with the help of audio and video clips.",
+      "tags": []
+    },
+    {
+      "id": "softwa-021",
+      "q": "Which of the following are examples of multimedia software?",
+      "options": [
+        "MS Excel and Lotus 1-2-3",
+        "Adobe Flash and MS PowerPoint",
+        "Notepad and Wordpad",
+        "Antivirus and Firewall"
+      ],
+      "correct": 1,
+      "explanation": "Adobe Flash and MS PowerPoint are examples of multimedia software.",
+      "tags": []
+    },
+    {
+      "id": "softwa-022",
+      "q": "Windows Media Player is an example of:",
+      "options": [
+        "System software",
+        "Spreadsheet software",
+        "Entertainment software",
+        "DBMS"
+      ],
+      "correct": 2,
+      "explanation": "Windows Media Player is entertainment software — designed for leisure and media playback.",
+      "tags": []
+    },
+    {
+      "id": "softwa-023",
+      "q": "Which of the following are spreadsheet software?",
+      "options": [
+        "MS Excel, Lotus 1-2-3, Corel Quattro Pro",
+        "MS Word, Notepad, Wordpad",
+        "Photoshop, CorelDRAW",
+        "Chrome, Firefox, Edge"
+      ],
+      "correct": 0,
+      "explanation": "MS Excel, Lotus 1-2-3 and Corel's Quattro Pro are examples of spreadsheet software.",
+      "tags": []
+    },
+    {
+      "id": "softwa-024",
+      "q": "Which is the biggest computer software company in the world?",
+      "options": [
+        "Apple",
+        "Microsoft",
+        "Oracle",
+        "IBM"
+      ],
+      "correct": 1,
+      "explanation": "Microsoft is the biggest computer software company in the world.",
+      "tags": []
+    },
+    {
+      "id": "softwa-025",
+      "q": "A virtual printer is:",
+      "options": [
+        "A physical inkjet printer",
+        "Computer software whose user interface and API resembles that of a printer driver",
+        "A 3D printer model",
+        "A scanner"
+      ],
+      "correct": 1,
+      "explanation": "A virtual printer is computer software whose user interface and API resembles that of a printer driver — e.g. PDF Creator.",
+      "tags": []
+    },
+    {
+      "id": "softwa-026",
+      "q": "Reference software emulates and expands upon print reference forms such as:",
+      "options": [
+        "Spreadsheets and word processors",
+        "Dictionary, translation dictionary, encyclopedia, thesaurus and atlas",
+        "Browsers and email clients",
+        "Games and movies"
+      ],
+      "correct": 1,
+      "explanation": "Reference software emulates and expands upon print reference forms including dictionary, translation dictionary, encyclopedia, thesaurus and atlas.",
+      "tags": []
+    },
+    {
+      "id": "softwa-027",
+      "q": "Which of the following is an example of reference software?",
+      "options": [
+        "MS Word",
+        "Encyclopedia",
+        "Photoshop",
+        "Adobe Flash"
+      ],
+      "correct": 1,
+      "explanation": "Encyclopedia is an example of reference software.",
+      "tags": []
+    },
+    {
+      "id": "softwa-028",
+      "q": "A computer virus is best described as:",
+      "options": [
+        "A type of hardware",
+        "A malicious software programme loaded onto a user's computer without their knowledge",
+        "A printer driver",
+        "A web browser"
+      ],
+      "correct": 1,
+      "explanation": "A computer virus is a malicious software programme loaded onto a user's computer without their knowledge that performs malicious actions.",
+      "tags": []
+    },
+    {
+      "id": "softwa-029",
+      "q": "Which of the following is system software?",
+      "options": [
+        "MS Word",
+        "MS Excel",
+        "Operating system",
+        "MS PowerPoint"
+      ],
+      "correct": 2,
+      "explanation": "An Operating system is system software. MS Word, MS Excel and MS PowerPoint are application software.",
+      "tags": []
+    },
+    {
+      "id": "softwa-030",
+      "q": "Examples of computer hardware include:",
+      "options": [
+        "MS Word and Photoshop",
+        "Keyboard, Mouse, Printer, CPU and RAM",
+        "Operating System and antivirus",
+        "Web browsers"
+      ],
+      "correct": 1,
+      "explanation": "Examples of computer hardware include Keyboard, Mouse, Printer, CPU and RAM — all physical components.",
+      "tags": []
+    },
+    {
+      "id": "softwa-031",
+      "q": "Input devices, processing unit, output devices and auxiliary storage devices are collectively called:",
+      "options": [
+        "Software",
+        "Hardware",
+        "Firmware",
+        "Drivers"
+      ],
+      "correct": 1,
+      "explanation": "Input devices, processing unit, output devices and auxiliary storage devices are all classified as hardware.",
+      "tags": []
+    },
+    {
+      "id": "softwa-032",
+      "q": "Which of the following is a hardware company of computers?",
+      "options": [
+        "Dell",
+        "Microsoft",
+        "Adobe",
+        "Oracle"
+      ],
+      "correct": 0,
+      "explanation": "Dell is a hardware company of computers. Microsoft, Adobe and Oracle are primarily software companies.",
+      "tags": []
+    },
+    {
+      "id": "softwa-033",
+      "q": "Which is the largest hardware company of computers?",
+      "options": [
+        "Dell",
+        "HP",
+        "Lenovo",
+        "Apple"
+      ],
+      "correct": 1,
+      "explanation": "HP (Hewlett-Packard) is the largest hardware company of computers.",
+      "tags": []
+    },
+    {
+      "id": "softwa-034",
+      "q": "What can hardware be best described as?",
+      "options": [
+        "Anything visible only on screen",
+        "Physical parts of the computer that we can see and touch",
+        "A set of instructions",
+        "A network protocol"
+      ],
+      "correct": 1,
+      "explanation": "Hardware refers to the physical parts of the computer that we can see and touch.",
+      "tags": []
+    },
+    {
+      "id": "softwa-035",
+      "q": "A hard disk drive is classified as:",
+      "options": [
+        "Volatile memory",
+        "Non-volatile data storage device",
+        "An input device",
+        "An output device"
+      ],
+      "correct": 1,
+      "explanation": "A hard disk drive is a non-volatile data storage device.",
+      "tags": []
+    },
+    {
+      "id": "softwa-036",
+      "q": "How many main types of Machine Learning are there?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 1,
+      "explanation": "There are three main types of Machine Learning: Supervised Learning, Unsupervised Learning and Reinforcement Learning.",
+      "tags": []
+    },
+    {
+      "id": "softwa-037",
+      "q": "Image classification and identity fraud detection are typical applications of:",
+      "options": [
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Reinforcement Learning",
+        "Deep Reinforcement Learning"
+      ],
+      "correct": 0,
+      "explanation": "Image classification and identity fraud detection are typical applications of Supervised Learning.",
+      "tags": []
+    },
+    {
+      "id": "softwa-038",
+      "q": "Customer segmentation and clustering are applications of:",
+      "options": [
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Reinforcement Learning",
+        "Deep Learning"
+      ],
+      "correct": 1,
+      "explanation": "Customer segmentation and clustering are key applications of Unsupervised Learning.",
+      "tags": []
+    },
+    {
+      "id": "softwa-039",
+      "q": "Game AI, robot navigation and real-time decisions are applications of:",
+      "options": [
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Reinforcement Learning",
+        "DBMS"
+      ],
+      "correct": 2,
+      "explanation": "Game AI, robot navigation and real-time decisions are typical applications of Reinforcement Learning.",
+      "tags": []
+    },
+    {
+      "id": "softwa-040",
+      "q": "Recommender Systems are an application of which type of ML?",
+      "options": [
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Reinforcement Learning",
+        "Quantum Learning"
+      ],
+      "correct": 1,
+      "explanation": "Recommender Systems are an application of Unsupervised Learning — finding patterns and groupings without labelled data.",
+      "tags": []
+    },
+    {
+      "id": "softwa-041",
+      "q": "Weather forecasting and market forecasting are typically:",
+      "options": [
+        "Supervised Learning tasks",
+        "Unsupervised Learning tasks",
+        "Reinforcement Learning tasks",
+        "Database tasks"
+      ],
+      "correct": 0,
+      "explanation": "Weather forecasting and market forecasting are typical Supervised Learning tasks (regression problems).",
+      "tags": []
+    },
+    {
+      "id": "softwa-042",
+      "q": "Big Data Visualisation, Dimensionality Reduction and Meaningful Compression are applications of:",
+      "options": [
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Reinforcement Learning",
+        "DBMS"
+      ],
+      "correct": 1,
+      "explanation": "Big Data Visualisation, Dimensionality Reduction and Meaningful Compression are applications of Unsupervised Learning.",
+      "tags": []
+    },
+    {
+      "id": "softwa-043",
+      "q": "Skill acquisition and learning tasks (where an agent improves over time) are applications of:",
+      "options": [
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Reinforcement Learning",
+        "Static Learning"
+      ],
+      "correct": 2,
+      "explanation": "Skill acquisition and learning tasks where an agent improves over time are applications of Reinforcement Learning.",
+      "tags": []
+    },
+    {
+      "id": "softwa-044",
+      "q": "Diagnostics, Customer Retention and Estimating Life Expectancy are typical applications of:",
+      "options": [
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Reinforcement Learning",
+        "Manual classification"
+      ],
+      "correct": 0,
+      "explanation": "Diagnostics, Customer Retention and Estimating Life Expectancy are typical Supervised Learning applications.",
+      "tags": []
+    }
+  ]
+}

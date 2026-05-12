@@ -1,0 +1,8 @@
+{
+  "name": "English",
+  "icon": "📖",
+  "order": 7,
+  "description": "Grammar, vocabulary, synonyms, antonyms, idioms, prepositions & comprehension.",
+  "color": "#be185d",
+  "placeholder": true
+}

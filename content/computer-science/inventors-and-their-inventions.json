@@ -1,0 +1,726 @@
+{
+  "topic_id": "inventors-and-their-inventions",
+  "topic_name": "Inventors & Their Inventions",
+  "subject": "computer-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Inventors & Their Inventions MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "💡",
+  "mcqs": [
+    {
+      "id": "invent-001",
+      "q": "Who developed ARPANET?",
+      "options": [
+        "DARPA",
+        "NASA",
+        "IBM",
+        "CERN"
+      ],
+      "correct": 0,
+      "explanation": "ARPANET was developed by DARPA (Defense Advanced Research Projects Agency) — the predecessor of the modern Internet.",
+      "tags": []
+    },
+    {
+      "id": "invent-002",
+      "q": "Who is the developer of Computer Graphics?",
+      "options": [
+        "John Whitney",
+        "William Fetter",
+        "Ivan Sutherland",
+        "Ray Kurzweil"
+      ],
+      "correct": 1,
+      "explanation": "William Fetter is credited as the developer of Computer Graphics — he coined the term 'computer graphics' in 1960.",
+      "tags": []
+    },
+    {
+      "id": "invent-003",
+      "q": "Who developed ENIAC?",
+      "options": [
+        "Charles Babbage",
+        "John Mauchly &amp; J. Presper Eckert",
+        "Konrad Zuse",
+        "Alan Turing"
+      ],
+      "correct": 1,
+      "explanation": "ENIAC was developed by John Mauchly and J. Presper Eckert.",
+      "tags": []
+    },
+    {
+      "id": "invent-004",
+      "q": "Who developed UNIVAC?",
+      "options": [
+        "John Mauchly &amp; J. Presper Eckert",
+        "Charles Babbage",
+        "Bill Gates",
+        "Steve Jobs"
+      ],
+      "correct": 0,
+      "explanation": "UNIVAC — the first commercial computer — was developed by John Mauchly and J. Presper Eckert.",
+      "tags": []
+    },
+    {
+      "id": "invent-005",
+      "q": "Who is the Father of the C language?",
+      "options": [
+        "Bjarne Stroustrup",
+        "Dennis Ritchie",
+        "James Gosling",
+        "Ken Thompson"
+      ],
+      "correct": 1,
+      "explanation": "Dennis Ritchie is the Father of the C programming language — he developed it at AT&amp;T in 1972.",
+      "tags": []
+    },
+    {
+      "id": "invent-006",
+      "q": "Who is the Father of the C++ language?",
+      "options": [
+        "Dennis Ritchie",
+        "Bjarne Stroustrup",
+        "James Gosling",
+        "Anders Hejlsberg"
+      ],
+      "correct": 1,
+      "explanation": "Bjarne Stroustrup is the Father of C++ — he developed it at AT&amp;T in the mid-1980s.",
+      "tags": []
+    },
+    {
+      "id": "invent-007",
+      "q": "Who is the Father of Java?",
+      "options": [
+        "James A. Gosling",
+        "Bjarne Stroustrup",
+        "Linus Torvalds",
+        "Guido van Rossum"
+      ],
+      "correct": 0,
+      "explanation": "James A. Gosling is the Father of Java — he designed it at Sun Microsystems in the early 1990s.",
+      "tags": []
+    },
+    {
+      "id": "invent-008",
+      "q": "Who is the Father of Computer?",
+      "options": [
+        "Alan Turing",
+        "Charles Babbage",
+        "John von Neumann",
+        "Bill Gates"
+      ],
+      "correct": 1,
+      "explanation": "Charles Babbage is the Father of Computer — he designed the Difference Engine and Analytical Engine.",
+      "tags": []
+    },
+    {
+      "id": "invent-009",
+      "q": "Who is the Father of Computer Animations?",
+      "options": [
+        "John Whitney",
+        "William Fetter",
+        "Walt Disney",
+        "Tim Berners-Lee"
+      ],
+      "correct": 0,
+      "explanation": "John Whitney is regarded as the Father of Computer Animations.",
+      "tags": []
+    },
+    {
+      "id": "invent-010",
+      "q": "Who is the Father of the Computer Hard Disk?",
+      "options": [
+        "Reynold Johnson",
+        "Steve Jobs",
+        "Bill Gates",
+        "Edgar Codd"
+      ],
+      "correct": 0,
+      "explanation": "Reynold Johnson is the Father of the Computer Hard Disk — he led the team that built the first hard disk drive at IBM.",
+      "tags": []
+    },
+    {
+      "id": "invent-011",
+      "q": "Who is the Father of jQuery?",
+      "options": [
+        "John Resig",
+        "Brendan Eich",
+        "James Gosling",
+        "Linus Torvalds"
+      ],
+      "correct": 0,
+      "explanation": "John Resig is the Father of jQuery — the popular JavaScript library.",
+      "tags": []
+    },
+    {
+      "id": "invent-012",
+      "q": "Who is the Founder of Artificial Intelligence?",
+      "options": [
+        "Alan Turing",
+        "John McCarthy",
+        "Marvin Minsky",
+        "Edward Feigenbaum"
+      ],
+      "correct": 1,
+      "explanation": "John McCarthy is the Founder of Artificial Intelligence — he coined the term 'AI' in 1956 at the Dartmouth Conference.",
+      "tags": []
+    },
+    {
+      "id": "invent-013",
+      "q": "Who founded Apple Computers?",
+      "options": [
+        "Steve Jobs",
+        "Bill Gates",
+        "Larry Page",
+        "Tim Berners-Lee"
+      ],
+      "correct": 0,
+      "explanation": "Steve Jobs is the founder of Apple Computers (with Steve Wozniak).",
+      "tags": []
+    },
+    {
+      "id": "invent-014",
+      "q": "Who created Bluetooth technology?",
+      "options": [
+        "Apple",
+        "Ericsson",
+        "Microsoft",
+        "Nokia"
+      ],
+      "correct": 1,
+      "explanation": "Bluetooth was created by Ericsson in 1994 — originally as a wireless alternative to RS-232 cables.",
+      "tags": []
+    },
+    {
+      "id": "invent-015",
+      "q": "In which year was Bluetooth created?",
+      "options": [
+        "1984",
+        "1994",
+        "2004",
+        "2014"
+      ],
+      "correct": 1,
+      "explanation": "Bluetooth wireless technology was created by Ericsson in 1994.",
+      "tags": []
+    },
+    {
+      "id": "invent-016",
+      "q": "Who is credited as the founder of Email?",
+      "options": [
+        "Tim Berners-Lee",
+        "Shiva Ayyadurai",
+        "Ray Tomlinson",
+        "Vint Cerf"
+      ],
+      "correct": 1,
+      "explanation": "Per the source material, Shiva Ayyadurai is credited as the founder of Email. (Ray Tomlinson is also credited with the 1971 first network email.)",
+      "tags": []
+    },
+    {
+      "id": "invent-017",
+      "q": "Who founded Google?",
+      "options": [
+        "Bill Gates &amp; Paul Allen",
+        "Larry Page &amp; Sergey Brin",
+        "Steve Jobs &amp; Steve Wozniak",
+        "Jerry Yang &amp; David Filo"
+      ],
+      "correct": 1,
+      "explanation": "Google was founded by Larry Page and Sergey Brin in 1998.",
+      "tags": []
+    },
+    {
+      "id": "invent-018",
+      "q": "Who is regarded as the founder of the Internet (TCP/IP)?",
+      "options": [
+        "Tim Berners-Lee",
+        "Vint Cerf",
+        "Linus Torvalds",
+        "Bill Gates"
+      ],
+      "correct": 1,
+      "explanation": "Vint Cerf is regarded as the founder of the Internet — he co-developed TCP/IP.",
+      "tags": []
+    },
+    {
+      "id": "invent-019",
+      "q": "Who invented the computer keyboard?",
+      "options": [
+        "Christopher Latham Sholes",
+        "Douglas Engelbart",
+        "Charles Babbage",
+        "Bill Gates"
+      ],
+      "correct": 0,
+      "explanation": "Christopher Latham Sholes invented the computer keyboard (the QWERTY layout).",
+      "tags": []
+    },
+    {
+      "id": "invent-020",
+      "q": "Who founded Linux?",
+      "options": [
+        "Linus Torvalds",
+        "Richard Stallman",
+        "Bill Gates",
+        "Steve Jobs"
+      ],
+      "correct": 0,
+      "explanation": "Linus Torvalds founded the Linux operating system in 1991.",
+      "tags": []
+    },
+    {
+      "id": "invent-021",
+      "q": "Who founded Microsoft?",
+      "options": [
+        "Bill Gates &amp; Paul Allen",
+        "Steve Jobs &amp; Steve Wozniak",
+        "Larry Page &amp; Sergey Brin",
+        "Jerry Yang &amp; David Filo"
+      ],
+      "correct": 0,
+      "explanation": "Microsoft was founded by Bill Gates and Paul Allen in 1975.",
+      "tags": []
+    },
+    {
+      "id": "invent-022",
+      "q": "Who invented the mobile phone?",
+      "options": [
+        "Steve Jobs",
+        "Martin Cooper",
+        "Bill Gates",
+        "Tim Berners-Lee"
+      ],
+      "correct": 1,
+      "explanation": "Martin Cooper is credited with inventing the mobile phone — he made the first cellular phone call in 1973.",
+      "tags": []
+    },
+    {
+      "id": "invent-023",
+      "q": "Who invented the computer mouse?",
+      "options": [
+        "Douglas Engelbart &amp; René Sommer",
+        "Steve Jobs",
+        "Bill Gates",
+        "Charles Babbage"
+      ],
+      "correct": 0,
+      "explanation": "The computer mouse was invented by Douglas Engelbart (with hardware help from René Sommer).",
+      "tags": []
+    },
+    {
+      "id": "invent-024",
+      "q": "Who is the founder of PHP?",
+      "options": [
+        "Rasmus Lerdorf",
+        "Brendan Eich",
+        "Linus Torvalds",
+        "Guido van Rossum"
+      ],
+      "correct": 0,
+      "explanation": "Rasmus Lerdorf is the founder of PHP — first released in 1995.",
+      "tags": []
+    },
+    {
+      "id": "invent-025",
+      "q": "Who invented the USB?",
+      "options": [
+        "Steve Jobs",
+        "Ajay V. Bhatt",
+        "Bill Gates",
+        "Tim Berners-Lee"
+      ],
+      "correct": 1,
+      "explanation": "Ajay V. Bhatt — an Indian-American computer architect at Intel — invented the USB (Universal Serial Bus).",
+      "tags": []
+    },
+    {
+      "id": "invent-026",
+      "q": "Who is the founder of the World Wide Web (WWW)?",
+      "options": [
+        "Tim Berners-Lee",
+        "Vint Cerf",
+        "Linus Torvalds",
+        "Bill Gates"
+      ],
+      "correct": 0,
+      "explanation": "Tim Berners-Lee is the founder of the World Wide Web (WWW) — invented in 1989 at CERN.",
+      "tags": []
+    },
+    {
+      "id": "invent-027",
+      "q": "Who founded Yahoo?",
+      "options": [
+        "Larry Page &amp; Sergey Brin",
+        "Jerry Yang &amp; David Filo",
+        "Steve Jobs &amp; Steve Wozniak",
+        "Ed Oates &amp; Larry Ellison"
+      ],
+      "correct": 1,
+      "explanation": "Yahoo was founded by Jerry Yang and David Filo in 1994.",
+      "tags": []
+    },
+    {
+      "id": "invent-028",
+      "q": "Who founded Oracle?",
+      "options": [
+        "Ed Oates, Larry Ellison &amp; Bob Miner",
+        "Bill Gates &amp; Paul Allen",
+        "Steve Jobs &amp; Steve Wozniak",
+        "Jerry Yang &amp; David Filo"
+      ],
+      "correct": 0,
+      "explanation": "Oracle was founded by Ed Oates, Larry Ellison and Bob Miner in 1977.",
+      "tags": []
+    },
+    {
+      "id": "invent-029",
+      "q": "Who invented the ABC Computer (first electronic computer)?",
+      "options": [
+        "John Atanasoff &amp; Clifford Berry",
+        "John Mauchly &amp; J. Presper Eckert",
+        "Charles Babbage",
+        "Konrad Zuse"
+      ],
+      "correct": 0,
+      "explanation": "The ABC Computer (Atanasoff-Berry Computer) — the first electronic computer — was invented by John Atanasoff and Clifford Berry.",
+      "tags": []
+    },
+    {
+      "id": "invent-030",
+      "q": "Who invented the Computer BIOS?",
+      "options": [
+        "Gary Kildall",
+        "Bill Gates",
+        "Steve Jobs",
+        "Linus Torvalds"
+      ],
+      "correct": 0,
+      "explanation": "Gary Kildall invented the Computer BIOS — first found in CP/M and later inspiring PC BIOS.",
+      "tags": []
+    },
+    {
+      "id": "invent-031",
+      "q": "Who is credited as the inventor of the term 'Computer Bug'?",
+      "options": [
+        "Alan Turing",
+        "Dr. Grace Murray Hopper",
+        "Charles Babbage",
+        "Konrad Zuse"
+      ],
+      "correct": 1,
+      "explanation": "Dr. Grace Murray Hopper is credited with popularising the term 'computer bug' — after a moth was found in a relay of the Harvard Mark II in 1947.",
+      "tags": []
+    },
+    {
+      "id": "invent-032",
+      "q": "Who invented the computer scanner?",
+      "options": [
+        "Ray Kurzweil",
+        "Charles Babbage",
+        "Steve Jobs",
+        "Bill Gates"
+      ],
+      "correct": 0,
+      "explanation": "Ray Kurzweil invented the computer scanner (and a flat-bed scanner that could read text aloud).",
+      "tags": []
+    },
+    {
+      "id": "invent-033",
+      "q": "Who invented computer speakers?",
+      "options": [
+        "Abinawan Puracchidas",
+        "Steve Jobs",
+        "Charles Babbage",
+        "Tim Berners-Lee"
+      ],
+      "correct": 0,
+      "explanation": "Per the source material, Abinawan Puracchidas is credited with inventing computer speakers.",
+      "tags": []
+    },
+    {
+      "id": "invent-034",
+      "q": "Who invented the first computer?",
+      "options": [
+        "Charles Babbage",
+        "Alan Turing",
+        "John Mauchly",
+        "Bill Gates"
+      ],
+      "correct": 0,
+      "explanation": "Charles Babbage invented the first computer — the Difference Engine in 1821.",
+      "tags": []
+    },
+    {
+      "id": "invent-035",
+      "q": "Who invented Ethernet computer networking?",
+      "options": [
+        "David Boggs, Chuck Thacker &amp; Butler Lampson",
+        "Vint Cerf &amp; Robert Kahn",
+        "Tim Berners-Lee",
+        "Linus Torvalds"
+      ],
+      "correct": 0,
+      "explanation": "Ethernet computer networking was invented by David Boggs, Chuck Thacker and Butler Lampson at Xerox PARC.",
+      "tags": []
+    },
+    {
+      "id": "invent-036",
+      "q": "Who invented the first database (relational model)?",
+      "options": [
+        "Dr. Edgar Frank Codd",
+        "Bill Gates",
+        "Larry Ellison",
+        "Tim Berners-Lee"
+      ],
+      "correct": 0,
+      "explanation": "Dr. Edgar Frank Codd invented the relational database model — the first database — in 1970 at IBM.",
+      "tags": []
+    },
+    {
+      "id": "invent-037",
+      "q": "Who invented the laptop computer?",
+      "options": [
+        "Adam Osborne",
+        "Steve Jobs",
+        "Bill Gates",
+        "Charles Babbage"
+      ],
+      "correct": 0,
+      "explanation": "The laptop computer was invented by Adam Osborne — the Osborne 1 (1981) is widely considered the first commercially successful laptop.",
+      "tags": []
+    },
+    {
+      "id": "invent-038",
+      "q": "Who invented MS-DOS?",
+      "options": [
+        "Microsoft",
+        "Apple",
+        "IBM",
+        "Linus Torvalds"
+      ],
+      "correct": 0,
+      "explanation": "MS-DOS (Microsoft Disk Operating System) was invented by Microsoft — released for IBM PCs in 1981.",
+      "tags": []
+    },
+    {
+      "id": "invent-039",
+      "q": "Who invented punch cards used in computers?",
+      "options": [
+        "Hollerith",
+        "Charles Babbage",
+        "Bill Gates",
+        "Edgar Codd"
+      ],
+      "correct": 0,
+      "explanation": "Herman Hollerith invented punch cards used in computing — leading to the founding of IBM.",
+      "tags": []
+    },
+    {
+      "id": "invent-040",
+      "q": "Who invented the Spacewar computer game?",
+      "options": [
+        "Steve Russell &amp; MIT",
+        "Steve Jobs",
+        "Atari",
+        "Nintendo"
+      ],
+      "correct": 0,
+      "explanation": "Spacewar! — one of the first computer games — was invented by Steve Russell and colleagues at MIT in 1962.",
+      "tags": []
+    },
+    {
+      "id": "invent-041",
+      "q": "Who invented the Z1 Computer?",
+      "options": [
+        "Konrad Zuse",
+        "Charles Babbage",
+        "Alan Turing",
+        "John Mauchly"
+      ],
+      "correct": 0,
+      "explanation": "The Z1 Computer was invented by Konrad Zuse in Germany in the late 1930s.",
+      "tags": []
+    },
+    {
+      "id": "invent-042",
+      "q": "Who invented the Computer Chip (Integrated Circuit)?",
+      "options": [
+        "Jack Kilby &amp; Robert Noyce",
+        "Steve Jobs &amp; Bill Gates",
+        "Charles Babbage",
+        "Vint Cerf"
+      ],
+      "correct": 0,
+      "explanation": "The Computer Chip / Integrated Circuit (IC) was invented independently by Jack Kilby (Texas Instruments) and Robert Noyce (Fairchild).",
+      "tags": []
+    },
+    {
+      "id": "invent-043",
+      "q": "Who invented the first computer microprocessor?",
+      "options": [
+        "Faggin, Hoff &amp; Mazor",
+        "Steve Jobs",
+        "Bill Gates",
+        "Charles Babbage"
+      ],
+      "correct": 0,
+      "explanation": "The first computer microprocessor — Intel 4004 — was invented by Federico Faggin, Ted Hoff and Stanley Mazor.",
+      "tags": []
+    },
+    {
+      "id": "invent-044",
+      "q": "Who is the founder of the keyboard?",
+      "options": [
+        "Christopher Latham Sholes",
+        "Douglas Engelbart",
+        "Steve Jobs",
+        "Bill Gates"
+      ],
+      "correct": 0,
+      "explanation": "The keyboard (QWERTY layout) was invented by Christopher Latham Sholes in the 1870s — originally for typewriters.",
+      "tags": []
+    },
+    {
+      "id": "invent-045",
+      "q": "Mauchly &amp; Eckert are jointly credited with developing which TWO famous early computers?",
+      "options": [
+        "ENIAC and UNIVAC",
+        "ABC and Z1",
+        "Difference Engine and Analytical Engine",
+        "Colossus and Z3"
+      ],
+      "correct": 0,
+      "explanation": "John Mauchly and J. Presper Eckert jointly developed both ENIAC (1946) and UNIVAC (1951).",
+      "tags": []
+    },
+    {
+      "id": "invent-046",
+      "q": "Who developed Computer Graphics as a discipline?",
+      "options": [
+        "William Fetter",
+        "John Whitney",
+        "Ivan Sutherland",
+        "Steve Jobs"
+      ],
+      "correct": 0,
+      "explanation": "William Fetter is credited as the developer of Computer Graphics — he coined the term in 1960.",
+      "tags": []
+    },
+    {
+      "id": "invent-047",
+      "q": "Who invented Java?",
+      "options": [
+        "Bjarne Stroustrup",
+        "James Gosling",
+        "Dennis Ritchie",
+        "Anders Hejlsberg"
+      ],
+      "correct": 1,
+      "explanation": "James Gosling invented the Java programming language at Sun Microsystems.",
+      "tags": []
+    },
+    {
+      "id": "invent-048",
+      "q": "What does Bluetooth replace as a wireless alternative?",
+      "options": [
+        "RS-232 data cables",
+        "Optical fibre",
+        "Ethernet cables",
+        "RJ-45 connectors"
+      ],
+      "correct": 0,
+      "explanation": "Bluetooth was originally conceived by Ericsson as a wireless alternative to RS-232 data cables.",
+      "tags": []
+    },
+    {
+      "id": "invent-049",
+      "q": "Bluetooth exchanges data using:",
+      "options": [
+        "Optical fibre",
+        "Radio transmissions over short distances",
+        "Magnetic induction",
+        "Sound waves"
+      ],
+      "correct": 1,
+      "explanation": "Bluetooth technology exchanges data over short distances using radio transmissions.",
+      "tags": []
+    },
+    {
+      "id": "invent-050",
+      "q": "A laptop computer integrates which components into a single small casing?",
+      "options": [
+        "Battery, screen and keyboard",
+        "Only a screen",
+        "Only a keyboard",
+        "Only a printer"
+      ],
+      "correct": 0,
+      "explanation": "A laptop computer integrates all elements needed to run properly — battery power supply, screen and keyboard — into a small casing.",
+      "tags": []
+    },
+    {
+      "id": "invent-051",
+      "q": "Which technology was created by Ericsson in 1994 as a wireless alternative to data cables?",
+      "options": [
+        "Wi-Fi",
+        "Bluetooth",
+        "NFC",
+        "ZigBee"
+      ],
+      "correct": 1,
+      "explanation": "Bluetooth was created by Ericsson in 1994 as a wireless alternative to RS-232 data cables.",
+      "tags": []
+    },
+    {
+      "id": "invent-052",
+      "q": "Who invented the first commercially successful laptop?",
+      "options": [
+        "Adam Osborne",
+        "Bill Gates",
+        "Steve Jobs",
+        "Charles Babbage"
+      ],
+      "correct": 0,
+      "explanation": "Adam Osborne invented the first commercially successful laptop — the Osborne 1 in 1981.",
+      "tags": []
+    },
+    {
+      "id": "invent-053",
+      "q": "Which scientist is associated with the term 'computer bug'?",
+      "options": [
+        "Dr. Grace Murray Hopper",
+        "Charles Babbage",
+        "John Mauchly",
+        "Alan Turing"
+      ],
+      "correct": 0,
+      "explanation": "Dr. Grace Murray Hopper is associated with the term 'computer bug' — after a moth was found in a relay of the Harvard Mark II computer.",
+      "tags": []
+    },
+    {
+      "id": "invent-054",
+      "q": "Who is associated with inventing the first relational database?",
+      "options": [
+        "Dr. Edgar Frank Codd",
+        "Larry Ellison",
+        "Bill Gates",
+        "Tim Berners-Lee"
+      ],
+      "correct": 0,
+      "explanation": "Dr. Edgar Frank Codd is associated with inventing the first relational database (relational model) at IBM in 1970.",
+      "tags": []
+    },
+    {
+      "id": "invent-055",
+      "q": "Computer Chip (IC) was invented by which pair?",
+      "options": [
+        "Jack Kilby &amp; Robert Noyce",
+        "Mauchly &amp; Eckert",
+        "Page &amp; Brin",
+        "Yang &amp; Filo"
+      ],
+      "correct": 0,
+      "explanation": "The Computer Chip (Integrated Circuit) was invented by Jack Kilby and Robert Noyce — independently.",
+      "tags": []
+    }
+  ]
+}

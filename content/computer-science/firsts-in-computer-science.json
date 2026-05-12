@@ -1,0 +1,661 @@
+{
+  "topic_id": "firsts-in-computer-science",
+  "topic_name": "Firsts in Computer Science",
+  "subject": "computer-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Firsts in Computer Science MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🥇",
+  "mcqs": [
+    {
+      "id": "firsts-001",
+      "q": "What was the first computer ever built?",
+      "options": [
+        "Analytical Engine",
+        "Difference Engine",
+        "ENIAC",
+        "Colossus"
+      ],
+      "correct": 1,
+      "explanation": "The first computer ever built was the Difference Engine in 1821 by Charles Babbage.",
+      "tags": []
+    },
+    {
+      "id": "firsts-002",
+      "q": "In which year was the Difference Engine built?",
+      "options": [
+        "1801",
+        "1821",
+        "1841",
+        "1884"
+      ],
+      "correct": 1,
+      "explanation": "The Difference Engine — the first computer ever built, by Charles Babbage — was built in 1821.",
+      "tags": []
+    },
+    {
+      "id": "firsts-003",
+      "q": "Who designed the Difference Engine?",
+      "options": [
+        "Ada Lovelace",
+        "Charles Babbage",
+        "Alan Turing",
+        "Herman Hollerith"
+      ],
+      "correct": 1,
+      "explanation": "The Difference Engine was designed by Charles Babbage in 1821.",
+      "tags": []
+    },
+    {
+      "id": "firsts-004",
+      "q": "What was the first general-purpose computer?",
+      "options": [
+        "Difference Engine",
+        "Analytical Engine",
+        "ENIAC",
+        "Colossus"
+      ],
+      "correct": 1,
+      "explanation": "The Analytical Engine (1834) by Charles Babbage was the first general-purpose computer.",
+      "tags": []
+    },
+    {
+      "id": "firsts-005",
+      "q": "In which year was the Analytical Engine designed?",
+      "options": [
+        "1821",
+        "1834",
+        "1841",
+        "1884"
+      ],
+      "correct": 1,
+      "explanation": "The Analytical Engine — the first general-purpose computer — was designed by Charles Babbage in 1834.",
+      "tags": []
+    },
+    {
+      "id": "firsts-006",
+      "q": "Who wrote the first computer program?",
+      "options": [
+        "Charles Babbage",
+        "Ada Lovelace",
+        "Alan Turing",
+        "Grace Hopper"
+      ],
+      "correct": 1,
+      "explanation": "The first computer program was written in 1841 by Ada Lovelace for Babbage's Analytical Engine.",
+      "tags": []
+    },
+    {
+      "id": "firsts-007",
+      "q": "In which year was the first computer program written?",
+      "options": [
+        "1821",
+        "1834",
+        "1841",
+        "1884"
+      ],
+      "correct": 2,
+      "explanation": "The first computer program was written in 1841 by Ada Lovelace.",
+      "tags": []
+    },
+    {
+      "id": "firsts-008",
+      "q": "Herman Hollerith is famous for inventing the:",
+      "options": [
+        "Tabulating Machine (1884)",
+        "Difference Engine",
+        "Analytical Engine",
+        "Differential Analyzer"
+      ],
+      "correct": 0,
+      "explanation": "Herman Hollerith invented the Tabulating Machine in 1884 — the foundation of IBM's punched-card business.",
+      "tags": []
+    },
+    {
+      "id": "firsts-009",
+      "q": "What was the first analog computer?",
+      "options": [
+        "ABC",
+        "Differential Analyzer (1930)",
+        "Z3",
+        "Colossus"
+      ],
+      "correct": 1,
+      "explanation": "The first analog computer was the Differential Analyzer, in 1930.",
+      "tags": []
+    },
+    {
+      "id": "firsts-010",
+      "q": "What was the first working programmable computer?",
+      "options": [
+        "Z3 (1941)",
+        "Colossus",
+        "ENIAC",
+        "ABC"
+      ],
+      "correct": 0,
+      "explanation": "The first working programmable computer was the Z3, built in 1941.",
+      "tags": []
+    },
+    {
+      "id": "firsts-011",
+      "q": "When was the first trackball developed?",
+      "options": [
+        "1830s",
+        "1900",
+        "WWII radar project (1941/1952)",
+        "1980s"
+      ],
+      "correct": 2,
+      "explanation": "The first trackball was developed during a WWII radar project (1941/1952).",
+      "tags": []
+    },
+    {
+      "id": "firsts-012",
+      "q": "What was the first electronic computer?",
+      "options": [
+        "ENIAC",
+        "ABC (Atanasoff-Berry Computer)",
+        "Z3",
+        "Colossus"
+      ],
+      "correct": 1,
+      "explanation": "The first electronic computer was the ABC (Atanasoff-Berry Computer), built in 1942.",
+      "tags": []
+    },
+    {
+      "id": "firsts-013",
+      "q": "In which year was the ABC (Atanasoff-Berry Computer) built?",
+      "options": [
+        "1932",
+        "1942",
+        "1952",
+        "1962"
+      ],
+      "correct": 1,
+      "explanation": "The ABC (Atanasoff-Berry Computer) — the first electronic computer — was built in 1942.",
+      "tags": []
+    },
+    {
+      "id": "firsts-014",
+      "q": "What was the first programmable computer?",
+      "options": [
+        "Z3",
+        "Colossus",
+        "ENIAC",
+        "UNIVAC"
+      ],
+      "correct": 1,
+      "explanation": "The first programmable computer was Colossus, built in 1943.",
+      "tags": []
+    },
+    {
+      "id": "firsts-015",
+      "q": "In which year was Colossus built?",
+      "options": [
+        "1933",
+        "1943",
+        "1953",
+        "1963"
+      ],
+      "correct": 1,
+      "explanation": "Colossus — the first programmable computer — was built in 1943.",
+      "tags": []
+    },
+    {
+      "id": "firsts-016",
+      "q": "What was the first general-purpose programmable electronic computer?",
+      "options": [
+        "ABC",
+        "Z3",
+        "ENIAC",
+        "UNIVAC"
+      ],
+      "correct": 2,
+      "explanation": "ENIAC (1946) was the first general-purpose programmable electronic computer.",
+      "tags": []
+    },
+    {
+      "id": "firsts-017",
+      "q": "In which year was ENIAC built?",
+      "options": [
+        "1936",
+        "1946",
+        "1956",
+        "1966"
+      ],
+      "correct": 1,
+      "explanation": "ENIAC — the first general-purpose programmable electronic computer — was built in 1946.",
+      "tags": []
+    },
+    {
+      "id": "firsts-018",
+      "q": "What was the first complete high-level programming language?",
+      "options": [
+        "FORTRAN",
+        "COBOL",
+        "Plankalkül (1948)",
+        "Simula"
+      ],
+      "correct": 2,
+      "explanation": "Plankalkül (1948) was the first complete high-level programming language.",
+      "tags": []
+    },
+    {
+      "id": "firsts-019",
+      "q": "In which year was Plankalkül developed?",
+      "options": [
+        "1928",
+        "1938",
+        "1948",
+        "1958"
+      ],
+      "correct": 2,
+      "explanation": "Plankalkül — the first complete high-level language — was developed in 1948.",
+      "tags": []
+    },
+    {
+      "id": "firsts-020",
+      "q": "What was the first stored-program electronic digital computer?",
+      "options": [
+        "ENIAC",
+        "SSEM (Small-Scale Experimental Machine, 1948)",
+        "Colossus",
+        "UNIVAC"
+      ],
+      "correct": 1,
+      "explanation": "The first stored-program electronic digital computer was the SSEM (Small-Scale Experimental Machine) in 1948.",
+      "tags": []
+    },
+    {
+      "id": "firsts-021",
+      "q": "What was the first assembler?",
+      "options": [
+        "A-0 System",
+        "Initial Orders (1949)",
+        "Glennie's Autocode",
+        "A-2 System"
+      ],
+      "correct": 1,
+      "explanation": "The first assembler was 'Initial Orders' in 1949.",
+      "tags": []
+    },
+    {
+      "id": "firsts-022",
+      "q": "What was the first personal computer?",
+      "options": [
+        "Programma 101",
+        "Simon (1950)",
+        "Apple I",
+        "Altair 8800"
+      ],
+      "correct": 1,
+      "explanation": "The first personal computer was Simon, in 1950.",
+      "tags": []
+    },
+    {
+      "id": "firsts-023",
+      "q": "In which year was the first personal computer (Simon) introduced?",
+      "options": [
+        "1940",
+        "1950",
+        "1960",
+        "1970"
+      ],
+      "correct": 1,
+      "explanation": "Simon — the first personal computer — was introduced in 1950.",
+      "tags": []
+    },
+    {
+      "id": "firsts-024",
+      "q": "What was the first compiler for an electronic computer?",
+      "options": [
+        "A-0 System (1951)",
+        "Initial Orders",
+        "Glennie's Autocode",
+        "FORTRAN"
+      ],
+      "correct": 0,
+      "explanation": "The first compiler for an electronic computer was the A-0 System in 1951.",
+      "tags": []
+    },
+    {
+      "id": "firsts-025",
+      "q": "In which year was the first compiler (A-0 System) developed?",
+      "options": [
+        "1941",
+        "1951",
+        "1961",
+        "1971"
+      ],
+      "correct": 1,
+      "explanation": "The first compiler — the A-0 System — was developed in 1951.",
+      "tags": []
+    },
+    {
+      "id": "firsts-026",
+      "q": "What was the first real-time graphics display computer?",
+      "options": [
+        "AN/FSQ-7 (1951)",
+        "ENIAC",
+        "Simon",
+        "UNIVAC"
+      ],
+      "correct": 0,
+      "explanation": "The first real-time graphics display computer was the AN/FSQ-7 in 1951.",
+      "tags": []
+    },
+    {
+      "id": "firsts-027",
+      "q": "What was the first autocode?",
+      "options": [
+        "Plankalkül",
+        "FORTRAN",
+        "Glennie's Autocode (1952)",
+        "COBOL"
+      ],
+      "correct": 2,
+      "explanation": "Glennie's Autocode (1952) was the first autocode — an early form of high-level language.",
+      "tags": []
+    },
+    {
+      "id": "firsts-028",
+      "q": "What was the first open-source software?",
+      "options": [
+        "Linux",
+        "A-2 System (1953)",
+        "FORTRAN",
+        "Mosaic"
+      ],
+      "correct": 1,
+      "explanation": "The first open-source software was the A-2 System, in 1953.",
+      "tags": []
+    },
+    {
+      "id": "firsts-029",
+      "q": "What was the first popular high-level programming language?",
+      "options": [
+        "COBOL",
+        "BASIC",
+        "FORTRAN (1957)",
+        "Pascal"
+      ],
+      "correct": 2,
+      "explanation": "FORTRAN (1957) was the first popular high-level programming language.",
+      "tags": []
+    },
+    {
+      "id": "firsts-030",
+      "q": "In which year was FORTRAN released?",
+      "options": [
+        "1947",
+        "1957",
+        "1967",
+        "1977"
+      ],
+      "correct": 1,
+      "explanation": "FORTRAN — the first popular high-level language — was released in 1957.",
+      "tags": []
+    },
+    {
+      "id": "firsts-031",
+      "q": "What was the first object-oriented programming language?",
+      "options": [
+        "C++",
+        "Smalltalk",
+        "Simula (1967)",
+        "Java"
+      ],
+      "correct": 2,
+      "explanation": "Simula (1967) was the first object-oriented programming language.",
+      "tags": []
+    },
+    {
+      "id": "firsts-032",
+      "q": "Who designed the Simula programming language?",
+      "options": [
+        "Ole-Johan Dahl &amp; Kristen Nygaard",
+        "Bjarne Stroustrup",
+        "Alan Kay",
+        "Niklaus Wirth"
+      ],
+      "correct": 0,
+      "explanation": "Simula was designed and built by Ole-Johan Dahl and Kristen Nygaard at the Norwegian Computing Center (NCC) in Oslo between 1962 and 1967.",
+      "tags": []
+    },
+    {
+      "id": "firsts-033",
+      "q": "At which institution was Simula built?",
+      "options": [
+        "MIT",
+        "Stanford",
+        "Norwegian Computing Center (NCC), Oslo",
+        "Cambridge"
+      ],
+      "correct": 2,
+      "explanation": "Simula was built at the Norwegian Computing Center (NCC) in Oslo, Norway between 1962 and 1967.",
+      "tags": []
+    },
+    {
+      "id": "firsts-034",
+      "q": "Simula was designed for which primary purpose?",
+      "options": [
+        "Word processing",
+        "Doing simulations",
+        "Compiling COBOL programs",
+        "Running web servers"
+      ],
+      "correct": 1,
+      "explanation": "Simula was designed for doing simulations — and the needs of that domain provided the framework for many of the features of modern object-oriented languages.",
+      "tags": []
+    },
+    {
+      "id": "firsts-035",
+      "q": "Who invented the first computer mouse and in which year?",
+      "options": [
+        "Douglas Engelbart, 1964",
+        "Steve Jobs, 1984",
+        "Bill Gates, 1975",
+        "Tim Berners-Lee, 1989"
+      ],
+      "correct": 0,
+      "explanation": "The first computer mouse was invented by Douglas Engelbart in 1964.",
+      "tags": []
+    },
+    {
+      "id": "firsts-036",
+      "q": "In which year was the first computer mouse invented?",
+      "options": [
+        "1954",
+        "1964",
+        "1974",
+        "1984"
+      ],
+      "correct": 1,
+      "explanation": "The first computer mouse was invented in 1964 by Douglas Engelbart.",
+      "tags": []
+    },
+    {
+      "id": "firsts-037",
+      "q": "In which year was the first touchscreen introduced?",
+      "options": [
+        "1955",
+        "1965",
+        "1975",
+        "1985"
+      ],
+      "correct": 1,
+      "explanation": "The first touchscreen was introduced in 1965.",
+      "tags": []
+    },
+    {
+      "id": "firsts-038",
+      "q": "What was the first commercial personal computer?",
+      "options": [
+        "Apple I",
+        "IBM PC",
+        "Programma 101 (1965)",
+        "Simon"
+      ],
+      "correct": 2,
+      "explanation": "The first commercial personal computer was the Programma 101, in 1965.",
+      "tags": []
+    },
+    {
+      "id": "firsts-039",
+      "q": "What was the first microprocessor?",
+      "options": [
+        "Intel 8080",
+        "Intel 4004 (1971)",
+        "Motorola 68000",
+        "AMD K6"
+      ],
+      "correct": 1,
+      "explanation": "The first microprocessor was the Intel 4004, in 1971.",
+      "tags": []
+    },
+    {
+      "id": "firsts-040",
+      "q": "In which year was the Intel 4004 (first microprocessor) made commercially available?",
+      "options": [
+        "1961",
+        "1971",
+        "1981",
+        "1991"
+      ],
+      "correct": 1,
+      "explanation": "The Intel 4004 — the first microprocessor — was made commercially available in 1971.",
+      "tags": []
+    },
+    {
+      "id": "firsts-041",
+      "q": "In which year was the Z3 — the first working programmable computer — built?",
+      "options": [
+        "1931",
+        "1941",
+        "1951",
+        "1961"
+      ],
+      "correct": 1,
+      "explanation": "The Z3 — the first working programmable computer — was built in 1941.",
+      "tags": []
+    },
+    {
+      "id": "firsts-042",
+      "q": "In which year was the Differential Analyzer (first analog computer) introduced?",
+      "options": [
+        "1920",
+        "1930",
+        "1940",
+        "1950"
+      ],
+      "correct": 1,
+      "explanation": "The Differential Analyzer — the first analog computer — was introduced in 1930.",
+      "tags": []
+    },
+    {
+      "id": "firsts-043",
+      "q": "In which year was the Tabulating Machine invented?",
+      "options": [
+        "1864",
+        "1884",
+        "1904",
+        "1924"
+      ],
+      "correct": 1,
+      "explanation": "Herman Hollerith's Tabulating Machine was invented in 1884.",
+      "tags": []
+    },
+    {
+      "id": "firsts-044",
+      "q": "In which year was the first stored-program electronic digital computer (SSEM) operational?",
+      "options": [
+        "1938",
+        "1948",
+        "1958",
+        "1968"
+      ],
+      "correct": 1,
+      "explanation": "The SSEM (Small-Scale Experimental Machine) — the first stored-program electronic digital computer — was operational in 1948.",
+      "tags": []
+    },
+    {
+      "id": "firsts-045",
+      "q": "Which of the following came FIRST historically?",
+      "options": [
+        "ENIAC (1946)",
+        "Difference Engine (1821)",
+        "FORTRAN (1957)",
+        "Intel 4004 (1971)"
+      ],
+      "correct": 1,
+      "explanation": "The Difference Engine (1821) came first historically — it predates ENIAC, FORTRAN and the Intel 4004.",
+      "tags": []
+    },
+    {
+      "id": "firsts-046",
+      "q": "Which is the correct chronological order?",
+      "options": [
+        "Difference Engine → Analytical Engine → ENIAC → Intel 4004",
+        "ENIAC → Intel 4004 → Analytical Engine → Difference Engine",
+        "Intel 4004 → Difference Engine → ENIAC → Analytical Engine",
+        "FORTRAN → Difference Engine → ENIAC → Intel 4004"
+      ],
+      "correct": 0,
+      "explanation": "Correct chronological order: Difference Engine (1821) → Analytical Engine (1834) → ENIAC (1946) → Intel 4004 (1971).",
+      "tags": []
+    },
+    {
+      "id": "firsts-047",
+      "q": "In which year was the first commercial personal computer (Programma 101) released?",
+      "options": [
+        "1955",
+        "1965",
+        "1975",
+        "1985"
+      ],
+      "correct": 1,
+      "explanation": "The Programma 101 — the first commercial personal computer — was released in 1965.",
+      "tags": []
+    },
+    {
+      "id": "firsts-048",
+      "q": "Which is older: Plankalkül (first complete high-level language) or FORTRAN (first popular high-level language)?",
+      "options": [
+        "Plankalkül (1948) is older",
+        "FORTRAN (1957) is older",
+        "Both released same year",
+        "FORTRAN was released in 1947"
+      ],
+      "correct": 0,
+      "explanation": "Plankalkül (1948) is older than FORTRAN (1957) — Plankalkül was the first complete high-level language but never widely used; FORTRAN was the first popular one.",
+      "tags": []
+    },
+    {
+      "id": "firsts-049",
+      "q": "What was the first open-source software (A-2 System) released in?",
+      "options": [
+        "1933",
+        "1943",
+        "1953",
+        "1963"
+      ],
+      "correct": 2,
+      "explanation": "The A-2 System — the first open-source software — was released in 1953.",
+      "tags": []
+    },
+    {
+      "id": "firsts-050",
+      "q": "Which year saw both the first touchscreen AND the first commercial personal computer?",
+      "options": [
+        "1955",
+        "1965",
+        "1975",
+        "1985"
+      ],
+      "correct": 1,
+      "explanation": "1965 saw both the first touchscreen AND the first commercial personal computer (Programma 101).",
+      "tags": []
+    }
+  ]
+}

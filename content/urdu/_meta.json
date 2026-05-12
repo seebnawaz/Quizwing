@@ -1,0 +1,8 @@
+{
+  "name": "Urdu",
+  "icon": "✍️",
+  "order": 10,
+  "description": "Urdu grammar, idioms, poets, prose, literature & sentence construction.",
+  "color": "#7e22ce",
+  "placeholder": true
+}

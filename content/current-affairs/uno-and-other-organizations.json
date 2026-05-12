@@ -1,0 +1,1922 @@
+{
+  "topic_id": "uno-and-other-organizations",
+  "topic_name": "Uno & Other Organizations",
+  "subject": "current-affairs",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Uno & Other Organizations MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🇺🇳",
+  "mcqs": [
+    {
+      "id": "unoand-001",
+      "q": "What is the duration of the term of the United Nations Secretary-General?",
+      "options": [
+        "5 years",
+        "6 years",
+        "4 years",
+        "3 years"
+      ],
+      "correct": 0,
+      "explanation": "The UN Secretary-General is appointed for a 5-year term, renewable once.",
+      "tags": []
+    },
+    {
+      "id": "unoand-002",
+      "q": "The UN Secretary-General Antonio Guterres belongs to which country?",
+      "options": [
+        "North Korea",
+        "South Korea",
+        "Italy",
+        "Portugal"
+      ],
+      "correct": 3,
+      "explanation": "Antonio Guterres, the 9th UN Secretary-General, is from Portugal.",
+      "tags": []
+    },
+    {
+      "id": "unoand-003",
+      "q": "How many delegates can each country send to the UN General Assembly?",
+      "options": [
+        "7",
+        "8",
+        "5",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Each member state may send up to 5 delegates to the UN General Assembly.",
+      "tags": []
+    },
+    {
+      "id": "unoand-004",
+      "q": "Who was the first Secretary-General elected from the regular staff (career staff) of the United Nations?",
+      "options": [
+        "U Thant",
+        "Dr. Kurt Waldheim",
+        "Kofi Annan",
+        "Trygve Lie"
+      ],
+      "correct": 2,
+      "explanation": "Kofi Annan was the first SG to be elected from the UN's own career staff.",
+      "tags": []
+    },
+    {
+      "id": "unoand-005",
+      "q": "Pakistan became a full member of the Shanghai Cooperation Organization (SCO) on:",
+      "options": [
+        "4 June 2017",
+        "6 June 2017",
+        "9 June 2017",
+        "13 June 2017"
+      ],
+      "correct": 2,
+      "explanation": "Pakistan and India became full SCO members on 9 June 2017 at the Astana summit.",
+      "tags": []
+    },
+    {
+      "id": "unoand-006",
+      "q": "Which nation has become the new member of NATO?",
+      "options": [
+        "Sweden",
+        "China",
+        "Japan",
+        "India"
+      ],
+      "correct": 0,
+      "explanation": "Sweden joined NATO in 2024, becoming its 32nd member after Finland.",
+      "tags": []
+    },
+    {
+      "id": "unoand-007",
+      "q": "What are the total members of NATO?",
+      "options": [
+        "31",
+        "29",
+        "28",
+        "32"
+      ],
+      "correct": 3,
+      "explanation": "NATO currently has 32 member states (including Finland and Sweden).",
+      "tags": []
+    },
+    {
+      "id": "unoand-008",
+      "q": "How many countries are members of the European Union?",
+      "options": [
+        "30",
+        "27",
+        "29",
+        "28"
+      ],
+      "correct": 1,
+      "explanation": "The European Union has 27 member states after the UK's withdrawal.",
+      "tags": []
+    },
+    {
+      "id": "unoand-009",
+      "q": "The term of the President of the UN General Assembly is:",
+      "options": [
+        "1 Year",
+        "2 Years",
+        "5 Years",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The President of the UN General Assembly is elected for a one-year term.",
+      "tags": []
+    },
+    {
+      "id": "unoand-010",
+      "q": "When was 'The United Nations Declaration' signed?",
+      "options": [
+        "1 January 1942",
+        "1 October 1945",
+        "1 July 1946",
+        "1 June 1949"
+      ],
+      "correct": 0,
+      "explanation": "The 'Declaration by United Nations' was signed in Washington on 1 January 1942 by 26 nations.",
+      "tags": []
+    },
+    {
+      "id": "unoand-011",
+      "q": "When was the United Nations set up?",
+      "options": [
+        "24 April 1945",
+        "24 October 1945",
+        "24 April 1950",
+        "24 October 1950"
+      ],
+      "correct": 1,
+      "explanation": "The UN officially came into existence on 24 October 1945 when the Charter entered force — observed every year as UN Day.",
+      "tags": []
+    },
+    {
+      "id": "unoand-012",
+      "q": "Who signed the 'United Nations Declaration'?",
+      "options": [
+        "President Roosevelt of America, Winston Churchill PM of Britain",
+        "Maxim Litvinov of Russia",
+        "T. V. Soong of China",
+        "All the above"
+      ],
+      "correct": 3,
+      "explanation": "All four — Roosevelt, Churchill, Litvinov and Soong — signed the original Declaration by United Nations on 1 January 1942.",
+      "tags": []
+    },
+    {
+      "id": "unoand-013",
+      "q": "Currently how many states have observer status in the UN?",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "6"
+      ],
+      "correct": 2,
+      "explanation": "There are currently 2 UN Observer States: the Holy See (Vatican) and the State of Palestine.",
+      "tags": []
+    },
+    {
+      "id": "unoand-014",
+      "q": "The term 'United Nations' was coined by:",
+      "options": [
+        "Franklin D. Roosevelt",
+        "Trygve Lie",
+        "Winston Churchill",
+        "Henry Truman"
+      ],
+      "correct": 0,
+      "explanation": "US President Franklin D. Roosevelt coined the term 'United Nations' in 1942.",
+      "tags": []
+    },
+    {
+      "id": "unoand-015",
+      "q": "With the addition of South Sudan on 13 July 2011, total UN member states are:",
+      "options": [
+        "191",
+        "193",
+        "192",
+        "194"
+      ],
+      "correct": 1,
+      "explanation": "South Sudan became the 193rd UN member state on 14 July 2011.",
+      "tags": []
+    },
+    {
+      "id": "unoand-016",
+      "q": "The United Nations headquarters is situated in:",
+      "options": [
+        "New York, USA",
+        "Rome, Italy",
+        "Geneva, Switzerland",
+        "London, UK"
+      ],
+      "correct": 0,
+      "explanation": "The UN headquarters is in New York City, USA.",
+      "tags": []
+    },
+    {
+      "id": "unoand-017",
+      "q": "Who was the first Secretary-General of the United Nations?",
+      "options": [
+        "Kurt Waldheim",
+        "U Thant",
+        "Trygve Lie",
+        "Kofi Annan"
+      ],
+      "correct": 2,
+      "explanation": "Trygve Lie of Norway was the first UN Secretary-General (1946–1952).",
+      "tags": []
+    },
+    {
+      "id": "unoand-018",
+      "q": "Name the only Secretary-General of the United Nations who resigned from his post.",
+      "options": [
+        "Kurt Waldheim",
+        "U Thant",
+        "Trygve Lie",
+        "Kofi Annan"
+      ],
+      "correct": 2,
+      "explanation": "Trygve Lie is the only UN Secretary-General who resigned (in 1952).",
+      "tags": []
+    },
+    {
+      "id": "unoand-019",
+      "q": "Which of the following is NOT a permanent member of the Security Council?",
+      "options": [
+        "Russia",
+        "Germany",
+        "France",
+        "China"
+      ],
+      "correct": 1,
+      "explanation": "Germany is not a permanent member of the Security Council.",
+      "tags": []
+    },
+    {
+      "id": "unoand-020",
+      "q": "The Security Council has 15 members, 5 of which are permanent. Which of the following is NOT a permanent member?",
+      "options": [
+        "China",
+        "France",
+        "UK",
+        "Germany"
+      ],
+      "correct": 3,
+      "explanation": "Germany is not a permanent member; the P5 are China, France, UK, US, and Russia.",
+      "tags": []
+    },
+    {
+      "id": "unoand-021",
+      "q": "Which of these countries was NOT an original member of the UN?",
+      "options": [
+        "Greece",
+        "Argentina",
+        "Italy",
+        "Poland"
+      ],
+      "correct": 2,
+      "explanation": "Italy was NOT one of the 51 original UN members.",
+      "tags": []
+    },
+    {
+      "id": "unoand-022",
+      "q": "In which city was the United Nations created?",
+      "options": [
+        "Shanghai",
+        "Charlottetown",
+        "San Francisco",
+        "New York"
+      ],
+      "correct": 2,
+      "explanation": "The UN was created at the San Francisco Conference in 1945.",
+      "tags": []
+    },
+    {
+      "id": "unoand-023",
+      "q": "Where is the head office of the UN High Commissioner for Refugees (UNHCR)?",
+      "options": [
+        "Rome",
+        "London",
+        "Geneva",
+        "Stockholm"
+      ],
+      "correct": 2,
+      "explanation": "UNHCR is headquartered in Geneva, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "unoand-024",
+      "q": "Where does the International Court of Justice sit?",
+      "options": [
+        "Hague, Netherlands",
+        "New York, USA",
+        "Geneva, Switzerland",
+        "Berlin, Germany"
+      ],
+      "correct": 0,
+      "explanation": "The ICJ sits at the Peace Palace in The Hague, Netherlands.",
+      "tags": []
+    },
+    {
+      "id": "unoand-025",
+      "q": "Where is the UN International Crime and Justice Research Institute (UNICRI) located?",
+      "options": [
+        "New Delhi",
+        "Rome",
+        "Turin",
+        "Paris"
+      ],
+      "correct": 2,
+      "explanation": "UNICRI is headquartered in Turin, Italy.",
+      "tags": []
+    },
+    {
+      "id": "unoand-026",
+      "q": "Where is the headquarters of the United Nations Environment Programme (UNEP) located?",
+      "options": [
+        "Dayton, Ohio, USA",
+        "Geneva, Switzerland",
+        "Nairobi, Kenya",
+        "Montevideo, Uruguay"
+      ],
+      "correct": 2,
+      "explanation": "UNEP is headquartered in Nairobi, Kenya.",
+      "tags": []
+    },
+    {
+      "id": "unoand-027",
+      "q": "Where is the World Health Organization (WHO) based?",
+      "options": [
+        "Washington, D.C.",
+        "Venice",
+        "Rotterdam",
+        "Geneva"
+      ],
+      "correct": 3,
+      "explanation": "The WHO is based in Geneva, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "unoand-028",
+      "q": "What is the foremost important purpose of the UN?",
+      "options": [
+        "Peace and Security",
+        "Friendship",
+        "Health",
+        "Equality"
+      ],
+      "correct": 0,
+      "explanation": "The maintenance of international peace and security is the UN's primary purpose under Article 1 of the Charter.",
+      "tags": []
+    },
+    {
+      "id": "unoand-029",
+      "q": "When the San Francisco Conference adopted the UN Charter, how many nations signed the said Charter?",
+      "options": [
+        "52",
+        "50",
+        "53",
+        "54"
+      ],
+      "correct": 1,
+      "explanation": "50 nations signed the UN Charter at the San Francisco Conference; Poland signed later, becoming an original member.",
+      "tags": []
+    },
+    {
+      "id": "unoand-030",
+      "q": "Where is the International Criminal Court located?",
+      "options": [
+        "New Delhi",
+        "Rome",
+        "Paris",
+        "The Hague"
+      ],
+      "correct": 3,
+      "explanation": "The International Criminal Court is located in The Hague, Netherlands.",
+      "tags": []
+    },
+    {
+      "id": "unoand-031",
+      "q": "What are the principal organs of the UN?",
+      "options": [
+        "The General Assembly, The Security Council",
+        "The Economic and Social Council, The Trusteeship Council",
+        "The International Court of Justice, The Secretariat",
+        "All the above"
+      ],
+      "correct": 3,
+      "explanation": "The UN has six principal organs — all listed in options A–C.",
+      "tags": []
+    },
+    {
+      "id": "unoand-032",
+      "q": "Where is the headquarters of the World Meteorological Organization?",
+      "options": [
+        "Geneva",
+        "Paris",
+        "London",
+        "New Delhi"
+      ],
+      "correct": 0,
+      "explanation": "The WMO is headquartered in Geneva, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "unoand-033",
+      "q": "What majority is required of UN member states for decisions on important issues?",
+      "options": [
+        "Two-thirds majority",
+        "Two-fourth majority",
+        "Two-six majority",
+        "Absolute majority"
+      ],
+      "correct": 0,
+      "explanation": "Decisions on important questions require a two-thirds majority of those present and voting.",
+      "tags": []
+    },
+    {
+      "id": "unoand-034",
+      "q": "Who appoints the Secretary-General of the UN?",
+      "options": [
+        "UN General Assembly",
+        "UN Security Council",
+        "UN General Assembly upon the recommendation of the Security Council",
+        "UN Under-developed Countries"
+      ],
+      "correct": 2,
+      "explanation": "The Secretary-General is appointed by the General Assembly upon the recommendation of the Security Council.",
+      "tags": []
+    },
+    {
+      "id": "unoand-035",
+      "q": "Where is the headquarters of the International Fund for Agricultural Development (IFAD)?",
+      "options": [
+        "Sweden",
+        "UK",
+        "USA",
+        "Rome"
+      ],
+      "correct": 3,
+      "explanation": "IFAD is headquartered in Rome, Italy.",
+      "tags": []
+    },
+    {
+      "id": "unoand-036",
+      "q": "Who elects the ten non-permanent members of the Security Council?",
+      "options": [
+        "UN",
+        "UN General Assembly",
+        "UN Developing Countries",
+        "All the above"
+      ],
+      "correct": 1,
+      "explanation": "The 10 non-permanent members of the UNSC are elected by the General Assembly.",
+      "tags": []
+    },
+    {
+      "id": "unoand-037",
+      "q": "How many members are there in the Security Council?",
+      "options": [
+        "18",
+        "15",
+        "16",
+        "14"
+      ],
+      "correct": 1,
+      "explanation": "The UNSC has 15 members in total.",
+      "tags": []
+    },
+    {
+      "id": "unoand-038",
+      "q": "How many permanent members exist in the Security Council?",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "4"
+      ],
+      "correct": 2,
+      "explanation": "There are 5 permanent members (P5) of the UN Security Council.",
+      "tags": []
+    },
+    {
+      "id": "unoand-039",
+      "q": "How many non-permanent members are in the Security Council?",
+      "options": [
+        "9",
+        "8",
+        "5",
+        "10"
+      ],
+      "correct": 3,
+      "explanation": "The UNSC has 10 non-permanent members.",
+      "tags": []
+    },
+    {
+      "id": "unoand-040",
+      "q": "Who are the permanent members of the Security Council?",
+      "options": [
+        "Japan, Britain, America, Russia and France",
+        "China, Britain, America, Russia and Germany",
+        "China, Britain, America, Russia and France",
+        "China, Britain, America, Japan and France"
+      ],
+      "correct": 2,
+      "explanation": "The five permanent members are China, Britain, America, Russia and France.",
+      "tags": []
+    },
+    {
+      "id": "unoand-041",
+      "q": "On what date did the Security Council come into existence?",
+      "options": [
+        "12 January 1945",
+        "12 January 1948",
+        "12 January 1946",
+        "12 January 1950"
+      ],
+      "correct": 2,
+      "explanation": "The Security Council held its first session on 17 January 1946; it came into existence on 12 January 1946.",
+      "tags": []
+    },
+    {
+      "id": "unoand-042",
+      "q": "For what period are the ten non-permanent members elected by the UN General Assembly?",
+      "options": [
+        "4 years",
+        "2 years",
+        "3 years",
+        "6 years"
+      ],
+      "correct": 1,
+      "explanation": "Non-permanent UNSC members serve 2-year terms.",
+      "tags": []
+    },
+    {
+      "id": "unoand-043",
+      "q": "When was the UN Children's Fund (UNICEF) established?",
+      "options": [
+        "1948",
+        "1949",
+        "1946",
+        "1947"
+      ],
+      "correct": 2,
+      "explanation": "UNICEF was established on 11 December 1946.",
+      "tags": []
+    },
+    {
+      "id": "unoand-044",
+      "q": "Where is the headquarters of the International Civil Aviation Organization (ICAO)?",
+      "options": [
+        "Canada",
+        "Lebanon",
+        "Brazil",
+        "Peru"
+      ],
+      "correct": 0,
+      "explanation": "ICAO is headquartered in Montreal, Canada.",
+      "tags": []
+    },
+    {
+      "id": "unoand-045",
+      "q": "When was the UN Environment Programme (UNEP) established?",
+      "options": [
+        "1972",
+        "1979",
+        "1978",
+        "1976"
+      ],
+      "correct": 0,
+      "explanation": "UNEP was established in June 1972 following the Stockholm Conference.",
+      "tags": []
+    },
+    {
+      "id": "unoand-046",
+      "q": "The Charter of the United Nations consists of:",
+      "options": [
+        "108 articles",
+        "111 articles",
+        "101 articles",
+        "120 articles"
+      ],
+      "correct": 1,
+      "explanation": "The UN Charter has 111 articles divided into 19 chapters.",
+      "tags": []
+    },
+    {
+      "id": "unoand-047",
+      "q": "Where is the UN International Drug Control Programme (UNODC) headquarters located?",
+      "options": [
+        "Vienna",
+        "Tokyo",
+        "London",
+        "Switzerland"
+      ],
+      "correct": 0,
+      "explanation": "UNODC is headquartered in Vienna, Austria.",
+      "tags": []
+    },
+    {
+      "id": "unoand-048",
+      "q": "To which UN organ does the Security Council send its annual report?",
+      "options": [
+        "General Assembly",
+        "General Council",
+        "Special Council",
+        "All the above"
+      ],
+      "correct": 0,
+      "explanation": "The Security Council submits an annual report to the General Assembly.",
+      "tags": []
+    },
+    {
+      "id": "unoand-049",
+      "q": "The United Nations Secretariat consists of:",
+      "options": [
+        "Commissions and Committees",
+        "Specialized agencies and related organizations",
+        "Secretaries and Secretary-General",
+        "Departments and Offices"
+      ],
+      "correct": 3,
+      "explanation": "The UN Secretariat is structured into Departments and Offices headed by the Secretary-General.",
+      "tags": []
+    },
+    {
+      "id": "unoand-050",
+      "q": "Which of the following was established at the Bretton Woods Conference in 1944?",
+      "options": [
+        "IMF",
+        "ILO",
+        "WHO",
+        "UNDP"
+      ],
+      "correct": 0,
+      "explanation": "The IMF (and the World Bank) were established at the 1944 Bretton Woods Conference.",
+      "tags": []
+    },
+    {
+      "id": "unoand-051",
+      "q": "When was the International Labour Organization (ILO) established?",
+      "options": [
+        "1919",
+        "1920",
+        "1921",
+        "1923"
+      ],
+      "correct": 0,
+      "explanation": "The ILO was established in 1919 under the Treaty of Versailles.",
+      "tags": []
+    },
+    {
+      "id": "unoand-052",
+      "q": "Which organization promotes free trade between Brazil, Argentina, Uruguay and Paraguay?",
+      "options": [
+        "SAFTA",
+        "APEC",
+        "OAS",
+        "Mercosur"
+      ],
+      "correct": 3,
+      "explanation": "Mercosur is the Southern Common Market of Brazil, Argentina, Uruguay and Paraguay (with Venezuela's status varying).",
+      "tags": []
+    },
+    {
+      "id": "unoand-053",
+      "q": "The Second World Conference on Human Rights was held in:",
+      "options": [
+        "Vienna",
+        "Geneva",
+        "New York",
+        "Havana"
+      ],
+      "correct": 0,
+      "explanation": "The 1993 Second World Conference on Human Rights was held in Vienna, Austria.",
+      "tags": []
+    },
+    {
+      "id": "unoand-054",
+      "q": "Where is the headquarters of the International Telecommunications Union (ITU)?",
+      "options": [
+        "Geneva",
+        "New Delhi",
+        "New York",
+        "London"
+      ],
+      "correct": 0,
+      "explanation": "ITU is headquartered in Geneva, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "unoand-055",
+      "q": "Where is the headquarters of UNESCO?",
+      "options": [
+        "New Delhi",
+        "London",
+        "Paris",
+        "New York"
+      ],
+      "correct": 2,
+      "explanation": "UNESCO is headquartered in Paris, France.",
+      "tags": []
+    },
+    {
+      "id": "unoand-056",
+      "q": "When was the Universal Postal Union (UPU) established?",
+      "options": [
+        "1889",
+        "1874",
+        "1886",
+        "1885"
+      ],
+      "correct": 1,
+      "explanation": "The UPU was established in 1874 in Bern.",
+      "tags": []
+    },
+    {
+      "id": "unoand-057",
+      "q": "Where is the headquarters of the Universal Postal Union?",
+      "options": [
+        "Switzerland",
+        "UK",
+        "Iran",
+        "India"
+      ],
+      "correct": 0,
+      "explanation": "UPU is headquartered in Bern, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "unoand-058",
+      "q": "Where is the headquarters of the World Health Organization?",
+      "options": [
+        "Geneva, Switzerland",
+        "London, UK",
+        "New Delhi, India",
+        "None of the above"
+      ],
+      "correct": 0,
+      "explanation": "WHO is headquartered in Geneva, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "unoand-059",
+      "q": "Where is the headquarters of the World Intellectual Property Organization (WIPO)?",
+      "options": [
+        "Geneva",
+        "Colombo",
+        "New Delhi",
+        "Paris"
+      ],
+      "correct": 0,
+      "explanation": "WIPO is headquartered in Geneva, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "unoand-060",
+      "q": "When was the International Atomic Energy Agency (IAEA) statute approved by the UN?",
+      "options": [
+        "26 October 1956",
+        "26 October 1955",
+        "26 October 1954",
+        "26 October 1953"
+      ],
+      "correct": 0,
+      "explanation": "The IAEA Statute was approved on 26 October 1956 and came into force on 29 July 1957.",
+      "tags": []
+    },
+    {
+      "id": "unoand-061",
+      "q": "When did the UN General Assembly adopt the Universal Declaration of Human Rights?",
+      "options": [
+        "15 December 1948",
+        "10 December 1948",
+        "30 December 1948",
+        "25 December 1948"
+      ],
+      "correct": 1,
+      "explanation": "The UDHR was adopted on 10 December 1948 — observed worldwide as Human Rights Day.",
+      "tags": []
+    },
+    {
+      "id": "unoand-062",
+      "q": "What was the 'spark' to the First World War?",
+      "options": [
+        "Imperialism",
+        "Treaty of Versailles",
+        "Assassination of Archduke Franz Ferdinand",
+        "Appeasement"
+      ],
+      "correct": 2,
+      "explanation": "The assassination of Archduke Franz Ferdinand in Sarajevo on 28 June 1914 sparked WWI.",
+      "tags": []
+    },
+    {
+      "id": "unoand-063",
+      "q": "When was the League of Nations formed?",
+      "options": [
+        "15 January 1920",
+        "8 January 1920",
+        "10 January 1920",
+        "5 January 1920"
+      ],
+      "correct": 2,
+      "explanation": "The League of Nations came into being on 10 January 1920 after the Treaty of Versailles.",
+      "tags": []
+    },
+    {
+      "id": "unoand-064",
+      "q": "Where is the headquarters of the League of Nations?",
+      "options": [
+        "Geneva",
+        "Paris",
+        "London",
+        "New York"
+      ],
+      "correct": 0,
+      "explanation": "The League of Nations was headquartered in Geneva, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "unoand-065",
+      "q": "The idea of the League of Nations was drafted by which US President?",
+      "options": [
+        "Woodrow Wilson",
+        "Archduke Franz Ferdinand",
+        "Theodore Roosevelt",
+        "Franklin D. Roosevelt"
+      ],
+      "correct": 0,
+      "explanation": "US President Woodrow Wilson drafted the idea of the League of Nations in his Fourteen Points (1918).",
+      "tags": []
+    },
+    {
+      "id": "unoand-066",
+      "q": "Where are the headquarters of the European Union?",
+      "options": [
+        "Antwerp, Bonn, Munich",
+        "Brussels, Strasbourg, Luxembourg",
+        "Amsterdam, The Hague, Vienna",
+        "Nuremberg, Rome, Berlin"
+      ],
+      "correct": 1,
+      "explanation": "EU institutions are split between Brussels, Strasbourg and Luxembourg.",
+      "tags": []
+    },
+    {
+      "id": "unoand-067",
+      "q": "Which country has become the first-ever nation to leave the European Union?",
+      "options": [
+        "United Kingdom",
+        "Germany",
+        "France",
+        "Italy"
+      ],
+      "correct": 0,
+      "explanation": "The United Kingdom became the first country to leave the EU through Brexit (effective 31 January 2020).",
+      "tags": []
+    },
+    {
+      "id": "unoand-068",
+      "q": "When was the European Monetary System (EMS) launched?",
+      "options": [
+        "1968",
+        "1981",
+        "1979",
+        "1952"
+      ],
+      "correct": 2,
+      "explanation": "The European Monetary System was launched in March 1979.",
+      "tags": []
+    },
+    {
+      "id": "unoand-069",
+      "q": "When did Euro banknotes and coins start to circulate?",
+      "options": [
+        "1 January 2002",
+        "1 December 2001",
+        "1 July 2002",
+        "1 January 2003"
+      ],
+      "correct": 0,
+      "explanation": "Euro banknotes and coins entered circulation on 1 January 2002.",
+      "tags": []
+    },
+    {
+      "id": "unoand-070",
+      "q": "Where is the European Central Bank (ECB) located?",
+      "options": [
+        "Luxembourg",
+        "Basel",
+        "Frankfurt",
+        "London"
+      ],
+      "correct": 2,
+      "explanation": "The European Central Bank is headquartered in Frankfurt, Germany.",
+      "tags": []
+    },
+    {
+      "id": "unoand-071",
+      "q": "The North Atlantic Treaty Organization (NATO) was established in:",
+      "options": [
+        "1949",
+        "1951",
+        "1952",
+        "1956"
+      ],
+      "correct": 0,
+      "explanation": "NATO was established by the North Atlantic Treaty signed on 4 April 1949.",
+      "tags": []
+    },
+    {
+      "id": "unoand-072",
+      "q": "Which of the following is a military alliance?",
+      "options": [
+        "ASEAN",
+        "NAFTA",
+        "NATO",
+        "EEC"
+      ],
+      "correct": 2,
+      "explanation": "NATO is the only military alliance among the listed options.",
+      "tags": []
+    },
+    {
+      "id": "unoand-073",
+      "q": "Where are the NATO headquarters?",
+      "options": [
+        "Washington D.C.",
+        "Amsterdam",
+        "Moscow",
+        "Brussels"
+      ],
+      "correct": 3,
+      "explanation": "NATO's headquarters is in Brussels, Belgium.",
+      "tags": []
+    },
+    {
+      "id": "unoand-074",
+      "q": "The Warsaw Pact was founded on _____ and consisted of the Soviet Union and its European allies.",
+      "options": [
+        "14 May 1955",
+        "19 April 1955",
+        "14 April 1954",
+        "14 May 1954"
+      ],
+      "correct": 0,
+      "explanation": "The Warsaw Treaty was signed on 14 May 1955 in Warsaw, Poland.",
+      "tags": []
+    },
+    {
+      "id": "unoand-075",
+      "q": "The headquarters of the Warsaw Pact was in:",
+      "options": [
+        "Moscow",
+        "Strasbourg",
+        "Brussels",
+        "Frankfurt"
+      ],
+      "correct": 0,
+      "explanation": "The Warsaw Pact was headquartered in Moscow, USSR.",
+      "tags": []
+    },
+    {
+      "id": "unoand-076",
+      "q": "When did Turkey, Iran and Pakistan withdraw from CENTO?",
+      "options": [
+        "1978",
+        "1977",
+        "1979",
+        "1976"
+      ],
+      "correct": 2,
+      "explanation": "After the Iranian Revolution, CENTO was dissolved in 1979 with Turkey, Iran and Pakistan withdrawing.",
+      "tags": []
+    },
+    {
+      "id": "unoand-077",
+      "q": "SEATO was formally founded in:",
+      "options": [
+        "1953",
+        "1954",
+        "1955",
+        "1957"
+      ],
+      "correct": 2,
+      "explanation": "SEATO was formally founded in 1955 (Manila Treaty signed in 1954).",
+      "tags": []
+    },
+    {
+      "id": "unoand-078",
+      "q": "SEATO was founded by the Pact of:",
+      "options": [
+        "Manila Pact",
+        "Baghdad Pact",
+        "Bangkok Pact",
+        "Tehran Pact"
+      ],
+      "correct": 0,
+      "explanation": "SEATO was created by the Manila Pact (Southeast Asia Collective Defense Treaty) of 1954.",
+      "tags": []
+    },
+    {
+      "id": "unoand-079",
+      "q": "SEATO's headquarters were in:",
+      "options": [
+        "Baghdad",
+        "Sydney",
+        "Manila",
+        "Bangkok"
+      ],
+      "correct": 3,
+      "explanation": "SEATO was headquartered in Bangkok, Thailand.",
+      "tags": []
+    },
+    {
+      "id": "unoand-080",
+      "q": "Where is the seat of the African Union (AU)?",
+      "options": [
+        "Addis Ababa",
+        "Dodoma",
+        "Nairobi",
+        "Bloemfontein"
+      ],
+      "correct": 0,
+      "explanation": "The seat of the African Union is in Addis Ababa, Ethiopia.",
+      "tags": []
+    },
+    {
+      "id": "unoand-081",
+      "q": "When did the African Union come into existence?",
+      "options": [
+        "27 May 2002",
+        "26 May 2001",
+        "26 May 1999",
+        "28 May 1996"
+      ],
+      "correct": 1,
+      "explanation": "The African Union was established on 26 May 2001 (Constitutive Act adopted 11 July 2000).",
+      "tags": []
+    },
+    {
+      "id": "unoand-082",
+      "q": "Where is the headquarters of the African Union?",
+      "options": [
+        "Addis Ababa",
+        "Burundi",
+        "Cameroon",
+        "Congo"
+      ],
+      "correct": 0,
+      "explanation": "The AU's headquarters is in Addis Ababa, Ethiopia.",
+      "tags": []
+    },
+    {
+      "id": "unoand-083",
+      "q": "Where is the headquarters of the African Development Bank?",
+      "options": [
+        "Abidjan, Côte d'Ivoire",
+        "Niger",
+        "Namibia",
+        "Nigeria"
+      ],
+      "correct": 0,
+      "explanation": "The African Development Bank (AfDB) is headquartered in Abidjan, Côte d'Ivoire.",
+      "tags": []
+    },
+    {
+      "id": "unoand-084",
+      "q": "In which city is the Red Cross based?",
+      "options": [
+        "Bern",
+        "Geneva",
+        "Zurich",
+        "Vaduz"
+      ],
+      "correct": 1,
+      "explanation": "The International Red Cross is based in Geneva, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "unoand-085",
+      "q": "When was the International Committee of the Red Cross (ICRC) established by Jean Henri Dunant?",
+      "options": [
+        "New Delhi in February 1996",
+        "London in February 1817",
+        "Hague in February 1896",
+        "Geneva in February 1863"
+      ],
+      "correct": 3,
+      "explanation": "The ICRC was founded in Geneva in February 1863 by Jean Henri Dunant.",
+      "tags": []
+    },
+    {
+      "id": "unoand-086",
+      "q": "Where is the headquarters of the International Committee of the Red Cross?",
+      "options": [
+        "Switzerland",
+        "South Africa",
+        "United Kingdom",
+        "USA"
+      ],
+      "correct": 0,
+      "explanation": "The ICRC is headquartered in Geneva, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "unoand-087",
+      "q": "When was Transparency International founded?",
+      "options": [
+        "May 1990",
+        "May 1991",
+        "May 1992",
+        "May 1993"
+      ],
+      "correct": 3,
+      "explanation": "Transparency International was founded in May 1993 in Berlin.",
+      "tags": []
+    },
+    {
+      "id": "unoand-088",
+      "q": "Where is the headquarters of Transparency International?",
+      "options": [
+        "London",
+        "Tokyo",
+        "Berlin",
+        "Paris"
+      ],
+      "correct": 2,
+      "explanation": "Transparency International is headquartered in Berlin, Germany.",
+      "tags": []
+    },
+    {
+      "id": "unoand-089",
+      "q": "When was Amnesty International founded by Peter Benenson?",
+      "options": [
+        "July 1965",
+        "July 1961",
+        "July 1968",
+        "July 1975"
+      ],
+      "correct": 1,
+      "explanation": "Amnesty International was founded by Peter Benenson in July 1961.",
+      "tags": []
+    },
+    {
+      "id": "unoand-090",
+      "q": "Where is the headquarters of Amnesty International?",
+      "options": [
+        "London",
+        "Tokyo",
+        "New Delhi",
+        "Paris"
+      ],
+      "correct": 0,
+      "explanation": "Amnesty International is headquartered in London, United Kingdom.",
+      "tags": []
+    },
+    {
+      "id": "unoand-091",
+      "q": "Where is the headquarters of the Islamic Development Bank?",
+      "options": [
+        "Saudi Arabia",
+        "Sweden",
+        "Switzerland",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The Islamic Development Bank is headquartered in Jeddah, Saudi Arabia.",
+      "tags": []
+    },
+    {
+      "id": "unoand-092",
+      "q": "When did the International Criminal Police Organization (INTERPOL) come into existence?",
+      "options": [
+        "1923",
+        "1918",
+        "1917",
+        "1915"
+      ],
+      "correct": 0,
+      "explanation": "INTERPOL was founded in Vienna in 1923 (renamed in 1956).",
+      "tags": []
+    },
+    {
+      "id": "unoand-093",
+      "q": "Where is the headquarters of INTERPOL?",
+      "options": [
+        "Paris",
+        "Jakarta",
+        "Geneva",
+        "Lyon"
+      ],
+      "correct": 3,
+      "explanation": "INTERPOL has its headquarters in Lyon, France.",
+      "tags": []
+    },
+    {
+      "id": "unoand-094",
+      "q": "The Caribbean Community (CARICOM) was established on 1 August 1973 with its headquarters at:",
+      "options": [
+        "San José, Costa Rica",
+        "San Francisco, USA",
+        "London, UK",
+        "Georgetown, Guyana"
+      ],
+      "correct": 3,
+      "explanation": "CARICOM is headquartered in Georgetown, Guyana.",
+      "tags": []
+    },
+    {
+      "id": "unoand-095",
+      "q": "When was the Asian Development Bank established?",
+      "options": [
+        "1966",
+        "1967",
+        "1968",
+        "1965"
+      ],
+      "correct": 0,
+      "explanation": "The Asian Development Bank (ADB) was established on 19 December 1966.",
+      "tags": []
+    },
+    {
+      "id": "unoand-096",
+      "q": "Where is the headquarters of the Asian Development Bank?",
+      "options": [
+        "Denmark",
+        "China",
+        "Philippines",
+        "Nepal"
+      ],
+      "correct": 3,
+      "explanation": "As stated by the original source set, this MCQ keys to 'Nepal'. (Note: ADB's actual HQ is Manila, Philippines — answer kept as per the source bank.)",
+      "tags": []
+    },
+    {
+      "id": "unoand-097",
+      "q": "When was RCD (Regional Cooperation for Development) established?",
+      "options": [
+        "1964",
+        "1961",
+        "1965",
+        "1960"
+      ],
+      "correct": 0,
+      "explanation": "RCD — predecessor of ECO — was established in 1964 between Iran, Pakistan and Turkey.",
+      "tags": []
+    },
+    {
+      "id": "unoand-098",
+      "q": "What are the total members of the Economic Cooperation Organization (ECO)?",
+      "options": [
+        "10",
+        "11",
+        "17",
+        "3"
+      ],
+      "correct": 1,
+      "explanation": "ECO has 11 member states (added: Afghanistan, Azerbaijan, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan and Uzbekistan).",
+      "tags": []
+    },
+    {
+      "id": "unoand-099",
+      "q": "Pakistan, Iran and Turkey re-established the Economic Cooperation Organization (ECO) for promoting technical, cultural and economic cooperation in:",
+      "options": [
+        "1964",
+        "1965",
+        "1984",
+        "1985"
+      ],
+      "correct": 3,
+      "explanation": "ECO was formally established in 1985 by Pakistan, Iran and Turkey.",
+      "tags": []
+    },
+    {
+      "id": "unoand-100",
+      "q": "The Secretary-General of ECO is elected for a period of:",
+      "options": [
+        "2 years",
+        "3 years",
+        "4 years",
+        "5 years"
+      ],
+      "correct": 1,
+      "explanation": "The ECO Secretary-General is elected for a 3-year term.",
+      "tags": []
+    },
+    {
+      "id": "unoand-101",
+      "q": "Where is the headquarters of the Economic Cooperation Organization (ECO)?",
+      "options": [
+        "Republic of Iran",
+        "Pakistan",
+        "Turkey",
+        "Afghanistan"
+      ],
+      "correct": 0,
+      "explanation": "ECO's headquarters is in Tehran, Iran.",
+      "tags": []
+    },
+    {
+      "id": "unoand-102",
+      "q": "When was the Colombo Plan founded?",
+      "options": [
+        "1949",
+        "1948",
+        "1950",
+        "1951"
+      ],
+      "correct": 2,
+      "explanation": "The Colombo Plan was founded in 1950.",
+      "tags": []
+    },
+    {
+      "id": "unoand-103",
+      "q": "When was Asia-Pacific Economic Cooperation (APEC) formed?",
+      "options": [
+        "1949",
+        "1989",
+        "1987",
+        "1983"
+      ],
+      "correct": 1,
+      "explanation": "APEC was formed in 1989 in Canberra, Australia.",
+      "tags": []
+    },
+    {
+      "id": "unoand-104",
+      "q": "OPEC, the Organization of Petroleum Exporting Countries, was founded on:",
+      "options": [
+        "14 September 1960",
+        "14 September 1959",
+        "14 December 1960",
+        "14 November 1960"
+      ],
+      "correct": 0,
+      "explanation": "OPEC was founded on 14 September 1960 in Baghdad.",
+      "tags": []
+    },
+    {
+      "id": "unoand-105",
+      "q": "Where are the headquarters of the Organization of Petroleum Exporting Countries (OPEC)?",
+      "options": [
+        "Berlin",
+        "Baghdad",
+        "Riyadh",
+        "Vienna"
+      ],
+      "correct": 3,
+      "explanation": "OPEC is headquartered in Vienna, Austria.",
+      "tags": []
+    },
+    {
+      "id": "unoand-106",
+      "q": "What are the total members of OPEC?",
+      "options": [
+        "14",
+        "13",
+        "15",
+        "12"
+      ],
+      "correct": 0,
+      "explanation": "OPEC currently has 14 member states (numbers fluctuate as states join/leave).",
+      "tags": []
+    },
+    {
+      "id": "unoand-107",
+      "q": "Which is the world's oldest international human rights organization (founded in 1839)?",
+      "options": [
+        "Anti-Slavery International",
+        "Freedom House",
+        "Asia Watch",
+        "Human Rights Watch"
+      ],
+      "correct": 0,
+      "explanation": "Anti-Slavery International, founded in 1839, is the world's oldest international human-rights organization.",
+      "tags": []
+    },
+    {
+      "id": "unoand-108",
+      "q": "Americas Watch was founded in:",
+      "options": [
+        "1981",
+        "1983",
+        "1984",
+        "1985"
+      ],
+      "correct": 0,
+      "explanation": "Americas Watch was founded in 1981 (later merged into Human Rights Watch).",
+      "tags": []
+    },
+    {
+      "id": "unoand-109",
+      "q": "Freedom House was founded in:",
+      "options": [
+        "October 1941",
+        "October 1943",
+        "October 1944",
+        "October 1945"
+      ],
+      "correct": 0,
+      "explanation": "Freedom House was founded in October 1941 in New York.",
+      "tags": []
+    },
+    {
+      "id": "unoand-110",
+      "q": "Asia Watch was founded in:",
+      "options": [
+        "1985",
+        "1986",
+        "1987",
+        "1988"
+      ],
+      "correct": 0,
+      "explanation": "Asia Watch was founded in 1985 (later part of Human Rights Watch).",
+      "tags": []
+    },
+    {
+      "id": "unoand-111",
+      "q": "The term 'Non-Alignment' itself was coined by:",
+      "options": [
+        "Pandit Nehru",
+        "Nasser",
+        "Josip Broz Tito",
+        "Zhou Enlai"
+      ],
+      "correct": 0,
+      "explanation": "Pandit Jawaharlal Nehru coined the term 'Non-Alignment'.",
+      "tags": []
+    },
+    {
+      "id": "unoand-112",
+      "q": "The Bandung Conference was held in:",
+      "options": [
+        "1944",
+        "1955",
+        "1961",
+        "1957"
+      ],
+      "correct": 1,
+      "explanation": "The Bandung (Asian-African) Conference was held in 1955 in Indonesia, paving the way for NAM.",
+      "tags": []
+    },
+    {
+      "id": "unoand-113",
+      "q": "The first NAM Conference was held in Belgrade (Yugoslavia) in:",
+      "options": [
+        "October 1960",
+        "September 1961",
+        "November 1962",
+        "December 1959"
+      ],
+      "correct": 1,
+      "explanation": "The first NAM Summit was held in Belgrade in September 1961.",
+      "tags": []
+    },
+    {
+      "id": "unoand-114",
+      "q": "Pakistan joined the NAM in which year?",
+      "options": [
+        "1977",
+        "1978",
+        "1979",
+        "1980"
+      ],
+      "correct": 2,
+      "explanation": "Pakistan formally joined the Non-Aligned Movement in 1979.",
+      "tags": []
+    },
+    {
+      "id": "unoand-115",
+      "q": "Who was the first General Secretary of the Non-Aligned Movement?",
+      "options": [
+        "Pandit Nehru",
+        "Nasser",
+        "Josip Broz Tito",
+        "Zhou Enlai"
+      ],
+      "correct": 2,
+      "explanation": "Yugoslav President Josip Broz Tito was a founder of NAM and its first General Secretary.",
+      "tags": []
+    },
+    {
+      "id": "unoand-116",
+      "q": "The Arab League was established on:",
+      "options": [
+        "22 March 1944",
+        "22 March 1946",
+        "22 March 1945",
+        "22 March 1947"
+      ],
+      "correct": 2,
+      "explanation": "The Arab League was established on 22 March 1945 in Cairo.",
+      "tags": []
+    },
+    {
+      "id": "unoand-117",
+      "q": "The headquarters of the Arab League is located at:",
+      "options": [
+        "Riyadh",
+        "Tunisia",
+        "Cairo",
+        "Damascus"
+      ],
+      "correct": 2,
+      "explanation": "The Arab League is headquartered in Cairo, Egypt.",
+      "tags": []
+    },
+    {
+      "id": "unoand-118",
+      "q": "The Arab League is comprised of how many member countries?",
+      "options": [
+        "22",
+        "25",
+        "21",
+        "24"
+      ],
+      "correct": 0,
+      "explanation": "The Arab League has 22 member states.",
+      "tags": []
+    },
+    {
+      "id": "unoand-119",
+      "q": "When did Pakistan join the WTO?",
+      "options": [
+        "1 January 1995",
+        "1 February 1995",
+        "1 January 2001",
+        "1 January 2000"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan became a founding WTO member on 1 January 1995.",
+      "tags": []
+    },
+    {
+      "id": "unoand-120",
+      "q": "When did the General Agreement on Tariffs and Trade (GATT) go into effect?",
+      "options": [
+        "1944",
+        "1948",
+        "1947",
+        "1949"
+      ],
+      "correct": 1,
+      "explanation": "GATT entered into force on 1 January 1948 (signed in October 1947).",
+      "tags": []
+    },
+    {
+      "id": "unoand-121",
+      "q": "When did the World Trade Organization (WTO) come into effect?",
+      "options": [
+        "1 January 1995",
+        "1 January 1996",
+        "1 January 1997",
+        "1 January 1998"
+      ],
+      "correct": 0,
+      "explanation": "The WTO came into effect on 1 January 1995, replacing GATT.",
+      "tags": []
+    },
+    {
+      "id": "unoand-122",
+      "q": "China became a member of the World Trade Organization (WTO) in:",
+      "options": [
+        "1945",
+        "1960",
+        "1990",
+        "2001"
+      ],
+      "correct": 3,
+      "explanation": "China joined the WTO on 11 December 2001.",
+      "tags": []
+    },
+    {
+      "id": "unoand-123",
+      "q": "Russia became a member of the World Trade Organization (WTO) in:",
+      "options": [
+        "2010",
+        "2009",
+        "2011",
+        "2012"
+      ],
+      "correct": 3,
+      "explanation": "Russia joined the WTO on 22 August 2012.",
+      "tags": []
+    },
+    {
+      "id": "unoand-124",
+      "q": "Scouts is a worldwide organized movement for young people, started in:",
+      "options": [
+        "1912",
+        "1917",
+        "1910",
+        "1918"
+      ],
+      "correct": 1,
+      "explanation": "As per this MCQ source, the 'Scouts' movement is recorded with the year 1917 (note: the international Boy Scouts movement was founded by Robert Baden-Powell in 1907).",
+      "tags": []
+    },
+    {
+      "id": "unoand-125",
+      "q": "The Scouts Movement was founded by:",
+      "options": [
+        "Sir Robert Baden-Powell",
+        "Badan-Powell",
+        "Josip Broz Tito",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The Scouts Movement was founded by Sir Robert Baden-Powell.",
+      "tags": []
+    },
+    {
+      "id": "unoand-126",
+      "q": "The Group of 77 was established under the auspices of the UN in:",
+      "options": [
+        "1964",
+        "1965",
+        "1967",
+        "1962"
+      ],
+      "correct": 0,
+      "explanation": "The Group of 77 was established at UNCTAD in Geneva on 15 June 1964.",
+      "tags": []
+    },
+    {
+      "id": "unoand-127",
+      "q": "The D-8 Summit is convened once every:",
+      "options": [
+        "1 year",
+        "2 years",
+        "3 years",
+        "4 years"
+      ],
+      "correct": 0,
+      "explanation": "The D-8 (Developing 8) Summit is normally convened every year.",
+      "tags": []
+    },
+    {
+      "id": "unoand-128",
+      "q": "SAARC was formed in Dhaka on:",
+      "options": [
+        "7 November 1984",
+        "8 October 1985",
+        "5 September 1984",
+        "8 December 1985"
+      ],
+      "correct": 3,
+      "explanation": "The South Asian Association for Regional Cooperation (SAARC) was formed in Dhaka on 8 December 1985.",
+      "tags": []
+    },
+    {
+      "id": "unoand-129",
+      "q": "The headquarters of SAARC is located in which city?",
+      "options": [
+        "Kathmandu",
+        "Colombo",
+        "Islamabad",
+        "Dhaka"
+      ],
+      "correct": 0,
+      "explanation": "SAARC is headquartered in Kathmandu, Nepal.",
+      "tags": []
+    },
+    {
+      "id": "unoand-130",
+      "q": "Which SAARC summit was held in Islamabad in 1988?",
+      "options": [
+        "5th",
+        "4th",
+        "3rd",
+        "6th"
+      ],
+      "correct": 1,
+      "explanation": "The 4th SAARC Summit was held in Islamabad in 1988.",
+      "tags": []
+    },
+    {
+      "id": "unoand-131",
+      "q": "The first SAARC summit was held in 1985 in:",
+      "options": [
+        "Delhi",
+        "Dhaka",
+        "Kathmandu",
+        "Colombo"
+      ],
+      "correct": 1,
+      "explanation": "The first SAARC summit was held in Dhaka in 1985.",
+      "tags": []
+    },
+    {
+      "id": "unoand-132",
+      "q": "In the acronym SAARC, 'C' stands for:",
+      "options": [
+        "Committee",
+        "Commonwealth",
+        "Conference",
+        "Cooperation"
+      ],
+      "correct": 3,
+      "explanation": "SAARC stands for South Asian Association for Regional Cooperation.",
+      "tags": []
+    },
+    {
+      "id": "unoand-133",
+      "q": "Name the first Secretary-General of SAARC.",
+      "options": [
+        "Nazim Karim",
+        "Abu Saeed Hamiduddin Ahsan",
+        "Rafi Nizami",
+        "None of them"
+      ],
+      "correct": 1,
+      "explanation": "Abu Saeed Hamiduddin Ahsan of Bangladesh was the first SG of SAARC.",
+      "tags": []
+    },
+    {
+      "id": "unoand-134",
+      "q": "The Association of South-East Asian Nations (ASEAN) was established on 9 August 1967 with its headquarters in:",
+      "options": [
+        "Jakarta",
+        "Singapore",
+        "Delhi",
+        "Geneva"
+      ],
+      "correct": 0,
+      "explanation": "ASEAN is headquartered in Jakarta, Indonesia.",
+      "tags": []
+    },
+    {
+      "id": "unoand-135",
+      "q": "China founded the international alliance 'Shanghai Five' in:",
+      "options": [
+        "April 1994",
+        "April 1995",
+        "April 1996",
+        "April 1997"
+      ],
+      "correct": 2,
+      "explanation": "The 'Shanghai Five' alliance was founded in April 1996.",
+      "tags": []
+    },
+    {
+      "id": "unoand-136",
+      "q": "In June 2001, which Central Asian state was invited to join the Shanghai Five, after which the group was officially named the SCO?",
+      "options": [
+        "Uzbekistan",
+        "Kazakhstan",
+        "Tajikistan",
+        "Azerbaijan"
+      ],
+      "correct": 0,
+      "explanation": "Uzbekistan joined in June 2001, transforming the Shanghai Five into the Shanghai Cooperation Organization (SCO).",
+      "tags": []
+    },
+    {
+      "id": "unoand-137",
+      "q": "When was the Islamic Development Bank formed?",
+      "options": [
+        "August 1974",
+        "August 1979",
+        "August 1978",
+        "August 1975"
+      ],
+      "correct": 0,
+      "explanation": "The Islamic Development Bank was formed in August 1974.",
+      "tags": []
+    },
+    {
+      "id": "unoand-138",
+      "q": "Where is the headquarters of the Organization of Islamic Cooperation (OIC)?",
+      "options": [
+        "Morocco",
+        "Saudi Arabia",
+        "Kuwait",
+        "Niger"
+      ],
+      "correct": 1,
+      "explanation": "The OIC is headquartered in Jeddah, Saudi Arabia.",
+      "tags": []
+    },
+    {
+      "id": "unoand-139",
+      "q": "When was the Organization of Islamic Cooperation (OIC) established?",
+      "options": [
+        "May 1970",
+        "May 1971",
+        "September 1969",
+        "May 1972"
+      ],
+      "correct": 2,
+      "explanation": "OIC was established in September 1969 after the Al-Aqsa fire.",
+      "tags": []
+    },
+    {
+      "id": "unoand-140",
+      "q": "What are the total members of the OIC?",
+      "options": [
+        "55",
+        "52",
+        "53",
+        "57"
+      ],
+      "correct": 3,
+      "explanation": "The OIC has 57 member states.",
+      "tags": []
+    },
+    {
+      "id": "unoand-141",
+      "q": "The headquarters of the Organization of Islamic Cooperation is located in:",
+      "options": [
+        "Kuwait",
+        "Jeddah",
+        "Cairo",
+        "Tehran"
+      ],
+      "correct": 1,
+      "explanation": "The OIC headquarters is in Jeddah, Saudi Arabia.",
+      "tags": []
+    },
+    {
+      "id": "unoand-142",
+      "q": "The Organization for the Prohibition of Chemical Weapons (OPCW) was established on:",
+      "options": [
+        "27 April 1927",
+        "27 April 1997",
+        "27 April 1977",
+        "27 April 1987"
+      ],
+      "correct": 1,
+      "explanation": "The OPCW was established on 29 April 1997 (Chemical Weapons Convention entry into force).",
+      "tags": []
+    },
+    {
+      "id": "unoand-143",
+      "q": "Where is the head office of the Organization for the Prohibition of Chemical Weapons (OPCW), the 2013 Nobel Peace Prize laureate?",
+      "options": [
+        "Hamburg",
+        "Greenwich",
+        "Geneva",
+        "The Hague"
+      ],
+      "correct": 3,
+      "explanation": "OPCW is headquartered in The Hague, Netherlands; it won the Nobel Peace Prize in 2013.",
+      "tags": []
+    },
+    {
+      "id": "unoand-144",
+      "q": "Where is the headquarters of the Worldwide Fund for Nature (WWF)?",
+      "options": [
+        "Lebanon",
+        "Benin",
+        "Switzerland",
+        "Haiti"
+      ],
+      "correct": 2,
+      "explanation": "WWF is headquartered in Gland, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "unoand-145",
+      "q": "When did the Antarctic Treaty come into force?",
+      "options": [
+        "25 July 1961",
+        "28 July 1968",
+        "23 June 1961",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The Antarctic Treaty entered into force on 23 June 1961.",
+      "tags": []
+    },
+    {
+      "id": "unoand-146",
+      "q": "When did North Korea and South Korea agree to resume reunions of war-split families?",
+      "options": [
+        "5 February 2014",
+        "7 February 2014",
+        "9 February 2014",
+        "14 February 2014"
+      ],
+      "correct": 0,
+      "explanation": "On 5 February 2014, the two Koreas agreed to resume reunions of families separated by the Korean War.",
+      "tags": []
+    },
+    {
+      "id": "unoand-147",
+      "q": "Where is the headquarters of EFTA located?",
+      "options": [
+        "Paris",
+        "Geneva",
+        "Washington",
+        "New York"
+      ],
+      "correct": 1,
+      "explanation": "The European Free Trade Association (EFTA) — established 3 May 1960 — is headquartered in Geneva, Switzerland.",
+      "tags": []
+    }
+  ]
+}

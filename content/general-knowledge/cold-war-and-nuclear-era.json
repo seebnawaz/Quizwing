@@ -1,0 +1,1259 @@
+{
+  "topic_id": "cold-war-and-nuclear-era",
+  "topic_name": "Cold War & Nuclear Era",
+  "subject": "general-knowledge",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Cold War & Nuclear Era MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "☢️",
+  "mcqs": [
+    {
+      "id": "coldwa-001",
+      "q": "Who coined the term 'Cold War'?",
+      "options": [
+        "Bernard Baruch",
+        "Winston Churchill",
+        "Harry Truman",
+        "George Kennan"
+      ],
+      "correct": 0,
+      "explanation": "The term 'Cold War' was coined by American financier and presidential advisor Bernard Baruch in a 1947 speech, describing the US-USSR rivalry.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-002",
+      "q": "The Cold War strategy is best described as?",
+      "options": [
+        "Deterrence",
+        "Direct confrontation",
+        "Appeasement",
+        "Isolation"
+      ],
+      "correct": 0,
+      "explanation": "The Cold War strategy was based on deterrence — the threat of massive nuclear retaliation to prevent either superpower from starting a war (MAD doctrine).",
+      "tags": []
+    },
+    {
+      "id": "coldwa-003",
+      "q": "Clausewitz's famous policy states that?",
+      "options": [
+        "War is the continuation of policy",
+        "War is inevitable",
+        "Peace is the default",
+        "Diplomacy prevents war"
+      ],
+      "correct": 0,
+      "explanation": "Carl von Clausewitz, Prussian military theorist, famously stated 'War is the continuation of policy by other means' in his book 'On War'.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-004",
+      "q": "The term 'Third World Countries' was first used during?",
+      "options": [
+        "The Cold War era",
+        "World War II",
+        "Post-2001 era",
+        "Industrial Revolution"
+      ],
+      "correct": 0,
+      "explanation": "'Third World Countries' emerged during the Cold War to describe nations not aligned with either the US-led First World or Soviet-led Second World blocs.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-005",
+      "q": "'Third World Countries' means?",
+      "options": [
+        "Developing Countries",
+        "War-torn countries",
+        "Non-aligned countries",
+        "Third-largest countries"
+      ],
+      "correct": 0,
+      "explanation": "Third World Countries generally refers to developing countries — those with lower economic development, primarily in Africa, Asia, and Latin America.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-006",
+      "q": "In 2001, the World Trade Center attack took place in?",
+      "options": [
+        "USA",
+        "UK",
+        "Japan",
+        "Russia"
+      ],
+      "correct": 0,
+      "explanation": "The 9/11 World Trade Center attacks occurred in New York, USA on 11 September 2001, killing nearly 3,000 people.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-007",
+      "q": "The site of the 9/11 attack was renamed?",
+      "options": [
+        "Ground Zero",
+        "Memorial Site",
+        "9/11 Plaza",
+        "Freedom Square"
+      ],
+      "correct": 0,
+      "explanation": "The former site of the Twin Towers in Manhattan was renamed Ground Zero after the September 11, 2001 attacks.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-008",
+      "q": "Who gave the 'New World Order' speech at the time of USSR disintegration?",
+      "options": [
+        "George H. W. Bush (Bush Senior)",
+        "Ronald Reagan",
+        "Bill Clinton",
+        "George W. Bush"
+      ],
+      "correct": 0,
+      "explanation": "President George H. W. Bush (Bush Senior) delivered his 'New World Order' speech on 11 September 1990, describing post-Cold War geopolitics.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-009",
+      "q": "The US came to Pakistan as a frontline ally after which major event?",
+      "options": [
+        "9/11 attacks (2001)",
+        "USSR invasion of Afghanistan 1979",
+        "Iraq War 2003",
+        "Kargil War 1999"
+      ],
+      "correct": 0,
+      "explanation": "US-Pakistan relations intensified after 9/11 (2001) when Pakistan became a frontline ally in the US War on Terror against the Taliban and al-Qaeda.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-010",
+      "q": "Who was the US President during the Cuban Missile Crisis (October 1962)?",
+      "options": [
+        "John F. Kennedy",
+        "Dwight Eisenhower",
+        "Lyndon Johnson",
+        "Richard Nixon"
+      ],
+      "correct": 0,
+      "explanation": "President John F. Kennedy (JFK) led the US during the 13-day Cuban Missile Crisis of October 1962, confronting Soviet leader Nikita Khrushchev.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-011",
+      "q": "Fidel Castro belonged to which country?",
+      "options": [
+        "Cuba",
+        "Venezuela",
+        "Nicaragua",
+        "Bolivia"
+      ],
+      "correct": 0,
+      "explanation": "Fidel Castro was the Cuban revolutionary and communist leader who ruled Cuba from 1959 to 2008.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-012",
+      "q": "During the Cold War, Fidel Castro attempted to?",
+      "options": [
+        "Allow a Soviet missile base in Cuba",
+        "Invade USA",
+        "Join NATO",
+        "Support anti-Soviet rebels"
+      ],
+      "correct": 0,
+      "explanation": "Fidel Castro allowed the Soviet Union to build nuclear missile bases in Cuba, triggering the Cuban Missile Crisis in October 1962.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-013",
+      "q": "The term 'Facebook Diplomacy' was coined in?",
+      "options": [
+        "December 2008",
+        "March 2009",
+        "January 2010",
+        "June 2011"
+      ],
+      "correct": 0,
+      "explanation": "'Facebook Diplomacy' was coined in December 2008 to describe diplomatic outreach via social media platforms.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-014",
+      "q": "After North Korea's nuclear tests, how many countries are currently nuclear powers?",
+      "options": [
+        "9",
+        "7",
+        "8",
+        "10"
+      ],
+      "correct": 0,
+      "explanation": "There are 9 nuclear powers: USA, Russia, UK, France, China (NPT-recognized), plus India, Pakistan, North Korea, and Israel (undeclared).",
+      "tags": []
+    },
+    {
+      "id": "coldwa-015",
+      "q": "The IAEA (International Atomic Energy Agency) was recognized by the UN in?",
+      "options": [
+        "1957",
+        "1945",
+        "1968",
+        "1970"
+      ],
+      "correct": 0,
+      "explanation": "The IAEA was established in July 1957 and recognized by the United Nations as an autonomous international organization.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-016",
+      "q": "The rule for international agreements in written form is provided in?",
+      "options": [
+        "Vienna Convention on the Law of Treaties",
+        "Geneva Convention",
+        "Hague Convention",
+        "UN Charter"
+      ],
+      "correct": 0,
+      "explanation": "The Vienna Convention on the Law of Treaties (1969) regulates written international agreements between states.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-017",
+      "q": "The Vienna Convention on the Law of Treaties is also known as?",
+      "options": [
+        "Treaty of Treaties",
+        "Grand Treaty",
+        "Universal Treaty",
+        "Master Pact"
+      ],
+      "correct": 0,
+      "explanation": "The Vienna Convention (1969) is called the 'Treaty of Treaties' because it governs how all other treaties are made, interpreted, and terminated.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-018",
+      "q": "The NPT (1968) is about nuclear weapons and aims to?",
+      "options": [
+        "Prevent its expansion",
+        "Ban all nuclear energy",
+        "Arm all NATO members",
+        "Give weapons to allies"
+      ],
+      "correct": 0,
+      "explanation": "The Nuclear Non-Proliferation Treaty (NPT, 1968) aims to prevent the proliferation (spread) of nuclear weapons and promote peaceful nuclear energy use.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-019",
+      "q": "Which country has threatened to withdraw from the NPT?",
+      "options": [
+        "Iran",
+        "Saudi Arabia",
+        "Turkey",
+        "Egypt"
+      ],
+      "correct": 0,
+      "explanation": "Iran has repeatedly threatened to withdraw from the NPT (Nuclear Non-Proliferation Treaty) over Western sanctions and nuclear program disputes.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-020",
+      "q": "The current Head of the IAEA (Director General) is?",
+      "options": [
+        "Rafael Mariano Grossi",
+        "Yukiya Amano",
+        "Mohamed ElBaradei",
+        "Hans Blix"
+      ],
+      "correct": 0,
+      "explanation": "Rafael Mariano Grossi of Argentina has been Director General of the IAEA since 3 December 2019.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-021",
+      "q": "The IAEA was created to promote?",
+      "options": [
+        "Peaceful use of nuclear energy",
+        "Nuclear weapons development",
+        "Uranium mining",
+        "Military alliances"
+      ],
+      "correct": 0,
+      "explanation": "The IAEA was created under the 'Atoms for Peace' program to promote peaceful use of nuclear energy and prevent its diversion to military purposes.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-022",
+      "q": "The IAEA has its headquarters in?",
+      "options": [
+        "Vienna",
+        "Geneva",
+        "New York",
+        "Paris"
+      ],
+      "correct": 0,
+      "explanation": "The International Atomic Energy Agency (IAEA) is headquartered in Vienna, Austria at the UN Vienna International Centre.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-023",
+      "q": "The world's largest nuclear power station is located in?",
+      "options": [
+        "Japan (Kashiwazaki-Kariwa)",
+        "USA (Palo Verde)",
+        "France (Gravelines)",
+        "Russia (Leningrad)"
+      ],
+      "correct": 0,
+      "explanation": "The Kashiwazaki-Kariwa Nuclear Power Plant in Japan is the world's largest by installed capacity (7,965 MW across 7 reactors).",
+      "tags": []
+    },
+    {
+      "id": "coldwa-024",
+      "q": "North Korea conducted its second nuclear test in?",
+      "options": [
+        "2009",
+        "2006",
+        "2013",
+        "2017"
+      ],
+      "correct": 0,
+      "explanation": "North Korea conducted its second nuclear test on 25 May 2009, following its first test in October 2006.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-025",
+      "q": "Which country built a cruise submarine threatening the US?",
+      "options": [
+        "North Korea",
+        "Iran",
+        "China",
+        "Russia"
+      ],
+      "correct": 0,
+      "explanation": "North Korea announced the development of cruise-missile submarines, adding to concerns about its nuclear and military capabilities.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-026",
+      "q": "The full form of 'CTBT' is?",
+      "options": [
+        "Comprehensive Test Ban Treaty",
+        "Complete Testing Ban Treaty",
+        "Central Treaty Banning Tests",
+        "Comprehensive Tech Banning Treaty"
+      ],
+      "correct": 0,
+      "explanation": "CTBT stands for Comprehensive Nuclear-Test-Ban Treaty, adopted in 1996 to ban all nuclear explosions for military or civilian purposes.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-027",
+      "q": "The primary purpose of the AUKUS alliance is to?",
+      "options": [
+        "Assist Australia in building nuclear submarines",
+        "Provide weapons to Taiwan",
+        "Contain Russia in Europe",
+        "Fight terrorism in Middle East"
+      ],
+      "correct": 0,
+      "explanation": "AUKUS (September 2021) between Australia, UK, and USA primarily aims to help Australia acquire nuclear-powered submarines to counter China.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-028",
+      "q": "The Cold War was fought primarily between?",
+      "options": [
+        "USA and USSR",
+        "USA and China",
+        "UK and Germany",
+        "France and Russia"
+      ],
+      "correct": 0,
+      "explanation": "The Cold War (1947-1991) was the ideological and geopolitical rivalry between the United States and the Soviet Union (USSR).",
+      "tags": []
+    },
+    {
+      "id": "coldwa-029",
+      "q": "The Cold War lasted from?",
+      "options": [
+        "1947 to 1991",
+        "1945 to 1989",
+        "1950 to 1990",
+        "1946 to 1992"
+      ],
+      "correct": 0,
+      "explanation": "The Cold War lasted from approximately 1947 (Truman Doctrine) to 1991 (dissolution of the Soviet Union).",
+      "tags": []
+    },
+    {
+      "id": "coldwa-030",
+      "q": "The 'Iron Curtain' speech was given by?",
+      "options": [
+        "Winston Churchill",
+        "Harry Truman",
+        "Joseph Stalin",
+        "Franklin Roosevelt"
+      ],
+      "correct": 0,
+      "explanation": "Winston Churchill delivered the 'Iron Curtain' speech on 5 March 1946 at Fulton, Missouri, describing the Soviet division of Europe.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-031",
+      "q": "The Truman Doctrine (1947) aimed to?",
+      "options": [
+        "Contain communism",
+        "Spread capitalism globally",
+        "Rebuild Germany",
+        "Create nuclear weapons"
+      ],
+      "correct": 0,
+      "explanation": "The Truman Doctrine (1947) committed the US to containing Soviet communism, initially by providing aid to Greece and Turkey.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-032",
+      "q": "The Marshall Plan (1948) provided aid to?",
+      "options": [
+        "Western Europe",
+        "Soviet Union",
+        "Japan",
+        "Middle East"
+      ],
+      "correct": 0,
+      "explanation": "The Marshall Plan (1948) provided $13 billion in US economic aid to rebuild Western Europe and prevent communist influence.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-033",
+      "q": "NATO was formed in?",
+      "options": [
+        "1949",
+        "1947",
+        "1955",
+        "1945"
+      ],
+      "correct": 0,
+      "explanation": "The North Atlantic Treaty Organization (NATO) was established on 4 April 1949 via the Washington Treaty as a collective defense pact against the USSR.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-034",
+      "q": "The Warsaw Pact was formed in?",
+      "options": [
+        "1955",
+        "1949",
+        "1947",
+        "1961"
+      ],
+      "correct": 0,
+      "explanation": "The Warsaw Pact was formed on 14 May 1955 as a Soviet-led military alliance of Eastern Bloc countries to counter NATO.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-035",
+      "q": "The Korean War was fought from?",
+      "options": [
+        "1950-1953",
+        "1945-1950",
+        "1955-1960",
+        "1960-1965"
+      ],
+      "correct": 0,
+      "explanation": "The Korean War (1950-1953) was a Cold War conflict between North Korea (backed by USSR/China) and South Korea (backed by USA/UN).",
+      "tags": []
+    },
+    {
+      "id": "coldwa-036",
+      "q": "Korea was divided into North and South at which parallel?",
+      "options": [
+        "38th parallel",
+        "17th parallel",
+        "49th parallel",
+        "45th parallel"
+      ],
+      "correct": 0,
+      "explanation": "Korea was divided at the 38th parallel after WWII, formalized by the Korean War armistice of 1953.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-037",
+      "q": "The Vietnam War was fought from?",
+      "options": [
+        "1955-1975",
+        "1950-1965",
+        "1965-1975",
+        "1960-1970"
+      ],
+      "correct": 0,
+      "explanation": "The Vietnam War (1955-1975) was a Cold War conflict ending with North Vietnam's victory and reunification under communist rule.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-038",
+      "q": "The Berlin Wall was built in?",
+      "options": [
+        "1961",
+        "1945",
+        "1955",
+        "1989"
+      ],
+      "correct": 0,
+      "explanation": "The Berlin Wall was built by East Germany starting 13 August 1961 to prevent East Berliners from fleeing to West Berlin.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-039",
+      "q": "The Berlin Wall fell in?",
+      "options": [
+        "1989",
+        "1991",
+        "1985",
+        "1990"
+      ],
+      "correct": 0,
+      "explanation": "The Berlin Wall fell on 9 November 1989, symbolizing the end of the Cold War and leading to German reunification in 1990.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-040",
+      "q": "Mikhail Gorbachev introduced which reforms in 1985?",
+      "options": [
+        "Perestroika and Glasnost",
+        "Five-Year Plans",
+        "New Economic Policy",
+        "Khozraschet"
+      ],
+      "correct": 0,
+      "explanation": "Mikhail Gorbachev introduced Perestroika (restructuring) and Glasnost (openness) in 1985 to reform the Soviet system.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-041",
+      "q": "The Soviet Union dissolved in?",
+      "options": [
+        "December 1991",
+        "November 1989",
+        "August 1991",
+        "January 1992"
+      ],
+      "correct": 0,
+      "explanation": "The Soviet Union was officially dissolved on 26 December 1991, ending the Cold War.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-042",
+      "q": "The USSR disintegrated into how many independent states?",
+      "options": [
+        "15",
+        "12",
+        "20",
+        "10"
+      ],
+      "correct": 0,
+      "explanation": "The dissolution of the USSR in 1991 created 15 independent states including Russia, Ukraine, Belarus, Kazakhstan, and the Baltic states.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-043",
+      "q": "The first atomic bomb was developed under which project?",
+      "options": [
+        "Manhattan Project",
+        "Enigma Project",
+        "Operation Fat Man",
+        "Project Trinity"
+      ],
+      "correct": 0,
+      "explanation": "The Manhattan Project (1942-1945) was the US-led program that developed the first atomic bombs during WWII.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-044",
+      "q": "The first atomic bomb was tested in?",
+      "options": [
+        "1945",
+        "1942",
+        "1949",
+        "1952"
+      ],
+      "correct": 0,
+      "explanation": "The world's first atomic bomb was detonated on 16 July 1945 at the Trinity Test site in New Mexico, USA.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-045",
+      "q": "The USSR conducted its first nuclear test in?",
+      "options": [
+        "1949",
+        "1945",
+        "1953",
+        "1957"
+      ],
+      "correct": 0,
+      "explanation": "The Soviet Union conducted its first nuclear test (code name 'First Lightning' or 'Joe-1') on 29 August 1949.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-046",
+      "q": "The UK conducted its first nuclear test in?",
+      "options": [
+        "1952",
+        "1945",
+        "1960",
+        "1964"
+      ],
+      "correct": 0,
+      "explanation": "The United Kingdom conducted its first nuclear test (Operation Hurricane) on 3 October 1952 at Monte Bello Islands, Australia.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-047",
+      "q": "France conducted its first nuclear test in?",
+      "options": [
+        "1960",
+        "1952",
+        "1964",
+        "1968"
+      ],
+      "correct": 0,
+      "explanation": "France conducted its first nuclear test (Gerboise Bleue) on 13 February 1960 in the Algerian Sahara.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-048",
+      "q": "China conducted its first nuclear test in?",
+      "options": [
+        "1964",
+        "1960",
+        "1967",
+        "1971"
+      ],
+      "correct": 0,
+      "explanation": "China conducted its first nuclear test on 16 October 1964 at the Lop Nur test site in Xinjiang.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-049",
+      "q": "India conducted its first nuclear test in?",
+      "options": [
+        "1974",
+        "1968",
+        "1982",
+        "1998"
+      ],
+      "correct": 0,
+      "explanation": "India conducted its first nuclear test (Operation Smiling Buddha / Pokhran-I) on 18 May 1974.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-050",
+      "q": "Pakistan conducted its first nuclear test in?",
+      "options": [
+        "1998",
+        "1974",
+        "1985",
+        "2001"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan conducted its first nuclear tests (Chagai-I and Chagai-II) on 28 and 30 May 1998, becoming the 7th declared nuclear power.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-051",
+      "q": "North Korea conducted its first nuclear test in?",
+      "options": [
+        "2006",
+        "1998",
+        "2009",
+        "2013"
+      ],
+      "correct": 0,
+      "explanation": "North Korea conducted its first nuclear test on 9 October 2006, making it the 8th declared nuclear power.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-052",
+      "q": "The Non-Proliferation Treaty (NPT) entered into force in?",
+      "options": [
+        "1970",
+        "1968",
+        "1975",
+        "1980"
+      ],
+      "correct": 0,
+      "explanation": "The NPT was opened for signature in 1968 and entered into force on 5 March 1970.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-053",
+      "q": "Which countries are NOT signatories to the NPT?",
+      "options": [
+        "India, Pakistan, Israel, North Korea",
+        "China, France, USA",
+        "Russia, UK, China",
+        "Germany, Japan, Italy"
+      ],
+      "correct": 0,
+      "explanation": "India, Pakistan, Israel (undeclared), and North Korea (withdrew in 2003) are not members of the NPT.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-054",
+      "q": "The CTBT was adopted by the UN General Assembly in?",
+      "options": [
+        "1996",
+        "1968",
+        "1972",
+        "2000"
+      ],
+      "correct": 0,
+      "explanation": "The Comprehensive Nuclear-Test-Ban Treaty (CTBT) was adopted by the UN General Assembly on 10 September 1996.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-055",
+      "q": "SALT I (Strategic Arms Limitation Talks) was signed in?",
+      "options": [
+        "1972",
+        "1968",
+        "1979",
+        "1987"
+      ],
+      "correct": 0,
+      "explanation": "SALT I was signed on 26 May 1972 between the USA (Nixon) and USSR (Brezhnev), limiting strategic nuclear weapons.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-056",
+      "q": "SALT II was signed in?",
+      "options": [
+        "1979",
+        "1972",
+        "1985",
+        "1991"
+      ],
+      "correct": 0,
+      "explanation": "SALT II was signed on 18 June 1979 between US President Carter and Soviet leader Brezhnev.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-057",
+      "q": "The INF Treaty (1987) was signed between?",
+      "options": [
+        "USA and USSR",
+        "USA and China",
+        "UK and France",
+        "Russia and China"
+      ],
+      "correct": 0,
+      "explanation": "The Intermediate-Range Nuclear Forces (INF) Treaty was signed in 1987 by Reagan and Gorbachev, banning land-based missiles of 500-5,500 km range.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-058",
+      "q": "START I (Strategic Arms Reduction Treaty) was signed in?",
+      "options": [
+        "1991",
+        "1987",
+        "1993",
+        "1995"
+      ],
+      "correct": 0,
+      "explanation": "START I was signed on 31 July 1991 between US President George H. W. Bush and Soviet leader Gorbachev.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-059",
+      "q": "Which US President had the 'Star Wars' (SDI) program?",
+      "options": [
+        "Ronald Reagan",
+        "Jimmy Carter",
+        "George H. W. Bush",
+        "Richard Nixon"
+      ],
+      "correct": 0,
+      "explanation": "President Ronald Reagan announced the Strategic Defense Initiative (SDI), nicknamed 'Star Wars', on 23 March 1983.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-060",
+      "q": "The Non-Aligned Movement was formally established in?",
+      "options": [
+        "Belgrade 1961",
+        "Bandung 1955",
+        "Havana 1979",
+        "Cairo 1964"
+      ],
+      "correct": 0,
+      "explanation": "The Non-Aligned Movement (NAM) was formally established at the Belgrade Conference in 1961. Its origins trace to the Bandung Conference of 1955.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-061",
+      "q": "Who were the founding leaders of the Non-Aligned Movement?",
+      "options": [
+        "Nehru, Nasser, Tito, Nkrumah, Sukarno",
+        "Mao, Stalin, Tito",
+        "Churchill, Roosevelt, Stalin",
+        "Nehru, Jinnah, Gandhi"
+      ],
+      "correct": 0,
+      "explanation": "The Non-Aligned Movement was founded by Jawaharlal Nehru (India), Gamal Abdel Nasser (Egypt), Josip Broz Tito (Yugoslavia), Kwame Nkrumah (Ghana), and Sukarno (Indonesia).",
+      "tags": []
+    },
+    {
+      "id": "coldwa-062",
+      "q": "SEATO (Southeast Asia Treaty Organization) was formed in?",
+      "options": [
+        "1954",
+        "1949",
+        "1955",
+        "1960"
+      ],
+      "correct": 0,
+      "explanation": "SEATO was formed on 8 September 1954 as a US-led collective defense pact for Southeast Asia against communism.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-063",
+      "q": "CENTO (Central Treaty Organization) was formed in?",
+      "options": [
+        "1955",
+        "1949",
+        "1954",
+        "1960"
+      ],
+      "correct": 0,
+      "explanation": "CENTO was formed in 1955 (originally as the Baghdad Pact) to counter Soviet expansion in the Middle East. Pakistan, Iran, Iraq, Turkey, and UK were members.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-064",
+      "q": "The Soviet Union invaded Afghanistan in?",
+      "options": [
+        "December 1979",
+        "March 1979",
+        "January 1980",
+        "November 1979"
+      ],
+      "correct": 0,
+      "explanation": "The Soviet invasion of Afghanistan began on 24 December 1979, triggering a 10-year war that contributed to the USSR's collapse.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-065",
+      "q": "The Soviet-Afghan War ended with the Geneva Accords in?",
+      "options": [
+        "1988",
+        "1985",
+        "1991",
+        "1979"
+      ],
+      "correct": 0,
+      "explanation": "The Soviet-Afghan War formally ended with the Geneva Accords signed on 14 April 1988, and Soviet troops withdrew by February 1989.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-066",
+      "q": "Which summit marked the start of US-USSR détente?",
+      "options": [
+        "SALT I Moscow Summit 1972",
+        "Yalta 1945",
+        "Helsinki 1975",
+        "Reykjavik 1986"
+      ],
+      "correct": 0,
+      "explanation": "The Moscow Summit of 1972 between Nixon and Brezhnev, where SALT I was signed, marked the start of détente — easing of Cold War tensions.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-067",
+      "q": "The Helsinki Accords were signed in?",
+      "options": [
+        "1975",
+        "1968",
+        "1979",
+        "1985"
+      ],
+      "correct": 0,
+      "explanation": "The Helsinki Final Act was signed on 1 August 1975 by 35 nations including the US, USSR, and European states, addressing European security and human rights.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-068",
+      "q": "Who was the first leader to visit both USA and USSR during Cold War?",
+      "options": [
+        "Zhou Enlai",
+        "Nehru",
+        "Tito",
+        "Nasser"
+      ],
+      "correct": 0,
+      "explanation": "Yugoslav leader Josip Broz Tito visited both superpowers to maintain his non-aligned status. Several non-aligned leaders followed suit.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-069",
+      "q": "The Suez Crisis of 1956 involved?",
+      "options": [
+        "UK, France, Israel vs Egypt",
+        "USA vs Cuba",
+        "India vs Pakistan",
+        "USSR vs Turkey"
+      ],
+      "correct": 0,
+      "explanation": "The Suez Crisis (October-November 1956) saw UK, France, and Israel invading Egypt after Nasser nationalized the Suez Canal.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-070",
+      "q": "The Bay of Pigs invasion (1961) was an attempt to overthrow?",
+      "options": [
+        "Fidel Castro",
+        "Salvador Allende",
+        "Ho Chi Minh",
+        "Mao Zedong"
+      ],
+      "correct": 0,
+      "explanation": "The Bay of Pigs invasion (April 1961) was a failed CIA-backed attempt to overthrow Fidel Castro's communist government in Cuba.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-071",
+      "q": "Which event marked the climax of Sino-Soviet split?",
+      "options": [
+        "Border clashes of 1969",
+        "Korean War",
+        "Vietnam War",
+        "Cuban Missile Crisis"
+      ],
+      "correct": 0,
+      "explanation": "The Sino-Soviet border conflict of 1969 on the Ussuri River marked the climax of the split between the USSR and China.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-072",
+      "q": "U-2 Incident (1960) was when?",
+      "options": [
+        "US spy plane shot down over USSR",
+        "Atomic bomb tested",
+        "Berlin blockade began",
+        "NATO formed"
+      ],
+      "correct": 0,
+      "explanation": "The U-2 Incident occurred on 1 May 1960 when USSR shot down a US U-2 spy plane piloted by Gary Powers, collapsing the Paris Summit.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-073",
+      "q": "Mutually Assured Destruction (MAD) doctrine was based on?",
+      "options": [
+        "Nuclear retaliation guarantee",
+        "Appeasement",
+        "Military buildup only",
+        "Economic warfare"
+      ],
+      "correct": 0,
+      "explanation": "MAD doctrine held that massive nuclear retaliation would destroy both sides, preventing either superpower from launching a first strike.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-074",
+      "q": "Who was the architect of US Cold War containment policy?",
+      "options": [
+        "George F. Kennan",
+        "Henry Kissinger",
+        "Dean Acheson",
+        "John Foster Dulles"
+      ],
+      "correct": 0,
+      "explanation": "Diplomat George F. Kennan authored the 1946 'Long Telegram' and 1947 'X' article outlining the containment strategy against Soviet expansion.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-075",
+      "q": "The Nuclear Suppliers Group (NSG) was formed in response to?",
+      "options": [
+        "India's 1974 nuclear test",
+        "Cuban Missile Crisis",
+        "Fukushima disaster",
+        "North Korea tests"
+      ],
+      "correct": 0,
+      "explanation": "The Nuclear Suppliers Group (NSG) was formed in 1974 after India's first nuclear test to control the export of nuclear materials and technology.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-076",
+      "q": "The 'Iron Curtain' divided?",
+      "options": [
+        "Europe into Eastern and Western blocs",
+        "Korea into North and South",
+        "Germany from rest of Europe",
+        "USA from USSR"
+      ],
+      "correct": 0,
+      "explanation": "The Iron Curtain was the political, military, and ideological barrier dividing Europe into the Soviet-dominated East and democratic West.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-077",
+      "q": "Gorbachev won the Nobel Peace Prize in?",
+      "options": [
+        "1990",
+        "1985",
+        "1989",
+        "1991"
+      ],
+      "correct": 0,
+      "explanation": "Mikhail Gorbachev won the Nobel Peace Prize in 1990 for his role in ending the Cold War and opening up the Soviet system.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-078",
+      "q": "The Cuban Missile Crisis was resolved on?",
+      "options": [
+        "28 October 1962",
+        "14 October 1962",
+        "26 October 1962",
+        "20 October 1962"
+      ],
+      "correct": 0,
+      "explanation": "The Cuban Missile Crisis was resolved on 28 October 1962 when Khrushchev agreed to remove Soviet missiles from Cuba in exchange for US concessions.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-079",
+      "q": "The New START Treaty was signed in?",
+      "options": [
+        "2010",
+        "2002",
+        "2015",
+        "2020"
+      ],
+      "correct": 0,
+      "explanation": "New START (New Strategic Arms Reduction Treaty) was signed on 8 April 2010 by Obama and Medvedev, extended in 2021 through 2026.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-080",
+      "q": "Who is considered 'Father of the Atomic Bomb'?",
+      "options": [
+        "J. Robert Oppenheimer",
+        "Albert Einstein",
+        "Enrico Fermi",
+        "Edward Teller"
+      ],
+      "correct": 0,
+      "explanation": "J. Robert Oppenheimer, scientific director of the Manhattan Project, is known as the 'Father of the Atomic Bomb'.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-081",
+      "q": "The Partial Test Ban Treaty (PTBT) was signed in?",
+      "options": [
+        "1963",
+        "1968",
+        "1972",
+        "1996"
+      ],
+      "correct": 0,
+      "explanation": "The Partial Nuclear Test Ban Treaty (PTBT) was signed on 5 August 1963 by USA, USSR, and UK, banning nuclear tests in atmosphere, space, and underwater.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-082",
+      "q": "The Cuban Missile Crisis involved how many days?",
+      "options": [
+        "13 days",
+        "10 days",
+        "21 days",
+        "30 days"
+      ],
+      "correct": 0,
+      "explanation": "The Cuban Missile Crisis lasted 13 days, from 16 October to 28 October 1962.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-083",
+      "q": "The Warsaw Pact was dissolved in?",
+      "options": [
+        "1991",
+        "1989",
+        "1985",
+        "1993"
+      ],
+      "correct": 0,
+      "explanation": "The Warsaw Pact was formally dissolved on 1 July 1991, following the collapse of communism in Eastern Europe.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-084",
+      "q": "Russia is a founding member of which nuclear control body besides NPT?",
+      "options": [
+        "IAEA",
+        "AUKUS",
+        "Quad",
+        "G7"
+      ],
+      "correct": 0,
+      "explanation": "Russia is a founding and key member of the IAEA (since 1957) and was a central party to NPT, SALT, START, and INF treaties.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-085",
+      "q": "Which treaty banned nuclear weapons in Latin America?",
+      "options": [
+        "Treaty of Tlatelolco",
+        "Treaty of Rarotonga",
+        "Treaty of Pelindaba",
+        "Treaty of Bangkok"
+      ],
+      "correct": 0,
+      "explanation": "The Treaty of Tlatelolco (1967) made Latin America and the Caribbean a nuclear-weapon-free zone.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-086",
+      "q": "Which treaty made Africa a nuclear-weapon-free zone?",
+      "options": [
+        "Treaty of Pelindaba",
+        "Treaty of Tlatelolco",
+        "Treaty of Rarotonga",
+        "Treaty of Bangkok"
+      ],
+      "correct": 0,
+      "explanation": "The Treaty of Pelindaba (1996, in force 2009) established Africa as a nuclear-weapon-free zone.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-087",
+      "q": "The Outer Space Treaty (1967) bans?",
+      "options": [
+        "Nuclear weapons in space",
+        "Satellites in orbit",
+        "Mars missions",
+        "Moon landings"
+      ],
+      "correct": 0,
+      "explanation": "The Outer Space Treaty (1967) bans placing nuclear weapons and weapons of mass destruction in orbit or on celestial bodies.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-088",
+      "q": "The Chernobyl nuclear disaster occurred in?",
+      "options": [
+        "1986",
+        "1979",
+        "1991",
+        "2011"
+      ],
+      "correct": 0,
+      "explanation": "The Chernobyl nuclear disaster occurred on 26 April 1986 in Ukrainian SSR — the worst civilian nuclear accident in history.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-089",
+      "q": "The Fukushima nuclear disaster occurred in?",
+      "options": [
+        "2011",
+        "2006",
+        "1986",
+        "1999"
+      ],
+      "correct": 0,
+      "explanation": "The Fukushima Daiichi nuclear disaster occurred on 11 March 2011 in Japan, triggered by a magnitude 9.0 earthquake and tsunami.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-090",
+      "q": "The Treaty on the Prohibition of Nuclear Weapons (TPNW) entered into force in?",
+      "options": [
+        "2021",
+        "2017",
+        "2015",
+        "2019"
+      ],
+      "correct": 0,
+      "explanation": "The TPNW (Nuclear Ban Treaty) was adopted in 2017 and entered into force on 22 January 2021. No nuclear-armed state is party to it.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-091",
+      "q": "'Facebook Diplomacy' is a term for?",
+      "options": [
+        "Use of social media in diplomacy",
+        "Meta's policy work",
+        "Diplomatic software",
+        "Facebook's corporate lobbying"
+      ],
+      "correct": 0,
+      "explanation": "'Facebook Diplomacy' refers to the use of social media platforms like Facebook by governments and diplomats to conduct outreach and public diplomacy.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-092",
+      "q": "In 2019, the US deputy defense secretary warned which country about nuclear testing?",
+      "options": [
+        "Syria",
+        "Iran",
+        "China",
+        "North Korea"
+      ],
+      "correct": 0,
+      "explanation": "In 2019, the US deputy defense secretary warned Syria about nuclear weapons testing and development programs.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-093",
+      "q": "Which phrase describes the period of nuclear arms buildup by superpowers?",
+      "options": [
+        "Nuclear arms race",
+        "Space race",
+        "Cold peace",
+        "Balance of terror"
+      ],
+      "correct": 0,
+      "explanation": "The Cold War 'nuclear arms race' saw the US and USSR stockpile tens of thousands of nuclear warheads, peaking in the 1980s.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-094",
+      "q": "The term 'domino theory' during Cold War claimed?",
+      "options": [
+        "One country falling to communism would trigger others",
+        "NATO would expand eastward",
+        "Nuclear weapons would spread",
+        "USSR would collapse"
+      ],
+      "correct": 0,
+      "explanation": "The 'domino theory' during Cold War held that if one Southeast Asian country fell to communism, neighboring countries would follow.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-095",
+      "q": "The Soviet Union's Afghanistan invasion happened in the tenure of which US President?",
+      "options": [
+        "Jimmy Carter",
+        "Ronald Reagan",
+        "Richard Nixon",
+        "Gerald Ford"
+      ],
+      "correct": 0,
+      "explanation": "The Soviet invasion of Afghanistan (December 1979) occurred during US President Jimmy Carter's tenure. Carter cut SALT II ratification in response.",
+      "tags": []
+    },
+    {
+      "id": "coldwa-096",
+      "q": "The 'Reagan Doctrine' aimed to?",
+      "options": [
+        "Support anti-communist movements worldwide",
+        "Contain Iran",
+        "Invade Iraq",
+        "Bomb North Korea"
+      ],
+      "correct": 0,
+      "explanation": "The Reagan Doctrine (1980s) supported anti-communist resistance movements worldwide, including mujahideen in Afghanistan and Contras in Nicaragua.",
+      "tags": []
+    }
+  ]
+}

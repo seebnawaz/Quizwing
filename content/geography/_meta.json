@@ -1,0 +1,8 @@
+{
+  "name": "Geography",
+  "icon": "🗺️",
+  "order": 9,
+  "description": "Physical, political & economic geography of Pakistan and the world.",
+  "color": "#0f766e",
+  "placeholder": true
+}

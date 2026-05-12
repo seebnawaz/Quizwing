@@ -1,0 +1,596 @@
+{
+  "topic_id": "general-and-presidential-elections-2024",
+  "topic_name": "General & Presidential Elections 2024",
+  "subject": "current-affairs",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "General & Presidential Elections 2024 MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🗳️",
+  "mcqs": [
+    {
+      "id": "genera-001",
+      "q": "The General Elections of 2024 in Pakistan were the:",
+      "options": [
+        "10th General Elections",
+        "11th General Elections",
+        "12th General Elections",
+        "13th General Elections"
+      ],
+      "correct": 2,
+      "explanation": "The 2024 General Elections were the 12th General Elections in Pakistan's history, following the 11th in 2018 and 10th in 2013.",
+      "tags": []
+    },
+    {
+      "id": "genera-002",
+      "q": "The General Elections of 2024 in Pakistan were held on:",
+      "options": [
+        "18 February 2024",
+        "8 February 2024",
+        "24 February 2024",
+        "27 February 2024"
+      ],
+      "correct": 1,
+      "explanation": "Polling day for the 12th General Elections was Thursday, 8 February 2024, across all four provinces, Islamabad Capital Territory and erstwhile FATA merged districts.",
+      "tags": []
+    },
+    {
+      "id": "genera-003",
+      "q": "The General Elections of 2024 elected which National Assembly?",
+      "options": [
+        "15th National Assembly",
+        "16th National Assembly",
+        "17th National Assembly",
+        "18th National Assembly"
+      ],
+      "correct": 1,
+      "explanation": "The 12th General Elections elected the 16th National Assembly of Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "genera-004",
+      "q": "Which political party led the Khyber Pakhtunkhwa Provincial Assembly after the 2024 General Elections?",
+      "options": [
+        "PML-N",
+        "PPP",
+        "PTI",
+        "PkMAP"
+      ],
+      "correct": 2,
+      "explanation": "In Khyber Pakhtunkhwa, PTI-backed independents (later the Sunni Ittehad Council, SIC) secured the largest share of seats and formed the provincial government.",
+      "tags": []
+    },
+    {
+      "id": "genera-005",
+      "q": "Who became the new Chief Minister of Punjab after the 2024 General Elections?",
+      "options": [
+        "Ali Amin Gandapur",
+        "Maryam Nawaz Sharif",
+        "Shehbaz Sharif",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Maryam Nawaz Sharif of PML-N became Chief Minister of Punjab after the 2024 General Elections, the first woman in Pakistan to hold this office.",
+      "tags": []
+    },
+    {
+      "id": "genera-006",
+      "q": "Who became the Chief Minister of Khyber Pakhtunkhwa after the 2024 elections?",
+      "options": [
+        "Ali Amin Gandapur",
+        "Maryam Nawaz Sharif",
+        "Shehbaz Sharif",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Ali Amin Gandapur (PTI-backed) became the Chief Minister of Khyber Pakhtunkhwa after the 2024 General Elections.",
+      "tags": []
+    },
+    {
+      "id": "genera-007",
+      "q": "Who became the new Chief Minister of Balochistan after the 2024 elections?",
+      "options": [
+        "Maryam Nawaz",
+        "Ali Nasir",
+        "Murad Ali Shah",
+        "Sarfraz Bugti"
+      ],
+      "correct": 3,
+      "explanation": "Sarfraz Bugti (PPP) became the Chief Minister of Balochistan, heading a PPP-led provincial coalition government.",
+      "tags": []
+    },
+    {
+      "id": "genera-008",
+      "q": "Who is the first woman Chief Minister of Punjab?",
+      "options": [
+        "Ali Amin Gandapur",
+        "Maryam Nawaz Sharif",
+        "Shehbaz Sharif",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Maryam Nawaz Sharif — daughter of Nawaz Sharif and niece of Shehbaz Sharif — is the first woman ever to serve as Chief Minister of Punjab.",
+      "tags": []
+    },
+    {
+      "id": "genera-009",
+      "q": "Who became the new Chief Minister of Sindh after the 2024 General Elections?",
+      "options": [
+        "Ali Amin Gandapur",
+        "Maryam Nawaz",
+        "Syed Murad Ali Shah",
+        "Sarfraz Bugti"
+      ],
+      "correct": 2,
+      "explanation": "Syed Murad Ali Shah of PPP was re-elected as Chief Minister of Sindh after the 2024 General Elections.",
+      "tags": []
+    },
+    {
+      "id": "genera-010",
+      "q": "The Presidential Election 2024 of Pakistan was held on:",
+      "options": [
+        "2 March 2024",
+        "3 March 2024",
+        "5 March 2024",
+        "9 March 2024"
+      ],
+      "correct": 3,
+      "explanation": "The Presidential Election was held on 9 March 2024. Members of the National Assembly, Senate and the four Provincial Assemblies formed the electoral college.",
+      "tags": []
+    },
+    {
+      "id": "genera-011",
+      "q": "Asif Ali Zardari was elected as the ______ President of Pakistan in March 2024.",
+      "options": [
+        "11th",
+        "12th",
+        "13th",
+        "14th"
+      ],
+      "correct": 3,
+      "explanation": "Asif Ali Zardari became the 14th President of Pakistan. This is his second presidential term — he previously served as 11th President from 2008 to 2013.",
+      "tags": []
+    },
+    {
+      "id": "genera-012",
+      "q": "Asif Ali Zardari belongs to which political party?",
+      "options": [
+        "Pakistan Tehreek-e-Insaf",
+        "Pakistan Muslim League – Nawaz",
+        "Pakistan People's Party",
+        "Muttahida Majlis-e-Amal Pakistan"
+      ],
+      "correct": 2,
+      "explanation": "Asif Ali Zardari is the co-chairman of the Pakistan People's Party (PPP), which he leads jointly with his son Bilawal Bhutto Zardari.",
+      "tags": []
+    },
+    {
+      "id": "genera-013",
+      "q": "Which political party led the Punjab Provincial Assembly after the 2024 General Elections?",
+      "options": [
+        "PML-N",
+        "PPP",
+        "PTI",
+        "PkMAP"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan Muslim League-Nawaz (PML-N) led the Punjab Provincial Assembly with Maryam Nawaz as Chief Minister.",
+      "tags": []
+    },
+    {
+      "id": "genera-014",
+      "q": "Which political party led the Sindh Provincial Assembly after the 2024 General Elections?",
+      "options": [
+        "PML-N",
+        "PPP",
+        "PTI",
+        "PkMAP"
+      ],
+      "correct": 1,
+      "explanation": "The Pakistan People's Party (PPP) again led the Sindh Provincial Assembly, with Murad Ali Shah re-elected as Chief Minister.",
+      "tags": []
+    },
+    {
+      "id": "genera-015",
+      "q": "Which party topped the seat tally in the Khyber Pakhtunkhwa Provincial Assembly after Election 2024?",
+      "options": [
+        "PML-N",
+        "PPP",
+        "PTI",
+        "BAP"
+      ],
+      "correct": 2,
+      "explanation": "PTI-backed independents formed the largest bloc in the KP Provincial Assembly and subsequently ran the provincial government under Ali Amin Gandapur.",
+      "tags": []
+    },
+    {
+      "id": "genera-016",
+      "q": "The newly elected President of Pakistan in 2024 belongs to the:",
+      "options": [
+        "PML-N",
+        "PTI",
+        "PPP",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "President Asif Ali Zardari belongs to the Pakistan People's Party (PPP).",
+      "tags": []
+    },
+    {
+      "id": "genera-017",
+      "q": "Who succeeded Dr Arif Alvi as President of Pakistan?",
+      "options": [
+        "Dr Arif Alvi",
+        "Asif Ali Zardari",
+        "Wajihuddin Ahmed",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Asif Ali Zardari succeeded Dr Arif Alvi to become the 14th President of Pakistan on 9 March 2024.",
+      "tags": []
+    },
+    {
+      "id": "genera-018",
+      "q": "Senate Elections 2024 of Pakistan were held on:",
+      "options": [
+        "3 April 2024",
+        "5 May 2024",
+        "1 March 2024",
+        "11 July 2024"
+      ],
+      "correct": 0,
+      "explanation": "Senate elections were held on 2–3 April 2024, with the new Chairman (Gilani) and Deputy Chairman sworn in thereafter.",
+      "tags": []
+    },
+    {
+      "id": "genera-019",
+      "q": "Who was elected as the Speaker of the 16th National Assembly of Pakistan?",
+      "options": [
+        "Raja Zafarul Haq",
+        "Mirza Muhammad Afridi",
+        "Maulana Abdul Ghafoor Haidri",
+        "Sardar Ayaz Sadiq"
+      ],
+      "correct": 3,
+      "explanation": "Sardar Ayaz Sadiq (PML-N) was elected as Speaker of the 16th National Assembly of Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "genera-020",
+      "q": "Who became the Prime Minister of Pakistan after the General Elections of 2024?",
+      "options": [
+        "Ali Amin Gandapur",
+        "Maryam Nawaz",
+        "Shehbaz Sharif",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Shehbaz Sharif (PML-N) became the Prime Minister of Pakistan for the second time on 3 March 2024, heading a PML-N+PPP-led coalition.",
+      "tags": []
+    },
+    {
+      "id": "genera-021",
+      "q": "Which General Elections in Pakistan's history were widely described as the 'most rigged' by opposition parties?",
+      "options": [
+        "10th General Elections of 2013",
+        "11th General Elections of 2018",
+        "12th General Elections of 2024",
+        "1st General Elections of 1970"
+      ],
+      "correct": 2,
+      "explanation": "The 12th General Elections of 2024 were widely described as the 'most rigged' in Pakistan's history by opposition parties — especially by PTI and allied independents.",
+      "tags": []
+    },
+    {
+      "id": "genera-022",
+      "q": "The 1st General Elections of Pakistan in 1970 were held in:",
+      "options": [
+        "February 1970",
+        "July 1970",
+        "November 1970",
+        "December 1970"
+      ],
+      "correct": 3,
+      "explanation": "Pakistan's first general elections were held in December 1970, with the Awami League in East Pakistan and PPP in West Pakistan emerging as the largest parties.",
+      "tags": []
+    },
+    {
+      "id": "genera-023",
+      "q": "The Chief Election Commissioner of Pakistan during the 2024 General Elections was:",
+      "options": [
+        "Sardar Muhammad Raza Khan",
+        "Sikandar Sultan Raja",
+        "Fakhruddin G. Ebrahim",
+        "Justice (r) Nasir-ul-Mulk"
+      ],
+      "correct": 1,
+      "explanation": "Sikandar Sultan Raja served as the Chief Election Commissioner (CEC) of Pakistan during the 2024 General Elections.",
+      "tags": []
+    },
+    {
+      "id": "genera-024",
+      "q": "The caretaker Prime Minister of Pakistan before the 2024 General Elections was:",
+      "options": [
+        "Anwaar-ul-Haq Kakar",
+        "Moeenuddin Haider",
+        "Nasirul Mulk",
+        "Moeenuddin Ahmed Qureshi"
+      ],
+      "correct": 0,
+      "explanation": "Anwaar-ul-Haq Kakar served as the caretaker Prime Minister of Pakistan from August 2023 until Shehbaz Sharif took oath as PM on 4 March 2024.",
+      "tags": []
+    },
+    {
+      "id": "genera-025",
+      "q": "The 2024 General Elections were originally expected in late 2023 but delayed mainly because of:",
+      "options": [
+        "A Supreme Court order",
+        "Delimitation of constituencies",
+        "Covid-19 lockdown",
+        "Economic emergency"
+      ],
+      "correct": 1,
+      "explanation": "The polls were delayed from late 2023 to February 2024 primarily to allow the Election Commission to complete the delimitation of constituencies based on the 2023 census.",
+      "tags": []
+    },
+    {
+      "id": "genera-026",
+      "q": "Shortly before the 2024 elections, PTI lost its election symbol. The symbol was the:",
+      "options": [
+        "Cricket Bat",
+        "Arrow",
+        "Lion",
+        "Scale"
+      ],
+      "correct": 0,
+      "explanation": "PTI lost its iconic electoral symbol — the Bat — in late 2023, forcing most PTI-backed candidates to contest the 2024 polls as independents.",
+      "tags": []
+    },
+    {
+      "id": "genera-027",
+      "q": "After the 2024 elections, most PTI-backed independents joined which parliamentary party in the National Assembly?",
+      "options": [
+        "Sunni Ittehad Council (SIC)",
+        "MQM-Pakistan",
+        "Jamaat-e-Islami",
+        "PML-Q"
+      ],
+      "correct": 0,
+      "explanation": "Most PTI-backed independents joined the Sunni Ittehad Council (SIC) to form the largest opposition bloc in the National Assembly.",
+      "tags": []
+    },
+    {
+      "id": "genera-028",
+      "q": "Shehbaz Sharif was elected Prime Minister of Pakistan on:",
+      "options": [
+        "1 March 2024",
+        "3 March 2024",
+        "9 March 2024",
+        "4 April 2024"
+      ],
+      "correct": 1,
+      "explanation": "Shehbaz Sharif was elected Prime Minister on 3 March 2024 and took oath on 4 March 2024.",
+      "tags": []
+    },
+    {
+      "id": "genera-029",
+      "q": "Who was the PTI-backed opposition candidate for Prime Minister in March 2024?",
+      "options": [
+        "Omar Ayub Khan",
+        "Ali Muhammad Khan",
+        "Barrister Gohar Ali Khan",
+        "Shah Mahmood Qureshi"
+      ],
+      "correct": 0,
+      "explanation": "Omar Ayub Khan was the joint opposition / PTI-backed candidate for Prime Minister, losing to Shehbaz Sharif.",
+      "tags": []
+    },
+    {
+      "id": "genera-030",
+      "q": "Shehbaz Sharif became Prime Minister of Pakistan for the:",
+      "options": [
+        "First time",
+        "Second time",
+        "Third time",
+        "Fourth time"
+      ],
+      "correct": 1,
+      "explanation": "Shehbaz Sharif became PM for the second time in March 2024; his first term was April 2022 to August 2023.",
+      "tags": []
+    },
+    {
+      "id": "genera-031",
+      "q": "Who was elected as Deputy Speaker of the 16th National Assembly?",
+      "options": [
+        "Murtaza Javed Abbasi",
+        "Syed Ghulam Mustafa Shah",
+        "Qasim Suri",
+        "Zahid Akram Durrani"
+      ],
+      "correct": 1,
+      "explanation": "Syed Ghulam Mustafa Shah (PPP) was elected Deputy Speaker of the 16th National Assembly.",
+      "tags": []
+    },
+    {
+      "id": "genera-032",
+      "q": "Who became Leader of the Opposition in the 16th National Assembly?",
+      "options": [
+        "Bilawal Bhutto Zardari",
+        "Omar Ayub Khan",
+        "Sahibzada Hamid Raza",
+        "Ali Muhammad Khan"
+      ],
+      "correct": 1,
+      "explanation": "Omar Ayub Khan was officially recognised as the Leader of the Opposition in the 16th National Assembly of Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "genera-033",
+      "q": "Nawaz Sharif contested and won his 2024 National Assembly seat from:",
+      "options": [
+        "NA-15 Mansehra",
+        "NA-130 Lahore",
+        "NA-53 Islamabad",
+        "NA-120 Lahore"
+      ],
+      "correct": 1,
+      "explanation": "Nawaz Sharif won his seat in the 16th National Assembly from NA-130 Lahore.",
+      "tags": []
+    },
+    {
+      "id": "genera-034",
+      "q": "Who was elected Chairman of the Senate of Pakistan in April 2024?",
+      "options": [
+        "Raza Rabbani",
+        "Syed Yousaf Raza Gilani",
+        "Mirza Muhammad Afridi",
+        "Sadiq Sanjrani"
+      ],
+      "correct": 1,
+      "explanation": "Syed Yousaf Raza Gilani (PPP) was elected as Chairman of the Senate of Pakistan in April 2024.",
+      "tags": []
+    },
+    {
+      "id": "genera-035",
+      "q": "Before becoming Chairman Senate in 2024, Syed Yousaf Raza Gilani had previously served as:",
+      "options": [
+        "Prime Minister of Pakistan",
+        "Chief Minister of Punjab",
+        "Speaker of the National Assembly",
+        "Chief Justice of Pakistan"
+      ],
+      "correct": 0,
+      "explanation": "Syed Yousaf Raza Gilani served as Prime Minister of Pakistan from 2008 to 2012 before being elected Chairman Senate in 2024.",
+      "tags": []
+    },
+    {
+      "id": "genera-036",
+      "q": "Maryam Nawaz Sharif belongs to which political party?",
+      "options": [
+        "PML-Q",
+        "PPP",
+        "PML-N",
+        "PTI"
+      ],
+      "correct": 2,
+      "explanation": "Maryam Nawaz Sharif is a senior leader of Pakistan Muslim League-Nawaz (PML-N) and the daughter of former PM Nawaz Sharif.",
+      "tags": []
+    },
+    {
+      "id": "genera-037",
+      "q": "Ali Amin Gandapur, CM of KP after the 2024 elections, is associated with which political party?",
+      "options": [
+        "PML-N",
+        "PPP",
+        "PTI",
+        "PkMAP"
+      ],
+      "correct": 2,
+      "explanation": "Ali Amin Gandapur is associated with Pakistan Tehreek-e-Insaf (PTI) and, like other PTI-backed leaders, used the SIC platform in Parliament.",
+      "tags": []
+    },
+    {
+      "id": "genera-038",
+      "q": "Syed Murad Ali Shah belongs to which political party?",
+      "options": [
+        "PML-N",
+        "PPP",
+        "PTI",
+        "MQM-P"
+      ],
+      "correct": 1,
+      "explanation": "Syed Murad Ali Shah is a senior leader of the Pakistan People's Party (PPP) and has served as Chief Minister of Sindh multiple times.",
+      "tags": []
+    },
+    {
+      "id": "genera-039",
+      "q": "Sarfraz Bugti, CM of Balochistan after the 2024 elections, belongs to:",
+      "options": [
+        "Balochistan Awami Party",
+        "PPP",
+        "PML-N",
+        "National Party"
+      ],
+      "correct": 1,
+      "explanation": "Sarfraz Bugti joined the Pakistan People's Party (PPP) before the 2024 elections and became Chief Minister of Balochistan under a PPP-led provincial coalition.",
+      "tags": []
+    },
+    {
+      "id": "genera-040",
+      "q": "Who was the main opponent of Asif Ali Zardari in the 2024 Presidential Election?",
+      "options": [
+        "Mahmood Khan Achakzai",
+        "Bilawal Bhutto Zardari",
+        "Khursheed Shah",
+        "Wajihuddin Ahmed"
+      ],
+      "correct": 0,
+      "explanation": "Mahmood Khan Achakzai, head of Pakhtunkhwa Milli Awami Party (PkMAP), was the joint opposition candidate against Asif Ali Zardari in the 2024 Presidential Election.",
+      "tags": []
+    },
+    {
+      "id": "genera-041",
+      "q": "Asif Ali Zardari's first presidential term (as 11th President) was during:",
+      "options": [
+        "2001–2006",
+        "2008–2013",
+        "2014–2018",
+        "2018–2023"
+      ],
+      "correct": 1,
+      "explanation": "Asif Ali Zardari served as the 11th President of Pakistan from 2008 to 2013 — becoming the first person to be elected President of Pakistan twice in 2024.",
+      "tags": []
+    },
+    {
+      "id": "genera-042",
+      "q": "The electoral college that elects the President of Pakistan consists of members of the:",
+      "options": [
+        "National Assembly only",
+        "Senate only",
+        "Supreme Court",
+        "National Assembly, Senate and all four Provincial Assemblies"
+      ],
+      "correct": 3,
+      "explanation": "Under Article 41 of the 1973 Constitution, the President is elected by an electoral college comprising both houses of Parliament (NA and Senate) and all four Provincial Assemblies.",
+      "tags": []
+    },
+    {
+      "id": "genera-043",
+      "q": "Asif Ali Zardari's co-leader of the PPP is his son:",
+      "options": [
+        "Bakhtawar Bhutto Zardari",
+        "Bilawal Bhutto Zardari",
+        "Ali Zardari",
+        "Asifa Bhutto Zardari"
+      ],
+      "correct": 1,
+      "explanation": "Bilawal Bhutto Zardari is the Chairman of the PPP and co-leads the party with his father, Asif Ali Zardari.",
+      "tags": []
+    },
+    {
+      "id": "genera-044",
+      "q": "Before Maryam Nawaz, Punjab had never had a woman Chief Minister. Nationally, the first woman Chief Minister of any Pakistani province was:",
+      "options": [
+        "Hina Rabbani Khar",
+        "Fahmida Mirza",
+        "Maryam Nawaz Sharif",
+        "None — Maryam Nawaz is the first ever"
+      ],
+      "correct": 2,
+      "explanation": "Maryam Nawaz Sharif is the first woman Chief Minister of any province in Pakistan's history — no Pakistani province had elected a woman CM before her.",
+      "tags": []
+    },
+    {
+      "id": "genera-045",
+      "q": "The 11th General Elections of Pakistan (2018) were won by which party?",
+      "options": [
+        "PML-N",
+        "PPP",
+        "PTI",
+        "MQM-P"
+      ],
+      "correct": 2,
+      "explanation": "The 11th General Elections (July 2018) were won by Pakistan Tehreek-e-Insaf (PTI), with Imran Khan becoming Prime Minister.",
+      "tags": []
+    }
+  ]
+}

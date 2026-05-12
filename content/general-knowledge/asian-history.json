@@ -1,0 +1,882 @@
+{
+  "topic_id": "asian-history",
+  "topic_name": "Asian History",
+  "subject": "general-knowledge",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Asian History MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🌏",
+  "mcqs": [
+    {
+      "id": "asianh-001",
+      "q": "The Indus Valley Civilization (c. 3300-1300 BC) flourished along the Indus River in present-day:",
+      "options": [
+        "Pakistan and northwest India",
+        "Iran and Afghanistan",
+        "China and Mongolia",
+        "Turkey and Iraq"
+      ],
+      "correct": 0,
+      "explanation": "The Indus Valley Civilization was centered in present-day Pakistan and northwest India, with major sites at Mohenjo-Daro and Harappa.",
+      "tags": []
+    },
+    {
+      "id": "asianh-002",
+      "q": "Mohenjo-Daro, a major Indus Valley city known for its Great Bath, is located in present-day:",
+      "options": [
+        "Sindh, Pakistan",
+        "Punjab, India",
+        "Rajasthan, India",
+        "Balochistan, Pakistan"
+      ],
+      "correct": 0,
+      "explanation": "Mohenjo-Daro is located in Sindh, Pakistan, and is one of the best-preserved cities of the Indus Valley Civilization.",
+      "tags": []
+    },
+    {
+      "id": "asianh-003",
+      "q": "Harappa, another major Indus Valley site, is located in present-day:",
+      "options": [
+        "Punjab, Pakistan",
+        "Sindh, Pakistan",
+        "Gujarat, India",
+        "Khyber Pakhtunkhwa, Pakistan"
+      ],
+      "correct": 0,
+      "explanation": "Harappa is located in Punjab, Pakistan, near the city of Sahiwal. It was the first Indus Valley site to be discovered.",
+      "tags": []
+    },
+    {
+      "id": "asianh-004",
+      "q": "Taxila (Takshashila), one of the world's earliest universities, is an archaeological site in present-day:",
+      "options": [
+        "Pakistan",
+        "India",
+        "Afghanistan",
+        "Nepal"
+      ],
+      "correct": 0,
+      "explanation": "Taxila is located near Islamabad, Pakistan, and was an ancient center of Buddhist learning and Gandharan civilization.",
+      "tags": []
+    },
+    {
+      "id": "asianh-005",
+      "q": "The Maurya Empire, the first to unify most of the Indian subcontinent, was founded by:",
+      "options": [
+        "Chandragupta Maurya",
+        "Ashoka the Great",
+        "Bindusara",
+        "Chanakya"
+      ],
+      "correct": 0,
+      "explanation": "Chandragupta Maurya founded the Maurya Empire in 322 BC with the guidance of his advisor Chanakya (Kautilya).",
+      "tags": []
+    },
+    {
+      "id": "asianh-006",
+      "q": "Ashoka the Great embraced Buddhism after the devastating:",
+      "options": [
+        "Kalinga War",
+        "Battle of Hydaspes",
+        "Battle of Panipat",
+        "Siege of Pataliputra"
+      ],
+      "correct": 0,
+      "explanation": "Emperor Ashoka embraced Buddhism after witnessing the massive bloodshed of the Kalinga War (c. 261 BC).",
+      "tags": []
+    },
+    {
+      "id": "asianh-007",
+      "q": "The Gupta Empire (320-550 AD), known as India's Golden Age, was founded by:",
+      "options": [
+        "Sri Gupta",
+        "Chandragupta I",
+        "Samudragupta",
+        "Chandragupta II"
+      ],
+      "correct": 0,
+      "explanation": "Sri Gupta founded the Gupta dynasty around 240 AD, though Chandragupta I (320 AD) is considered the first major Gupta emperor.",
+      "tags": []
+    },
+    {
+      "id": "asianh-008",
+      "q": "The Gupta period is called India's Golden Age because of advances in:",
+      "options": [
+        "Mathematics, astronomy, literature, and art",
+        "Military conquests alone",
+        "Maritime trade only",
+        "Religious persecution"
+      ],
+      "correct": 0,
+      "explanation": "The Gupta period saw remarkable achievements in mathematics (concept of zero), astronomy, Sanskrit literature, and art.",
+      "tags": []
+    },
+    {
+      "id": "asianh-009",
+      "q": "The Mughal Empire was founded by Babur after his victory at the First Battle of Panipat in:",
+      "options": [
+        "1526",
+        "1556",
+        "1398",
+        "1600"
+      ],
+      "correct": 0,
+      "explanation": "Babur defeated Ibrahim Lodhi at the First Battle of Panipat on 21 April 1526, establishing the Mughal Empire in India.",
+      "tags": []
+    },
+    {
+      "id": "asianh-010",
+      "q": "Babur, founder of the Mughal Empire, was a descendant of both:",
+      "options": [
+        "Timur and Genghis Khan",
+        "Alexander and Darius",
+        "Saladin and Baybars",
+        "Cyrus and Xerxes"
+      ],
+      "correct": 0,
+      "explanation": "Babur was descended from Timur on his father's side and Genghis Khan on his mother's side.",
+      "tags": []
+    },
+    {
+      "id": "asianh-011",
+      "q": "The Second Battle of Panipat (1556) established Mughal supremacy under:",
+      "options": [
+        "Akbar",
+        "Babur",
+        "Humayun",
+        "Shah Jahan"
+      ],
+      "correct": 0,
+      "explanation": "Akbar's forces, led by regent Bairam Khan, defeated Hemu at the Second Battle of Panipat in 1556, securing Mughal rule.",
+      "tags": []
+    },
+    {
+      "id": "asianh-012",
+      "q": "Akbar the Great is known for his policy of religious tolerance called:",
+      "options": [
+        "Sulh-e-Kul (Universal Peace)",
+        "Jizya",
+        "Din-i-Ilahi",
+        "Sharia"
+      ],
+      "correct": 0,
+      "explanation": "Akbar promoted Sulh-e-Kul (Universal Peace), a policy of religious tolerance and harmony among all faiths in his empire.",
+      "tags": []
+    },
+    {
+      "id": "asianh-013",
+      "q": "The Taj Mahal in Agra was built by Emperor Shah Jahan in memory of:",
+      "options": [
+        "His wife Mumtaz Mahal",
+        "His father Jahangir",
+        "His mother",
+        "His son Dara Shikoh"
+      ],
+      "correct": 0,
+      "explanation": "Shah Jahan built the Taj Mahal (completed c. 1653) as a mausoleum for his beloved wife Mumtaz Mahal.",
+      "tags": []
+    },
+    {
+      "id": "asianh-014",
+      "q": "Aurangzeb, the last great Mughal emperor, ruled from:",
+      "options": [
+        "1658 to 1707",
+        "1526 to 1530",
+        "1556 to 1605",
+        "1628 to 1658"
+      ],
+      "correct": 0,
+      "explanation": "Aurangzeb ruled the Mughal Empire from 1658 until his death in 1707, expanding it to its maximum territorial extent.",
+      "tags": []
+    },
+    {
+      "id": "asianh-015",
+      "q": "The Battle of Plassey (1757) established British dominance in India by defeating:",
+      "options": [
+        "Siraj ud-Daulah, Nawab of Bengal",
+        "Tipu Sultan of Mysore",
+        "The Maratha Confederacy",
+        "The Mughal Emperor"
+      ],
+      "correct": 0,
+      "explanation": "Robert Clive defeated Siraj ud-Daulah at Plassey in 1757, establishing British East India Company dominance in Bengal.",
+      "tags": []
+    },
+    {
+      "id": "asianh-016",
+      "q": "The Indian Rebellion of 1857 (War of Independence) led to the end of:",
+      "options": [
+        "Mughal rule and East India Company rule",
+        "British Empire entirely",
+        "Sikh Empire",
+        "Maratha Confederacy"
+      ],
+      "correct": 0,
+      "explanation": "The 1857 rebellion ended Mughal rule (Bahadur Shah Zafar was exiled) and transferred control from the East India Company to the British Crown.",
+      "tags": []
+    },
+    {
+      "id": "asianh-017",
+      "q": "Genghis Khan unified the Mongol tribes and established the Mongol Empire around:",
+      "options": [
+        "1206",
+        "1162",
+        "1227",
+        "1258"
+      ],
+      "correct": 0,
+      "explanation": "Genghis Khan was proclaimed ruler of all Mongols in 1206, establishing the Mongol Empire that would become the largest contiguous land empire.",
+      "tags": []
+    },
+    {
+      "id": "asianh-018",
+      "q": "The Mongol Empire at its peak was the largest contiguous land empire, stretching from:",
+      "options": [
+        "China to Eastern Europe",
+        "India to Arabia",
+        "Japan to Persia",
+        "Egypt to Central Asia"
+      ],
+      "correct": 0,
+      "explanation": "The Mongol Empire at its peak stretched from the Pacific coast of China to Eastern Europe, covering about 24 million square km.",
+      "tags": []
+    },
+    {
+      "id": "asianh-019",
+      "q": "Kublai Khan, grandson of Genghis Khan, established which dynasty in China?",
+      "options": [
+        "Yuan dynasty",
+        "Ming dynasty",
+        "Qing dynasty",
+        "Song dynasty"
+      ],
+      "correct": 0,
+      "explanation": "Kublai Khan established the Yuan dynasty in China in 1271, becoming the first non-Chinese emperor to rule all of China.",
+      "tags": []
+    },
+    {
+      "id": "asianh-020",
+      "q": "Timur (Tamerlane) sacked Delhi in 1398 and was a Central Asian conqueror from:",
+      "options": [
+        "Samarkand (modern Uzbekistan)",
+        "Baghdad (modern Iraq)",
+        "Kabul (modern Afghanistan)",
+        "Tehran (modern Iran)"
+      ],
+      "correct": 0,
+      "explanation": "Timur was based in Samarkand (modern Uzbekistan) and launched devastating campaigns across Asia, including the sacking of Delhi in 1398.",
+      "tags": []
+    },
+    {
+      "id": "asianh-021",
+      "q": "The Silk Road trade routes connected China to the Mediterranean, facilitating exchange of:",
+      "options": [
+        "Silk, spices, ideas, and religions",
+        "Only military equipment",
+        "Only precious metals",
+        "Only food items"
+      ],
+      "correct": 0,
+      "explanation": "The Silk Road facilitated exchange of goods (silk, spices), ideas, religions (Buddhism, Islam), and technologies between East and West.",
+      "tags": []
+    },
+    {
+      "id": "asianh-022",
+      "q": "Samarkand and Bukhara, major Silk Road cities, are located in present-day:",
+      "options": [
+        "Uzbekistan",
+        "Iran",
+        "Afghanistan",
+        "Turkmenistan"
+      ],
+      "correct": 0,
+      "explanation": "Samarkand and Bukhara are ancient Silk Road cities in present-day Uzbekistan, historically centers of Islamic scholarship and trade.",
+      "tags": []
+    },
+    {
+      "id": "asianh-023",
+      "q": "The Great Wall of China was primarily built to defend against invasions from:",
+      "options": [
+        "Northern nomadic tribes (Mongols, Xiongnu)",
+        "Japanese forces",
+        "Indian kingdoms",
+        "Southeast Asian empires"
+      ],
+      "correct": 0,
+      "explanation": "The Great Wall was built over centuries primarily to defend against northern nomadic invaders like the Xiongnu and later the Mongols.",
+      "tags": []
+    },
+    {
+      "id": "asianh-024",
+      "q": "The first Emperor of unified China, Qin Shi Huang, standardized writing, currency, and weights during the:",
+      "options": [
+        "Qin dynasty (221-206 BC)",
+        "Han dynasty",
+        "Tang dynasty",
+        "Ming dynasty"
+      ],
+      "correct": 0,
+      "explanation": "Qin Shi Huang unified China and standardized its systems during the Qin dynasty (221-206 BC). He also began the Great Wall.",
+      "tags": []
+    },
+    {
+      "id": "asianh-025",
+      "q": "The Terracotta Army, a collection of thousands of life-size clay soldiers, was buried with:",
+      "options": [
+        "Emperor Qin Shi Huang",
+        "Emperor Wu of Han",
+        "Kublai Khan",
+        "Confucius"
+      ],
+      "correct": 0,
+      "explanation": "The Terracotta Army was buried with Emperor Qin Shi Huang (died 210 BC) to protect him in the afterlife.",
+      "tags": []
+    },
+    {
+      "id": "asianh-026",
+      "q": "The Ming dynasty, known for the Forbidden City and maritime expeditions, ruled China from:",
+      "options": [
+        "1368 to 1644",
+        "1271 to 1368",
+        "1644 to 1912",
+        "221 to 206 BC"
+      ],
+      "correct": 0,
+      "explanation": "The Ming dynasty ruled China from 1368 to 1644, building the Forbidden City in Beijing and sponsoring Zheng He's voyages.",
+      "tags": []
+    },
+    {
+      "id": "asianh-027",
+      "q": "The Opium Wars (1839-1842, 1856-1860) were fought between China and:",
+      "options": [
+        "Britain (and later France)",
+        "Japan",
+        "Russia",
+        "Portugal"
+      ],
+      "correct": 0,
+      "explanation": "The Opium Wars were fought between China and Britain (joined by France in the Second Opium War) over trade and opium imports.",
+      "tags": []
+    },
+    {
+      "id": "asianh-028",
+      "q": "The Boxer Rebellion (1899-1901) was an anti-foreign uprising in:",
+      "options": [
+        "China",
+        "Japan",
+        "Korea",
+        "India"
+      ],
+      "correct": 0,
+      "explanation": "The Boxer Rebellion was an anti-foreign, anti-Christian uprising in China that was suppressed by an eight-nation alliance.",
+      "tags": []
+    },
+    {
+      "id": "asianh-029",
+      "q": "The Republic of China was established after the fall of the Qing dynasty in:",
+      "options": [
+        "1912",
+        "1949",
+        "1911",
+        "1927"
+      ],
+      "correct": 0,
+      "explanation": "The Republic of China was established on 1 January 1912 after the Xinhai Revolution overthrew the Qing dynasty.",
+      "tags": []
+    },
+    {
+      "id": "asianh-030",
+      "q": "The People's Republic of China was proclaimed by Mao Zedong on:",
+      "options": [
+        "1 October 1949",
+        "1 January 1912",
+        "4 May 1919",
+        "1 July 1921"
+      ],
+      "correct": 0,
+      "explanation": "Mao Zedong proclaimed the People's Republic of China on 1 October 1949 in Beijing after defeating the Nationalists.",
+      "tags": []
+    },
+    {
+      "id": "asianh-031",
+      "q": "The Long March (1934-1935), a military retreat of Chinese Communists, covered approximately:",
+      "options": [
+        "9,000 km",
+        "1,000 km",
+        "5,000 km",
+        "15,000 km"
+      ],
+      "correct": 0,
+      "explanation": "The Long March covered about 9,000 km as the Chinese Communist Red Army retreated from Nationalist forces, solidifying Mao's leadership.",
+      "tags": []
+    },
+    {
+      "id": "asianh-032",
+      "q": "The Chinese Cultural Revolution, launched by Mao Zedong to reassert communist ideology, occurred during:",
+      "options": [
+        "1966-1976",
+        "1949-1953",
+        "1958-1962",
+        "1989"
+      ],
+      "correct": 0,
+      "explanation": "The Cultural Revolution (1966-1976) was a socio-political movement launched by Mao that caused widespread upheaval across China.",
+      "tags": []
+    },
+    {
+      "id": "asianh-033",
+      "q": "Tiananmen Square protests, demanding democratic reforms in China, were suppressed in:",
+      "options": [
+        "June 1989",
+        "October 1949",
+        "May 1919",
+        "January 1976"
+      ],
+      "correct": 0,
+      "explanation": "The Tiananmen Square protests were violently suppressed by the Chinese military on 4 June 1989.",
+      "tags": []
+    },
+    {
+      "id": "asianh-034",
+      "q": "The Meiji Restoration (1868) ended the Tokugawa Shogunate and restored power to:",
+      "options": [
+        "Emperor Meiji",
+        "The samurai class",
+        "The Daimyo lords",
+        "The Buddhist clergy"
+      ],
+      "correct": 0,
+      "explanation": "The Meiji Restoration of 1868 ended over 250 years of Tokugawa Shogunate rule and restored imperial authority under Emperor Meiji.",
+      "tags": []
+    },
+    {
+      "id": "asianh-035",
+      "q": "Japan's rapid modernization after the Meiji Restoration (1868) was modeled on:",
+      "options": [
+        "Western nations (Europe and USA)",
+        "Chinese systems",
+        "Indian traditions",
+        "Ottoman reforms"
+      ],
+      "correct": 0,
+      "explanation": "Japan rapidly modernized by adopting Western military, industrial, educational, and governmental systems after the Meiji Restoration.",
+      "tags": []
+    },
+    {
+      "id": "asianh-036",
+      "q": "The Russo-Japanese War (1904-1905), the first modern war won by an Asian power over a European one, was won by:",
+      "options": [
+        "Japan",
+        "Russia",
+        "China",
+        "Korea"
+      ],
+      "correct": 0,
+      "explanation": "Japan's victory over Russia in 1905 shocked the world and established Japan as a major military power.",
+      "tags": []
+    },
+    {
+      "id": "asianh-037",
+      "q": "Japan attacked Pearl Harbor, bringing the USA into World War II, on:",
+      "options": [
+        "7 December 1941",
+        "6 August 1945",
+        "15 August 1945",
+        "1 September 1939"
+      ],
+      "correct": 0,
+      "explanation": "Japan's surprise attack on Pearl Harbor on 7 December 1941 destroyed much of the US Pacific Fleet and brought America into WWII.",
+      "tags": []
+    },
+    {
+      "id": "asianh-038",
+      "q": "The atomic bomb was dropped on Hiroshima on:",
+      "options": [
+        "6 August 1945",
+        "9 August 1945",
+        "15 August 1945",
+        "7 December 1941"
+      ],
+      "correct": 0,
+      "explanation": "The US dropped the first atomic bomb ('Little Boy') on Hiroshima on 6 August 1945, killing approximately 80,000 people instantly.",
+      "tags": []
+    },
+    {
+      "id": "asianh-039",
+      "q": "The second atomic bomb was dropped on Nagasaki on:",
+      "options": [
+        "9 August 1945",
+        "6 August 1945",
+        "15 August 1945",
+        "2 September 1945"
+      ],
+      "correct": 0,
+      "explanation": "The second atomic bomb ('Fat Man') was dropped on Nagasaki on 9 August 1945, leading to Japan's surrender.",
+      "tags": []
+    },
+    {
+      "id": "asianh-040",
+      "q": "Japan formally surrendered, ending World War II, on:",
+      "options": [
+        "15 August 1945 (V-J Day)",
+        "8 May 1945",
+        "6 August 1945",
+        "2 September 1945"
+      ],
+      "correct": 0,
+      "explanation": "Japan announced its surrender on 15 August 1945 (V-J Day). The formal signing ceremony was on 2 September 1945 aboard the USS Missouri.",
+      "tags": []
+    },
+    {
+      "id": "asianh-041",
+      "q": "The East India Company established its first factory in India at:",
+      "options": [
+        "Surat (1613)",
+        "Calcutta (1690)",
+        "Madras (1639)",
+        "Bombay (1668)"
+      ],
+      "correct": 0,
+      "explanation": "The British East India Company established its first trading factory at Surat in western India in 1613.",
+      "tags": []
+    },
+    {
+      "id": "asianh-042",
+      "q": "The Jallianwala Bagh massacre, where British troops fired on peaceful protesters, occurred in:",
+      "options": [
+        "Amritsar, 1919",
+        "Delhi, 1857",
+        "Lahore, 1940",
+        "Calcutta, 1947"
+      ],
+      "correct": 0,
+      "explanation": "British troops under General Dyer fired on unarmed civilians at Jallianwala Bagh in Amritsar on 13 April 1919, killing hundreds.",
+      "tags": []
+    },
+    {
+      "id": "asianh-043",
+      "q": "Mahatma Gandhi led the Indian independence movement using the principle of:",
+      "options": [
+        "Non-violent civil disobedience (Satyagraha)",
+        "Armed revolution",
+        "Guerrilla warfare",
+        "International diplomacy only"
+      ],
+      "correct": 0,
+      "explanation": "Gandhi pioneered Satyagraha (non-violent resistance) as the primary method of the Indian independence movement against British rule.",
+      "tags": []
+    },
+    {
+      "id": "asianh-044",
+      "q": "The Salt March (Dandi March) led by Gandhi in 1930 protested against:",
+      "options": [
+        "British salt tax",
+        "Land revenue system",
+        "Textile imports",
+        "Military conscription"
+      ],
+      "correct": 0,
+      "explanation": "Gandhi led the Salt March from Sabarmati to Dandi in 1930, protesting the British monopoly on salt production and taxation.",
+      "tags": []
+    },
+    {
+      "id": "asianh-045",
+      "q": "The partition of British India into India and Pakistan took place on:",
+      "options": [
+        "14-15 August 1947",
+        "26 January 1950",
+        "23 March 1940",
+        "3 June 1947"
+      ],
+      "correct": 0,
+      "explanation": "British India was partitioned on 14-15 August 1947. Pakistan gained independence on 14 August and India on 15 August.",
+      "tags": []
+    },
+    {
+      "id": "asianh-046",
+      "q": "East Pakistan became Bangladesh after a war of independence in:",
+      "options": [
+        "1971",
+        "1947",
+        "1965",
+        "1958"
+      ],
+      "correct": 0,
+      "explanation": "East Pakistan seceded and became Bangladesh on 16 December 1971 after a nine-month liberation war, with Indian military support.",
+      "tags": []
+    },
+    {
+      "id": "asianh-047",
+      "q": "The Korean War (1950-1953) was fought between:",
+      "options": [
+        "North Korea (backed by China/USSR) and South Korea (backed by USA/UN)",
+        "Japan and China",
+        "China and India",
+        "Vietnam and Cambodia"
+      ],
+      "correct": 0,
+      "explanation": "The Korean War (1950-1953) pitted North Korea (supported by China and the USSR) against South Korea (backed by the US and UN forces).",
+      "tags": []
+    },
+    {
+      "id": "asianh-048",
+      "q": "The Vietnam War, a major Cold War proxy conflict, ended with the fall of Saigon in:",
+      "options": [
+        "1975",
+        "1973",
+        "1968",
+        "1964"
+      ],
+      "correct": 0,
+      "explanation": "The Vietnam War ended on 30 April 1975 when North Vietnamese forces captured Saigon, reunifying Vietnam under communist rule.",
+      "tags": []
+    },
+    {
+      "id": "asianh-049",
+      "q": "ASEAN (Association of Southeast Asian Nations) was founded in Bangkok in:",
+      "options": [
+        "1967",
+        "1975",
+        "1955",
+        "1947"
+      ],
+      "correct": 0,
+      "explanation": "ASEAN was founded on 8 August 1967 in Bangkok by Indonesia, Malaysia, Philippines, Singapore, and Thailand.",
+      "tags": []
+    },
+    {
+      "id": "asianh-050",
+      "q": "The Khmer Empire, which built Angkor Wat, was centered in present-day:",
+      "options": [
+        "Cambodia",
+        "Thailand",
+        "Vietnam",
+        "Laos"
+      ],
+      "correct": 0,
+      "explanation": "The Khmer Empire was centered in present-day Cambodia, where it built the magnificent temple complex of Angkor Wat.",
+      "tags": []
+    },
+    {
+      "id": "asianh-051",
+      "q": "Angkor Wat, the world's largest religious monument, was originally built as a:",
+      "options": [
+        "Hindu temple",
+        "Buddhist temple",
+        "Mosque",
+        "Christian church"
+      ],
+      "correct": 0,
+      "explanation": "Angkor Wat was built in the 12th century as a Hindu temple dedicated to Vishnu, later converted to a Buddhist temple.",
+      "tags": []
+    },
+    {
+      "id": "asianh-052",
+      "q": "The Borobudur Temple, the world's largest Buddhist temple, is located in:",
+      "options": [
+        "Indonesia (Java)",
+        "Cambodia",
+        "Sri Lanka",
+        "Myanmar"
+      ],
+      "correct": 0,
+      "explanation": "Borobudur is a 9th-century Mahayana Buddhist temple in Central Java, Indonesia, and is the world's largest Buddhist monument.",
+      "tags": []
+    },
+    {
+      "id": "asianh-053",
+      "q": "The Delhi Sultanate, which preceded the Mughal Empire, ruled parts of India from:",
+      "options": [
+        "1206 to 1526",
+        "1526 to 1857",
+        "1000 to 1206",
+        "1398 to 1526"
+      ],
+      "correct": 0,
+      "explanation": "The Delhi Sultanate ruled northern India from 1206 to 1526, comprising five dynasties before being replaced by the Mughal Empire.",
+      "tags": []
+    },
+    {
+      "id": "asianh-054",
+      "q": "The Sikh Empire under Maharaja Ranjit Singh was based in:",
+      "options": [
+        "Lahore (Punjab)",
+        "Delhi",
+        "Kabul",
+        "Calcutta"
+      ],
+      "correct": 0,
+      "explanation": "Maharaja Ranjit Singh established the Sikh Empire (1799-1849) with Lahore as its capital, ruling much of Punjab and Kashmir.",
+      "tags": []
+    },
+    {
+      "id": "asianh-055",
+      "q": "The Treaty of Nanking (1842), ending the First Opium War, ceded which territory to Britain?",
+      "options": [
+        "Hong Kong Island",
+        "Macau",
+        "Taiwan",
+        "Shanghai"
+      ],
+      "correct": 0,
+      "explanation": "The Treaty of Nanking (1842) ended the First Opium War and ceded Hong Kong Island to Britain.",
+      "tags": []
+    },
+    {
+      "id": "asianh-056",
+      "q": "Confucius, the influential Chinese philosopher, lived during approximately:",
+      "options": [
+        "551-479 BC",
+        "200-100 BC",
+        "100 BC-100 AD",
+        "300-200 BC"
+      ],
+      "correct": 0,
+      "explanation": "Confucius (551-479 BC) was a Chinese philosopher whose teachings on ethics, governance, and social harmony profoundly shaped East Asian culture.",
+      "tags": []
+    },
+    {
+      "id": "asianh-057",
+      "q": "The Khmer Rouge regime in Cambodia, responsible for genocide, was led by:",
+      "options": [
+        "Pol Pot",
+        "Ho Chi Minh",
+        "Sukarno",
+        "Suharto"
+      ],
+      "correct": 0,
+      "explanation": "Pol Pot led the Khmer Rouge regime (1975-1979) in Cambodia, responsible for the deaths of an estimated 1.5-2 million people.",
+      "tags": []
+    },
+    {
+      "id": "asianh-058",
+      "q": "The first dynasty to rule a unified China was the:",
+      "options": [
+        "Qin dynasty (221 BC)",
+        "Shang dynasty",
+        "Zhou dynasty",
+        "Han dynasty"
+      ],
+      "correct": 0,
+      "explanation": "Qin Shi Huang of the Qin dynasty first unified China in 221 BC, establishing the first imperial dynasty.",
+      "tags": []
+    },
+    {
+      "id": "asianh-059",
+      "q": "Sun Yat-sen is known as the father of:",
+      "options": [
+        "Modern China (Republic of China)",
+        "Communist China",
+        "The Qing dynasty",
+        "Imperial Japan"
+      ],
+      "correct": 0,
+      "explanation": "Sun Yat-sen led the revolution that overthrew the Qing dynasty and is revered as the Father of the Nation in both China and Taiwan.",
+      "tags": []
+    },
+    {
+      "id": "asianh-060",
+      "q": "The Nanjing Massacre (1937), also known as the Rape of Nanjing, was committed by:",
+      "options": [
+        "Japanese forces",
+        "British forces",
+        "Chinese Nationalists",
+        "Soviet forces"
+      ],
+      "correct": 0,
+      "explanation": "Japanese forces committed mass atrocities in Nanjing (Nanking) in December 1937 during the Second Sino-Japanese War.",
+      "tags": []
+    },
+    {
+      "id": "asianh-061",
+      "q": "The Bengal famine of 1943, which killed millions in British India, occurred during:",
+      "options": [
+        "World War II",
+        "World War I",
+        "The Indian Rebellion of 1857",
+        "The Great Depression"
+      ],
+      "correct": 0,
+      "explanation": "The Bengal famine of 1943 killed an estimated 2-3 million people during WWII, partly caused by wartime policies and supply disruptions.",
+      "tags": []
+    },
+    {
+      "id": "asianh-062",
+      "q": "Chandragupta Maurya defeated the Greek general Seleucus Nicator around:",
+      "options": [
+        "305 BC",
+        "322 BC",
+        "260 BC",
+        "185 BC"
+      ],
+      "correct": 0,
+      "explanation": "Chandragupta Maurya defeated Seleucus Nicator around 305 BC, gaining territories in modern Afghanistan and Balochistan.",
+      "tags": []
+    },
+    {
+      "id": "asianh-063",
+      "q": "The concept of zero in mathematics is credited to ancient:",
+      "options": [
+        "Indian mathematicians",
+        "Greek mathematicians",
+        "Chinese mathematicians",
+        "Arab mathematicians"
+      ],
+      "correct": 0,
+      "explanation": "The concept of zero as a number was developed by ancient Indian mathematicians, with Aryabhata and Brahmagupta making key contributions.",
+      "tags": []
+    },
+    {
+      "id": "asianh-064",
+      "q": "The Chola dynasty, known for its powerful navy and temple architecture, ruled from:",
+      "options": [
+        "South India (Tamil Nadu)",
+        "North India (Delhi)",
+        "Central India (Madhya Pradesh)",
+        "West India (Gujarat)"
+      ],
+      "correct": 0,
+      "explanation": "The Chola dynasty ruled from Tamil Nadu in South India, building a maritime empire that extended to Southeast Asia.",
+      "tags": []
+    },
+    {
+      "id": "asianh-065",
+      "q": "The 1947 Mountbatten Plan divided British India based on:",
+      "options": [
+        "Religious majority areas (Hindu and Muslim)",
+        "Geographic features",
+        "Economic zones",
+        "Language regions"
+      ],
+      "correct": 0,
+      "explanation": "The Mountbatten Plan partitioned India based on religious demographics, creating Muslim-majority Pakistan and Hindu-majority India.",
+      "tags": []
+    },
+    {
+      "id": "asianh-066",
+      "q": "Deng Xiaoping's economic reforms transformed China's economy through:",
+      "options": [
+        "Market-oriented reforms and opening up (from 1978)",
+        "Strict communist planning",
+        "Military expansion",
+        "Isolationist policies"
+      ],
+      "correct": 0,
+      "explanation": "Deng Xiaoping introduced market-oriented reforms from 1978, creating Special Economic Zones and transforming China into an economic powerhouse.",
+      "tags": []
+    },
+    {
+      "id": "asianh-067",
+      "q": "The Sepoy Mutiny of 1857 was triggered by rumors about cartridges greased with:",
+      "options": [
+        "Cow and pig fat",
+        "Snake venom",
+        "Chemical substances",
+        "Human blood"
+      ],
+      "correct": 0,
+      "explanation": "The 1857 rebellion was triggered by rumors that rifle cartridges were greased with cow and pig fat, offending both Hindu and Muslim soldiers.",
+      "tags": []
+    }
+  ]
+}

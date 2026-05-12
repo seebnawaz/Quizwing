@@ -1,0 +1,1077 @@
+{
+  "topic_id": "european-history",
+  "topic_name": "European History",
+  "subject": "general-knowledge",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "European History MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "🇪🇺",
+  "mcqs": [
+    {
+      "id": "europe-001",
+      "q": "The Ancient Period ended in 476 AD with the fall of the:",
+      "options": [
+        "Western Roman Empire",
+        "Byzantine Empire",
+        "Persian Empire",
+        "Mauryan Empire"
+      ],
+      "correct": 0,
+      "explanation": "The fall of the Western Roman Empire in 476 AD marks the end of the Ancient Period in world history.",
+      "tags": []
+    },
+    {
+      "id": "europe-002",
+      "q": "Athenian democracy, considered the birthplace of democratic governance, emerged around:",
+      "options": [
+        "5th century BC",
+        "3rd century BC",
+        "1st century AD",
+        "7th century BC"
+      ],
+      "correct": 0,
+      "explanation": "Athenian democracy emerged in the 5th century BC under leaders like Pericles, establishing direct citizen participation.",
+      "tags": []
+    },
+    {
+      "id": "europe-003",
+      "q": "The Peloponnesian War (431-404 BC) weakened Greek city-states through conflict between:",
+      "options": [
+        "Athens and Sparta",
+        "Athens and Thebes",
+        "Sparta and Corinth",
+        "Athens and Persia"
+      ],
+      "correct": 0,
+      "explanation": "The Peloponnesian War (431-404 BC) was fought between Athens (Delian League) and Sparta (Peloponnesian League).",
+      "tags": []
+    },
+    {
+      "id": "europe-004",
+      "q": "Julius Caesar was assassinated on the Ides of March in:",
+      "options": [
+        "44 BC",
+        "27 BC",
+        "31 BC",
+        "100 BC"
+      ],
+      "correct": 0,
+      "explanation": "Julius Caesar was assassinated on 15 March 44 BC by a group of Roman senators including Brutus and Cassius.",
+      "tags": []
+    },
+    {
+      "id": "europe-005",
+      "q": "The Roman Republic transitioned to the Roman Empire under:",
+      "options": [
+        "Augustus (Octavian)",
+        "Julius Caesar",
+        "Nero",
+        "Marcus Aurelius"
+      ],
+      "correct": 0,
+      "explanation": "Octavian became Augustus in 27 BC, marking the transition from the Roman Republic to the Roman Empire.",
+      "tags": []
+    },
+    {
+      "id": "europe-006",
+      "q": "The Colosseum in Rome was built during the reign of the:",
+      "options": [
+        "Flavian dynasty (70-80 AD)",
+        "Julio-Claudian dynasty",
+        "Severan dynasty",
+        "Antonine dynasty"
+      ],
+      "correct": 0,
+      "explanation": "The Colosseum was built between 70-80 AD under Emperors Vespasian and Titus of the Flavian dynasty.",
+      "tags": []
+    },
+    {
+      "id": "europe-007",
+      "q": "The fall of the Western Roman Empire in 476 AD was caused by:",
+      "options": [
+        "Germanic barbarian invasions",
+        "Muslim conquests",
+        "Mongol invasions",
+        "Persian wars"
+      ],
+      "correct": 0,
+      "explanation": "The Western Roman Empire fell in 476 AD when the Germanic chieftain Odoacer deposed the last emperor Romulus Augustulus.",
+      "tags": []
+    },
+    {
+      "id": "europe-008",
+      "q": "The Byzantine Empire (Eastern Roman Empire) survived until:",
+      "options": [
+        "1453 AD",
+        "476 AD",
+        "1204 AD",
+        "1071 AD"
+      ],
+      "correct": 0,
+      "explanation": "The Byzantine Empire survived until 1453 when Constantinople fell to the Ottoman Turks under Sultan Mehmed II.",
+      "tags": []
+    },
+    {
+      "id": "europe-009",
+      "q": "The Magna Carta, limiting royal power, was signed in England in:",
+      "options": [
+        "1215",
+        "1066",
+        "1189",
+        "1348"
+      ],
+      "correct": 0,
+      "explanation": "The Magna Carta was signed on 15 June 1215 at Runnymede, when English barons forced King John to accept limits on royal authority.",
+      "tags": []
+    },
+    {
+      "id": "europe-010",
+      "q": "The Battle of Hastings (1066) established Norman rule in England under:",
+      "options": [
+        "William the Conqueror",
+        "King Harold",
+        "Richard the Lionheart",
+        "Henry II"
+      ],
+      "correct": 0,
+      "explanation": "William the Conqueror defeated King Harold II at the Battle of Hastings in 1066, becoming King of England.",
+      "tags": []
+    },
+    {
+      "id": "europe-011",
+      "q": "The Black Death (bubonic plague) devastated Europe, killing roughly one-third of its population during:",
+      "options": [
+        "1347-1351",
+        "1215-1220",
+        "1453-1460",
+        "1517-1525"
+      ],
+      "correct": 0,
+      "explanation": "The Black Death ravaged Europe from 1347-1351, killing an estimated 25-50 million people (about one-third of Europe's population).",
+      "tags": []
+    },
+    {
+      "id": "europe-012",
+      "q": "The Hundred Years' War (1337-1453) was fought between:",
+      "options": [
+        "England and France",
+        "England and Spain",
+        "France and Germany",
+        "England and Scotland"
+      ],
+      "correct": 0,
+      "explanation": "The Hundred Years' War (1337-1453) was a series of conflicts between England and France over territorial and dynastic claims.",
+      "tags": []
+    },
+    {
+      "id": "europe-013",
+      "q": "Joan of Arc rallied French forces during the Hundred Years' War and was burned at the stake in:",
+      "options": [
+        "1431",
+        "1415",
+        "1453",
+        "1337"
+      ],
+      "correct": 0,
+      "explanation": "Joan of Arc was captured and burned at the stake by the English in 1431. She had led French forces to key victories including the siege of Orléans.",
+      "tags": []
+    },
+    {
+      "id": "europe-014",
+      "q": "The Renaissance, a revival of classical learning, began in which country?",
+      "options": [
+        "Italy",
+        "France",
+        "England",
+        "Germany"
+      ],
+      "correct": 0,
+      "explanation": "The Renaissance began in Italy in the 14th century, particularly in Florence under the patronage of the Medici family.",
+      "tags": []
+    },
+    {
+      "id": "europe-015",
+      "q": "The Gutenberg printing press, which revolutionized knowledge dissemination, was invented around:",
+      "options": [
+        "1440",
+        "1215",
+        "1517",
+        "1492"
+      ],
+      "correct": 0,
+      "explanation": "Johannes Gutenberg invented the movable-type printing press around 1440 in Mainz, Germany, revolutionizing the spread of knowledge.",
+      "tags": []
+    },
+    {
+      "id": "europe-016",
+      "q": "Martin Luther's 95 Theses, sparking the Protestant Reformation, were posted in:",
+      "options": [
+        "1517",
+        "1440",
+        "1492",
+        "1534"
+      ],
+      "correct": 0,
+      "explanation": "Martin Luther posted his 95 Theses on the door of the Wittenberg Church on 31 October 1517, challenging Catholic Church practices.",
+      "tags": []
+    },
+    {
+      "id": "europe-017",
+      "q": "The Council of Trent (1545-1563) was the Catholic Church's response to the Protestant Reformation, known as the:",
+      "options": [
+        "Counter-Reformation",
+        "Inquisition",
+        "Great Schism",
+        "Concordat"
+      ],
+      "correct": 0,
+      "explanation": "The Council of Trent (1545-1563) led the Counter-Reformation, reforming Catholic practices and reaffirming doctrine.",
+      "tags": []
+    },
+    {
+      "id": "europe-018",
+      "q": "The Thirty Years' War (1618-1648), one of Europe's most destructive religious conflicts, ended with the:",
+      "options": [
+        "Peace of Westphalia",
+        "Treaty of Versailles",
+        "Congress of Vienna",
+        "Treaty of Tordesillas"
+      ],
+      "correct": 0,
+      "explanation": "The Thirty Years' War ended with the Peace of Westphalia (1648), establishing the principle of state sovereignty in Europe.",
+      "tags": []
+    },
+    {
+      "id": "europe-019",
+      "q": "Christopher Columbus reached the Americas in:",
+      "options": [
+        "1492",
+        "1498",
+        "1488",
+        "1519"
+      ],
+      "correct": 0,
+      "explanation": "Christopher Columbus, sailing for Spain, reached the Americas on 12 October 1492, landing in the Bahamas.",
+      "tags": []
+    },
+    {
+      "id": "europe-020",
+      "q": "Vasco da Gama reached India by sea around the Cape of Good Hope in:",
+      "options": [
+        "1498",
+        "1492",
+        "1488",
+        "1519"
+      ],
+      "correct": 0,
+      "explanation": "Portuguese explorer Vasco da Gama reached Calicut, India in 1498, establishing a direct sea route from Europe to Asia.",
+      "tags": []
+    },
+    {
+      "id": "europe-021",
+      "q": "The first circumnavigation of the globe was begun by Magellan and completed in:",
+      "options": [
+        "1519-1522",
+        "1492-1495",
+        "1498-1501",
+        "1488-1490"
+      ],
+      "correct": 0,
+      "explanation": "Ferdinand Magellan began the first circumnavigation in 1519. After his death in the Philippines, his crew completed it in 1522.",
+      "tags": []
+    },
+    {
+      "id": "europe-022",
+      "q": "The Treaty of Tordesillas (1494) divided the New World between:",
+      "options": [
+        "Spain and Portugal",
+        "England and France",
+        "Spain and England",
+        "Portugal and the Netherlands"
+      ],
+      "correct": 0,
+      "explanation": "The Treaty of Tordesillas (1494) divided newly discovered lands between Spain and Portugal along a meridian line.",
+      "tags": []
+    },
+    {
+      "id": "europe-023",
+      "q": "The French Revolution began with the storming of the Bastille on:",
+      "options": [
+        "14 July 1789",
+        "4 July 1776",
+        "1 January 1789",
+        "21 September 1792"
+      ],
+      "correct": 0,
+      "explanation": "The storming of the Bastille prison on 14 July 1789 marked the beginning of the French Revolution. It is celebrated as France's national day.",
+      "tags": []
+    },
+    {
+      "id": "europe-024",
+      "q": "The Declaration of the Rights of Man and of the Citizen was adopted during the French Revolution in:",
+      "options": [
+        "1789",
+        "1793",
+        "1799",
+        "1804"
+      ],
+      "correct": 0,
+      "explanation": "The Declaration of the Rights of Man was adopted on 26 August 1789, establishing fundamental rights and principles of the French Revolution.",
+      "tags": []
+    },
+    {
+      "id": "europe-025",
+      "q": "King Louis XVI of France was executed by guillotine in:",
+      "options": [
+        "1793",
+        "1789",
+        "1799",
+        "1804"
+      ],
+      "correct": 0,
+      "explanation": "King Louis XVI was executed on 21 January 1793 during the Reign of Terror phase of the French Revolution.",
+      "tags": []
+    },
+    {
+      "id": "europe-026",
+      "q": "The Reign of Terror during the French Revolution was led by:",
+      "options": [
+        "Maximilien Robespierre",
+        "Napoleon Bonaparte",
+        "Louis XVI",
+        "Marquis de Lafayette"
+      ],
+      "correct": 0,
+      "explanation": "Robespierre led the Reign of Terror (1793-1794), during which thousands were executed by guillotine in the name of revolutionary justice.",
+      "tags": []
+    },
+    {
+      "id": "europe-027",
+      "q": "Napoleon Bonaparte crowned himself Emperor of France in:",
+      "options": [
+        "1804",
+        "1799",
+        "1789",
+        "1815"
+      ],
+      "correct": 0,
+      "explanation": "Napoleon crowned himself Emperor on 2 December 1804 at Notre-Dame Cathedral in Paris, in the presence of Pope Pius VII.",
+      "tags": []
+    },
+    {
+      "id": "europe-028",
+      "q": "Napoleon was decisively defeated at the Battle of Waterloo in:",
+      "options": [
+        "1815",
+        "1812",
+        "1804",
+        "1805"
+      ],
+      "correct": 0,
+      "explanation": "Napoleon was defeated at Waterloo (Belgium) on 18 June 1815 by British and Prussian forces under Wellington and Blücher.",
+      "tags": []
+    },
+    {
+      "id": "europe-029",
+      "q": "Napoleon's disastrous invasion of Russia, which destroyed his Grand Army, took place in:",
+      "options": [
+        "1812",
+        "1805",
+        "1815",
+        "1804"
+      ],
+      "correct": 0,
+      "explanation": "Napoleon invaded Russia in 1812 with over 600,000 troops. The campaign ended in catastrophic defeat with fewer than 100,000 returning.",
+      "tags": []
+    },
+    {
+      "id": "europe-030",
+      "q": "The Congress of Vienna (1814-1815) aimed to restore European order after:",
+      "options": [
+        "The Napoleonic Wars",
+        "The French Revolution",
+        "The Thirty Years' War",
+        "World War I"
+      ],
+      "correct": 0,
+      "explanation": "The Congress of Vienna (1814-1815) redrew European borders and restored monarchies after Napoleon's defeat.",
+      "tags": []
+    },
+    {
+      "id": "europe-031",
+      "q": "The Industrial Revolution began in which country in the late 18th century?",
+      "options": [
+        "Britain",
+        "France",
+        "Germany",
+        "United States"
+      ],
+      "correct": 0,
+      "explanation": "The Industrial Revolution began in Britain in the 1760s, driven by innovations in textile manufacturing, steam power, and iron production.",
+      "tags": []
+    },
+    {
+      "id": "europe-032",
+      "q": "James Watt's improved steam engine, a key driver of the Industrial Revolution, was developed around:",
+      "options": [
+        "1769",
+        "1712",
+        "1800",
+        "1830"
+      ],
+      "correct": 0,
+      "explanation": "James Watt patented his improved steam engine in 1769, dramatically increasing the efficiency of steam power for industry.",
+      "tags": []
+    },
+    {
+      "id": "europe-033",
+      "q": "The world's first public railway using steam locomotives opened between:",
+      "options": [
+        "Stockton and Darlington (1825)",
+        "Liverpool and Manchester (1830)",
+        "London and Birmingham (1838)",
+        "Paris and Versailles (1840)"
+      ],
+      "correct": 0,
+      "explanation": "The Stockton and Darlington Railway opened in 1825, becoming the world's first public railway to use steam locomotion.",
+      "tags": []
+    },
+    {
+      "id": "europe-034",
+      "q": "The Communist Manifesto was published by Karl Marx and Friedrich Engels in:",
+      "options": [
+        "1848",
+        "1867",
+        "1917",
+        "1789"
+      ],
+      "correct": 0,
+      "explanation": "Marx and Engels published The Communist Manifesto in 1848, outlining their theory of class struggle and calling for workers' revolution.",
+      "tags": []
+    },
+    {
+      "id": "europe-035",
+      "q": "The unification of Italy (Risorgimento) was completed under King Victor Emmanuel II in:",
+      "options": [
+        "1861",
+        "1848",
+        "1870",
+        "1871"
+      ],
+      "correct": 0,
+      "explanation": "Italy was unified in 1861 with Victor Emmanuel II as king, though Rome was not incorporated until 1870.",
+      "tags": []
+    },
+    {
+      "id": "europe-036",
+      "q": "The unification of Germany was achieved under Chancellor Otto von Bismarck in:",
+      "options": [
+        "1871",
+        "1848",
+        "1866",
+        "1890"
+      ],
+      "correct": 0,
+      "explanation": "German unification was proclaimed on 18 January 1871 at the Palace of Versailles after Prussia's victory in the Franco-Prussian War.",
+      "tags": []
+    },
+    {
+      "id": "europe-037",
+      "q": "The Crimean War (1853-1856) saw an alliance of Britain, France, and the Ottoman Empire against:",
+      "options": [
+        "Russia",
+        "Germany",
+        "Austria",
+        "Italy"
+      ],
+      "correct": 0,
+      "explanation": "The Crimean War pitted an alliance of Britain, France, Sardinia, and the Ottoman Empire against Russia over influence in the declining Ottoman Empire.",
+      "tags": []
+    },
+    {
+      "id": "europe-038",
+      "q": "World War I was triggered by the assassination of Archduke Franz Ferdinand in Sarajevo on:",
+      "options": [
+        "28 June 1914",
+        "1 August 1914",
+        "11 November 1918",
+        "28 July 1914"
+      ],
+      "correct": 0,
+      "explanation": "Archduke Franz Ferdinand of Austria-Hungary was assassinated on 28 June 1914 in Sarajevo by Gavrilo Princip, triggering WWI.",
+      "tags": []
+    },
+    {
+      "id": "europe-039",
+      "q": "The Allied Powers in World War I included:",
+      "options": [
+        "Britain, France, Russia, and later the USA",
+        "Germany, Austria-Hungary, and the Ottoman Empire",
+        "Germany, Italy, and Japan",
+        "Britain, France, and Germany"
+      ],
+      "correct": 0,
+      "explanation": "The Allied Powers included Britain, France, Russia (until 1917), Italy, and the USA (from 1917).",
+      "tags": []
+    },
+    {
+      "id": "europe-040",
+      "q": "The Central Powers in World War I included:",
+      "options": [
+        "Germany, Austria-Hungary, Ottoman Empire, and Bulgaria",
+        "Britain, France, and Russia",
+        "USA, Britain, and France",
+        "Italy, Japan, and Russia"
+      ],
+      "correct": 0,
+      "explanation": "The Central Powers were Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria.",
+      "tags": []
+    },
+    {
+      "id": "europe-041",
+      "q": "The Battle of the Somme (1916), one of WWI's bloodiest battles, was fought in:",
+      "options": [
+        "France",
+        "Belgium",
+        "Russia",
+        "Germany"
+      ],
+      "correct": 0,
+      "explanation": "The Battle of the Somme (July-November 1916) was fought in northern France, with over 1 million casualties on both sides.",
+      "tags": []
+    },
+    {
+      "id": "europe-042",
+      "q": "The Russian Revolution of 1917 led to the rise of:",
+      "options": [
+        "Bolsheviks under Lenin",
+        "The Romanov dynasty",
+        "Democratic government",
+        "German alliance"
+      ],
+      "correct": 0,
+      "explanation": "The October Revolution of 1917 brought the Bolsheviks under Vladimir Lenin to power, establishing Soviet communist rule.",
+      "tags": []
+    },
+    {
+      "id": "europe-043",
+      "q": "World War I ended with the Armistice signed on:",
+      "options": [
+        "11 November 1918",
+        "28 June 1919",
+        "28 July 1914",
+        "8 May 1945"
+      ],
+      "correct": 0,
+      "explanation": "WWI ended with the Armistice on 11 November 1918 at 11 AM (the 11th hour of the 11th day of the 11th month).",
+      "tags": []
+    },
+    {
+      "id": "europe-044",
+      "q": "The Treaty of Versailles, ending World War I, was signed on:",
+      "options": [
+        "28 June 1919",
+        "11 November 1918",
+        "10 January 1920",
+        "28 July 1914"
+      ],
+      "correct": 0,
+      "explanation": "The Treaty of Versailles was signed on 28 June 1919, imposing harsh terms on Germany including reparations and territorial losses.",
+      "tags": []
+    },
+    {
+      "id": "europe-045",
+      "q": "The League of Nations, the first international peacekeeping body, was established in:",
+      "options": [
+        "1920",
+        "1919",
+        "1918",
+        "1945"
+      ],
+      "correct": 0,
+      "explanation": "The League of Nations was established on 10 January 1920 as part of the Paris Peace Conference, though it failed to prevent WWII.",
+      "tags": []
+    },
+    {
+      "id": "europe-046",
+      "q": "World War II began when Germany invaded Poland on:",
+      "options": [
+        "1 September 1939",
+        "3 September 1939",
+        "7 December 1941",
+        "6 June 1944"
+      ],
+      "correct": 0,
+      "explanation": "WWII began on 1 September 1939 when Nazi Germany invaded Poland. Britain and France declared war on Germany two days later.",
+      "tags": []
+    },
+    {
+      "id": "europe-047",
+      "q": "Adolf Hitler became Chancellor of Germany in:",
+      "options": [
+        "1933",
+        "1939",
+        "1929",
+        "1945"
+      ],
+      "correct": 0,
+      "explanation": "Adolf Hitler was appointed Chancellor of Germany on 30 January 1933, beginning the Nazi dictatorship.",
+      "tags": []
+    },
+    {
+      "id": "europe-048",
+      "q": "The Battle of Britain (1940) was primarily an air campaign between:",
+      "options": [
+        "Germany (Luftwaffe) and Britain (RAF)",
+        "Germany and France",
+        "Britain and Italy",
+        "Germany and Russia"
+      ],
+      "correct": 0,
+      "explanation": "The Battle of Britain (July-October 1940) was fought in the skies over Britain between the German Luftwaffe and the Royal Air Force (RAF).",
+      "tags": []
+    },
+    {
+      "id": "europe-049",
+      "q": "D-Day, the Allied invasion of Normandy, took place on:",
+      "options": [
+        "6 June 1944",
+        "8 May 1945",
+        "1 September 1939",
+        "7 December 1941"
+      ],
+      "correct": 0,
+      "explanation": "D-Day (Operation Overlord) on 6 June 1944 was the largest amphibious invasion in history, landing Allied forces on the beaches of Normandy, France.",
+      "tags": []
+    },
+    {
+      "id": "europe-050",
+      "q": "Germany surrendered unconditionally, ending WWII in Europe (V-E Day), on:",
+      "options": [
+        "8 May 1945",
+        "6 June 1944",
+        "2 September 1945",
+        "30 April 1945"
+      ],
+      "correct": 0,
+      "explanation": "V-E Day (Victory in Europe) was celebrated on 8 May 1945 when Nazi Germany surrendered unconditionally to the Allied forces.",
+      "tags": []
+    },
+    {
+      "id": "europe-051",
+      "q": "The Holocaust was the systematic genocide of approximately six million Jews by:",
+      "options": [
+        "Nazi Germany",
+        "Soviet Union",
+        "Imperial Japan",
+        "Fascist Italy"
+      ],
+      "correct": 0,
+      "explanation": "The Holocaust was the systematic murder of approximately six million European Jews by Nazi Germany and its collaborators during WWII.",
+      "tags": []
+    },
+    {
+      "id": "europe-052",
+      "q": "The Nuremberg Trials prosecuted major Nazi war criminals in:",
+      "options": [
+        "1945-1946",
+        "1939-1940",
+        "1943-1944",
+        "1947-1948"
+      ],
+      "correct": 0,
+      "explanation": "The Nuremberg Trials (1945-1946) were international military tribunals that tried major Nazi leaders for war crimes and crimes against humanity.",
+      "tags": []
+    },
+    {
+      "id": "europe-053",
+      "q": "The Battle of Stalingrad (1942-1943), a turning point of WWII, was fought in:",
+      "options": [
+        "Soviet Union (Russia)",
+        "Germany",
+        "France",
+        "Poland"
+      ],
+      "correct": 0,
+      "explanation": "The Battle of Stalingrad (August 1942-February 1943) was a devastating Soviet victory that turned the tide of WWII on the Eastern Front.",
+      "tags": []
+    },
+    {
+      "id": "europe-054",
+      "q": "NATO (North Atlantic Treaty Organization) was established in:",
+      "options": [
+        "1949",
+        "1945",
+        "1955",
+        "1961"
+      ],
+      "correct": 0,
+      "explanation": "NATO was established on 4 April 1949 as a collective defense alliance of Western nations against the Soviet threat.",
+      "tags": []
+    },
+    {
+      "id": "europe-055",
+      "q": "The Warsaw Pact, the Soviet-led military alliance, was formed in:",
+      "options": [
+        "1955",
+        "1949",
+        "1961",
+        "1945"
+      ],
+      "correct": 0,
+      "explanation": "The Warsaw Pact was formed on 14 May 1955 as a collective defense treaty among the Soviet Union and its Eastern Bloc allies.",
+      "tags": []
+    },
+    {
+      "id": "europe-056",
+      "q": "The Berlin Wall was built to divide East and West Berlin in:",
+      "options": [
+        "1961",
+        "1949",
+        "1955",
+        "1945"
+      ],
+      "correct": 0,
+      "explanation": "The Berlin Wall was built starting 13 August 1961 by East Germany to prevent its citizens from fleeing to West Berlin.",
+      "tags": []
+    },
+    {
+      "id": "europe-057",
+      "q": "The Berlin Wall fell, symbolizing the end of the Cold War, on:",
+      "options": [
+        "9 November 1989",
+        "3 October 1990",
+        "26 December 1991",
+        "1 January 1993"
+      ],
+      "correct": 0,
+      "explanation": "The Berlin Wall fell on 9 November 1989 as East Germany opened its borders amid peaceful protests and reformist pressures.",
+      "tags": []
+    },
+    {
+      "id": "europe-058",
+      "q": "German reunification officially took place on:",
+      "options": [
+        "3 October 1990",
+        "9 November 1989",
+        "26 December 1991",
+        "1 January 1993"
+      ],
+      "correct": 0,
+      "explanation": "East and West Germany were formally reunified on 3 October 1990, less than a year after the Berlin Wall fell.",
+      "tags": []
+    },
+    {
+      "id": "europe-059",
+      "q": "The Soviet Union was officially dissolved on:",
+      "options": [
+        "26 December 1991",
+        "9 November 1989",
+        "3 October 1990",
+        "25 December 1991"
+      ],
+      "correct": 0,
+      "explanation": "The Soviet Union was officially dissolved on 26 December 1991, ending the Cold War and creating 15 independent republics.",
+      "tags": []
+    },
+    {
+      "id": "europe-060",
+      "q": "The Iron Curtain, a term describing the Cold War division of Europe, was popularized by:",
+      "options": [
+        "Winston Churchill",
+        "Harry Truman",
+        "Joseph Stalin",
+        "Charles de Gaulle"
+      ],
+      "correct": 0,
+      "explanation": "Winston Churchill popularized the term 'Iron Curtain' in his 1946 speech at Fulton, Missouri, describing the division of Europe.",
+      "tags": []
+    },
+    {
+      "id": "europe-061",
+      "q": "The Marshall Plan (1948) provided American economic aid to rebuild:",
+      "options": [
+        "Post-war Western Europe",
+        "Post-war Japan",
+        "Soviet Union",
+        "Latin America"
+      ],
+      "correct": 0,
+      "explanation": "The Marshall Plan (European Recovery Program) provided over $13 billion in US aid to rebuild Western European economies after WWII.",
+      "tags": []
+    },
+    {
+      "id": "europe-062",
+      "q": "The Truman Doctrine (1947) committed the US to containing Soviet expansion, first applied in:",
+      "options": [
+        "Greece and Turkey",
+        "Germany and France",
+        "Poland and Hungary",
+        "Italy and Spain"
+      ],
+      "correct": 0,
+      "explanation": "The Truman Doctrine (1947) provided US support to Greece and Turkey to prevent them from falling under Soviet influence.",
+      "tags": []
+    },
+    {
+      "id": "europe-063",
+      "q": "The European Economic Community (EEC), predecessor to the EU, was established by the Treaty of Rome in:",
+      "options": [
+        "1957",
+        "1945",
+        "1949",
+        "1993"
+      ],
+      "correct": 0,
+      "explanation": "The EEC was established by the Treaty of Rome on 25 March 1957, originally with six founding members: France, West Germany, Italy, Belgium, Netherlands, and Luxembourg.",
+      "tags": []
+    },
+    {
+      "id": "europe-064",
+      "q": "The European Union was formally established by the Maastricht Treaty in:",
+      "options": [
+        "1993",
+        "1957",
+        "1989",
+        "2002"
+      ],
+      "correct": 0,
+      "explanation": "The EU was formally established on 1 November 1993 when the Maastricht Treaty came into force, expanding European integration beyond economics.",
+      "tags": []
+    },
+    {
+      "id": "europe-065",
+      "q": "The Euro currency was introduced for electronic transactions in:",
+      "options": [
+        "1999",
+        "2002",
+        "1993",
+        "1957"
+      ],
+      "correct": 0,
+      "explanation": "The Euro was introduced as an electronic currency on 1 January 1999, with physical banknotes and coins following on 1 January 2002.",
+      "tags": []
+    },
+    {
+      "id": "europe-066",
+      "q": "Brexit (UK leaving the European Union) officially took effect on:",
+      "options": [
+        "31 January 2020",
+        "23 June 2016",
+        "29 March 2019",
+        "1 January 2021"
+      ],
+      "correct": 0,
+      "explanation": "Brexit officially took effect on 31 January 2020, though the transition period lasted until 31 December 2020.",
+      "tags": []
+    },
+    {
+      "id": "europe-067",
+      "q": "The English Civil War (1642-1651) resulted in the execution of:",
+      "options": [
+        "King Charles I",
+        "King Henry VIII",
+        "King James I",
+        "Oliver Cromwell"
+      ],
+      "correct": 0,
+      "explanation": "The English Civil War ended with the execution of King Charles I in 1649. Oliver Cromwell then ruled England as Lord Protector.",
+      "tags": []
+    },
+    {
+      "id": "europe-068",
+      "q": "The Glorious Revolution of 1688 replaced King James II with:",
+      "options": [
+        "William III and Mary II",
+        "Charles II",
+        "George I",
+        "Queen Anne"
+      ],
+      "correct": 0,
+      "explanation": "The Glorious Revolution of 1688 replaced the Catholic King James II with the Protestant William III and Mary II without bloodshed.",
+      "tags": []
+    },
+    {
+      "id": "europe-069",
+      "q": "The British Empire at its peak in the early 20th century controlled approximately:",
+      "options": [
+        "One quarter of the world's land area",
+        "One third of the world",
+        "Half the world",
+        "One fifth of the world"
+      ],
+      "correct": 0,
+      "explanation": "At its peak, the British Empire controlled about 25% of the world's land area and 25% of the world's population.",
+      "tags": []
+    },
+    {
+      "id": "europe-070",
+      "q": "Queen Victoria's reign, the longest in British history at that time, lasted from:",
+      "options": [
+        "1837 to 1901",
+        "1819 to 1876",
+        "1850 to 1920",
+        "1800 to 1870"
+      ],
+      "correct": 0,
+      "explanation": "Queen Victoria reigned from 1837 to 1901 (63 years), presiding over the Victorian era and the height of the British Empire.",
+      "tags": []
+    },
+    {
+      "id": "europe-071",
+      "q": "The Russian Revolution of October 1917 brought which party to power?",
+      "options": [
+        "The Bolsheviks",
+        "The Mensheviks",
+        "The Social Revolutionaries",
+        "The Cadets"
+      ],
+      "correct": 0,
+      "explanation": "The October Revolution of 1917 brought the Bolsheviks under Vladimir Lenin to power, establishing the world's first communist state.",
+      "tags": []
+    },
+    {
+      "id": "europe-072",
+      "q": "The Soviet Union was formally established in:",
+      "options": [
+        "1922",
+        "1917",
+        "1924",
+        "1945"
+      ],
+      "correct": 0,
+      "explanation": "The Union of Soviet Socialist Republics (USSR) was formally established on 30 December 1922, uniting Russia, Ukraine, Belarus, and Transcaucasia.",
+      "tags": []
+    },
+    {
+      "id": "europe-073",
+      "q": "Joseph Stalin ruled the Soviet Union from 1924 until his death in:",
+      "options": [
+        "1953",
+        "1945",
+        "1956",
+        "1964"
+      ],
+      "correct": 0,
+      "explanation": "Joseph Stalin led the Soviet Union from 1924 (after Lenin's death) until his own death on 5 March 1953.",
+      "tags": []
+    },
+    {
+      "id": "europe-074",
+      "q": "The Spanish Civil War (1936-1939), often seen as a prelude to WWII, resulted in the dictatorship of:",
+      "options": [
+        "Francisco Franco",
+        "Benito Mussolini",
+        "Juan Carlos",
+        "Miguel Primo de Rivera"
+      ],
+      "correct": 0,
+      "explanation": "The Spanish Civil War ended with victory for Francisco Franco's Nationalists, establishing his dictatorship that lasted until 1975.",
+      "tags": []
+    },
+    {
+      "id": "europe-075",
+      "q": "The Enlightenment, emphasizing reason, science, and individual rights, peaked in which century?",
+      "options": [
+        "18th century",
+        "17th century",
+        "16th century",
+        "19th century"
+      ],
+      "correct": 0,
+      "explanation": "The Enlightenment peaked in the 18th century with thinkers like Voltaire, Rousseau, Locke, and Montesquieu challenging traditional authority.",
+      "tags": []
+    },
+    {
+      "id": "europe-076",
+      "q": "The Congress of Berlin (1878) reshaped the map of which region after the Russo-Turkish War?",
+      "options": [
+        "The Balkans",
+        "Central Europe",
+        "Scandinavia",
+        "Western Europe"
+      ],
+      "correct": 0,
+      "explanation": "The Congress of Berlin (1878) redrew Balkan boundaries, granting independence to Romania, Serbia, and Montenegro, and autonomy to Bulgaria.",
+      "tags": []
+    },
+    {
+      "id": "europe-077",
+      "q": "The Bolshevik leader who led the Russian Revolution of 1917 was:",
+      "options": [
+        "Vladimir Lenin",
+        "Leon Trotsky",
+        "Joseph Stalin",
+        "Mikhail Gorbachev"
+      ],
+      "correct": 0,
+      "explanation": "Vladimir Lenin led the Bolshevik Revolution in October 1917, overthrowing the Provisional Government and establishing Soviet power.",
+      "tags": []
+    },
+    {
+      "id": "europe-078",
+      "q": "Mikhail Gorbachev's policies of Glasnost (openness) and Perestroika (restructuring) led to:",
+      "options": [
+        "The collapse of the Soviet Union",
+        "The expansion of Soviet territory",
+        "Victory in the Cold War",
+        "A new Soviet constitution"
+      ],
+      "correct": 0,
+      "explanation": "Gorbachev's reforms of Glasnost and Perestroika in the 1980s inadvertently accelerated the collapse of the Soviet Union by 1991.",
+      "tags": []
+    },
+    {
+      "id": "europe-079",
+      "q": "The Solidarity movement in Poland, led by Lech Walesa, played a key role in ending communism in:",
+      "options": [
+        "1980s",
+        "1970s",
+        "1990s",
+        "1960s"
+      ],
+      "correct": 0,
+      "explanation": "The Solidarity trade union, founded in 1980 by Lech Walesa, became a major force in ending communist rule in Poland and inspiring movements across Eastern Europe.",
+      "tags": []
+    },
+    {
+      "id": "europe-080",
+      "q": "The Velvet Revolution peacefully ended communist rule in Czechoslovakia in:",
+      "options": [
+        "1989",
+        "1991",
+        "1993",
+        "1988"
+      ],
+      "correct": 0,
+      "explanation": "The Velvet Revolution of November 1989 peacefully ended 41 years of communist rule in Czechoslovakia, with Vaclav Havel becoming president.",
+      "tags": []
+    },
+    {
+      "id": "europe-081",
+      "q": "The Yugoslav Wars of the 1990s resulted in the breakup of Yugoslavia into how many countries?",
+      "options": [
+        "Seven",
+        "Five",
+        "Six",
+        "Four"
+      ],
+      "correct": 0,
+      "explanation": "Yugoslavia broke up into seven countries: Slovenia, Croatia, Bosnia, Serbia, Montenegro, North Macedonia, and Kosovo.",
+      "tags": []
+    },
+    {
+      "id": "europe-082",
+      "q": "The Schengen Agreement, allowing free movement across European borders, was signed in:",
+      "options": [
+        "1985",
+        "1993",
+        "1999",
+        "2004"
+      ],
+      "correct": 0,
+      "explanation": "The Schengen Agreement was signed on 14 June 1985, creating a zone of free movement without passport controls between member countries.",
+      "tags": []
+    }
+  ]
+}
