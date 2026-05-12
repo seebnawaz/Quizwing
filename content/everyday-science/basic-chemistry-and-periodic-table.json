@@ -1,0 +1,674 @@
+{
+  "topic_id": "basic-chemistry-and-periodic-table",
+  "topic_name": "Basic Chemistry & Periodic Table",
+  "subject": "everyday-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Basic Chemistry & Periodic Table MCQs for PPSC, FPSC, NTS, CSS & PMS preparation.",
+  "icon": "🧪",
+  "mcqs": [
+    {
+      "id": "basic--001",
+      "q": "How many main types of chemical bonds are there?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 1,
+      "explanation": "Three main types: covalent (equal sharing), polar covalent (unequal sharing) and ionic (electron transfer).",
+      "tags": []
+    },
+    {
+      "id": "basic--002",
+      "q": "In an ionic bond, electrons are:",
+      "options": [
+        "Equally shared",
+        "Unequally shared",
+        "Transferred from one atom to another",
+        "Not involved"
+      ],
+      "correct": 2,
+      "explanation": "Ionic bonds form by transfer of electrons creating positive and negative ions.",
+      "tags": []
+    },
+    {
+      "id": "basic--003",
+      "q": "H₂O contains which type of bond?",
+      "options": [
+        "Ionic",
+        "Covalent (non-polar)",
+        "Polar covalent",
+        "Metallic"
+      ],
+      "correct": 2,
+      "explanation": "Oxygen is more electronegative than hydrogen — unequal sharing creates a polar covalent bond.",
+      "tags": []
+    },
+    {
+      "id": "basic--004",
+      "q": "NaCl is an example of:",
+      "options": [
+        "Covalent bond",
+        "Polar covalent bond",
+        "Ionic bond",
+        "Hydrogen bond"
+      ],
+      "correct": 2,
+      "explanation": "Sodium transfers an electron to chlorine — classic ionic bond between Na⁺ and Cl⁻.",
+      "tags": []
+    },
+    {
+      "id": "basic--005",
+      "q": "In a covalent bond, electrons are:",
+      "options": [
+        "Lost",
+        "Gained",
+        "Shared",
+        "Destroyed"
+      ],
+      "correct": 2,
+      "explanation": "Atoms share pairs of electrons — equally in non-polar, unequally in polar covalent.",
+      "tags": []
+    },
+    {
+      "id": "basic--006",
+      "q": "HCl molecule has which bond?",
+      "options": [
+        "Ionic",
+        "Polar covalent",
+        "Non-polar covalent",
+        "Metallic"
+      ],
+      "correct": 1,
+      "explanation": "Cl is more electronegative than H, so the shared pair is pulled towards Cl — polar covalent.",
+      "tags": []
+    },
+    {
+      "id": "basic--007",
+      "q": "Which bond forms between two identical non-metal atoms?",
+      "options": [
+        "Ionic",
+        "Polar covalent",
+        "Non-polar covalent",
+        "Hydrogen"
+      ],
+      "correct": 2,
+      "explanation": "Equal electronegativity = equal sharing — non-polar covalent (e.g. H₂, O₂, N₂).",
+      "tags": []
+    },
+    {
+      "id": "basic--008",
+      "q": "MgO is held together by which bond?",
+      "options": [
+        "Covalent",
+        "Ionic",
+        "Hydrogen",
+        "Metallic"
+      ],
+      "correct": 1,
+      "explanation": "Mg²⁺ and O²⁻ ions held by electrostatic attraction — ionic bond.",
+      "tags": []
+    },
+    {
+      "id": "basic--009",
+      "q": "Which is the hardest natural substance?",
+      "options": [
+        "Graphite",
+        "Charcoal",
+        "Diamond",
+        "Coal"
+      ],
+      "correct": 2,
+      "explanation": "Diamond — a tetrahedral C-C covalent network, hardest known natural material.",
+      "tags": []
+    },
+    {
+      "id": "basic--010",
+      "q": "Which allotrope of carbon conducts electricity?",
+      "options": [
+        "Diamond",
+        "Graphite",
+        "Coke",
+        "Charcoal"
+      ],
+      "correct": 1,
+      "explanation": "Graphite has free π (delocalised) electrons in its layered structure, allowing electrical conduction.",
+      "tags": []
+    },
+    {
+      "id": "basic--011",
+      "q": "Coke is obtained from:",
+      "options": [
+        "Wood",
+        "Coal",
+        "Petroleum",
+        "Bones"
+      ],
+      "correct": 1,
+      "explanation": "Coke is produced by destructive distillation (heating without air) of coal.",
+      "tags": []
+    },
+    {
+      "id": "basic--012",
+      "q": "Charcoal is mainly produced from:",
+      "options": [
+        "Coal",
+        "Wood",
+        "Limestone",
+        "Sulphur"
+      ],
+      "correct": 1,
+      "explanation": "Charcoal is made by heating wood in the absence of air (pyrolysis).",
+      "tags": []
+    },
+    {
+      "id": "basic--013",
+      "q": "All allotropes of carbon are made of:",
+      "options": [
+        "Different elements",
+        "Pure carbon",
+        "Carbon + oxygen",
+        "Carbon + hydrogen"
+      ],
+      "correct": 1,
+      "explanation": "Allotropes are different physical forms of the same pure element — all carbon allotropes are 100% C.",
+      "tags": []
+    },
+    {
+      "id": "basic--014",
+      "q": "How many confirmed elements are in the modern periodic table?",
+      "options": [
+        "108",
+        "112",
+        "118",
+        "120"
+      ],
+      "correct": 2,
+      "explanation": "118 confirmed elements — from Hydrogen (Z=1) to Oganesson (Z=118).",
+      "tags": []
+    },
+    {
+      "id": "basic--015",
+      "q": "The symbol of Gold is:",
+      "options": [
+        "Go",
+        "Gd",
+        "Au",
+        "Ag"
+      ],
+      "correct": 2,
+      "explanation": "Au — from the Latin 'Aurum' meaning shining dawn.",
+      "tags": []
+    },
+    {
+      "id": "basic--016",
+      "q": "The symbol of Silver is:",
+      "options": [
+        "Si",
+        "Ag",
+        "Au",
+        "Sv"
+      ],
+      "correct": 1,
+      "explanation": "Ag — from the Latin 'Argentum' meaning shining/white.",
+      "tags": []
+    },
+    {
+      "id": "basic--017",
+      "q": "The symbol of Mercury is:",
+      "options": [
+        "Me",
+        "Mr",
+        "Hg",
+        "Mc"
+      ],
+      "correct": 2,
+      "explanation": "Hg — from the Greek 'Hydrargyrum' meaning liquid silver.",
+      "tags": []
+    },
+    {
+      "id": "basic--018",
+      "q": "The symbol of Lead is:",
+      "options": [
+        "Ld",
+        "Le",
+        "Pb",
+        "Pl"
+      ],
+      "correct": 2,
+      "explanation": "Pb — from the Latin 'Plumbum'.",
+      "tags": []
+    },
+    {
+      "id": "basic--019",
+      "q": "The symbol of Sodium is:",
+      "options": [
+        "So",
+        "Sd",
+        "Na",
+        "Sm"
+      ],
+      "correct": 2,
+      "explanation": "Na — from the Latin 'Natrium'.",
+      "tags": []
+    },
+    {
+      "id": "basic--020",
+      "q": "The symbol of Potassium is:",
+      "options": [
+        "P",
+        "Po",
+        "K",
+        "Pt"
+      ],
+      "correct": 2,
+      "explanation": "K — from the Latin 'Kalium' (from Arabic al-qali, alkali).",
+      "tags": []
+    },
+    {
+      "id": "basic--021",
+      "q": "The symbol of Iron is:",
+      "options": [
+        "Ir",
+        "In",
+        "Fe",
+        "I"
+      ],
+      "correct": 2,
+      "explanation": "Fe — from the Latin 'Ferrum'.",
+      "tags": []
+    },
+    {
+      "id": "basic--022",
+      "q": "The symbol of Tin is:",
+      "options": [
+        "Ti",
+        "Tn",
+        "Sn",
+        "T"
+      ],
+      "correct": 2,
+      "explanation": "Sn — from the Latin 'Stannum'.",
+      "tags": []
+    },
+    {
+      "id": "basic--023",
+      "q": "The symbol of Tungsten is:",
+      "options": [
+        "Tu",
+        "Tg",
+        "W",
+        "Tw"
+      ],
+      "correct": 2,
+      "explanation": "W — from the German 'Wolfram'.",
+      "tags": []
+    },
+    {
+      "id": "basic--024",
+      "q": "The symbol of Antimony is:",
+      "options": [
+        "An",
+        "At",
+        "Sb",
+        "Am"
+      ],
+      "correct": 2,
+      "explanation": "Sb — from the Latin 'Stibium'.",
+      "tags": []
+    },
+    {
+      "id": "basic--025",
+      "q": "Atomic number of Hydrogen is:",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct": 1,
+      "explanation": "Hydrogen is the lightest and first element — Z = 1.",
+      "tags": []
+    },
+    {
+      "id": "basic--026",
+      "q": "Atomic number of Carbon is:",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "explanation": "Carbon — Z = 6, period 2, group 14.",
+      "tags": []
+    },
+    {
+      "id": "basic--027",
+      "q": "Atomic number of Oxygen is:",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "explanation": "Oxygen — Z = 8, period 2, group 16.",
+      "tags": []
+    },
+    {
+      "id": "basic--028",
+      "q": "Atomic number of Krypton is:",
+      "options": [
+        "18",
+        "26",
+        "36",
+        "54"
+      ],
+      "correct": 2,
+      "explanation": "Krypton — Z = 36, period 4 noble gas.",
+      "tags": []
+    },
+    {
+      "id": "basic--029",
+      "q": "Atomic number of Uranium is:",
+      "options": [
+        "88",
+        "90",
+        "92",
+        "94"
+      ],
+      "correct": 2,
+      "explanation": "Uranium — Z = 92, the heaviest naturally occurring element in significant amounts.",
+      "tags": []
+    },
+    {
+      "id": "basic--030",
+      "q": "Element 118 is:",
+      "options": [
+        "Tennessine",
+        "Oganesson",
+        "Livermorium",
+        "Moscovium"
+      ],
+      "correct": 1,
+      "explanation": "Oganesson (Og) — the heaviest confirmed element, named after Yuri Oganessian.",
+      "tags": []
+    },
+    {
+      "id": "basic--031",
+      "q": "Noble gases belong to which group?",
+      "options": [
+        "Group 1",
+        "Group 2",
+        "Group 17",
+        "Group 18"
+      ],
+      "correct": 3,
+      "explanation": "Group 18 (also called Group 0) — He, Ne, Ar, Kr, Xe, Rn, Og.",
+      "tags": []
+    },
+    {
+      "id": "basic--032",
+      "q": "Which of these is NOT a noble gas?",
+      "options": [
+        "Helium",
+        "Neon",
+        "Krypton",
+        "Chlorine"
+      ],
+      "correct": 3,
+      "explanation": "Chlorine is a halogen (Group 17). All others are noble gases (Group 18).",
+      "tags": []
+    },
+    {
+      "id": "basic--033",
+      "q": "Alkali metals belong to:",
+      "options": [
+        "Group 1",
+        "Group 2",
+        "Group 17",
+        "Group 18"
+      ],
+      "correct": 0,
+      "explanation": "Group 1 — Li, Na, K, Rb, Cs, Fr (excluding hydrogen). All have 1 valence electron.",
+      "tags": []
+    },
+    {
+      "id": "basic--034",
+      "q": "Calcium and Magnesium are:",
+      "options": [
+        "Alkali metals",
+        "Alkaline earth metals",
+        "Halogens",
+        "Noble gases"
+      ],
+      "correct": 1,
+      "explanation": "Group 2 — alkaline earth metals (Be, Mg, Ca, Sr, Ba, Ra).",
+      "tags": []
+    },
+    {
+      "id": "basic--035",
+      "q": "Halogens belong to:",
+      "options": [
+        "Group 14",
+        "Group 15",
+        "Group 16",
+        "Group 17"
+      ],
+      "correct": 3,
+      "explanation": "Group 17 — F, Cl, Br, I, At. All have 7 valence electrons.",
+      "tags": []
+    },
+    {
+      "id": "basic--036",
+      "q": "Lanthanides span atomic numbers:",
+      "options": [
+        "21–30",
+        "57–71",
+        "72–80",
+        "89–103"
+      ],
+      "correct": 1,
+      "explanation": "Lanthanides — La (57) to Lu (71), the f-block 'rare earth' inner transition metals.",
+      "tags": []
+    },
+    {
+      "id": "basic--037",
+      "q": "Actinides span atomic numbers:",
+      "options": [
+        "57–71",
+        "72–88",
+        "89–103",
+        "104–118"
+      ],
+      "correct": 2,
+      "explanation": "Actinides — Ac (89) to Lr (103), all radioactive.",
+      "tags": []
+    },
+    {
+      "id": "basic--038",
+      "q": "Iron, Copper and Zinc are examples of:",
+      "options": [
+        "Alkali metals",
+        "Transition metals",
+        "Halogens",
+        "Lanthanides"
+      ],
+      "correct": 1,
+      "explanation": "d-block transition metals (Groups 3–12).",
+      "tags": []
+    },
+    {
+      "id": "basic--039",
+      "q": "Which is the lightest element?",
+      "options": [
+        "Helium",
+        "Hydrogen",
+        "Lithium",
+        "Carbon"
+      ],
+      "correct": 1,
+      "explanation": "Hydrogen — atomic mass ≈ 1, just one proton + one electron.",
+      "tags": []
+    },
+    {
+      "id": "basic--040",
+      "q": "Most abundant element in the universe is:",
+      "options": [
+        "Oxygen",
+        "Helium",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "correct": 2,
+      "explanation": "Hydrogen — about 75% of the universe by mass; helium is second (~24%).",
+      "tags": []
+    },
+    {
+      "id": "basic--041",
+      "q": "Most abundant element in Earth's crust is:",
+      "options": [
+        "Silicon",
+        "Iron",
+        "Aluminium",
+        "Oxygen"
+      ],
+      "correct": 3,
+      "explanation": "Oxygen — about 46% by mass (mostly bound in silicates and oxides).",
+      "tags": []
+    },
+    {
+      "id": "basic--042",
+      "q": "Most abundant gas in the atmosphere is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Argon",
+        "Carbon dioxide"
+      ],
+      "correct": 1,
+      "explanation": "Nitrogen — about 78% by volume of Earth's atmosphere.",
+      "tags": []
+    },
+    {
+      "id": "basic--043",
+      "q": "Krypton's symbol is:",
+      "options": [
+        "K",
+        "Kp",
+        "Kr",
+        "Kn"
+      ],
+      "correct": 2,
+      "explanation": "Kr — atomic number 36.",
+      "tags": []
+    },
+    {
+      "id": "basic--044",
+      "q": "Krypton is classified as a:",
+      "options": [
+        "Halogen",
+        "Alkali metal",
+        "Noble gas",
+        "Transition metal"
+      ],
+      "correct": 2,
+      "explanation": "Group 18 noble gas — colourless and odourless.",
+      "tags": []
+    },
+    {
+      "id": "basic--045",
+      "q": "At room temperature, Krypton is:",
+      "options": [
+        "Solid",
+        "Liquid",
+        "Colourless gas",
+        "Yellow gas"
+      ],
+      "correct": 2,
+      "explanation": "Colourless, odourless gas (boiling point about −153 °C).",
+      "tags": []
+    },
+    {
+      "id": "basic--046",
+      "q": "Krypton is commonly used in:",
+      "options": [
+        "Fertilisers",
+        "High-performance lighting and lasers",
+        "Steel making",
+        "Medicines"
+      ],
+      "correct": 1,
+      "explanation": "Krypton fills photography flashes, fluorescent and high-performance lamps, and lasers.",
+      "tags": []
+    },
+    {
+      "id": "basic--047",
+      "q": "Which element symbol stands for Copper?",
+      "options": [
+        "Co",
+        "Cp",
+        "Cu",
+        "C"
+      ],
+      "correct": 2,
+      "explanation": "Cu — from the Latin 'Cuprum' (after Cyprus, where copper was mined).",
+      "tags": []
+    },
+    {
+      "id": "basic--048",
+      "q": "Which element symbol stands for Helium?",
+      "options": [
+        "H",
+        "Hl",
+        "He",
+        "Hu"
+      ],
+      "correct": 2,
+      "explanation": "He, Z = 2 — second-lightest element.",
+      "tags": []
+    },
+    {
+      "id": "basic--049",
+      "q": "Diamond and graphite differ because of:",
+      "options": [
+        "Different elements",
+        "Different atomic arrangement",
+        "Different isotopes",
+        "Different charges"
+      ],
+      "correct": 1,
+      "explanation": "Both are pure carbon — only the atomic arrangement differs (tetrahedral vs layered).",
+      "tags": []
+    },
+    {
+      "id": "basic--050",
+      "q": "Which group has 7 valence electrons?",
+      "options": [
+        "Group 1",
+        "Group 2",
+        "Group 17",
+        "Group 18"
+      ],
+      "correct": 2,
+      "explanation": "Halogens (Group 17) have 7 valence electrons — needing one more for an octet.",
+      "tags": []
+    },
+    {
+      "id": "basic--051",
+      "q": "In the modern periodic table, elements are arranged by:",
+      "options": [
+        "Atomic mass",
+        "Atomic number",
+        "Density",
+        "Electronegativity"
+      ],
+      "correct": 1,
+      "explanation": "Mendeleev arranged by mass; Moseley corrected this to atomic number — the modern principle.",
+      "tags": []
+    }
+  ]
+}

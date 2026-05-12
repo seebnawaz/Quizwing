@@ -1,0 +1,188 @@
+{
+  "schema_version": 1,
+  "app_min_version": "1.0.0",
+  "generated_at": "2026-05-12T12:52:32.911Z",
+  "subjects": [
+    {
+      "id": "everyday-science",
+      "name": "Everyday Science",
+      "icon": "🔬",
+      "order": 1,
+      "description": "Physics, Chemistry, Biology, Astronomy, Human Body, Diseases & Inventions for PPSC, FPSC, NTS, CSS, PMS, MDCAT.",
+      "topic_count": 15,
+      "total_mcqs": 833,
+      "topics": [
+        {
+          "id": "atmosphere-winds-earth-structure",
+          "name": "Atmosphere, Winds & Earth Structure",
+          "icon": "🌍",
+          "version": 1,
+          "mcq_count": 57,
+          "updated_at": "2026-05-12",
+          "url": "content/everyday-science/atmosphere-winds-earth-structure.json"
+        },
+        {
+          "id": "atoms-radioactivity-and-reactions",
+          "name": "Atoms, Radioactivity & Reactions",
+          "icon": "⚛️",
+          "version": 1,
+          "mcq_count": 50,
+          "updated_at": "2026-05-12",
+          "url": "content/everyday-science/atoms-radioactivity-and-reactions.json"
+        },
+        {
+          "id": "basic-chemistry-and-periodic-table",
+          "name": "Basic Chemistry & Periodic Table",
+          "icon": "🧪",
+          "version": 1,
+          "mcq_count": 51,
+          "updated_at": "2026-05-12",
+          "url": "content/everyday-science/basic-chemistry-and-periodic-table.json"
+        },
+        {
+          "id": "diseases-and-vaccines",
+          "name": "Diseases & Vaccines",
+          "icon": "🦠",
+          "version": 1,
+          "mcq_count": 54,
+          "updated_at": "2026-05-12",
+          "url": "content/everyday-science/diseases-and-vaccines.json"
+        },
+        {
+          "id": "elements-metals-materials-and-chemicals",
+          "name": "Elements, Metals, Materials & Chemicals",
+          "icon": "⚒️",
+          "version": 1,
+          "mcq_count": 61,
+          "updated_at": "2026-05-12",
+          "url": "content/everyday-science/elements-metals-materials-and-chemicals.json"
+        },
+        {
+          "id": "galaxies",
+          "name": "Galaxies",
+          "icon": "🌌",
+          "version": 1,
+          "mcq_count": 51,
+          "updated_at": "2026-05-12",
+          "url": "content/everyday-science/galaxies.json"
+        },
+        {
+          "id": "human-body-system-and-organs",
+          "name": "Human Body System & Organs",
+          "icon": "🫀",
+          "version": 1,
+          "mcq_count": 60,
+          "updated_at": "2026-05-12",
+          "url": "content/everyday-science/human-body-system-and-organs.json"
+        },
+        {
+          "id": "inventions-inventors-discoveries-discoverers",
+          "name": "Inventions, Inventors, Discoveries & Discoverers",
+          "icon": "💡",
+          "version": 1,
+          "mcq_count": 69,
+          "updated_at": "2026-05-12",
+          "url": "content/everyday-science/inventions-inventors-discoveries-discoverers.json"
+        },
+        {
+          "id": "natural-hazards-disasters-energy-resources",
+          "name": "Natural Hazards, Disasters & Energy Resources",
+          "icon": "⚡",
+          "version": 1,
+          "mcq_count": 55,
+          "updated_at": "2026-05-12",
+          "url": "content/everyday-science/natural-hazards-disasters-energy-resources.json"
+        },
+        {
+          "id": "planets",
+          "name": "Planets",
+          "icon": "🪐",
+          "version": 1,
+          "mcq_count": 58,
+          "updated_at": "2026-05-12",
+          "url": "content/everyday-science/planets.json"
+        },
+        {
+          "id": "rocks-and-types",
+          "name": "Rocks & Their Types",
+          "icon": "🪨",
+          "version": 1,
+          "mcq_count": 43,
+          "updated_at": "2026-05-12",
+          "url": "content/everyday-science/rocks-and-types.json"
+        },
+        {
+          "id": "scientific-instruments-and-measurements",
+          "name": "Scientific Instruments & Measurements",
+          "icon": "🔬",
+          "version": 1,
+          "mcq_count": 57,
+          "updated_at": "2026-05-12",
+          "url": "content/everyday-science/scientific-instruments-and-measurements.json"
+        },
+        {
+          "id": "solar-system-and-the-sun",
+          "name": "Solar System & the Sun",
+          "icon": "☀️",
+          "version": 1,
+          "mcq_count": 45,
+          "updated_at": "2026-05-12",
+          "url": "content/everyday-science/solar-system-and-the-sun.json"
+        },
+        {
+          "id": "timeline-of-scientific-discoveries",
+          "name": "Timeline of Scientific Discoveries",
+          "icon": "🗓️",
+          "version": 1,
+          "mcq_count": 65,
+          "updated_at": "2026-05-12",
+          "url": "content/everyday-science/timeline-of-scientific-discoveries.json"
+        },
+        {
+          "id": "vitamins",
+          "name": "Vitamins",
+          "icon": "💊",
+          "version": 1,
+          "mcq_count": 57,
+          "updated_at": "2026-05-12",
+          "url": "content/everyday-science/vitamins.json"
+        }
+      ]
+    },
+    {
+      "id": "computer-science",
+      "name": "computer-science",
+      "icon": "",
+      "order": 99,
+      "description": "",
+      "topic_count": 0,
+      "total_mcqs": 0,
+      "topics": []
+    },
+    {
+      "id": "css-pms",
+      "name": "css-pms",
+      "icon": "",
+      "order": 99,
+      "description": "",
+      "topic_count": 0,
+      "total_mcqs": 0,
+      "topics": []
+    },
+    {
+      "id": "fia",
+      "name": "fia",
+      "icon": "",
+      "order": 99,
+      "description": "",
+      "topic_count": 0,
+      "total_mcqs": 0,
+      "topics": []
+    }
+  ],
+  "totals": {
+    "subjects": 4,
+    "topics": 15,
+    "mcqs": 833
+  }
+}

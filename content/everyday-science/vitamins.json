@@ -1,0 +1,752 @@
+{
+  "topic_id": "vitamins",
+  "topic_name": "Vitamins",
+  "subject": "everyday-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Vitamins MCQs for PPSC, FPSC, NTS, CSS & PMS preparation.",
+  "icon": "💊",
+  "mcqs": [
+    {
+      "id": "vitami-001",
+      "q": "Vitamins were discovered by:",
+      "options": [
+        "Louis Pasteur",
+        "Casimir Funk",
+        "Alexander Fleming",
+        "Robert Koch"
+      ],
+      "correct": 1,
+      "explanation": "Casimir Funk, 1912 — coined 'vitamine'.",
+      "tags": []
+    },
+    {
+      "id": "vitami-002",
+      "q": "Which year were vitamins discovered?",
+      "options": [
+        "1898",
+        "1912",
+        "1925",
+        "1942"
+      ],
+      "correct": 1,
+      "explanation": "1912.",
+      "tags": []
+    },
+    {
+      "id": "vitami-003",
+      "q": "Most important function of vitamins is to act as:",
+      "options": [
+        "Hormones",
+        "Co-enzymes",
+        "Antibodies",
+        "Substrates"
+      ],
+      "correct": 1,
+      "explanation": "Co-factors / co-enzymes for enzymatic reactions.",
+      "tags": []
+    },
+    {
+      "id": "vitami-004",
+      "q": "Which vitamins are water-soluble?",
+      "options": [
+        "A, D, E, K",
+        "B-complex &amp; C",
+        "A &amp; C",
+        "D &amp; E"
+      ],
+      "correct": 1,
+      "explanation": "B-complex + C are water-soluble.",
+      "tags": []
+    },
+    {
+      "id": "vitami-005",
+      "q": "Which vitamins are fat-soluble?",
+      "options": [
+        "B &amp; C",
+        "A, D, E, K",
+        "C &amp; K",
+        "A &amp; B12"
+      ],
+      "correct": 1,
+      "explanation": "A, D, E, K — stored in body fat/liver.",
+      "tags": []
+    },
+    {
+      "id": "vitami-006",
+      "q": "Vitamin C is chemically:",
+      "options": [
+        "Retinol",
+        "Calciferol",
+        "Ascorbic acid",
+        "Tocopherol"
+      ],
+      "correct": 2,
+      "explanation": "Ascorbic acid.",
+      "tags": []
+    },
+    {
+      "id": "vitami-007",
+      "q": "Vitamin A is chemically:",
+      "options": [
+        "Retinol",
+        "Thiamine",
+        "Riboflavin",
+        "Cobalamin"
+      ],
+      "correct": 0,
+      "explanation": "Retinol.",
+      "tags": []
+    },
+    {
+      "id": "vitami-008",
+      "q": "Vitamin D is chemically:",
+      "options": [
+        "Tocopherol",
+        "Calciferol",
+        "Niacin",
+        "Biotin"
+      ],
+      "correct": 1,
+      "explanation": "Calciferol (D₂/D₃).",
+      "tags": []
+    },
+    {
+      "id": "vitami-009",
+      "q": "Vitamin E is chemically:",
+      "options": [
+        "Retinol",
+        "Tocopherol",
+        "Phytomenadione",
+        "Cobalamin"
+      ],
+      "correct": 1,
+      "explanation": "Tocopherol.",
+      "tags": []
+    },
+    {
+      "id": "vitami-010",
+      "q": "Vitamin K is chemically:",
+      "options": [
+        "Phytomenadione",
+        "Niacin",
+        "Riboflavin",
+        "Pyridoxine"
+      ],
+      "correct": 0,
+      "explanation": "Phytomenadione/phylloquinone.",
+      "tags": []
+    },
+    {
+      "id": "vitami-011",
+      "q": "Vitamin B1 is also called:",
+      "options": [
+        "Riboflavin",
+        "Thiamine",
+        "Niacin",
+        "Biotin"
+      ],
+      "correct": 1,
+      "explanation": "Thiamine.",
+      "tags": []
+    },
+    {
+      "id": "vitami-012",
+      "q": "Vitamin B2 is also called:",
+      "options": [
+        "Thiamine",
+        "Riboflavin",
+        "Niacin",
+        "Cobalamin"
+      ],
+      "correct": 1,
+      "explanation": "Riboflavin.",
+      "tags": []
+    },
+    {
+      "id": "vitami-013",
+      "q": "Vitamin B3 is also called:",
+      "options": [
+        "Pantothenic acid",
+        "Folic acid",
+        "Niacin",
+        "Biotin"
+      ],
+      "correct": 2,
+      "explanation": "Niacin.",
+      "tags": []
+    },
+    {
+      "id": "vitami-014",
+      "q": "Vitamin B6 is also called:",
+      "options": [
+        "Pyridoxine",
+        "Cobalamin",
+        "Folic acid",
+        "Pantothenic acid"
+      ],
+      "correct": 0,
+      "explanation": "Pyridoxine.",
+      "tags": []
+    },
+    {
+      "id": "vitami-015",
+      "q": "Vitamin B12 is also called:",
+      "options": [
+        "Niacin",
+        "Cobalamin",
+        "Biotin",
+        "Folic acid"
+      ],
+      "correct": 1,
+      "explanation": "Cobalamin.",
+      "tags": []
+    },
+    {
+      "id": "vitami-016",
+      "q": "Folic acid is also known as vitamin:",
+      "options": [
+        "B6",
+        "B7",
+        "B9",
+        "B12"
+      ],
+      "correct": 2,
+      "explanation": "B9.",
+      "tags": []
+    },
+    {
+      "id": "vitami-017",
+      "q": "Biotin is also known as vitamin:",
+      "options": [
+        "B5",
+        "B6",
+        "B7",
+        "B9"
+      ],
+      "correct": 2,
+      "explanation": "B7.",
+      "tags": []
+    },
+    {
+      "id": "vitami-018",
+      "q": "Deficiency of vitamin C causes:",
+      "options": [
+        "Beriberi",
+        "Scurvy",
+        "Rickets",
+        "Pellagra"
+      ],
+      "correct": 1,
+      "explanation": "Scurvy.",
+      "tags": []
+    },
+    {
+      "id": "vitami-019",
+      "q": "Deficiency of vitamin D causes:",
+      "options": [
+        "Rickets",
+        "Scurvy",
+        "Beriberi",
+        "Anaemia"
+      ],
+      "correct": 0,
+      "explanation": "Rickets in children, osteomalacia in adults.",
+      "tags": []
+    },
+    {
+      "id": "vitami-020",
+      "q": "Deficiency of vitamin A causes:",
+      "options": [
+        "Pellagra",
+        "Night blindness",
+        "Beriberi",
+        "Scurvy"
+      ],
+      "correct": 1,
+      "explanation": "Night blindness.",
+      "tags": []
+    },
+    {
+      "id": "vitami-021",
+      "q": "Deficiency of vitamin B1 causes:",
+      "options": [
+        "Beriberi",
+        "Pellagra",
+        "Scurvy",
+        "Rickets"
+      ],
+      "correct": 0,
+      "explanation": "Beriberi.",
+      "tags": []
+    },
+    {
+      "id": "vitami-022",
+      "q": "Deficiency of vitamin B3 (niacin) causes:",
+      "options": [
+        "Beriberi",
+        "Scurvy",
+        "Pellagra",
+        "Anaemia"
+      ],
+      "correct": 2,
+      "explanation": "Pellagra (3 D's: dermatitis, diarrhoea, dementia).",
+      "tags": []
+    },
+    {
+      "id": "vitami-023",
+      "q": "Deficiency of vitamin B12 causes:",
+      "options": [
+        "Anaemia",
+        "Beriberi",
+        "Rickets",
+        "Pellagra"
+      ],
+      "correct": 0,
+      "explanation": "Pernicious anaemia.",
+      "tags": []
+    },
+    {
+      "id": "vitami-024",
+      "q": "Deficiency of vitamin K causes:",
+      "options": [
+        "Bleeding/clotting issues",
+        "Night blindness",
+        "Scurvy",
+        "Rickets"
+      ],
+      "correct": 0,
+      "explanation": "K is needed for blood clotting.",
+      "tags": []
+    },
+    {
+      "id": "vitami-025",
+      "q": "Deficiency of vitamin B9 (folic acid) causes:",
+      "options": [
+        "Rickets",
+        "Neural tube defects",
+        "Pellagra",
+        "Beriberi"
+      ],
+      "correct": 1,
+      "explanation": "NTDs in fetus during pregnancy.",
+      "tags": []
+    },
+    {
+      "id": "vitami-026",
+      "q": "Vitamin synthesised in skin via sunlight:",
+      "options": [
+        "A",
+        "C",
+        "D",
+        "K"
+      ],
+      "correct": 2,
+      "explanation": "D₃ from 7-dehydrocholesterol.",
+      "tags": []
+    },
+    {
+      "id": "vitami-027",
+      "q": "Vitamin produced by intestinal bacteria:",
+      "options": [
+        "A",
+        "C",
+        "K",
+        "D"
+      ],
+      "correct": 2,
+      "explanation": "Vitamin K (and biotin).",
+      "tags": []
+    },
+    {
+      "id": "vitami-028",
+      "q": "Best source of vitamin C:",
+      "options": [
+        "Liver",
+        "Eggs",
+        "Citrus fruits",
+        "Fish"
+      ],
+      "correct": 2,
+      "explanation": "Citrus, peppers, kiwi, strawberries.",
+      "tags": []
+    },
+    {
+      "id": "vitami-029",
+      "q": "Vitamin needed for vision in dim light:",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": 0,
+      "explanation": "Retinol for rhodopsin pigment.",
+      "tags": []
+    },
+    {
+      "id": "vitami-030",
+      "q": "Antioxidant vitamin protecting cell walls:",
+      "options": [
+        "B12",
+        "C",
+        "E",
+        "K"
+      ],
+      "correct": 2,
+      "explanation": "Vitamin E (tocopherol).",
+      "tags": []
+    },
+    {
+      "id": "vitami-031",
+      "q": "Carbohydrates contain elements:",
+      "options": [
+        "C, H, N",
+        "C, H, O",
+        "C, O, N",
+        "H, O, N"
+      ],
+      "correct": 1,
+      "explanation": "Carbon, hydrogen, oxygen only.",
+      "tags": []
+    },
+    {
+      "id": "vitami-032",
+      "q": "Simple sugars are called:",
+      "options": [
+        "Polysaccharides",
+        "Disaccharides",
+        "Monosaccharides",
+        "Oligosaccharides"
+      ],
+      "correct": 2,
+      "explanation": "Glucose, fructose, galactose.",
+      "tags": []
+    },
+    {
+      "id": "vitami-033",
+      "q": "Storage carbohydrate in animals:",
+      "options": [
+        "Starch",
+        "Glycogen",
+        "Cellulose",
+        "Chitin"
+      ],
+      "correct": 1,
+      "explanation": "Glycogen in liver/muscle.",
+      "tags": []
+    },
+    {
+      "id": "vitami-034",
+      "q": "Storage carbohydrate in plants:",
+      "options": [
+        "Glycogen",
+        "Starch",
+        "Chitin",
+        "Lactose"
+      ],
+      "correct": 1,
+      "explanation": "Starch.",
+      "tags": []
+    },
+    {
+      "id": "vitami-035",
+      "q": "Chitin is found in:",
+      "options": [
+        "Plant cell walls",
+        "Arthropod exoskeleton",
+        "Animal blood",
+        "Bone"
+      ],
+      "correct": 1,
+      "explanation": "And fungal cell walls.",
+      "tags": []
+    },
+    {
+      "id": "vitami-036",
+      "q": "Disaccharides include:",
+      "options": [
+        "Glucose, fructose",
+        "Sucrose, lactose, maltose",
+        "Starch, glycogen",
+        "Cellulose, chitin"
+      ],
+      "correct": 1,
+      "explanation": "Two-sugar units.",
+      "tags": []
+    },
+    {
+      "id": "vitami-037",
+      "q": "Calories per gram of carbohydrate:",
+      "options": [
+        "2",
+        "4",
+        "7",
+        "9"
+      ],
+      "correct": 1,
+      "explanation": "4 cal/g.",
+      "tags": []
+    },
+    {
+      "id": "vitami-038",
+      "q": "Calories per gram of protein:",
+      "options": [
+        "2",
+        "4",
+        "7",
+        "9"
+      ],
+      "correct": 1,
+      "explanation": "4 cal/g.",
+      "tags": []
+    },
+    {
+      "id": "vitami-039",
+      "q": "Calories per gram of fat:",
+      "options": [
+        "4",
+        "6",
+        "9",
+        "12"
+      ],
+      "correct": 2,
+      "explanation": "9 cal/g — highest.",
+      "tags": []
+    },
+    {
+      "id": "vitami-040",
+      "q": "Cheapest source of energy in diet:",
+      "options": [
+        "Proteins",
+        "Fats",
+        "Carbohydrates",
+        "Vitamins"
+      ],
+      "correct": 2,
+      "explanation": "Carbs are cheapest.",
+      "tags": []
+    },
+    {
+      "id": "vitami-041",
+      "q": "Which food does NOT provide carbohydrates?",
+      "options": [
+        "Banana",
+        "Bread",
+        "Milk",
+        "Fish"
+      ],
+      "correct": 3,
+      "explanation": "Fish lacks carbs.",
+      "tags": []
+    },
+    {
+      "id": "vitami-042",
+      "q": "Proteins are made of:",
+      "options": [
+        "Sugars",
+        "Amino acids",
+        "Fatty acids",
+        "Glycerol"
+      ],
+      "correct": 1,
+      "explanation": "Polymer of amino acids.",
+      "tags": []
+    },
+    {
+      "id": "vitami-043",
+      "q": "Protein digestion begins in:",
+      "options": [
+        "Mouth",
+        "Stomach",
+        "Small intestine",
+        "Liver"
+      ],
+      "correct": 1,
+      "explanation": "Pepsin in stomach.",
+      "tags": []
+    },
+    {
+      "id": "vitami-044",
+      "q": "Enzyme starting protein digestion:",
+      "options": [
+        "Amylase",
+        "Pepsin",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correct": 1,
+      "explanation": "Pepsin (activated by HCl).",
+      "tags": []
+    },
+    {
+      "id": "vitami-045",
+      "q": "Acid in stomach helping protein digestion:",
+      "options": [
+        "Sulphuric",
+        "Nitric",
+        "Hydrochloric",
+        "Acetic"
+      ],
+      "correct": 2,
+      "explanation": "HCl.",
+      "tags": []
+    },
+    {
+      "id": "vitami-046",
+      "q": "Cell organelle for protein synthesis:",
+      "options": [
+        "Mitochondria",
+        "Ribosome",
+        "Golgi",
+        "Nucleus"
+      ],
+      "correct": 1,
+      "explanation": "Ribosomes translate mRNA.",
+      "tags": []
+    },
+    {
+      "id": "vitami-047",
+      "q": "Of 20 amino acids, humans synthesise:",
+      "options": [
+        "9",
+        "11",
+        "15",
+        "20"
+      ],
+      "correct": 1,
+      "explanation": "11 non-essential; 9 essential from diet.",
+      "tags": []
+    },
+    {
+      "id": "vitami-048",
+      "q": "Gas necessary for protein synthesis:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "correct": 1,
+      "explanation": "Nitrogen — proteins contain N.",
+      "tags": []
+    },
+    {
+      "id": "vitami-049",
+      "q": "Protein content in egg (edible portion):",
+      "options": [
+        "3.3%",
+        "8%",
+        "13.3%",
+        "20%"
+      ],
+      "correct": 2,
+      "explanation": "≈13.3%.",
+      "tags": []
+    },
+    {
+      "id": "vitami-050",
+      "q": "Lipids are commonly known as:",
+      "options": [
+        "Sugars",
+        "Fats",
+        "Salts",
+        "Acids"
+      ],
+      "correct": 1,
+      "explanation": "Fats &amp; oils.",
+      "tags": []
+    },
+    {
+      "id": "vitami-051",
+      "q": "Maximum energy in metabolism is from:",
+      "options": [
+        "Carbs",
+        "Proteins",
+        "Fats",
+        "Vitamins"
+      ],
+      "correct": 2,
+      "explanation": "9 cal/g vs 4 cal/g.",
+      "tags": []
+    },
+    {
+      "id": "vitami-052",
+      "q": "Bile is made by liver and emulsifies:",
+      "options": [
+        "Carbohydrates",
+        "Proteins",
+        "Fats",
+        "Vitamins"
+      ],
+      "correct": 2,
+      "explanation": "Bile breaks fat into droplets.",
+      "tags": []
+    },
+    {
+      "id": "vitami-053",
+      "q": "Polypeptides are chains of:",
+      "options": [
+        "Sugars",
+        "Amino acids",
+        "Fatty acids",
+        "Nucleotides"
+      ],
+      "correct": 1,
+      "explanation": "Linked by peptide bonds.",
+      "tags": []
+    },
+    {
+      "id": "vitami-054",
+      "q": "Two enzymes in saliva include:",
+      "options": [
+        "Amylase &amp; lipase",
+        "Pepsin &amp; trypsin",
+        "Renin &amp; lipase",
+        "Maltase &amp; lactase"
+      ],
+      "correct": 0,
+      "explanation": "Salivary amylase + lingual lipase.",
+      "tags": []
+    },
+    {
+      "id": "vitami-055",
+      "q": "Haemoglobin's central metal atom is:",
+      "options": [
+        "Cu",
+        "Zn",
+        "Fe",
+        "Mg"
+      ],
+      "correct": 2,
+      "explanation": "Iron in heme.",
+      "tags": []
+    },
+    {
+      "id": "vitami-056",
+      "q": "Banana is rich in:",
+      "options": [
+        "Proteins",
+        "Fats",
+        "Carbohydrates",
+        "Vitamin K"
+      ],
+      "correct": 2,
+      "explanation": "High in carbs.",
+      "tags": []
+    },
+    {
+      "id": "vitami-057",
+      "q": "Form of vitamin D made in human skin:",
+      "options": [
+        "D2",
+        "D3",
+        "D4",
+        "D5"
+      ],
+      "correct": 1,
+      "explanation": "Cholecalciferol (D₃).",
+      "tags": []
+    }
+  ]
+}

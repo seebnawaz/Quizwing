@@ -1,0 +1,856 @@
+{
+  "topic_id": "timeline-of-scientific-discoveries",
+  "topic_name": "Timeline of Scientific Discoveries",
+  "subject": "everyday-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Timeline of Scientific Discoveries MCQs for PPSC, FPSC, NTS, CSS & PMS preparation.",
+  "icon": "🗓️",
+  "mcqs": [
+    {
+      "id": "timeli-001",
+      "q": "The wheel was invented around:",
+      "options": [
+        "6000 BCE",
+        "3500 BCE",
+        "1000 BCE",
+        "500 BCE"
+      ],
+      "correct": 1,
+      "explanation": "~3500 BCE by Sumerians.",
+      "tags": []
+    },
+    {
+      "id": "timeli-002",
+      "q": "First written language was developed by:",
+      "options": [
+        "Egyptians",
+        "Greeks",
+        "Sumerians",
+        "Chinese"
+      ],
+      "correct": 2,
+      "explanation": "Sumerians, ~3000 BCE.",
+      "tags": []
+    },
+    {
+      "id": "timeli-003",
+      "q": "Paper was invented in China by:",
+      "options": [
+        "Confucius",
+        "Ts'ai Lun",
+        "Marco Polo",
+        "Lao Tzu"
+      ],
+      "correct": 1,
+      "explanation": "Ts'ai Lun, 105 CE.",
+      "tags": []
+    },
+    {
+      "id": "timeli-004",
+      "q": "Static electricity was discovered by:",
+      "options": [
+        "Tesla",
+        "Thales of Miletus",
+        "Edison",
+        "Faraday"
+      ],
+      "correct": 1,
+      "explanation": "Thales, ~600 BCE.",
+      "tags": []
+    },
+    {
+      "id": "timeli-005",
+      "q": "The screw pump was invented by:",
+      "options": [
+        "Pythagoras",
+        "Archimedes",
+        "Hero",
+        "Euclid"
+      ],
+      "correct": 1,
+      "explanation": "Archimedes, ~250 BCE.",
+      "tags": []
+    },
+    {
+      "id": "timeli-006",
+      "q": "Gunpowder rockets were first used by:",
+      "options": [
+        "Indians",
+        "Chinese",
+        "Romans",
+        "Arabs"
+      ],
+      "correct": 1,
+      "explanation": "Chinese repelled Mongols in 1232.",
+      "tags": []
+    },
+    {
+      "id": "timeli-007",
+      "q": "Movable-type printing press was invented by:",
+      "options": [
+        "Caxton",
+        "Gutenberg",
+        "Mergenthaler",
+        "Hoe"
+      ],
+      "correct": 1,
+      "explanation": "Gutenberg, ~1450.",
+      "tags": []
+    },
+    {
+      "id": "timeli-008",
+      "q": "Galileo built the first practical telescope in:",
+      "options": [
+        "1492",
+        "1609",
+        "1687",
+        "1750"
+      ],
+      "correct": 1,
+      "explanation": "1609.",
+      "tags": []
+    },
+    {
+      "id": "timeli-009",
+      "q": "Newton formulated his laws of motion in:",
+      "options": [
+        "1643",
+        "1665",
+        "1687",
+        "1700"
+      ],
+      "correct": 2,
+      "explanation": "Principia, 1687.",
+      "tags": []
+    },
+    {
+      "id": "timeli-010",
+      "q": "The mercury barometer was invented in 1643 by:",
+      "options": [
+        "Pascal",
+        "Galileo",
+        "Torricelli",
+        "Boyle"
+      ],
+      "correct": 2,
+      "explanation": "Evangelista Torricelli.",
+      "tags": []
+    },
+    {
+      "id": "timeli-011",
+      "q": "Pendulum clock was developed in 1650s by:",
+      "options": [
+        "Galileo",
+        "Huygens",
+        "Harrison",
+        "Newton"
+      ],
+      "correct": 1,
+      "explanation": "Christiaan Huygens.",
+      "tags": []
+    },
+    {
+      "id": "timeli-012",
+      "q": "The voltaic pile (battery) was made in 1800 by:",
+      "options": [
+        "Galvani",
+        "Volta",
+        "Faraday",
+        "Edison"
+      ],
+      "correct": 1,
+      "explanation": "Alessandro Volta.",
+      "tags": []
+    },
+    {
+      "id": "timeli-013",
+      "q": "The Jacquard loom was invented in:",
+      "options": [
+        "1769",
+        "1801",
+        "1830",
+        "1860"
+      ],
+      "correct": 1,
+      "explanation": "1801 — punched cards inspired computers.",
+      "tags": []
+    },
+    {
+      "id": "timeli-014",
+      "q": "First photograph (Daguerreotype) was made in:",
+      "options": [
+        "1820s",
+        "1830s",
+        "1850s",
+        "1870s"
+      ],
+      "correct": 1,
+      "explanation": "Daguerre, 1830s.",
+      "tags": []
+    },
+    {
+      "id": "timeli-015",
+      "q": "Telegraph was developed in 1830s–40s by:",
+      "options": [
+        "Bell",
+        "Marconi",
+        "Cooke, Wheatstone, Morse",
+        "Edison"
+      ],
+      "correct": 2,
+      "explanation": "Multiple inventors of electric telegraph.",
+      "tags": []
+    },
+    {
+      "id": "timeli-016",
+      "q": "Vulcanised rubber was perfected in 1839 by:",
+      "options": [
+        "Dunlop",
+        "Goodyear",
+        "Hancock",
+        "Edison"
+      ],
+      "correct": 1,
+      "explanation": "Charles Goodyear.",
+      "tags": []
+    },
+    {
+      "id": "timeli-017",
+      "q": "James Clerk Maxwell predicted radio waves in:",
+      "options": [
+        "1820s",
+        "1860s",
+        "1890s",
+        "1900s"
+      ],
+      "correct": 1,
+      "explanation": "Maxwell, 1860s.",
+      "tags": []
+    },
+    {
+      "id": "timeli-018",
+      "q": "Pasteurisation was developed in 1850s by:",
+      "options": [
+        "Koch",
+        "Pasteur",
+        "Fleming",
+        "Jenner"
+      ],
+      "correct": 1,
+      "explanation": "Louis Pasteur.",
+      "tags": []
+    },
+    {
+      "id": "timeli-019",
+      "q": "The telephone was patented in 1876 by:",
+      "options": [
+        "Edison",
+        "Bell",
+        "Marconi",
+        "Tesla"
+      ],
+      "correct": 1,
+      "explanation": "Alexander Graham Bell.",
+      "tags": []
+    },
+    {
+      "id": "timeli-020",
+      "q": "Edison's incandescent lamp was patented in:",
+      "options": [
+        "1872",
+        "1880",
+        "1895",
+        "1900"
+      ],
+      "correct": 1,
+      "explanation": "1880.",
+      "tags": []
+    },
+    {
+      "id": "timeli-021",
+      "q": "Piezoelectric effect was discovered in 1880 by:",
+      "options": [
+        "Tesla brothers",
+        "Curie brothers",
+        "Bohr brothers",
+        "Wright brothers"
+      ],
+      "correct": 1,
+      "explanation": "Pierre &amp; Paul-Jacques Curie.",
+      "tags": []
+    },
+    {
+      "id": "timeli-022",
+      "q": "Liquid crystals were discovered in 1888 by:",
+      "options": [
+        "Reinitzer",
+        "Faraday",
+        "Tesla",
+        "Edison"
+      ],
+      "correct": 0,
+      "explanation": "Friedrich Reinitzer.",
+      "tags": []
+    },
+    {
+      "id": "timeli-023",
+      "q": "Pneumatic tyres were patented in 1888 by:",
+      "options": [
+        "Goodyear",
+        "Dunlop",
+        "Michelin",
+        "Daimler"
+      ],
+      "correct": 1,
+      "explanation": "John Boyd Dunlop.",
+      "tags": []
+    },
+    {
+      "id": "timeli-024",
+      "q": "Diesel engine was invented in 1890s by:",
+      "options": [
+        "Otto",
+        "Daimler",
+        "Diesel",
+        "Benz"
+      ],
+      "correct": 2,
+      "explanation": "Rudolf Diesel.",
+      "tags": []
+    },
+    {
+      "id": "timeli-025",
+      "q": "Marconi's transatlantic radio signal was sent in:",
+      "options": [
+        "1895",
+        "1898",
+        "1901",
+        "1909"
+      ],
+      "correct": 2,
+      "explanation": "1901.",
+      "tags": []
+    },
+    {
+      "id": "timeli-026",
+      "q": "X-rays were discovered in:",
+      "options": [
+        "1885",
+        "1890",
+        "1895",
+        "1900"
+      ],
+      "correct": 2,
+      "explanation": "Röntgen, 1895.",
+      "tags": []
+    },
+    {
+      "id": "timeli-027",
+      "q": "Wright brothers flew the first powered airplane in:",
+      "options": [
+        "1898",
+        "1903",
+        "1908",
+        "1912"
+      ],
+      "correct": 1,
+      "explanation": "1903.",
+      "tags": []
+    },
+    {
+      "id": "timeli-028",
+      "q": "Photoelectric effect was explained by Einstein in:",
+      "options": [
+        "1900",
+        "1905",
+        "1915",
+        "1921"
+      ],
+      "correct": 1,
+      "explanation": "Annus Mirabilis paper, 1905.",
+      "tags": []
+    },
+    {
+      "id": "timeli-029",
+      "q": "Bakelite (first synthetic plastic) was invented in 1907 by:",
+      "options": [
+        "Carothers",
+        "Baekeland",
+        "Goodyear",
+        "Dupont"
+      ],
+      "correct": 1,
+      "explanation": "Leo Baekeland.",
+      "tags": []
+    },
+    {
+      "id": "timeli-030",
+      "q": "Geiger counter was developed in 1912 by:",
+      "options": [
+        "Geiger",
+        "Curie",
+        "Rutherford",
+        "Bohr"
+      ],
+      "correct": 0,
+      "explanation": "Hans Geiger.",
+      "tags": []
+    },
+    {
+      "id": "timeli-031",
+      "q": "The word 'robot' was coined in 1921 by:",
+      "options": [
+        "Asimov",
+        "Capek brothers",
+        "Turing",
+        "Tesla"
+      ],
+      "correct": 1,
+      "explanation": "Karel Čapek &amp; brother.",
+      "tags": []
+    },
+    {
+      "id": "timeli-032",
+      "q": "Mechanical television was developed in 1920s by:",
+      "options": [
+        "Farnsworth",
+        "Baird",
+        "Edison",
+        "Sarnoff"
+      ],
+      "correct": 1,
+      "explanation": "John Logie Baird.",
+      "tags": []
+    },
+    {
+      "id": "timeli-033",
+      "q": "Radar was developed in 1930s under:",
+      "options": [
+        "Watson Watt",
+        "Whittle",
+        "Marconi",
+        "Tesla"
+      ],
+      "correct": 0,
+      "explanation": "Robert Watson Watt.",
+      "tags": []
+    },
+    {
+      "id": "timeli-034",
+      "q": "First nuclear chain reactor was built in 1942 by:",
+      "options": [
+        "Oppenheimer",
+        "Einstein",
+        "Fermi",
+        "Bohr"
+      ],
+      "correct": 2,
+      "explanation": "Enrico Fermi, Chicago Pile-1.",
+      "tags": []
+    },
+    {
+      "id": "timeli-035",
+      "q": "Communications satellite concept proposed in 1945 by:",
+      "options": [
+        "A. C. Clarke",
+        "Tsiolkovsky",
+        "Goddard",
+        "Sputnik team"
+      ],
+      "correct": 0,
+      "explanation": "Arthur C. Clarke.",
+      "tags": []
+    },
+    {
+      "id": "timeli-036",
+      "q": "DNA double helix was reported in:",
+      "options": [
+        "1944",
+        "1953",
+        "1961",
+        "1972"
+      ],
+      "correct": 1,
+      "explanation": "Watson, Crick &amp; Wilkins, 1953.",
+      "tags": []
+    },
+    {
+      "id": "timeli-037",
+      "q": "First fibre optics were pioneered by:",
+      "options": [
+        "Maiman",
+        "Townes",
+        "Narinder Kapany",
+        "Bell"
+      ],
+      "correct": 2,
+      "explanation": "N. S. Kapany, 1954.",
+      "tags": []
+    },
+    {
+      "id": "timeli-038",
+      "q": "Sputnik was launched in:",
+      "options": [
+        "1955",
+        "1957",
+        "1961",
+        "1969"
+      ],
+      "correct": 1,
+      "explanation": "USSR, 4 Oct 1957.",
+      "tags": []
+    },
+    {
+      "id": "timeli-039",
+      "q": "Integrated circuit was developed in 1958 by:",
+      "options": [
+        "Hoff",
+        "Kilby &amp; Noyce",
+        "Wozniak",
+        "Engelbart"
+      ],
+      "correct": 1,
+      "explanation": "Independently.",
+      "tags": []
+    },
+    {
+      "id": "timeli-040",
+      "q": "Ruby laser was invented in 1960 by:",
+      "options": [
+        "Townes",
+        "Maiman",
+        "Schawlow",
+        "Gould"
+      ],
+      "correct": 1,
+      "explanation": "Theodore Maiman.",
+      "tags": []
+    },
+    {
+      "id": "timeli-041",
+      "q": "LED was invented in 1962 by:",
+      "options": [
+        "Holonyak",
+        "Shockley",
+        "Bardeen",
+        "Carlson"
+      ],
+      "correct": 0,
+      "explanation": "Nick Holonyak at GE.",
+      "tags": []
+    },
+    {
+      "id": "timeli-042",
+      "q": "Sketchpad CAD system was developed in 1963 by:",
+      "options": [
+        "Engelbart",
+        "Ivan Sutherland",
+        "Kay",
+        "Hoff"
+      ],
+      "correct": 1,
+      "explanation": "Ivan Sutherland.",
+      "tags": []
+    },
+    {
+      "id": "timeli-043",
+      "q": "Apollo 11 Moon landing took place in:",
+      "options": [
+        "1965",
+        "1967",
+        "1969",
+        "1972"
+      ],
+      "correct": 2,
+      "explanation": "July 1969.",
+      "tags": []
+    },
+    {
+      "id": "timeli-044",
+      "q": "First microprocessor was built in 1971 by:",
+      "options": [
+        "Wozniak",
+        "Hoff",
+        "Jobs",
+        "Moore"
+      ],
+      "correct": 1,
+      "explanation": "Ted Hoff at Intel (4004).",
+      "tags": []
+    },
+    {
+      "id": "timeli-045",
+      "q": "First handheld cellphone (1973) was developed by:",
+      "options": [
+        "Steve Jobs",
+        "Bell",
+        "Martin Cooper",
+        "Marconi"
+      ],
+      "correct": 2,
+      "explanation": "Cooper at Motorola.",
+      "tags": []
+    },
+    {
+      "id": "timeli-046",
+      "q": "Public-key cryptography was invented in 1975 by:",
+      "options": [
+        "Turing",
+        "Diffie &amp; Hellman",
+        "Rivest",
+        "Shannon"
+      ],
+      "correct": 1,
+      "explanation": "Whitfield Diffie + Martin Hellman.",
+      "tags": []
+    },
+    {
+      "id": "timeli-047",
+      "q": "Apple I was launched in:",
+      "options": [
+        "1972",
+        "1976",
+        "1981",
+        "1984"
+      ],
+      "correct": 1,
+      "explanation": "Wozniak &amp; Jobs, 1976.",
+      "tags": []
+    },
+    {
+      "id": "timeli-048",
+      "q": "World Wide Web was invented by:",
+      "options": [
+        "Bill Gates",
+        "Tim Berners-Lee",
+        "Steve Jobs",
+        "Vint Cerf"
+      ],
+      "correct": 1,
+      "explanation": "At CERN, 1989.",
+      "tags": []
+    },
+    {
+      "id": "timeli-049",
+      "q": "Linux operating system was created in 1991 by:",
+      "options": [
+        "Linus Torvalds",
+        "Richard Stallman",
+        "Ken Thompson",
+        "Brian Kernighan"
+      ],
+      "correct": 0,
+      "explanation": "First version 1991.",
+      "tags": []
+    },
+    {
+      "id": "timeli-050",
+      "q": "Wi-Fi was standardised globally in:",
+      "options": [
+        "1992",
+        "1995",
+        "1997",
+        "2000"
+      ],
+      "correct": 2,
+      "explanation": "1997.",
+      "tags": []
+    },
+    {
+      "id": "timeli-051",
+      "q": "iPod MP3 player was unveiled in:",
+      "options": [
+        "1999",
+        "2001",
+        "2004",
+        "2007"
+      ],
+      "correct": 1,
+      "explanation": "Apple, 2001.",
+      "tags": []
+    },
+    {
+      "id": "timeli-052",
+      "q": "Wikipedia was founded in:",
+      "options": [
+        "2000",
+        "2001",
+        "2003",
+        "2005"
+      ],
+      "correct": 1,
+      "explanation": "Sanger &amp; Wales, 2001.",
+      "tags": []
+    },
+    {
+      "id": "timeli-053",
+      "q": "Graphene was discovered in 2004 by:",
+      "options": [
+        "Geim &amp; Novoselov",
+        "Bawendi",
+        "Doudna",
+        "Damadian"
+      ],
+      "correct": 0,
+      "explanation": "Manchester team — Nobel 2010.",
+      "tags": []
+    },
+    {
+      "id": "timeli-054",
+      "q": "Kindle e-reader was released in:",
+      "options": [
+        "2003",
+        "2005",
+        "2007",
+        "2010"
+      ],
+      "correct": 2,
+      "explanation": "Amazon, 2007.",
+      "tags": []
+    },
+    {
+      "id": "timeli-055",
+      "q": "iPhone touchscreen phone was launched in:",
+      "options": [
+        "2003",
+        "2005",
+        "2007",
+        "2010"
+      ],
+      "correct": 2,
+      "explanation": "Apple, 2007.",
+      "tags": []
+    },
+    {
+      "id": "timeli-056",
+      "q": "iPad was released in:",
+      "options": [
+        "2008",
+        "2010",
+        "2012",
+        "2015"
+      ],
+      "correct": 1,
+      "explanation": "Apple, 2010.",
+      "tags": []
+    },
+    {
+      "id": "timeli-057",
+      "q": "Hyperloop concept was announced in 2013 by:",
+      "options": [
+        "Bezos",
+        "Musk",
+        "Gates",
+        "Zuckerberg"
+      ],
+      "correct": 1,
+      "explanation": "Elon Musk.",
+      "tags": []
+    },
+    {
+      "id": "timeli-058",
+      "q": "Google announced quantum supremacy in:",
+      "options": [
+        "2017",
+        "2019",
+        "2020",
+        "2022"
+      ],
+      "correct": 1,
+      "explanation": "Sycamore processor, 2019.",
+      "tags": []
+    },
+    {
+      "id": "timeli-059",
+      "q": "Hepatitis C virus discoverers (Nobel 2020):",
+      "options": [
+        "Watson, Crick, Wilkins",
+        "Alter, Houghton, Rice",
+        "Salk, Sabin",
+        "Pasteur, Koch"
+      ],
+      "correct": 1,
+      "explanation": "Alter, Houghton &amp; Rice.",
+      "tags": []
+    },
+    {
+      "id": "timeli-060",
+      "q": "CRISPR/Cas9 genome editing Nobel 2020 went to:",
+      "options": [
+        "Charpentier &amp; Doudna",
+        "Watson &amp; Crick",
+        "Curie &amp; Becquerel",
+        "Mendel &amp; Morgan"
+      ],
+      "correct": 0,
+      "explanation": "Emmanuelle Charpentier &amp; Jennifer Doudna.",
+      "tags": []
+    },
+    {
+      "id": "timeli-061",
+      "q": "Black-hole formation as prediction of GR — Nobel 2020:",
+      "options": [
+        "Hawking",
+        "Penrose",
+        "Thorne",
+        "Einstein"
+      ],
+      "correct": 1,
+      "explanation": "Roger Penrose.",
+      "tags": []
+    },
+    {
+      "id": "timeli-062",
+      "q": "Nobel 2021 in Chemistry (asymmetric organocatalysis):",
+      "options": [
+        "List &amp; MacMillan",
+        "Carothers &amp; Baekeland",
+        "Pauling &amp; Crick",
+        "Sanger &amp; Watson"
+      ],
+      "correct": 0,
+      "explanation": "Benjamin List &amp; David MacMillan.",
+      "tags": []
+    },
+    {
+      "id": "timeli-063",
+      "q": "Nobel 2021 in Medicine (temperature/touch receptors):",
+      "options": [
+        "Julius &amp; Patapoutian",
+        "Salk &amp; Sabin",
+        "Watson &amp; Crick",
+        "Banting &amp; Best"
+      ],
+      "correct": 0,
+      "explanation": "David Julius &amp; Ardem Patapoutian.",
+      "tags": []
+    },
+    {
+      "id": "timeli-064",
+      "q": "NASA's new Moon rocket announced in 2022:",
+      "options": [
+        "Atlas V",
+        "SLS",
+        "Saturn VI",
+        "Falcon Heavy"
+      ],
+      "correct": 1,
+      "explanation": "Space Launch System.",
+      "tags": []
+    },
+    {
+      "id": "timeli-065",
+      "q": "In 2023 Microsoft launched a search engine integrated with:",
+      "options": [
+        "Bard",
+        "ChatGPT",
+        "DALL-E",
+        "LLaMA"
+      ],
+      "correct": 1,
+      "explanation": "ChatGPT-powered Bing.",
+      "tags": []
+    }
+  ]
+}

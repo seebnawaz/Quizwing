@@ -1,0 +1,12 @@
+{
+  "name": "quizwing-content",
+  "version": "1.0.0",
+  "private": true,
+  "description": "QuizWing mobile app content — MCQs in JSON, served via GitHub raw URLs.",
+  "scripts": {
+    "migrate":  "node scripts/migrate.js",
+    "manifest": "node scripts/manifest.js",
+    "validate": "node scripts/validate.js",
+    "build":    "npm run migrate && npm run manifest && npm run validate"
+  }
+}

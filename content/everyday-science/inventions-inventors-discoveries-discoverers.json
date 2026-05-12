@@ -1,0 +1,908 @@
+{
+  "topic_id": "inventions-inventors-discoveries-discoverers",
+  "topic_name": "Inventions, Inventors, Discoveries & Discoverers",
+  "subject": "everyday-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Inventions, Inventors, Discoveries & Discoverers MCQs for PPSC, FPSC, NTS, CSS & PMS preparation.",
+  "icon": "💡",
+  "mcqs": [
+    {
+      "id": "invent-001",
+      "q": "Telephone was invented by:",
+      "options": [
+        "Edison",
+        "A. G. Bell",
+        "Tesla",
+        "Marconi"
+      ],
+      "correct": 1,
+      "explanation": "Alexander Graham Bell, 1876.",
+      "tags": []
+    },
+    {
+      "id": "invent-002",
+      "q": "Light bulb was invented by:",
+      "options": [
+        "Tesla",
+        "Bell",
+        "Thomas Edison",
+        "Faraday"
+      ],
+      "correct": 2,
+      "explanation": "Edison, 1879.",
+      "tags": []
+    },
+    {
+      "id": "invent-003",
+      "q": "Radio was invented by:",
+      "options": [
+        "Edison",
+        "Marconi",
+        "Nikola Tesla",
+        "Hertz"
+      ],
+      "correct": 2,
+      "explanation": "Tesla, 1893; Marconi did transatlantic radio telegraphy in 1901.",
+      "tags": []
+    },
+    {
+      "id": "invent-004",
+      "q": "Television was invented by:",
+      "options": [
+        "Marconi",
+        "John Logie Baird",
+        "Bell",
+        "Edison"
+      ],
+      "correct": 1,
+      "explanation": "Baird, 1926.",
+      "tags": []
+    },
+    {
+      "id": "invent-005",
+      "q": "Airplane was invented by:",
+      "options": [
+        "Wright brothers",
+        "Hermann Helmholtz",
+        "Lindbergh",
+        "Zeppelin"
+      ],
+      "correct": 0,
+      "explanation": "Wilbur &amp; Orville Wright, 1903.",
+      "tags": []
+    },
+    {
+      "id": "invent-006",
+      "q": "Steam engine (condenser) was improved by:",
+      "options": [
+        "Newcomen",
+        "James Watt",
+        "Trevithick",
+        "Stevenson"
+      ],
+      "correct": 1,
+      "explanation": "Watt, 1765.",
+      "tags": []
+    },
+    {
+      "id": "invent-007",
+      "q": "Periodic table was developed by:",
+      "options": [
+        "Bohr",
+        "Rutherford",
+        "Mendeleev",
+        "Moseley"
+      ],
+      "correct": 2,
+      "explanation": "Mendeleev, 1869.",
+      "tags": []
+    },
+    {
+      "id": "invent-008",
+      "q": "Dynamite was invented by:",
+      "options": [
+        "Nobel",
+        "Tesla",
+        "Edison",
+        "Faraday"
+      ],
+      "correct": 0,
+      "explanation": "Alfred Nobel, 1862.",
+      "tags": []
+    },
+    {
+      "id": "invent-009",
+      "q": "Diesel engine was invented by:",
+      "options": [
+        "Otto",
+        "Daimler",
+        "Rudolf Diesel",
+        "Ford"
+      ],
+      "correct": 2,
+      "explanation": "Diesel, 1895.",
+      "tags": []
+    },
+    {
+      "id": "invent-010",
+      "q": "Battery (electric) was invented by:",
+      "options": [
+        "Faraday",
+        "Volta",
+        "Galvani",
+        "Edison"
+      ],
+      "correct": 1,
+      "explanation": "Volta, 1800.",
+      "tags": []
+    },
+    {
+      "id": "invent-011",
+      "q": "Dynamo was invented by:",
+      "options": [
+        "Tesla",
+        "Faraday",
+        "Edison",
+        "Volta"
+      ],
+      "correct": 1,
+      "explanation": "Faraday, 1831.",
+      "tags": []
+    },
+    {
+      "id": "invent-012",
+      "q": "AC motor was invented by:",
+      "options": [
+        "Edison",
+        "Tesla",
+        "Westinghouse",
+        "Faraday"
+      ],
+      "correct": 1,
+      "explanation": "Tesla, 1888.",
+      "tags": []
+    },
+    {
+      "id": "invent-013",
+      "q": "Cinema (motion film) was invented by:",
+      "options": [
+        "Edison &amp; Lumière",
+        "Marconi",
+        "Bell",
+        "Bird"
+      ],
+      "correct": 0,
+      "explanation": "Lumière brothers + Edison, 1895.",
+      "tags": []
+    },
+    {
+      "id": "invent-014",
+      "q": "Cell phone was invented by:",
+      "options": [
+        "Steve Jobs",
+        "Martin Cooper",
+        "Bell",
+        "Marconi"
+      ],
+      "correct": 1,
+      "explanation": "Cooper at Motorola, 1973.",
+      "tags": []
+    },
+    {
+      "id": "invent-015",
+      "q": "Computer mouse was invented by:",
+      "options": [
+        "Engelbart",
+        "Wozniak",
+        "Gates",
+        "Jobs"
+      ],
+      "correct": 0,
+      "explanation": "Douglas Engelbart, 1963.",
+      "tags": []
+    },
+    {
+      "id": "invent-016",
+      "q": "Printing press (movable) was invented by:",
+      "options": [
+        "Gutenberg",
+        "Caxton",
+        "Hoe",
+        "Edison"
+      ],
+      "correct": 0,
+      "explanation": "Johannes Gutenberg, ~1445.",
+      "tags": []
+    },
+    {
+      "id": "invent-017",
+      "q": "Microscope (compound) was invented by:",
+      "options": [
+        "Galileo",
+        "Janssen",
+        "Hooke",
+        "Leeuwenhoek"
+      ],
+      "correct": 1,
+      "explanation": "Zacharias Janssen, 1590.",
+      "tags": []
+    },
+    {
+      "id": "invent-018",
+      "q": "Telescope was first invented by:",
+      "options": [
+        "Galileo",
+        "Newton",
+        "Hans Lippershey",
+        "Kepler"
+      ],
+      "correct": 2,
+      "explanation": "Lippershey, 1608; Galileo improved 1610.",
+      "tags": []
+    },
+    {
+      "id": "invent-019",
+      "q": "Thermometer was invented by:",
+      "options": [
+        "Galileo",
+        "Fahrenheit",
+        "Celsius",
+        "Kelvin"
+      ],
+      "correct": 0,
+      "explanation": "Galileo, 1593.",
+      "tags": []
+    },
+    {
+      "id": "invent-020",
+      "q": "Mercury thermometer was invented by:",
+      "options": [
+        "Celsius",
+        "Fahrenheit",
+        "Kelvin",
+        "Reaumur"
+      ],
+      "correct": 1,
+      "explanation": "Daniel Fahrenheit, 1714.",
+      "tags": []
+    },
+    {
+      "id": "invent-021",
+      "q": "Centigrade thermometer was invented by:",
+      "options": [
+        "Celsius",
+        "Fahrenheit",
+        "Kelvin",
+        "Galileo"
+      ],
+      "correct": 0,
+      "explanation": "Anders Celsius, 1742.",
+      "tags": []
+    },
+    {
+      "id": "invent-022",
+      "q": "Barometer was invented by:",
+      "options": [
+        "Pascal",
+        "Torricelli",
+        "Galileo",
+        "Boyle"
+      ],
+      "correct": 1,
+      "explanation": "Torricelli, 1643.",
+      "tags": []
+    },
+    {
+      "id": "invent-023",
+      "q": "Bicycle was invented by:",
+      "options": [
+        "Dunlop",
+        "Macmillan",
+        "Ford",
+        "Daimler"
+      ],
+      "correct": 1,
+      "explanation": "Kirkpatrick Macmillan, 1839.",
+      "tags": []
+    },
+    {
+      "id": "invent-024",
+      "q": "Pneumatic tyres invented by:",
+      "options": [
+        "Goodyear",
+        "Dunlop",
+        "Michelin",
+        "Ford"
+      ],
+      "correct": 1,
+      "explanation": "John Boyd Dunlop, 1888.",
+      "tags": []
+    },
+    {
+      "id": "invent-025",
+      "q": "Vulcanised rubber was developed by:",
+      "options": [
+        "Dunlop",
+        "Goodyear",
+        "Hancock",
+        "Edison"
+      ],
+      "correct": 1,
+      "explanation": "Charles Goodyear, 1839.",
+      "tags": []
+    },
+    {
+      "id": "invent-026",
+      "q": "Helicopter was developed by:",
+      "options": [
+        "Sikorsky",
+        "D'Ascanio",
+        "Wright",
+        "Cierva"
+      ],
+      "correct": 1,
+      "explanation": "D'Ascanio, 1930.",
+      "tags": []
+    },
+    {
+      "id": "invent-027",
+      "q": "Jet engine was invented by:",
+      "options": [
+        "Whittle",
+        "Wright",
+        "Diesel",
+        "Otto"
+      ],
+      "correct": 0,
+      "explanation": "Sir Frank Whittle, 1937.",
+      "tags": []
+    },
+    {
+      "id": "invent-028",
+      "q": "Hot-air balloon was invented by:",
+      "options": [
+        "Wright brothers",
+        "Montgolfier brothers",
+        "Zeppelin",
+        "Giffard"
+      ],
+      "correct": 1,
+      "explanation": "Montgolfier, 1783.",
+      "tags": []
+    },
+    {
+      "id": "invent-029",
+      "q": "Zeppelin (rigid airship) by:",
+      "options": [
+        "Giffard",
+        "Zeppelin",
+        "Wright",
+        "Curtiss"
+      ],
+      "correct": 1,
+      "explanation": "Ferdinand von Zeppelin, 1900.",
+      "tags": []
+    },
+    {
+      "id": "invent-030",
+      "q": "Bifocal lens was invented by:",
+      "options": [
+        "Newton",
+        "Franklin",
+        "Galileo",
+        "Edison"
+      ],
+      "correct": 1,
+      "explanation": "Benjamin Franklin, 1780.",
+      "tags": []
+    },
+    {
+      "id": "invent-031",
+      "q": "Lightning conductor was invented by:",
+      "options": [
+        "Edison",
+        "Franklin",
+        "Faraday",
+        "Hertz"
+      ],
+      "correct": 1,
+      "explanation": "Benjamin Franklin, 1752.",
+      "tags": []
+    },
+    {
+      "id": "invent-032",
+      "q": "Sewing machine (lockstitch) by:",
+      "options": [
+        "Singer",
+        "Howe",
+        "Saint",
+        "Thimonnier"
+      ],
+      "correct": 1,
+      "explanation": "Elias Howe, 1846.",
+      "tags": []
+    },
+    {
+      "id": "invent-033",
+      "q": "Domestic sewing machine was patented by:",
+      "options": [
+        "Howe",
+        "Singer",
+        "Saint",
+        "Bissell"
+      ],
+      "correct": 1,
+      "explanation": "Isaac Merritt Singer, 1851.",
+      "tags": []
+    },
+    {
+      "id": "invent-034",
+      "q": "Cotton gin was invented by:",
+      "options": [
+        "Whitney",
+        "Cartwright",
+        "Arkwright",
+        "Hargreaves"
+      ],
+      "correct": 0,
+      "explanation": "Eli Whitney, 1793.",
+      "tags": []
+    },
+    {
+      "id": "invent-035",
+      "q": "Spinning jenny by:",
+      "options": [
+        "Arkwright",
+        "Hargreaves",
+        "Crompton",
+        "Kay"
+      ],
+      "correct": 1,
+      "explanation": "James Hargreaves, 1764.",
+      "tags": []
+    },
+    {
+      "id": "invent-036",
+      "q": "Power loom was invented by:",
+      "options": [
+        "Cartwright",
+        "Arkwright",
+        "Hargreaves",
+        "Kay"
+      ],
+      "correct": 0,
+      "explanation": "Edmund Cartwright, 1785.",
+      "tags": []
+    },
+    {
+      "id": "invent-037",
+      "q": "Camera (Kodak) was invented by:",
+      "options": [
+        "Niepce",
+        "Eastman",
+        "Edison",
+        "Lumière"
+      ],
+      "correct": 1,
+      "explanation": "George Eastman, 1888.",
+      "tags": []
+    },
+    {
+      "id": "invent-038",
+      "q": "Phonograph was invented by:",
+      "options": [
+        "Bell",
+        "Edison",
+        "Marconi",
+        "Berliner"
+      ],
+      "correct": 1,
+      "explanation": "Edison, 1877.",
+      "tags": []
+    },
+    {
+      "id": "invent-039",
+      "q": "Pasteurisation process by:",
+      "options": [
+        "Koch",
+        "Fleming",
+        "Pasteur",
+        "Jenner"
+      ],
+      "correct": 2,
+      "explanation": "Louis Pasteur, 1862.",
+      "tags": []
+    },
+    {
+      "id": "invent-040",
+      "q": "Vaccination was developed by:",
+      "options": [
+        "Pasteur",
+        "Edward Jenner",
+        "Koch",
+        "Fleming"
+      ],
+      "correct": 1,
+      "explanation": "Jenner, 1796 (smallpox).",
+      "tags": []
+    },
+    {
+      "id": "invent-041",
+      "q": "Polio vaccine was developed by:",
+      "options": [
+        "Sabin",
+        "Salk",
+        "Fleming",
+        "Pasteur"
+      ],
+      "correct": 1,
+      "explanation": "Jonas Salk, 1952.",
+      "tags": []
+    },
+    {
+      "id": "invent-042",
+      "q": "Penicillin was discovered by:",
+      "options": [
+        "Pasteur",
+        "Fleming",
+        "Koch",
+        "Salk"
+      ],
+      "correct": 1,
+      "explanation": "Alexander Fleming, 1928.",
+      "tags": []
+    },
+    {
+      "id": "invent-043",
+      "q": "X-rays were discovered by:",
+      "options": [
+        "Röntgen",
+        "Becquerel",
+        "Curie",
+        "Edison"
+      ],
+      "correct": 0,
+      "explanation": "Wilhelm Röntgen, 1895.",
+      "tags": []
+    },
+    {
+      "id": "invent-044",
+      "q": "Radioactivity was discovered by:",
+      "options": [
+        "Curie",
+        "Becquerel",
+        "Rutherford",
+        "Röntgen"
+      ],
+      "correct": 1,
+      "explanation": "Henri Becquerel, 1896.",
+      "tags": []
+    },
+    {
+      "id": "invent-045",
+      "q": "Electron was discovered by:",
+      "options": [
+        "Thomson",
+        "Rutherford",
+        "Chadwick",
+        "Bohr"
+      ],
+      "correct": 0,
+      "explanation": "J. J. Thomson, 1897.",
+      "tags": []
+    },
+    {
+      "id": "invent-046",
+      "q": "Proton was discovered by:",
+      "options": [
+        "Rutherford",
+        "Thomson",
+        "Bohr",
+        "Chadwick"
+      ],
+      "correct": 0,
+      "explanation": "Rutherford, 1919.",
+      "tags": []
+    },
+    {
+      "id": "invent-047",
+      "q": "Neutron was discovered by:",
+      "options": [
+        "Bohr",
+        "Rutherford",
+        "Chadwick",
+        "Curie"
+      ],
+      "correct": 2,
+      "explanation": "James Chadwick, 1932.",
+      "tags": []
+    },
+    {
+      "id": "invent-048",
+      "q": "Positron was discovered by:",
+      "options": [
+        "Anderson",
+        "Bohr",
+        "Rutherford",
+        "Dirac"
+      ],
+      "correct": 0,
+      "explanation": "Carl D. Anderson, 1932.",
+      "tags": []
+    },
+    {
+      "id": "invent-049",
+      "q": "Gamma rays were discovered by:",
+      "options": [
+        "Villard",
+        "Becquerel",
+        "Rutherford",
+        "Curie"
+      ],
+      "correct": 0,
+      "explanation": "Paul Villard, 1900.",
+      "tags": []
+    },
+    {
+      "id": "invent-050",
+      "q": "Atomic numbers were established by:",
+      "options": [
+        "Mendeleev",
+        "Moseley",
+        "Bohr",
+        "Thomson"
+      ],
+      "correct": 1,
+      "explanation": "Henry Moseley, 1914.",
+      "tags": []
+    },
+    {
+      "id": "invent-051",
+      "q": "Cell was discovered by:",
+      "options": [
+        "Hooke",
+        "Schleiden",
+        "Schwann",
+        "Virchow"
+      ],
+      "correct": 0,
+      "explanation": "Robert Hooke, 1665.",
+      "tags": []
+    },
+    {
+      "id": "invent-052",
+      "q": "Blood circulation was discovered by:",
+      "options": [
+        "Galen",
+        "Harvey",
+        "Pasteur",
+        "Vesalius"
+      ],
+      "correct": 1,
+      "explanation": "William Harvey, 1628.",
+      "tags": []
+    },
+    {
+      "id": "invent-053",
+      "q": "Blood groups were discovered by:",
+      "options": [
+        "Landsteiner",
+        "Pasteur",
+        "Fleming",
+        "Salk"
+      ],
+      "correct": 0,
+      "explanation": "Karl Landsteiner, 1900.",
+      "tags": []
+    },
+    {
+      "id": "invent-054",
+      "q": "DNA structure (double helix) by:",
+      "options": [
+        "Mendel",
+        "Watson &amp; Crick",
+        "Franklin",
+        "Pauling"
+      ],
+      "correct": 1,
+      "explanation": "Watson &amp; Crick, 1953 (with Wilkins).",
+      "tags": []
+    },
+    {
+      "id": "invent-055",
+      "q": "Discoverer of nucleic acid (DNA) in 1869:",
+      "options": [
+        "Miescher",
+        "Watson",
+        "Mendel",
+        "Avery"
+      ],
+      "correct": 0,
+      "explanation": "Friedrich Miescher, 1869.",
+      "tags": []
+    },
+    {
+      "id": "invent-056",
+      "q": "Aspirin was discovered by:",
+      "options": [
+        "Pasteur",
+        "Heinrich Dresser",
+        "Fleming",
+        "Banting"
+      ],
+      "correct": 1,
+      "explanation": "Dresser, 1889.",
+      "tags": []
+    },
+    {
+      "id": "invent-057",
+      "q": "Insulin was discovered by:",
+      "options": [
+        "Fleming",
+        "Banting &amp; Best",
+        "Salk",
+        "Pasteur"
+      ],
+      "correct": 1,
+      "explanation": "Banting &amp; Best, 1921.",
+      "tags": []
+    },
+    {
+      "id": "invent-058",
+      "q": "Electromagnetism was discovered by:",
+      "options": [
+        "Faraday",
+        "Oersted",
+        "Ampere",
+        "Maxwell"
+      ],
+      "correct": 1,
+      "explanation": "Hans Christian Ørsted, 1820.",
+      "tags": []
+    },
+    {
+      "id": "invent-059",
+      "q": "Electromagnet was invented by:",
+      "options": [
+        "Faraday",
+        "Sturgeon",
+        "Tesla",
+        "Maxwell"
+      ],
+      "correct": 1,
+      "explanation": "William Sturgeon, 1824.",
+      "tags": []
+    },
+    {
+      "id": "invent-060",
+      "q": "Transistor (1947) was invented by:",
+      "options": [
+        "Shockley, Bardeen, Brattain",
+        "Edison",
+        "Tesla",
+        "Faraday"
+      ],
+      "correct": 0,
+      "explanation": "Bell Labs trio.",
+      "tags": []
+    },
+    {
+      "id": "invent-061",
+      "q": "First electronic computer (ENIAC, 1942) was developed by:",
+      "options": [
+        "IBM",
+        "Brainerd, Eckert, Mauchly",
+        "Turing",
+        "Babbage"
+      ],
+      "correct": 1,
+      "explanation": "University of Pennsylvania.",
+      "tags": []
+    },
+    {
+      "id": "invent-062",
+      "q": "Floppy disk was developed by team led by:",
+      "options": [
+        "Alan Shugart (IBM)",
+        "Steve Jobs",
+        "Bill Gates",
+        "Engelbart"
+      ],
+      "correct": 0,
+      "explanation": "IBM 1970.",
+      "tags": []
+    },
+    {
+      "id": "invent-063",
+      "q": "Laser was developed by:",
+      "options": [
+        "Townes",
+        "Edison",
+        "Tesla",
+        "Maiman alone"
+      ],
+      "correct": 0,
+      "explanation": "Charles Townes, 1960.",
+      "tags": []
+    },
+    {
+      "id": "invent-064",
+      "q": "Fibre optics was developed by:",
+      "options": [
+        "Kapany",
+        "Bell",
+        "Tesla",
+        "Marconi"
+      ],
+      "correct": 0,
+      "explanation": "Narinder Singh Kapany, 1955.",
+      "tags": []
+    },
+    {
+      "id": "invent-065",
+      "q": "Nuclear reactor was first built by:",
+      "options": [
+        "Einstein",
+        "Fermi",
+        "Oppenheimer",
+        "Bohr"
+      ],
+      "correct": 1,
+      "explanation": "Enrico Fermi, 1942.",
+      "tags": []
+    },
+    {
+      "id": "invent-066",
+      "q": "Pacemaker was invented by:",
+      "options": [
+        "Jarvik",
+        "Greatbatch",
+        "Kolff",
+        "Salk"
+      ],
+      "correct": 1,
+      "explanation": "Wilson Greatbatch, 1958.",
+      "tags": []
+    },
+    {
+      "id": "invent-067",
+      "q": "Artificial heart (Jarvik-7) by:",
+      "options": [
+        "Kolff",
+        "Greatbatch",
+        "Jarvik",
+        "DeBakey"
+      ],
+      "correct": 2,
+      "explanation": "Robert Jarvik, 1978.",
+      "tags": []
+    },
+    {
+      "id": "invent-068",
+      "q": "Kidney dialysis machine by:",
+      "options": [
+        "Jarvik",
+        "Kolff",
+        "Salk",
+        "Pasteur"
+      ],
+      "correct": 1,
+      "explanation": "Willem Kolff, 1944.",
+      "tags": []
+    },
+    {
+      "id": "invent-069",
+      "q": "MRI scanner was developed by:",
+      "options": [
+        "Damadian",
+        "Lauterbur alone",
+        "Mansfield",
+        "Röntgen"
+      ],
+      "correct": 0,
+      "explanation": "Raymond Damadian, 1977.",
+      "tags": []
+    }
+  ]
+}

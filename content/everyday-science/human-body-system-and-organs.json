@@ -1,0 +1,791 @@
+{
+  "topic_id": "human-body-system-and-organs",
+  "topic_name": "Human Body System & Organs",
+  "subject": "everyday-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Human Body System & Organs MCQs for PPSC, FPSC, NTS, CSS & PMS preparation.",
+  "icon": "🫀",
+  "mcqs": [
+    {
+      "id": "human--001",
+      "q": "Total number of bones in the adult human body:",
+      "options": [
+        "198",
+        "206",
+        "210",
+        "250"
+      ],
+      "correct": 1,
+      "explanation": "206 bones — 80 axial + 126 appendicular.",
+      "tags": []
+    },
+    {
+      "id": "human--002",
+      "q": "Estimated number of cells in the human body:",
+      "options": [
+        "3.7 billion",
+        "37 billion",
+        "37.2 trillion",
+        "372 trillion"
+      ],
+      "correct": 2,
+      "explanation": "~37.2 trillion.",
+      "tags": []
+    },
+    {
+      "id": "human--003",
+      "q": "Largest cell in the human body:",
+      "options": [
+        "Sperm",
+        "Neuron",
+        "Ovum",
+        "RBC"
+      ],
+      "correct": 2,
+      "explanation": "Ovum (egg).",
+      "tags": []
+    },
+    {
+      "id": "human--004",
+      "q": "Longest cell in the human body:",
+      "options": [
+        "Sperm",
+        "Neuron",
+        "RBC",
+        "Hepatocyte"
+      ],
+      "correct": 1,
+      "explanation": "Neuron — up to ~1 m.",
+      "tags": []
+    },
+    {
+      "id": "human--005",
+      "q": "Smallest cell in the human body:",
+      "options": [
+        "Sperm",
+        "RBC",
+        "Neuron",
+        "Ovum"
+      ],
+      "correct": 0,
+      "explanation": "Sperm / cerebellar granule cell.",
+      "tags": []
+    },
+    {
+      "id": "human--006",
+      "q": "Average adult blood volume:",
+      "options": [
+        "1–2 L",
+        "3–4 L",
+        "5–6 L",
+        "8–10 L"
+      ],
+      "correct": 2,
+      "explanation": "≈5–6 litres.",
+      "tags": []
+    },
+    {
+      "id": "human--007",
+      "q": "RBCs produced per second:",
+      "options": [
+        "~10,000",
+        "~100,000",
+        "2–3 million",
+        "20 million"
+      ],
+      "correct": 2,
+      "explanation": "≈2.4 million RBCs per second.",
+      "tags": []
+    },
+    {
+      "id": "human--008",
+      "q": "Lifespan of a red blood cell:",
+      "options": [
+        "30 days",
+        "60 days",
+        "90 days",
+        "120 days"
+      ],
+      "correct": 3,
+      "explanation": "120 days.",
+      "tags": []
+    },
+    {
+      "id": "human--009",
+      "q": "Protein in RBCs that carries oxygen:",
+      "options": [
+        "Myoglobin",
+        "Albumin",
+        "Haemoglobin",
+        "Globulin"
+      ],
+      "correct": 2,
+      "explanation": "Haemoglobin — 4 subunits, 4 heme groups.",
+      "tags": []
+    },
+    {
+      "id": "human--010",
+      "q": "Main metal in haemoglobin:",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Iron",
+        "Magnesium"
+      ],
+      "correct": 2,
+      "explanation": "Iron in heme.",
+      "tags": []
+    },
+    {
+      "id": "human--011",
+      "q": "Cells that fight infection:",
+      "options": [
+        "RBCs",
+        "WBCs",
+        "Platelets",
+        "Plasma"
+      ],
+      "correct": 1,
+      "explanation": "WBCs / leukocytes.",
+      "tags": []
+    },
+    {
+      "id": "human--012",
+      "q": "Cells responsible for blood clotting:",
+      "options": [
+        "RBCs",
+        "WBCs",
+        "Platelets",
+        "Plasma"
+      ],
+      "correct": 2,
+      "explanation": "Thrombocytes (platelets).",
+      "tags": []
+    },
+    {
+      "id": "human--013",
+      "q": "Number of blood-clotting factors:",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct": 3,
+      "explanation": "13 clotting factors.",
+      "tags": []
+    },
+    {
+      "id": "human--014",
+      "q": "Universal blood donor group:",
+      "options": [
+        "A",
+        "B",
+        "AB",
+        "O"
+      ],
+      "correct": 3,
+      "explanation": "O negative.",
+      "tags": []
+    },
+    {
+      "id": "human--015",
+      "q": "Universal blood recipient group:",
+      "options": [
+        "A",
+        "B",
+        "AB",
+        "O"
+      ],
+      "correct": 2,
+      "explanation": "AB positive.",
+      "tags": []
+    },
+    {
+      "id": "human--016",
+      "q": "ABO blood group gene is located on chromosome:",
+      "options": [
+        "7",
+        "9",
+        "11",
+        "21"
+      ],
+      "correct": 1,
+      "explanation": "Chromosome 9.",
+      "tags": []
+    },
+    {
+      "id": "human--017",
+      "q": "Element NOT found in blood:",
+      "options": [
+        "Iron",
+        "Sodium",
+        "Chromium",
+        "Calcium"
+      ],
+      "correct": 2,
+      "explanation": "Chromium is not a normal blood element.",
+      "tags": []
+    },
+    {
+      "id": "human--018",
+      "q": "A clot inside a vein/artery is called:",
+      "options": [
+        "Embolus",
+        "Thrombus",
+        "Plaque",
+        "Aneurysm"
+      ],
+      "correct": 1,
+      "explanation": "Thrombus.",
+      "tags": []
+    },
+    {
+      "id": "human--019",
+      "q": "Total bones in the human skull:",
+      "options": [
+        "22",
+        "26",
+        "28",
+        "32"
+      ],
+      "correct": 2,
+      "explanation": "28 bones (incl. ear ossicles).",
+      "tags": []
+    },
+    {
+      "id": "human--020",
+      "q": "Number of bones in axial skeleton:",
+      "options": [
+        "80",
+        "100",
+        "126",
+        "206"
+      ],
+      "correct": 0,
+      "explanation": "80 axial bones.",
+      "tags": []
+    },
+    {
+      "id": "human--021",
+      "q": "Number of bones in appendicular skeleton:",
+      "options": [
+        "80",
+        "100",
+        "126",
+        "156"
+      ],
+      "correct": 2,
+      "explanation": "126 bones (limbs &amp; girdles).",
+      "tags": []
+    },
+    {
+      "id": "human--022",
+      "q": "Number of bones in spinal column:",
+      "options": [
+        "24",
+        "26",
+        "30",
+        "33"
+      ],
+      "correct": 3,
+      "explanation": "33 vertebrae.",
+      "tags": []
+    },
+    {
+      "id": "human--023",
+      "q": "Number of pairs of ribs:",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct": 2,
+      "explanation": "12 pairs.",
+      "tags": []
+    },
+    {
+      "id": "human--024",
+      "q": "Two long bones of the lower leg:",
+      "options": [
+        "Radius &amp; ulna",
+        "Tibia &amp; fibula",
+        "Femur &amp; tibia",
+        "Humerus &amp; radius"
+      ],
+      "correct": 1,
+      "explanation": "Tibia + fibula.",
+      "tags": []
+    },
+    {
+      "id": "human--025",
+      "q": "Over 99% of body calcium is found in:",
+      "options": [
+        "Blood",
+        "Skin",
+        "Teeth and bones",
+        "Liver"
+      ],
+      "correct": 2,
+      "explanation": ">99% in bones/teeth.",
+      "tags": []
+    },
+    {
+      "id": "human--026",
+      "q": "Approximate weight of human brain:",
+      "options": [
+        "0.5 kg",
+        "1.0 kg",
+        "1.3 kg",
+        "2.0 kg"
+      ],
+      "correct": 2,
+      "explanation": "≈1.3 kg / 3 lb.",
+      "tags": []
+    },
+    {
+      "id": "human--027",
+      "q": "Largest part of human brain:",
+      "options": [
+        "Cerebellum",
+        "Cerebrum",
+        "Medulla",
+        "Pons"
+      ],
+      "correct": 1,
+      "explanation": "Cerebrum.",
+      "tags": []
+    },
+    {
+      "id": "human--028",
+      "q": "Voluntary actions are controlled by:",
+      "options": [
+        "Cerebellum",
+        "Motor cortex",
+        "Medulla",
+        "Hypothalamus"
+      ],
+      "correct": 1,
+      "explanation": "Motor cortex (rear of frontal lobe).",
+      "tags": []
+    },
+    {
+      "id": "human--029",
+      "q": "Primary respiratory control centre:",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Thalamus"
+      ],
+      "correct": 2,
+      "explanation": "Medulla oblongata.",
+      "tags": []
+    },
+    {
+      "id": "human--030",
+      "q": "Body temperature is regulated by:",
+      "options": [
+        "Pituitary",
+        "Hypothalamus",
+        "Medulla",
+        "Thyroid"
+      ],
+      "correct": 1,
+      "explanation": "Hypothalamus.",
+      "tags": []
+    },
+    {
+      "id": "human--031",
+      "q": "Nervous system is affected by shortage of:",
+      "options": [
+        "Calcium",
+        "Sodium",
+        "Iron",
+        "Iodine"
+      ],
+      "correct": 1,
+      "explanation": "Sodium imbalance.",
+      "tags": []
+    },
+    {
+      "id": "human--032",
+      "q": "Sex chromosomes in males:",
+      "options": [
+        "XX",
+        "XY",
+        "YY",
+        "XO"
+      ],
+      "correct": 1,
+      "explanation": "XY.",
+      "tags": []
+    },
+    {
+      "id": "human--033",
+      "q": "Sex chromosomes in females:",
+      "options": [
+        "XX",
+        "XY",
+        "YY",
+        "XO"
+      ],
+      "correct": 0,
+      "explanation": "XX.",
+      "tags": []
+    },
+    {
+      "id": "human--034",
+      "q": "Master gland of the body:",
+      "options": [
+        "Thyroid",
+        "Pancreas",
+        "Pituitary",
+        "Adrenal"
+      ],
+      "correct": 2,
+      "explanation": "Pituitary controls other endocrine glands.",
+      "tags": []
+    },
+    {
+      "id": "human--035",
+      "q": "Mixed gland of the body:",
+      "options": [
+        "Thyroid",
+        "Pancreas",
+        "Pituitary",
+        "Adrenal"
+      ],
+      "correct": 1,
+      "explanation": "Pancreas — both endocrine + exocrine.",
+      "tags": []
+    },
+    {
+      "id": "human--036",
+      "q": "Most important hormone of pancreas:",
+      "options": [
+        "Glucagon",
+        "Insulin",
+        "Adrenaline",
+        "Cortisol"
+      ],
+      "correct": 1,
+      "explanation": "Insulin from beta cells.",
+      "tags": []
+    },
+    {
+      "id": "human--037",
+      "q": "Iodine is mainly stored in:",
+      "options": [
+        "Liver",
+        "Thyroid",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "correct": 1,
+      "explanation": "70–80% in thyroid.",
+      "tags": []
+    },
+    {
+      "id": "human--038",
+      "q": "Hormones produced by ovaries:",
+      "options": [
+        "Insulin &amp; glucagon",
+        "Estrogen &amp; progesterone",
+        "T3 &amp; T4",
+        "Cortisol &amp; aldosterone"
+      ],
+      "correct": 1,
+      "explanation": "Sex hormones.",
+      "tags": []
+    },
+    {
+      "id": "human--039",
+      "q": "Largest gland in the human body:",
+      "options": [
+        "Pancreas",
+        "Liver",
+        "Thyroid",
+        "Salivary"
+      ],
+      "correct": 1,
+      "explanation": "Liver — also largest solid organ.",
+      "tags": []
+    },
+    {
+      "id": "human--040",
+      "q": "Functional unit of kidney:",
+      "options": [
+        "Neuron",
+        "Nephron",
+        "Alveolus",
+        "Hepatocyte"
+      ],
+      "correct": 1,
+      "explanation": "~1 million nephrons per kidney.",
+      "tags": []
+    },
+    {
+      "id": "human--041",
+      "q": "First organ to be transplanted (1954):",
+      "options": [
+        "Heart",
+        "Liver",
+        "Kidney",
+        "Lung"
+      ],
+      "correct": 2,
+      "explanation": "Kidney transplant — 1954.",
+      "tags": []
+    },
+    {
+      "id": "human--042",
+      "q": "Bile is produced by ___ and stored in ___:",
+      "options": [
+        "Pancreas; gallbladder",
+        "Liver; gallbladder",
+        "Liver; pancreas",
+        "Kidney; bladder"
+      ],
+      "correct": 1,
+      "explanation": "Liver → gallbladder.",
+      "tags": []
+    },
+    {
+      "id": "human--043",
+      "q": "Most digestion &amp; absorption happens in:",
+      "options": [
+        "Stomach",
+        "Large intestine",
+        "Small intestine",
+        "Oesophagus"
+      ],
+      "correct": 2,
+      "explanation": "Small intestine.",
+      "tags": []
+    },
+    {
+      "id": "human--044",
+      "q": "Heart is covered by a membrane called:",
+      "options": [
+        "Pleura",
+        "Peritoneum",
+        "Pericardium",
+        "Mesentery"
+      ],
+      "correct": 2,
+      "explanation": "Pericardium.",
+      "tags": []
+    },
+    {
+      "id": "human--045",
+      "q": "Graveyard of RBCs:",
+      "options": [
+        "Liver",
+        "Spleen",
+        "Kidney",
+        "Bone marrow"
+      ],
+      "correct": 1,
+      "explanation": "Spleen destroys old RBCs.",
+      "tags": []
+    },
+    {
+      "id": "human--046",
+      "q": "Retina of the eye acts like:",
+      "options": [
+        "Lens of camera",
+        "Film of camera",
+        "Aperture",
+        "Shutter"
+      ],
+      "correct": 1,
+      "explanation": "Light-sensitive — image is real &amp; inverted.",
+      "tags": []
+    },
+    {
+      "id": "human--047",
+      "q": "Powerhouse of the cell:",
+      "options": [
+        "Nucleus",
+        "Ribosome",
+        "Mitochondria",
+        "Golgi"
+      ],
+      "correct": 2,
+      "explanation": "Mitochondria produce ATP.",
+      "tags": []
+    },
+    {
+      "id": "human--048",
+      "q": "Brain of the cell:",
+      "options": [
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome",
+        "ER"
+      ],
+      "correct": 1,
+      "explanation": "Nucleus holds DNA — controls cell.",
+      "tags": []
+    },
+    {
+      "id": "human--049",
+      "q": "In metabolism, enzymes act as:",
+      "options": [
+        "Substrate",
+        "Catalyst",
+        "Inhibitor",
+        "Hormone"
+      ],
+      "correct": 1,
+      "explanation": "Biological catalysts.",
+      "tags": []
+    },
+    {
+      "id": "human--050",
+      "q": "Fertilization in humans occurs in:",
+      "options": [
+        "Uterus",
+        "Vagina",
+        "Oviduct (fallopian tube)",
+        "Cervix"
+      ],
+      "correct": 2,
+      "explanation": "In the fallopian tube.",
+      "tags": []
+    },
+    {
+      "id": "human--051",
+      "q": "Allergy is caused due to:",
+      "options": [
+        "Vitamin deficiency",
+        "Antigen-antibody reaction",
+        "Hormonal change",
+        "Genetic mutation"
+      ],
+      "correct": 1,
+      "explanation": "Immune hypersensitivity.",
+      "tags": []
+    },
+    {
+      "id": "human--052",
+      "q": "Hookworm enters the body through:",
+      "options": [
+        "Mouth",
+        "Nose",
+        "Soles of feet",
+        "Eyes"
+      ],
+      "correct": 2,
+      "explanation": "Through skin of the feet.",
+      "tags": []
+    },
+    {
+      "id": "human--053",
+      "q": "Number of permanent teeth in adult:",
+      "options": [
+        "20",
+        "28",
+        "32",
+        "36"
+      ],
+      "correct": 2,
+      "explanation": "32 permanent teeth.",
+      "tags": []
+    },
+    {
+      "id": "human--054",
+      "q": "Normal human body temperature:",
+      "options": [
+        "96°F",
+        "98.6°F",
+        "100°F",
+        "104°F"
+      ],
+      "correct": 1,
+      "explanation": "37 °C / 98.6 °F.",
+      "tags": []
+    },
+    {
+      "id": "human--055",
+      "q": "Normal blood pressure (mmHg):",
+      "options": [
+        "100/60",
+        "110/70",
+        "120/80",
+        "140/90"
+      ],
+      "correct": 2,
+      "explanation": "Systolic/diastolic 120/80.",
+      "tags": []
+    },
+    {
+      "id": "human--056",
+      "q": "Normal pH range of human blood:",
+      "options": [
+        "6.5–7.0",
+        "7.0–7.3",
+        "7.35–7.45",
+        "7.5–7.8"
+      ],
+      "correct": 2,
+      "explanation": "Slightly alkaline.",
+      "tags": []
+    },
+    {
+      "id": "human--057",
+      "q": "Approximate iodine in adult body:",
+      "options": [
+        "1–2 mg",
+        "5–10 mg",
+        "15–20 mg",
+        "50 mg"
+      ],
+      "correct": 2,
+      "explanation": "15–20 mg, 70–80% in thyroid.",
+      "tags": []
+    },
+    {
+      "id": "human--058",
+      "q": "Skin makes up ___ of body weight:",
+      "options": [
+        "~5%",
+        "~10%",
+        "~16%",
+        "~25%"
+      ],
+      "correct": 2,
+      "explanation": "≈16% — also the largest organ.",
+      "tags": []
+    },
+    {
+      "id": "human--059",
+      "q": "Which is NOT a cranial bone?",
+      "options": [
+        "Frontal",
+        "Parietal",
+        "Mandible",
+        "Occipital"
+      ],
+      "correct": 2,
+      "explanation": "Mandible is a facial bone, not cranial.",
+      "tags": []
+    },
+    {
+      "id": "human--060",
+      "q": "Glucose is the primary energy source for:",
+      "options": [
+        "Bones",
+        "Every body cell",
+        "Hair only",
+        "Skin only"
+      ],
+      "correct": 1,
+      "explanation": "Universal energy substrate.",
+      "tags": []
+    }
+  ]
+}

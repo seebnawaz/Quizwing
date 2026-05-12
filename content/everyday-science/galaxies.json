@@ -1,0 +1,674 @@
+{
+  "topic_id": "galaxies",
+  "topic_name": "Galaxies",
+  "subject": "everyday-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Galaxies MCQs for PPSC, FPSC, NTS, CSS & PMS preparation.",
+  "icon": "🌌",
+  "mcqs": [
+    {
+      "id": "galaxi-001",
+      "q": "What is a galaxy?",
+      "options": [
+        "A single star",
+        "A large collection of stars, dust and gas held together by gravity",
+        "A planet's moon",
+        "A small comet"
+      ],
+      "correct": 1,
+      "explanation": "A galaxy is a large collection of stars, dust and gas in space — a system of millions or billions of stars held together by gravity.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-002",
+      "q": "What does the light coming from stars indicate about them?",
+      "options": [
+        "Only their distance",
+        "Their rotational speed and temperature",
+        "Their mass only",
+        "Their colour only"
+      ],
+      "correct": 1,
+      "explanation": "The light coming from stars gives the idea of their rotational speed and temperature.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-003",
+      "q": "Why do constellations appear at different positions during the night?",
+      "options": [
+        "The stars are moving rapidly",
+        "Mainly due to Earth's rotation",
+        "Due to atmospheric effects",
+        "Due to gravitational lensing"
+      ],
+      "correct": 1,
+      "explanation": "The constellation of stars appears at different positions in the sky at different times during night mainly due to Earth's rotation.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-004",
+      "q": "What do sunspots cause?",
+      "options": [
+        "Earthquakes",
+        "Aurora australis, aurora borealis (polar auroras) and geomagnetic storms",
+        "Tsunamis",
+        "Hurricanes only"
+      ],
+      "correct": 1,
+      "explanation": "Sunspots cause aurora australis and aurora borealis (polar auroras) and geomagnetic storms on the surface of the Sun.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-005",
+      "q": "What is the closest star to Earth other than the Sun?",
+      "options": [
+        "Polaris",
+        "Sirius",
+        "Proxima Centauri",
+        "Betelgeuse"
+      ],
+      "correct": 2,
+      "explanation": "Proxima Centauri is the closest star to Earth other than the Sun — about 4.25 light years away.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-006",
+      "q": "How far is Proxima Centauri from Earth?",
+      "options": [
+        "~1 light year",
+        "~4.25 light years",
+        "~10 light years",
+        "~100 light years"
+      ],
+      "correct": 1,
+      "explanation": "Proxima Centauri is about 4.25 light years from Earth.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-007",
+      "q": "Praesepe (Messier 44 / M44 / Beehive Cluster) is located in which constellation?",
+      "options": [
+        "Cancer",
+        "Virgo",
+        "Sagittarius",
+        "Orion"
+      ],
+      "correct": 0,
+      "explanation": "Praesepe (also called the Beehive Cluster or M44) is a large, bright open star cluster located in the constellation Cancer.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-008",
+      "q": "The change in colour of stars arises due to:",
+      "options": [
+        "Their distance from Earth",
+        "Variation in their surface temperature",
+        "Their age only",
+        "Atmospheric distortion"
+      ],
+      "correct": 1,
+      "explanation": "The change in colour of stars arises due to variation in their surface temperature — hotter stars appear blue, cooler stars appear red.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-009",
+      "q": "Polaris (the North Star) lies at the end of the handle of which constellation?",
+      "options": [
+        "Big Dipper",
+        "Little Dipper",
+        "Orion",
+        "Cassiopeia"
+      ],
+      "correct": 1,
+      "explanation": "Polaris, the North Star, lies at the end of the handle of the Little Dipper — its stars are faint compared to those of the Big Dipper.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-010",
+      "q": "What type of galaxy is the Milky Way?",
+      "options": [
+        "Elliptical galaxy",
+        "Barred spiral galaxy",
+        "Irregular galaxy",
+        "Lenticular galaxy"
+      ],
+      "correct": 1,
+      "explanation": "The Milky Way is an example of a barred spiral galaxy.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-011",
+      "q": "What is the diameter of the Milky Way?",
+      "options": [
+        "~10,000 light years",
+        "~50,000 light years",
+        "100,000 to 180,000 light years",
+        "~1 million light years"
+      ],
+      "correct": 2,
+      "explanation": "The diameter of the Milky Way is 100,000 to 180,000 light years.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-012",
+      "q": "What is the distance from the Sun to the Galactic Centre of the Milky Way?",
+      "options": [
+        "~1,000 light years",
+        "~10,000 light years",
+        "~27,000 light years",
+        "~100,000 light years"
+      ],
+      "correct": 2,
+      "explanation": "The distance of the Sun to the Galactic Centre of the Milky Way is 27,000 light years.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-013",
+      "q": "How old is the Milky Way?",
+      "options": [
+        "~1 billion years",
+        "~5 billion years",
+        "~13.6 billion years",
+        "~50 billion years"
+      ],
+      "correct": 2,
+      "explanation": "The Milky Way is approximately 13.6 billion years old — nearly as old as the universe itself.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-014",
+      "q": "How many stars are in the Milky Way (range)?",
+      "options": [
+        "~1 million",
+        "~100 million",
+        "100 to 400 billion",
+        "~10 trillion"
+      ],
+      "correct": 2,
+      "explanation": "There are 100 billion stars in the Milky Way on the low-end estimate and 400 billion on the high-end estimate.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-015",
+      "q": "In which constellation is the Milky Way's central bulge located?",
+      "options": [
+        "Cancer",
+        "Sagittarius",
+        "Virgo",
+        "Orion"
+      ],
+      "correct": 1,
+      "explanation": "The constellation of the Milky Way's central bulge is Sagittarius.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-016",
+      "q": "The Milky Way is which of the following?",
+      "options": [
+        "A solar system",
+        "Our home galaxy (a barred spiral)",
+        "A nebula only",
+        "A constellation only"
+      ],
+      "correct": 1,
+      "explanation": "The Milky Way is our home galaxy — a barred spiral galaxy containing the Sun and our entire solar system.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-017",
+      "q": "How is the Milky Way held together?",
+      "options": [
+        "By magnetism only",
+        "By gravity",
+        "By solar wind",
+        "By radiation pressure"
+      ],
+      "correct": 1,
+      "explanation": "Like all galaxies, the Milky Way is held together by gravity.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-018",
+      "q": "Approximately how many light years does the Milky Way extend through?",
+      "options": [
+        "100 light years",
+        "10,000 light years",
+        "100,000 light years (10⁵)",
+        "1 light year"
+      ],
+      "correct": 2,
+      "explanation": "The Milky Way extends through a distance of 10⁵ (100,000) light years.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-019",
+      "q": "What is the closest LARGE galaxy to the Milky Way?",
+      "options": [
+        "Magellanic Cloud",
+        "Andromeda Galaxy (M31)",
+        "Messier 87",
+        "Triangulum Galaxy"
+      ],
+      "correct": 1,
+      "explanation": "The Andromeda Galaxy (M31) is the closest large galaxy to the Milky Way.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-020",
+      "q": "What is another name for the Andromeda Galaxy?",
+      "options": [
+        "NGC 4486",
+        "M31",
+        "M44",
+        "M87"
+      ],
+      "correct": 1,
+      "explanation": "The Andromeda Galaxy is also known as M31 (Messier 31).",
+      "tags": []
+    },
+    {
+      "id": "galaxi-021",
+      "q": "What type of galaxy is the Andromeda Galaxy?",
+      "options": [
+        "Elliptical",
+        "Spiral",
+        "Irregular",
+        "Barred spiral"
+      ],
+      "correct": 1,
+      "explanation": "The Andromeda Galaxy is an example of a spiral galaxy.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-022",
+      "q": "How far is the Andromeda Galaxy from Earth?",
+      "options": [
+        "~25,000 light years",
+        "~250,000 light years",
+        "~2,480,000 light years (2.48 million)",
+        "~25 million light years"
+      ],
+      "correct": 2,
+      "explanation": "The Andromeda Galaxy is located about 2,480,000 light years (2.48 million light years) from Earth.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-023",
+      "q": "What is the diameter of the Andromeda Galaxy?",
+      "options": [
+        "~50,000 light years",
+        "~100,000 light years",
+        "~200,000 light years",
+        "~1 million light years"
+      ],
+      "correct": 2,
+      "explanation": "The diameter of the Andromeda Galaxy is approximately 200,000 light years — about twice the Milky Way.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-024",
+      "q": "How many stars does the Andromeda Galaxy contain?",
+      "options": [
+        "~10 million",
+        "~1 billion",
+        "~100 billion",
+        "~1 trillion"
+      ],
+      "correct": 3,
+      "explanation": "The Andromeda Galaxy contains approximately 1 trillion stars.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-025",
+      "q": "Which is described as the BRIGHTEST galaxy?",
+      "options": [
+        "Milky Way",
+        "Andromeda Galaxy",
+        "Messier 87",
+        "Magellanic Cloud"
+      ],
+      "correct": 1,
+      "explanation": "The Andromeda Galaxy is the brightest galaxy (visible to the naked eye in dark skies).",
+      "tags": []
+    },
+    {
+      "id": "galaxi-026",
+      "q": "How many globular clusters orbit in and around the Andromeda Galaxy?",
+      "options": [
+        "~50",
+        "At least 450",
+        "~10,000",
+        "~100,000"
+      ],
+      "correct": 1,
+      "explanation": "There are at least 450 globular clusters orbiting in and around the Andromeda Galaxy.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-027",
+      "q": "How many dwarf galaxies accompany the Andromeda Galaxy?",
+      "options": [
+        "2",
+        "6",
+        "14",
+        "100"
+      ],
+      "correct": 2,
+      "explanation": "The Andromeda Galaxy is accompanied by 14 dwarf galaxies — including M32, M110, and possibly M33 (the Triangulum Galaxy).",
+      "tags": []
+    },
+    {
+      "id": "galaxi-028",
+      "q": "What type of galaxy is Messier 87?",
+      "options": [
+        "Spiral",
+        "Barred spiral",
+        "Elliptical",
+        "Irregular"
+      ],
+      "correct": 2,
+      "explanation": "The type of Messier 87 is elliptical.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-029",
+      "q": "Messier 87 is also known as:",
+      "options": [
+        "Virgo A or NGC 4486 (M87)",
+        "Sagittarius A",
+        "M31",
+        "M44 / Beehive Cluster"
+      ],
+      "correct": 0,
+      "explanation": "Messier 87 is also known as Virgo A or NGC 4486, generally abbreviated to M87.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-030",
+      "q": "What is the diameter of Messier 87?",
+      "options": [
+        "~50,000 light years",
+        "~120,000 light years",
+        "~500,000 light years",
+        "~10,000 light years"
+      ],
+      "correct": 1,
+      "explanation": "The diameter of Messier 87 is 120,000 light years.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-031",
+      "q": "How far is Messier 87 from Earth?",
+      "options": [
+        "~5 million light years",
+        "~54 million light years",
+        "~540 million light years",
+        "~5 billion light years"
+      ],
+      "correct": 1,
+      "explanation": "The distance of Messier 87 from Earth is 54 million light years.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-032",
+      "q": "In which constellation is Messier 87 located?",
+      "options": [
+        "Sagittarius",
+        "Virgo",
+        "Cancer",
+        "Corvus"
+      ],
+      "correct": 1,
+      "explanation": "The constellation of Messier 87 is Virgo.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-033",
+      "q": "M87 is famous as the home of:",
+      "options": [
+        "A single star",
+        "Several trillion stars, a supermassive black hole and ~15,000 globular star clusters",
+        "Earth-like planets",
+        "Only dust clouds"
+      ],
+      "correct": 1,
+      "explanation": "M87 is the home of several trillion stars, a supermassive black hole, and a family of roughly 15,000 globular star clusters.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-034",
+      "q": "The Antennae galaxies are classified as:",
+      "options": [
+        "A single elliptical galaxy",
+        "Interacting spirals",
+        "A barred spiral",
+        "An irregular dwarf"
+      ],
+      "correct": 1,
+      "explanation": "The type of Antennae is Interacting Spirals — two spiral galaxies currently colliding.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-035",
+      "q": "What is the tail-to-tail distance of the Antennae galaxies?",
+      "options": [
+        "~30,000 light years",
+        "~100,000 light years",
+        "~350,000 light years",
+        "~1 million light years"
+      ],
+      "correct": 2,
+      "explanation": "The tail-tail distance of the Antennae is 350,000 light years.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-036",
+      "q": "In which constellation are the Antennae galaxies located?",
+      "options": [
+        "Sagittarius",
+        "Virgo",
+        "Corvus",
+        "Orion"
+      ],
+      "correct": 2,
+      "explanation": "The constellation of the Antennae is Corvus.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-037",
+      "q": "The Magellanic Clouds are classified as a:",
+      "options": [
+        "Disrupted barred spiral / irregular type",
+        "Elliptical",
+        "Lenticular",
+        "Quasar"
+      ],
+      "correct": 0,
+      "explanation": "The Magellanic Clouds are a Disrupted Barred Spiral. The Small Magellanic Cloud is more specifically irregular.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-038",
+      "q": "What is the diameter of the Large Magellanic Cloud (LMC)?",
+      "options": [
+        "~7,000 light years",
+        "~14,000 light years",
+        "~100,000 light years",
+        "~200,000 light years"
+      ],
+      "correct": 1,
+      "explanation": "The diameter of the Large Magellanic Cloud is 14,000 light years.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-039",
+      "q": "What is the diameter of the Small Magellanic Cloud (SMC)?",
+      "options": [
+        "~3,000 light years",
+        "~7,000 light years",
+        "~14,000 light years",
+        "~30,000 light years"
+      ],
+      "correct": 1,
+      "explanation": "The diameter of the Small Magellanic Cloud is 7,000 light years.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-040",
+      "q": "In which constellations is the Large Magellanic Cloud located?",
+      "options": [
+        "Tucana &amp; Hydrus",
+        "Dorado &amp; Mensa",
+        "Virgo &amp; Cancer",
+        "Corvus &amp; Orion"
+      ],
+      "correct": 1,
+      "explanation": "The constellation of the Large Magellanic Cloud is Dorado and Mensa.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-041",
+      "q": "In which constellations is the Small Magellanic Cloud located?",
+      "options": [
+        "Dorado &amp; Mensa",
+        "Tucana &amp; Hydrus",
+        "Virgo &amp; Cancer",
+        "Sagittarius &amp; Cancer"
+      ],
+      "correct": 1,
+      "explanation": "The Small Magellanic Cloud is an irregular type galaxy in constellations Tucana and Hydrus.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-042",
+      "q": "What is the mass of the Large Magellanic Cloud?",
+      "options": [
+        "~1 billion solar masses",
+        "~10 billion solar masses",
+        "~100 billion solar masses",
+        "~1 trillion solar masses"
+      ],
+      "correct": 1,
+      "explanation": "The mass of the Large Magellanic Cloud is 10 billion solar masses (M☉).",
+      "tags": []
+    },
+    {
+      "id": "galaxi-043",
+      "q": "What is the mass of the Small Magellanic Cloud?",
+      "options": [
+        "~6.5 billion solar masses",
+        "~10 billion solar masses",
+        "~100 billion solar masses",
+        "~1 trillion solar masses"
+      ],
+      "correct": 0,
+      "explanation": "The mass of the Small Magellanic Cloud is 6.5 billion solar masses (M☉).",
+      "tags": []
+    },
+    {
+      "id": "galaxi-044",
+      "q": "Which galaxy is described as a spiral galaxy?",
+      "options": [
+        "Messier 87",
+        "Andromeda (M31)",
+        "Antennae",
+        "Small Magellanic Cloud"
+      ],
+      "correct": 1,
+      "explanation": "The Andromeda Galaxy (M31) is an example of a spiral galaxy.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-045",
+      "q": "Which galaxy is described as elliptical?",
+      "options": [
+        "Milky Way",
+        "Andromeda",
+        "Messier 87",
+        "Small Magellanic Cloud"
+      ],
+      "correct": 2,
+      "explanation": "Messier 87 is an elliptical galaxy.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-046",
+      "q": "Which galaxy is the brightest as observed from Earth?",
+      "options": [
+        "Milky Way",
+        "Andromeda Galaxy",
+        "Messier 87",
+        "Small Magellanic Cloud"
+      ],
+      "correct": 1,
+      "explanation": "The Andromeda Galaxy is the brightest galaxy.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-047",
+      "q": "The Andromeda Galaxy has a:",
+      "options": [
+        "Single bright nucleus",
+        "Crowded double nucleus",
+        "No nucleus",
+        "Three nuclei"
+      ],
+      "correct": 1,
+      "explanation": "The Andromeda Galaxy has a very crowded double nucleus.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-048",
+      "q": "The Milky Way's age is closest to:",
+      "options": [
+        "The age of Earth (4.5 billion years)",
+        "The age of the Universe (~13.8 billion years)",
+        "Half the age of the Universe",
+        "2 billion years"
+      ],
+      "correct": 1,
+      "explanation": "The Milky Way is about 13.6 billion years old — nearly as old as the universe (~13.8 billion years).",
+      "tags": []
+    },
+    {
+      "id": "galaxi-049",
+      "q": "Which is the closest large galaxy to the Milky Way?",
+      "options": [
+        "Messier 87",
+        "Antennae",
+        "Andromeda Galaxy (M31)",
+        "Small Magellanic Cloud"
+      ],
+      "correct": 2,
+      "explanation": "The Andromeda Galaxy (M31) is the closest large galaxy to the Milky Way.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-050",
+      "q": "M87 is the home of approximately how many globular star clusters?",
+      "options": [
+        "~450",
+        "~1,500",
+        "~15,000",
+        "~150,000"
+      ],
+      "correct": 2,
+      "explanation": "M87 is the home of a family of roughly 15,000 globular star clusters — far more than the Milky Way's ~150.",
+      "tags": []
+    },
+    {
+      "id": "galaxi-051",
+      "q": "The Milky Way contains how many stars (per the source's high-end estimate)?",
+      "options": [
+        "~1 billion",
+        "~10 billion",
+        "~100 billion",
+        "~400 billion"
+      ],
+      "correct": 3,
+      "explanation": "There are 100 billion stars in the Milky Way on the low-end and 400 billion on the high-end estimate.",
+      "tags": []
+    }
+  ]
+}

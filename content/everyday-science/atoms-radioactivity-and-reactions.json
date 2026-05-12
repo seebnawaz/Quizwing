@@ -1,0 +1,661 @@
+{
+  "topic_id": "atoms-radioactivity-and-reactions",
+  "topic_name": "Atoms, Radioactivity & Reactions",
+  "subject": "everyday-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Atoms, Radioactivity & Reactions MCQs for PPSC, FPSC, NTS, CSS & PMS preparation.",
+  "icon": "⚛️",
+  "mcqs": [
+    {
+      "id": "atoms--001",
+      "q": "An atom consists of:",
+      "options": [
+        "Only protons and electrons",
+        "Only neutrons and electrons",
+        "Electrons, protons and neutrons",
+        "Only nucleus"
+      ],
+      "correct": 2,
+      "explanation": "Three subatomic particles: electron (−), proton (+), neutron (0).",
+      "tags": []
+    },
+    {
+      "id": "atoms--002",
+      "q": "The nucleus of an atom contains:",
+      "options": [
+        "Electrons only",
+        "Protons and neutrons",
+        "Protons and electrons",
+        "Neutrons only"
+      ],
+      "correct": 1,
+      "explanation": "Nucleus = protons (+) + neutrons (0). Electrons orbit outside in shells.",
+      "tags": []
+    },
+    {
+      "id": "atoms--003",
+      "q": "Electrons carry which charge?",
+      "options": [
+        "Positive",
+        "Negative",
+        "Neutral",
+        "Variable"
+      ],
+      "correct": 1,
+      "explanation": "Negative (−1).",
+      "tags": []
+    },
+    {
+      "id": "atoms--004",
+      "q": "Neutrons carry which charge?",
+      "options": [
+        "Positive",
+        "Negative",
+        "No charge",
+        "+2"
+      ],
+      "correct": 2,
+      "explanation": "Neutral — no charge.",
+      "tags": []
+    },
+    {
+      "id": "atoms--005",
+      "q": "In a neutral atom, the number of electrons equals the number of:",
+      "options": [
+        "Neutrons",
+        "Protons",
+        "Nucleons",
+        "Photons"
+      ],
+      "correct": 1,
+      "explanation": "Equal protons & electrons cancel charges.",
+      "tags": []
+    },
+    {
+      "id": "atoms--006",
+      "q": "Atoms of the same element with different numbers of neutrons are called:",
+      "options": [
+        "Isobars",
+        "Isotopes",
+        "Isomers",
+        "Allotropes"
+      ],
+      "correct": 1,
+      "explanation": "Same Z, different N — isotopes.",
+      "tags": []
+    },
+    {
+      "id": "atoms--007",
+      "q": "Who proposed that atom is the smallest indivisible particle?",
+      "options": [
+        "Rutherford",
+        "Bohr",
+        "Dalton",
+        "Thomson"
+      ],
+      "correct": 2,
+      "explanation": "Dalton's atomic theory (early 1800s).",
+      "tags": []
+    },
+    {
+      "id": "atoms--008",
+      "q": "The nucleus of the atom was discovered by:",
+      "options": [
+        "Bohr",
+        "Dalton",
+        "Rutherford",
+        "Chadwick"
+      ],
+      "correct": 2,
+      "explanation": "Rutherford's gold-foil experiment, 1911.",
+      "tags": []
+    },
+    {
+      "id": "atoms--009",
+      "q": "How many elements exist in total?",
+      "options": [
+        "92",
+        "108",
+        "118",
+        "120"
+      ],
+      "correct": 2,
+      "explanation": "118 confirmed elements; 92 occur naturally.",
+      "tags": []
+    },
+    {
+      "id": "atoms--010",
+      "q": "How many different kinds of atoms exist in nature?",
+      "options": [
+        "82",
+        "92",
+        "108",
+        "118"
+      ],
+      "correct": 1,
+      "explanation": "92 natural elements; the rest are synthetic.",
+      "tags": []
+    },
+    {
+      "id": "atoms--011",
+      "q": "Atomic number of an element is equal to the number of:",
+      "options": [
+        "Neutrons",
+        "Protons",
+        "Electrons + neutrons",
+        "Nucleons"
+      ],
+      "correct": 1,
+      "explanation": "Z = number of protons — defines the element.",
+      "tags": []
+    },
+    {
+      "id": "atoms--012",
+      "q": "Radioactive elements have a nucleus that is:",
+      "options": [
+        "Stable",
+        "Unstable",
+        "Empty",
+        "Negatively charged"
+      ],
+      "correct": 1,
+      "explanation": "Decays releasing energy.",
+      "tags": []
+    },
+    {
+      "id": "atoms--013",
+      "q": "Half-life is the time required for ___ of nuclei to decay:",
+      "options": [
+        "One-quarter",
+        "Half",
+        "Three-quarters",
+        "All"
+      ],
+      "correct": 1,
+      "explanation": "50% decay time.",
+      "tags": []
+    },
+    {
+      "id": "atoms--014",
+      "q": "Half-life of Carbon-14 is:",
+      "options": [
+        "1730 years",
+        "5730 years",
+        "7300 years",
+        "11460 years"
+      ],
+      "correct": 1,
+      "explanation": "5,730 years — used in radiocarbon dating.",
+      "tags": []
+    },
+    {
+      "id": "atoms--015",
+      "q": "Radioactive decay of uranium ultimately produces:",
+      "options": [
+        "Iron",
+        "Gold",
+        "Lead",
+        "Mercury"
+      ],
+      "correct": 2,
+      "explanation": "Stable end product = lead (Pb).",
+      "tags": []
+    },
+    {
+      "id": "atoms--016",
+      "q": "Which of the following is NOT radioactive?",
+      "options": [
+        "Uranium",
+        "Radium",
+        "Zirconium",
+        "Plutonium"
+      ],
+      "correct": 2,
+      "explanation": "Zirconium / zirconia are not radioactive — common trap.",
+      "tags": []
+    },
+    {
+      "id": "atoms--017",
+      "q": "Alpha particles carry charge:",
+      "options": [
+        "−1",
+        "+1",
+        "+2",
+        "0"
+      ],
+      "correct": 2,
+      "explanation": "Helium nucleus = +2 charge.",
+      "tags": []
+    },
+    {
+      "id": "atoms--018",
+      "q": "Beta rays are:",
+      "options": [
+        "Helium nuclei",
+        "Fast electrons",
+        "EM waves",
+        "Protons"
+      ],
+      "correct": 1,
+      "explanation": "High-speed electrons from the nucleus.",
+      "tags": []
+    },
+    {
+      "id": "atoms--019",
+      "q": "Gamma rays are:",
+      "options": [
+        "Particles",
+        "Electromagnetic radiation",
+        "Helium nuclei",
+        "Electrons"
+      ],
+      "correct": 1,
+      "explanation": "EM photons — no mass, no charge.",
+      "tags": []
+    },
+    {
+      "id": "atoms--020",
+      "q": "Which radiation is the most penetrating?",
+      "options": [
+        "Alpha",
+        "Beta",
+        "Gamma",
+        "X-rays"
+      ],
+      "correct": 2,
+      "explanation": "Stopped only by thick lead/concrete.",
+      "tags": []
+    },
+    {
+      "id": "atoms--021",
+      "q": "Which radiation is stopped by a sheet of paper?",
+      "options": [
+        "Alpha",
+        "Beta",
+        "Gamma",
+        "All"
+      ],
+      "correct": 0,
+      "explanation": "Alpha — least penetrating.",
+      "tags": []
+    },
+    {
+      "id": "atoms--022",
+      "q": "Energy of a gamma photon is approximately:",
+      "options": [
+        "2 eV",
+        "2 keV",
+        "2 MeV",
+        "2 GeV"
+      ],
+      "correct": 2,
+      "explanation": "Around 2 MeV — high energy.",
+      "tags": []
+    },
+    {
+      "id": "atoms--023",
+      "q": "Gamma rays travel at:",
+      "options": [
+        "Speed of sound",
+        "Half speed of light",
+        "Speed of light",
+        "Variable"
+      ],
+      "correct": 2,
+      "explanation": "They are EM waves — c = 3×10⁸ m/s.",
+      "tags": []
+    },
+    {
+      "id": "atoms--024",
+      "q": "Nuclear fission is the:",
+      "options": [
+        "Joining of light nuclei",
+        "Splitting of heavy nuclei",
+        "Burning of fuel",
+        "Decay of electrons"
+      ],
+      "correct": 1,
+      "explanation": "Heavy unstable nucleus splits into smaller stable nuclei.",
+      "tags": []
+    },
+    {
+      "id": "atoms--025",
+      "q": "Nuclear fission is triggered by:",
+      "options": [
+        "Photons",
+        "Protons",
+        "Neutrons",
+        "Electrons"
+      ],
+      "correct": 2,
+      "explanation": "Neutron impact on heavy nucleus.",
+      "tags": []
+    },
+    {
+      "id": "atoms--026",
+      "q": "The fissile isotope of uranium is:",
+      "options": [
+        "U-234",
+        "U-235",
+        "U-238",
+        "U-239"
+      ],
+      "correct": 1,
+      "explanation": "U-235 sustains a chain reaction.",
+      "tags": []
+    },
+    {
+      "id": "atoms--027",
+      "q": "The most common isotope of uranium in nature is:",
+      "options": [
+        "U-234",
+        "U-235",
+        "U-238",
+        "U-239"
+      ],
+      "correct": 2,
+      "explanation": "U-238 ≈ 99.3% of natural uranium.",
+      "tags": []
+    },
+    {
+      "id": "atoms--028",
+      "q": "In a nuclear reactor, the chain reaction is:",
+      "options": [
+        "Uncontrolled",
+        "Controlled",
+        "Stopped",
+        "Reversed"
+      ],
+      "correct": 1,
+      "explanation": "Controlled vs uncontrolled in atomic bomb.",
+      "tags": []
+    },
+    {
+      "id": "atoms--029",
+      "q": "Atomic bomb is based on the principle of:",
+      "options": [
+        "Nuclear fusion",
+        "Nuclear fission",
+        "Combustion",
+        "Electrolysis"
+      ],
+      "correct": 1,
+      "explanation": "Uncontrolled fission of U-235 / Pu-239.",
+      "tags": []
+    },
+    {
+      "id": "atoms--030",
+      "q": "Coolant used in nuclear reactors is:",
+      "options": [
+        "Water only",
+        "Liquid sodium",
+        "Mercury",
+        "Oxygen"
+      ],
+      "correct": 1,
+      "explanation": "Liquid sodium is widely used as primary coolant.",
+      "tags": []
+    },
+    {
+      "id": "atoms--031",
+      "q": "Moderator/reflector in many reactors is:",
+      "options": [
+        "Diamond",
+        "Graphite",
+        "Charcoal",
+        "Coke"
+      ],
+      "correct": 1,
+      "explanation": "Graphite slows neutrons to thermal energies.",
+      "tags": []
+    },
+    {
+      "id": "atoms--032",
+      "q": "Highly enriched isotopes are produced by:",
+      "options": [
+        "Distillation",
+        "Ultracentrifuge",
+        "Filtration",
+        "Crystallization"
+      ],
+      "correct": 1,
+      "explanation": "Centrifugal isotope separation.",
+      "tags": []
+    },
+    {
+      "id": "atoms--033",
+      "q": "In an atomic explosion, energy comes from:",
+      "options": [
+        "Burning fuel",
+        "Mass-to-energy conversion",
+        "Friction",
+        "Pressure"
+      ],
+      "correct": 1,
+      "explanation": "E = mc² — small mass converts to enormous energy.",
+      "tags": []
+    },
+    {
+      "id": "atoms--034",
+      "q": "Wavelength of visible light ranges:",
+      "options": [
+        "100–300 Å",
+        "3900–7600 Å",
+        "8000–10000 Å",
+        "10–100 Å"
+      ],
+      "correct": 1,
+      "explanation": "3,900–7,600 Å (390–760 nm).",
+      "tags": []
+    },
+    {
+      "id": "atoms--035",
+      "q": "VIBGYOR / ROYGBIV represents:",
+      "options": [
+        "Sound frequencies",
+        "Rainbow colours",
+        "Element groups",
+        "Planet order"
+      ],
+      "correct": 1,
+      "explanation": "Sequence of visible colours: Violet, Indigo, Blue, Green, Yellow, Orange, Red.",
+      "tags": []
+    },
+    {
+      "id": "atoms--036",
+      "q": "In the EM spectrum, which has the shortest wavelength?",
+      "options": [
+        "Radio",
+        "Microwave",
+        "Visible",
+        "Gamma"
+      ],
+      "correct": 3,
+      "explanation": "Gamma rays — highest energy, shortest wavelength.",
+      "tags": []
+    },
+    {
+      "id": "atoms--037",
+      "q": "Which rays help read faded old writings?",
+      "options": [
+        "UV",
+        "Infrared",
+        "X-rays",
+        "Microwaves"
+      ],
+      "correct": 1,
+      "explanation": "Infrared imaging reveals carbon-based ink invisible to the eye.",
+      "tags": []
+    },
+    {
+      "id": "atoms--038",
+      "q": "The primary rainbow has angular radius about:",
+      "options": [
+        "10°–20°",
+        "40°–42°",
+        "60°–65°",
+        "80°–90°"
+      ],
+      "correct": 1,
+      "explanation": "~42° from the anti-solar point.",
+      "tags": []
+    },
+    {
+      "id": "atoms--039",
+      "q": "Polythene is made by polymerization of:",
+      "options": [
+        "Methane",
+        "Ethylene",
+        "Propylene",
+        "Acetylene"
+      ],
+      "correct": 1,
+      "explanation": "Ethylene → polyethylene (n CH₂=CH₂ → -[CH₂-CH₂]ₙ-).",
+      "tags": []
+    },
+    {
+      "id": "atoms--040",
+      "q": "Conversion of water to steam is a:",
+      "options": [
+        "Chemical change",
+        "Physical change",
+        "Nuclear change",
+        "Biological change"
+      ],
+      "correct": 1,
+      "explanation": "Phase change only — no new substance.",
+      "tags": []
+    },
+    {
+      "id": "atoms--041",
+      "q": "Condensation is the change of:",
+      "options": [
+        "Liquid → gas",
+        "Gas → liquid",
+        "Solid → liquid",
+        "Liquid → solid"
+      ],
+      "correct": 1,
+      "explanation": "Vapour → liquid (opposite of evaporation).",
+      "tags": []
+    },
+    {
+      "id": "atoms--042",
+      "q": "Rusting of iron is a:",
+      "options": [
+        "Reduction",
+        "Oxidation",
+        "Hydrogenation",
+        "Sublimation"
+      ],
+      "correct": 1,
+      "explanation": "Fe + O₂ + H₂O → Fe₂O₃·xH₂O (rust).",
+      "tags": []
+    },
+    {
+      "id": "atoms--043",
+      "q": "Cooking oils are converted to vegetable ghee by:",
+      "options": [
+        "Oxidation",
+        "Hydrogenation",
+        "Distillation",
+        "Fermentation"
+      ],
+      "correct": 1,
+      "explanation": "Adding H₂ over a Ni catalyst — saturates double bonds.",
+      "tags": []
+    },
+    {
+      "id": "atoms--044",
+      "q": "Photosynthesis is a/an:",
+      "options": [
+        "Exothermic process",
+        "Endothermic process",
+        "Combustion",
+        "Reduction only"
+      ],
+      "correct": 1,
+      "explanation": "Absorbs sunlight energy to convert CO₂ + H₂O → glucose + O₂.",
+      "tags": []
+    },
+    {
+      "id": "atoms--045",
+      "q": "Combustion produces:",
+      "options": [
+        "Only heat",
+        "Only light",
+        "Heat and light",
+        "Sound only"
+      ],
+      "correct": 2,
+      "explanation": "Heat + light + CO₂ + H₂O.",
+      "tags": []
+    },
+    {
+      "id": "atoms--046",
+      "q": "Dalton's theory states that the smallest particle of matter is the:",
+      "options": [
+        "Molecule",
+        "Atom",
+        "Electron",
+        "Quark"
+      ],
+      "correct": 1,
+      "explanation": "Atom is indivisible (per Dalton; later refined by quantum theory).",
+      "tags": []
+    },
+    {
+      "id": "atoms--047",
+      "q": "Which scientist's gold-foil experiment revealed the nucleus?",
+      "options": [
+        "Bohr",
+        "Rutherford",
+        "Chadwick",
+        "Thomson"
+      ],
+      "correct": 1,
+      "explanation": "Rutherford's 1909–1911 experiment showed positive charge concentrated at the centre.",
+      "tags": []
+    },
+    {
+      "id": "atoms--048",
+      "q": "An atom is electrically neutral because:",
+      "options": [
+        "It has no charges",
+        "Protons = electrons",
+        "Neutrons = protons",
+        "Shells are full"
+      ],
+      "correct": 1,
+      "explanation": "Equal numbers of + and − charges cancel out.",
+      "tags": []
+    },
+    {
+      "id": "atoms--049",
+      "q": "Which radiation is used in cancer radiotherapy?",
+      "options": [
+        "Alpha",
+        "Beta",
+        "Gamma",
+        "Microwaves"
+      ],
+      "correct": 2,
+      "explanation": "Gamma rays from Co-60 destroy cancer cells.",
+      "tags": []
+    },
+    {
+      "id": "atoms--050",
+      "q": "Mass of the atom is mostly concentrated in:",
+      "options": [
+        "Electron shells",
+        "Nucleus",
+        "Empty space",
+        "Surface"
+      ],
+      "correct": 1,
+      "explanation": "Protons + neutrons in the nucleus account for ~99.9% of an atom's mass.",
+      "tags": []
+    }
+  ]
+}

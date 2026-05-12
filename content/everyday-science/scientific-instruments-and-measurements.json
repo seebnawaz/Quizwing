@@ -1,0 +1,752 @@
+{
+  "topic_id": "scientific-instruments-and-measurements",
+  "topic_name": "Scientific Instruments & Measurements",
+  "subject": "everyday-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Scientific Instruments & Measurements MCQs for PPSC, FPSC, NTS, CSS & PMS preparation.",
+  "icon": "🔬",
+  "mcqs": [
+    {
+      "id": "scient-001",
+      "q": "Which instrument is used to measure atmospheric pressure?",
+      "options": [
+        "Barometer",
+        "Anemometer",
+        "Hygrometer",
+        "Thermometer"
+      ],
+      "correct": 0,
+      "explanation": "A barometer is used to measure atmospheric pressure — and assists in forecasting weather and determining altitude.",
+      "tags": []
+    },
+    {
+      "id": "scient-002",
+      "q": "Which instrument is used to measure wind speed?",
+      "options": [
+        "Barometer",
+        "Anemometer",
+        "Hygrometer",
+        "Pyrometer"
+      ],
+      "correct": 1,
+      "explanation": "An anemometer measures wind speed (and sometimes direction).",
+      "tags": []
+    },
+    {
+      "id": "scient-003",
+      "q": "Which instrument is used to measure humidity of air?",
+      "options": [
+        "Hygrometer",
+        "Hyetometer",
+        "Hydrometer",
+        "Hodoscope"
+      ],
+      "correct": 0,
+      "explanation": "A hygrometer is used to measure the humidity of air or a gas.",
+      "tags": []
+    },
+    {
+      "id": "scient-004",
+      "q": "Which instrument is used to measure temperature?",
+      "options": [
+        "Thermometer",
+        "Pyrometer",
+        "Calorimeter",
+        "Tonometer"
+      ],
+      "correct": 0,
+      "explanation": "A thermometer is the basic instrument used to measure temperature.",
+      "tags": []
+    },
+    {
+      "id": "scient-005",
+      "q": "Which instrument is used to measure altitude (especially in aircraft)?",
+      "options": [
+        "Barometer",
+        "Altimeter",
+        "Anemometer",
+        "Astrolabe"
+      ],
+      "correct": 1,
+      "explanation": "An altimeter is used to determine altitude attained — especially the barometric or radar device fitted in an aircraft.",
+      "tags": []
+    },
+    {
+      "id": "scient-006",
+      "q": "Which instrument is used to measure rainfall?",
+      "options": [
+        "Hygrometer",
+        "Udometer / Hyetometer",
+        "Hydrometer",
+        "Pyrometer"
+      ],
+      "correct": 1,
+      "explanation": "A udometer (also called hyetometer) is used for measuring rainfall.",
+      "tags": []
+    },
+    {
+      "id": "scient-007",
+      "q": "Which instrument is used to measure blood pressure?",
+      "options": [
+        "Stethoscope",
+        "Sphygmomanometer",
+        "Cardiograph",
+        "Pulsimeter"
+      ],
+      "correct": 1,
+      "explanation": "A sphygmomanometer is used to measure blood pressure — especially arterial blood pressure.",
+      "tags": []
+    },
+    {
+      "id": "scient-008",
+      "q": "A stethoscope is used to:",
+      "options": [
+        "Measure blood pressure",
+        "Detect sounds produced in the body (heart, lungs etc.)",
+        "Record brain waves",
+        "Measure body temperature"
+      ],
+      "correct": 1,
+      "explanation": "A stethoscope is a medical instrument for detecting sounds produced in the body, conveyed to the ears via rubber tubing.",
+      "tags": []
+    },
+    {
+      "id": "scient-009",
+      "q": "Which instrument records the electrical changes occurring during the heartbeat?",
+      "options": [
+        "Cardiograph",
+        "Electrocardiograph (ECG)",
+        "Stethoscope",
+        "Pulsimeter"
+      ],
+      "correct": 1,
+      "explanation": "An electrocardiograph (ECG) records the changes of electrical potential occurring during the heartbeat — used to diagnose heart abnormalities.",
+      "tags": []
+    },
+    {
+      "id": "scient-010",
+      "q": "Which instrument records brain waves?",
+      "options": [
+        "Electrocardiograph",
+        "Electroencephalograph (EEG)",
+        "Audiometer",
+        "Cardiograph"
+      ],
+      "correct": 1,
+      "explanation": "An electroencephalograph (EEG) is the apparatus for detecting and recording brain waves.",
+      "tags": []
+    },
+    {
+      "id": "scient-011",
+      "q": "Which instrument is used to measure the acuity of hearing?",
+      "options": [
+        "Audiometer",
+        "Stethoscope",
+        "Audiograph",
+        "Otoscope"
+      ],
+      "correct": 0,
+      "explanation": "An audiometer is used in measuring the acuity of hearing.",
+      "tags": []
+    },
+    {
+      "id": "scient-012",
+      "q": "An endoscope is used to:",
+      "options": [
+        "Measure the heart rate",
+        "Visualise the interior of a hollow organ (such as the bladder or oesophagus)",
+        "Measure blood sugar",
+        "Detect viruses"
+      ],
+      "correct": 1,
+      "explanation": "An endoscope is an illuminated tubular instrument used for visualising the interior of a hollow organ for diagnostic or therapeutic purposes.",
+      "tags": []
+    },
+    {
+      "id": "scient-013",
+      "q": "Which instrument is used to examine the stomach?",
+      "options": [
+        "Endoscope",
+        "Gastroscope",
+        "Cystoscope",
+        "Laryngoscope"
+      ],
+      "correct": 1,
+      "explanation": "A gastroscope is an optical instrument used for inspecting the interior of the stomach.",
+      "tags": []
+    },
+    {
+      "id": "scient-014",
+      "q": "Which instrument is used to examine the bladder?",
+      "options": [
+        "Gastroscope",
+        "Cystoscope",
+        "Endoscope",
+        "Colonoscope"
+      ],
+      "correct": 1,
+      "explanation": "A cystoscope is used for examining the bladder — passing through the urethra.",
+      "tags": []
+    },
+    {
+      "id": "scient-015",
+      "q": "Which instrument is used to inspect the retina and other parts of the eye?",
+      "options": [
+        "Otoscope",
+        "Ophthalmoscope",
+        "Endoscope",
+        "Audiometer"
+      ],
+      "correct": 1,
+      "explanation": "An ophthalmoscope is an instrument for inspecting the retina and other parts of the eye.",
+      "tags": []
+    },
+    {
+      "id": "scient-016",
+      "q": "Which instrument is used to examine the ear (tympanic membrane)?",
+      "options": [
+        "Otoscope",
+        "Ophthalmoscope",
+        "Endoscope",
+        "Audiometer"
+      ],
+      "correct": 0,
+      "explanation": "An otoscope (with lighting and magnifying systems) is used for visual examination of the tympanic membrane and ear canal.",
+      "tags": []
+    },
+    {
+      "id": "scient-017",
+      "q": "Which instrument is used to examine the larynx?",
+      "options": [
+        "Laparoscope",
+        "Laryngoscope",
+        "Endoscope",
+        "Cystoscope"
+      ],
+      "correct": 1,
+      "explanation": "A laryngoscope is an endoscope for examining the interior of the larynx.",
+      "tags": []
+    },
+    {
+      "id": "scient-018",
+      "q": "Which instrument is used to detect and record earthquakes?",
+      "options": [
+        "Seismograph (or seismometer)",
+        "Magnetometer",
+        "Barometer",
+        "Geothermometer"
+      ],
+      "correct": 0,
+      "explanation": "A seismograph (or seismometer) is the instrument that measures and records details of earthquakes — such as force and duration.",
+      "tags": []
+    },
+    {
+      "id": "scient-019",
+      "q": "Which scale is used to measure the magnitude of earthquakes?",
+      "options": [
+        "Beaufort scale",
+        "Richter scale",
+        "Mohs scale",
+        "Celsius scale"
+      ],
+      "correct": 1,
+      "explanation": "The Richter scale is the measure of the strength (magnitude) of earthquakes.",
+      "tags": []
+    },
+    {
+      "id": "scient-020",
+      "q": "Which instrument measures gas or vapour pressure?",
+      "options": [
+        "Barometer",
+        "Manometer",
+        "Thermometer",
+        "Anemometer"
+      ],
+      "correct": 1,
+      "explanation": "A manometer is an instrument for measuring the pressure of gases and vapours.",
+      "tags": []
+    },
+    {
+      "id": "scient-021",
+      "q": "Which instrument measures very high temperatures (beyond a mercury thermometer's range)?",
+      "options": [
+        "Thermometer",
+        "Pyrometer",
+        "Calorimeter",
+        "Barometer"
+      ],
+      "correct": 1,
+      "explanation": "A pyrometer is used for measuring temperatures especially when beyond the range of mercurial thermometers.",
+      "tags": []
+    },
+    {
+      "id": "scient-022",
+      "q": "Which instrument measures heat (quantities of absorbed or emitted)?",
+      "options": [
+        "Thermometer",
+        "Calorimeter",
+        "Pyrometer",
+        "Barometer"
+      ],
+      "correct": 1,
+      "explanation": "A calorimeter is an apparatus for measuring quantities of absorbed or emitted heat or for determining specific heats.",
+      "tags": []
+    },
+    {
+      "id": "scient-023",
+      "q": "Which instrument is used to detect the presence of a metallic object or measure magnetic-field intensity?",
+      "options": [
+        "Magnetometer",
+        "Galvanometer",
+        "Ammeter",
+        "Voltmeter"
+      ],
+      "correct": 0,
+      "explanation": "A magnetometer is used to detect the presence of a metallic object or measure the intensity of a magnetic field.",
+      "tags": []
+    },
+    {
+      "id": "scient-024",
+      "q": "Which instrument is used to measure underwater depth using sound?",
+      "options": [
+        "Hydrometer",
+        "Fathometer",
+        "Bathymeter",
+        "Hygrometer"
+      ],
+      "correct": 1,
+      "explanation": "A fathometer is used for measuring underwater depth using sound (sonar).",
+      "tags": []
+    },
+    {
+      "id": "scient-025",
+      "q": "Which instrument measures the precise angle (e.g. in surveying)?",
+      "options": [
+        "Goniometer",
+        "Manometer",
+        "Barometer",
+        "Galvanometer"
+      ],
+      "correct": 0,
+      "explanation": "A goniometer is an instrument for the precise measurement of angles.",
+      "tags": []
+    },
+    {
+      "id": "scient-026",
+      "q": "Which instrument is used to measure the density of liquids?",
+      "options": [
+        "Hydrometer",
+        "Lactometer",
+        "Anemometer",
+        "Hygrometer"
+      ],
+      "correct": 0,
+      "explanation": "A hydrometer is an instrument for measuring the density of liquids.",
+      "tags": []
+    },
+    {
+      "id": "scient-027",
+      "q": "Which instrument is used to measure the density of milk?",
+      "options": [
+        "Hydrometer",
+        "Lactometer",
+        "Salinometer",
+        "Saccharimeter"
+      ],
+      "correct": 1,
+      "explanation": "A lactometer is an instrument for measuring the density of milk.",
+      "tags": []
+    },
+    {
+      "id": "scient-028",
+      "q": "Which instrument measures the amount of sugar in a solution?",
+      "options": [
+        "Lactometer",
+        "Saccharimeter",
+        "Salinometer",
+        "Refractometer"
+      ],
+      "correct": 1,
+      "explanation": "A saccharimeter is a device for measuring the amount of sugar in a solution.",
+      "tags": []
+    },
+    {
+      "id": "scient-029",
+      "q": "Which instrument measures the amount of salt in a solution?",
+      "options": [
+        "Salinometer",
+        "Lactometer",
+        "Hydrometer",
+        "Pycnometer"
+      ],
+      "correct": 0,
+      "explanation": "A salinometer (such as a hydrometer) is used to measure the amount of salt in a solution.",
+      "tags": []
+    },
+    {
+      "id": "scient-030",
+      "q": "Which instrument measures the refractive index of a substance?",
+      "options": [
+        "Reflectometer",
+        "Refractometer",
+        "Photometer",
+        "Spectroscope"
+      ],
+      "correct": 1,
+      "explanation": "A refractometer is used to measure refractive indices — useful in identification or sugar-content determination.",
+      "tags": []
+    },
+    {
+      "id": "scient-031",
+      "q": "Which instrument detects or measures small electric currents?",
+      "options": [
+        "Galvanometer",
+        "Ammeter",
+        "Voltmeter",
+        "Wattmeter"
+      ],
+      "correct": 0,
+      "explanation": "A galvanometer detects or measures a small electric current via the deflection of a magnetic needle/coil.",
+      "tags": []
+    },
+    {
+      "id": "scient-032",
+      "q": "Which instrument measures electric current in amperes?",
+      "options": [
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
+      ],
+      "correct": 1,
+      "explanation": "An ammeter is the measuring device used to measure electric current in amperes.",
+      "tags": []
+    },
+    {
+      "id": "scient-033",
+      "q": "Which instrument measures voltage (potential difference)?",
+      "options": [
+        "Ammeter",
+        "Voltmeter",
+        "Ohmmeter",
+        "Galvanometer"
+      ],
+      "correct": 1,
+      "explanation": "A voltmeter is an instrument for measuring (in volts) the difference in potential between two points of an electrical circuit.",
+      "tags": []
+    },
+    {
+      "id": "scient-034",
+      "q": "Which instrument measures electrical resistance?",
+      "options": [
+        "Ammeter",
+        "Voltmeter",
+        "Ohmmeter",
+        "Wattmeter"
+      ],
+      "correct": 2,
+      "explanation": "An ohmmeter measures resistance directly in ohms.",
+      "tags": []
+    },
+    {
+      "id": "scient-035",
+      "q": "Which instrument measures electric power?",
+      "options": [
+        "Wattmeter",
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter"
+      ],
+      "correct": 0,
+      "explanation": "A wattmeter is the instrument for measuring electric power in watts.",
+      "tags": []
+    },
+    {
+      "id": "scient-036",
+      "q": "Which instrument is used to measure mechanical force?",
+      "options": [
+        "Manometer",
+        "Dynamometer",
+        "Galvanometer",
+        "Pyrometer"
+      ],
+      "correct": 1,
+      "explanation": "A dynamometer is an instrument for measuring mechanical force.",
+      "tags": []
+    },
+    {
+      "id": "scient-037",
+      "q": "Which instrument is used to measure spinal curvature?",
+      "options": [
+        "Rachiometer",
+        "Sphygmomanometer",
+        "Cardiograph",
+        "Pulsimeter"
+      ],
+      "correct": 0,
+      "explanation": "A rachiometer is an instrument for measuring spinal curvatures.",
+      "tags": []
+    },
+    {
+      "id": "scient-038",
+      "q": "Which instrument is used to view minute objects with magnification?",
+      "options": [
+        "Telescope",
+        "Microscope",
+        "Binoculars",
+        "Spectroscope"
+      ],
+      "correct": 1,
+      "explanation": "A microscope is an optical instrument with a lens or combination of lenses for making enlarged images of minute objects.",
+      "tags": []
+    },
+    {
+      "id": "scient-039",
+      "q": "Which instrument is used to view distant objects?",
+      "options": [
+        "Microscope",
+        "Telescope",
+        "Periscope",
+        "Endoscope"
+      ],
+      "correct": 1,
+      "explanation": "A telescope is a usually tubular optical instrument for viewing distant objects.",
+      "tags": []
+    },
+    {
+      "id": "scient-040",
+      "q": "Which instrument measures the speed of a vehicle?",
+      "options": [
+        "Odometer",
+        "Speedometer",
+        "Tachometer",
+        "Velocimeter"
+      ],
+      "correct": 1,
+      "explanation": "A speedometer indicates the speed of a vehicle — usually combined with an odometer that records the distance travelled.",
+      "tags": []
+    },
+    {
+      "id": "scient-041",
+      "q": "Which instrument records the distance travelled by a vehicle?",
+      "options": [
+        "Speedometer",
+        "Odometer",
+        "Pedometer",
+        "Tachograph"
+      ],
+      "correct": 1,
+      "explanation": "An odometer is the instrument for measuring the distance travelled by a wheeled vehicle.",
+      "tags": []
+    },
+    {
+      "id": "scient-042",
+      "q": "Which instrument records distance covered by a person on foot?",
+      "options": [
+        "Speedometer",
+        "Odometer",
+        "Pedometer",
+        "Chronometer"
+      ],
+      "correct": 2,
+      "explanation": "A pedometer is an instrument (usually in watch form) that records the distance a person covers on foot by responding to body motion at each step.",
+      "tags": []
+    },
+    {
+      "id": "scient-043",
+      "q": "What is the SI base unit of length?",
+      "options": [
+        "Metre",
+        "Kilogram",
+        "Second",
+        "Ampere"
+      ],
+      "correct": 0,
+      "explanation": "The metre (m) is the SI base unit of length.",
+      "tags": []
+    },
+    {
+      "id": "scient-044",
+      "q": "What is the SI base unit of mass?",
+      "options": [
+        "Gram",
+        "Kilogram",
+        "Tonne",
+        "Pound"
+      ],
+      "correct": 1,
+      "explanation": "The kilogram (kg) is the SI base unit of mass.",
+      "tags": []
+    },
+    {
+      "id": "scient-045",
+      "q": "What is the SI base unit of time?",
+      "options": [
+        "Second",
+        "Minute",
+        "Hour",
+        "Day"
+      ],
+      "correct": 0,
+      "explanation": "The second (s) is the SI base unit of time.",
+      "tags": []
+    },
+    {
+      "id": "scient-046",
+      "q": "What is the SI base unit of electric current?",
+      "options": [
+        "Volt",
+        "Ohm",
+        "Ampere",
+        "Coulomb"
+      ],
+      "correct": 2,
+      "explanation": "The ampere (A) is the SI base unit of electric current.",
+      "tags": []
+    },
+    {
+      "id": "scient-047",
+      "q": "What is the SI base unit of thermodynamic temperature?",
+      "options": [
+        "Celsius",
+        "Fahrenheit",
+        "Kelvin",
+        "Rankine"
+      ],
+      "correct": 2,
+      "explanation": "The kelvin (K) is the SI base unit of thermodynamic temperature.",
+      "tags": []
+    },
+    {
+      "id": "scient-048",
+      "q": "What is the SI base unit of amount of substance?",
+      "options": [
+        "Gram",
+        "Litre",
+        "Mole",
+        "Atom"
+      ],
+      "correct": 2,
+      "explanation": "The mole (mol) is the SI base unit of amount of substance.",
+      "tags": []
+    },
+    {
+      "id": "scient-049",
+      "q": "What is the SI base unit of luminous intensity?",
+      "options": [
+        "Lumen",
+        "Lux",
+        "Candela",
+        "Watt"
+      ],
+      "correct": 2,
+      "explanation": "The candela (cd) is the SI base unit of luminous intensity.",
+      "tags": []
+    },
+    {
+      "id": "scient-050",
+      "q": "What is the SI unit of force?",
+      "options": [
+        "Newton",
+        "Pascal",
+        "Joule",
+        "Watt"
+      ],
+      "correct": 0,
+      "explanation": "The newton (N) is the SI unit of force.",
+      "tags": []
+    },
+    {
+      "id": "scient-051",
+      "q": "What is the SI unit of pressure (stress)?",
+      "options": [
+        "Newton",
+        "Pascal",
+        "Joule",
+        "Bar"
+      ],
+      "correct": 1,
+      "explanation": "The pascal (Pa) is the SI unit of pressure (stress).",
+      "tags": []
+    },
+    {
+      "id": "scient-052",
+      "q": "What is the SI unit of work / energy / heat?",
+      "options": [
+        "Newton",
+        "Pascal",
+        "Joule",
+        "Watt"
+      ],
+      "correct": 2,
+      "explanation": "The joule (J) is the SI unit of work, energy and heat.",
+      "tags": []
+    },
+    {
+      "id": "scient-053",
+      "q": "What is the SI unit of frequency?",
+      "options": [
+        "Newton",
+        "Hertz",
+        "Pascal",
+        "Watt"
+      ],
+      "correct": 1,
+      "explanation": "The hertz (Hz) is the SI unit of frequency (one cycle per second).",
+      "tags": []
+    },
+    {
+      "id": "scient-054",
+      "q": "Which unit is used to measure the speed of a ship?",
+      "options": [
+        "Knot",
+        "Light year",
+        "Carat",
+        "Parsec"
+      ],
+      "correct": 0,
+      "explanation": "The knot is used to measure the speed of a ship (1 knot ≈ 1.852 km/h).",
+      "tags": []
+    },
+    {
+      "id": "scient-055",
+      "q": "A 'light year' is a unit of measurement for:",
+      "options": [
+        "Time",
+        "Distance (used in astronomy)",
+        "Light intensity",
+        "Temperature"
+      ],
+      "correct": 1,
+      "explanation": "A light year is a unit of distance used in astronomy — the distance light travels in one year.",
+      "tags": []
+    },
+    {
+      "id": "scient-056",
+      "q": "What is a 'parsec' used to measure?",
+      "options": [
+        "Time",
+        "Mass",
+        "Distance in astronomy",
+        "Sound intensity"
+      ],
+      "correct": 2,
+      "explanation": "A parsec (Pc) is used to measure distance in astronomy (about 3.26 light years).",
+      "tags": []
+    },
+    {
+      "id": "scient-057",
+      "q": "The unit 'carat' is used to measure:",
+      "options": [
+        "Sound",
+        "Mass of precious stones / purity of gold",
+        "Distance",
+        "Energy"
+      ],
+      "correct": 1,
+      "explanation": "The carat is used to measure the mass of precious stones and the purity of gold.",
+      "tags": []
+    }
+  ]
+}

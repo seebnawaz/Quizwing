@@ -1,0 +1,713 @@
+{
+  "topic_id": "diseases-and-vaccines",
+  "topic_name": "Diseases & Vaccines",
+  "subject": "everyday-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Diseases & Vaccines MCQs for PPSC, FPSC, NTS, CSS & PMS preparation.",
+  "icon": "🦠",
+  "mcqs": [
+    {
+      "id": "diseas-001",
+      "q": "Tuberculosis is caused by:",
+      "options": [
+        "Vibrio cholerae",
+        "Mycobacterium tuberculosis",
+        "Yersinia pestis",
+        "Bacillus anthracis"
+      ],
+      "correct": 1,
+      "explanation": "M. tuberculosis — airborne lung infection.",
+      "tags": []
+    },
+    {
+      "id": "diseas-002",
+      "q": "Cholera is caused by:",
+      "options": [
+        "Salmonella",
+        "Vibrio cholerae",
+        "Shigella",
+        "E. coli"
+      ],
+      "correct": 1,
+      "explanation": "Vibrio cholerae — water-borne.",
+      "tags": []
+    },
+    {
+      "id": "diseas-003",
+      "q": "Plague is caused by:",
+      "options": [
+        "Yersinia pestis",
+        "Rickettsia",
+        "Treponema",
+        "Clostridium"
+      ],
+      "correct": 0,
+      "explanation": "Spread by infected fleas.",
+      "tags": []
+    },
+    {
+      "id": "diseas-004",
+      "q": "Tetanus is caused by:",
+      "options": [
+        "Clostridium tetani",
+        "Bordetella pertussis",
+        "Vibrio cholerae",
+        "Mycobacterium leprae"
+      ],
+      "correct": 0,
+      "explanation": "Lockjaw — soil-borne wounds.",
+      "tags": []
+    },
+    {
+      "id": "diseas-005",
+      "q": "Diphtheria is caused by:",
+      "options": [
+        "Corynebacterium diphtheriae",
+        "Bordetella",
+        "Clostridium",
+        "Mycobacterium"
+      ],
+      "correct": 0,
+      "explanation": "Affects nose &amp; throat.",
+      "tags": []
+    },
+    {
+      "id": "diseas-006",
+      "q": "Anthrax is caused by:",
+      "options": [
+        "Bacillus anthracis",
+        "Yersinia pestis",
+        "Vibrio",
+        "Salmonella"
+      ],
+      "correct": 0,
+      "explanation": "From infected animals.",
+      "tags": []
+    },
+    {
+      "id": "diseas-007",
+      "q": "Syphilis is caused by:",
+      "options": [
+        "Neisseria",
+        "Chlamydia",
+        "Treponema pallidum",
+        "Bacillus"
+      ],
+      "correct": 2,
+      "explanation": "Sexually transmitted spirochete.",
+      "tags": []
+    },
+    {
+      "id": "diseas-008",
+      "q": "Leprosy is caused by:",
+      "options": [
+        "Mycobacterium leprae",
+        "M. tuberculosis",
+        "Bacillus",
+        "Vibrio"
+      ],
+      "correct": 0,
+      "explanation": "Hansen's disease.",
+      "tags": []
+    },
+    {
+      "id": "diseas-009",
+      "q": "Whooping cough is caused by:",
+      "options": [
+        "Bordetella pertussis",
+        "Corynebacterium",
+        "Clostridium",
+        "Streptococcus"
+      ],
+      "correct": 0,
+      "explanation": "B. pertussis.",
+      "tags": []
+    },
+    {
+      "id": "diseas-010",
+      "q": "Typhus is caused by:",
+      "options": [
+        "Rickettsia",
+        "Mycobacterium",
+        "Vibrio",
+        "Salmonella"
+      ],
+      "correct": 0,
+      "explanation": "Spread by lice/fleas.",
+      "tags": []
+    },
+    {
+      "id": "diseas-011",
+      "q": "Gonorrhoea is caused by:",
+      "options": [
+        "Neisseria gonorrhoeae",
+        "Treponema",
+        "Chlamydia",
+        "Bacillus"
+      ],
+      "correct": 0,
+      "explanation": "STI of urinary tract.",
+      "tags": []
+    },
+    {
+      "id": "diseas-012",
+      "q": "AIDS is caused by:",
+      "options": [
+        "HBV",
+        "HIV",
+        "HPV",
+        "HSV"
+      ],
+      "correct": 1,
+      "explanation": "HIV attacks T-cells.",
+      "tags": []
+    },
+    {
+      "id": "diseas-013",
+      "q": "Dengue fever is caused by:",
+      "options": [
+        "Bacteria",
+        "Fungus",
+        "Dengue virus",
+        "Protozoa"
+      ],
+      "correct": 2,
+      "explanation": "RNA virus, mosquito-borne.",
+      "tags": []
+    },
+    {
+      "id": "diseas-014",
+      "q": "Vector of dengue and yellow fever:",
+      "options": [
+        "Anopheles",
+        "Culex",
+        "Aedes aegypti",
+        "Tsetse"
+      ],
+      "correct": 2,
+      "explanation": "Aedes aegypti.",
+      "tags": []
+    },
+    {
+      "id": "diseas-015",
+      "q": "Yellow fever is caused by:",
+      "options": [
+        "Bacterium",
+        "Virus",
+        "Fungus",
+        "Protozoa"
+      ],
+      "correct": 1,
+      "explanation": "Yellow fever virus (RNA).",
+      "tags": []
+    },
+    {
+      "id": "diseas-016",
+      "q": "Rabies virus mainly affects:",
+      "options": [
+        "Liver",
+        "Brain &amp; spinal cord",
+        "Lungs",
+        "Skin"
+      ],
+      "correct": 1,
+      "explanation": "CNS — fatal once symptomatic.",
+      "tags": []
+    },
+    {
+      "id": "diseas-017",
+      "q": "Hepatitis A is mainly transmitted via:",
+      "options": [
+        "Air",
+        "Sex",
+        "Contaminated food/water",
+        "Mosquito"
+      ],
+      "correct": 2,
+      "explanation": "Faecal-oral.",
+      "tags": []
+    },
+    {
+      "id": "diseas-018",
+      "q": "Hepatitis B is mainly transmitted via:",
+      "options": [
+        "Food",
+        "Mosquito",
+        "Body fluids/blood",
+        "Air"
+      ],
+      "correct": 2,
+      "explanation": "Blood-borne &amp; sexual.",
+      "tags": []
+    },
+    {
+      "id": "diseas-019",
+      "q": "Polio virus mainly affects:",
+      "options": [
+        "Lungs",
+        "Skin",
+        "Intestine, brain &amp; spinal cord",
+        "Liver"
+      ],
+      "correct": 2,
+      "explanation": "CNS paralysis.",
+      "tags": []
+    },
+    {
+      "id": "diseas-020",
+      "q": "Smallpox is caused by:",
+      "options": [
+        "Variola virus",
+        "Varicella virus",
+        "Measles virus",
+        "Rubella virus"
+      ],
+      "correct": 0,
+      "explanation": "Variola — eradicated 1980.",
+      "tags": []
+    },
+    {
+      "id": "diseas-021",
+      "q": "Chickenpox is caused by:",
+      "options": [
+        "Variola",
+        "Varicella zoster (VZV)",
+        "Rubella",
+        "HSV"
+      ],
+      "correct": 1,
+      "explanation": "VZV — also causes shingles.",
+      "tags": []
+    },
+    {
+      "id": "diseas-022",
+      "q": "Measles is caused by:",
+      "options": [
+        "Rubella virus",
+        "Mumps virus",
+        "Measles virus (MeV)",
+        "Rubeola fungus"
+      ],
+      "correct": 2,
+      "explanation": "MeV — RNA virus.",
+      "tags": []
+    },
+    {
+      "id": "diseas-023",
+      "q": "Mumps mainly affects:",
+      "options": [
+        "Liver",
+        "Salivary glands",
+        "Skin",
+        "Lungs"
+      ],
+      "correct": 1,
+      "explanation": "Parotitis.",
+      "tags": []
+    },
+    {
+      "id": "diseas-024",
+      "q": "German measles is also called:",
+      "options": [
+        "Mumps",
+        "Rubeola",
+        "Rubella",
+        "Smallpox"
+      ],
+      "correct": 2,
+      "explanation": "Rubella.",
+      "tags": []
+    },
+    {
+      "id": "diseas-025",
+      "q": "COVID-19 is caused by:",
+      "options": [
+        "MERS-CoV",
+        "SARS-CoV-2",
+        "Influenza A",
+        "Adenovirus"
+      ],
+      "correct": 1,
+      "explanation": "SARS-CoV-2.",
+      "tags": []
+    },
+    {
+      "id": "diseas-026",
+      "q": "Athlete's foot is caused by:",
+      "options": [
+        "Bacterium",
+        "Virus",
+        "Fungus",
+        "Protozoa"
+      ],
+      "correct": 2,
+      "explanation": "Tinea pedis — fungal.",
+      "tags": []
+    },
+    {
+      "id": "diseas-027",
+      "q": "Ringworm is caused by:",
+      "options": [
+        "Worm",
+        "Fungus",
+        "Bacterium",
+        "Virus"
+      ],
+      "correct": 1,
+      "explanation": "Tinea — fungal not a worm.",
+      "tags": []
+    },
+    {
+      "id": "diseas-028",
+      "q": "Onychomycosis affects:",
+      "options": [
+        "Hair",
+        "Nails",
+        "Eyes",
+        "Lungs"
+      ],
+      "correct": 1,
+      "explanation": "Fungal nail infection.",
+      "tags": []
+    },
+    {
+      "id": "diseas-029",
+      "q": "Vitamin A deficiency causes:",
+      "options": [
+        "Scurvy",
+        "Night blindness",
+        "Beriberi",
+        "Rickets"
+      ],
+      "correct": 1,
+      "explanation": "Xerophthalmia.",
+      "tags": []
+    },
+    {
+      "id": "diseas-030",
+      "q": "Vitamin B1 deficiency causes:",
+      "options": [
+        "Pellagra",
+        "Beriberi",
+        "Scurvy",
+        "Rickets"
+      ],
+      "correct": 1,
+      "explanation": "Thiamine deficiency.",
+      "tags": []
+    },
+    {
+      "id": "diseas-031",
+      "q": "Vitamin B3 deficiency causes:",
+      "options": [
+        "Beriberi",
+        "Pellagra",
+        "Scurvy",
+        "Anaemia"
+      ],
+      "correct": 1,
+      "explanation": "Niacin deficiency = Pellagra.",
+      "tags": []
+    },
+    {
+      "id": "diseas-032",
+      "q": "Vitamin C deficiency causes:",
+      "options": [
+        "Pellagra",
+        "Scurvy",
+        "Rickets",
+        "Beriberi"
+      ],
+      "correct": 1,
+      "explanation": "Scurvy.",
+      "tags": []
+    },
+    {
+      "id": "diseas-033",
+      "q": "Vitamin D deficiency causes:",
+      "options": [
+        "Rickets",
+        "Scurvy",
+        "Beriberi",
+        "Pellagra"
+      ],
+      "correct": 0,
+      "explanation": "Children: rickets; adults: osteomalacia.",
+      "tags": []
+    },
+    {
+      "id": "diseas-034",
+      "q": "Vitamin K deficiency causes:",
+      "options": [
+        "Anaemia",
+        "Bleeding disorders",
+        "Night blindness",
+        "Rickets"
+      ],
+      "correct": 1,
+      "explanation": "K is needed for clotting.",
+      "tags": []
+    },
+    {
+      "id": "diseas-035",
+      "q": "Megaloblastic anaemia is caused by deficiency of:",
+      "options": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin B9/B12",
+        "Vitamin A"
+      ],
+      "correct": 2,
+      "explanation": "Folate or B12 deficiency.",
+      "tags": []
+    },
+    {
+      "id": "diseas-036",
+      "q": "BCG vaccine protects against:",
+      "options": [
+        "TB",
+        "Measles",
+        "Polio",
+        "Tetanus"
+      ],
+      "correct": 0,
+      "explanation": "Live attenuated TB vaccine.",
+      "tags": []
+    },
+    {
+      "id": "diseas-037",
+      "q": "MMR vaccine protects against:",
+      "options": [
+        "Measles, Mumps, Rubella",
+        "Mumps, Malaria, Rabies",
+        "Measles, Mumps, Rabies",
+        "Mumps, Measles, Rotavirus"
+      ],
+      "correct": 0,
+      "explanation": "M-M-R.",
+      "tags": []
+    },
+    {
+      "id": "diseas-038",
+      "q": "DTaP vaccine protects against:",
+      "options": [
+        "Dengue, TB, Polio",
+        "Diphtheria, Tetanus, Pertussis",
+        "Diphtheria, TB, Polio",
+        "Diphtheria, Typhoid, Polio"
+      ],
+      "correct": 1,
+      "explanation": "D-T-Pertussis.",
+      "tags": []
+    },
+    {
+      "id": "diseas-039",
+      "q": "OPV is a vaccine for:",
+      "options": [
+        "Polio",
+        "Plague",
+        "Pertussis",
+        "Pneumonia"
+      ],
+      "correct": 0,
+      "explanation": "Oral Polio Vaccine.",
+      "tags": []
+    },
+    {
+      "id": "diseas-040",
+      "q": "Hepatitis B vaccine is a:",
+      "options": [
+        "Live attenuated",
+        "Killed",
+        "Recombinant",
+        "Toxoid"
+      ],
+      "correct": 2,
+      "explanation": "Recombinant DNA vaccine.",
+      "tags": []
+    },
+    {
+      "id": "diseas-041",
+      "q": "Tetanus vaccine is a:",
+      "options": [
+        "Live attenuated",
+        "Killed",
+        "Recombinant",
+        "Toxoid"
+      ],
+      "correct": 3,
+      "explanation": "Tetanus toxoid.",
+      "tags": []
+    },
+    {
+      "id": "diseas-042",
+      "q": "Diphtheria vaccine is a:",
+      "options": [
+        "Live",
+        "Killed",
+        "Toxoid",
+        "Recombinant"
+      ],
+      "correct": 2,
+      "explanation": "Toxoid.",
+      "tags": []
+    },
+    {
+      "id": "diseas-043",
+      "q": "Yellow fever vaccine is:",
+      "options": [
+        "Killed",
+        "Live attenuated",
+        "Toxoid",
+        "Recombinant"
+      ],
+      "correct": 1,
+      "explanation": "Live attenuated.",
+      "tags": []
+    },
+    {
+      "id": "diseas-044",
+      "q": "Salk polio vaccine is:",
+      "options": [
+        "Live attenuated",
+        "Killed/inactivated",
+        "Recombinant",
+        "Viral vector"
+      ],
+      "correct": 1,
+      "explanation": "IPV — injectable killed vaccine.",
+      "tags": []
+    },
+    {
+      "id": "diseas-045",
+      "q": "Varicella vaccine protects against:",
+      "options": [
+        "Smallpox",
+        "Chickenpox",
+        "Measles",
+        "Mumps"
+      ],
+      "correct": 1,
+      "explanation": "VZV vaccine.",
+      "tags": []
+    },
+    {
+      "id": "diseas-046",
+      "q": "Hib vaccine protects against:",
+      "options": [
+        "HIV",
+        "Haemophilus influenzae b",
+        "Hepatitis",
+        "Herpes"
+      ],
+      "correct": 1,
+      "explanation": "Hib disease.",
+      "tags": []
+    },
+    {
+      "id": "diseas-047",
+      "q": "Tdap vaccine is for:",
+      "options": [
+        "Children only",
+        "Preteens, teens, adults",
+        "Newborns only",
+        "Cattle"
+      ],
+      "correct": 1,
+      "explanation": "Booster for tetanus, diphtheria, pertussis.",
+      "tags": []
+    },
+    {
+      "id": "diseas-048",
+      "q": "AstraZeneca and J&amp;J COVID vaccines are:",
+      "options": [
+        "Toxoids",
+        "Live attenuated",
+        "Viral vector",
+        "Recombinant subunit"
+      ],
+      "correct": 2,
+      "explanation": "Adenovirus viral-vector platform.",
+      "tags": []
+    },
+    {
+      "id": "diseas-049",
+      "q": "Disease eradicated by vaccination:",
+      "options": [
+        "Polio",
+        "Smallpox",
+        "Cholera",
+        "TB"
+      ],
+      "correct": 1,
+      "explanation": "Smallpox declared eradicated 1980.",
+      "tags": []
+    },
+    {
+      "id": "diseas-050",
+      "q": "Plague is transmitted by:",
+      "options": [
+        "Mosquito",
+        "Fleas",
+        "Lice",
+        "Direct contact"
+      ],
+      "correct": 1,
+      "explanation": "Rat fleas.",
+      "tags": []
+    },
+    {
+      "id": "diseas-051",
+      "q": "Anthrax mainly affects:",
+      "options": [
+        "Liver",
+        "Skin and lungs",
+        "Bones",
+        "Eyes"
+      ],
+      "correct": 1,
+      "explanation": "Cutaneous &amp; pulmonary.",
+      "tags": []
+    },
+    {
+      "id": "diseas-052",
+      "q": "Disease caused by Salmonella:",
+      "options": [
+        "Cholera",
+        "Salmonellosis (typhoid-like)",
+        "Plague",
+        "Diphtheria"
+      ],
+      "correct": 1,
+      "explanation": "Food poisoning &amp; typhoid.",
+      "tags": []
+    },
+    {
+      "id": "diseas-053",
+      "q": "HIV primarily attacks:",
+      "options": [
+        "B-cells",
+        "T-lymphocytes (CD4)",
+        "Platelets",
+        "RBCs"
+      ],
+      "correct": 1,
+      "explanation": "CD4 helper T-cells.",
+      "tags": []
+    },
+    {
+      "id": "diseas-054",
+      "q": "Ebola is transmitted by:",
+      "options": [
+        "Air",
+        "Mosquito",
+        "Bodily fluids",
+        "Soil"
+      ],
+      "correct": 2,
+      "explanation": "Direct contact with fluids.",
+      "tags": []
+    }
+  ]
+}

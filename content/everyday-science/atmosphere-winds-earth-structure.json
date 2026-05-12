@@ -1,0 +1,752 @@
+{
+  "topic_id": "atmosphere-winds-earth-structure",
+  "topic_name": "Atmosphere, Winds & Earth Structure",
+  "subject": "everyday-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Atmosphere, Winds & Earth Structure MCQs for PPSC, FPSC, NTS, CSS & PMS preparation.",
+  "icon": "🌍",
+  "mcqs": [
+    {
+      "id": "atmosp-001",
+      "q": "Air is made up of approximately what percentage of nitrogen and oxygen?",
+      "options": [
+        "50% N, 50% O",
+        "78% N, 21% O",
+        "21% N, 78% O",
+        "65% N, 30% O"
+      ],
+      "correct": 1,
+      "explanation": "Air is approximately 78% nitrogen and 21% oxygen, with small amounts of other gases like argon, CO₂, neon and hydrogen.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-002",
+      "q": "Which is the chemically inactive (noble) gas present in the atmosphere?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Argon",
+        "Hydrogen"
+      ],
+      "correct": 2,
+      "explanation": "Argon is the chemically inactive (noble) gas present in the atmosphere — it makes up roughly 0.93% of air.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-003",
+      "q": "Atmospheric pressure exerted on Earth is due to:",
+      "options": [
+        "Earth's rotation",
+        "Gravitational pull of the Earth",
+        "Solar wind",
+        "Magnetic field"
+      ],
+      "correct": 1,
+      "explanation": "Atmospheric pressure exerted on Earth is due to the gravitational pull of the Earth on the atmosphere.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-004",
+      "q": "Atmospheric pressure is also known as:",
+      "options": [
+        "Hydraulic pressure",
+        "Barometric pressure",
+        "Magnetic pressure",
+        "Tidal pressure"
+      ],
+      "correct": 1,
+      "explanation": "Atmospheric pressure is also known as barometric pressure — the pressure within the atmosphere of Earth.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-005",
+      "q": "Which instrument is used to measure atmospheric pressure?",
+      "options": [
+        "Anemometer",
+        "Hygrometer",
+        "Barometer",
+        "Thermometer"
+      ],
+      "correct": 2,
+      "explanation": "A barometer is the scientific instrument used in meteorology to measure atmospheric pressure.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-006",
+      "q": "Sudden fall in barometer reading indicates:",
+      "options": [
+        "Sunny weather",
+        "Stormy weather",
+        "Clear sky",
+        "Drought"
+      ],
+      "correct": 1,
+      "explanation": "A sudden fall in barometer reading indicates stormy weather — pressure dropping rapidly typically precedes storms.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-007",
+      "q": "What does an anemometer measure?",
+      "options": [
+        "Humidity",
+        "Temperature",
+        "Wind speed",
+        "Air pressure"
+      ],
+      "correct": 2,
+      "explanation": "An anemometer is a weather instrument that measures wind speed.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-008",
+      "q": "What does a hygrometer measure?",
+      "options": [
+        "Wind speed",
+        "Humidity",
+        "Pressure",
+        "Rainfall"
+      ],
+      "correct": 1,
+      "explanation": "A hygrometer is any instrument used for measuring humidity.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-009",
+      "q": "Increase in carbon dioxide in the atmosphere causes:",
+      "options": [
+        "Cooling of Earth",
+        "Rise in Earth's temperature",
+        "No effect",
+        "Earthquakes"
+      ],
+      "correct": 1,
+      "explanation": "An increase in carbon dioxide in the atmosphere raises the Earth's temperature (the greenhouse effect).",
+      "tags": []
+    },
+    {
+      "id": "atmosp-010",
+      "q": "The wind system in the equatorial areas is known as:",
+      "options": [
+        "Westerlies",
+        "Trades",
+        "Polar easterlies",
+        "Monsoon"
+      ],
+      "correct": 1,
+      "explanation": "The wind system in the equatorial areas is known as Trades (trade winds).",
+      "tags": []
+    },
+    {
+      "id": "atmosp-011",
+      "q": "The Doldrums is a low-pressure area at:",
+      "options": [
+        "30°N to 30°S",
+        "60°N to 60°S",
+        "5°N to 5°S of the Equator",
+        "The Polar regions"
+      ],
+      "correct": 2,
+      "explanation": "The Doldrums is a low-pressure area from 5°N to 5°S of the Equator — known for calm, light winds.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-012",
+      "q": "The monsoon has a well-developed cycle in:",
+      "options": [
+        "South and Southeast Asia",
+        "North America only",
+        "Antarctica",
+        "Sahara"
+      ],
+      "correct": 0,
+      "explanation": "The monsoon has a well-developed cycle in South and Southeast Asia.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-013",
+      "q": "Winds blowing from sea towards coastal areas are called:",
+      "options": [
+        "Land breeze",
+        "Sea breeze",
+        "Trade wind",
+        "Monsoon"
+      ],
+      "correct": 1,
+      "explanation": "Winds blowing from the sea towards coastal areas are called a sea breeze — common during the day when land heats faster than water.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-014",
+      "q": "When wind is deflected due to the rotation of the Earth, it is known as:",
+      "options": [
+        "Sea breeze",
+        "Geostrophic wind",
+        "Buran",
+        "Trade wind"
+      ],
+      "correct": 1,
+      "explanation": "When wind is deflected due to the rotation of the Earth, it is known as a geostrophic wind.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-015",
+      "q": "In the Northern Hemisphere, currents are deflected to their right due to:",
+      "options": [
+        "Solar wind",
+        "Coriolis force",
+        "Magnetic force",
+        "Tidal force"
+      ],
+      "correct": 1,
+      "explanation": "In the Northern Hemisphere, currents are deflected to their right due to Coriolis force (caused by Earth's rotation).",
+      "tags": []
+    },
+    {
+      "id": "atmosp-016",
+      "q": "'Buran' is a:",
+      "options": [
+        "Wind of cold air",
+        "Hot desert wind",
+        "Type of cloud",
+        "Type of rainfall"
+      ],
+      "correct": 0,
+      "explanation": "Buran is a wind of cold air — common in eastern Eurasia and Siberia.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-017",
+      "q": "Santa Ana winds are:",
+      "options": [
+        "Cold polar winds in Russia",
+        "Strong, dry downslope winds in southern California &amp; northern Baja California",
+        "Tropical sea breezes",
+        "Antarctic katabatic winds"
+      ],
+      "correct": 1,
+      "explanation": "Santa Ana winds are strong, dry downslope winds in southern California and northern Baja California.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-018",
+      "q": "The 'pampero' is a burst of cold polar air over the pampas in:",
+      "options": [
+        "Russia",
+        "South Africa",
+        "Brazil, Argentina, Uruguay, Paraguay, Bolivia",
+        "Australia"
+      ],
+      "correct": 2,
+      "explanation": "The pampero is a burst of cold polar air from the west, southwest or south on the pampas in the south of Brazil, Argentina, Uruguay, Paraguay and Bolivia.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-019",
+      "q": "The Beaufort scale measures:",
+      "options": [
+        "Earthquakes",
+        "Wind speed (relating it to observed conditions at sea or on land)",
+        "Humidity",
+        "Rainfall"
+      ],
+      "correct": 1,
+      "explanation": "The Beaufort scale (full name: Beaufort wind force scale) is an empirical measure that relates wind speed to observed conditions at sea or on land.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-020",
+      "q": "In upper levels, winds blow which way around areas of high pressure?",
+      "options": [
+        "Counterclockwise",
+        "Clockwise",
+        "Vertically",
+        "Stationary"
+      ],
+      "correct": 1,
+      "explanation": "Winds in the upper levels blow clockwise around areas of high pressure (in the Northern Hemisphere) and counterclockwise around areas of low pressure.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-021",
+      "q": "The horse latitudes are subtropical regions known for:",
+      "options": [
+        "Heavy rainfall",
+        "Calm winds and little precipitation",
+        "Constant strong winds",
+        "Snowfall"
+      ],
+      "correct": 1,
+      "explanation": "The horse latitudes are subtropical regions (around 30°N and 30°S) known for calm winds and little precipitation.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-022",
+      "q": "The actual amount of water vapour present in the atmosphere is known as:",
+      "options": [
+        "Relative humidity",
+        "Absolute humidity",
+        "Specific humidity",
+        "Dew point"
+      ],
+      "correct": 1,
+      "explanation": "The actual amount of water vapour present in the atmosphere is known as absolute humidity.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-023",
+      "q": "Advection fog forms when:",
+      "options": [
+        "Cold air rises rapidly",
+        "Warm, moist air passes over a cool surface",
+        "Volcanic ash settles",
+        "Thunder occurs"
+      ],
+      "correct": 1,
+      "explanation": "Advection fog forms when warm, moist air passes over a cool surface — the moisture condenses out as fog.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-024",
+      "q": "Dew is the moisture that forms as a result of:",
+      "options": [
+        "Evaporation",
+        "Condensation",
+        "Sublimation",
+        "Boiling"
+      ],
+      "correct": 1,
+      "explanation": "Dew is the moisture that forms as a result of condensation — when air cools below its dew point, water vapour condenses on cool surfaces.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-025",
+      "q": "Smog is a kind of air pollution originally named for the mixture of:",
+      "options": [
+        "Ozone and rain",
+        "Smoke and fog",
+        "Dust and steam",
+        "Hail and rain"
+      ],
+      "correct": 1,
+      "explanation": "Smog is a kind of air pollution, originally named for the mixture of smoke and fog in the air.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-026",
+      "q": "Convectional rainfall is often accompanied with:",
+      "options": [
+        "Snow",
+        "Hail only",
+        "Lightning and thunder",
+        "No other phenomena"
+      ],
+      "correct": 2,
+      "explanation": "Convectional types of rainfall are often accompanied with lightning and thunder — caused by rapid vertical air movement.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-027",
+      "q": "Snow is precipitation that falls in the form of:",
+      "options": [
+        "Liquid drops",
+        "Ice crystals",
+        "Hail stones",
+        "Vapour"
+      ],
+      "correct": 1,
+      "explanation": "Snow is precipitation that falls in the form of ice crystals.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-028",
+      "q": "Cirrus clouds (also called ice clouds) are made up of:",
+      "options": [
+        "Water droplets",
+        "Ice crystals",
+        "Dust particles",
+        "Volcanic ash"
+      ],
+      "correct": 1,
+      "explanation": "Cirrus clouds, also called ice clouds, are made up of ice crystals — they form at high altitudes where temperatures are below freezing.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-029",
+      "q": "Cumulonimbus clouds are associated with:",
+      "options": [
+        "Calm sunny weather",
+        "Thunderstorms and heavy precipitation",
+        "Light rainfall only",
+        "Snowfall only"
+      ],
+      "correct": 1,
+      "explanation": "Cumulonimbus clouds are a type of cumulus cloud associated with thunderstorms and heavy precipitation.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-030",
+      "q": "A cumulus congestus or 'towering cumulus' is a cumulus cloud that:",
+      "options": [
+        "Is a thunderstorm already",
+        "Exhibits significant vertical development but is not yet a thunderstorm",
+        "Forms only at night",
+        "Is colourless"
+      ],
+      "correct": 1,
+      "explanation": "A cumulus congestus or towering cumulus is a cumulus cloud that exhibits significant vertical development — but is not yet a thunderstorm.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-031",
+      "q": "The primary rainbow has an angular radius of approximately:",
+      "options": [
+        "10°–15°",
+        "20°–25°",
+        "40°–42° from the anti-solar point",
+        "60°–80°"
+      ],
+      "correct": 2,
+      "explanation": "The primary rainbow has an angular radius between 40° and 42° from the anti-solar point.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-032",
+      "q": "How many main layers does Earth's atmosphere have?",
+      "options": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correct": 2,
+      "explanation": "Earth's atmosphere has 5 main layers: Troposphere, Stratosphere, Mesosphere, Thermosphere and Exosphere.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-033",
+      "q": "Which is the FIRST layer of the atmosphere above Earth's surface?",
+      "options": [
+        "Stratosphere",
+        "Troposphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "correct": 1,
+      "explanation": "The Troposphere is the first layer above Earth's surface — extending from 0 to 14.5 km.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-034",
+      "q": "Approximately what percentage of the atmosphere's mass is in the Troposphere?",
+      "options": [
+        "25%",
+        "50%",
+        "85–90%",
+        "99%"
+      ],
+      "correct": 2,
+      "explanation": "The Troposphere contains approximately 85 to 90% of the mass of Earth's atmosphere.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-035",
+      "q": "The jet stream is found in which layer?",
+      "options": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Exosphere"
+      ],
+      "correct": 0,
+      "explanation": "The jet stream is found in the Troposphere — typically near the tropopause.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-036",
+      "q": "The Troposphere is bounded by the:",
+      "options": [
+        "Stratopause",
+        "Tropopause",
+        "Mesopause",
+        "Thermopause"
+      ],
+      "correct": 1,
+      "explanation": "The Troposphere is bounded above by the Tropopause.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-037",
+      "q": "Which gas layer is mainly present in the Stratosphere?",
+      "options": [
+        "Hydrogen",
+        "Ozone",
+        "Methane",
+        "Argon"
+      ],
+      "correct": 1,
+      "explanation": "Ozone is mainly present in the Stratosphere — forming the ozone layer that protects Earth from UV radiation.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-038",
+      "q": "The Stratosphere extends up to approximately:",
+      "options": [
+        "10 km",
+        "30 km",
+        "50 km",
+        "100 km"
+      ],
+      "correct": 2,
+      "explanation": "The Stratosphere extends from about 14.5 km up to 50 km (31 miles) high.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-039",
+      "q": "In which atmospheric layer do meteors burn up?",
+      "options": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Exosphere"
+      ],
+      "correct": 2,
+      "explanation": "Meteors burn up in the Mesosphere — friction with thicker air at this altitude vaporises them.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-040",
+      "q": "The Mesosphere is bounded above by the:",
+      "options": [
+        "Tropopause",
+        "Stratopause",
+        "Mesopause",
+        "Thermopause"
+      ],
+      "correct": 2,
+      "explanation": "The Mesosphere is bounded above by the Mesopause.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-041",
+      "q": "The Thermosphere is also known as the:",
+      "options": [
+        "Tropopause",
+        "Ionosphere",
+        "Stratopause",
+        "Exosphere"
+      ],
+      "correct": 1,
+      "explanation": "The Thermosphere is also known as the Ionosphere — a layer of electrons and ionised atoms.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-042",
+      "q": "Which is the HOTTEST layer of the atmosphere?",
+      "options": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "correct": 3,
+      "explanation": "The Thermosphere is the hottest layer of the atmosphere — temperatures can reach up to 4,500°F.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-043",
+      "q": "Which layer of the atmosphere is important for the transmission of radio waves?",
+      "options": [
+        "Troposphere",
+        "Stratosphere",
+        "Thermosphere / Ionosphere",
+        "Exosphere"
+      ],
+      "correct": 2,
+      "explanation": "The Thermosphere (Ionosphere) is important for the transmission of radio waves — ionised particles reflect them back to Earth.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-044",
+      "q": "The uppermost region of Earth's atmosphere is:",
+      "options": [
+        "Troposphere",
+        "Stratosphere",
+        "Thermosphere",
+        "Exosphere"
+      ],
+      "correct": 3,
+      "explanation": "The Exosphere is the uppermost region of Earth's atmosphere — extending up to about 10,000 km.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-045",
+      "q": "In outward appearance, Earth has a radius of approximately:",
+      "options": [
+        "3,000 km",
+        "6,378 km",
+        "12,000 km",
+        "20,000 km"
+      ],
+      "correct": 1,
+      "explanation": "Earth is a nearly spherical ball with a radius of approximately 6,378 km (volumetric mean radius is 6,371 km).",
+      "tags": []
+    },
+    {
+      "id": "atmosp-046",
+      "q": "What is the OUTERMOST layer of the Earth?",
+      "options": [
+        "Mantle",
+        "Crust",
+        "Outer core",
+        "Inner core"
+      ],
+      "correct": 1,
+      "explanation": "The crust is the outermost layer of the Earth — comprising the continents and ocean basins.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-047",
+      "q": "How thick is Earth's crust under the continents?",
+      "options": [
+        "5–10 km",
+        "40–70 km",
+        "100–150 km",
+        "200 km"
+      ],
+      "correct": 1,
+      "explanation": "The crust is 40–70 km thick under the continents and 5–10 km thick under the ocean basins.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-048",
+      "q": "How thick is Earth's crust under the ocean basins?",
+      "options": [
+        "5–10 km",
+        "40–70 km",
+        "100 km",
+        "200 km"
+      ],
+      "correct": 0,
+      "explanation": "Under the ocean basins the crust is only 5–10 km thick — much thinner than under the continents.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-049",
+      "q": "The density of Earth's crust is approximately:",
+      "options": [
+        "1.0 g/cm³",
+        "2.8 g/cm³",
+        "5.5 g/cm³",
+        "13 g/cm³"
+      ],
+      "correct": 1,
+      "explanation": "The density of Earth's crust is about 2.8 g/cm³.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-050",
+      "q": "Earth's crust is made up of three kinds of rocks:",
+      "options": [
+        "Hot, Warm, Cold",
+        "Igneous, Sedimentary, Metamorphic",
+        "Hard, Soft, Liquid",
+        "Light, Heavy, Medium"
+      ],
+      "correct": 1,
+      "explanation": "Earth's crust is made up of three kinds of rocks: igneous, sedimentary and metamorphic.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-051",
+      "q": "The Mohorovicic discontinuity (Moho) is the boundary between:",
+      "options": [
+        "The crust and the mantle",
+        "The mantle and the outer core",
+        "The outer and inner core",
+        "The lithosphere and atmosphere"
+      ],
+      "correct": 0,
+      "explanation": "The Mohorovicic discontinuity (or 'Moho') is the boundary between Earth's crust and the mantle.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-052",
+      "q": "The mantle is composed mainly of:",
+      "options": [
+        "Nickel-iron alloy",
+        "Ferro-magnesium silicates",
+        "Ice",
+        "Pure carbon"
+      ],
+      "correct": 1,
+      "explanation": "The mantle is composed mainly of ferro-magnesium silicates and is about 2,900 km deep.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-053",
+      "q": "The asthenosphere is a:",
+      "options": [
+        "Solid metallic core",
+        "Zone of weakness within the upper mantle",
+        "Type of cloud",
+        "Atmospheric layer"
+      ],
+      "correct": 1,
+      "explanation": "The asthenosphere is a zone of weakness within the upper mantle — a semi-liquid layer that allows the lithosphere to move.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-054",
+      "q": "The outer core is composed of:",
+      "options": [
+        "Solid iron only",
+        "Nickel-iron alloy in liquid state",
+        "Silicates",
+        "Carbonates"
+      ],
+      "correct": 1,
+      "explanation": "The outer core is approximately 2,300 km thick and is composed of a nickel-iron alloy in the liquid state.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-055",
+      "q": "What controls Earth's magnetic field?",
+      "options": [
+        "The atmosphere",
+        "The liquid outer core",
+        "The solid inner core",
+        "The crust"
+      ],
+      "correct": 1,
+      "explanation": "Earth's magnetic field is believed to be controlled by the liquid outer core (its convection currents generate the geodynamo).",
+      "tags": []
+    },
+    {
+      "id": "atmosp-056",
+      "q": "The inner core is composed almost entirely of:",
+      "options": [
+        "Iron",
+        "Nickel only",
+        "Silicon",
+        "Magnesium"
+      ],
+      "correct": 0,
+      "explanation": "The inner core is approximately 1,200 km thick and is almost entirely composed of iron — kept solid by extreme pressure despite very high temperature.",
+      "tags": []
+    },
+    {
+      "id": "atmosp-057",
+      "q": "What is the lithosphere?",
+      "options": [
+        "A layer of the atmosphere",
+        "The topmost layer comprising the crust and the solid portion of the upper mantle",
+        "The liquid outer core",
+        "The molten mantle only"
+      ],
+      "correct": 1,
+      "explanation": "The lithosphere is the topmost layer comprising the crust and the solid portion of the upper mantle — it floats on the asthenosphere.",
+      "tags": []
+    }
+  ]
+}

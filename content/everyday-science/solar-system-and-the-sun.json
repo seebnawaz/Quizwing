@@ -1,0 +1,596 @@
+{
+  "topic_id": "solar-system-and-the-sun",
+  "topic_name": "Solar System & the Sun",
+  "subject": "everyday-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Solar System & the Sun MCQs for PPSC, FPSC, NTS, CSS & PMS preparation.",
+  "icon": "☀️",
+  "mcqs": [
+    {
+      "id": "solar--001",
+      "q": "Who discovered the Solar System (heliocentric model)?",
+      "options": [
+        "Galileo Galilei",
+        "Nicolaus Copernicus",
+        "Isaac Newton",
+        "Johannes Kepler"
+      ],
+      "correct": 1,
+      "explanation": "The Solar System (heliocentric model) was discovered by Nicolaus Copernicus.",
+      "tags": []
+    },
+    {
+      "id": "solar--002",
+      "q": "According to NASA, what is the mass of the Sun?",
+      "options": [
+        "1.989 × 10²⁵ kg",
+        "1.989 × 10²⁸ kg",
+        "1.989 × 10³⁰ kg",
+        "1.989 × 10³³ kg"
+      ],
+      "correct": 2,
+      "explanation": "According to NASA, the mass of the Sun is 1.989 × 10³⁰ kg.",
+      "tags": []
+    },
+    {
+      "id": "solar--003",
+      "q": "The Sun and the rest of the solar system formed from a giant, rotating cloud of gas and dust called a:",
+      "options": [
+        "Black hole",
+        "Solar nebula",
+        "Comet shell",
+        "Galactic disk"
+      ],
+      "correct": 1,
+      "explanation": "The Sun and the rest of the solar system formed from a giant, rotating cloud of gas and dust called a solar nebula about 4.6 billion years ago.",
+      "tags": []
+    },
+    {
+      "id": "solar--004",
+      "q": "How many years ago did the Sun and solar system form?",
+      "options": [
+        "~1 million years",
+        "~46 million years",
+        "~4.6 billion years",
+        "~13.8 billion years"
+      ],
+      "correct": 2,
+      "explanation": "The Sun and the rest of the solar system formed about 4.6 billion years ago.",
+      "tags": []
+    },
+    {
+      "id": "solar--005",
+      "q": "Approximately what percentage of the solar system's total mass does the Sun contain?",
+      "options": [
+        "50 percent",
+        "75 percent",
+        "99.8 percent",
+        "Exactly 100 percent"
+      ],
+      "correct": 2,
+      "explanation": "According to NASA, the Sun is the centre of our solar system and makes up 99.8 percent of the mass of the entire solar system.",
+      "tags": []
+    },
+    {
+      "id": "solar--006",
+      "q": "How many Earths would be required to fit across the Sun's disk?",
+      "options": [
+        "10",
+        "109",
+        "1,000",
+        "1.3 million"
+      ],
+      "correct": 1,
+      "explanation": "One hundred and nine Earths would be required to fit across the Sun's disk.",
+      "tags": []
+    },
+    {
+      "id": "solar--007",
+      "q": "How many Earths could fit inside the Sun's volume?",
+      "options": [
+        "1,000",
+        "100,000",
+        "Over 1.3 million",
+        "Over 100 million"
+      ],
+      "correct": 2,
+      "explanation": "The Sun's interior could hold over 1.3 million Earths.",
+      "tags": []
+    },
+    {
+      "id": "solar--008",
+      "q": "The Sun is the most prominent feature in:",
+      "options": [
+        "The Milky Way only",
+        "Our solar system",
+        "The Andromeda galaxy",
+        "The local cluster"
+      ],
+      "correct": 1,
+      "explanation": "The Sun is the most prominent feature in our solar system — the largest object containing about 99.8% of total solar system mass.",
+      "tags": []
+    },
+    {
+      "id": "solar--009",
+      "q": "Does the Sun have rings?",
+      "options": [
+        "Yes — many",
+        "Yes — a single ring",
+        "No",
+        "Only during eclipses"
+      ],
+      "correct": 2,
+      "explanation": "The Sun does not have rings — unlike planets such as Saturn.",
+      "tags": []
+    },
+    {
+      "id": "solar--010",
+      "q": "According to NASA, the Sun is a ball of gas containing approximately:",
+      "options": [
+        "50% hydrogen + 50% helium",
+        "92.1% hydrogen + 7.8% helium",
+        "21% hydrogen + 78% helium",
+        "99% nitrogen"
+      ],
+      "correct": 1,
+      "explanation": "According to NASA, the Sun is a ball of gas — 92.1% hydrogen and 7.8% helium.",
+      "tags": []
+    },
+    {
+      "id": "solar--011",
+      "q": "The diameter of the Sun is approximately:",
+      "options": [
+        "~12,000 km",
+        "~143,000 km",
+        "~864,000 miles (1.392 million km)",
+        "~10 million km"
+      ],
+      "correct": 2,
+      "explanation": "The diameter of the Sun is about 864,000 miles (1.392 million km).",
+      "tags": []
+    },
+    {
+      "id": "solar--012",
+      "q": "According to NASA, the mean radius of the Sun is approximately:",
+      "options": [
+        "~6,371 km",
+        "~432,168.6 miles (695,700 km)",
+        "~1.39 million km",
+        "~150 million km"
+      ],
+      "correct": 1,
+      "explanation": "According to NASA, the mean radius of the Sun is 432,168.6 miles (695,700 km).",
+      "tags": []
+    },
+    {
+      "id": "solar--013",
+      "q": "The Sun's equatorial circumference is approximately:",
+      "options": [
+        "~40,000 km",
+        "~400,000 km",
+        "~4,370,005.6 km",
+        "~150 million km"
+      ],
+      "correct": 2,
+      "explanation": "According to NASA, the Sun's equatorial circumference is about 4,370,005.6 km.",
+      "tags": []
+    },
+    {
+      "id": "solar--014",
+      "q": "What is the Sun's outer visible layer called?",
+      "options": [
+        "Corona",
+        "Chromosphere",
+        "Photosphere",
+        "Convection zone"
+      ],
+      "correct": 2,
+      "explanation": "The Sun's outer visible layer is called the photosphere.",
+      "tags": []
+    },
+    {
+      "id": "solar--015",
+      "q": "What is the temperature of the Sun's photosphere?",
+      "options": [
+        "~100°C",
+        "~5,500°C (10,000°F)",
+        "~1 million°C",
+        "~15 million°C"
+      ],
+      "correct": 1,
+      "explanation": "The photosphere has a temperature of about 5,500°C (10,000°F) — note that the source quotes core ~15 million°C and photosphere ~5,500°C.",
+      "tags": []
+    },
+    {
+      "id": "solar--016",
+      "q": "At the Sun's core, the temperature is approximately:",
+      "options": [
+        "~5,500°C",
+        "~10,000°C",
+        "~15 million°C (27 million°F)",
+        "~1 billion°C"
+      ],
+      "correct": 2,
+      "explanation": "At the Sun's core, the temperature is approximately 15 million °C (27 million °F).",
+      "tags": []
+    },
+    {
+      "id": "solar--017",
+      "q": "What classification of star is the Sun?",
+      "options": [
+        "Red Giant",
+        "Main-sequence G2V star (Yellow Dwarf)",
+        "White Dwarf",
+        "Neutron star"
+      ],
+      "correct": 1,
+      "explanation": "The Sun is a main-sequence G2V star — also called a Yellow Dwarf.",
+      "tags": []
+    },
+    {
+      "id": "solar--018",
+      "q": "According to NASA, the distance of the Sun from the Earth is approximately:",
+      "options": [
+        "~3.84 lakh km",
+        "~93 million miles (150 million km)",
+        "~1 billion km",
+        "~1 light year"
+      ],
+      "correct": 1,
+      "explanation": "According to NASA, the distance of Sun from Earth is 93 million miles (150 million km).",
+      "tags": []
+    },
+    {
+      "id": "solar--019",
+      "q": "The distance between the Earth and the Sun is equivalent to:",
+      "options": [
+        "1 light year",
+        "1 parsec",
+        "1 Astronomical Unit (AU)",
+        "1 lunar distance"
+      ],
+      "correct": 2,
+      "explanation": "The distance between the Earth and the Sun is one Astronomical Unit (AU) ≈ 150 million km.",
+      "tags": []
+    },
+    {
+      "id": "solar--020",
+      "q": "How long does it take for light to travel from the Sun to the Earth?",
+      "options": [
+        "~10 seconds",
+        "~60 seconds",
+        "~499 seconds (≈ 8 min 19 sec)",
+        "~1 hour"
+      ],
+      "correct": 2,
+      "explanation": "It takes 499.0 seconds (about 8 minutes 19 seconds) for light to travel from the Sun to the Earth.",
+      "tags": []
+    },
+    {
+      "id": "solar--021",
+      "q": "The Sun emits which type of radiation primarily?",
+      "options": [
+        "Long-wave radiation",
+        "Shortwave radiation",
+        "Only microwaves",
+        "Only infrared"
+      ],
+      "correct": 1,
+      "explanation": "The Sun emits shortwave radiation because it is extremely hot and has a lot of energy to give off.",
+      "tags": []
+    },
+    {
+      "id": "solar--022",
+      "q": "Why does the Sun emit predominantly shortwave radiation?",
+      "options": [
+        "Because it is small",
+        "Because it is extremely hot and has high energy",
+        "Because it is far away",
+        "Because it is cold"
+      ],
+      "correct": 1,
+      "explanation": "The Sun emits shortwave radiation because it is extremely hot — hotter bodies emit shorter-wavelength radiation (Wien's displacement law).",
+      "tags": []
+    },
+    {
+      "id": "solar--023",
+      "q": "What are the inner layers of the Sun (in order)?",
+      "options": [
+        "Core, Radiative Zone, Convection Zone",
+        "Photosphere, Chromosphere, Corona",
+        "Crust, Mantle, Core",
+        "Stratosphere, Mesosphere, Thermosphere"
+      ],
+      "correct": 0,
+      "explanation": "The inner layers of the Sun (from centre outward) are the Core, Radiative Zone and Convection Zone.",
+      "tags": []
+    },
+    {
+      "id": "solar--024",
+      "q": "What are the outer layers of the Sun (in order)?",
+      "options": [
+        "Core, Radiative Zone, Convection Zone",
+        "Photosphere, Chromosphere, Transition Region, Corona",
+        "Stratosphere, Mesosphere, Thermosphere",
+        "Lithosphere, Asthenosphere, Mantle"
+      ],
+      "correct": 1,
+      "explanation": "The outer layers of the Sun are the Photosphere, the Chromosphere, the Transition Region and the Corona.",
+      "tags": []
+    },
+    {
+      "id": "solar--025",
+      "q": "Which is the OUTERMOST layer of the Sun's atmosphere?",
+      "options": [
+        "Photosphere",
+        "Chromosphere",
+        "Transition Region",
+        "Corona"
+      ],
+      "correct": 3,
+      "explanation": "The Corona is the outermost layer of the Sun's atmosphere — visible during a total solar eclipse.",
+      "tags": []
+    },
+    {
+      "id": "solar--026",
+      "q": "Which is the OUTER VISIBLE layer of the Sun (the surface we see)?",
+      "options": [
+        "Core",
+        "Radiative zone",
+        "Photosphere",
+        "Corona"
+      ],
+      "correct": 2,
+      "explanation": "The photosphere is the Sun's outer visible layer — the surface we see, with a mottled appearance due to turbulent eruptions.",
+      "tags": []
+    },
+    {
+      "id": "solar--027",
+      "q": "Which type of fusion occurs inside the Sun?",
+      "options": [
+        "Proton-proton fusion",
+        "Carbon fusion only",
+        "Nuclear fission",
+        "Hydrogen-only without helium"
+      ],
+      "correct": 0,
+      "explanation": "The specific type of fusion that occurs inside the Sun is known as proton-proton fusion — converting hydrogen into helium.",
+      "tags": []
+    },
+    {
+      "id": "solar--028",
+      "q": "In proton-proton fusion (in the Sun), hydrogen is fused into:",
+      "options": [
+        "Carbon",
+        "Oxygen",
+        "Helium",
+        "Nitrogen"
+      ],
+      "correct": 2,
+      "explanation": "In proton-proton fusion the Sun fuses hydrogen nuclei (protons) to form helium — the source of the Sun's energy.",
+      "tags": []
+    },
+    {
+      "id": "solar--029",
+      "q": "How many layers (inner + outer) does the Sun typically have?",
+      "options": [
+        "3",
+        "5",
+        "7 (Core, Radiative, Convection, Photosphere, Chromosphere, Transition, Corona)",
+        "9"
+      ],
+      "correct": 2,
+      "explanation": "The Sun has seven layers: 3 inner (Core, Radiative Zone, Convection Zone) + 4 outer (Photosphere, Chromosphere, Transition Region, Corona).",
+      "tags": []
+    },
+    {
+      "id": "solar--030",
+      "q": "Which is the HOTTEST region within the Sun?",
+      "options": [
+        "Core",
+        "Photosphere",
+        "Chromosphere",
+        "Corona"
+      ],
+      "correct": 0,
+      "explanation": "The Core is the hottest region within the Sun — at about 15 million °C — where proton-proton fusion takes place.",
+      "tags": []
+    },
+    {
+      "id": "solar--031",
+      "q": "In which year did Johannes Kepler announce his First Law of planetary motion?",
+      "options": [
+        "1509",
+        "1609",
+        "1709",
+        "1809"
+      ],
+      "correct": 1,
+      "explanation": "In 1609, Johannes Kepler announced The First Law (planets move in ellipses with the Sun at one focus).",
+      "tags": []
+    },
+    {
+      "id": "solar--032",
+      "q": "What does Kepler's First Law of planetary motion state?",
+      "options": [
+        "Planets orbit in perfect circles around Earth",
+        "Planets move in ellipses with the Sun at one focus",
+        "Planets move in straight lines",
+        "Planets are stationary"
+      ],
+      "correct": 1,
+      "explanation": "Kepler's First Law states that planets move in ellipses with the Sun at one focus.",
+      "tags": []
+    },
+    {
+      "id": "solar--033",
+      "q": "Comets are best described as:",
+      "options": [
+        "Bright stars",
+        "Cosmic snowballs of frozen gases, rock and dust that orbit the Sun",
+        "Dwarf planets",
+        "Moons of Saturn"
+      ],
+      "correct": 1,
+      "explanation": "Comets are cosmic snowballs of frozen gases, rock and dust that orbit the Sun — they develop tails as they approach the Sun.",
+      "tags": []
+    },
+    {
+      "id": "solar--034",
+      "q": "Asteroids are best described as:",
+      "options": [
+        "Frozen comets",
+        "Small, rocky objects that orbit the Sun",
+        "Dwarf moons",
+        "Stars"
+      ],
+      "correct": 1,
+      "explanation": "Asteroids are small, rocky objects that orbit the Sun — most are found in the asteroid belt between Mars and Jupiter.",
+      "tags": []
+    },
+    {
+      "id": "solar--035",
+      "q": "What is the main difference between comets and asteroids?",
+      "options": [
+        "Comets are rocky; asteroids are icy",
+        "Comets are icy (frozen gases, rock, dust); asteroids are small rocky bodies",
+        "No difference",
+        "Asteroids orbit the Earth, comets orbit the Sun"
+      ],
+      "correct": 1,
+      "explanation": "Comets are icy bodies (frozen gases, rock and dust) that develop tails when near the Sun, while asteroids are small rocky bodies. Both orbit the Sun.",
+      "tags": []
+    },
+    {
+      "id": "solar--036",
+      "q": "Both comets and asteroids primarily orbit:",
+      "options": [
+        "The Earth",
+        "The Moon",
+        "The Sun",
+        "Jupiter"
+      ],
+      "correct": 2,
+      "explanation": "Both comets and asteroids orbit the Sun.",
+      "tags": []
+    },
+    {
+      "id": "solar--037",
+      "q": "An equinox occurs when:",
+      "options": [
+        "The Sun is at its highest point",
+        "The Sun is vertically above the Equator",
+        "The Earth is closest to the Sun",
+        "The Moon is full"
+      ],
+      "correct": 1,
+      "explanation": "An equinox occurs when the Sun is vertically above the Equator.",
+      "tags": []
+    },
+    {
+      "id": "solar--038",
+      "q": "How many times a year does an equinox occur?",
+      "options": [
+        "Once",
+        "Twice",
+        "Four times",
+        "Once every 4 years"
+      ],
+      "correct": 1,
+      "explanation": "The equinox occurs twice a year — once in March and once in September.",
+      "tags": []
+    },
+    {
+      "id": "solar--039",
+      "q": "The March equinox is called:",
+      "options": [
+        "Vernal (Spring) Equinox",
+        "Autumnal Equinox",
+        "Summer Solstice",
+        "Winter Solstice"
+      ],
+      "correct": 0,
+      "explanation": "The equinox in March is called the Vernal or Spring Equinox.",
+      "tags": []
+    },
+    {
+      "id": "solar--040",
+      "q": "The September equinox is called:",
+      "options": [
+        "Vernal Equinox",
+        "Autumnal (Fall) Equinox",
+        "Summer Solstice",
+        "Winter Solstice"
+      ],
+      "correct": 1,
+      "explanation": "The September equinox is called the Autumnal or Fall Equinox.",
+      "tags": []
+    },
+    {
+      "id": "solar--041",
+      "q": "The Sun shines vertically on the Equator how many times per year?",
+      "options": [
+        "Once",
+        "Twice (at the two equinoxes)",
+        "Four times",
+        "Daily"
+      ],
+      "correct": 1,
+      "explanation": "The Sun shines vertically on the Equator twice a year — at the March (vernal) and September (autumnal) equinoxes.",
+      "tags": []
+    },
+    {
+      "id": "solar--042",
+      "q": "Which country is called 'the Land of the Rising Sun'?",
+      "options": [
+        "China",
+        "Japan",
+        "South Korea",
+        "Taiwan"
+      ],
+      "correct": 1,
+      "explanation": "Japan is called 'the Land of the Rising Sun' — recognised as such for at least 1,400 years.",
+      "tags": []
+    },
+    {
+      "id": "solar--043",
+      "q": "For how long has Japan been recognised as the 'Land of the Rising Sun'?",
+      "options": [
+        "About 100 years",
+        "About 500 years",
+        "At least 1,400 years",
+        "Since 2000"
+      ],
+      "correct": 2,
+      "explanation": "Japan has been recognised as the Land of the Rising Sun for at least 1,400 years.",
+      "tags": []
+    },
+    {
+      "id": "solar--044",
+      "q": "What is a galactic year (also called a cosmic year)?",
+      "options": [
+        "The time Earth takes to orbit the Sun",
+        "The duration of time required for the Sun to orbit once around the centre of the Milky Way Galaxy",
+        "The lifespan of a star",
+        "One day on the Sun"
+      ],
+      "correct": 1,
+      "explanation": "The galactic year, also known as a cosmic year, is the duration of time required for the Sun to orbit once around the centre of the Milky Way Galaxy.",
+      "tags": []
+    },
+    {
+      "id": "solar--045",
+      "q": "The Sun orbits the centre of which galaxy?",
+      "options": [
+        "Andromeda",
+        "Milky Way",
+        "Triangulum",
+        "Whirlpool"
+      ],
+      "correct": 1,
+      "explanation": "The Sun orbits the centre of the Milky Way Galaxy — one full orbit is called a galactic year.",
+      "tags": []
+    }
+  ]
+}

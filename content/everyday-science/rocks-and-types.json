@@ -1,0 +1,570 @@
+{
+  "topic_id": "rocks-and-types",
+  "topic_name": "Rocks & Their Types",
+  "subject": "everyday-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Rocks & Their Types MCQs for PPSC, FPSC, NTS, CSS & PMS preparation.",
+  "icon": "🪨",
+  "mcqs": [
+    {
+      "id": "rocks--001",
+      "q": "Sedimentary rock is best described as a rock formed:",
+      "options": [
+        "Deep in Earth's mantle by extreme pressure",
+        "At or near the Earth's surface by the accumulation and lithification of sediment, or precipitation from solution",
+        "By volcanic eruption only",
+        "By cooling of magma underground"
+      ],
+      "correct": 1,
+      "explanation": "Sedimentary rock is formed at or near the Earth's surface by the accumulation and lithification of sediment or by the precipitation from solution at normal surface temperatures.",
+      "tags": []
+    },
+    {
+      "id": "rocks--002",
+      "q": "Artesian wells are found in which type of rocks?",
+      "options": [
+        "Igneous",
+        "Metamorphic",
+        "Sedimentary",
+        "Volcanic"
+      ],
+      "correct": 2,
+      "explanation": "Artesian wells are found in sedimentary rocks — porous, water-bearing layers between impermeable beds.",
+      "tags": []
+    },
+    {
+      "id": "rocks--003",
+      "q": "Which of the following is NOT a sedimentary rock?",
+      "options": [
+        "Sandstone",
+        "Limestone",
+        "Marble",
+        "Shale"
+      ],
+      "correct": 2,
+      "explanation": "Marble is a metamorphic rock (formed from limestone). Sandstone, limestone and shale are sedimentary.",
+      "tags": []
+    },
+    {
+      "id": "rocks--004",
+      "q": "Sedimentary rocks make up:",
+      "options": [
+        "Only a tiny fraction of Earth's surface",
+        "Most of the rocks on the Earth",
+        "Only the inner core",
+        "Only volcanic islands"
+      ],
+      "correct": 1,
+      "explanation": "Sedimentary rocks make up most of the rocks on the Earth — they cover about three-quarters of Earth's surface.",
+      "tags": []
+    },
+    {
+      "id": "rocks--005",
+      "q": "Earth's crust below the oceans is composed mainly of:",
+      "options": [
+        "Igneous rocks",
+        "Sedimentary rocks",
+        "Metamorphic rocks",
+        "Marble"
+      ],
+      "correct": 1,
+      "explanation": "Earth's crust below the oceans is composed of sedimentary rocks.",
+      "tags": []
+    },
+    {
+      "id": "rocks--006",
+      "q": "Coal is what type of rock?",
+      "options": [
+        "Igneous",
+        "Metamorphic",
+        "Organic sedimentary rock formed mainly from plant debris",
+        "Volcanic"
+      ],
+      "correct": 2,
+      "explanation": "Coal is an organic sedimentary rock that forms mainly from plant debris compressed over millions of years.",
+      "tags": []
+    },
+    {
+      "id": "rocks--007",
+      "q": "Which of the following is an example of a sedimentary rock?",
+      "options": [
+        "Granite",
+        "Marble",
+        "Sandstone",
+        "Basalt"
+      ],
+      "correct": 2,
+      "explanation": "Sandstone is a sedimentary rock. Granite is intrusive igneous, marble is metamorphic, and basalt is extrusive igneous.",
+      "tags": []
+    },
+    {
+      "id": "rocks--008",
+      "q": "Which of the following is NOT typically classified as a sedimentary rock?",
+      "options": [
+        "Limestone",
+        "Conglomerate",
+        "Slate",
+        "Coquina"
+      ],
+      "correct": 2,
+      "explanation": "Slate is a metamorphic rock (metamorphosed shale). Limestone, conglomerate and coquina are all sedimentary.",
+      "tags": []
+    },
+    {
+      "id": "rocks--009",
+      "q": "Which is an example of an organic sedimentary rock?",
+      "options": [
+        "Sandstone",
+        "Coal",
+        "Quartzite",
+        "Granite"
+      ],
+      "correct": 1,
+      "explanation": "Coal is an organic sedimentary rock formed primarily from compressed plant remains.",
+      "tags": []
+    },
+    {
+      "id": "rocks--010",
+      "q": "Breccia, chalk limestone, conglomerate and shale are all examples of which rock type?",
+      "options": [
+        "Igneous",
+        "Sedimentary",
+        "Metamorphic",
+        "Volcanic"
+      ],
+      "correct": 1,
+      "explanation": "Breccia, chalk limestone, conglomerate, sandstone, dolomites, gypsum, coal, shale, siltstone and coquina are all sedimentary rocks.",
+      "tags": []
+    },
+    {
+      "id": "rocks--011",
+      "q": "Metamorphic rocks form when rocks are subjected to:",
+      "options": [
+        "Erosion only",
+        "High heat, high pressure or hot mineral-rich fluids",
+        "Wind only",
+        "Water only"
+      ],
+      "correct": 1,
+      "explanation": "Metamorphic rocks form when existing rocks are subjected to high heat, high pressure or hot mineral-rich fluids that change their structure and mineralogy.",
+      "tags": []
+    },
+    {
+      "id": "rocks--012",
+      "q": "Amphibolite is a coarse-grained metamorphic rock composed mainly of:",
+      "options": [
+        "Quartz only",
+        "Green/brown/black amphibole minerals and plagioclase feldspar",
+        "Iron and copper",
+        "Pure carbon"
+      ],
+      "correct": 1,
+      "explanation": "Amphibolite is a coarse-grained metamorphic rock composed mainly of green, brown or black amphibole minerals and plagioclase feldspar.",
+      "tags": []
+    },
+    {
+      "id": "rocks--013",
+      "q": "Which of the following is a metamorphic rock?",
+      "options": [
+        "Sandstone",
+        "Granite",
+        "Marble",
+        "Basalt"
+      ],
+      "correct": 2,
+      "explanation": "Marble is a metamorphic rock (formed from metamorphosed limestone). Sandstone is sedimentary, granite is intrusive igneous, basalt is extrusive igneous.",
+      "tags": []
+    },
+    {
+      "id": "rocks--014",
+      "q": "Which of the following is NOT a metamorphic rock?",
+      "options": [
+        "Slate",
+        "Quartzite",
+        "Gneiss",
+        "Sandstone"
+      ],
+      "correct": 3,
+      "explanation": "Sandstone is a sedimentary rock. Slate, quartzite and gneiss are all metamorphic rocks.",
+      "tags": []
+    },
+    {
+      "id": "rocks--015",
+      "q": "Soapstone is an example of which type of rock?",
+      "options": [
+        "Sedimentary",
+        "Igneous",
+        "Metamorphic",
+        "Volcanic"
+      ],
+      "correct": 2,
+      "explanation": "Soapstone is a metamorphic rock — composed mostly of talc.",
+      "tags": []
+    },
+    {
+      "id": "rocks--016",
+      "q": "Examples of metamorphic rocks include:",
+      "options": [
+        "Sandstone, shale, coal",
+        "Granite, basalt, obsidian",
+        "Blue schist, eclogite, gneiss, marble, quartzite, slate",
+        "Conglomerate, breccia, chert"
+      ],
+      "correct": 2,
+      "explanation": "Examples of metamorphic rocks: blue schist, eclogite, gneiss, greenstone, marble, quartzite and slate.",
+      "tags": []
+    },
+    {
+      "id": "rocks--017",
+      "q": "Marble is formed by the metamorphism of which rock?",
+      "options": [
+        "Sandstone",
+        "Limestone",
+        "Shale",
+        "Granite"
+      ],
+      "correct": 1,
+      "explanation": "Marble is formed by the metamorphism of limestone — heat and pressure recrystallise calcium carbonate into the dense, crystalline marble.",
+      "tags": []
+    },
+    {
+      "id": "rocks--018",
+      "q": "Igneous rocks are also known as:",
+      "options": [
+        "Sedimentary rocks",
+        "Magmatic rocks",
+        "Metamorphic rocks",
+        "Mineral rocks"
+      ],
+      "correct": 1,
+      "explanation": "Igneous rocks are also known as magmatic rocks because they form from molten magma.",
+      "tags": []
+    },
+    {
+      "id": "rocks--019",
+      "q": "Igneous rocks form when:",
+      "options": [
+        "Sediments compact",
+        "Magma (molten rock) cools and crystallises",
+        "Rocks are heated to gas",
+        "Limestone dissolves"
+      ],
+      "correct": 1,
+      "explanation": "Igneous rocks form when magma (molten rock) cools and crystallises — either underground or on the surface.",
+      "tags": []
+    },
+    {
+      "id": "rocks--020",
+      "q": "Igneous rocks are divided into how many main groups?",
+      "options": [
+        "Two — intrusive and extrusive",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 0,
+      "explanation": "Igneous rocks are divided into two main groups: intrusive (plutonic) and extrusive (volcanic).",
+      "tags": []
+    },
+    {
+      "id": "rocks--021",
+      "q": "Intrusive igneous rocks form:",
+      "options": [
+        "On Earth's surface",
+        "Within Earth's crust as molten material rises and hardens",
+        "On the seafloor only",
+        "In the mesosphere"
+      ],
+      "correct": 1,
+      "explanation": "Intrusive igneous rock forms within Earth's crust — the molten material rises, fills voids or melts overlying rocks, and eventually hardens slowly underground.",
+      "tags": []
+    },
+    {
+      "id": "rocks--022",
+      "q": "Intrusive rocks are also called:",
+      "options": [
+        "Volcanic rocks",
+        "Plutonic rocks",
+        "Metamorphic rocks",
+        "Sedimentary rocks"
+      ],
+      "correct": 1,
+      "explanation": "Intrusive rocks are also called plutonic rocks — named after Pluto, the Roman god of the underworld, since they form deep beneath Earth's surface.",
+      "tags": []
+    },
+    {
+      "id": "rocks--023",
+      "q": "Which of the following is an example of an intrusive igneous rock?",
+      "options": [
+        "Granite",
+        "Basalt",
+        "Obsidian",
+        "Tuff"
+      ],
+      "correct": 0,
+      "explanation": "Granite is an intrusive (plutonic) igneous rock. Examples include pegmatite, diabase, diorite, granite and peridotite.",
+      "tags": []
+    },
+    {
+      "id": "rocks--024",
+      "q": "Extrusive igneous rocks form when:",
+      "options": [
+        "Magma cools deep in Earth",
+        "Magma (called lava once it reaches the surface) flows onto Earth's surface",
+        "Limestone metamorphoses",
+        "Sediments compact"
+      ],
+      "correct": 1,
+      "explanation": "Extrusive igneous rocks form when magma — called lava once it reaches the surface — flows onto Earth's surface and cools rapidly.",
+      "tags": []
+    },
+    {
+      "id": "rocks--025",
+      "q": "Extrusive rocks are also known as:",
+      "options": [
+        "Plutonic rocks",
+        "Volcanic rocks",
+        "Sedimentary rocks",
+        "Hydrothermal rocks"
+      ],
+      "correct": 1,
+      "explanation": "Extrusive rocks are also known as volcanic rocks — they form from lava on Earth's surface.",
+      "tags": []
+    },
+    {
+      "id": "rocks--026",
+      "q": "Which of the following is an example of an extrusive igneous rock?",
+      "options": [
+        "Granite",
+        "Diorite",
+        "Peridotite",
+        "Basalt"
+      ],
+      "correct": 3,
+      "explanation": "Basalt is an extrusive (volcanic) igneous rock. Examples include andesite, basalt, dacite, obsidian and tuff.",
+      "tags": []
+    },
+    {
+      "id": "rocks--027",
+      "q": "Which of the following is NOT an example of an extrusive igneous rock?",
+      "options": [
+        "Andesite",
+        "Basalt",
+        "Granite",
+        "Obsidian"
+      ],
+      "correct": 2,
+      "explanation": "Granite is an INTRUSIVE (plutonic) igneous rock. Andesite, basalt and obsidian are all extrusive.",
+      "tags": []
+    },
+    {
+      "id": "rocks--028",
+      "q": "Pegmatite, diorite and peridotite are examples of:",
+      "options": [
+        "Sedimentary rocks",
+        "Intrusive (plutonic) igneous rocks",
+        "Metamorphic rocks",
+        "Extrusive volcanic rocks"
+      ],
+      "correct": 1,
+      "explanation": "Pegmatite, diabase, diorite, granite and peridotite are examples of intrusive (plutonic) igneous rocks.",
+      "tags": []
+    },
+    {
+      "id": "rocks--029",
+      "q": "Andesite, dacite, obsidian and tuff are examples of:",
+      "options": [
+        "Intrusive igneous rocks",
+        "Extrusive igneous rocks",
+        "Metamorphic rocks",
+        "Sedimentary rocks"
+      ],
+      "correct": 1,
+      "explanation": "Andesite, basalt, dacite, obsidian and tuff are examples of extrusive (volcanic) igneous rocks.",
+      "tags": []
+    },
+    {
+      "id": "rocks--030",
+      "q": "What is the difference between magma and lava?",
+      "options": [
+        "No difference",
+        "Magma is below Earth's surface; lava is magma that has reached the surface",
+        "Lava is below; magma is above",
+        "Both are sedimentary"
+      ],
+      "correct": 1,
+      "explanation": "Magma is molten rock below Earth's surface. Once it is ejected onto the surface (e.g. by a volcano), the same material is called lava.",
+      "tags": []
+    },
+    {
+      "id": "rocks--031",
+      "q": "Which group of igneous rocks cools more slowly and produces larger crystals?",
+      "options": [
+        "Intrusive (plutonic)",
+        "Extrusive (volcanic)",
+        "Both equally",
+        "Neither"
+      ],
+      "correct": 0,
+      "explanation": "Intrusive (plutonic) rocks cool slowly underground, allowing larger crystals to form (e.g. granite). Extrusive rocks cool quickly on the surface and form smaller crystals or glass (e.g. obsidian).",
+      "tags": []
+    },
+    {
+      "id": "rocks--032",
+      "q": "What is the hydrosphere?",
+      "options": [
+        "A mountain range",
+        "A discontinuous layer of water at or near Earth's surface",
+        "A volcanic feature",
+        "An atmospheric layer only"
+      ],
+      "correct": 1,
+      "explanation": "The hydrosphere is a discontinuous layer of water at or near Earth's surface — it includes all liquid and frozen surface waters, groundwater held in soil and rock, and atmospheric water vapour.",
+      "tags": []
+    },
+    {
+      "id": "rocks--033",
+      "q": "What is the most abundant substance at the surface of Earth?",
+      "options": [
+        "Iron",
+        "Water",
+        "Silicon",
+        "Nitrogen"
+      ],
+      "correct": 1,
+      "explanation": "Water is the most abundant substance at the surface of Earth — covering ~71% of it.",
+      "tags": []
+    },
+    {
+      "id": "rocks--034",
+      "q": "Approximately how much water (in liquid and frozen form) makes up Earth's hydrosphere?",
+      "options": [
+        "~10 million km³",
+        "~100 million km³",
+        "~1.4 billion km³",
+        "~10 billion km³"
+      ],
+      "correct": 2,
+      "explanation": "About 1.4 billion cubic km (326 million cubic miles) of water in liquid and frozen form make up the oceans, lakes, streams, glaciers and groundwaters.",
+      "tags": []
+    },
+    {
+      "id": "rocks--035",
+      "q": "The Kuroshio is a:",
+      "options": [
+        "Warm north-easterly ocean current off the coast of Japan",
+        "Cold polar current",
+        "Type of glacier",
+        "Type of monsoon"
+      ],
+      "correct": 0,
+      "explanation": "The Kuroshio is a warm north-easterly ocean current off the coast of Japan — also called the Black Current.",
+      "tags": []
+    },
+    {
+      "id": "rocks--036",
+      "q": "The Benguela Current is the eastern boundary current of which ocean?",
+      "options": [
+        "South Pacific",
+        "South Atlantic",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 1,
+      "explanation": "The Benguela Current is the eastern boundary current of the South Atlantic Ocean — it flows northward along the western coast of southern Africa.",
+      "tags": []
+    },
+    {
+      "id": "rocks--037",
+      "q": "In the northern hemisphere, the north-easterly winter monsoon winds become which direction in summer?",
+      "options": [
+        "South-westerly",
+        "Easterly",
+        "Polar",
+        "Northern"
+      ],
+      "correct": 0,
+      "explanation": "The north-easterly direction of winter monsoon winds becomes south-westerly during the summer season in the northern hemisphere.",
+      "tags": []
+    },
+    {
+      "id": "rocks--038",
+      "q": "How often do the currents in the northern Indian Ocean change their flow direction?",
+      "options": [
+        "Every month",
+        "Twice a year (due to NE and SW monsoon winds)",
+        "Never",
+        "Only during eclipses"
+      ],
+      "correct": 1,
+      "explanation": "The currents in the northern Indian Ocean change their flow direction twice a year due to the NE and SW monsoon winds.",
+      "tags": []
+    },
+    {
+      "id": "rocks--039",
+      "q": "What is the average salinity of seawater?",
+      "options": [
+        "~1%",
+        "~3.5% (34–35 parts per thousand)",
+        "~10%",
+        "~15%"
+      ],
+      "correct": 1,
+      "explanation": "On average, seawater in the world's oceans has a salinity of approximately 3.5%, or 34–35 parts per thousand.",
+      "tags": []
+    },
+    {
+      "id": "rocks--040",
+      "q": "In the ocean, water moves horizontally over vast areas mainly due to:",
+      "options": [
+        "Lunar gravity only",
+        "Density difference",
+        "Wind alone",
+        "Earth's magnetic field"
+      ],
+      "correct": 1,
+      "explanation": "In the ocean, water moves horizontally over vast areas due to density difference (thermohaline circulation).",
+      "tags": []
+    },
+    {
+      "id": "rocks--041",
+      "q": "What is a Spring tide?",
+      "options": [
+        "Tide at its minimum height",
+        "Tide at its maximum height",
+        "Tide that occurs only in spring season",
+        "An imaginary tide"
+      ],
+      "correct": 1,
+      "explanation": "A Spring tide is the tide at its maximum height — occurring at new and full moons when the Sun, Earth and Moon are aligned.",
+      "tags": []
+    },
+    {
+      "id": "rocks--042",
+      "q": "What is a glacier?",
+      "options": [
+        "A type of warm ocean current",
+        "A huge mass of ice that moves slowly over land",
+        "A river of lava",
+        "A type of ocean wave"
+      ],
+      "correct": 1,
+      "explanation": "A glacier is a huge mass of ice that moves slowly over land — formed from compacted snow over many years.",
+      "tags": []
+    },
+    {
+      "id": "rocks--043",
+      "q": "Which of the following is NOT included in Earth's hydrosphere?",
+      "options": [
+        "Liquid surface water",
+        "Frozen surface water",
+        "Atmospheric water vapour",
+        "Magma"
+      ],
+      "correct": 3,
+      "explanation": "Magma is molten rock, not water — it belongs to the lithosphere/mantle, not the hydrosphere. The hydrosphere includes liquid water, ice and atmospheric water vapour.",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,726 @@
+{
+  "topic_id": "natural-hazards-disasters-energy-resources",
+  "topic_name": "Natural Hazards, Disasters & Energy Resources",
+  "subject": "everyday-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Natural Hazards, Disasters & Energy Resources MCQs for PPSC, FPSC, NTS, CSS & PMS preparation.",
+  "icon": "⚡",
+  "mcqs": [
+    {
+      "id": "natura-001",
+      "q": "What is the primary cause of earthquakes?",
+      "options": [
+        "Solar wind",
+        "Tectonic plates getting stuck and straining the ground",
+        "Tides",
+        "Heavy rainfall"
+      ],
+      "correct": 1,
+      "explanation": "Earthquakes are caused by tectonic plates getting stuck and putting strain on the ground.",
+      "tags": []
+    },
+    {
+      "id": "natura-002",
+      "q": "An earthquake is best described as:",
+      "options": [
+        "A sudden flood",
+        "A series of seismic waves or tremors in the Earth's crust",
+        "A volcanic eruption",
+        "A type of cloud"
+      ],
+      "correct": 1,
+      "explanation": "An earthquake is a series of seismic waves or tremors in the Earth's crust.",
+      "tags": []
+    },
+    {
+      "id": "natura-003",
+      "q": "Plate tectonics is the theory that:",
+      "options": [
+        "The atmosphere is divided into plates",
+        "The Earth's outer shell is divided into several plates that glide over the mantle",
+        "Oceans are divided into plates",
+        "The Sun is divided into plates"
+      ],
+      "correct": 1,
+      "explanation": "Plate tectonics is the theory that Earth's outer shell is divided into several plates that glide over the mantle.",
+      "tags": []
+    },
+    {
+      "id": "natura-004",
+      "q": "Smaller earthquakes can be caused by all of the following EXCEPT:",
+      "options": [
+        "Volcanic activity",
+        "Landslides",
+        "Mine blasts and nuclear experiments",
+        "Lunar tides"
+      ],
+      "correct": 3,
+      "explanation": "Smaller earthquakes can be caused by volcanic activity, landslides, mine blasts and nuclear experiments — but not by lunar tides.",
+      "tags": []
+    },
+    {
+      "id": "natura-005",
+      "q": "Hot liquid and semi-liquid rock located under Earth's surface is called:",
+      "options": [
+        "Lava",
+        "Magma",
+        "Igneous",
+        "Pyroclast"
+      ],
+      "correct": 1,
+      "explanation": "Magma is the extremely hot liquid and semi-liquid rock located under Earth's surface.",
+      "tags": []
+    },
+    {
+      "id": "natura-006",
+      "q": "Earthquakes and volcanoes occur mostly in:",
+      "options": [
+        "Plain regions",
+        "Folded and faulted regions",
+        "Desert regions",
+        "River deltas"
+      ],
+      "correct": 1,
+      "explanation": "Earthquakes and volcanoes occur mostly in folded and faulted regions of the Earth's crust.",
+      "tags": []
+    },
+    {
+      "id": "natura-007",
+      "q": "Which instrument is used to detect and record earthquakes?",
+      "options": [
+        "Barometer",
+        "Seismograph (seismometer)",
+        "Anemometer",
+        "Hygrometer"
+      ],
+      "correct": 1,
+      "explanation": "A seismograph or seismometer is the instrument used to detect and record earthquakes.",
+      "tags": []
+    },
+    {
+      "id": "natura-008",
+      "q": "The Richter scale measures the:",
+      "options": [
+        "Wind speed",
+        "Strength (magnitude) of earthquakes",
+        "Air pressure",
+        "Humidity"
+      ],
+      "correct": 1,
+      "explanation": "The Richter scale (Richter magnitude scale) is a measure of the strength of earthquakes.",
+      "tags": []
+    },
+    {
+      "id": "natura-009",
+      "q": "Earthquakes rarely occur in:",
+      "options": [
+        "Japan",
+        "Brazil",
+        "Indonesia",
+        "Chile"
+      ],
+      "correct": 1,
+      "explanation": "Earthquakes rarely occur in Brazil — it sits in the relatively stable interior of the South American Plate.",
+      "tags": []
+    },
+    {
+      "id": "natura-010",
+      "q": "The Ring of Fire is also called:",
+      "options": [
+        "The Circum-Pacific Belt",
+        "The Atlantic Ridge",
+        "The Indian Ridge",
+        "The Mediterranean Belt"
+      ],
+      "correct": 0,
+      "explanation": "The Ring of Fire is also referred to as the Circum-Pacific Belt — a path along the Pacific Ocean with active volcanoes and frequent earthquakes.",
+      "tags": []
+    },
+    {
+      "id": "natura-011",
+      "q": "The point on Earth's surface directly above the hypocentre/focus of an earthquake is called the:",
+      "options": [
+        "Epicentre",
+        "Magnitude point",
+        "Tsunami zone",
+        "Fault line"
+      ],
+      "correct": 0,
+      "explanation": "The epicentre (or epicentrum) is the point on Earth's surface directly above the hypocentre/focus of an earthquake.",
+      "tags": []
+    },
+    {
+      "id": "natura-012",
+      "q": "Surface waves are typically generated when the source of an earthquake is:",
+      "options": [
+        "Deep underground",
+        "Close to the Earth's surface",
+        "On another planet",
+        "In the atmosphere only"
+      ],
+      "correct": 1,
+      "explanation": "Surface waves are typically generated when the source of the earthquake is close to the Earth's surface.",
+      "tags": []
+    },
+    {
+      "id": "natura-013",
+      "q": "A P-wave (compressional wave) is a seismic body wave that shakes the ground:",
+      "options": [
+        "Up and down only",
+        "Back and forth in the same direction as the wave is moving",
+        "In a circular motion",
+        "Diagonally only"
+      ],
+      "correct": 1,
+      "explanation": "A P-wave or compressional wave shakes the ground back and forth in the same direction (and the opposite direction) as the wave is moving.",
+      "tags": []
+    },
+    {
+      "id": "natura-014",
+      "q": "What was the magnitude of the largest earthquake ever recorded (1960, Chile)?",
+      "options": [
+        "7.5",
+        "8.5",
+        "9.5",
+        "10.5"
+      ],
+      "correct": 2,
+      "explanation": "The 1960 Valdivian (Great Chilean) earthquake had a magnitude of 9.5 — the largest ever recorded.",
+      "tags": []
+    },
+    {
+      "id": "natura-015",
+      "q": "A volcanic feature formed by the collapse of a volcano into itself is called a:",
+      "options": [
+        "Caldera",
+        "Crater",
+        "Vent",
+        "Plug"
+      ],
+      "correct": 0,
+      "explanation": "A caldera is a volcanic feature formed by the collapse of a volcano into itself — typically after a major eruption empties the magma chamber.",
+      "tags": []
+    },
+    {
+      "id": "natura-016",
+      "q": "According to the US Geologic Survey, approximately how many potentially active volcanoes are there worldwide?",
+      "options": [
+        "~150",
+        "~500",
+        "~1,350",
+        "~5,000"
+      ],
+      "correct": 2,
+      "explanation": "According to the United States Geologic Survey, there are approximately 1,350 potentially active volcanoes worldwide.",
+      "tags": []
+    },
+    {
+      "id": "natura-017",
+      "q": "The material that comes out of a volcano during eruption is in which states?",
+      "options": [
+        "Solid only",
+        "Liquid only",
+        "Gaseous only",
+        "Solid, liquid and gaseous"
+      ],
+      "correct": 3,
+      "explanation": "The material that comes out of a volcano at the time of eruption is solid (ash, rocks), liquid (lava) and gaseous (volcanic gases).",
+      "tags": []
+    },
+    {
+      "id": "natura-018",
+      "q": "Iceland has approximately how many volcanoes (many still active)?",
+      "options": [
+        "~50",
+        "~100",
+        "Over 200",
+        "Over 500"
+      ],
+      "correct": 2,
+      "explanation": "Iceland has over 200 volcanoes — many of which are still active.",
+      "tags": []
+    },
+    {
+      "id": "natura-019",
+      "q": "Mount Vesuvius in Italy is currently classified as:",
+      "options": [
+        "Extinct",
+        "Dormant",
+        "Highly active",
+        "Submarine"
+      ],
+      "correct": 1,
+      "explanation": "Vesuvius in Italy is a dormant volcano at present — it has not erupted since 1944.",
+      "tags": []
+    },
+    {
+      "id": "natura-020",
+      "q": "Mauna Loa is an example of which type of volcano?",
+      "options": [
+        "Cinder cone",
+        "Lava dome",
+        "Active shield volcano",
+        "Composite volcano"
+      ],
+      "correct": 2,
+      "explanation": "Mauna Loa (Hawaii) is an example of an active shield volcano — characterised by broad, gentle slopes built by low-viscosity lava.",
+      "tags": []
+    },
+    {
+      "id": "natura-021",
+      "q": "When magma is ejected by a volcano, the material is called:",
+      "options": [
+        "Magma still",
+        "Lava",
+        "Tephra",
+        "Pumice"
+      ],
+      "correct": 1,
+      "explanation": "When magma is ejected by a volcano or other vent, the material is called lava.",
+      "tags": []
+    },
+    {
+      "id": "natura-022",
+      "q": "Which is the MOST COMMON type of volcano?",
+      "options": [
+        "Shield volcano",
+        "Lava dome",
+        "Cinder cones (scoria cones)",
+        "Composite volcano"
+      ],
+      "correct": 2,
+      "explanation": "Scoria cones, also known as cinder cones, are the most common type of volcano.",
+      "tags": []
+    },
+    {
+      "id": "natura-023",
+      "q": "Cinder cones are also known as:",
+      "options": [
+        "Shield cones",
+        "Scoria cones",
+        "Lava domes",
+        "Stratocones"
+      ],
+      "correct": 1,
+      "explanation": "Cinder cones are also known as scoria cones.",
+      "tags": []
+    },
+    {
+      "id": "natura-024",
+      "q": "Stratovolcanoes are also called:",
+      "options": [
+        "Shield volcanoes",
+        "Cinder cones",
+        "Lava domes",
+        "Composite volcanoes"
+      ],
+      "correct": 3,
+      "explanation": "Stratovolcanoes are also called composite volcanoes — built up of alternating layers of lava flows and pyroclastic material.",
+      "tags": []
+    },
+    {
+      "id": "natura-025",
+      "q": "How many main types of volcanoes are there?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Six"
+      ],
+      "correct": 2,
+      "explanation": "There are four types of volcanoes: shield volcanoes, lava domes, cinder cones (scoria cones) and composite volcanoes (stratovolcanoes).",
+      "tags": []
+    },
+    {
+      "id": "natura-026",
+      "q": "Which of the following is NOT one of the four main types of volcanoes?",
+      "options": [
+        "Shield volcano",
+        "Lava dome",
+        "Cinder cone",
+        "Magma volcano"
+      ],
+      "correct": 3,
+      "explanation": "There is no 'magma volcano' type. The four types are shield, lava dome, cinder cone and composite volcanoes.",
+      "tags": []
+    },
+    {
+      "id": "natura-027",
+      "q": "Mt. Semeru — which erupted lava on December 4, 2021 killing 14 people — is located in:",
+      "options": [
+        "Italy",
+        "Indonesia (Java Island)",
+        "Japan",
+        "Hawaii"
+      ],
+      "correct": 1,
+      "explanation": "Mt. Semeru on Java Island, Indonesia erupted lava on December 4, 2021, killing 14 people.",
+      "tags": []
+    },
+    {
+      "id": "natura-028",
+      "q": "Which type of volcano has broad, gentle slopes formed by low-viscosity lava?",
+      "options": [
+        "Shield volcano",
+        "Cinder cone",
+        "Composite volcano",
+        "Lava dome"
+      ],
+      "correct": 0,
+      "explanation": "Shield volcanoes have broad, gentle slopes formed by low-viscosity lava that flows great distances. Mauna Loa is the classic example.",
+      "tags": []
+    },
+    {
+      "id": "natura-029",
+      "q": "From which language does the word 'tsunami' originate?",
+      "options": [
+        "Chinese",
+        "Japanese",
+        "Korean",
+        "Hawaiian"
+      ],
+      "correct": 1,
+      "explanation": "Tsunami is a word of Japanese language — meaning 'harbour wave'.",
+      "tags": []
+    },
+    {
+      "id": "natura-030",
+      "q": "A tsunami is an ocean wave triggered by:",
+      "options": [
+        "Wind only",
+        "Large earthquakes near or under the ocean, volcanic eruptions, submarine landslides, or onshore landslides into water",
+        "Magnetic storms",
+        "Solar flares"
+      ],
+      "correct": 1,
+      "explanation": "A tsunami is an ocean wave triggered by large earthquakes near or under the ocean, volcanic eruptions, submarine landslides or onshore landslides where large volumes of debris fall into the water.",
+      "tags": []
+    },
+    {
+      "id": "natura-031",
+      "q": "What percentage of all tsunamis happen within the Pacific Ring of Fire?",
+      "options": [
+        "~20%",
+        "~50%",
+        "~80%",
+        "~99%"
+      ],
+      "correct": 2,
+      "explanation": "About 80% of tsunamis happen within the Pacific Ocean's Ring of Fire.",
+      "tags": []
+    },
+    {
+      "id": "natura-032",
+      "q": "Tsunamis are most commonly triggered by:",
+      "options": [
+        "Calm sunny weather",
+        "Large undersea earthquakes",
+        "Light rainfall",
+        "Bird migration"
+      ],
+      "correct": 1,
+      "explanation": "Tsunamis are most commonly triggered by large earthquakes that occur near or under the ocean.",
+      "tags": []
+    },
+    {
+      "id": "natura-033",
+      "q": "A flood occurs when:",
+      "options": [
+        "Wind blows fast",
+        "Water inundates land that is normally dry",
+        "The sun heats the ground",
+        "Volcanoes erupt"
+      ],
+      "correct": 1,
+      "explanation": "A flood occurs when water inundates land that's normally dry — through a multitude of ways (heavy rain, dam breaks, storm surges).",
+      "tags": []
+    },
+    {
+      "id": "natura-034",
+      "q": "An avalanche is best described as:",
+      "options": [
+        "A volcanic eruption",
+        "Masses of snow, ice and rocks falling rapidly down a mountainside",
+        "A type of hurricane",
+        "A sea wave"
+      ],
+      "correct": 1,
+      "explanation": "An avalanche is masses of snow, ice and rocks that fall rapidly down a mountainside.",
+      "tags": []
+    },
+    {
+      "id": "natura-035",
+      "q": "A cyclone is a system of winds rotating:",
+      "options": [
+        "Clockwise around a high-pressure centre (Northern Hemisphere)",
+        "Counterclockwise around a low-pressure centre (Northern Hemisphere)",
+        "Vertically only",
+        "Outwards only"
+      ],
+      "correct": 1,
+      "explanation": "A cyclone is a system of winds rotating counterclockwise in the Northern Hemisphere around a low-pressure centre.",
+      "tags": []
+    },
+    {
+      "id": "natura-036",
+      "q": "Tropical cyclones of the Bay of Bengal are usually called:",
+      "options": [
+        "Hurricanes",
+        "Tornadoes",
+        "Blizzards",
+        "Anticyclones"
+      ],
+      "correct": 0,
+      "explanation": "The tropical cyclones of the Bay of Bengal are usually called Hurricanes.",
+      "tags": []
+    },
+    {
+      "id": "natura-037",
+      "q": "An anticyclone is caused by:",
+      "options": [
+        "Winds rotating around a low-pressure centre",
+        "Winds blowing spirally outwards from the centre",
+        "Volcanic eruptions",
+        "Lunar tides"
+      ],
+      "correct": 1,
+      "explanation": "An anticyclone is caused by winds that blow spirally outwards from the centre.",
+      "tags": []
+    },
+    {
+      "id": "natura-038",
+      "q": "Hurricanes are tropical storms that form over the:",
+      "options": [
+        "North Atlantic Ocean and Northeast Pacific",
+        "Indian Ocean only",
+        "Mediterranean Sea",
+        "Arctic Ocean"
+      ],
+      "correct": 0,
+      "explanation": "Hurricanes are tropical storms that form over the North Atlantic Ocean and Northeast Pacific.",
+      "tags": []
+    },
+    {
+      "id": "natura-039",
+      "q": "Typhoons are formed over which ocean?",
+      "options": [
+        "North Atlantic",
+        "Indian Ocean",
+        "Northwest Pacific Ocean",
+        "Arctic"
+      ],
+      "correct": 2,
+      "explanation": "Typhoons are formed over the Northwest Pacific Ocean — they are the same phenomenon as hurricanes but in a different basin.",
+      "tags": []
+    },
+    {
+      "id": "natura-040",
+      "q": "A drought is best defined as:",
+      "options": [
+        "A flood event",
+        "A period of below-normal precipitation in an area or region",
+        "A snowstorm",
+        "A volcanic event"
+      ],
+      "correct": 1,
+      "explanation": "A drought is a period of time when an area or region experiences below-normal precipitation.",
+      "tags": []
+    },
+    {
+      "id": "natura-041",
+      "q": "A wildfire is:",
+      "options": [
+        "A fire in a kitchen",
+        "An unplanned fire that burns in a natural area such as a forest, grassland or prairie",
+        "A rocket flame",
+        "A volcanic flame"
+      ],
+      "correct": 1,
+      "explanation": "A wildfire is an unplanned fire that burns in a natural area such as a forest, grassland or prairie.",
+      "tags": []
+    },
+    {
+      "id": "natura-042",
+      "q": "A landslide is the:",
+      "options": [
+        "Side movement of cars",
+        "Downward movement of rocks and debris that detach from the underlying slope",
+        "Sliding of glaciers only",
+        "Sea waves"
+      ],
+      "correct": 1,
+      "explanation": "A landslide is the downward movement of rocks and debris that detach from the underlying slope.",
+      "tags": []
+    },
+    {
+      "id": "natura-043",
+      "q": "A blizzard is a severe snowstorm characterised by sustained winds of at least:",
+      "options": [
+        "20 km/h",
+        "36 km/h",
+        "56 km/h, lasting 3+ hours",
+        "100 km/h"
+      ],
+      "correct": 2,
+      "explanation": "A blizzard is a severe snowstorm characterised by strong sustained winds of at least 56 km/h, lasting for a prolonged period of three hours or more.",
+      "tags": []
+    },
+    {
+      "id": "natura-044",
+      "q": "Electricity is what kind of source of energy?",
+      "options": [
+        "Primary source",
+        "Secondary source",
+        "Renewable only",
+        "Non-renewable only"
+      ],
+      "correct": 1,
+      "explanation": "Electricity is a secondary source of energy — it is generated from primary sources like coal, gas, sun, wind or water.",
+      "tags": []
+    },
+    {
+      "id": "natura-045",
+      "q": "Renewable energy is best defined as energy:",
+      "options": [
+        "That always runs out",
+        "Derived from natural processes replenished at a rate equal to or faster than consumption",
+        "Generated only from coal",
+        "Stored only in batteries"
+      ],
+      "correct": 1,
+      "explanation": "Renewable energy is energy derived from natural processes that are replenished at a rate equal to or faster than the rate at which they are consumed.",
+      "tags": []
+    },
+    {
+      "id": "natura-046",
+      "q": "Which of the following is NOT a renewable energy source?",
+      "options": [
+        "Solar",
+        "Wind",
+        "Coal",
+        "Geothermal"
+      ],
+      "correct": 2,
+      "explanation": "Coal is a NON-renewable fossil fuel. Solar, wind, geothermal, hydro, tidal and biomass are renewable.",
+      "tags": []
+    },
+    {
+      "id": "natura-047",
+      "q": "Which of the following is a non-renewable energy source?",
+      "options": [
+        "Solar",
+        "Wind",
+        "Natural gas (fossil fuels)",
+        "Tidal"
+      ],
+      "correct": 2,
+      "explanation": "Natural gas (and other fossil fuels — coal, oil) is a non-renewable energy source.",
+      "tags": []
+    },
+    {
+      "id": "natura-048",
+      "q": "Water stored in a dam possesses what type of energy?",
+      "options": [
+        "Kinetic energy",
+        "Potential energy",
+        "Chemical energy",
+        "Nuclear energy"
+      ],
+      "correct": 1,
+      "explanation": "Water stored in a dam possesses potential energy — which is converted to kinetic energy when released through turbines.",
+      "tags": []
+    },
+    {
+      "id": "natura-049",
+      "q": "A gamma ray is best described as:",
+      "options": [
+        "A type of radio wave",
+        "A packet of electromagnetic energy (photon) emitted by the nucleus during radioactive decay",
+        "A type of microwave only",
+        "A sound wave"
+      ],
+      "correct": 1,
+      "explanation": "A gamma ray is a packet of electromagnetic energy (photon) emitted by the nucleus of some radionuclides following radioactive decay.",
+      "tags": []
+    },
+    {
+      "id": "natura-050",
+      "q": "All forms of energy that we use are ultimately transformed into:",
+      "options": [
+        "Light energy",
+        "Heat energy",
+        "Magnetic energy",
+        "Sound energy"
+      ],
+      "correct": 1,
+      "explanation": "All forms of energy that we use are ultimately transformed into heat energy (per the laws of thermodynamics).",
+      "tags": []
+    },
+    {
+      "id": "natura-051",
+      "q": "Chemical energy is stored in:",
+      "options": [
+        "A dry cell (battery)",
+        "A magnet",
+        "A pendulum",
+        "A spring only"
+      ],
+      "correct": 0,
+      "explanation": "Chemical energy is stored in a dry cell (battery) — and released as electrical energy when the cell is connected in a circuit.",
+      "tags": []
+    },
+    {
+      "id": "natura-052",
+      "q": "Which element is required for solar energy conversion?",
+      "options": [
+        "Iron",
+        "Aluminium",
+        "Silicon",
+        "Gold"
+      ],
+      "correct": 2,
+      "explanation": "Silicon is the element required for solar energy conversion — it is the primary material in photovoltaic cells.",
+      "tags": []
+    },
+    {
+      "id": "natura-053",
+      "q": "Hydropower energy is harnessed from:",
+      "options": [
+        "The Sun directly",
+        "Water stored in dams or flowing in rivers",
+        "Tides only",
+        "Nuclear fission"
+      ],
+      "correct": 1,
+      "explanation": "Hydropower (hydro energy) uses water stored in dams as well as flowing in rivers to create electricity in hydropower plants.",
+      "tags": []
+    },
+    {
+      "id": "natura-054",
+      "q": "Wind energy describes the process by which:",
+      "options": [
+        "The Sun heats land",
+        "Wind is used to generate electricity",
+        "Coal is burned",
+        "Water boils"
+      ],
+      "correct": 1,
+      "explanation": "Wind energy (wind power) describes the process by which wind is used to generate electricity — typically via wind turbines.",
+      "tags": []
+    },
+    {
+      "id": "natura-055",
+      "q": "Biomass energy comes from:",
+      "options": [
+        "Solar panels",
+        "Any organic, decomposing matter derived from plants or animals available on a renewable basis",
+        "Underground oil",
+        "Atomic fission"
+      ],
+      "correct": 1,
+      "explanation": "Biomass energy comes from any organic — i.e. decomposing — matter derived from plants or animals available on a renewable basis.",
+      "tags": []
+    }
+  ]
+}

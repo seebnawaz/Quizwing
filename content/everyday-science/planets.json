@@ -1,0 +1,765 @@
+{
+  "topic_id": "planets",
+  "topic_name": "Planets",
+  "subject": "everyday-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Planets MCQs for PPSC, FPSC, NTS, CSS & PMS preparation.",
+  "icon": "🪐",
+  "mcqs": [
+    {
+      "id": "planet-001",
+      "q": "How many planets are there in our solar system?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 1,
+      "explanation": "There are 8 planets: Mercury, Venus, Earth, Mars (inner rocky/terrestrial) + Jupiter, Saturn (gas giants) + Uranus, Neptune (ice giants). Pluto was downgraded to dwarf planet in 2006.",
+      "tags": []
+    },
+    {
+      "id": "planet-002",
+      "q": "In which year did the International Astronomical Union (IAU) downgrade Pluto to a 'dwarf planet'?",
+      "options": [
+        "1996",
+        "2006",
+        "2016",
+        "2020"
+      ],
+      "correct": 1,
+      "explanation": "In 2006 the International Astronomical Union (IAU) downgraded the status of Pluto to that of 'dwarf planet'.",
+      "tags": []
+    },
+    {
+      "id": "planet-003",
+      "q": "Which 4 planets are inner rocky / terrestrial planets?",
+      "options": [
+        "Mercury, Venus, Earth, Mars",
+        "Jupiter, Saturn, Uranus, Neptune",
+        "Earth, Mars, Jupiter, Saturn",
+        "Mercury, Earth, Jupiter, Neptune"
+      ],
+      "correct": 0,
+      "explanation": "The inner rocky / terrestrial planets are Mercury, Venus, Earth and Mars.",
+      "tags": []
+    },
+    {
+      "id": "planet-004",
+      "q": "Which planets are classified as gas giants?",
+      "options": [
+        "Mercury and Venus",
+        "Jupiter and Saturn",
+        "Uranus and Neptune",
+        "Earth and Mars"
+      ],
+      "correct": 1,
+      "explanation": "Jupiter and Saturn are gas giants. Uranus and Neptune are classified as ice giants.",
+      "tags": []
+    },
+    {
+      "id": "planet-005",
+      "q": "Which planets are classified as ice giants?",
+      "options": [
+        "Mercury and Venus",
+        "Jupiter and Saturn",
+        "Uranus and Neptune",
+        "Earth and Mars"
+      ],
+      "correct": 2,
+      "explanation": "Uranus and Neptune are ice giants. Jupiter and Saturn are gas giants.",
+      "tags": []
+    },
+    {
+      "id": "planet-006",
+      "q": "How many planets can be seen from Earth without a telescope?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "7"
+      ],
+      "correct": 2,
+      "explanation": "We can see 5 planets without a telescope. Venus can be easily seen with the naked eye.",
+      "tags": []
+    },
+    {
+      "id": "planet-007",
+      "q": "Which is the smallest planet in our solar system?",
+      "options": [
+        "Mars",
+        "Mercury",
+        "Venus",
+        "Pluto"
+      ],
+      "correct": 1,
+      "explanation": "Mercury is the smallest planet in our solar system — only slightly larger than Earth's Moon.",
+      "tags": []
+    },
+    {
+      "id": "planet-008",
+      "q": "Which planet is closest to the Sun?",
+      "options": [
+        "Venus",
+        "Mercury",
+        "Earth",
+        "Mars"
+      ],
+      "correct": 1,
+      "explanation": "Mercury is the closest planet to the Sun — about 36 million miles (58 million km) or 0.39 AU away.",
+      "tags": []
+    },
+    {
+      "id": "planet-009",
+      "q": "How long does one year on Mercury take in Earth days?",
+      "options": [
+        "30 days",
+        "59 days",
+        "88 days",
+        "176 days"
+      ],
+      "correct": 2,
+      "explanation": "Mercury makes a complete orbit around the Sun (a year) in just 88 Earth days.",
+      "tags": []
+    },
+    {
+      "id": "planet-010",
+      "q": "How long does one day on Mercury take (rotation with respect to stars)?",
+      "options": [
+        "24 hours",
+        "59 Earth days",
+        "88 Earth days",
+        "243 Earth days"
+      ],
+      "correct": 1,
+      "explanation": "One day on Mercury (the time it takes for Mercury to rotate or spin once with respect to the stars) takes 59 Earth days.",
+      "tags": []
+    },
+    {
+      "id": "planet-011",
+      "q": "How many moons does Mercury have?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "53"
+      ],
+      "correct": 0,
+      "explanation": "Mercury has no moons and no rings.",
+      "tags": []
+    },
+    {
+      "id": "planet-012",
+      "q": "Which spacecraft was the first to orbit the innermost planet (Mercury)?",
+      "options": [
+        "Mariner 10",
+        "MESSENGER",
+        "BepiColombo",
+        "Voyager 2"
+      ],
+      "correct": 1,
+      "explanation": "NASA's MESSENGER was the first spacecraft to orbit Mercury (Mariner 10 was the first to fly by it).",
+      "tags": []
+    },
+    {
+      "id": "planet-013",
+      "q": "Despite its proximity to the Sun, is Mercury the hottest planet?",
+      "options": [
+        "Yes",
+        "No — Venus is hotter due to its thick CO₂ atmosphere",
+        "Yes by a small margin",
+        "Mercury and Venus are equal"
+      ],
+      "correct": 1,
+      "explanation": "Despite its proximity to the Sun, Mercury is NOT the hottest planet — Venus is, due to its thick CO₂ atmosphere causing a runaway greenhouse effect.",
+      "tags": []
+    },
+    {
+      "id": "planet-014",
+      "q": "Which is the hottest planet in the solar system?",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "correct": 1,
+      "explanation": "Venus is the hottest planet — surface temperature about 475°C (900°F).",
+      "tags": []
+    },
+    {
+      "id": "planet-015",
+      "q": "Which planet is known as Earth's twin?",
+      "options": [
+        "Mars",
+        "Venus",
+        "Mercury",
+        "Jupiter"
+      ],
+      "correct": 1,
+      "explanation": "Venus is known as Earth's twin — similar in size and mass to Earth.",
+      "tags": []
+    },
+    {
+      "id": "planet-016",
+      "q": "Which planet is known as the morning star?",
+      "options": [
+        "Mars",
+        "Venus",
+        "Mercury",
+        "Saturn"
+      ],
+      "correct": 1,
+      "explanation": "Venus is known as the morning star — visible just before sunrise (and as evening star after sunset).",
+      "tags": []
+    },
+    {
+      "id": "planet-017",
+      "q": "Which is the brightest planet visible from Earth?",
+      "options": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correct": 1,
+      "explanation": "Venus is the brightest planet — easily seen with the naked eye.",
+      "tags": []
+    },
+    {
+      "id": "planet-018",
+      "q": "How long does one day on Venus last in Earth days?",
+      "options": [
+        "1 Earth day",
+        "59 Earth days",
+        "243 Earth days",
+        "365 Earth days"
+      ],
+      "correct": 2,
+      "explanation": "One day on Venus lasts 243 Earth days — Venus spins backwards (east to west), with the Sun rising in the west and setting in the east.",
+      "tags": []
+    },
+    {
+      "id": "planet-019",
+      "q": "Venus's atmosphere is mostly composed of:",
+      "options": [
+        "Nitrogen and oxygen",
+        "Carbon dioxide (greenhouse gas) with sulphuric acid clouds",
+        "Helium and hydrogen",
+        "Methane only"
+      ],
+      "correct": 1,
+      "explanation": "Venus has a thick atmosphere full of the greenhouse gas carbon dioxide and clouds made of sulphuric acid.",
+      "tags": []
+    },
+    {
+      "id": "planet-020",
+      "q": "Venus is one of just two planets that rotate from east to west. The other is:",
+      "options": [
+        "Mercury",
+        "Earth",
+        "Uranus",
+        "Mars"
+      ],
+      "correct": 2,
+      "explanation": "Venus and Uranus are the two planets that rotate from east to west (retrograde rotation).",
+      "tags": []
+    },
+    {
+      "id": "planet-021",
+      "q": "Earth is the ___ planet from the Sun.",
+      "options": [
+        "Second",
+        "Third",
+        "Fourth",
+        "Fifth"
+      ],
+      "correct": 1,
+      "explanation": "Earth is the third planet from the Sun, at a distance of about 93 million miles (150 million km) = 1 AU.",
+      "tags": []
+    },
+    {
+      "id": "planet-022",
+      "q": "How long does Earth take to complete one orbit around the Sun?",
+      "options": [
+        "~88 days",
+        "~365.25 days",
+        "~687 days",
+        "~12 years"
+      ],
+      "correct": 1,
+      "explanation": "Earth takes 365.25 days to complete one trip (orbit) around the Sun.",
+      "tags": []
+    },
+    {
+      "id": "planet-023",
+      "q": "In which direction does the Earth rotate around its axis?",
+      "options": [
+        "East to West",
+        "West to East",
+        "North to South",
+        "South to North"
+      ],
+      "correct": 1,
+      "explanation": "The Earth rotates around its axis from West to East — this causes the Sun to appear to rise in the east.",
+      "tags": []
+    },
+    {
+      "id": "planet-024",
+      "q": "Earth is composed of how many main layers?",
+      "options": [
+        "Two",
+        "Three (crust, mantle, core)",
+        "Four",
+        "Five"
+      ],
+      "correct": 1,
+      "explanation": "Earth has three layers: crust, mantle and core. Some classifications further divide the core into inner and outer core (4 layers total).",
+      "tags": []
+    },
+    {
+      "id": "planet-025",
+      "q": "What is the composition of Earth's atmosphere?",
+      "options": [
+        "50% nitrogen + 50% oxygen",
+        "78% nitrogen + 21% oxygen + 1% other gases",
+        "21% nitrogen + 78% oxygen",
+        "99% carbon dioxide"
+      ],
+      "correct": 1,
+      "explanation": "Earth's atmosphere consists of 78% nitrogen, 21% oxygen and 1% other gases (argon, CO₂, neon).",
+      "tags": []
+    },
+    {
+      "id": "planet-026",
+      "q": "How many natural satellites (moons) does Earth have?",
+      "options": [
+        "0",
+        "1 (the Moon)",
+        "2",
+        "Many"
+      ],
+      "correct": 1,
+      "explanation": "Earth has one large natural satellite known as the Moon.",
+      "tags": []
+    },
+    {
+      "id": "planet-027",
+      "q": "Earth is also called the:",
+      "options": [
+        "Red Planet",
+        "Blue / Green / Watery Planet",
+        "Yellow Planet",
+        "Brown Planet"
+      ],
+      "correct": 1,
+      "explanation": "Earth is known as the Blue Planet, Green Planet and Watery Planet — and is the only planet with an atmosphere supporting known life.",
+      "tags": []
+    },
+    {
+      "id": "planet-028",
+      "q": "What causes the seasons on Earth?",
+      "options": [
+        "Earth's rotation alone",
+        "The Moon's gravity",
+        "The Earth's movement (tilted axis) around the Sun",
+        "Volcanoes"
+      ],
+      "correct": 2,
+      "explanation": "The Earth's movement around the Sun (combined with its axial tilt) causes the seasons.",
+      "tags": []
+    },
+    {
+      "id": "planet-029",
+      "q": "What is 'aphelion'?",
+      "options": [
+        "When Earth is closest to the Sun",
+        "Earth's position when at its greatest distance from the Sun (early July, Northern Hemisphere summer)",
+        "A type of eclipse",
+        "Earth's orbit speed"
+      ],
+      "correct": 1,
+      "explanation": "Aphelion is the position of Earth in its orbit when it is at its greatest distance from the Sun — it occurs in early July, during Northern Hemisphere summer.",
+      "tags": []
+    },
+    {
+      "id": "planet-030",
+      "q": "Which is the most abundant element in the Earth's crust?",
+      "options": [
+        "Iron",
+        "Silicon",
+        "Oxygen",
+        "Aluminium"
+      ],
+      "correct": 2,
+      "explanation": "Oxygen is the most abundant element in the Earth's crust (about 46.6% by mass).",
+      "tags": []
+    },
+    {
+      "id": "planet-031",
+      "q": "Mars is the ___ planet from the Sun.",
+      "options": [
+        "Third",
+        "Fourth",
+        "Fifth",
+        "Sixth"
+      ],
+      "correct": 1,
+      "explanation": "Mars is the fourth planet from the Sun — at an average distance of 142 million miles (228 million km), or 1.52 AU.",
+      "tags": []
+    },
+    {
+      "id": "planet-032",
+      "q": "Why is Mars called the Red Planet?",
+      "options": [
+        "It is on fire",
+        "Iron minerals in Martian soil oxidise (rust), causing red colour",
+        "It reflects red sunlight",
+        "It has red oceans"
+      ],
+      "correct": 1,
+      "explanation": "Mars is known as the Red Planet because iron minerals in the Martian soil oxidise (rust), causing the soil and atmosphere to look red.",
+      "tags": []
+    },
+    {
+      "id": "planet-033",
+      "q": "How many moons does Mars have?",
+      "options": [
+        "0",
+        "1",
+        "2 (Phobos &amp; Deimos)",
+        "4"
+      ],
+      "correct": 2,
+      "explanation": "Mars has two moons named Phobos and Deimos.",
+      "tags": []
+    },
+    {
+      "id": "planet-034",
+      "q": "Which is the second smallest planet in the solar system?",
+      "options": [
+        "Mercury",
+        "Mars",
+        "Pluto",
+        "Venus"
+      ],
+      "correct": 1,
+      "explanation": "Mars is the second smallest planet in the solar system (Mercury is the smallest).",
+      "tags": []
+    },
+    {
+      "id": "planet-035",
+      "q": "How long does one year on Mars take in Earth days?",
+      "options": [
+        "88 days",
+        "365 days",
+        "687 days",
+        "4,333 days"
+      ],
+      "correct": 2,
+      "explanation": "Mars takes 687 Earth days to complete a complete orbit around the Sun (a Martian year).",
+      "tags": []
+    },
+    {
+      "id": "planet-036",
+      "q": "Who was the first person to observe Mars with a telescope?",
+      "options": [
+        "Galileo Galilei (1609)",
+        "Isaac Newton",
+        "Copernicus",
+        "Kepler"
+      ],
+      "correct": 0,
+      "explanation": "Galileo Galilei was the first person to observe Mars with a telescope, in 1609.",
+      "tags": []
+    },
+    {
+      "id": "planet-037",
+      "q": "Which is the largest planet in the solar system?",
+      "options": [
+        "Saturn",
+        "Jupiter",
+        "Earth",
+        "Neptune"
+      ],
+      "correct": 1,
+      "explanation": "Jupiter is the largest planet in the solar system. Eleven Earths could fit across Jupiter's equator.",
+      "tags": []
+    },
+    {
+      "id": "planet-038",
+      "q": "Approximately how many Earths could fit across Jupiter's equator?",
+      "options": [
+        "3",
+        "6",
+        "11",
+        "100"
+      ],
+      "correct": 2,
+      "explanation": "Eleven Earths could fit across Jupiter's equator.",
+      "tags": []
+    },
+    {
+      "id": "planet-039",
+      "q": "Jupiter is classified as a:",
+      "options": [
+        "Rocky planet",
+        "Ice giant",
+        "Gas giant",
+        "Dwarf planet"
+      ],
+      "correct": 2,
+      "explanation": "Jupiter is known as a gas giant — its atmosphere is made up mostly of hydrogen (H₂) and helium (He).",
+      "tags": []
+    },
+    {
+      "id": "planet-040",
+      "q": "How long does one day on Jupiter (Jovian day) last?",
+      "options": [
+        "~10 hours",
+        "~24 hours",
+        "~243 days",
+        "~88 days"
+      ],
+      "correct": 0,
+      "explanation": "Jupiter rotates once about every 10 hours (a Jovian day) — the fastest spin in the solar system.",
+      "tags": []
+    },
+    {
+      "id": "planet-041",
+      "q": "How long does Jupiter take to complete one orbit of the Sun?",
+      "options": [
+        "~88 days",
+        "~365 days",
+        "~12 Earth years",
+        "~84 Earth years"
+      ],
+      "correct": 2,
+      "explanation": "Jupiter takes about 12 Earth years to complete one orbit of the Sun (a Jovian year).",
+      "tags": []
+    },
+    {
+      "id": "planet-042",
+      "q": "Jupiter's Great Red Spot is:",
+      "options": [
+        "A frozen lake",
+        "A gigantic storm about twice the size of Earth, raging for over a century",
+        "A volcano",
+        "A moon"
+      ],
+      "correct": 1,
+      "explanation": "Jupiter's Great Red Spot is a gigantic storm about twice the size of Earth that has raged for over a century.",
+      "tags": []
+    },
+    {
+      "id": "planet-043",
+      "q": "Saturn is the ___ planet from the Sun.",
+      "options": [
+        "Fifth",
+        "Sixth",
+        "Seventh",
+        "Eighth"
+      ],
+      "correct": 1,
+      "explanation": "Saturn is the sixth planet from the Sun — about 9.5 AU away (886 million miles / 1.4 billion km).",
+      "tags": []
+    },
+    {
+      "id": "planet-044",
+      "q": "Which planet has the most spectacular ring system (7 rings)?",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "correct": 1,
+      "explanation": "Saturn has the most spectacular ring system, with seven rings (in 7 groups) and several gaps between them.",
+      "tags": []
+    },
+    {
+      "id": "planet-045",
+      "q": "Saturn is also known as the ___ planet.",
+      "options": [
+        "Red",
+        "Blue",
+        "Flattest",
+        "Hottest"
+      ],
+      "correct": 2,
+      "explanation": "Saturn is the flattest planet — its rapid rotation causes it to bulge at the equator.",
+      "tags": []
+    },
+    {
+      "id": "planet-046",
+      "q": "How long does Saturn take to orbit the Sun?",
+      "options": [
+        "~88 days",
+        "~12 Earth years",
+        "~29.4 Earth years",
+        "~165 Earth years"
+      ],
+      "correct": 2,
+      "explanation": "Saturn makes a complete orbit around the Sun (a year in Saturnian time) in about 29.4 Earth years (10,756 Earth days).",
+      "tags": []
+    },
+    {
+      "id": "planet-047",
+      "q": "Which is the largest moon of Saturn?",
+      "options": [
+        "Titan",
+        "Titania",
+        "Phobos",
+        "Europa"
+      ],
+      "correct": 0,
+      "explanation": "Titan is the largest moon of Saturn — and the second-largest moon in the solar system.",
+      "tags": []
+    },
+    {
+      "id": "planet-048",
+      "q": "Saturn is composed mostly of:",
+      "options": [
+        "Iron and nickel",
+        "Hydrogen and helium",
+        "Carbon dioxide",
+        "Methane"
+      ],
+      "correct": 1,
+      "explanation": "Saturn is a massive ball made mostly of hydrogen and helium — it is a gas-giant planet.",
+      "tags": []
+    },
+    {
+      "id": "planet-049",
+      "q": "Uranus is the ___ planet from the Sun.",
+      "options": [
+        "Sixth",
+        "Seventh",
+        "Eighth",
+        "Ninth"
+      ],
+      "correct": 1,
+      "explanation": "Uranus is the seventh planet from the Sun — about 1.8 billion miles (2.9 billion km) away, or 19.8 AU.",
+      "tags": []
+    },
+    {
+      "id": "planet-050",
+      "q": "Which was the first planet found using a telescope?",
+      "options": [
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Venus"
+      ],
+      "correct": 1,
+      "explanation": "Uranus was the first planet found using a telescope — discovered in 1781 by William Herschel.",
+      "tags": []
+    },
+    {
+      "id": "planet-051",
+      "q": "Who discovered Uranus?",
+      "options": [
+        "Galileo Galilei",
+        "William Herschel (1781)",
+        "Isaac Newton",
+        "Johannes Kepler"
+      ],
+      "correct": 1,
+      "explanation": "Uranus was discovered in 1781 by William Herschel using a telescope.",
+      "tags": []
+    },
+    {
+      "id": "planet-052",
+      "q": "Uranus is an example of which type of planet?",
+      "options": [
+        "Rocky / Terrestrial",
+        "Gas Giant",
+        "Ice Giant",
+        "Dwarf"
+      ],
+      "correct": 2,
+      "explanation": "Uranus is an Ice Giant planet — surrounded by 13 faint rings.",
+      "tags": []
+    },
+    {
+      "id": "planet-053",
+      "q": "How many known moons does Uranus have?",
+      "options": [
+        "2",
+        "13",
+        "27",
+        "79"
+      ],
+      "correct": 2,
+      "explanation": "Uranus has 27 known moons — most of which are named after literary characters. Titania is the largest.",
+      "tags": []
+    },
+    {
+      "id": "planet-054",
+      "q": "Neptune is the ___ planet from the Sun.",
+      "options": [
+        "Seventh",
+        "Eighth",
+        "Ninth",
+        "Tenth"
+      ],
+      "correct": 1,
+      "explanation": "Neptune is the eighth (and outermost) planet from the Sun — about 2.8 billion miles (4.5 billion km) away, or 30 AU.",
+      "tags": []
+    },
+    {
+      "id": "planet-055",
+      "q": "Which is the coldest planet in the solar system?",
+      "options": [
+        "Mars",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "correct": 3,
+      "explanation": "Neptune is the coldest planet — average temperature about -200°C (-392°F).",
+      "tags": []
+    },
+    {
+      "id": "planet-056",
+      "q": "Neptune was discovered by:",
+      "options": [
+        "Galileo Galilei",
+        "William Herschel",
+        "Urbain Le Verrier and Johann Galle",
+        "Isaac Newton"
+      ],
+      "correct": 2,
+      "explanation": "Neptune was discovered by Urbain Le Verrier and Johann Galle in 1846 — predicted mathematically before being observed.",
+      "tags": []
+    },
+    {
+      "id": "planet-057",
+      "q": "Which planet lies at the OUTERMOST orbit of the solar system?",
+      "options": [
+        "Pluto",
+        "Uranus",
+        "Neptune",
+        "Saturn"
+      ],
+      "correct": 2,
+      "explanation": "Neptune is the planet at the outermost orbit of the solar system. (Pluto is no longer classified as a planet — it is a dwarf planet.)",
+      "tags": []
+    },
+    {
+      "id": "planet-058",
+      "q": "Which planet of the solar system has water vapours?",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "correct": 2,
+      "explanation": "Per the source material, Neptune is the only planet of the solar system noted as having water vapours in this context.",
+      "tags": []
+    }
+  ]
+}

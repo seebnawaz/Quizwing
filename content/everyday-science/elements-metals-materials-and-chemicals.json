@@ -1,0 +1,804 @@
+{
+  "topic_id": "elements-metals-materials-and-chemicals",
+  "topic_name": "Elements, Metals, Materials & Chemicals",
+  "subject": "everyday-science",
+  "version": 1,
+  "updated_at": "2026-05-12",
+  "description": "Elements, Metals, Materials & Chemicals MCQs for PPSC, FPSC, NTS, CSS & PMS preparation.",
+  "icon": "⚒️",
+  "mcqs": [
+    {
+      "id": "elemen-001",
+      "q": "Which of the following is the best conductor of electricity?",
+      "options": [
+        "Copper",
+        "Gold",
+        "Silver",
+        "Aluminium"
+      ],
+      "correct": 2,
+      "explanation": "Silver tops the conductivity list at 20°C.",
+      "tags": []
+    },
+    {
+      "id": "elemen-002",
+      "q": "Which is the lightest (least dense) metal?",
+      "options": [
+        "Sodium",
+        "Lithium",
+        "Aluminium",
+        "Magnesium"
+      ],
+      "correct": 1,
+      "explanation": "Lithium — Z=3, least dense metal.",
+      "tags": []
+    },
+    {
+      "id": "elemen-003",
+      "q": "Chief ore of aluminium is:",
+      "options": [
+        "Hematite",
+        "Bauxite",
+        "Cinnabar",
+        "Galena"
+      ],
+      "correct": 1,
+      "explanation": "Bauxite — Al₂O₃·xH₂O.",
+      "tags": []
+    },
+    {
+      "id": "elemen-004",
+      "q": "Element present in largest amount in rocks &amp; minerals:",
+      "options": [
+        "Iron",
+        "Aluminium",
+        "Silicon",
+        "Calcium"
+      ],
+      "correct": 2,
+      "explanation": "Silicon — main component of silicates.",
+      "tags": []
+    },
+    {
+      "id": "elemen-005",
+      "q": "Alloy used in heating elements is:",
+      "options": [
+        "Bronze",
+        "Brass",
+        "Nichrome",
+        "Steel"
+      ],
+      "correct": 2,
+      "explanation": "Nichrome (Ni-Cr) — high resistance.",
+      "tags": []
+    },
+    {
+      "id": "elemen-006",
+      "q": "Diamond and graphite are:",
+      "options": [
+        "Compounds",
+        "Mixtures",
+        "Allotropes of carbon",
+        "Isotopes"
+      ],
+      "correct": 2,
+      "explanation": "Same element, different structure.",
+      "tags": []
+    },
+    {
+      "id": "elemen-007",
+      "q": "Air is a:",
+      "options": [
+        "Compound",
+        "Element",
+        "Homogeneous mixture",
+        "Heterogeneous mixture"
+      ],
+      "correct": 2,
+      "explanation": "Mainly N₂ and O₂.",
+      "tags": []
+    },
+    {
+      "id": "elemen-008",
+      "q": "Seawater conducts electricity because of:",
+      "options": [
+        "Sodium ions",
+        "Oxygen",
+        "Carbon",
+        "Hydrogen"
+      ],
+      "correct": 0,
+      "explanation": "Rich in Na⁺/Cl⁻ ions.",
+      "tags": []
+    },
+    {
+      "id": "elemen-009",
+      "q": "Gas commonly used to extinguish fire:",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Helium"
+      ],
+      "correct": 2,
+      "explanation": "CO₂ smothers flame.",
+      "tags": []
+    },
+    {
+      "id": "elemen-010",
+      "q": "Used to cut very hard substances:",
+      "options": [
+        "Iron",
+        "Silicon carbide",
+        "Aluminium",
+        "Lead"
+      ],
+      "correct": 1,
+      "explanation": "SiC = carborundum.",
+      "tags": []
+    },
+    {
+      "id": "elemen-011",
+      "q": "Element common to all acids is:",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen",
+        "Carbon"
+      ],
+      "correct": 1,
+      "explanation": "H⁺ ion characterises acids.",
+      "tags": []
+    },
+    {
+      "id": "elemen-012",
+      "q": "Element common to all bases is:",
+      "options": [
+        "Hydrogen",
+        "Carbon",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "correct": 2,
+      "explanation": "OH⁻ contains oxygen.",
+      "tags": []
+    },
+    {
+      "id": "elemen-013",
+      "q": "Biogas is mainly composed of:",
+      "options": [
+        "Methane &amp; CO₂",
+        "Nitrogen &amp; oxygen",
+        "Hydrogen &amp; helium",
+        "CO &amp; SO₂"
+      ],
+      "correct": 0,
+      "explanation": "CH₄ + CO₂ are major.",
+      "tags": []
+    },
+    {
+      "id": "elemen-014",
+      "q": "The most malleable and ductile metal is:",
+      "options": [
+        "Iron",
+        "Gold",
+        "Copper",
+        "Aluminium"
+      ],
+      "correct": 1,
+      "explanation": "Gold — followed by silver and platinum.",
+      "tags": []
+    },
+    {
+      "id": "elemen-015",
+      "q": "Which is a non-metal that is liquid at room temperature?",
+      "options": [
+        "Sulphur",
+        "Iodine",
+        "Bromine",
+        "Phosphorus"
+      ],
+      "correct": 2,
+      "explanation": "Br — only liquid non-metal.",
+      "tags": []
+    },
+    {
+      "id": "elemen-016",
+      "q": "Which metal is liquid at room temperature?",
+      "options": [
+        "Mercury",
+        "Sodium",
+        "Gallium",
+        "Lead"
+      ],
+      "correct": 0,
+      "explanation": "Hg — only liquid metal at room temp.",
+      "tags": []
+    },
+    {
+      "id": "elemen-017",
+      "q": "Radium is obtained from:",
+      "options": [
+        "Bauxite",
+        "Pitchblende",
+        "Galena",
+        "Cinnabar"
+      ],
+      "correct": 1,
+      "explanation": "Pitchblende = uranium ore.",
+      "tags": []
+    },
+    {
+      "id": "elemen-018",
+      "q": "Laughing gas is chemically:",
+      "options": [
+        "NO",
+        "NO₂",
+        "N₂O",
+        "N₂"
+      ],
+      "correct": 2,
+      "explanation": "Nitrous oxide.",
+      "tags": []
+    },
+    {
+      "id": "elemen-019",
+      "q": "Red phosphorus is used in:",
+      "options": [
+        "Fireworks",
+        "Safety matches",
+        "Fertilisers",
+        "Glass"
+      ],
+      "correct": 1,
+      "explanation": "Striking surface of matchboxes.",
+      "tags": []
+    },
+    {
+      "id": "elemen-020",
+      "q": "Stainless steel mainly contains iron and:",
+      "options": [
+        "Lead",
+        "Chromium",
+        "Aluminium",
+        "Copper"
+      ],
+      "correct": 1,
+      "explanation": "≥10.5% Cr for corrosion resistance.",
+      "tags": []
+    },
+    {
+      "id": "elemen-021",
+      "q": "An amalgam is a mixture of mercury with:",
+      "options": [
+        "Sulphur",
+        "Carbon",
+        "Another metal",
+        "Glass"
+      ],
+      "correct": 2,
+      "explanation": "Hg + metal = amalgam.",
+      "tags": []
+    },
+    {
+      "id": "elemen-022",
+      "q": "Which is NOT an ore of aluminium?",
+      "options": [
+        "Bauxite",
+        "Cryolite",
+        "Azurite",
+        "Corundum"
+      ],
+      "correct": 2,
+      "explanation": "Azurite is a copper ore.",
+      "tags": []
+    },
+    {
+      "id": "elemen-023",
+      "q": "Non-stick pans are coated with:",
+      "options": [
+        "Polythene",
+        "Teflon (PTFE)",
+        "PVC",
+        "Nylon"
+      ],
+      "correct": 1,
+      "explanation": "Polytetrafluoroethylene.",
+      "tags": []
+    },
+    {
+      "id": "elemen-024",
+      "q": "Sodium carbonate (Na₂CO₃) is also called:",
+      "options": [
+        "Baking soda",
+        "Caustic soda",
+        "Washing soda",
+        "Lime"
+      ],
+      "correct": 2,
+      "explanation": "Removes water hardness.",
+      "tags": []
+    },
+    {
+      "id": "elemen-025",
+      "q": "Mica is a poor conductor of:",
+      "options": [
+        "Heat",
+        "Electricity",
+        "Both",
+        "Neither"
+      ],
+      "correct": 1,
+      "explanation": "Bad electrical conductor, good thermal conductor.",
+      "tags": []
+    },
+    {
+      "id": "elemen-026",
+      "q": "Lead pencils contain:",
+      "options": [
+        "Lead",
+        "Graphite",
+        "Charcoal",
+        "Coal"
+      ],
+      "correct": 1,
+      "explanation": "Graphite — also called black lead.",
+      "tags": []
+    },
+    {
+      "id": "elemen-027",
+      "q": "Filament in incandescent bulb is made of:",
+      "options": [
+        "Tungsten",
+        "Copper",
+        "Nichrome",
+        "Iron"
+      ],
+      "correct": 0,
+      "explanation": "High m.p. ≈3422°C.",
+      "tags": []
+    },
+    {
+      "id": "elemen-028",
+      "q": "Bleaching powder is also known as:",
+      "options": [
+        "Sodium hydroxide",
+        "Chloride of lime",
+        "Calcium oxide",
+        "Soda lime"
+      ],
+      "correct": 1,
+      "explanation": "Ca(OCl)Cl.",
+      "tags": []
+    },
+    {
+      "id": "elemen-029",
+      "q": "Transistors are made from:",
+      "options": [
+        "Silicon &amp; germanium",
+        "Iron &amp; nickel",
+        "Aluminium &amp; copper",
+        "Sulphur &amp; carbon"
+      ],
+      "correct": 0,
+      "explanation": "Group-14 semiconductors.",
+      "tags": []
+    },
+    {
+      "id": "elemen-030",
+      "q": "Gas usually filled in electric bulbs is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen",
+        "Carbon dioxide"
+      ],
+      "correct": 1,
+      "explanation": "Inert filling around tungsten.",
+      "tags": []
+    },
+    {
+      "id": "elemen-031",
+      "q": "Heavy water contains:",
+      "options": [
+        "Tritium",
+        "Deuterium",
+        "Protium",
+        "Lithium"
+      ],
+      "correct": 1,
+      "explanation": "D₂O.",
+      "tags": []
+    },
+    {
+      "id": "elemen-032",
+      "q": "Welding gases are:",
+      "options": [
+        "Hydrogen &amp; oxygen",
+        "Oxygen &amp; acetylene",
+        "Nitrogen &amp; argon",
+        "CO &amp; CO₂"
+      ],
+      "correct": 1,
+      "explanation": "Oxy-acetylene welding.",
+      "tags": []
+    },
+    {
+      "id": "elemen-033",
+      "q": "Potassium nitrate (KNO₃) is used in:",
+      "options": [
+        "Aspirin",
+        "Gunpowder",
+        "Soap",
+        "Plastic"
+      ],
+      "correct": 1,
+      "explanation": "Strong oxidiser.",
+      "tags": []
+    },
+    {
+      "id": "elemen-034",
+      "q": "Purest form of iron is:",
+      "options": [
+        "Cast iron",
+        "Pig iron",
+        "Steel",
+        "Wrought iron"
+      ],
+      "correct": 3,
+      "explanation": "≥99.5% pure Fe.",
+      "tags": []
+    },
+    {
+      "id": "elemen-035",
+      "q": "Which has the least carbon?",
+      "options": [
+        "Cast iron",
+        "Steel",
+        "Pig iron",
+        "Wrought iron"
+      ],
+      "correct": 1,
+      "explanation": "Steel: 0.1–2%.",
+      "tags": []
+    },
+    {
+      "id": "elemen-036",
+      "q": "Marsh gas is also called:",
+      "options": [
+        "Ethane",
+        "Methane",
+        "Propane",
+        "Butane"
+      ],
+      "correct": 1,
+      "explanation": "CH₄ from marshes.",
+      "tags": []
+    },
+    {
+      "id": "elemen-037",
+      "q": "Galvanised iron is iron coated with:",
+      "options": [
+        "Tin",
+        "Copper",
+        "Zinc",
+        "Aluminium"
+      ],
+      "correct": 2,
+      "explanation": "Zinc layer prevents rust.",
+      "tags": []
+    },
+    {
+      "id": "elemen-038",
+      "q": "Brass is an alloy of:",
+      "options": [
+        "Cu &amp; Sn",
+        "Cu &amp; Zn",
+        "Fe &amp; C",
+        "Cu &amp; Ni"
+      ],
+      "correct": 1,
+      "explanation": "Copper + zinc.",
+      "tags": []
+    },
+    {
+      "id": "elemen-039",
+      "q": "Bronze is an alloy of:",
+      "options": [
+        "Cu, Zn &amp; Sn",
+        "Cu &amp; Sn only",
+        "Fe &amp; Ni",
+        "Cu &amp; Pb"
+      ],
+      "correct": 0,
+      "explanation": "Copper + zinc + tin.",
+      "tags": []
+    },
+    {
+      "id": "elemen-040",
+      "q": "Bell metal is mainly:",
+      "options": [
+        "Cu + Zn",
+        "Cu + Sn",
+        "Fe + Cr",
+        "Al + Mg"
+      ],
+      "correct": 1,
+      "explanation": "Used in bells &amp; cymbals.",
+      "tags": []
+    },
+    {
+      "id": "elemen-041",
+      "q": "Photo films contain:",
+      "options": [
+        "Gold",
+        "Silver",
+        "Mercury",
+        "Copper"
+      ],
+      "correct": 1,
+      "explanation": "Silver halides.",
+      "tags": []
+    },
+    {
+      "id": "elemen-042",
+      "q": "Inert gas more narcotic than nitrogen:",
+      "options": [
+        "He",
+        "Ne",
+        "Argon",
+        "Kr"
+      ],
+      "correct": 2,
+      "explanation": "Argon causes more nitrogen narcosis at depth.",
+      "tags": []
+    },
+    {
+      "id": "elemen-043",
+      "q": "Green flame in fireworks is due to:",
+      "options": [
+        "Sodium",
+        "Barium",
+        "Strontium",
+        "Copper"
+      ],
+      "correct": 1,
+      "explanation": "Ba salts.",
+      "tags": []
+    },
+    {
+      "id": "elemen-044",
+      "q": "Element forming greatest number of compounds:",
+      "options": [
+        "Hydrogen",
+        "Oxygen",
+        "Carbon",
+        "Silicon"
+      ],
+      "correct": 2,
+      "explanation": "Catenation → millions of organics.",
+      "tags": []
+    },
+    {
+      "id": "elemen-045",
+      "q": "First organic compound synthesised in lab:",
+      "options": [
+        "Methane",
+        "Urea",
+        "Ethanol",
+        "Acetic acid"
+      ],
+      "correct": 1,
+      "explanation": "Wöhler 1828, from inorganic.",
+      "tags": []
+    },
+    {
+      "id": "elemen-046",
+      "q": "Rayon is chemically:",
+      "options": [
+        "Cellulose acetate",
+        "Cellulose nitrate",
+        "Polyester",
+        "Nylon"
+      ],
+      "correct": 0,
+      "explanation": "Made from cellulose.",
+      "tags": []
+    },
+    {
+      "id": "elemen-047",
+      "q": "Vulcanisation of rubber uses:",
+      "options": [
+        "Carbon",
+        "Sulphur",
+        "Phosphorus",
+        "Iodine"
+      ],
+      "correct": 1,
+      "explanation": "Heated with S at 140–160°C.",
+      "tags": []
+    },
+    {
+      "id": "elemen-048",
+      "q": "Raw materials of cement:",
+      "options": [
+        "Limestone, clay, iron ore",
+        "Sand, gypsum, lime",
+        "Granite, marble",
+        "Quartz, mica"
+      ],
+      "correct": 0,
+      "explanation": "Plus gypsum at grinding stage.",
+      "tags": []
+    },
+    {
+      "id": "elemen-049",
+      "q": "First commercially successful synthetic polymer:",
+      "options": [
+        "Rayon",
+        "Nylon",
+        "Bakelite",
+        "Teflon"
+      ],
+      "correct": 1,
+      "explanation": "DuPont, 1938.",
+      "tags": []
+    },
+    {
+      "id": "elemen-050",
+      "q": "Pyrex glass is resistant to:",
+      "options": [
+        "Heat &amp; chemicals",
+        "Light",
+        "Sound",
+        "Magnetism"
+      ],
+      "correct": 0,
+      "explanation": "Borosilicate glass.",
+      "tags": []
+    },
+    {
+      "id": "elemen-051",
+      "q": "Glass is mainly made from:",
+      "options": [
+        "Sand &amp; silicates",
+        "Wood &amp; lime",
+        "Iron &amp; salt",
+        "Cement &amp; clay"
+      ],
+      "correct": 0,
+      "explanation": "Silica + soda + lime.",
+      "tags": []
+    },
+    {
+      "id": "elemen-052",
+      "q": "Which oxide gives glass an emerald-green colour?",
+      "options": [
+        "Cobalt oxide",
+        "Manganese dioxide",
+        "Chromic oxide",
+        "Cadmium sulphide"
+      ],
+      "correct": 2,
+      "explanation": "Cr₂O₃.",
+      "tags": []
+    },
+    {
+      "id": "elemen-053",
+      "q": "Blue-violet glass colour is due to:",
+      "options": [
+        "Manganese dioxide",
+        "Cobalt oxide",
+        "Iron oxide",
+        "Sulphur"
+      ],
+      "correct": 1,
+      "explanation": "CoO.",
+      "tags": []
+    },
+    {
+      "id": "elemen-054",
+      "q": "Red glass colour is due to:",
+      "options": [
+        "Gold chloride",
+        "Sulphur",
+        "Carbon",
+        "Nickel"
+      ],
+      "correct": 0,
+      "explanation": "AuCl₃.",
+      "tags": []
+    },
+    {
+      "id": "elemen-055",
+      "q": "Soaps are sodium/potassium salts of:",
+      "options": [
+        "Mineral acids",
+        "Heavier fatty acids",
+        "Carbonic acid",
+        "Nitric acid"
+      ],
+      "correct": 1,
+      "explanation": "Saponification of fats.",
+      "tags": []
+    },
+    {
+      "id": "elemen-056",
+      "q": "Detergents contain:",
+      "options": [
+        "Carbonates",
+        "Sulphonates",
+        "Nitrates",
+        "Phosphides"
+      ],
+      "correct": 1,
+      "explanation": "Linear alkylbenzene sulphonates.",
+      "tags": []
+    },
+    {
+      "id": "elemen-057",
+      "q": "Optical fibres are mainly used in:",
+      "options": [
+        "Cooking",
+        "Welding",
+        "Telecommunications",
+        "Cement making"
+      ],
+      "correct": 2,
+      "explanation": "Long-distance data transmission.",
+      "tags": []
+    },
+    {
+      "id": "elemen-058",
+      "q": "18-karat gold contains gold percentage:",
+      "options": [
+        "50%",
+        "60%",
+        "75%",
+        "100%"
+      ],
+      "correct": 2,
+      "explanation": "18/24 = 75%.",
+      "tags": []
+    },
+    {
+      "id": "elemen-059",
+      "q": "Average salinity of seawater:",
+      "options": [
+        "1.5%",
+        "3.5%",
+        "5.5%",
+        "7.5%"
+      ],
+      "correct": 1,
+      "explanation": "≈35 ppt.",
+      "tags": []
+    },
+    {
+      "id": "elemen-060",
+      "q": "In modern periodic table elements are arranged by:",
+      "options": [
+        "Atomic mass",
+        "Atomic number",
+        "Density",
+        "Electronegativity"
+      ],
+      "correct": 1,
+      "explanation": "Mendeleev → Moseley correction.",
+      "tags": []
+    },
+    {
+      "id": "elemen-061",
+      "q": "Which of these is NOT a coinage metal?",
+      "options": [
+        "Copper",
+        "Silver",
+        "Gold",
+        "Zinc"
+      ],
+      "correct": 3,
+      "explanation": "Coinage metals = Cu, Ag, Au.",
+      "tags": []
+    }
+  ]
+}
