@@ -3,5 +3,6 @@
   "icon": "💻",
   "order": 2,
   "description": "Computer fundamentals, CPU, networks, internet, AI, databases & famous scientists for PPSC, FPSC, NTS, CSS.",
-  "color": "#1e40af"
+  "color": "#1e40af",
+  "category": "one-paper"
 }

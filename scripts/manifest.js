@@ -61,6 +61,7 @@ for (const subjectId of subjectDirs) {
     order: meta.order ?? 99,
     description: meta.description || '',
     placeholder: meta.placeholder === true,
+    category: meta.category || 'one-paper',
     topic_count: topics.length,
     total_mcqs: topics.reduce((s, t) => s + t.mcq_count, 0),
     topics,
@@ -69,10 +70,35 @@ for (const subjectId of subjectDirs) {
 
 subjects.sort((a, b) => a.order - b.order);
 
+// Category taxonomy — hidden categories appear in app only when they have content
+const CATEGORIES = [
+  { id: 'one-paper',  name: 'One Paper MCQs',
+    description: 'General Knowledge, Current Affairs, Pakistan Studies, Islamic Studies and more for PPSC, FPSC, NTS, OTS, BPSC, KPPSC and competitive jobs.',
+    order: 1 },
+  { id: 'css-pms',    name: 'CSS / PMS',
+    description: 'Federal & Provincial competitive exams — compulsory + optional subjects.',
+    order: 2 },
+  { id: 'entry-tests', name: 'Entry Tests',
+    description: 'MDCAT, ECAT, NTS, GAT and university entry preparation.',
+    order: 3 },
+];
+
+const categories = CATEGORIES.map(c => {
+  const subs = subjects.filter(s => s.category === c.id && !s.placeholder);
+  return {
+    ...c,
+    subject_count: subs.length,
+    total_topics: subs.reduce((s, x) => s + x.topic_count, 0),
+    total_mcqs:   subs.reduce((s, x) => s + x.total_mcqs, 0),
+    visible: subs.length > 0, // app hides empty categories
+  };
+});
+
 const manifest = {
-  schema_version: 1,
+  schema_version: 2,
   app_min_version: '1.0.0',
   generated_at: new Date().toISOString(),
+  categories,
   subjects,
   totals: {
     subjects: subjects.length,

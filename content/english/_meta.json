@@ -4,5 +4,6 @@
   "order": 7,
   "description": "Grammar, vocabulary, synonyms, antonyms, idioms, prepositions & comprehension.",
   "color": "#be185d",
-  "placeholder": true
+  "placeholder": true,
+  "category": "one-paper"
 }

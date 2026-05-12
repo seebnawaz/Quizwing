@@ -1,7 +1,39 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "app_min_version": "1.0.0",
-  "generated_at": "2026-05-12T15:50:20.305Z",
+  "generated_at": "2026-05-12T21:23:56.250Z",
+  "categories": [
+    {
+      "id": "one-paper",
+      "name": "One Paper MCQs",
+      "description": "General Knowledge, Current Affairs, Pakistan Studies, Islamic Studies and more for PPSC, FPSC, NTS, OTS, BPSC, KPPSC and competitive jobs.",
+      "order": 1,
+      "subject_count": 4,
+      "total_topics": 61,
+      "total_mcqs": 4280,
+      "visible": true
+    },
+    {
+      "id": "css-pms",
+      "name": "CSS / PMS",
+      "description": "Federal & Provincial competitive exams — compulsory + optional subjects.",
+      "order": 2,
+      "subject_count": 0,
+      "total_topics": 0,
+      "total_mcqs": 0,
+      "visible": false
+    },
+    {
+      "id": "entry-tests",
+      "name": "Entry Tests",
+      "description": "MDCAT, ECAT, NTS, GAT and university entry preparation.",
+      "order": 3,
+      "subject_count": 0,
+      "total_topics": 0,
+      "total_mcqs": 0,
+      "visible": false
+    }
+  ],
   "subjects": [
     {
       "id": "everyday-science",
@@ -11,6 +43,7 @@
       "order": 1,
       "description": "Physics, Chemistry, Biology, Astronomy, Human Body, Diseases & Inventions for PPSC, FPSC, NTS, CSS, PMS, MDCAT.",
       "placeholder": false,
+      "category": "one-paper",
       "topic_count": 15,
       "total_mcqs": 833,
       "topics": [
@@ -159,6 +192,7 @@
       "order": 2,
       "description": "Computer fundamentals, CPU, networks, internet, AI, databases & famous scientists for PPSC, FPSC, NTS, CSS.",
       "placeholder": false,
+      "category": "one-paper",
       "topic_count": 15,
       "total_mcqs": 808,
       "topics": [
@@ -307,6 +341,7 @@
       "order": 3,
       "description": "Pakistan + International current affairs 2024–2026 — elections, conflicts, treaties, awards, sports.",
       "placeholder": false,
+      "category": "one-paper",
       "topic_count": 18,
       "total_mcqs": 1246,
       "topics": [
@@ -482,6 +517,7 @@
       "order": 4,
       "description": "World history, geography, countries & capitals, wars, empires and exploration.",
       "placeholder": false,
+      "category": "one-paper",
       "topic_count": 13,
       "total_mcqs": 1393,
       "topics": [
@@ -612,6 +648,7 @@
       "order": 5,
       "description": "Pakistan movement, Quaid-e-Azam, constitution, history & political development.",
       "placeholder": true,
+      "category": "one-paper",
       "topic_count": 0,
       "total_mcqs": 0,
       "topics": []
@@ -624,6 +661,7 @@
       "order": 6,
       "description": "Quran, Hadith, Prophet (PBUH), Caliphs, Islamic history & jurisprudence.",
       "placeholder": true,
+      "category": "one-paper",
       "topic_count": 0,
       "total_mcqs": 0,
       "topics": []
@@ -636,6 +674,7 @@
       "order": 7,
       "description": "Grammar, vocabulary, synonyms, antonyms, idioms, prepositions & comprehension.",
       "placeholder": true,
+      "category": "one-paper",
       "topic_count": 0,
       "total_mcqs": 0,
       "topics": []
@@ -648,6 +687,7 @@
       "order": 8,
       "description": "Arithmetic, algebra, geometry, percentages, ratios, averages & word problems.",
       "placeholder": true,
+      "category": "one-paper",
       "topic_count": 0,
       "total_mcqs": 0,
       "topics": []
@@ -660,6 +700,7 @@
       "order": 9,
       "description": "Physical, political & economic geography of Pakistan and the world.",
       "placeholder": true,
+      "category": "one-paper",
       "topic_count": 0,
       "total_mcqs": 0,
       "topics": []
@@ -672,6 +713,7 @@
       "order": 10,
       "description": "Urdu grammar, idioms, poets, prose, literature & sentence construction.",
       "placeholder": true,
+      "category": "one-paper",
       "topic_count": 0,
       "total_mcqs": 0,
       "topics": []
