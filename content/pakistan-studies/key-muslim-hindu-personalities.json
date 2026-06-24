@@ -1,0 +1,2403 @@
+{
+  "topic_id": "key-muslim-hindu-personalities",
+  "topic_name": "Key Muslim Hindu Personalities",
+  "subject": "pakistan-studies",
+  "version": 1,
+  "updated_at": "2026-06-24",
+  "description": "Key Muslim Hindu Personalities MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "keymus-001",
+      "q": "When was Sir Syed Ahmad Khan born?",
+      "options": [
+        "17 October 1817",
+        "17 October 1818",
+        "17 November 1817",
+        "17 November 1818"
+      ],
+      "correct": 0,
+      "explanation": "Sir Syed Ahmad Khan was born on October 17, 1817 in Delhi.",
+      "tags": []
+    },
+    {
+      "id": "keymus-002",
+      "q": "When did Sir Syed Ahmad Khan die?",
+      "options": [
+        "02 September 1898",
+        "27 March 1898",
+        "11 January 1898",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Sir Syed Ahmad Khan passed away on March 27, 1898 at Aligarh.",
+      "tags": []
+    },
+    {
+      "id": "keymus-003",
+      "q": "At the time of 1857 War of Independence, Sir Syed Ahmad Khan was Sadar Amin of?",
+      "options": [
+        "Aligarh",
+        "Delhi",
+        "Bijnor",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Sir Syed was serving as Sadar Amin (Sub-Judge) in Bijnor during the 1857 uprising.",
+      "tags": []
+    },
+    {
+      "id": "keymus-004",
+      "q": "Sir Syed advised Muslims to stay away from Congress because:",
+      "options": [
+        "Muslims needed time to prepare for political struggle",
+        "It was a Hindu-dominated body",
+        "Its demands were against Muslim interests",
+        "All these factors"
+      ],
+      "correct": 3,
+      "explanation": "Sir Syed urged Muslims to focus on education and avoid Congress, which he saw as Hindu-dominated and against Muslim interests.",
+      "tags": []
+    },
+    {
+      "id": "keymus-005",
+      "q": "Aligarh Movement was started by?",
+      "options": [
+        "Sir Syed Ahmad Khan",
+        "Syed Amir Ali",
+        "Altaf Hussain Hali",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The Aligarh Movement for modern education among Muslims was founded by Sir Syed Ahmad Khan.",
+      "tags": []
+    },
+    {
+      "id": "keymus-006",
+      "q": "Who established the Scientific Society in 1864?",
+      "options": [
+        "Sir Syed Ahmad Khan",
+        "Shibli Naumani",
+        "Allama Iqbal",
+        "Muhammad Ali Jinnah"
+      ],
+      "correct": 0,
+      "explanation": "Sir Syed founded the Scientific Society in 1864 to translate English scientific works into Urdu.",
+      "tags": []
+    },
+    {
+      "id": "keymus-007",
+      "q": "When was the Risala Tehzeeb-ul-Ikhlaq published?",
+      "options": [
+        "1850",
+        "1860",
+        "1870",
+        "1880"
+      ],
+      "correct": 2,
+      "explanation": "The reformist journal Tehzeeb-ul-Ikhlaq was first published by Sir Syed in 1870.",
+      "tags": []
+    },
+    {
+      "id": "keymus-008",
+      "q": "Who was appointed first Secretary of the Board of Trustees of Aligarh College?",
+      "options": [
+        "Hakeem Ajmal Khan",
+        "Sir Syed Ahmad Khan",
+        "Nawab Viqar-ul-Mulk",
+        "Raja Ghazanfar Ali Khan"
+      ],
+      "correct": 1,
+      "explanation": "Sir Syed himself served as the first Secretary of the MAO College Board of Trustees.",
+      "tags": []
+    },
+    {
+      "id": "keymus-009",
+      "q": "MAO College was founded by?",
+      "options": [
+        "Hakeem Ajmal",
+        "Syed Ahmad Shaheed",
+        "Sir Agha Khan",
+        "Sir Syed Ahmad Khan"
+      ],
+      "correct": 3,
+      "explanation": "The Muhammadan Anglo-Oriental (MAO) College at Aligarh was founded in 1877 by Sir Syed Ahmad Khan.",
+      "tags": []
+    },
+    {
+      "id": "keymus-010",
+      "q": "After independence, MAO College was shifted to which institution in Pakistan?",
+      "options": [
+        "King Edward Medical College Lahore",
+        "Government College Lahore",
+        "Sanatan Dharma College Lahore",
+        "Punjab University Lahore"
+      ],
+      "correct": 2,
+      "explanation": "The MAO heritage continued at Islamia College Lahore, established at the former Sanatan Dharma College Lahore premises.",
+      "tags": []
+    },
+    {
+      "id": "keymus-011",
+      "q": "MAO College was established in 1877 to:",
+      "options": [
+        "Mobilize Muslims politically",
+        "Activate students for protest",
+        "Give Muslims access to modern knowledge",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The primary goal of MAO College was to blend Western education with Islamic teachings for Muslim advancement.",
+      "tags": []
+    },
+    {
+      "id": "keymus-012",
+      "q": "In 1875 the Muhammadan Anglo-Oriental School was founded by:",
+      "options": [
+        "Syed Amir Ali",
+        "Lord Lytton",
+        "Sir Syed Ahmad Khan",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The MAO School (precursor to the college) was founded in 1875 at Aligarh by Sir Syed.",
+      "tags": []
+    },
+    {
+      "id": "keymus-013",
+      "q": "Muhammadan Educational Conference was established by Sir Syed Ahmad Khan in:",
+      "options": [
+        "1863",
+        "1866",
+        "1886",
+        "1898"
+      ],
+      "correct": 2,
+      "explanation": "The All India Muhammadan Educational Conference was established in 1886.",
+      "tags": []
+    },
+    {
+      "id": "keymus-014",
+      "q": "سرسید نے دو قومی نظریے کی بنیاد کیوں رکھی تھی ؟",
+      "options": [
+        "انگریزوں کے مسلمانوں کے خلاف کاروائیوں سے",
+        "الگ وطن کے حصول کے لئے",
+        "ہندوؤں کے متعصبانہ رویے سے",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 2,
+      "explanation": "Sir Syed recognised the Hindu-Muslim divide, particularly after the Urdu-Hindi controversy (1867) and biased Hindu attitudes, laying the foundation for the Two-Nation Theory.",
+      "tags": []
+    },
+    {
+      "id": "keymus-015",
+      "q": "When did Sir Syed Ahmad Khan establish the Indian Patriotic Association?",
+      "options": [
+        "1880",
+        "1888",
+        "1898",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "The Indian Patriotic Association was established by Sir Syed in 1888 to counter Congress propaganda.",
+      "tags": []
+    },
+    {
+      "id": "keymus-016",
+      "q": "Waqar-ul-Mulk was the ___ of the Aligarh Institute:",
+      "options": [
+        "President",
+        "Secretary",
+        "Principal",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Nawab Waqar-ul-Mulk served as Secretary of the MAO College Board of Trustees after Sir Syed&#x27;s death.",
+      "tags": []
+    },
+    {
+      "id": "keymus-017",
+      "q": "Nawab Waqar-ul-Mulk became Secretary of the Board of Trustees Aligarh in the year:",
+      "options": [
+        "1906",
+        "1908",
+        "1907",
+        "1909"
+      ],
+      "correct": 2,
+      "explanation": "Nawab Waqar-ul-Mulk was appointed Secretary in 1907.",
+      "tags": []
+    },
+    {
+      "id": "keymus-018",
+      "q": "'Loyal Muhammadans of India' was written by?",
+      "options": [
+        "Allama Iqbal",
+        "Sir Syed Ahmad Khan",
+        "Maulana Abul Kalam Azad",
+        "Sir Agha Khan III"
+      ],
+      "correct": 1,
+      "explanation": "&#x27;The Loyal Muhammadans of India&#x27; was written by Sir Syed to counter negative British perceptions of Muslims after 1857.",
+      "tags": []
+    },
+    {
+      "id": "keymus-019",
+      "q": "Who wrote Asar-us-Sanadid?",
+      "options": [
+        "Mirza Ghalib",
+        "Sir Syed Ahmad Khan",
+        "Maulana Abul Kalam Azad",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Asar-us-Sanadid (Monuments of the Great) was written by Sir Syed Ahmad Khan.",
+      "tags": []
+    },
+    {
+      "id": "keymus-020",
+      "q": "Asar-us-Sanadid is a book about?",
+      "options": [
+        "Architecture",
+        "Books",
+        "Personalities",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The book describes the ancient buildings and topography of Delhi (architectural heritage).",
+      "tags": []
+    },
+    {
+      "id": "keymus-021",
+      "q": "The book 'Khutbat-e-Ahmadia' is written by:",
+      "options": [
+        "Sir Syed Ahmad Khan",
+        "Shah Wali Ullah",
+        "Altaf Hussain Hali",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Khutbat-e-Ahmadiya was written by Sir Syed in response to William Muir&#x27;s biography of the Prophet (PBUH).",
+      "tags": []
+    },
+    {
+      "id": "keymus-022",
+      "q": "A pamphlet written by Sir Syed to describe the similarities between Muslims and Christians:",
+      "options": [
+        "Risala Asbab-e-Baghawat-e-Hind",
+        "Sarkashi Bijnor",
+        "Tabyin-ul-Kalam",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Sir Syed wrote &#x27;Tabyin-ul-Kalam&#x27; to establish common ground between Islam and Christianity.",
+      "tags": []
+    },
+    {
+      "id": "keymus-023",
+      "q": "Sir Syed Ahmad Khan is buried in:",
+      "options": [
+        "Aligarh, UP, India",
+        "Delhi, India",
+        "Karachi, Pakistan",
+        "London, UK"
+      ],
+      "correct": 0,
+      "explanation": "Sir Syed is buried near the mosque on the Aligarh Muslim University campus.",
+      "tags": []
+    },
+    {
+      "id": "keymus-024",
+      "q": "'Hayat-e-Javed' by Altaf Hussain Hali is on the life of:",
+      "options": [
+        "Sir Syed Ahmad Khan",
+        "Ghalib",
+        "Saadi Shirazi",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "&#x27;Hayat-e-Javed&#x27; is the famous biography of Sir Syed Ahmad Khan written by Altaf Hussain Hali.",
+      "tags": []
+    },
+    {
+      "id": "keymus-025",
+      "q": "Mirza Ghalib was a contemporary of:",
+      "options": [
+        "Sir Syed Ahmad Khan",
+        "Allama Iqbal",
+        "Aurangzeb Alamgir",
+        "Shah Waliullah"
+      ],
+      "correct": 0,
+      "explanation": "Mirza Ghalib and Sir Syed Ahmad Khan lived in Delhi at the same time.",
+      "tags": []
+    },
+    {
+      "id": "keymus-026",
+      "q": "What was Sir Syed Ahmad Khan's real name?",
+      "options": [
+        "Akbar Bin Azam",
+        "Syed Ahmad",
+        "Syed Bin Ahmad",
+        "Aziz Bin Syed"
+      ],
+      "correct": 1,
+      "explanation": "Sir Syed&#x27;s birth name was simply Syed Ahmad; &#x27;Khan&#x27; was a family suffix added later.",
+      "tags": []
+    },
+    {
+      "id": "keymus-027",
+      "q": "What was the name of Sir Syed Ahmad Khan's mother?",
+      "options": [
+        "Aziz-un-Nisa",
+        "Fatima Begum",
+        "Aisha Sultana",
+        "Zubaida Bibi"
+      ],
+      "correct": 0,
+      "explanation": "Sir Syed Ahmad Khan&#x27;s mother was Aziz-un-Nisa Begum.",
+      "tags": []
+    },
+    {
+      "id": "keymus-028",
+      "q": "Where did Sir Syed Ahmad Khan's father hold a special position?",
+      "options": [
+        "Akbar Shah II&#x27;s court",
+        "Bahadur Shah Zafar&#x27;s court",
+        "Aurangzeb&#x27;s court",
+        "Shah Alam II&#x27;s court"
+      ],
+      "correct": 0,
+      "explanation": "Sir Syed&#x27;s father held a position in the court of Mughal Emperor Akbar Shah II.",
+      "tags": []
+    },
+    {
+      "id": "keymus-029",
+      "q": "In which year did Sir Syed Ahmad Khan join the East India Company?",
+      "options": [
+        "1835",
+        "1839",
+        "1841",
+        "1855"
+      ],
+      "correct": 1,
+      "explanation": "Sir Syed joined the judicial service of the East India Company in 1839.",
+      "tags": []
+    },
+    {
+      "id": "keymus-030",
+      "q": "When was Sir Syed Ahmad Khan promoted to the position of Munshi?",
+      "options": [
+        "1839",
+        "1841",
+        "1843",
+        "1846"
+      ],
+      "correct": 1,
+      "explanation": "He was promoted to the position of Munshi in 1841.",
+      "tags": []
+    },
+    {
+      "id": "keymus-031",
+      "q": "Where was Sir Syed Ahmad Khan transferred as Deputy Judge in 1846?",
+      "options": [
+        "Muradabad",
+        "Aligarh",
+        "Delhi",
+        "Bijnor"
+      ],
+      "correct": 2,
+      "explanation": "Sir Syed was transferred to Delhi as Deputy Judge in 1846.",
+      "tags": []
+    },
+    {
+      "id": "keymus-032",
+      "q": "During which year was Sir Syed appointed Assistant Collector in Bijnor?",
+      "options": [
+        "1846",
+        "1855",
+        "1857",
+        "1858"
+      ],
+      "correct": 1,
+      "explanation": "He was appointed Assistant Collector in Bijnor in 1855.",
+      "tags": []
+    },
+    {
+      "id": "keymus-033",
+      "q": "During which historical event was Sir Syed Ahmad Khan in Bijnor?",
+      "options": [
+        "Partition of Bengal",
+        "War of Independence 1857",
+        "Establishment of Aligarh Movement",
+        "Quit India Movement"
+      ],
+      "correct": 1,
+      "explanation": "Sir Syed was posted at Bijnor during the War of Independence (1857).",
+      "tags": []
+    },
+    {
+      "id": "keymus-034",
+      "q": "Where was Sir Syed transferred after the 1857 War of Independence?",
+      "options": [
+        "Bijnor",
+        "Delhi",
+        "Muradabad",
+        "Lucknow"
+      ],
+      "correct": 2,
+      "explanation": "After 1857 Sir Syed was transferred to Muradabad.",
+      "tags": []
+    },
+    {
+      "id": "keymus-035",
+      "q": "When did Sir Syed Ahmad Khan establish Gulshan School in Muradabad?",
+      "options": [
+        "1857",
+        "1858",
+        "1859",
+        "1860"
+      ],
+      "correct": 2,
+      "explanation": "Gulshan School in Muradabad was founded in 1859.",
+      "tags": []
+    },
+    {
+      "id": "keymus-036",
+      "q": "In which year was Victoria School founded in Ghazipur by Sir Syed Ahmad Khan?",
+      "options": [
+        "1860",
+        "1863",
+        "1865",
+        "1868"
+      ],
+      "correct": 1,
+      "explanation": "Victoria School in Ghazipur was founded in 1863.",
+      "tags": []
+    },
+    {
+      "id": "keymus-037",
+      "q": "What was the purpose of the Scientific Society founded in 1864?",
+      "options": [
+        "Publishing newspapers",
+        "Translating English books into local languages",
+        "Establishing universities",
+        "Promoting agriculture"
+      ],
+      "correct": 1,
+      "explanation": "The Society&#x27;s main goal was to translate scientific English works into Urdu.",
+      "tags": []
+    },
+    {
+      "id": "keymus-038",
+      "q": "Who inaugurated MAO College in 1877?",
+      "options": [
+        "Lord Ripon",
+        "Lord Lytton",
+        "Lord Curzon",
+        "Lord Wellesley"
+      ],
+      "correct": 1,
+      "explanation": "The foundation stone of MAO College was laid by Viceroy Lord Lytton.",
+      "tags": []
+    },
+    {
+      "id": "keymus-039",
+      "q": "Who was the first principal of MAO College?",
+      "options": [
+        "Theodore Beck",
+        "William Hunter",
+        "Allan Octavian Hume",
+        "John Lawrence"
+      ],
+      "correct": 0,
+      "explanation": "The first principal of MAO College was Theodore Beck.",
+      "tags": []
+    },
+    {
+      "id": "keymus-040",
+      "q": "In which year did Sir Syed Ahmad Khan retire as Chief Judge?",
+      "options": [
+        "1877",
+        "1878",
+        "1880",
+        "1882"
+      ],
+      "correct": 1,
+      "explanation": "Sir Syed retired from judicial service in 1878.",
+      "tags": []
+    },
+    {
+      "id": "keymus-041",
+      "q": "When did Sir Syed Ahmad Khan become a member of the Imperial Legislative Council?",
+      "options": [
+        "1875",
+        "1877",
+        "1878",
+        "1880"
+      ],
+      "correct": 2,
+      "explanation": "Sir Syed was nominated to the Imperial Legislative Council in 1878.",
+      "tags": []
+    },
+    {
+      "id": "keymus-042",
+      "q": "In which year did Sir Syed visit London with his son?",
+      "options": [
+        "1867",
+        "1869",
+        "1872",
+        "1875"
+      ],
+      "correct": 1,
+      "explanation": "He visited London for 17 months starting in 1869.",
+      "tags": []
+    },
+    {
+      "id": "keymus-043",
+      "q": "What honour was conferred upon Sir Syed Ahmad Khan in London?",
+      "options": [
+        "OBE",
+        "Knighthood",
+        "Nobel Prize",
+        "Honorary Doctorate"
+      ],
+      "correct": 1,
+      "explanation": "Sir Syed was conferred Knight Commander of the Star of India (KCSI), i.e. Knighthood.",
+      "tags": []
+    },
+    {
+      "id": "keymus-044",
+      "q": "Which book did Sir Syed Ahmad Khan write in 1840?",
+      "options": [
+        "Asar-us-Sanadid",
+        "Jam-e-Jam",
+        "Khutbat-e-Ahmadiya",
+        "Loyal Muhammadans of India"
+      ],
+      "correct": 1,
+      "explanation": "Jam-e-Jam (1840) was among Sir Syed&#x27;s earliest works.",
+      "tags": []
+    },
+    {
+      "id": "keymus-045",
+      "q": "What period does the book 'Jam-e-Jam' cover?",
+      "options": [
+        "Akbar to Bahadur Shah Zafar",
+        "Taimur to Akbar II",
+        "Muhammad bin Qasim to Aurangzeb",
+        "Aurangzeb to British Raj"
+      ],
+      "correct": 1,
+      "explanation": "Jam-e-Jam covers the Mughal period from Taimur to the last Mughal king Akbar II.",
+      "tags": []
+    },
+    {
+      "id": "keymus-046",
+      "q": "Which book by Sir Syed is a response to William Muir's objections?",
+      "options": [
+        "Asar-us-Sanadid",
+        "Khutbat-e-Ahmadiya",
+        "Loyal Muhammadans of India",
+        "Risala Asbab-e-Baghawat-e-Hind"
+      ],
+      "correct": 1,
+      "explanation": "Khutbat-e-Ahmadiya was Sir Syed&#x27;s response to Muir&#x27;s controversial biography of the Prophet (PBUH).",
+      "tags": []
+    },
+    {
+      "id": "keymus-047",
+      "q": "In which year was 'Risala Asbab-e-Baghawat-e-Hind' written?",
+      "options": [
+        "1857",
+        "1858",
+        "1859",
+        "1860"
+      ],
+      "correct": 2,
+      "explanation": "Sir Syed&#x27;s pamphlet detailing causes of the 1857 Revolt was written in 1859.",
+      "tags": []
+    },
+    {
+      "id": "keymus-048",
+      "q": "The main focus of 'Loyal Muhammadans of India' is:",
+      "options": [
+        "Indian Civil Services",
+        "Muslim contributions to freedom struggle",
+        "Explaining Muslims&#x27; loyalty to the British",
+        "Criticism of British policies"
+      ],
+      "correct": 2,
+      "explanation": "The book aimed to prove that Muslims were loyal subjects of the British Crown after 1857.",
+      "tags": []
+    },
+    {
+      "id": "keymus-049",
+      "q": "When was the first edition of 'Tehzeeb-ul-Akhlaq' published?",
+      "options": [
+        "1867",
+        "1870",
+        "1875",
+        "1880"
+      ],
+      "correct": 1,
+      "explanation": "Tehzeeb-ul-Akhlaq was first published in 1870.",
+      "tags": []
+    },
+    {
+      "id": "keymus-050",
+      "q": "In which year was 'Asar-us-Sanadid' first published?",
+      "options": [
+        "1840",
+        "1847",
+        "1854",
+        "1859"
+      ],
+      "correct": 1,
+      "explanation": "Asar-us-Sanadid was published in 1847.",
+      "tags": []
+    },
+    {
+      "id": "keymus-051",
+      "q": "What is described in the book 'Asar-us-Sanadid'?",
+      "options": [
+        "History of Mughal Empire",
+        "Ancient buildings of Delhi",
+        "Muslim leaders of India",
+        "Causes of 1857 rebellion"
+      ],
+      "correct": 1,
+      "explanation": "The book is a detailed account of the ancient monuments and ruins of Delhi.",
+      "tags": []
+    },
+    {
+      "id": "keymus-052",
+      "q": "When was the foundation of the political wing of MAO College laid?",
+      "options": [
+        "1876",
+        "1886",
+        "1896",
+        "1906"
+      ],
+      "correct": 1,
+      "explanation": "The Indian Patriotic Association (political precursor) was established in 1886.",
+      "tags": []
+    },
+    {
+      "id": "keymus-053",
+      "q": "Where was the political wing of MAO College established?",
+      "options": [
+        "Delhi",
+        "Aligarh",
+        "Lucknow",
+        "Lahore"
+      ],
+      "correct": 1,
+      "explanation": "Political efforts centred around Aligarh, the site of MAO College.",
+      "tags": []
+    },
+    {
+      "id": "keymus-054",
+      "q": "Who became Secretary of the Aligarh organization after Sir Syed's death?",
+      "options": [
+        "Sir Agha Khan",
+        "Nawab Mohsin-ul-Mulk",
+        "Nawab Waqar-ul-Mulk",
+        "Shibli Nomani"
+      ],
+      "correct": 2,
+      "explanation": "Nawab Waqar-ul-Mulk succeeded Mohsin-ul-Mulk as Secretary of the MAO College Board of Trustees.",
+      "tags": []
+    },
+    {
+      "id": "keymus-055",
+      "q": "Quaid-e-Azam was born in:",
+      "options": [
+        "1876",
+        "1877",
+        "1886",
+        "1864"
+      ],
+      "correct": 0,
+      "explanation": "Quaid-e-Azam Muhammad Ali Jinnah was born on December 25, 1876 in Karachi.",
+      "tags": []
+    },
+    {
+      "id": "keymus-056",
+      "q": "Wazir Mansion is the birthplace of which person?",
+      "options": [
+        "Sir Syed Ahmad",
+        "Quaid-e-Azam",
+        "Allama Iqbal",
+        "G.I. Khan"
+      ],
+      "correct": 1,
+      "explanation": "Wazir Mansion in Karachi is the birthplace of Muhammad Ali Jinnah.",
+      "tags": []
+    },
+    {
+      "id": "keymus-057",
+      "q": "Residency of Quaid-e-Azam in Quetta, where he stayed in his last days, was built in:",
+      "options": [
+        "1881",
+        "1892",
+        "1883",
+        "1884"
+      ],
+      "correct": 1,
+      "explanation": "Ziarat Residency (Quetta) was built in 1892.",
+      "tags": []
+    },
+    {
+      "id": "keymus-058",
+      "q": "Quaid-e-Azam enrolled in which school?",
+      "options": [
+        "Sindh Jamia High School",
+        "Darul-Uloom High School",
+        "Sindh Madrasa-tul-Islam",
+        "Mission Public School Karachi"
+      ],
+      "correct": 2,
+      "explanation": "Jinnah enrolled at Sindh Madrasa-tul-Islam in Karachi.",
+      "tags": []
+    },
+    {
+      "id": "keymus-059",
+      "q": "When was Quaid-e-Azam first appointed as Third Presidency Magistrate in Bombay?",
+      "options": [
+        "1900",
+        "1902",
+        "1903",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Jinnah was appointed Third Presidency Magistrate in Bombay in 1900.",
+      "tags": []
+    },
+    {
+      "id": "keymus-060",
+      "q": "In which year did Quaid-e-Azam join the Indian National Congress?",
+      "options": [
+        "1916",
+        "1906",
+        "1913",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Jinnah joined the Indian National Congress in 1906.",
+      "tags": []
+    },
+    {
+      "id": "keymus-061",
+      "q": "When did Quaid-e-Azam join the Muslim League?",
+      "options": [
+        "10-Oct-1913",
+        "13-Nov-1913",
+        "15-Dec-1913",
+        "25-Dec-1913"
+      ],
+      "correct": 0,
+      "explanation": "Jinnah formally joined the All India Muslim League on 10 October 1913.",
+      "tags": []
+    },
+    {
+      "id": "keymus-062",
+      "q": "Who was, at one time, called the 'Ambassador of Hindu-Muslim Unity'?",
+      "options": [
+        "Quaid-e-Azam",
+        "Motilal Nehru",
+        "M.K. Gandhi",
+        "Abul Kalam Azad"
+      ],
+      "correct": 0,
+      "explanation": "Jinnah was famously given this title during his early political career.",
+      "tags": []
+    },
+    {
+      "id": "keymus-063",
+      "q": "The title of 'Ambassador of Hindu-Muslim Unity' was given to Quaid-e-Azam by:",
+      "options": [
+        "Gandhi",
+        "Vijaya Lakshmi Pandit",
+        "Sarojini Naidu",
+        "Allama Iqbal"
+      ],
+      "correct": 2,
+      "explanation": "The title was conferred by the poet and political activist Sarojini Naidu.",
+      "tags": []
+    },
+    {
+      "id": "keymus-064",
+      "q": "Quaid-e-Azam resigned from the Imperial Legislative Council due to:",
+      "options": [
+        "Simon Commission",
+        "Rowlatt Act",
+        "Lucknow Pact",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Jinnah resigned from the Imperial Legislative Council in 1919 in protest against the Rowlatt Act.",
+      "tags": []
+    },
+    {
+      "id": "keymus-065",
+      "q": "Quaid-e-Azam left the Congress in:",
+      "options": [
+        "1913",
+        "1920",
+        "1906",
+        "1919"
+      ],
+      "correct": 1,
+      "explanation": "Jinnah left Congress in 1920 over differences with Gandhi&#x27;s Non-Cooperation Movement.",
+      "tags": []
+    },
+    {
+      "id": "keymus-066",
+      "q": "Quaid-e-Azam left the Indian National Congress due to which movement?",
+      "options": [
+        "Civil Disobedience Movement",
+        "Quit India Movement",
+        "Non-Cooperation Movement",
+        "Khilafat"
+      ],
+      "correct": 2,
+      "explanation": "He disagreed with Gandhi&#x27;s Non-Cooperation Movement tactics.",
+      "tags": []
+    },
+    {
+      "id": "keymus-067",
+      "q": "What was the duration of overlapping membership of Quaid-e-Azam in both Muslim League and Congress?",
+      "options": [
+        "5 years",
+        "4 years",
+        "11 years",
+        "7 years"
+      ],
+      "correct": 3,
+      "explanation": "Jinnah was in Congress (1906-1920) and the League (1913-1947), giving an overlap of about 7 years (1913-1920).",
+      "tags": []
+    },
+    {
+      "id": "keymus-068",
+      "q": "Quaid-e-Azam's 14 Points were a response to:",
+      "options": [
+        "Lucknow Pact",
+        "Simon Commission",
+        "Nehru Report",
+        "Khilafat Movement"
+      ],
+      "correct": 2,
+      "explanation": "The Fourteen Points (1929) were formulated as a counter-proposal to the 1928 Nehru Report.",
+      "tags": []
+    },
+    {
+      "id": "keymus-069",
+      "q": "What is the name of Quaid-e-Azam's daughter?",
+      "options": [
+        "Zohra",
+        "Dina",
+        "Fatima",
+        "Noor"
+      ],
+      "correct": 1,
+      "explanation": "Jinnah&#x27;s only daughter was Dina Jinnah (Wadia).",
+      "tags": []
+    },
+    {
+      "id": "keymus-070",
+      "q": "Quaid-e-Azam addressed the Constituent Assembly for the first time on:",
+      "options": [
+        "11th August 1947",
+        "14th August 1947",
+        "12th October 1947",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Jinnah delivered his famous address on 11 August 1947 on equality and religious freedom.",
+      "tags": []
+    },
+    {
+      "id": "keymus-071",
+      "q": "Quaid-e-Azam inaugurated on 1st July 1948:",
+      "options": [
+        "Radio Pakistan Karachi Station",
+        "State Bank of Pakistan",
+        "Aga Khan Foundation",
+        "Valika Textile Mill"
+      ],
+      "correct": 1,
+      "explanation": "Jinnah inaugurated the State Bank of Pakistan on 1 July 1948.",
+      "tags": []
+    },
+    {
+      "id": "keymus-072",
+      "q": "Qazi Muhammad Isa was a close friend of:",
+      "options": [
+        "Abdullah Haroon",
+        "Quaid-e-Azam",
+        "Allama Iqbal",
+        "Maulana Zafar Ali Khan"
+      ],
+      "correct": 1,
+      "explanation": "Qazi Muhammad Isa was a close associate of Jinnah, especially in Balochistan politics.",
+      "tags": []
+    },
+    {
+      "id": "keymus-073",
+      "q": "Who said: 'The Instrument of Accession to India is illegal and fraudulent'?",
+      "options": [
+        "Quaid-e-Azam",
+        "Liaqat Ali Khan",
+        "Raja Ghazanfar Ali",
+        "Abdur Rab Nishtar"
+      ],
+      "correct": 0,
+      "explanation": "The statement on the Kashmir Instrument of Accession is attributed to Jinnah.",
+      "tags": []
+    },
+    {
+      "id": "keymus-074",
+      "q": "Why did Quaid-e-Azam say Kashmir is a lifeline of Pakistan?",
+      "options": [
+        "It has huge mineral reserves",
+        "It is the most beautiful place",
+        "All five major rivers of Pakistan originate from Kashmir",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Jinnah called Kashmir Pakistan&#x27;s &#x27;lifeline&#x27; because its rivers flow into Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "keymus-075",
+      "q": "At the time of his death, what was the age of Quaid-e-Azam?",
+      "options": [
+        "More than 71 years",
+        "More than 72 years",
+        "More than 73 years",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Quaid-e-Azam was 71 years old at his death in September 1948 (born December 1876).",
+      "tags": []
+    },
+    {
+      "id": "keymus-076",
+      "q": "Where is Quaid-e-Azam's tomb situated?",
+      "options": [
+        "Karachi",
+        "Lahore",
+        "Multan",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Quaid-e-Azam&#x27;s mausoleum (Mazar-e-Quaid) is located in Karachi.",
+      "tags": []
+    },
+    {
+      "id": "keymus-077",
+      "q": "The foundation stone of Quaid-e-Azam's Mausoleum was laid by Field Marshal Ayub Khan in:",
+      "options": [
+        "June 1960",
+        "July 1960",
+        "Aug 1960",
+        "Nov 1960"
+      ],
+      "correct": 1,
+      "explanation": "Field Marshal Ayub Khan laid the foundation stone in July 1960.",
+      "tags": []
+    },
+    {
+      "id": "keymus-078",
+      "q": "Who designed the mausoleum of Quaid-e-Azam?",
+      "options": [
+        "Yahya Bakhtiar",
+        "Yahya Merchant",
+        "Irfanullah Khan Marwat",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "The design was developed by Indian architect Yahya Merchant.",
+      "tags": []
+    },
+    {
+      "id": "keymus-079",
+      "q": "Stanley Wolpert is famous for his biography of:",
+      "options": [
+        "Churchill",
+        "Jinnah",
+        "Kennedy",
+        "Bhutto"
+      ],
+      "correct": 1,
+      "explanation": "Stanley Wolpert is famous for his critical biography, &#x27;Jinnah of Pakistan&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "keymus-080",
+      "q": "Who wrote the official biography of Quaid-e-Azam?",
+      "options": [
+        "Stanley Wolpert",
+        "Hector Bolitho",
+        "Sharif Mujahid",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Hector Bolitho authored the official biography &#x27;Jinnah: Creator of Pakistan&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "keymus-081",
+      "q": "Which tree did Quaid-e-Azam like the most?",
+      "options": [
+        "Chinar",
+        "Sanober (Pine)",
+        "Rubber",
+        "Date Palm"
+      ],
+      "correct": 1,
+      "explanation": "The Sanober (Pine) tree is associated with Jinnah&#x27;s preference at Ziarat Residency.",
+      "tags": []
+    },
+    {
+      "id": "keymus-082",
+      "q": "The Area Study Centre at Quaid-e-Azam University is about:",
+      "options": [
+        "Latin America",
+        "Central Asia",
+        "Europe",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The Area Study Centre at Quaid-e-Azam University focuses on Latin America.",
+      "tags": []
+    },
+    {
+      "id": "keymus-083",
+      "q": "Quaid-e-Azam's Mausoleum is an impressive landmark of:",
+      "options": [
+        "Lahore",
+        "Multan",
+        "Kasur",
+        "Karachi"
+      ],
+      "correct": 3,
+      "explanation": "Mazar-e-Quaid is located in Karachi.",
+      "tags": []
+    },
+    {
+      "id": "keymus-084",
+      "q": "Quaid-e-Azam's personal letters are preserved at:",
+      "options": [
+        "National Library Islamabad",
+        "National Documentation Wing",
+        "National Archives Islamabad",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Jinnah&#x27;s private papers are housed in the National Archives of Pakistan, Islamabad.",
+      "tags": []
+    },
+    {
+      "id": "keymus-085",
+      "q": "Who is known as 'The Father of the Nation'?",
+      "options": [
+        "Allama Iqbal",
+        "Sir Agha Khan",
+        "Quaid-e-Azam",
+        "Salimullah Khan"
+      ],
+      "correct": 2,
+      "explanation": "Quaid-e-Azam Muhammad Ali Jinnah is the Father of the Nation of Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "keymus-086",
+      "q": "Mother language of Quaid-e-Azam was?",
+      "options": [
+        "Gujarati",
+        "Sindhi",
+        "Marathi",
+        "Hindi"
+      ],
+      "correct": 0,
+      "explanation": "Jinnah&#x27;s mother tongue was Gujarati.",
+      "tags": []
+    },
+    {
+      "id": "keymus-087",
+      "q": "Who was Muhammad Ali Jinnah's first wife?",
+      "options": [
+        "Rattan Bai",
+        "Fatima Bai",
+        "Emi Bai",
+        "Aisha Bai"
+      ],
+      "correct": 2,
+      "explanation": "Jinnah&#x27;s first wife, married in his youth, was Emibai.",
+      "tags": []
+    },
+    {
+      "id": "keymus-088",
+      "q": "When did Jinnah go to London for legal studies?",
+      "options": [
+        "1891",
+        "1892",
+        "1893",
+        "1894"
+      ],
+      "correct": 1,
+      "explanation": "Jinnah left for London in 1892 to study law.",
+      "tags": []
+    },
+    {
+      "id": "keymus-089",
+      "q": "Which institution did Jinnah join in London to study law?",
+      "options": [
+        "Gray&#x27;s Inn",
+        "Inner Temple",
+        "Lincoln&#x27;s Inn",
+        "Middle Temple"
+      ],
+      "correct": 2,
+      "explanation": "Jinnah enrolled at Lincoln&#x27;s Inn, London.",
+      "tags": []
+    },
+    {
+      "id": "keymus-090",
+      "q": "When did Muhammad Ali Jinnah resign from the Imperial Legislative Council?",
+      "options": [
+        "1917",
+        "1918",
+        "1919",
+        "1920"
+      ],
+      "correct": 2,
+      "explanation": "Jinnah resigned in 1919 in protest against the Rowlatt Act.",
+      "tags": []
+    },
+    {
+      "id": "keymus-091",
+      "q": "In which year did Jinnah return permanently from London and become Muslim League's permanent president?",
+      "options": [
+        "1932",
+        "1933",
+        "1934",
+        "1935"
+      ],
+      "correct": 2,
+      "explanation": "Jinnah returned permanently to India from London in 1934 to lead the Muslim League.",
+      "tags": []
+    },
+    {
+      "id": "keymus-092",
+      "q": "What significant event occurred on 16th August 1946?",
+      "options": [
+        "Direct Action Day",
+        "Quit India Movement",
+        "Partition Plan",
+        "Lahore Resolution"
+      ],
+      "correct": 0,
+      "explanation": "The Muslim League observed Direct Action Day on 16 August 1946.",
+      "tags": []
+    },
+    {
+      "id": "keymus-093",
+      "q": "How many times did Quaid-e-Azam visit Sarhad (NWFP) province?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct": 2,
+      "explanation": "Jinnah visited NWFP (Sarhad) three times to mobilise support for Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "keymus-094",
+      "q": "Who first gave Muhammad Ali Jinnah the title of 'Quaid-e-Azam'?",
+      "options": [
+        "Allama Iqbal",
+        "Pir Mazhar-ul-Haq",
+        "Sir Syed Ahmad Khan",
+        "Nawab Viqar-ul-Mulk"
+      ],
+      "correct": 1,
+      "explanation": "The title is initially attributed to Mazhar-ul-Haq.",
+      "tags": []
+    },
+    {
+      "id": "keymus-095",
+      "q": "In which year was Muhammad Ali Jinnah given the title of 'Quaid-e-Azam'?",
+      "options": [
+        "1919",
+        "1925",
+        "1930",
+        "1938"
+      ],
+      "correct": 3,
+      "explanation": "The title gained widespread currency after the Sindh Muslim League resolution in 1938.",
+      "tags": []
+    },
+    {
+      "id": "keymus-096",
+      "q": "Who raised the slogan 'Quaid-e-Azam Zindabad' for the first time?",
+      "options": [
+        "Liaquat Ali Khan",
+        "Mian Ferozuddin",
+        "Sir Syed Ahmad Khan",
+        "Nawab Waqar-ul-Mulk"
+      ],
+      "correct": 1,
+      "explanation": "The slogan was coined by Mian Ferozuddin Ahmad.",
+      "tags": []
+    },
+    {
+      "id": "keymus-097",
+      "q": "In which year was 'Quaid-e-Azam Zindabad' first raised?",
+      "options": [
+        "1940",
+        "1945",
+        "1947",
+        "1950"
+      ],
+      "correct": 2,
+      "explanation": "The slogan became popular during the independence struggle in 1947.",
+      "tags": []
+    },
+    {
+      "id": "keymus-098",
+      "q": "What illness did Muhammad Ali Jinnah suffer from in his final days?",
+      "options": [
+        "Malaria",
+        "Tuberculosis (T.B.)",
+        "Cancer",
+        "Pneumonia"
+      ],
+      "correct": 1,
+      "explanation": "Jinnah suffered from Tuberculosis (T.B.).",
+      "tags": []
+    },
+    {
+      "id": "keymus-099",
+      "q": "Where was Jinnah relocated during his illness for better health?",
+      "options": [
+        "Karachi",
+        "Lahore",
+        "Murree",
+        "Ziarat"
+      ],
+      "correct": 3,
+      "explanation": "He was relocated to Ziarat Residency in Balochistan.",
+      "tags": []
+    },
+    {
+      "id": "keymus-100",
+      "q": "Who authored 'Last Days of Quaid-e-Azam'?",
+      "options": [
+        "Colonel Ilahi Bakhsh",
+        "Stanley Wolpert",
+        "Hector Bolitho",
+        "Jaswant Singh"
+      ],
+      "correct": 0,
+      "explanation": "The book was written by Jinnah&#x27;s personal physician, Colonel Ilahi Bakhsh.",
+      "tags": []
+    },
+    {
+      "id": "keymus-101",
+      "q": "'Jinnah: The Sole Spokesman' was written by:",
+      "options": [
+        "Dr. Ayesha Jalal",
+        "G. Allana",
+        "Hector Bolitho",
+        "Jaswant Singh"
+      ],
+      "correct": 0,
+      "explanation": "The seminal work on Jinnah was written by Dr. Ayesha Jalal.",
+      "tags": []
+    },
+    {
+      "id": "keymus-102",
+      "q": "Who wrote the book 'Jinnah of Pakistan'?",
+      "options": [
+        "Colonel Ilahi Bakhsh",
+        "Stanley Wolpert",
+        "Dr. Ayesha Jalal",
+        "Hector Bolitho"
+      ],
+      "correct": 1,
+      "explanation": "Stanley Wolpert authored &#x27;Jinnah of Pakistan&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "keymus-103",
+      "q": "The book 'Jinnah: Creator of Pakistan' was written by?",
+      "options": [
+        "Hector Bolitho",
+        "G. Allana",
+        "Dr. Ayesha Jalal",
+        "Stanley Wolpert"
+      ],
+      "correct": 0,
+      "explanation": "Hector Bolitho wrote &#x27;Jinnah: Creator of Pakistan&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "keymus-104",
+      "q": "Who directed the movie 'Jinnah'?",
+      "options": [
+        "Stanley Wolpert",
+        "Jamil Dehlavi",
+        "Hector Bolitho",
+        "Christopher Lee"
+      ],
+      "correct": 1,
+      "explanation": "The film &#x27;Jinnah&#x27; was directed by Jamil Dehlavi.",
+      "tags": []
+    },
+    {
+      "id": "keymus-105",
+      "q": "Which actor played the role of Quaid-e-Azam in the movie 'Jinnah'?",
+      "options": [
+        "Stanley Wolpert",
+        "Sir Christopher Lee",
+        "Colonel Ilahi Bakhsh",
+        "Jaswant Singh"
+      ],
+      "correct": 1,
+      "explanation": "Sir Christopher Lee played Jinnah in the 1998 film.",
+      "tags": []
+    },
+    {
+      "id": "keymus-106",
+      "q": "Who administered the oath to Quaid-e-Azam as Pakistan's first Governor-General?",
+      "options": [
+        "Stanley Wolpert",
+        "Sir Christopher Lee",
+        "Justice Mian Abdul Rashid",
+        "Hector Bolitho"
+      ],
+      "correct": 2,
+      "explanation": "Justice Mian Abdul Rashid administered the oath.",
+      "tags": []
+    },
+    {
+      "id": "keymus-107",
+      "q": "On 9th November 1877, who was born?",
+      "options": [
+        "Quaid-e-Azam",
+        "Allama Iqbal",
+        "Liaqat Ali Khan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Allama Muhammad Iqbal was born on 9 November 1877 in Sialkot.",
+      "tags": []
+    },
+    {
+      "id": "keymus-108",
+      "q": "What was the name of Allama Iqbal's mother?",
+      "options": [
+        "Abdi Bano",
+        "Bano Begum",
+        "Imam Bibi",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Allama Iqbal&#x27;s mother was Imam Bibi.",
+      "tags": []
+    },
+    {
+      "id": "keymus-109",
+      "q": "When did Allama Iqbal go to England for higher studies?",
+      "options": [
+        "1911",
+        "1905",
+        "1916",
+        "1900"
+      ],
+      "correct": 1,
+      "explanation": "Iqbal travelled to England for higher education in 1905.",
+      "tags": []
+    },
+    {
+      "id": "keymus-110",
+      "q": "In 1923, Allama Iqbal published a book titled:",
+      "options": [
+        "Bang-e-Dra",
+        "Zarb-e-Kalim",
+        "Armaghan-e-Hijaz",
+        "Payam-e-Mashriq"
+      ],
+      "correct": 3,
+      "explanation": "Payam-e-Mashriq was published in 1923.",
+      "tags": []
+    },
+    {
+      "id": "keymus-111",
+      "q": "In December 1930, Allama Iqbal delivered his famous address in which city?",
+      "options": [
+        "Delhi",
+        "Allahabad",
+        "Lucknow",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Iqbal delivered his Presidential Address at the Muslim League&#x27;s Allahabad session.",
+      "tags": []
+    },
+    {
+      "id": "keymus-112",
+      "q": "Allama Iqbal delivered his famous Allahabad Address in:",
+      "options": [
+        "1931",
+        "1928",
+        "1930",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The Allahabad Address was delivered in 1930.",
+      "tags": []
+    },
+    {
+      "id": "keymus-113",
+      "q": "When did Allama Iqbal become President of the All India Muslim League session?",
+      "options": [
+        "1928",
+        "1929",
+        "1930",
+        "1932"
+      ],
+      "correct": 2,
+      "explanation": "He presided over the League session in Allahabad in 1930.",
+      "tags": []
+    },
+    {
+      "id": "keymus-114",
+      "q": "Who is the national poet of Pakistan?",
+      "options": [
+        "Mirza Ghalib",
+        "Faiz Ahmad Faiz",
+        "Allama Iqbal",
+        "Hafeez Jalandhari"
+      ],
+      "correct": 2,
+      "explanation": "Allama Muhammad Iqbal is Pakistan&#x27;s national poet (Shair-e-Mashriq).",
+      "tags": []
+    },
+    {
+      "id": "keymus-115",
+      "q": "'Khudi' was a key concept of:",
+      "options": [
+        "Allama Iqbal",
+        "Faiz Ahmad Faiz",
+        "Ameer Khusro",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "The concept of &#x27;Khudi&#x27; (Selfhood) is central to Allama Iqbal&#x27;s philosophy.",
+      "tags": []
+    },
+    {
+      "id": "keymus-116",
+      "q": "Pakistan's national poet Allama Iqbal died on:",
+      "options": [
+        "21 September 1938",
+        "21 March 1938",
+        "21 April 1938",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Allama Iqbal died on 21 April 1938 in Lahore.",
+      "tags": []
+    },
+    {
+      "id": "keymus-117",
+      "q": "Who gave the title of 'Shair-e-Mashriq' to Allama Iqbal?",
+      "options": [
+        "Maulana Zafar Ali Khan",
+        "Nawab Bahadur Jang",
+        "Maulana Mazhar-ud-din",
+        "Maulana Shibli Naumani"
+      ],
+      "correct": 3,
+      "explanation": "The title is attributed to Maulana Shibli Naumani.",
+      "tags": []
+    },
+    {
+      "id": "keymus-118",
+      "q": "From which school did Allama Iqbal complete matriculation?",
+      "options": [
+        "Murray College",
+        "Trinity College",
+        "Scotch Mission High School",
+        "Government College Lahore"
+      ],
+      "correct": 2,
+      "explanation": "Iqbal matriculated from Scotch Mission High School, Sialkot.",
+      "tags": []
+    },
+    {
+      "id": "keymus-119",
+      "q": "Where did Allama Iqbal earn his PhD?",
+      "options": [
+        "Oxford University",
+        "University of Cambridge",
+        "Munich University",
+        "London School of Economics"
+      ],
+      "correct": 2,
+      "explanation": "Iqbal obtained his PhD from Ludwig Maximilian University, Munich, Germany.",
+      "tags": []
+    },
+    {
+      "id": "keymus-120",
+      "q": "What was the title of Allama Iqbal's PhD thesis?",
+      "options": [
+        "Reconstruction of Islamic Thought",
+        "The Development of Metaphysics in Persia",
+        "Islamic Revival in the Subcontinent",
+        "The Secrets of Self"
+      ],
+      "correct": 1,
+      "explanation": "His thesis was &#x27;The Development of Metaphysics in Persia&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "keymus-121",
+      "q": "Who gave Allama Iqbal the title 'Hakim-ul-Ummat'?",
+      "options": [
+        "Sir Edwin Arnold",
+        "Khwaja Hasan Nizami",
+        "Maulvi Mir Hassan",
+        "Sir Syed Ahmad Khan"
+      ],
+      "correct": 1,
+      "explanation": "The title &#x27;Hakim-ul-Ummat&#x27; is associated with Khwaja Hasan Nizami.",
+      "tags": []
+    },
+    {
+      "id": "keymus-122",
+      "q": "Which teacher of Allama Iqbal was awarded the title 'Shams-ul-Ulama'?",
+      "options": [
+        "Maulvi Mir Hassan",
+        "Khwaja Hasan Nizami",
+        "Sir Edwin Arnold",
+        "Sir Syed Ahmad Khan"
+      ],
+      "correct": 0,
+      "explanation": "Maulvi Mir Hassan, Iqbal&#x27;s teacher, was honoured with &#x27;Shams-ul-Ulama&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "keymus-123",
+      "q": "When did Allama Iqbal first join the Muslim League?",
+      "options": [
+        "1906",
+        "1908",
+        "1913",
+        "1928"
+      ],
+      "correct": 1,
+      "explanation": "Iqbal first joined the Muslim League in 1908.",
+      "tags": []
+    },
+    {
+      "id": "keymus-124",
+      "q": "From which institution did Allama Iqbal earn a degree in Economics & Political Science?",
+      "options": [
+        "Oxford University",
+        "Trinity College",
+        "London School of Economics",
+        "Cambridge University"
+      ],
+      "correct": 2,
+      "explanation": "Iqbal earned this degree from the London School of Economics.",
+      "tags": []
+    },
+    {
+      "id": "keymus-125",
+      "q": "In which year was Allama Iqbal awarded the title 'Sir'?",
+      "options": [
+        "1922",
+        "1923",
+        "1911",
+        "1913"
+      ],
+      "correct": 0,
+      "explanation": "He was knighted in 1922.",
+      "tags": []
+    },
+    {
+      "id": "keymus-126",
+      "q": "What was the title of the poem recited by Allama Iqbal at the Anjuman Himayat-e-Islam session in 1911?",
+      "options": [
+        "Shikwa",
+        "Jawab-e-Shikwa",
+        "Tuloo-e-Islam",
+        "Payam-e-Mashriq"
+      ],
+      "correct": 2,
+      "explanation": "He recited &#x27;Tuloo-e-Islam&#x27; (The Rise of Islam) in 1911.",
+      "tags": []
+    },
+    {
+      "id": "keymus-127",
+      "q": "How many wives did Allama Iqbal have?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct": 2,
+      "explanation": "Allama Iqbal had three wives in his lifetime.",
+      "tags": []
+    },
+    {
+      "id": "keymus-128",
+      "q": "Who is Allama Iqbal's son?",
+      "options": [
+        "Walid Iqbal",
+        "Javed Iqbal",
+        "Ahmad Iqbal",
+        "Shahid Iqbal"
+      ],
+      "correct": 1,
+      "explanation": "Dr. Javed Iqbal was Allama Iqbal&#x27;s son and a noted jurist.",
+      "tags": []
+    },
+    {
+      "id": "keymus-129",
+      "q": "Which book was authored by Javed Iqbal (Allama Iqbal's son)?",
+      "options": [
+        "Payam-e-Mashriq",
+        "Zinda Rud",
+        "Bal-e-Jibril",
+        "Bang-e-Dra"
+      ],
+      "correct": 1,
+      "explanation": "&#x27;Zinda Rud&#x27; (biography of his father) was written by Javed Iqbal.",
+      "tags": []
+    },
+    {
+      "id": "keymus-130",
+      "q": "Who is Allama Iqbal's grandson and a Pakistani Senator?",
+      "options": [
+        "Aftab Iqbal",
+        "Javed Iqbal",
+        "Walid Iqbal",
+        "Ahmad Iqbal"
+      ],
+      "correct": 2,
+      "explanation": "Walid Iqbal is Allama Iqbal&#x27;s grandson and a politician.",
+      "tags": []
+    },
+    {
+      "id": "keymus-131",
+      "q": "For which ruler did Allama Iqbal write 'Payam-e-Mashriq'?",
+      "options": [
+        "Shah Waliullah",
+        "Amir Amanullah Khan",
+        "King Edward",
+        "Shah Jahan"
+      ],
+      "correct": 1,
+      "explanation": "Payam-e-Mashriq was dedicated to Amir Amanullah Khan of Afghanistan.",
+      "tags": []
+    },
+    {
+      "id": "keymus-132",
+      "q": "What role did Allama Iqbal play in Afghanistan's education policy?",
+      "options": [
+        "Drafted it",
+        "Criticised it",
+        "Translated it",
+        "Ignored it"
+      ],
+      "correct": 0,
+      "explanation": "Iqbal helped draft educational policies for Afghanistan during his 1933 visit.",
+      "tags": []
+    },
+    {
+      "id": "keymus-133",
+      "q": "Who led the prayer in which Allama Iqbal participated during his Afghanistan visit?",
+      "options": [
+        "Shah Amanullah Khan",
+        "Amir Habibullah Khan",
+        "Mirwais Khan",
+        "Hamid Karzai"
+      ],
+      "correct": 0,
+      "explanation": "He prayed alongside Afghan King Shah Amanullah Khan.",
+      "tags": []
+    },
+    {
+      "id": "keymus-134",
+      "q": "Maulana Muhammad Ali Johar was a student of:",
+      "options": [
+        "Madrassah Rahimiya",
+        "Islamia College Peshawar",
+        "Aligarh University",
+        "Madrassah Deoband"
+      ],
+      "correct": 2,
+      "explanation": "Maulana Muhammad Ali Johar was a prominent alumnus of Aligarh Muslim University.",
+      "tags": []
+    },
+    {
+      "id": "keymus-135",
+      "q": "In 1911 Maulana Muhammad Ali Johar started the newspaper 'Comrade' from:",
+      "options": [
+        "Delhi",
+        "Bombay",
+        "Calcutta",
+        "Lahore"
+      ],
+      "correct": 2,
+      "explanation": "He started the English newspaper &#x27;Comrade&#x27; from Calcutta in 1911.",
+      "tags": []
+    },
+    {
+      "id": "keymus-136",
+      "q": "In which year did Maulana Muhammad Ali Johar start publishing 'Hamdard'?",
+      "options": [
+        "1910",
+        "1912",
+        "1913",
+        "1915"
+      ],
+      "correct": 2,
+      "explanation": "He started the Urdu newspaper &#x27;Hamdard&#x27; in 1913.",
+      "tags": []
+    },
+    {
+      "id": "keymus-137",
+      "q": "In which city was 'Hamdard' newspaper first published?",
+      "options": [
+        "Lahore",
+        "Delhi",
+        "Kolkata",
+        "Aligarh"
+      ],
+      "correct": 1,
+      "explanation": "The Urdu newspaper &#x27;Hamdard&#x27; was published from Delhi.",
+      "tags": []
+    },
+    {
+      "id": "keymus-138",
+      "q": "Maulana Muhammad Ali Johar is buried in:",
+      "options": [
+        "Azamgarh",
+        "Palestine (Jerusalem)",
+        "Aligarh",
+        "Lahore"
+      ],
+      "correct": 1,
+      "explanation": "Maulana Muhammad Ali Johar is buried in Jerusalem, Palestine.",
+      "tags": []
+    },
+    {
+      "id": "keymus-139",
+      "q": "When was Maulana Muhammad Ali Johar born?",
+      "options": [
+        "1876",
+        "1877",
+        "1878",
+        "1880"
+      ],
+      "correct": 2,
+      "explanation": "He was born in 1878 at Rampur.",
+      "tags": []
+    },
+    {
+      "id": "keymus-140",
+      "q": "In which year did Maulana Muhammad Ali Johar become President of Congress?",
+      "options": [
+        "1922",
+        "1923",
+        "1924",
+        "1925"
+      ],
+      "correct": 1,
+      "explanation": "He presided over the Congress session at Kakinada in 1923.",
+      "tags": []
+    },
+    {
+      "id": "keymus-141",
+      "q": "Who persuaded Quaid-e-Azam to join the All India Muslim League?",
+      "options": [
+        "Maulana Muhammad Ali Johar",
+        "Allama Iqbal",
+        "Lala Lajpat Rai",
+        "Jawaharlal Nehru"
+      ],
+      "correct": 0,
+      "explanation": "Maulana Muhammad Ali Johar (with Syed Wazir Hasan) persuaded Jinnah to join the League.",
+      "tags": []
+    },
+    {
+      "id": "keymus-142",
+      "q": "Who among these is considered one of the most versatile personalities of the Subcontinent?",
+      "options": [
+        "Allama Iqbal",
+        "Maulana Muhammad Ali Johar",
+        "Liaquat Ali Khan",
+        "Sir Syed Ahmad Khan"
+      ],
+      "correct": 1,
+      "explanation": "Maulana Muhammad Ali Johar was journalist, poet, orator and politician.",
+      "tags": []
+    },
+    {
+      "id": "keymus-143",
+      "q": "Maulana Muhammad Ali Johar passed away during which event?",
+      "options": [
+        "Second Round Table Conference",
+        "First Round Table Conference",
+        "Khilafat Conference",
+        "Lucknow Pact"
+      ],
+      "correct": 1,
+      "explanation": "He died in London in January 1931 while attending the First Round Table Conference.",
+      "tags": []
+    },
+    {
+      "id": "keymus-144",
+      "q": "What was the document considered the constitution of the Muslim League in 1907?",
+      "options": [
+        "White Paper",
+        "Blue Book",
+        "Green Book",
+        "Red Book"
+      ],
+      "correct": 1,
+      "explanation": "The Muslim League&#x27;s constitution was often called the &#x27;Blue Book&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "keymus-145",
+      "q": "What was the title of Maulana Muhammad Ali Johar?",
+      "options": [
+        "Raees-ul-Ahrar",
+        "Sheikh-ul-Hind",
+        "Shair-e-Mashriq",
+        "Baba-e-Sindh"
+      ],
+      "correct": 0,
+      "explanation": "He was titled &#x27;Raees-ul-Ahrar&#x27; (The Chief of the Free).",
+      "tags": []
+    },
+    {
+      "id": "keymus-146",
+      "q": "Congress was established in:",
+      "options": [
+        "1875",
+        "1885",
+        "1906",
+        "1889"
+      ],
+      "correct": 1,
+      "explanation": "The Indian National Congress was founded in 1885 at Bombay.",
+      "tags": []
+    },
+    {
+      "id": "keymus-147",
+      "q": "In which city was the Indian National Congress founded?",
+      "options": [
+        "Delhi",
+        "Bombay",
+        "Kanpur",
+        "Allahabad"
+      ],
+      "correct": 1,
+      "explanation": "The Congress was founded in Bombay (now Mumbai).",
+      "tags": []
+    },
+    {
+      "id": "keymus-148",
+      "q": "The Indian National Congress was formed on 28 December 1885 by British civil servant:",
+      "options": [
+        "William Hudson",
+        "O. Hume",
+        "Lord Wellesley",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Allan Octavian Hume, a retired British civil servant, founded the INC.",
+      "tags": []
+    },
+    {
+      "id": "keymus-149",
+      "q": "A.O. Hume, on whose initiative the Indian National Congress was formed, was:",
+      "options": [
+        "A former member of Civil Service",
+        "Governor-General of India",
+        "A British educationist",
+        "Member of British Parliament"
+      ],
+      "correct": 0,
+      "explanation": "A.O. Hume was a former member of the Indian Civil Service.",
+      "tags": []
+    },
+    {
+      "id": "keymus-150",
+      "q": "What was the purpose of forming the All India National Congress?",
+      "options": [
+        "For Indians to form parties",
+        "A platform for civic and political dialogue among educated Indians",
+        "To take over India",
+        "All of these"
+      ],
+      "correct": 1,
+      "explanation": "The primary purpose was a safety-valve forum for educated Indians on civic/political issues.",
+      "tags": []
+    },
+    {
+      "id": "keymus-151",
+      "q": "First President of Indian National Congress was:",
+      "options": [
+        "Gopal Krishna Gokhale",
+        "Dadabhai Naoroji",
+        "Womesh Chandra Bannerjee",
+        "Dinshaw Edulji Wacha"
+      ],
+      "correct": 2,
+      "explanation": "Womesh Chandra Bannerjee (W.C. Bannerjee) was the first INC President in 1885.",
+      "tags": []
+    },
+    {
+      "id": "keymus-152",
+      "q": "Who was the first Muslim President of the Indian National Congress?",
+      "options": [
+        "Gopal Krishna Gokhale",
+        "Dadabhai Naoroji",
+        "Badruddin Tyabji",
+        "Sir Syed Ahmad Khan"
+      ],
+      "correct": 2,
+      "explanation": "Badruddin Tyabji presided over the 1887 INC session.",
+      "tags": []
+    },
+    {
+      "id": "keymus-153",
+      "q": "Who was the second President of the Indian National Congress?",
+      "options": [
+        "Gopal Krishna Gokhale",
+        "Dadabhai Naoroji",
+        "Womesh Chunder Banerjee",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Dadabhai Naoroji presided over the 1886 INC session.",
+      "tags": []
+    },
+    {
+      "id": "keymus-154",
+      "q": "Dadabhai Naoroji worked for India under the Indian National Movement in:",
+      "options": [
+        "India",
+        "UK",
+        "Russia",
+        "USA"
+      ],
+      "correct": 1,
+      "explanation": "Dadabhai Naoroji was the first Asian elected to the British Parliament, working from the UK.",
+      "tags": []
+    },
+    {
+      "id": "keymus-155",
+      "q": "Who was the leader of Hindu Mahasabha?",
+      "options": [
+        "Madan Mohan Malaviya",
+        "Tilak",
+        "Nehru",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Madan Mohan Malaviya was a key figure of the Hindu Mahasabha.",
+      "tags": []
+    },
+    {
+      "id": "keymus-156",
+      "q": "Quaid-e-Azam resigned from Congress in the year:",
+      "options": [
+        "1920",
+        "1922",
+        "1924",
+        "1918"
+      ],
+      "correct": 0,
+      "explanation": "Jinnah resigned from Congress in 1920.",
+      "tags": []
+    },
+    {
+      "id": "keymus-157",
+      "q": "The Congress declared complete independence for India as its goal at which session?",
+      "options": [
+        "Calcutta in 1928",
+        "Allahabad in 1930",
+        "Lahore in 1929",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The &#x27;Purna Swaraj&#x27; resolution was passed at the Lahore session in 1929.",
+      "tags": []
+    },
+    {
+      "id": "keymus-158",
+      "q": "Why did Muslims celebrate Direct Action Day?",
+      "options": [
+        "To show Muslim strength",
+        "To show Muslim anger",
+        "To disregard British rule",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Direct Action Day (1946) was observed to press for a separate Muslim homeland against British/Congress designs.",
+      "tags": []
+    },
+    {
+      "id": "keymus-159",
+      "q": "Indian National Congress celebrated its Golden Jubilee in which city?",
+      "options": [
+        "Mumbai",
+        "Delhi",
+        "Nowhere",
+        "Kolkata"
+      ],
+      "correct": 0,
+      "explanation": "The 50th session (Golden Jubilee) was held in Bombay/Mumbai.",
+      "tags": []
+    },
+    {
+      "id": "keymus-160",
+      "q": "In which year did the Congress demand 'Purna Swaraj'?",
+      "options": [
+        "1925",
+        "1929",
+        "1931",
+        "1942"
+      ],
+      "correct": 1,
+      "explanation": "The demand for complete self-rule was formalised in 1929.",
+      "tags": []
+    },
+    {
+      "id": "keymus-161",
+      "q": "Who were the moderate leaders of the Congress?",
+      "options": [
+        "Annie Besant, Gandhi",
+        "Gopal Krishna Gokhale, Dadabhai Naoroji",
+        "Lala Lajpat Rai, Bal Gangadhar Tilak",
+        "Nehru, Sardar Patel"
+      ],
+      "correct": 1,
+      "explanation": "Gopal Krishna Gokhale and Dadabhai Naoroji were the prominent moderates.",
+      "tags": []
+    },
+    {
+      "id": "keymus-162",
+      "q": "Who among these was an extremist leader of the Indian National Congress?",
+      "options": [
+        "Dadabhai Naoroji",
+        "Gopal Krishna Gokhale",
+        "Bal Gangadhar Tilak",
+        "Mohandas Gandhi"
+      ],
+      "correct": 2,
+      "explanation": "Bal Gangadhar Tilak was one of the key extremist (Assertive Nationalist) leaders.",
+      "tags": []
+    },
+    {
+      "id": "keymus-163",
+      "q": "What was the Surat Split of 1907?",
+      "options": [
+        "Division between Congress and Muslim League",
+        "Split between moderates and extremists in Congress",
+        "Formation of INC",
+        "British intervention in Congress"
+      ],
+      "correct": 1,
+      "explanation": "The Surat Split divided the INC into moderate and extremist factions in 1907.",
+      "tags": []
+    },
+    {
+      "id": "keymus-164",
+      "q": "Who founded the Hindu Mahasabha in 1915?",
+      "options": [
+        "G. Tilak",
+        "Madan Mohan Malaviya",
+        "Annie Besant",
+        "Jawaharlal Nehru"
+      ],
+      "correct": 1,
+      "explanation": "The Hindu Mahasabha was founded by leaders including Madan Mohan Malaviya.",
+      "tags": []
+    },
+    {
+      "id": "keymus-165",
+      "q": "Who started the Indian Home Rule League in Maharashtra?",
+      "options": [
+        "G. Tilak",
+        "Mohsin-ul-Mulk",
+        "Mushtaq Hussain Zuberi",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Bal Gangadhar Tilak started the Home Rule League in Maharashtra; Annie Besant started the Madras branch.",
+      "tags": []
+    },
+    {
+      "id": "keymus-166",
+      "q": "Who signed the Lucknow Pact (1916) from Congress?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Ambika Charan Mazumdar",
+        "Mohandas Gandhi",
+        "British"
+      ],
+      "correct": 1,
+      "explanation": "A.C. Mazumdar was INC President at the 1916 Lucknow session and signed the pact.",
+      "tags": []
+    },
+    {
+      "id": "keymus-167",
+      "q": "When did Gandhi merge the Indian Home Rule League into Congress?",
+      "options": [
+        "1915",
+        "1925",
+        "1916",
+        "1920"
+      ],
+      "correct": 3,
+      "explanation": "Gandhi merged the Home Rule League with the INC in 1920.",
+      "tags": []
+    },
+    {
+      "id": "keymus-168",
+      "q": "Who among these was the first Asian to translate the Quran into English?",
+      "options": [
+        "Abdul Majid",
+        "Syed Mehdi Ali",
+        "Ch. Rehmat Ali",
+        "Abdullah Yusuf Ali"
+      ],
+      "correct": 3,
+      "explanation": "Allama Abdullah Yusuf Ali produced the most widely read English translation of the Quran by an Asian Muslim.",
+      "tags": []
+    },
+    {
+      "id": "keymus-169",
+      "q": "'Syed Mehdi Ali' was the real name of:",
+      "options": [
+        "Waqar-ul-Mulk",
+        "Ch. Rehmat Ali",
+        "Syed Ahmad Khan",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Syed Mehdi Ali was the real name of Nawab Mohsin-ul-Mulk (commonly noted; though some sources confuse with Waqar-ul-Mulk).",
+      "tags": []
+    },
+    {
+      "id": "keymus-170",
+      "q": "What was the real name of Nawab Waqar-ul-Mulk?",
+      "options": [
+        "Mushtaq Hussain Zuberi",
+        "Syed Ahmad Khan",
+        "Syed Mehdi Ali",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Nawab Waqar-ul-Mulk&#x27;s real name was Mushtaq Hussain Zuberi.",
+      "tags": []
+    },
+    {
+      "id": "keymus-171",
+      "q": "Real name of the Raja Sahib of Mahmudabad was:",
+      "options": [
+        "Ameer Ahmad Khan",
+        "Abdul Haq",
+        "Ahmad Quli",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Raja Amir Ahmad Khan was the Raja of Mahmudabad.",
+      "tags": []
+    },
+    {
+      "id": "keymus-172",
+      "q": "Who is called the 'Frontier Gandhi'?",
+      "options": [
+        "Abdul Jabbar Khan",
+        "Abdul Ghaffar Khan",
+        "Ayaz Khan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Khan Abdul Ghaffar Khan was nicknamed &#x27;Frontier Gandhi&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "keymus-173",
+      "q": "Who is called the 'Sarhadi Gandhi'?",
+      "options": [
+        "Abdul Ghaffar Khan",
+        "Ayaz Khan",
+        "Abdul Jabbar Khan",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Sarhadi Gandhi is another title for Khan Abdul Ghaffar Khan.",
+      "tags": []
+    },
+    {
+      "id": "keymus-174",
+      "q": "Who coined the name of 'Pakistan'?",
+      "options": [
+        "Quaid-e-Azam",
+        "Ch. Rehmat Ali",
+        "Allama Iqbal",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Chaudhry Rehmat Ali coined the name &#x27;Pakistan&#x27; in his 1933 pamphlet &#x27;Now or Never&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "keymus-175",
+      "q": "In which year did Chaudhry Rehmat Ali coin the name 'Pakistan'?",
+      "options": [
+        "1929",
+        "1930",
+        "1933",
+        "1935"
+      ],
+      "correct": 2,
+      "explanation": "The name was coined in 1933 in his pamphlet &#x27;Now or Never&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "keymus-176",
+      "q": "Who was the last Prime Minister of United Punjab?",
+      "options": [
+        "Sir Evan Jenkins",
+        "Khizar Tiwana",
+        "Sikandar Hayat",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Malik Khizar Hayat Tiwana was the last PM of United Punjab.",
+      "tags": []
+    },
+    {
+      "id": "keymus-177",
+      "q": "The Unionist Party of Punjab was formed by:",
+      "options": [
+        "Sikandar Hayat",
+        "Fazl-i-Hussain",
+        "Khizar Hayat Tiwana",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "The Unionist Party was founded by Sir Fazl-i-Hussain and Sir Chhotu Ram in 1923.",
+      "tags": []
+    },
+    {
+      "id": "keymus-178",
+      "q": "Madar-e-Millat Fatima Jinnah died in the year:",
+      "options": [
+        "1940",
+        "1950",
+        "1967",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Fatima Jinnah died on 9 July 1967 in Karachi.",
+      "tags": []
+    },
+    {
+      "id": "keymus-179",
+      "q": "Who is known as the 'Mother of the Nation' of Pakistan?",
+      "options": [
+        "Shaista Ikramullah",
+        "Benazir Bhutto",
+        "Fatima Jinnah",
+        "Begum Ra&#x27;ana Liaquat"
+      ],
+      "correct": 2,
+      "explanation": "Fatima Jinnah is known as Madar-e-Millat (Mother of the Nation).",
+      "tags": []
+    },
+    {
+      "id": "keymus-180",
+      "q": "The profession of Fatima Jinnah was:",
+      "options": [
+        "Scientist",
+        "Dentist",
+        "Architect",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Fatima Jinnah was a professional dentist trained at the University of Calcutta.",
+      "tags": []
+    },
+    {
+      "id": "keymus-181",
+      "q": "What was Begum Shaista Ikramullah's profession?",
+      "options": [
+        "Politician",
+        "Scientist",
+        "Novelist",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "She was a prominent politician, diplomat and writer.",
+      "tags": []
+    },
+    {
+      "id": "keymus-182",
+      "q": "Who was the first Pakistani to win a Nobel Prize?",
+      "options": [
+        "Dr. Abdus Salam",
+        "Dr. Abdul Qadeer Khan",
+        "Malala Yousafzai",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Dr. Abdus Salam won the Nobel Prize in Physics in 1979 — the first Pakistani laureate.",
+      "tags": []
+    },
+    {
+      "id": "keymus-183",
+      "q": "In which year did Dr. Abdus Salam win the Nobel Prize in Physics?",
+      "options": [
+        "1967",
+        "1975",
+        "1979",
+        "1983"
+      ],
+      "correct": 2,
+      "explanation": "Dr. Abdus Salam won the Nobel Prize in 1979 for electroweak unification.",
+      "tags": []
+    },
+    {
+      "id": "keymus-184",
+      "q": "Dr. Abdul Qadeer Khan did his PhD from Leuven University of:",
+      "options": [
+        "Holland",
+        "Austria",
+        "Hungary",
+        "Belgium"
+      ],
+      "correct": 3,
+      "explanation": "Dr. A.Q. Khan earned his PhD from Catholic University of Leuven, Belgium.",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,661 @@
+{
+  "topic_id": "ancient-wonders-of-the-world",
+  "topic_name": "Ancient Wonders of the World",
+  "subject": "general-knowledge",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Ancient Wonders of the World MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "ancien-001",
+      "q": "Which is the only surviving Wonder of the Ancient World?",
+      "options": [
+        "Hanging Gardens of Babylon",
+        "Great Pyramid of Giza",
+        "Colossus of Rhodes",
+        "Lighthouse of Alexandria"
+      ],
+      "correct": 1,
+      "explanation": "The Great Pyramid of Giza (built c. 2560 BCE) in Egypt is the only one of the original Seven Wonders of the Ancient World still standing. The other six were destroyed by earthquakes, fires or decay.",
+      "tags": []
+    },
+    {
+      "id": "ancien-002",
+      "q": "How many original &#x27;Seven Wonders of the Ancient World&#x27; were there?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "9"
+      ],
+      "correct": 2,
+      "explanation": "The classical list compiled by Greek historians around the 2nd century BCE contains seven wonders, all from around the Mediterranean and Middle East.",
+      "tags": []
+    },
+    {
+      "id": "ancien-003",
+      "q": "Which civilisation compiled the original list of the Seven Wonders of the Ancient World?",
+      "options": [
+        "Romans",
+        "Greeks",
+        "Persians",
+        "Egyptians"
+      ],
+      "correct": 1,
+      "explanation": "The original list was compiled by Greek travellers and historians around the 2nd century BCE — including Antipater of Sidon and Philo of Byzantium.",
+      "tags": []
+    },
+    {
+      "id": "ancien-004",
+      "q": "How many of the original Seven Wonders were located in modern-day Türkiye?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct": 1,
+      "explanation": "Two original wonders were in modern Türkiye: the Temple of Artemis at Ephesus and the Mausoleum at Halicarnassus.",
+      "tags": []
+    },
+    {
+      "id": "ancien-005",
+      "q": "Approximately when was the Great Pyramid of Giza built?",
+      "options": [
+        "~1,000 BCE",
+        "~2,560 BCE",
+        "~3,800 BCE",
+        "~500 BCE"
+      ],
+      "correct": 1,
+      "explanation": "The Great Pyramid was built around 2560 BCE during the reign of Pharaoh Khufu (4th Dynasty) as his tomb.",
+      "tags": []
+    },
+    {
+      "id": "ancien-006",
+      "q": "The Great Pyramid of Giza was built as a tomb for which pharaoh?",
+      "options": [
+        "Tutankhamun",
+        "Khufu (Cheops)",
+        "Ramesses II",
+        "Cleopatra"
+      ],
+      "correct": 1,
+      "explanation": "The Great Pyramid was built for Pharaoh Khufu (Greek: Cheops) of Egypt&#x27;s 4th Dynasty around 2560 BCE.",
+      "tags": []
+    },
+    {
+      "id": "ancien-007",
+      "q": "The Great Pyramid was the world&#x27;s tallest man-made structure for how long?",
+      "options": [
+        "~500 years",
+        "~1,000 years",
+        "~3,800 years",
+        "~5,000 years"
+      ],
+      "correct": 2,
+      "explanation": "At ~146.6 m originally, the Great Pyramid held the title of tallest man-made structure for nearly 3,800 years — until the Lincoln Cathedral spire in 1311.",
+      "tags": []
+    },
+    {
+      "id": "ancien-008",
+      "q": "In which modern country were the Hanging Gardens of Babylon located?",
+      "options": [
+        "Iran",
+        "Iraq",
+        "Türkiye",
+        "Syria"
+      ],
+      "correct": 1,
+      "explanation": "Ancient Babylon was located in modern-day Iraq, near Hillah, south of Baghdad.",
+      "tags": []
+    },
+    {
+      "id": "ancien-009",
+      "q": "Which Babylonian king is traditionally credited with building the Hanging Gardens?",
+      "options": [
+        "Hammurabi",
+        "Nebuchadnezzar II",
+        "Cyrus the Great",
+        "Darius I"
+      ],
+      "correct": 1,
+      "explanation": "Tradition credits King Nebuchadnezzar II (c. 605–562 BCE) with building the gardens for his homesick wife Amytis of Media.",
+      "tags": []
+    },
+    {
+      "id": "ancien-010",
+      "q": "The Hanging Gardens of Babylon are often described as:",
+      "options": [
+        "A pyramid complex",
+        "Legendary terraced gardens",
+        "A bronze statue",
+        "A lighthouse"
+      ],
+      "correct": 1,
+      "explanation": "They are described as a series of legendary terraced (or stepped) gardens — though no definitive archaeological evidence has yet been confirmed.",
+      "tags": []
+    },
+    {
+      "id": "ancien-011",
+      "q": "The Statue of Zeus at Olympia was crafted by which Greek sculptor?",
+      "options": [
+        "Praxiteles",
+        "Phidias",
+        "Myron",
+        "Polykleitos"
+      ],
+      "correct": 1,
+      "explanation": "The Statue of Zeus at Olympia was crafted around 435 BCE by the Greek sculptor Phidias — the same sculptor who designed the Athena Parthenos.",
+      "tags": []
+    },
+    {
+      "id": "ancien-012",
+      "q": "What materials was the Statue of Zeus at Olympia made of?",
+      "options": [
+        "Marble and granite",
+        "Gold and ivory (chryselephantine)",
+        "Bronze and silver",
+        "Wood and copper"
+      ],
+      "correct": 1,
+      "explanation": "The Statue of Zeus was a chryselephantine sculpture — built of gold (chrysos) plates and ivory (elephas) on a wooden frame — about 12 m tall.",
+      "tags": []
+    },
+    {
+      "id": "ancien-013",
+      "q": "The Temple of Artemis was located at Ephesus, in modern-day:",
+      "options": [
+        "Greece",
+        "Türkiye",
+        "Egypt",
+        "Cyprus"
+      ],
+      "correct": 1,
+      "explanation": "The Temple of Artemis was located at Ephesus in modern-day Türkiye. It was famously rebuilt three times and destroyed in 262 CE by Goths.",
+      "tags": []
+    },
+    {
+      "id": "ancien-014",
+      "q": "Which goddess was the Temple of Artemis at Ephesus dedicated to?",
+      "options": [
+        "Hera",
+        "Athena",
+        "Artemis (Diana)",
+        "Aphrodite"
+      ],
+      "correct": 2,
+      "explanation": "The temple was dedicated to Artemis (Roman: Diana), the Greek goddess of the hunt, wilderness and the Moon.",
+      "tags": []
+    },
+    {
+      "id": "ancien-015",
+      "q": "The Mausoleum at Halicarnassus was built as a tomb for which Persian satrap?",
+      "options": [
+        "Cyrus",
+        "Mausolus",
+        "Darius",
+        "Xerxes"
+      ],
+      "correct": 1,
+      "explanation": "The Mausoleum was built around 351 BCE for Mausolus, a Persian satrap of Caria, by his wife/sister Artemisia II. The English word &#x27;mausoleum&#x27; comes from his name.",
+      "tags": []
+    },
+    {
+      "id": "ancien-016",
+      "q": "The English word &#x27;mausoleum&#x27; is derived from which ancient wonder?",
+      "options": [
+        "Mausoleum at Halicarnassus",
+        "Colossus of Rhodes",
+        "Temple of Artemis",
+        "Pyramid of Giza"
+      ],
+      "correct": 0,
+      "explanation": "The English noun &#x27;mausoleum&#x27; (a grand tomb) comes from Mausolus, the satrap honoured by the original Mausoleum at Halicarnassus.",
+      "tags": []
+    },
+    {
+      "id": "ancien-017",
+      "q": "Approximately how tall was the Colossus of Rhodes?",
+      "options": [
+        "10 metres",
+        "30 metres",
+        "60 metres",
+        "100 metres"
+      ],
+      "correct": 1,
+      "explanation": "The Colossus of Rhodes stood approximately 33 metres (108 feet) tall — comparable in scale to the modern Statue of Liberty (without its pedestal).",
+      "tags": []
+    },
+    {
+      "id": "ancien-018",
+      "q": "The Colossus of Rhodes was a bronze statue of which Greek god?",
+      "options": [
+        "Zeus",
+        "Helios (the sun-god)",
+        "Apollo",
+        "Poseidon"
+      ],
+      "correct": 1,
+      "explanation": "The Colossus was a giant bronze statue of Helios, the sun-god, erected on the Greek island of Rhodes around 280 BCE.",
+      "tags": []
+    },
+    {
+      "id": "ancien-019",
+      "q": "The Colossus of Rhodes was destroyed by which natural event in 226 BCE?",
+      "options": [
+        "Tsunami",
+        "Earthquake",
+        "Volcanic eruption",
+        "Lightning"
+      ],
+      "correct": 1,
+      "explanation": "An earthquake in 226 BCE toppled the Colossus of Rhodes after only ~54 years standing — making it the shortest-lived of the Ancient Wonders.",
+      "tags": []
+    },
+    {
+      "id": "ancien-020",
+      "q": "The Lighthouse of Alexandria was built on which island?",
+      "options": [
+        "Crete",
+        "Cyprus",
+        "Pharos",
+        "Rhodes"
+      ],
+      "correct": 2,
+      "explanation": "The Lighthouse was built on the island of Pharos in the harbour of Alexandria, Egypt — its name is the origin of the word &#x27;pharos&#x27; meaning lighthouse in many languages.",
+      "tags": []
+    },
+    {
+      "id": "ancien-021",
+      "q": "The Lighthouse of Alexandria was built during the reign of which ruler?",
+      "options": [
+        "Cleopatra",
+        "Ptolemy II Philadelphus",
+        "Alexander the Great",
+        "Augustus"
+      ],
+      "correct": 1,
+      "explanation": "The Lighthouse was completed around 280 BCE during the reign of Ptolemy II Philadelphus of the Ptolemaic Kingdom of Egypt.",
+      "tags": []
+    },
+    {
+      "id": "ancien-022",
+      "q": "The word &#x27;pharos&#x27; in many languages (meaning &#x27;lighthouse&#x27;) is derived from:",
+      "options": [
+        "Pharos Island in Alexandria",
+        "A Greek god",
+        "An Egyptian pharaoh",
+        "A Roman emperor"
+      ],
+      "correct": 0,
+      "explanation": "The word &#x27;pharos&#x27; — meaning lighthouse in French (phare), Spanish (faro), Italian (faro) etc. — derives from Pharos Island, where the famous lighthouse stood.",
+      "tags": []
+    },
+    {
+      "id": "ancien-023",
+      "q": "The New Seven Wonders of the World were declared in which year?",
+      "options": [
+        "2000",
+        "2005",
+        "2007",
+        "2010"
+      ],
+      "correct": 2,
+      "explanation": "The New Seven Wonders of the World were declared on 7 July 2007 (07/07/07) in Lisbon after a global poll organised by the New 7 Wonders Foundation.",
+      "tags": []
+    },
+    {
+      "id": "ancien-024",
+      "q": "Which organization organised the global vote for the New Seven Wonders?",
+      "options": [
+        "UNESCO",
+        "New 7 Wonders Foundation",
+        "National Geographic",
+        "World Monuments Fund"
+      ],
+      "correct": 1,
+      "explanation": "The poll was run by the Swiss-based New 7 Wonders Foundation, founded by Bernard Weber.",
+      "tags": []
+    },
+    {
+      "id": "ancien-025",
+      "q": "Which ancient wonder was granted &#x27;honorary New Seven Wonder&#x27; status in 2007?",
+      "options": [
+        "Stonehenge",
+        "Eiffel Tower",
+        "Great Pyramid of Giza",
+        "Angkor Wat"
+      ],
+      "correct": 2,
+      "explanation": "The Great Pyramid of Giza — the only surviving Ancient Wonder — was given honorary status so as not to be in competition with the other candidates.",
+      "tags": []
+    },
+    {
+      "id": "ancien-026",
+      "q": "Approximately how long is the Great Wall of China?",
+      "options": [
+        "~5,000 km",
+        "~10,000 km",
+        "~21,196 km",
+        "~30,000 km"
+      ],
+      "correct": 2,
+      "explanation": "Including all branches and historical sections, the Great Wall measures approximately 21,196 km — confirmed by a 2012 Chinese national survey.",
+      "tags": []
+    },
+    {
+      "id": "ancien-027",
+      "q": "Is the Great Wall of China visible from the Moon with the naked eye?",
+      "options": [
+        "Yes, easily",
+        "Yes, on a clear day",
+        "No — it's a myth",
+        "Only at sunrise"
+      ],
+      "correct": 2,
+      "explanation": "The claim is a popular myth. NASA and Chinese astronauts have confirmed the Wall is far too narrow to be seen from the Moon with the naked eye — and is barely visible even from low-Earth orbit.",
+      "tags": []
+    },
+    {
+      "id": "ancien-028",
+      "q": "Which Chinese dynasty completed most of the surviving Great Wall sections seen today?",
+      "options": [
+        "Han",
+        "Tang",
+        "Ming",
+        "Qing"
+      ],
+      "correct": 2,
+      "explanation": "Most of the iconic surviving Great Wall sections (with brick towers and watchtowers) were built or refurbished during the Ming Dynasty (1368–1644).",
+      "tags": []
+    },
+    {
+      "id": "ancien-029",
+      "q": "Petra, the rose-red city, is located in which country?",
+      "options": [
+        "Egypt",
+        "Jordan",
+        "Syria",
+        "Iraq"
+      ],
+      "correct": 1,
+      "explanation": "Petra is located in southern Jordan. It was the capital of the Nabataean Kingdom from the 4th century BCE and is a UNESCO World Heritage Site.",
+      "tags": []
+    },
+    {
+      "id": "ancien-030",
+      "q": "Petra was the capital of which ancient kingdom?",
+      "options": [
+        "Nabataean Kingdom",
+        "Phoenician Empire",
+        "Assyrian Empire",
+        "Lydian Kingdom"
+      ],
+      "correct": 0,
+      "explanation": "Petra was the capital of the Nabataean Kingdom — an Arab trading civilization that controlled the incense and spice routes between Arabia and the Mediterranean.",
+      "tags": []
+    },
+    {
+      "id": "ancien-031",
+      "q": "Petra is carved into which type of rock?",
+      "options": [
+        "Granite",
+        "Limestone",
+        "Rose-red sandstone",
+        "Marble"
+      ],
+      "correct": 2,
+      "explanation": "Petra&#x27;s iconic façades — including the Treasury (Al-Khazneh) — are carved directly into rose-red sandstone cliffs in southern Jordan.",
+      "tags": []
+    },
+    {
+      "id": "ancien-032",
+      "q": "Christ the Redeemer is located above which city?",
+      "options": [
+        "São Paulo",
+        "Buenos Aires",
+        "Rio de Janeiro",
+        "Lima"
+      ],
+      "correct": 2,
+      "explanation": "The Christ the Redeemer statue overlooks Rio de Janeiro from Mount Corcovado in Tijuca Forest National Park.",
+      "tags": []
+    },
+    {
+      "id": "ancien-033",
+      "q": "Christ the Redeemer is built in which architectural style?",
+      "options": [
+        "Gothic",
+        "Art Deco",
+        "Baroque",
+        "Modernist"
+      ],
+      "correct": 1,
+      "explanation": "Christ the Redeemer (completed in 1931) is one of the largest Art Deco statues in the world — designed by Heitor da Silva Costa and sculpted by Paul Landowski.",
+      "tags": []
+    },
+    {
+      "id": "ancien-034",
+      "q": "Machu Picchu is a citadel of which ancient civilisation?",
+      "options": [
+        "Aztec",
+        "Maya",
+        "Inca",
+        "Olmec"
+      ],
+      "correct": 2,
+      "explanation": "Machu Picchu is a 15th-century citadel of the Inca civilisation, built around 1450 CE under the emperor Pachacuti.",
+      "tags": []
+    },
+    {
+      "id": "ancien-035",
+      "q": "Machu Picchu is located in the Andes Mountains of which country?",
+      "options": [
+        "Bolivia",
+        "Ecuador",
+        "Peru",
+        "Chile"
+      ],
+      "correct": 2,
+      "explanation": "Machu Picchu lies on a ridge above the Sacred Valley in southern Peru, about 80 km northwest of Cusco.",
+      "tags": []
+    },
+    {
+      "id": "ancien-036",
+      "q": "Who rediscovered Machu Picchu for the modern world in 1911?",
+      "options": [
+        "Howard Carter",
+        "Hiram Bingham",
+        "Heinrich Schliemann",
+        "Indiana Jones"
+      ],
+      "correct": 1,
+      "explanation": "American historian Hiram Bingham, with local guides, brought Machu Picchu to international attention in 1911. It had never been truly &#x27;lost&#x27; to local Quechua people.",
+      "tags": []
+    },
+    {
+      "id": "ancien-037",
+      "q": "Chichen Itza is a major archaeological site of which civilisation?",
+      "options": [
+        "Aztec",
+        "Inca",
+        "Maya",
+        "Olmec"
+      ],
+      "correct": 2,
+      "explanation": "Chichen Itza is one of the largest cities of the Maya civilisation, flourishing roughly between the 7th and 10th centuries CE.",
+      "tags": []
+    },
+    {
+      "id": "ancien-038",
+      "q": "Chichen Itza is located on which peninsula in Mexico?",
+      "options": [
+        "Baja California",
+        "Yucatán Peninsula",
+        "Sinaloa",
+        "Veracruz"
+      ],
+      "correct": 1,
+      "explanation": "Chichen Itza is on the Yucatán Peninsula in southeastern Mexico — its central pyramid is called El Castillo (Temple of Kukulcan).",
+      "tags": []
+    },
+    {
+      "id": "ancien-039",
+      "q": "The main pyramid at Chichen Itza is named after which feathered-serpent deity?",
+      "options": [
+        "Quetzalcoatl",
+        "Kukulcan",
+        "Tlaloc",
+        "Huitzilopochtli"
+      ],
+      "correct": 1,
+      "explanation": "El Castillo at Chichen Itza is the Temple of Kukulcan — the Maya feathered-serpent god (equivalent to the Aztec Quetzalcoatl).",
+      "tags": []
+    },
+    {
+      "id": "ancien-040",
+      "q": "The Colosseum is the largest amphitheatre ever constructed. In which year was it completed?",
+      "options": [
+        "70 BCE",
+        "80 CE",
+        "313 CE",
+        "476 CE"
+      ],
+      "correct": 1,
+      "explanation": "The Colosseum (Flavian Amphitheatre) in Rome was completed around 80 CE under Emperor Titus and is the largest ancient amphitheatre ever built.",
+      "tags": []
+    },
+    {
+      "id": "ancien-041",
+      "q": "Approximately how many spectators could the Roman Colosseum hold?",
+      "options": [
+        "10,000",
+        "30,000",
+        "50,000",
+        "100,000"
+      ],
+      "correct": 2,
+      "explanation": "The Colosseum could hold an estimated 50,000+ spectators for gladiatorial games, public executions and mock sea battles.",
+      "tags": []
+    },
+    {
+      "id": "ancien-042",
+      "q": "The Taj Mahal was built by which Mughal Emperor?",
+      "options": [
+        "Akbar",
+        "Jahangir",
+        "Shah Jahan",
+        "Aurangzeb"
+      ],
+      "correct": 2,
+      "explanation": "The Taj Mahal was built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal, who died in 1631 during childbirth.",
+      "tags": []
+    },
+    {
+      "id": "ancien-043",
+      "q": "The Taj Mahal was built in memory of which empress?",
+      "options": [
+        "Nur Jahan",
+        "Mumtaz Mahal",
+        "Jodha Bai",
+        "Roshanara Begum"
+      ],
+      "correct": 1,
+      "explanation": "Shah Jahan built the Taj Mahal as a mausoleum for his beloved wife Mumtaz Mahal.",
+      "tags": []
+    },
+    {
+      "id": "ancien-044",
+      "q": "The Taj Mahal is located in which Indian city?",
+      "options": [
+        "Delhi",
+        "Lahore",
+        "Agra",
+        "Lucknow"
+      ],
+      "correct": 2,
+      "explanation": "The Taj Mahal is located in Agra, on the south bank of the Yamuna River in the Indian state of Uttar Pradesh.",
+      "tags": []
+    },
+    {
+      "id": "ancien-045",
+      "q": "Stonehenge — a Neolithic stone circle — is located in which country?",
+      "options": [
+        "Ireland",
+        "Scotland",
+        "England",
+        "Wales"
+      ],
+      "correct": 2,
+      "explanation": "Stonehenge is located on Salisbury Plain in Wiltshire, England. It was built in several stages between approximately 3000 and 2000 BCE.",
+      "tags": []
+    },
+    {
+      "id": "ancien-046",
+      "q": "The Leaning Tower of Pisa began tilting because of:",
+      "options": [
+        "A wartime bombing",
+        "Unstable, soft subsoil",
+        "A design error in the bell",
+        "Earthquake damage"
+      ],
+      "correct": 1,
+      "explanation": "The Tower of Pisa began tilting during its construction (started 1173) because of soft, marshy subsoil that could not support its weight.",
+      "tags": []
+    },
+    {
+      "id": "ancien-047",
+      "q": "The Statue of Liberty was a gift to the United States from which country?",
+      "options": [
+        "United Kingdom",
+        "France",
+        "Germany",
+        "Spain"
+      ],
+      "correct": 1,
+      "explanation": "The Statue of Liberty was a gift from France to the United States, dedicated on 28 October 1886 to mark the centennial of American independence.",
+      "tags": []
+    },
+    {
+      "id": "ancien-048",
+      "q": "Which French engineer designed the iconic Eiffel Tower (1889)?",
+      "options": [
+        "Auguste Bartholdi",
+        "Gustave Eiffel",
+        "Le Corbusier",
+        "Pierre L'Enfant"
+      ],
+      "correct": 1,
+      "explanation": "Gustave Eiffel and his engineering firm designed the Eiffel Tower as the entrance arch for the 1889 Paris World&#x27;s Fair.",
+      "tags": []
+    },
+    {
+      "id": "ancien-049",
+      "q": "Angkor Wat — the world&#x27;s largest religious monument — was built by which empire?",
+      "options": [
+        "Maurya",
+        "Khmer Empire",
+        "Tang Dynasty",
+        "Gupta"
+      ],
+      "correct": 1,
+      "explanation": "Angkor Wat in Cambodia was built in the 12th century by the Khmer Empire under King Suryavarman II — originally as a Hindu temple to Vishnu, later Buddhist.",
+      "tags": []
+    },
+    {
+      "id": "ancien-050",
+      "q": "Which of the following is NOT one of the New Seven Wonders of the World (2007)?",
+      "options": [
+        "Taj Mahal",
+        "Stonehenge",
+        "Petra",
+        "Christ the Redeemer"
+      ],
+      "correct": 1,
+      "explanation": "Stonehenge was a finalist but did NOT make the New Seven list. The seven are: Great Wall, Petra, Christ the Redeemer, Machu Picchu, Chichen Itza, Colosseum and the Taj Mahal.",
+      "tags": []
+    }
+  ]
+}

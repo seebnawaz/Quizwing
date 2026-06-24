@@ -1,0 +1,713 @@
+{
+  "topic_id": "kalimas-and-doors-of-jannat",
+  "topic_name": "Kalimas & Doors of Jannat",
+  "subject": "islamic-studies",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Kalimas & Doors of Jannat MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "kalima-001",
+      "q": "What is the name of the 1st Kalima?",
+      "options": [
+        "Kalima Shahadat",
+        "Kalima Tamjeed",
+        "Kalima Tayyaba",
+        "Kalima Tauheed"
+      ],
+      "correct": 2,
+      "explanation": "The 1st Kalima is Kalima Tayyaba, meaning 'The Pure Word.' It is La ilaha illallah Muhammadur Rasulullah.",
+      "tags": []
+    },
+    {
+      "id": "kalima-002",
+      "q": "What does 'Tayyaba' mean in Kalima Tayyaba?",
+      "options": [
+        "The Testimony",
+        "The Pure Word",
+        "The Word of Oneness",
+        "The Word of Glorification"
+      ],
+      "correct": 1,
+      "explanation": "'Tayyaba' means 'Pure' or 'Good.' Kalima Tayyaba = The Pure Word.",
+      "tags": []
+    },
+    {
+      "id": "kalima-003",
+      "q": "How many words does Kalima Tayyaba contain in Arabic?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "explanation": "Kalima Tayyaba (La ilaha illallah Muhammadur Rasulullah) consists of 7 words in Arabic.",
+      "tags": []
+    },
+    {
+      "id": "kalima-004",
+      "q": "How many letters does Kalima Tayyaba contain in Arabic?",
+      "options": [
+        "36",
+        "42",
+        "48",
+        "54"
+      ],
+      "correct": 2,
+      "explanation": "Kalima Tayyaba contains 48 letters in Arabic. This is a commonly tested fact in Pakistani competitive exams.",
+      "tags": []
+    },
+    {
+      "id": "kalima-005",
+      "q": "What is the technical term for reciting Kalima Tayyaba?",
+      "options": [
+        "Tasbih",
+        "Tahleel",
+        "Takbeer",
+        "Tahmeed"
+      ],
+      "correct": 1,
+      "explanation": "The recitation of Kalima Tayyaba (La ilaha illallah) is called Tahleel (تهليل). Tasbih = SubhanAllah; Takbeer = Allahu Akbar; Tahmeed = Alhamdulillah.",
+      "tags": []
+    },
+    {
+      "id": "kalima-006",
+      "q": "The first part of Kalima Tayyaba (La ilaha illallah) appears in which Surah?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah An-Nisa",
+        "Surah Al-Fath"
+      ],
+      "correct": 1,
+      "explanation": "La ilaha illallah appears in Surah Al-Imran, verse 18 (3:18). The second part (Muhammadur Rasulullah) is in Surah Al-Fath (48:29).",
+      "tags": []
+    },
+    {
+      "id": "kalima-007",
+      "q": "The second part of Kalima Tayyaba (Muhammadur Rasulullah) appears in which Surah?",
+      "options": [
+        "Surah Al-Imran",
+        "Surah Al-Ahzab",
+        "Surah Al-Fath",
+        "Surah Al-Hujurat"
+      ],
+      "correct": 2,
+      "explanation": "Muhammadur Rasulullah appears in Surah Al-Fath, verse 29 (48:29). The first part (La ilaha illallah) is in Surah Al-Imran (3:18).",
+      "tags": []
+    },
+    {
+      "id": "kalima-008",
+      "q": "Which of the following is the correct translation of Kalima Tayyaba?",
+      "options": [
+        "Allah is Great",
+        "There is no god but Allah; Muhammad (PBUH) is the Messenger of Allah",
+        "I seek forgiveness from Allah",
+        "Praise be to Allah"
+      ],
+      "correct": 1,
+      "explanation": "Kalima Tayyaba = La ilaha illallah Muhammadur Rasulullah = There is no god but Allah; Muhammad (PBUH) is the Messenger of Allah.",
+      "tags": []
+    },
+    {
+      "id": "kalima-009",
+      "q": "What is the name of the 2nd Kalima?",
+      "options": [
+        "Kalima Tayyaba",
+        "Kalima Shahadat",
+        "Kalima Tamjeed",
+        "Kalima Tauheed"
+      ],
+      "correct": 1,
+      "explanation": "The 2nd Kalima is Kalima Shahadat — the Word of Testimony.",
+      "tags": []
+    },
+    {
+      "id": "kalima-010",
+      "q": "What does Kalima Shahadat mean?",
+      "options": [
+        "The Pure Word",
+        "The Word of Glorification",
+        "The Word of Testimony",
+        "The Word of Oneness"
+      ],
+      "correct": 2,
+      "explanation": "Shahadat means testimony/witness. Kalima Shahadat is the Word of Testimony — a declaration of faith in Allah and His Prophet (PBUH).",
+      "tags": []
+    },
+    {
+      "id": "kalima-011",
+      "q": "What is the 3rd Kalima called?",
+      "options": [
+        "Kalima Astaghfar",
+        "Kalima Tamjeed",
+        "Kalima Radde Kufr",
+        "Kalima Tauheed"
+      ],
+      "correct": 1,
+      "explanation": "The 3rd Kalima is Kalima Tamjeed — the Word of Glorification (glorifying and praising Allah).",
+      "tags": []
+    },
+    {
+      "id": "kalima-012",
+      "q": "'Tamjeed' means which of the following?",
+      "options": [
+        "Seeking forgiveness",
+        "Oneness",
+        "Glorification",
+        "Testimony"
+      ],
+      "correct": 2,
+      "explanation": "Tamjeed (تمجيد) means glorification — praising Allah's greatness and majesty.",
+      "tags": []
+    },
+    {
+      "id": "kalima-013",
+      "q": "What is the 4th Kalima called?",
+      "options": [
+        "Kalima Tamjeed",
+        "Kalima Tayyaba",
+        "Kalima Tauheed",
+        "Kalima Shahadat"
+      ],
+      "correct": 2,
+      "explanation": "The 4th Kalima is Kalima Tauheed — the Word of Oneness, affirming Allah's absolute oneness.",
+      "tags": []
+    },
+    {
+      "id": "kalima-014",
+      "q": "Which Kalima is called 'The Word of Seeking Forgiveness'?",
+      "options": [
+        "Kalima Tauheed",
+        "Kalima Tamjeed",
+        "Kalima Radde Kufr",
+        "Kalima Astaghfar"
+      ],
+      "correct": 3,
+      "explanation": "The 5th Kalima — Kalima Astaghfar — is the Word of Seeking Forgiveness. Astaghfar means seeking pardon from Allah.",
+      "tags": []
+    },
+    {
+      "id": "kalima-015",
+      "q": "What is the 6th and last Kalima called?",
+      "options": [
+        "Kalima Astaghfar",
+        "Kalima Tahharat",
+        "Kalima Radde Kufr",
+        "Kalima Iman"
+      ],
+      "correct": 2,
+      "explanation": "The 6th Kalima is Kalima Radde Kufr — the Word of Rejecting Disbelief. It rejects all forms of Kufr and Shirk.",
+      "tags": []
+    },
+    {
+      "id": "kalima-016",
+      "q": "'Radde Kufr' means which of the following?",
+      "options": [
+        "Seeking forgiveness",
+        "The Pure Word",
+        "Rejecting Disbelief",
+        "The Word of Oneness"
+      ],
+      "correct": 2,
+      "explanation": "Radde Kufr means Rejection of Disbelief (Kufr). This Kalima involves rejecting all forms of disbelief and Shirk.",
+      "tags": []
+    },
+    {
+      "id": "kalima-017",
+      "q": "How many Kalimas are there in South Asian Islamic education?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "explanation": "There are 6 Kalimas widely taught in South Asian Islamic education: Tayyaba, Shahadat, Tamjeed, Tauheed, Astaghfar, and Radde Kufr.",
+      "tags": []
+    },
+    {
+      "id": "kalima-018",
+      "q": "Which Kalima is recited by a person when they first embrace Islam?",
+      "options": [
+        "Kalima Tamjeed",
+        "Kalima Tayyaba",
+        "Kalima Astaghfar",
+        "Kalima Radde Kufr"
+      ],
+      "correct": 1,
+      "explanation": "Kalima Tayyaba (La ilaha illallah Muhammadur Rasulullah) is the first declaration recited when a person enters Islam.",
+      "tags": []
+    },
+    {
+      "id": "kalima-019",
+      "q": "How many gates (doors) does Jannah have?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "explanation": "Jannah has 8 gates. This is established by authentic Hadith in Sahih Bukhari and Sahih Muslim.",
+      "tags": []
+    },
+    {
+      "id": "kalima-020",
+      "q": "How many gates does Jahannam (Hell) have?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 1,
+      "explanation": "Jahannam has 7 gates, as mentioned in Surah Al-Hijr (15:44): 'It has seven gates; for each gate is of them a portion designated.'",
+      "tags": []
+    },
+    {
+      "id": "kalima-021",
+      "q": "The Hadith about the eight gates of Jannah is found in which books?",
+      "options": [
+        "Abu Dawud and Tirmidhi",
+        "Sahih Bukhari and Sahih Muslim",
+        "Ibn Majah and Nasai",
+        "Muwatta Imam Malik"
+      ],
+      "correct": 1,
+      "explanation": "The Hadith about the eight gates of Jannah is narrated in both Sahih Bukhari and Sahih Muslim.",
+      "tags": []
+    },
+    {
+      "id": "kalima-022",
+      "q": "What is the name of the 1st door of Jannah?",
+      "options": [
+        "Baab Al-Jihad",
+        "Baab As-Salaat",
+        "Baab Ar-Rayyaan",
+        "Baab Al-Iman"
+      ],
+      "correct": 1,
+      "explanation": "The 1st door of Jannah is Baab As-Salaat, reserved for those who were punctual in their prayers (Salaat).",
+      "tags": []
+    },
+    {
+      "id": "kalima-023",
+      "q": "Through which door of Jannah will those who died in defence of Islam enter?",
+      "options": [
+        "Baab As-Salaat",
+        "Baab As-Sadaqah",
+        "Baab Al-Jihad",
+        "Baab Al-Hajj"
+      ],
+      "correct": 2,
+      "explanation": "Baab Al-Jihad (the Door of Jihad) is reserved for those who strived and died in the defence of Islam.",
+      "tags": []
+    },
+    {
+      "id": "kalima-024",
+      "q": "What is the name of the 3rd door of Jannah?",
+      "options": [
+        "Baab Ar-Rayyaan",
+        "Baab Al-Jihad",
+        "Baab As-Sadaqah",
+        "Baab Al-Hajj"
+      ],
+      "correct": 2,
+      "explanation": "The 3rd door of Jannah is Baab As-Sadaqah, reserved for those who frequently gave to charity (Sadaqah).",
+      "tags": []
+    },
+    {
+      "id": "kalima-025",
+      "q": "What is the name of the special door of Jannah reserved for those who fasted?",
+      "options": [
+        "Baab Al-Iman",
+        "Baab As-Salaat",
+        "Baab Ar-Rayyaan",
+        "Baab Al-Hajj"
+      ],
+      "correct": 2,
+      "explanation": "Baab Ar-Rayyaan is the door of Jannah exclusively for those who observed fasting, especially in Ramadan.",
+      "tags": []
+    },
+    {
+      "id": "kalima-026",
+      "q": "What does 'Ar-Rayyaan' mean?",
+      "options": [
+        "The Pure",
+        "Well-watered / Lush",
+        "The Faithful",
+        "The Steadfast"
+      ],
+      "correct": 1,
+      "explanation": "Rayyaan (ريان) means 'well-watered' or 'lush' — a fitting reward for those who endured hunger and thirst during fasts.",
+      "tags": []
+    },
+    {
+      "id": "kalima-027",
+      "q": "Which door of Jannah is for those who performed Hajj?",
+      "options": [
+        "Baab Al-Dhikr",
+        "Baab Ar-Rayyaan",
+        "Baab Al-Hajj",
+        "Baab Al-Jihad"
+      ],
+      "correct": 2,
+      "explanation": "Baab Al-Hajj — the Door of Pilgrimage — is reserved for those who performed the Hajj.",
+      "tags": []
+    },
+    {
+      "id": "kalima-028",
+      "q": "Which is the 6th door of Jannah?",
+      "options": [
+        "Baab Al-Iman",
+        "Baab Al-Dhikr",
+        "Baab Al-Kaazimeen Al-Ghaiz Wal Aafina Anin Naas",
+        "Baab Ar-Rayyaan"
+      ],
+      "correct": 2,
+      "explanation": "The 6th door is Baab Al-Kaazimeen Al-Ghaiz Wal Aafina Anin Naas — for those who suppress anger and forgive everyone.",
+      "tags": []
+    },
+    {
+      "id": "kalima-029",
+      "q": "The 6th door of Jannah is reserved for those who:",
+      "options": [
+        "Prayed frequently",
+        "Gave Sadaqah generously",
+        "Suppressed anger and were forgiving",
+        "Memorised the Quran"
+      ],
+      "correct": 2,
+      "explanation": "Baab Al-Kaazimeen Al-Ghaiz Wal Aafina Anin Naas is for those who control their anger and forgive others — reflecting the Islamic emphasis on forbearance (hilm).",
+      "tags": []
+    },
+    {
+      "id": "kalima-030",
+      "q": "What is the 7th door of Jannah called?",
+      "options": [
+        "Baab Al-Dhikr",
+        "Baab Al-Iman",
+        "Baab As-Sadaqah",
+        "Baab Al-Hajj"
+      ],
+      "correct": 1,
+      "explanation": "The 7th door is Baab Al-Iman — reserved for those who have sincere faith and trust in Allah.",
+      "tags": []
+    },
+    {
+      "id": "kalima-031",
+      "q": "Baab Al-Dhikr is the ______ door of Jannah.",
+      "options": [
+        "5th",
+        "6th",
+        "7th",
+        "8th"
+      ],
+      "correct": 3,
+      "explanation": "Baab Al-Dhikr is the 8th and last door of Jannah, reserved for those who constantly remember Allah (Dhikr).",
+      "tags": []
+    },
+    {
+      "id": "kalima-032",
+      "q": "Through which door of Jannah will those who constantly remembered Allah enter?",
+      "options": [
+        "Baab Al-Iman",
+        "Baab Al-Jihad",
+        "Baab Al-Dhikr",
+        "Baab As-Salaat"
+      ],
+      "correct": 2,
+      "explanation": "Baab Al-Dhikr (the Door of Remembrance) is reserved for those who constantly and excessively engaged in Dhikr — remembrance of Allah.",
+      "tags": []
+    },
+    {
+      "id": "kalima-033",
+      "q": "Which door of Jannah is most frequently tested in PPSC/FPSC papers?",
+      "options": [
+        "Baab Al-Iman",
+        "Baab Al-Jihad",
+        "Baab Ar-Rayyaan",
+        "Baab Al-Dhikr"
+      ],
+      "correct": 2,
+      "explanation": "Baab Ar-Rayyaan (the fasting gate) is the most commonly tested door of Jannah in competitive exams because of its distinctive name and specific eligibility.",
+      "tags": []
+    },
+    {
+      "id": "kalima-034",
+      "q": "Which is the longest-named door of Jannah?",
+      "options": [
+        "Baab As-Salaat",
+        "Baab Ar-Rayyaan",
+        "Baab Al-Kaazimeen Al-Ghaiz Wal Aafina Anin Naas",
+        "Baab Al-Dhikr"
+      ],
+      "correct": 2,
+      "explanation": "Baab Al-Kaazimeen Al-Ghaiz Wal Aafina Anin Naas is the longest-named gate of Jannah.",
+      "tags": []
+    },
+    {
+      "id": "kalima-035",
+      "q": "According to Hadith, a person who excels in all acts of worship can enter Jannah through:",
+      "options": [
+        "Only the Baab As-Salaat",
+        "Only the Baab Ar-Rayyaan",
+        "Any of the eight gates",
+        "The gate of the Prophet's choice"
+      ],
+      "correct": 2,
+      "explanation": "According to a Hadith in Sahih Muslim, a person who performs all forms of worship can enter Jannah through any of the eight gates.",
+      "tags": []
+    },
+    {
+      "id": "kalima-036",
+      "q": "The Hadith about the eight gates of Jannah is narrated by which Companion?",
+      "options": [
+        "Abu Hurairah (RA)",
+        "Abu Bakr Siddiq (RA)",
+        "Umar ibn al-Khattab (RA)",
+        "Ali ibn Abi Talib (RA)"
+      ],
+      "correct": 2,
+      "explanation": "The famous Hadith about the eight gates of Jannah is narrated by Umar ibn al-Khattab (RA) in Sahih Muslim.",
+      "tags": []
+    },
+    {
+      "id": "kalima-037",
+      "q": "Which Kalima directly relates to the concept of Tawheed (Oneness of Allah)?",
+      "options": [
+        "Kalima Shahadat",
+        "Kalima Tamjeed",
+        "Kalima Tauheed",
+        "Kalima Radde Kufr"
+      ],
+      "correct": 2,
+      "explanation": "Kalima Tauheed (the 4th Kalima) directly affirms the concept of Tawheed — the absolute and undivided oneness of Allah.",
+      "tags": []
+    },
+    {
+      "id": "kalima-038",
+      "q": "The word 'Kalima' in Arabic means:",
+      "options": [
+        "Prayer",
+        "Word or statement",
+        "Testimony",
+        "Pillar"
+      ],
+      "correct": 1,
+      "explanation": "'Kalima' (كلمة) in Arabic means 'word' or 'statement.' The six Kalimas are six important statements of Islamic faith.",
+      "tags": []
+    },
+    {
+      "id": "kalima-039",
+      "q": "Kalima Astaghfar is a prayer for:",
+      "options": [
+        "Glorification of Allah",
+        "Rejection of Shirk",
+        "Forgiveness of sins",
+        "Acknowledgement of prophets"
+      ],
+      "correct": 2,
+      "explanation": "Kalima Astaghfar (the 5th Kalima) is the Word of Seeking Forgiveness — a prayer for Allah's pardon and purification of the soul.",
+      "tags": []
+    },
+    {
+      "id": "kalima-040",
+      "q": "Which Kalima combines declaration of faith in Allah AND His Prophet (PBUH)?",
+      "options": [
+        "Kalima Tamjeed",
+        "Kalima Tayyaba",
+        "Kalima Astaghfar",
+        "Kalima Radde Kufr"
+      ],
+      "correct": 1,
+      "explanation": "Kalima Tayyaba = La ilaha illallah (faith in Allah) + Muhammadur Rasulullah (faith in the Prophet PBUH). It is the foundational dual declaration.",
+      "tags": []
+    },
+    {
+      "id": "kalima-041",
+      "q": "Surah Al-Hijr verse 44 mentions:",
+      "options": [
+        "8 gates of Jannah",
+        "7 gates of Jahannam",
+        "6 Kalimas",
+        "Names of 8 angels"
+      ],
+      "correct": 1,
+      "explanation": "Surah Al-Hijr (15:44) states: 'It has seven gates; for each gate is of them a portion designated.' — referring to the 7 gates of Jahannam.",
+      "tags": []
+    },
+    {
+      "id": "kalima-042",
+      "q": "Kalima Tamjeed specifically involves:",
+      "options": [
+        "Declaring oneness of Allah",
+        "Seeking forgiveness",
+        "Praising and glorifying Allah",
+        "Rejecting disbelief"
+      ],
+      "correct": 2,
+      "explanation": "Tamjeed means glorification. Kalima Tamjeed (3rd Kalima) involves praising and glorifying Allah through phrases like SubhanAllah, Alhamdulillah, etc.",
+      "tags": []
+    },
+    {
+      "id": "kalima-043",
+      "q": "Which pillar of Islam is directly reflected in Baab Ar-Rayyaan?",
+      "options": [
+        "Salaat (Prayer)",
+        "Zakat (Charity)",
+        "Sawm (Fasting)",
+        "Hajj (Pilgrimage)"
+      ],
+      "correct": 2,
+      "explanation": "Baab Ar-Rayyaan is the door for those who fasted — directly corresponding to Sawm (Fasting), the 3rd Pillar of Islam.",
+      "tags": []
+    },
+    {
+      "id": "kalima-044",
+      "q": "The 5th door Baab Al-Hajj corresponds to which Pillar of Islam?",
+      "options": [
+        "Salaat",
+        "Zakat",
+        "Sawm",
+        "Hajj"
+      ],
+      "correct": 3,
+      "explanation": "The 5th door is Baab Al-Hajj — corresponding directly to the 5th Pillar of Islam, Hajj (Pilgrimage).",
+      "tags": []
+    },
+    {
+      "id": "kalima-045",
+      "q": "Which of the following is NOT one of the six Kalimas?",
+      "options": [
+        "Kalima Tamjeed",
+        "Kalima Tauheed",
+        "Kalima Noor",
+        "Kalima Astaghfar"
+      ],
+      "correct": 2,
+      "explanation": "Kalima Noor is not one of the six Kalimas. The six are: Tayyaba, Shahadat, Tamjeed, Tauheed, Astaghfar, and Radde Kufr.",
+      "tags": []
+    },
+    {
+      "id": "kalima-046",
+      "q": "'Kufr' in the name Kalima Radde Kufr means:",
+      "options": [
+        "Forgiveness",
+        "Disbelief",
+        "Charity",
+        "Oneness"
+      ],
+      "correct": 1,
+      "explanation": "Kufr (كفر) means disbelief or rejection of Islamic faith. Radde Kufr means Rejection of Disbelief.",
+      "tags": []
+    },
+    {
+      "id": "kalima-047",
+      "q": "Baab Al-Jihad is for Muslims who:",
+      "options": [
+        "Performed Hajj five times",
+        "Fasted every Monday and Thursday",
+        "Died in defence of Islam",
+        "Gave the most Zakat"
+      ],
+      "correct": 2,
+      "explanation": "Baab Al-Jihad is specifically reserved for those who strived and gave their lives in the defence of Islam.",
+      "tags": []
+    },
+    {
+      "id": "kalima-048",
+      "q": "Which number Kalima is Kalima Astaghfar?",
+      "options": [
+        "3rd",
+        "4th",
+        "5th",
+        "6th"
+      ],
+      "correct": 2,
+      "explanation": "Kalima Astaghfar is the 5th Kalima in the sequence of six Kalimas.",
+      "tags": []
+    },
+    {
+      "id": "kalima-049",
+      "q": "Kalima Tayyaba forms the basis of which Pillar of Islam?",
+      "options": [
+        "Salaat",
+        "Zakat",
+        "Sawm",
+        "Shahadah"
+      ],
+      "correct": 3,
+      "explanation": "Kalima Tayyaba (La ilaha illallah Muhammadur Rasulullah) forms the basis of Shahadah — the 1st Pillar of Islam.",
+      "tags": []
+    },
+    {
+      "id": "kalima-050",
+      "q": "Through Baab Al-Iman, who will enter Jannah?",
+      "options": [
+        "Only those who prayed 5 times daily",
+        "Those who memorised Quran",
+        "Those with sincere faith who followed Allah's commands",
+        "Only the Prophets"
+      ],
+      "correct": 2,
+      "explanation": "Baab Al-Iman (7th door) is for those who have sincere faith (Iman) in Allah and fulfilled their life according to His commands.",
+      "tags": []
+    },
+    {
+      "id": "kalima-051",
+      "q": "Baab As-Sadaqah admits those who gave charity to all of the following EXCEPT:",
+      "options": [
+        "Orphans",
+        "Travellers in need",
+        "Parents",
+        "Wealthy merchants"
+      ],
+      "correct": 3,
+      "explanation": "Baab As-Sadaqah is for those who gave to parents, orphans, the helpless, and travellers in need. Giving to wealthy merchants is not Sadaqah in this context.",
+      "tags": []
+    },
+    {
+      "id": "kalima-052",
+      "q": "Which Kalima is recited during Hajj as the pilgrims' key declaration?",
+      "options": [
+        "Kalima Tayyaba",
+        "Kalima Tamjeed",
+        "Kalima Tauheed",
+        "Kalima Astaghfar"
+      ],
+      "correct": 2,
+      "explanation": "Kalima Tauheed is the Kalima specifically recited during Hajj — affirming the absolute oneness of Allah during the pilgrimage.",
+      "tags": []
+    },
+    {
+      "id": "kalima-053",
+      "q": "Kalima Shahadat is the formal declaration recited when:",
+      "options": [
+        "Performing Hajj",
+        "Giving Zakat",
+        "A person accepts Islam",
+        "Beginning Salaat"
+      ],
+      "correct": 2,
+      "explanation": "Kalima Shahadat is the formal declaration of faith recited when a person accepts or converts to Islam. It bears witness to Allah and His Prophet (PBUH).",
+      "tags": []
+    },
+    {
+      "id": "kalima-054",
+      "q": "How many marks do Kalimas and Doors of Jannah MCQs typically carry in PPSC One Paper Islamiat?",
+      "options": [
+        "1–2 marks",
+        "2–5 marks",
+        "7–10 marks",
+        "10–15 marks"
+      ],
+      "correct": 1,
+      "explanation": "Kalimas and Doors of Jannah topics typically yield 2–5 MCQs in PPSC and FPSC One Paper exams. Most frequently tested: Kalima Tayyaba details, name of fasting gate (Baab Ar-Rayyaan), total gates of Jannah and Jahannam.",
+      "tags": []
+    }
+  ]
+}

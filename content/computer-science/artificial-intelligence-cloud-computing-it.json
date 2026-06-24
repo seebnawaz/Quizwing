@@ -2,10 +2,10 @@
   "topic_id": "artificial-intelligence-cloud-computing-it",
   "topic_name": "Artificial Intelligence Cloud Computing It",
   "subject": "computer-science",
-  "version": 1,
-  "updated_at": "2026-05-12",
+  "version": 3,
+  "updated_at": "2026-06-24",
   "description": "Artificial Intelligence Cloud Computing It MCQs for PPSC, FPSC, NTS, CSS & PMS.",
-  "icon": "🤖",
+  "icon": "📄",
   "mcqs": [
     {
       "id": "artifi-001",

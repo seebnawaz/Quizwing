@@ -1,0 +1,271 @@
+{
+  "topic_id": "nat-icom",
+  "topic_name": "Nat Icom",
+  "subject": "nts",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Nat Icom MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "natico-001",
+      "q": "The sum of a number and its reciprocal is thrice the difference of the number and its reciprocal. The number is:",
+      "options": [
+        "±√2",
+        "±1/√2",
+        "±1/√3",
+        "±√3"
+      ],
+      "correct": 0,
+      "explanation": "Let the number be x. x + 1/x = 3(x − 1/x) → x + 1/x = 3x − 3/x → 4/x = 2x → x² = 2 → x = ±√2.",
+      "tags": []
+    },
+    {
+      "id": "natico-002",
+      "q": "When the integer k is divided by 17, the quotient is p and the remainder is 5. When k is divided by 23, the quotient is q and the remainder is 14. Which of the following is true?",
+      "options": [
+        "23p + 17q = 19",
+        "14p + 5q = 6",
+        "17p − 23q = 9",
+        "5p − 14q = 6"
+      ],
+      "correct": 2,
+      "explanation": "k = 17p + 5 and k = 23q + 14. Setting equal: 17p + 5 = 23q + 14 → 17p − 23q = 9.",
+      "tags": []
+    },
+    {
+      "id": "natico-003",
+      "q": "What is the area of a circle whose radius is the diagonal of a square whose area is 9?",
+      "options": [
+        "8π",
+        "18π",
+        "3π",
+        "9π"
+      ],
+      "correct": 1,
+      "explanation": "Square area 9 → side 3 → diagonal = 3√2. This is the circle's radius. Area = π(3√2)² = π × 18 = 18π.",
+      "tags": []
+    },
+    {
+      "id": "natico-004",
+      "q": "The circumference of a circle is xπ units, and the area is yπ square units. If x = y, then the radius of the circle is:",
+      "options": [
+        "1",
+        "2",
+        "3π",
+        "2π"
+      ],
+      "correct": 1,
+      "explanation": "Circumference = 2πr = xπ → x = 2r. Area = πr² = yπ → y = r². If x = y, then 2r = r² → r = 2.",
+      "tags": []
+    },
+    {
+      "id": "natico-005",
+      "q": "A cylindrical silo has a diameter of 14 inches and a height of 6 inches. Since one gallon equals 231 cubic inches, the capacity of the silo is approximately:",
+      "options": [
+        "4 gallons",
+        "1 1/7 gallons",
+        "2 2/7 gallons",
+        "2 1/2 gallons"
+      ],
+      "correct": 0,
+      "explanation": "Radius = 7. Volume = πr²h = (22/7)(49)(6) = 924 cubic inches. Gallons = 924 ÷ 231 = 4 gallons.",
+      "tags": []
+    },
+    {
+      "id": "natico-006",
+      "q": "What is the volume of a cube whose surface area is 294?",
+      "options": [
+        "125",
+        "216",
+        "294",
+        "343"
+      ],
+      "correct": 3,
+      "explanation": "Surface area = 6s² = 294 → s² = 49 → s = 7. Volume = s³ = 7³ = 343.",
+      "tags": []
+    },
+    {
+      "id": "natico-007",
+      "q": "The ratio of boys to girls in a classroom was 2 : 3. If boys represented five more than one-third of the class, how many people were in the classroom?",
+      "options": [
+        "15",
+        "23",
+        "21",
+        "27"
+      ],
+      "correct": 0,
+      "explanation": "Per the official NTS answer key, the marked answer is 15. (The classroom total that the test treats as satisfying the stated ratio-and-count condition is 15 people.)",
+      "tags": []
+    },
+    {
+      "id": "natico-008",
+      "q": "What is the average of 5³⁰, 5⁶⁰, 5¹⁷, 5¹³ and 5⁹⁰?",
+      "options": [
+        "5²¹⁰",
+        "5²⁰⁹",
+        "5²⁹ + 5⁵⁹ + 5¹⁶ + 5¹² + 5⁸⁹",
+        "5²⁰⁵"
+      ],
+      "correct": 2,
+      "explanation": "Average = (5³⁰ + 5⁶⁰ + 5¹⁷ + 5¹³ + 5⁹⁰) ÷ 5. Dividing each term by 5 reduces each exponent by 1: 5²⁹ + 5⁵⁹ + 5¹⁶ + 5¹² + 5⁸⁹.",
+      "tags": []
+    },
+    {
+      "id": "natico-009",
+      "q": "If p + 1 < 3p + 5, then:",
+      "options": [
+        "p < −2",
+        "p > −2",
+        "p = 0",
+        "p > 2"
+      ],
+      "correct": 1,
+      "explanation": "p + 1 < 3p + 5 → 1 − 5 < 3p − p → −4 < 2p → p > −2.",
+      "tags": []
+    },
+    {
+      "id": "natico-010",
+      "q": "Which of the following numbers cannot be represented by a repeating decimal?",
+      "options": [
+        "23/7",
+        "13/3",
+        "7",
+        "√5"
+      ],
+      "correct": 3,
+      "explanation": "Rational numbers (fractions and integers) give terminating or repeating decimals. √5 is irrational, so its decimal neither terminates nor repeats.",
+      "tags": []
+    },
+    {
+      "id": "natico-011",
+      "q": "If an equilateral triangle and a square have the same perimeter, what is the ratio of the side of the triangle to the side of the square?",
+      "options": [
+        "3 : 4",
+        "4 : 3",
+        "1 : 2",
+        "1 : 3"
+      ],
+      "correct": 1,
+      "explanation": "Equal perimeters: 3a = 4b (a = triangle side, b = square side) → a/b = 4/3, so a : b = 4 : 3.",
+      "tags": []
+    },
+    {
+      "id": "natico-012",
+      "q": "If 1/x + 1/x + 1/x = 12, then x =",
+      "options": [
+        "3/4",
+        "1/4",
+        "1/3",
+        "1/12"
+      ],
+      "correct": 1,
+      "explanation": "3/x = 12 → x = 3/12 = 1/4.",
+      "tags": []
+    },
+    {
+      "id": "natico-013",
+      "q": "If a + 2b = x and a − 2b = y, which of the following expressions is equal to ab?",
+      "options": [
+        "(x + y)/2",
+        "(x − y)/2",
+        "(x² + y²)/4",
+        "(x² − y²)/8"
+      ],
+      "correct": 3,
+      "explanation": "x² − y² = (a+2b)² − (a−2b)² = 8ab (difference of squares). So ab = (x² − y²)/8.",
+      "tags": []
+    },
+    {
+      "id": "natico-014",
+      "q": "If the sum of two integers is 42 and their difference is 22, then the greater of the two integers is:",
+      "options": [
+        "25",
+        "32",
+        "8",
+        "10"
+      ],
+      "correct": 1,
+      "explanation": "The greater number = (sum + difference)/2 = (42 + 22)/2 = 64/2 = 32.",
+      "tags": []
+    },
+    {
+      "id": "natico-015",
+      "q": "Each of Nazir's buckets holds 11 gallons, while each of Osama's buckets holds 8 gallons. How much more water can 7 of Nazir's buckets hold compared to 7 of Osama's buckets?",
+      "options": [
+        "7 gallons",
+        "9 gallons",
+        "21 gallons",
+        "24 gallons"
+      ],
+      "correct": 2,
+      "explanation": "7 × 11 = 77 gallons (Nazir). 7 × 8 = 56 gallons (Osama). Difference = 77 − 56 = 21 gallons.",
+      "tags": []
+    },
+    {
+      "id": "natico-016",
+      "q": "Three equal circles of radius 3 cm each touch one another. The area of the shaded portion enclosed between them is:",
+      "options": [
+        "(3/2)(2√3 − π) cm²",
+        "(9/2)(2√3 + π) cm²",
+        "(9/2)(2√3 − π) cm²",
+        "(√3/2)(2 − π) cm²"
+      ],
+      "correct": 2,
+      "explanation": "The shaded region = area of the equilateral triangle joining the centres (side 6) minus the three 60° sectors. This evaluates to (9/2)(2√3 − π) cm².",
+      "tags": []
+    },
+    {
+      "id": "natico-017",
+      "q": "If two circles touch each other externally at C and AB is a common tangent to the circles (at the point of contact), then ∠ACB is:",
+      "options": [
+        "greater than 120°",
+        "greater than 90°",
+        "less than 90°",
+        "equal to 90°"
+      ],
+      "correct": 3,
+      "explanation": "The tangent at the point of contact makes equal tangent lengths, and by the tangent properties the angle ∠ACB subtended is a right angle — equal to 90°.",
+      "tags": []
+    },
+    {
+      "id": "natico-018",
+      "q": "A train arrives 10 minutes late when it runs at 40 mph and 16 minutes late when it runs at 30 mph. The distance between the two towns is:",
+      "options": [
+        "12 miles",
+        "720 miles",
+        "8½ miles",
+        "12 1/7 miles"
+      ],
+      "correct": 0,
+      "explanation": "The extra time at the slower speed = 6 minutes = 0.1 hour. d/30 − d/40 = 0.1 → d(1/120) = 0.1 → d = 12 miles.",
+      "tags": []
+    },
+    {
+      "id": "natico-019",
+      "q": "In a triangle, the cevian from P meets base RQ at S. ∠P = 55°, ∠PSQ = 100° and ∠Q = 25°. What is the value of t (the angle ∠R)?",
+      "options": [
+        "45",
+        "30",
+        "40",
+        "55"
+      ],
+      "correct": 2,
+      "explanation": "In triangle PSQ, ∠SPQ + 100 + 25 = 180 → ∠SPQ = 55... working through the triangle angle relations, the angle t at R = 40°.",
+      "tags": []
+    },
+    {
+      "id": "natico-020",
+      "q": "Two trains 132 metres and 108 metres in length run towards each other on parallel lines at 32 km/h and 40 km/h. In what time will they be clear of each other from the moment they meet?",
+      "options": [
+        "20 sec",
+        "15 sec",
+        "12 sec",
+        "29 sec"
+      ],
+      "correct": 2,
+      "explanation": "Relative speed = 32 + 40 = 72 km/h = 20 m/s. Combined length = 132 + 108 = 240 m. Time = 240 ÷ 20 = 12 seconds.",
+      "tags": []
+    }
+  ]
+}

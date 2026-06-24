@@ -1,0 +1,1220 @@
+{
+  "topic_id": "political-science-concepts",
+  "topic_name": "Political Science Concepts",
+  "subject": "general-knowledge",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Political Science Concepts MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "politi-001",
+      "q": "What is the definition of Actual Malice?",
+      "options": [
+        "Knowing a statement is false or showing reckless disregard for the truth.",
+        "Management of international relations through negotiation.",
+        "Spread of nuclear weapons to additional states.",
+        "Organized group seeking to gain political power through elections."
+      ],
+      "correct": 0,
+      "explanation": "Actual Malice: Knowing a statement is false or showing reckless disregard for the truth.",
+      "tags": []
+    },
+    {
+      "id": "politi-002",
+      "q": "What is the definition of Acquisitive Model?",
+      "options": [
+        "System where citizens decide policies themselves rather than through representatives.",
+        "Bureaucracy model where top officials seek larger budgets and staff to expand power.",
+        "Coexistence of multiple social, religious or ethnic groups in society.",
+        "Voluntary organizations independent of government."
+      ],
+      "correct": 1,
+      "explanation": "Acquisitive Model: Bureaucracy model where top officials seek larger budgets and staff to expand power.",
+      "tags": []
+    },
+    {
+      "id": "politi-003",
+      "q": "What is the definition of Administrative Agency?",
+      "options": [
+        "Values and norms of the controlling social group in a society.",
+        "Policy is the outcome of bargaining among interest groups.",
+        "A government body created to perform a specific function.",
+        "Principle that everyone, including government, is subject to law."
+      ],
+      "correct": 2,
+      "explanation": "Administrative Agency: A government body created to perform a specific function.",
+      "tags": []
+    },
+    {
+      "id": "politi-004",
+      "q": "What is the definition of Agenda Setting?",
+      "options": [
+        "Theory that a small, powerful minority controls political decisions.",
+        "Process through which individuals acquire political beliefs.",
+        "System where the government assumes responsibility for citizens&#x27; well-being.",
+        "Process of determining which policy issues will receive public or governmental attention."
+      ],
+      "correct": 3,
+      "explanation": "Agenda Setting: Process of determining which policy issues will receive public or governmental attention.",
+      "tags": []
+    },
+    {
+      "id": "politi-005",
+      "q": "What is the definition of Amicus Curiae Brief?",
+      "options": [
+        "&#x27;Friend of the court&#x27; document filed by a non-party with interest in a case.",
+        "Ultranationalist, authoritarian system elevating the state above the individual.",
+        "Ability to influence or control others&#x27; behaviour.",
+        "Worldwide interconnection of economies, politics and cultures."
+      ],
+      "correct": 0,
+      "explanation": "Amicus Curiae Brief: &#x27;Friend of the court&#x27; document filed by a non-party with interest in a case.",
+      "tags": []
+    },
+    {
+      "id": "politi-006",
+      "q": "What is the definition of Appellate Court?",
+      "options": [
+        "20th-century ideology of ultranationalism and authoritarian rule.",
+        "Court that reviews decisions and procedures of lower courts for legal error.",
+        "Doctrine that ultimate authority resides with the people.",
+        "Political style that appeals to ordinary people against perceived elites."
+      ],
+      "correct": 1,
+      "explanation": "Appellate Court: Court that reviews decisions and procedures of lower courts for legal error.",
+      "tags": []
+    },
+    {
+      "id": "politi-007",
+      "q": "What is the definition of Aristocracy?",
+      "options": [
+        "Political system that divides power between national and regional governments.",
+        "Government where sovereignty rests with the people, not a monarch.",
+        "Rule by a privileged or &#x27;best&#x27; class (Greek aristos = best).",
+        "Pragmatic politics based on national interest, not ideology."
+      ],
+      "correct": 2,
+      "explanation": "Aristocracy: Rule by a privileged or &#x27;best&#x27; class (Greek aristos = best).",
+      "tags": []
+    },
+    {
+      "id": "politi-008",
+      "q": "What is the definition of Authoritarian Regime?",
+      "options": [
+        "Sharing of authority between central and state governments.",
+        "Doctrine that divides government into branches to prevent concentration of power.",
+        "Doctrine that government authority is limited by a constitution.",
+        "Government controlled by a single ruler or elite with limited political pluralism."
+      ],
+      "correct": 3,
+      "explanation": "Authoritarian Regime: Government controlled by a single ruler or elite with limited political pluralism.",
+      "tags": []
+    },
+    {
+      "id": "politi-009",
+      "q": "What is the definition of Bicameral Legislature?",
+      "options": [
+        "Legislature consisting of two chambers or houses.",
+        "Permanent union of states under a central authority.",
+        "Voluntary agreement among people to form a government for mutual benefit.",
+        "Absence of central governing authority among states in the international system."
+      ],
+      "correct": 0,
+      "explanation": "Bicameral Legislature: Legislature consisting of two chambers or houses.",
+      "tags": []
+    },
+    {
+      "id": "politi-010",
+      "q": "What is the definition of Bill of Rights?",
+      "options": [
+        "Institution exercising legitimate authority to make and enforce laws.",
+        "First 10 amendments to the US Constitution protecting fundamental liberties.",
+        "Advocates public or cooperative ownership for equality.",
+        "Distribution of power preventing dominance by any one nation."
+      ],
+      "correct": 1,
+      "explanation": "Bill of Rights: First 10 amendments to the US Constitution protecting fundamental liberties.",
+      "tags": []
+    },
+    {
+      "id": "politi-011",
+      "q": "What is the definition of Capitalism?",
+      "options": [
+        "Opposition team designated to scrutinize government ministers.",
+        "The right to vote in political elections.",
+        "Economic system where production and trade are privately owned for profit.",
+        "Administrative system with hierarchy and formal rules."
+      ],
+      "correct": 2,
+      "explanation": "Capitalism: Economic system where production and trade are privately owned for profit.",
+      "tags": []
+    },
+    {
+      "id": "politi-012",
+      "q": "What is the definition of Checks and Balances?",
+      "options": [
+        "Merger of competing firms within the same industry.",
+        "Government that exercises total control over all aspects of life.",
+        "Forms when multiple parties cooperate to secure a parliamentary majority.",
+        "System allowing government branches to limit each other&#x27;s powers."
+      ],
+      "correct": 3,
+      "explanation": "Checks and Balances: System allowing government branches to limit each other&#x27;s powers.",
+      "tags": []
+    },
+    {
+      "id": "politi-013",
+      "q": "What is the definition of Civil Law?",
+      "options": [
+        "Body of law that governs disputes between private persons over non-criminal matters.",
+        "Comprehensive belief system about politics, economics and society.",
+        "Centralizes authority; local governments have only delegated powers.",
+        "Dispersing powers from central to regional or local levels."
+      ],
+      "correct": 0,
+      "explanation": "Civil Law: Body of law that governs disputes between private persons over non-criminal matters.",
+      "tags": []
+    },
+    {
+      "id": "politi-014",
+      "q": "What is the definition of Civil Liberties?",
+      "options": [
+        "Goods and services brought into a country from abroad.",
+        "Individual freedoms protected from government interference.",
+        "Extends voting rights to all adult citizens.",
+        "Concept stressing accountability, transparency and the rule of law."
+      ],
+      "correct": 1,
+      "explanation": "Civil Liberties: Individual freedoms protected from government interference.",
+      "tags": []
+    },
+    {
+      "id": "politi-015",
+      "q": "What is the definition of Common Law?",
+      "options": [
+        "Policy of avoiding foreign entanglements.",
+        "Government that holds power in practice, though not legally recognized.",
+        "Judge-made, precedent-based law originating in England.",
+        "Process of charging and removing public officials from office."
+      ],
+      "correct": 2,
+      "explanation": "Common Law: Judge-made, precedent-based law originating in England.",
+      "tags": []
+    },
+    {
+      "id": "politi-016",
+      "q": "What is the definition of Communism?",
+      "options": [
+        "Supports active fiscal policy to stabilize the economy.",
+        "Government that is legally established and constitutionally recognized.",
+        "Tendency of courts to interpret laws broadly to promote social change.",
+        "System advocating communal ownership of property and the means of production."
+      ],
+      "correct": 3,
+      "explanation": "Communism: System advocating communal ownership of property and the means of production.",
+      "tags": []
+    },
+    {
+      "id": "politi-017",
+      "q": "What is the definition of Concurrent Powers?",
+      "options": [
+        "Powers shared by national and state governments.",
+        "Government branch responsible for making laws.",
+        "Power of courts to assess the constitutionality of laws and actions.",
+        "Concept guiding foreign policy to safeguard security and prosperity."
+      ],
+      "correct": 0,
+      "explanation": "Concurrent Powers: Powers shared by national and state governments.",
+      "tags": []
+    },
+    {
+      "id": "politi-018",
+      "q": "What is the definition of Confederal System?",
+      "options": [
+        "Public acceptance of a government&#x27;s right to rule.",
+        "League of independent states granting limited powers to a central body.",
+        "Shared values, attitudes, and practices about government in a society.",
+        "Framework for interpreting political events and guiding action."
+      ],
+      "correct": 1,
+      "explanation": "Confederal System: League of independent states granting limited powers to a central body.",
+      "tags": []
+    },
+    {
+      "id": "politi-019",
+      "q": "What is the definition of Confederation?",
+      "options": [
+        "Combines majority rule with protection of individual rights.",
+        "Organized group seeking to gain political power through elections.",
+        "Voluntary association of sovereign states with weak central authority.",
+        "Government actions and decisions addressing public issues."
+      ],
+      "correct": 2,
+      "explanation": "Confederation: Voluntary association of sovereign states with weak central authority.",
+      "tags": []
+    },
+    {
+      "id": "politi-020",
+      "q": "What is the definition of Constitution?",
+      "options": [
+        "Promotes civil liberties, social progress, and regulated capitalism.",
+        "Voluntary organizations independent of government.",
+        "Direct citizen vote on proposed legislation or constitutional change.",
+        "Fundamental law defining government powers, structure, and limits."
+      ],
+      "correct": 3,
+      "explanation": "Constitution: Fundamental law defining government powers, structure, and limits.",
+      "tags": []
+    },
+    {
+      "id": "politi-021",
+      "q": "What is the definition of Consent of the People?",
+      "options": [
+        "Doctrine that legitimate authority derives from citizens&#x27; approval.",
+        "Opposes most government intervention in social and economic affairs.",
+        "Principle that everyone, including government, is subject to law.",
+        "Supreme legal authority within a territory, free from external control."
+      ],
+      "correct": 0,
+      "explanation": "Consent of the People: Doctrine that legitimate authority derives from citizens&#x27; approval.",
+      "tags": []
+    },
+    {
+      "id": "politi-022",
+      "q": "What is the definition of Conservatism?",
+      "options": [
+        "Maximum individual freedom consistent with the rights of others.",
+        "Ideology favouring tradition, limited government, and cautious change.",
+        "System where the government assumes responsibility for citizens&#x27; well-being.",
+        "Openness in government actions to ensure accountability."
+      ],
+      "correct": 1,
+      "explanation": "Conservatism: Ideology favouring tradition, limited government, and cautious change.",
+      "tags": []
+    },
+    {
+      "id": "politi-023",
+      "q": "What is the definition of Criminal Law?",
+      "options": [
+        "View that government should act according to majority preference.",
+        "Worldwide interconnection of economies, politics and cultures.",
+        "Defines offences against society and prescribes punishment.",
+        "Knowing a statement is false or showing reckless disregard for the truth."
+      ],
+      "correct": 2,
+      "explanation": "Criminal Law: Defines offences against society and prescribes punishment.",
+      "tags": []
+    },
+    {
+      "id": "politi-024",
+      "q": "What is the definition of Deficit?",
+      "options": [
+        "Inherent rights not dependent on government recognition.",
+        "Political style that appeals to ordinary people against perceived elites.",
+        "Bureaucracy model where top officials seek larger budgets and staff to expand power.",
+        "Shortfall between government expenditures and revenues."
+      ],
+      "correct": 3,
+      "explanation": "Deficit: Shortfall between government expenditures and revenues.",
+      "tags": []
+    },
+    {
+      "id": "politi-025",
+      "q": "What is the definition of Democracy?",
+      "options": [
+        "Government by the people, directly or indirectly through elected representatives.",
+        "Spread of nuclear weapons to additional states.",
+        "Pragmatic politics based on national interest, not ideology.",
+        "A government body created to perform a specific function."
+      ],
+      "correct": 0,
+      "explanation": "Democracy: Government by the people, directly or indirectly through elected representatives.",
+      "tags": []
+    },
+    {
+      "id": "politi-026",
+      "q": "What is the definition of Fusion of Powers?",
+      "options": [
+        "Coexistence of multiple social, religious or ethnic groups in society.",
+        "Parliamentary system where Executive and Legislature are interconnected.",
+        "Doctrine that government authority is limited by a constitution.",
+        "Process of determining which policy issues will receive public or governmental attention."
+      ],
+      "correct": 1,
+      "explanation": "Fusion of Powers: Parliamentary system where Executive and Legislature are interconnected.",
+      "tags": []
+    },
+    {
+      "id": "politi-027",
+      "q": "What is the definition of Separation of Powers (Presidential)?",
+      "options": [
+        "Policy is the outcome of bargaining among interest groups.",
+        "Absence of central governing authority among states in the international system.",
+        "System where Legislative, Executive, and Judiciary are independent.",
+        "&#x27;Friend of the court&#x27; document filed by a non-party with interest in a case."
+      ],
+      "correct": 2,
+      "explanation": "Separation of Powers (Presidential): System where Legislative, Executive, and Judiciary are independent.",
+      "tags": []
+    },
+    {
+      "id": "politi-028",
+      "q": "What is the definition of Devolution?",
+      "options": [
+        "Process through which individuals acquire political beliefs.",
+        "Distribution of power preventing dominance by any one nation.",
+        "Court that reviews decisions and procedures of lower courts for legal error.",
+        "Transfer of powers from central to regional or local authorities."
+      ],
+      "correct": 3,
+      "explanation": "Devolution: Transfer of powers from central to regional or local authorities.",
+      "tags": []
+    },
+    {
+      "id": "politi-029",
+      "q": "What is the definition of Détente?",
+      "options": [
+        "Easing of strained political relations between nations.",
+        "Ability to influence or control others&#x27; behaviour.",
+        "Administrative system with hierarchy and formal rules.",
+        "Rule by a privileged or &#x27;best&#x27; class (Greek aristos = best)."
+      ],
+      "correct": 0,
+      "explanation": "Détente: Easing of strained political relations between nations.",
+      "tags": []
+    },
+    {
+      "id": "politi-030",
+      "q": "What is the definition of Diplomacy?",
+      "options": [
+        "Doctrine that ultimate authority resides with the people.",
+        "Management of international relations through negotiation.",
+        "Forms when multiple parties cooperate to secure a parliamentary majority.",
+        "Government controlled by a single ruler or elite with limited political pluralism."
+      ],
+      "correct": 1,
+      "explanation": "Diplomacy: Management of international relations through negotiation.",
+      "tags": []
+    },
+    {
+      "id": "politi-031",
+      "q": "What is the definition of Direct Democracy?",
+      "options": [
+        "Government where sovereignty rests with the people, not a monarch.",
+        "Dispersing powers from central to regional or local levels.",
+        "System where citizens decide policies themselves rather than through representatives.",
+        "Legislature consisting of two chambers or houses."
+      ],
+      "correct": 2,
+      "explanation": "Direct Democracy: System where citizens decide policies themselves rather than through representatives.",
+      "tags": []
+    },
+    {
+      "id": "politi-032",
+      "q": "What is the definition of Dominant Culture?",
+      "options": [
+        "Doctrine that divides government into branches to prevent concentration of power.",
+        "Concept stressing accountability, transparency and the rule of law.",
+        "First 10 amendments to the US Constitution protecting fundamental liberties.",
+        "Values and norms of the controlling social group in a society."
+      ],
+      "correct": 3,
+      "explanation": "Dominant Culture: Values and norms of the controlling social group in a society.",
+      "tags": []
+    },
+    {
+      "id": "politi-033",
+      "q": "What is the definition of Elite Theory?",
+      "options": [
+        "Theory that a small, powerful minority controls political decisions.",
+        "Voluntary agreement among people to form a government for mutual benefit.",
+        "Process of charging and removing public officials from office.",
+        "Economic system where production and trade are privately owned for profit."
+      ],
+      "correct": 0,
+      "explanation": "Elite Theory: Theory that a small, powerful minority controls political decisions.",
+      "tags": []
+    },
+    {
+      "id": "politi-034",
+      "q": "What is the definition of Fascism?",
+      "options": [
+        "Advocates public or cooperative ownership for equality.",
+        "Ultranationalist, authoritarian system elevating the state above the individual.",
+        "Tendency of courts to interpret laws broadly to promote social change.",
+        "System allowing government branches to limit each other&#x27;s powers."
+      ],
+      "correct": 1,
+      "explanation": "Fascism: Ultranationalist, authoritarian system elevating the state above the individual.",
+      "tags": []
+    },
+    {
+      "id": "politi-035",
+      "q": "What is the definition of Modern Fascism?",
+      "options": [
+        "The right to vote in political elections.",
+        "Concept guiding foreign policy to safeguard security and prosperity.",
+        "20th-century ideology of ultranationalism and authoritarian rule.",
+        "Body of law that governs disputes between private persons over non-criminal matters."
+      ],
+      "correct": 2,
+      "explanation": "Modern Fascism: 20th-century ideology of ultranationalism and authoritarian rule.",
+      "tags": []
+    },
+    {
+      "id": "politi-036",
+      "q": "What is the definition of Federal System?",
+      "options": [
+        "Government that exercises total control over all aspects of life.",
+        "Framework for interpreting political events and guiding action.",
+        "Individual freedoms protected from government interference.",
+        "Political system that divides power between national and regional governments."
+      ],
+      "correct": 3,
+      "explanation": "Federal System: Political system that divides power between national and regional governments.",
+      "tags": []
+    },
+    {
+      "id": "politi-037",
+      "q": "What is the definition of Federalism?",
+      "options": [
+        "Sharing of authority between central and state governments.",
+        "Centralizes authority; local governments have only delegated powers.",
+        "Government actions and decisions addressing public issues.",
+        "Judge-made, precedent-based law originating in England."
+      ],
+      "correct": 0,
+      "explanation": "Federalism: Sharing of authority between central and state governments.",
+      "tags": []
+    },
+    {
+      "id": "politi-038",
+      "q": "What is the definition of Federation?",
+      "options": [
+        "Extends voting rights to all adult citizens.",
+        "Permanent union of states under a central authority.",
+        "Direct citizen vote on proposed legislation or constitutional change.",
+        "System advocating communal ownership of property and the means of production."
+      ],
+      "correct": 1,
+      "explanation": "Federation: Permanent union of states under a central authority.",
+      "tags": []
+    },
+    {
+      "id": "politi-039",
+      "q": "What is the definition of Government?",
+      "options": [
+        "Government that holds power in practice, though not legally recognized.",
+        "Supreme legal authority within a territory, free from external control.",
+        "Institution exercising legitimate authority to make and enforce laws.",
+        "Powers shared by national and state governments."
+      ],
+      "correct": 2,
+      "explanation": "Government: Institution exercising legitimate authority to make and enforce laws.",
+      "tags": []
+    },
+    {
+      "id": "politi-040",
+      "q": "What is the definition of Shadow Cabinet?",
+      "options": [
+        "Government that is legally established and constitutionally recognized.",
+        "Openness in government actions to ensure accountability.",
+        "League of independent states granting limited powers to a central body.",
+        "Opposition team designated to scrutinize government ministers."
+      ],
+      "correct": 3,
+      "explanation": "Shadow Cabinet: Opposition team designated to scrutinize government ministers.",
+      "tags": []
+    },
+    {
+      "id": "politi-041",
+      "q": "What is the definition of Horizontal Integration?",
+      "options": [
+        "Merger of competing firms within the same industry.",
+        "Power of courts to assess the constitutionality of laws and actions.",
+        "Knowing a statement is false or showing reckless disregard for the truth.",
+        "Voluntary association of sovereign states with weak central authority."
+      ],
+      "correct": 0,
+      "explanation": "Horizontal Integration: Merger of competing firms within the same industry.",
+      "tags": []
+    },
+    {
+      "id": "politi-042",
+      "q": "What is the definition of Ideology?",
+      "options": [
+        "Shared values, attitudes, and practices about government in a society.",
+        "Comprehensive belief system about politics, economics and society.",
+        "Bureaucracy model where top officials seek larger budgets and staff to expand power.",
+        "Fundamental law defining government powers, structure, and limits."
+      ],
+      "correct": 1,
+      "explanation": "Ideology: Comprehensive belief system about politics, economics and society.",
+      "tags": []
+    },
+    {
+      "id": "politi-043",
+      "q": "What is the definition of Imports?",
+      "options": [
+        "Organized group seeking to gain political power through elections.",
+        "A government body created to perform a specific function.",
+        "Goods and services brought into a country from abroad.",
+        "Doctrine that legitimate authority derives from citizens&#x27; approval."
+      ],
+      "correct": 2,
+      "explanation": "Imports: Goods and services brought into a country from abroad.",
+      "tags": []
+    },
+    {
+      "id": "politi-044",
+      "q": "What is the definition of Isolationism?",
+      "options": [
+        "Voluntary organizations independent of government.",
+        "Process of determining which policy issues will receive public or governmental attention.",
+        "Ideology favouring tradition, limited government, and cautious change.",
+        "Policy of avoiding foreign entanglements."
+      ],
+      "correct": 3,
+      "explanation": "Isolationism: Policy of avoiding foreign entanglements.",
+      "tags": []
+    },
+    {
+      "id": "politi-045",
+      "q": "What is the definition of Keynesian Economics?",
+      "options": [
+        "Supports active fiscal policy to stabilize the economy.",
+        "Principle that everyone, including government, is subject to law.",
+        "&#x27;Friend of the court&#x27; document filed by a non-party with interest in a case.",
+        "Defines offences against society and prescribes punishment."
+      ],
+      "correct": 0,
+      "explanation": "Keynesian Economics: Supports active fiscal policy to stabilize the economy.",
+      "tags": []
+    },
+    {
+      "id": "politi-046",
+      "q": "What is the definition of Legislature?",
+      "options": [
+        "System where the government assumes responsibility for citizens&#x27; well-being.",
+        "Government branch responsible for making laws.",
+        "Court that reviews decisions and procedures of lower courts for legal error.",
+        "Shortfall between government expenditures and revenues."
+      ],
+      "correct": 1,
+      "explanation": "Legislature: Government branch responsible for making laws.",
+      "tags": []
+    },
+    {
+      "id": "politi-047",
+      "q": "What is the definition of Legitimacy?",
+      "options": [
+        "Worldwide interconnection of economies, politics and cultures.",
+        "Rule by a privileged or &#x27;best&#x27; class (Greek aristos = best).",
+        "Public acceptance of a government&#x27;s right to rule.",
+        "Government by the people, directly or indirectly through elected representatives."
+      ],
+      "correct": 2,
+      "explanation": "Legitimacy: Public acceptance of a government&#x27;s right to rule.",
+      "tags": []
+    },
+    {
+      "id": "politi-048",
+      "q": "What is the definition of Liberal Democracy?",
+      "options": [
+        "Political style that appeals to ordinary people against perceived elites.",
+        "Government controlled by a single ruler or elite with limited political pluralism.",
+        "Parliamentary system where Executive and Legislature are interconnected.",
+        "Combines majority rule with protection of individual rights."
+      ],
+      "correct": 3,
+      "explanation": "Liberal Democracy: Combines majority rule with protection of individual rights.",
+      "tags": []
+    },
+    {
+      "id": "politi-049",
+      "q": "What is the definition of Liberalism?",
+      "options": [
+        "Promotes civil liberties, social progress, and regulated capitalism.",
+        "Pragmatic politics based on national interest, not ideology.",
+        "Legislature consisting of two chambers or houses.",
+        "System where Legislative, Executive, and Judiciary are independent."
+      ],
+      "correct": 0,
+      "explanation": "Liberalism: Promotes civil liberties, social progress, and regulated capitalism.",
+      "tags": []
+    },
+    {
+      "id": "politi-050",
+      "q": "What is the definition of Libertarianism?",
+      "options": [
+        "Doctrine that government authority is limited by a constitution.",
+        "Opposes most government intervention in social and economic affairs.",
+        "First 10 amendments to the US Constitution protecting fundamental liberties.",
+        "Transfer of powers from central to regional or local authorities."
+      ],
+      "correct": 1,
+      "explanation": "Libertarianism: Opposes most government intervention in social and economic affairs.",
+      "tags": []
+    },
+    {
+      "id": "politi-051",
+      "q": "What is the definition of Liberty?",
+      "options": [
+        "Absence of central governing authority among states in the international system.",
+        "Economic system where production and trade are privately owned for profit.",
+        "Maximum individual freedom consistent with the rights of others.",
+        "Easing of strained political relations between nations."
+      ],
+      "correct": 2,
+      "explanation": "Liberty: Maximum individual freedom consistent with the rights of others.",
+      "tags": []
+    },
+    {
+      "id": "politi-052",
+      "q": "What is the definition of Majoritarianism?",
+      "options": [
+        "Distribution of power preventing dominance by any one nation.",
+        "System allowing government branches to limit each other&#x27;s powers.",
+        "Management of international relations through negotiation.",
+        "View that government should act according to majority preference."
+      ],
+      "correct": 3,
+      "explanation": "Majoritarianism: View that government should act according to majority preference.",
+      "tags": []
+    },
+    {
+      "id": "politi-053",
+      "q": "What is the definition of Natural Rights?",
+      "options": [
+        "Inherent rights not dependent on government recognition.",
+        "Administrative system with hierarchy and formal rules.",
+        "Body of law that governs disputes between private persons over non-criminal matters.",
+        "System where citizens decide policies themselves rather than through representatives."
+      ],
+      "correct": 0,
+      "explanation": "Natural Rights: Inherent rights not dependent on government recognition.",
+      "tags": []
+    },
+    {
+      "id": "politi-054",
+      "q": "What is the definition of Nuclear Proliferation?",
+      "options": [
+        "Forms when multiple parties cooperate to secure a parliamentary majority.",
+        "Spread of nuclear weapons to additional states.",
+        "Individual freedoms protected from government interference.",
+        "Values and norms of the controlling social group in a society."
+      ],
+      "correct": 1,
+      "explanation": "Nuclear Proliferation: Spread of nuclear weapons to additional states.",
+      "tags": []
+    },
+    {
+      "id": "politi-055",
+      "q": "What is the definition of Pluralism?",
+      "options": [
+        "Dispersing powers from central to regional or local levels.",
+        "Judge-made, precedent-based law originating in England.",
+        "Coexistence of multiple social, religious or ethnic groups in society.",
+        "Theory that a small, powerful minority controls political decisions."
+      ],
+      "correct": 2,
+      "explanation": "Pluralism: Coexistence of multiple social, religious or ethnic groups in society.",
+      "tags": []
+    },
+    {
+      "id": "politi-056",
+      "q": "What is the definition of Pluralist Theory?",
+      "options": [
+        "Concept stressing accountability, transparency and the rule of law.",
+        "System advocating communal ownership of property and the means of production.",
+        "Ultranationalist, authoritarian system elevating the state above the individual.",
+        "Policy is the outcome of bargaining among interest groups."
+      ],
+      "correct": 3,
+      "explanation": "Pluralist Theory: Policy is the outcome of bargaining among interest groups.",
+      "tags": []
+    },
+    {
+      "id": "politi-057",
+      "q": "What is the definition of Political Socialization?",
+      "options": [
+        "Process through which individuals acquire political beliefs.",
+        "Process of charging and removing public officials from office.",
+        "Powers shared by national and state governments.",
+        "20th-century ideology of ultranationalism and authoritarian rule."
+      ],
+      "correct": 0,
+      "explanation": "Political Socialization: Process through which individuals acquire political beliefs.",
+      "tags": []
+    },
+    {
+      "id": "politi-058",
+      "q": "What is the definition of Power?",
+      "options": [
+        "Tendency of courts to interpret laws broadly to promote social change.",
+        "Ability to influence or control others&#x27; behaviour.",
+        "League of independent states granting limited powers to a central body.",
+        "Political system that divides power between national and regional governments."
+      ],
+      "correct": 1,
+      "explanation": "Power: Ability to influence or control others&#x27; behaviour.",
+      "tags": []
+    },
+    {
+      "id": "politi-059",
+      "q": "What is the definition of Popular Sovereignty?",
+      "options": [
+        "Concept guiding foreign policy to safeguard security and prosperity.",
+        "Voluntary association of sovereign states with weak central authority.",
+        "Doctrine that ultimate authority resides with the people.",
+        "Sharing of authority between central and state governments."
+      ],
+      "correct": 2,
+      "explanation": "Popular Sovereignty: Doctrine that ultimate authority resides with the people.",
+      "tags": []
+    },
+    {
+      "id": "politi-060",
+      "q": "What is the definition of Republic?",
+      "options": [
+        "Framework for interpreting political events and guiding action.",
+        "Fundamental law defining government powers, structure, and limits.",
+        "Permanent union of states under a central authority.",
+        "Government where sovereignty rests with the people, not a monarch."
+      ],
+      "correct": 3,
+      "explanation": "Republic: Government where sovereignty rests with the people, not a monarch.",
+      "tags": []
+    },
+    {
+      "id": "politi-061",
+      "q": "What is the definition of Separation of Powers (General)?",
+      "options": [
+        "Doctrine that divides government into branches to prevent concentration of power.",
+        "Government actions and decisions addressing public issues.",
+        "Doctrine that legitimate authority derives from citizens&#x27; approval.",
+        "Institution exercising legitimate authority to make and enforce laws."
+      ],
+      "correct": 0,
+      "explanation": "Separation of Powers (General): Doctrine that divides government into branches to prevent concentration of power.",
+      "tags": []
+    },
+    {
+      "id": "politi-062",
+      "q": "What is the definition of Social Contract?",
+      "options": [
+        "Direct citizen vote on proposed legislation or constitutional change.",
+        "Voluntary agreement among people to form a government for mutual benefit.",
+        "Ideology favouring tradition, limited government, and cautious change.",
+        "Opposition team designated to scrutinize government ministers."
+      ],
+      "correct": 1,
+      "explanation": "Social Contract: Voluntary agreement among people to form a government for mutual benefit.",
+      "tags": []
+    },
+    {
+      "id": "politi-063",
+      "q": "What is the definition of Socialism?",
+      "options": [
+        "Supreme legal authority within a territory, free from external control.",
+        "Defines offences against society and prescribes punishment.",
+        "Advocates public or cooperative ownership for equality.",
+        "Merger of competing firms within the same industry."
+      ],
+      "correct": 2,
+      "explanation": "Socialism: Advocates public or cooperative ownership for equality.",
+      "tags": []
+    },
+    {
+      "id": "politi-064",
+      "q": "What is the definition of Suffrage?",
+      "options": [
+        "Openness in government actions to ensure accountability.",
+        "Shortfall between government expenditures and revenues.",
+        "Comprehensive belief system about politics, economics and society.",
+        "The right to vote in political elections."
+      ],
+      "correct": 3,
+      "explanation": "Suffrage: The right to vote in political elections.",
+      "tags": []
+    },
+    {
+      "id": "politi-065",
+      "q": "What is the definition of Totalitarian Regime?",
+      "options": [
+        "Government that exercises total control over all aspects of life.",
+        "Knowing a statement is false or showing reckless disregard for the truth.",
+        "Government by the people, directly or indirectly through elected representatives.",
+        "Goods and services brought into a country from abroad."
+      ],
+      "correct": 0,
+      "explanation": "Totalitarian Regime: Government that exercises total control over all aspects of life.",
+      "tags": []
+    },
+    {
+      "id": "politi-066",
+      "q": "What is the definition of Unitary System?",
+      "options": [
+        "Bureaucracy model where top officials seek larger budgets and staff to expand power.",
+        "Centralizes authority; local governments have only delegated powers.",
+        "Parliamentary system where Executive and Legislature are interconnected.",
+        "Policy of avoiding foreign entanglements."
+      ],
+      "correct": 1,
+      "explanation": "Unitary System: Centralizes authority; local governments have only delegated powers.",
+      "tags": []
+    },
+    {
+      "id": "politi-067",
+      "q": "What is the definition of Universal Suffrage?",
+      "options": [
+        "A government body created to perform a specific function.",
+        "System where Legislative, Executive, and Judiciary are independent.",
+        "Extends voting rights to all adult citizens.",
+        "Supports active fiscal policy to stabilize the economy."
+      ],
+      "correct": 2,
+      "explanation": "Universal Suffrage: Extends voting rights to all adult citizens.",
+      "tags": []
+    },
+    {
+      "id": "politi-068",
+      "q": "What is the definition of De Facto Government?",
+      "options": [
+        "Process of determining which policy issues will receive public or governmental attention.",
+        "Transfer of powers from central to regional or local authorities.",
+        "Government branch responsible for making laws.",
+        "Government that holds power in practice, though not legally recognized."
+      ],
+      "correct": 3,
+      "explanation": "De Facto Government: Government that holds power in practice, though not legally recognized.",
+      "tags": []
+    },
+    {
+      "id": "politi-069",
+      "q": "What is the definition of De Jure Government?",
+      "options": [
+        "Government that is legally established and constitutionally recognized.",
+        "&#x27;Friend of the court&#x27; document filed by a non-party with interest in a case.",
+        "Easing of strained political relations between nations.",
+        "Public acceptance of a government&#x27;s right to rule."
+      ],
+      "correct": 0,
+      "explanation": "De Jure Government: Government that is legally established and constitutionally recognized.",
+      "tags": []
+    },
+    {
+      "id": "politi-070",
+      "q": "What is the definition of Judicial Review?",
+      "options": [
+        "Court that reviews decisions and procedures of lower courts for legal error.",
+        "Power of courts to assess the constitutionality of laws and actions.",
+        "Management of international relations through negotiation.",
+        "Combines majority rule with protection of individual rights."
+      ],
+      "correct": 1,
+      "explanation": "Judicial Review: Power of courts to assess the constitutionality of laws and actions.",
+      "tags": []
+    },
+    {
+      "id": "politi-071",
+      "q": "What is the definition of Political Culture?",
+      "options": [
+        "Rule by a privileged or &#x27;best&#x27; class (Greek aristos = best).",
+        "System where citizens decide policies themselves rather than through representatives.",
+        "Shared values, attitudes, and practices about government in a society.",
+        "Promotes civil liberties, social progress, and regulated capitalism."
+      ],
+      "correct": 2,
+      "explanation": "Political Culture: Shared values, attitudes, and practices about government in a society.",
+      "tags": []
+    },
+    {
+      "id": "politi-072",
+      "q": "What is the definition of Political Party?",
+      "options": [
+        "Government controlled by a single ruler or elite with limited political pluralism.",
+        "Values and norms of the controlling social group in a society.",
+        "Opposes most government intervention in social and economic affairs.",
+        "Organized group seeking to gain political power through elections."
+      ],
+      "correct": 3,
+      "explanation": "Political Party: Organized group seeking to gain political power through elections.",
+      "tags": []
+    },
+    {
+      "id": "politi-073",
+      "q": "What is the definition of Civil Society?",
+      "options": [
+        "Voluntary organizations independent of government.",
+        "Legislature consisting of two chambers or houses.",
+        "Theory that a small, powerful minority controls political decisions.",
+        "Maximum individual freedom consistent with the rights of others."
+      ],
+      "correct": 0,
+      "explanation": "Civil Society: Voluntary organizations independent of government.",
+      "tags": []
+    },
+    {
+      "id": "politi-074",
+      "q": "What is the definition of Rule of Law?",
+      "options": [
+        "First 10 amendments to the US Constitution protecting fundamental liberties.",
+        "Principle that everyone, including government, is subject to law.",
+        "Ultranationalist, authoritarian system elevating the state above the individual.",
+        "View that government should act according to majority preference."
+      ],
+      "correct": 1,
+      "explanation": "Rule of Law: Principle that everyone, including government, is subject to law.",
+      "tags": []
+    },
+    {
+      "id": "politi-075",
+      "q": "What is the definition of Welfare State?",
+      "options": [
+        "Economic system where production and trade are privately owned for profit.",
+        "20th-century ideology of ultranationalism and authoritarian rule.",
+        "System where the government assumes responsibility for citizens&#x27; well-being.",
+        "Inherent rights not dependent on government recognition."
+      ],
+      "correct": 2,
+      "explanation": "Welfare State: System where the government assumes responsibility for citizens&#x27; well-being.",
+      "tags": []
+    },
+    {
+      "id": "politi-076",
+      "q": "What is the definition of Globalization?",
+      "options": [
+        "System allowing government branches to limit each other&#x27;s powers.",
+        "Political system that divides power between national and regional governments.",
+        "Spread of nuclear weapons to additional states.",
+        "Worldwide interconnection of economies, politics and cultures."
+      ],
+      "correct": 3,
+      "explanation": "Globalization: Worldwide interconnection of economies, politics and cultures.",
+      "tags": []
+    },
+    {
+      "id": "politi-077",
+      "q": "What is the definition of Populism?",
+      "options": [
+        "Political style that appeals to ordinary people against perceived elites.",
+        "Body of law that governs disputes between private persons over non-criminal matters.",
+        "Sharing of authority between central and state governments.",
+        "Coexistence of multiple social, religious or ethnic groups in society."
+      ],
+      "correct": 0,
+      "explanation": "Populism: Political style that appeals to ordinary people against perceived elites.",
+      "tags": []
+    },
+    {
+      "id": "politi-078",
+      "q": "What is the definition of Realpolitik?",
+      "options": [
+        "Individual freedoms protected from government interference.",
+        "Pragmatic politics based on national interest, not ideology.",
+        "Permanent union of states under a central authority.",
+        "Policy is the outcome of bargaining among interest groups."
+      ],
+      "correct": 1,
+      "explanation": "Realpolitik: Pragmatic politics based on national interest, not ideology.",
+      "tags": []
+    },
+    {
+      "id": "politi-079",
+      "q": "What is the definition of Constitutionalism?",
+      "options": [
+        "Judge-made, precedent-based law originating in England.",
+        "Institution exercising legitimate authority to make and enforce laws.",
+        "Doctrine that government authority is limited by a constitution.",
+        "Process through which individuals acquire political beliefs."
+      ],
+      "correct": 2,
+      "explanation": "Constitutionalism: Doctrine that government authority is limited by a constitution.",
+      "tags": []
+    },
+    {
+      "id": "politi-080",
+      "q": "What is the definition of Anarchy (IR)?",
+      "options": [
+        "System advocating communal ownership of property and the means of production.",
+        "Opposition team designated to scrutinize government ministers.",
+        "Ability to influence or control others&#x27; behaviour.",
+        "Absence of central governing authority among states in the international system."
+      ],
+      "correct": 3,
+      "explanation": "Anarchy (IR): Absence of central governing authority among states in the international system.",
+      "tags": []
+    },
+    {
+      "id": "politi-081",
+      "q": "What is the definition of Balance of Power?",
+      "options": [
+        "Distribution of power preventing dominance by any one nation.",
+        "Powers shared by national and state governments.",
+        "Merger of competing firms within the same industry.",
+        "Doctrine that ultimate authority resides with the people."
+      ],
+      "correct": 0,
+      "explanation": "Balance of Power: Distribution of power preventing dominance by any one nation.",
+      "tags": []
+    },
+    {
+      "id": "politi-082",
+      "q": "What is the definition of Bureaucracy?",
+      "options": [
+        "League of independent states granting limited powers to a central body.",
+        "Administrative system with hierarchy and formal rules.",
+        "Comprehensive belief system about politics, economics and society.",
+        "Government where sovereignty rests with the people, not a monarch."
+      ],
+      "correct": 1,
+      "explanation": "Bureaucracy: Administrative system with hierarchy and formal rules.",
+      "tags": []
+    },
+    {
+      "id": "politi-083",
+      "q": "What is the definition of Coalition Government?",
+      "options": [
+        "Voluntary association of sovereign states with weak central authority.",
+        "Goods and services brought into a country from abroad.",
+        "Forms when multiple parties cooperate to secure a parliamentary majority.",
+        "Doctrine that divides government into branches to prevent concentration of power."
+      ],
+      "correct": 2,
+      "explanation": "Coalition Government: Forms when multiple parties cooperate to secure a parliamentary majority.",
+      "tags": []
+    },
+    {
+      "id": "politi-084",
+      "q": "What is the definition of Decentralization?",
+      "options": [
+        "Fundamental law defining government powers, structure, and limits.",
+        "Policy of avoiding foreign entanglements.",
+        "Voluntary agreement among people to form a government for mutual benefit.",
+        "Dispersing powers from central to regional or local levels."
+      ],
+      "correct": 3,
+      "explanation": "Decentralization: Dispersing powers from central to regional or local levels.",
+      "tags": []
+    },
+    {
+      "id": "politi-085",
+      "q": "What is the definition of Good Governance?",
+      "options": [
+        "Concept stressing accountability, transparency and the rule of law.",
+        "Doctrine that legitimate authority derives from citizens&#x27; approval.",
+        "Supports active fiscal policy to stabilize the economy.",
+        "Advocates public or cooperative ownership for equality."
+      ],
+      "correct": 0,
+      "explanation": "Good Governance: Concept stressing accountability, transparency and the rule of law.",
+      "tags": []
+    },
+    {
+      "id": "politi-086",
+      "q": "What is the definition of Impeachment?",
+      "options": [
+        "Ideology favouring tradition, limited government, and cautious change.",
+        "Process of charging and removing public officials from office.",
+        "Government branch responsible for making laws.",
+        "The right to vote in political elections."
+      ],
+      "correct": 1,
+      "explanation": "Impeachment: Process of charging and removing public officials from office.",
+      "tags": []
+    },
+    {
+      "id": "politi-087",
+      "q": "What is the definition of Judicial Activism?",
+      "options": [
+        "Defines offences against society and prescribes punishment.",
+        "Public acceptance of a government&#x27;s right to rule.",
+        "Tendency of courts to interpret laws broadly to promote social change.",
+        "Government that exercises total control over all aspects of life."
+      ],
+      "correct": 2,
+      "explanation": "Judicial Activism: Tendency of courts to interpret laws broadly to promote social change.",
+      "tags": []
+    },
+    {
+      "id": "politi-088",
+      "q": "What is the definition of National Interest?",
+      "options": [
+        "Shortfall between government expenditures and revenues.",
+        "Combines majority rule with protection of individual rights.",
+        "Centralizes authority; local governments have only delegated powers.",
+        "Concept guiding foreign policy to safeguard security and prosperity."
+      ],
+      "correct": 3,
+      "explanation": "National Interest: Concept guiding foreign policy to safeguard security and prosperity.",
+      "tags": []
+    },
+    {
+      "id": "politi-089",
+      "q": "What is the definition of Political Ideology?",
+      "options": [
+        "Framework for interpreting political events and guiding action.",
+        "Government by the people, directly or indirectly through elected representatives.",
+        "Promotes civil liberties, social progress, and regulated capitalism.",
+        "Extends voting rights to all adult citizens."
+      ],
+      "correct": 0,
+      "explanation": "Political Ideology: Framework for interpreting political events and guiding action.",
+      "tags": []
+    },
+    {
+      "id": "politi-090",
+      "q": "What is the definition of Public Policy?",
+      "options": [
+        "Parliamentary system where Executive and Legislature are interconnected.",
+        "Government actions and decisions addressing public issues.",
+        "Opposes most government intervention in social and economic affairs.",
+        "Government that holds power in practice, though not legally recognized."
+      ],
+      "correct": 1,
+      "explanation": "Public Policy: Government actions and decisions addressing public issues.",
+      "tags": []
+    },
+    {
+      "id": "politi-091",
+      "q": "What is the definition of Referendum?",
+      "options": [
+        "System where Legislative, Executive, and Judiciary are independent.",
+        "Maximum individual freedom consistent with the rights of others.",
+        "Direct citizen vote on proposed legislation or constitutional change.",
+        "Government that is legally established and constitutionally recognized."
+      ],
+      "correct": 2,
+      "explanation": "Referendum: Direct citizen vote on proposed legislation or constitutional change.",
+      "tags": []
+    },
+    {
+      "id": "politi-092",
+      "q": "What is the definition of Sovereignty?",
+      "options": [
+        "Transfer of powers from central to regional or local authorities.",
+        "View that government should act according to majority preference.",
+        "Power of courts to assess the constitutionality of laws and actions.",
+        "Supreme legal authority within a territory, free from external control."
+      ],
+      "correct": 3,
+      "explanation": "Sovereignty: Supreme legal authority within a territory, free from external control.",
+      "tags": []
+    },
+    {
+      "id": "politi-093",
+      "q": "What is the definition of Transparency?",
+      "options": [
+        "Openness in government actions to ensure accountability.",
+        "Easing of strained political relations between nations.",
+        "Inherent rights not dependent on government recognition.",
+        "Shared values, attitudes, and practices about government in a society."
+      ],
+      "correct": 0,
+      "explanation": "Transparency: Openness in government actions to ensure accountability.",
+      "tags": []
+    }
+  ]
+}

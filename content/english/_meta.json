@@ -1,9 +1,9 @@
 {
   "name": "English",
   "icon": "📖",
-  "order": 7,
+  "order": 8,
   "description": "Grammar, vocabulary, synonyms, antonyms, idioms, prepositions & comprehension.",
   "color": "#be185d",
-  "placeholder": true,
-  "category": "one-paper"
+  "category": "one-paper",
+  "placeholder": true
 }

@@ -1,0 +1,1935 @@
+{
+  "topic_id": "average",
+  "topic_name": "Average",
+  "subject": "mathematics",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Average MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "averag-001",
+      "q": "The average monthly income of A&B is 50,500. The average monthly income of B&C is 62,500 and the average monthly income of A&C is 52,000. What is monthly income of A?",
+      "options": [
+        "39900",
+        "80000",
+        "40100",
+        "40,000"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-002",
+      "q": "The average monthly income of A&B is 50,500 The average monthly income of B&C is 62,500 and the average monthly income of A&C is 52,000. What is monthly income of A?",
+      "options": [
+        "40100",
+        "40,000",
+        "39900",
+        "80000"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-003",
+      "q": "Three years ago, the average age of a family of 5 members was 17 years. A baby having been born and the average age of the family is the same as three years ago. The present age of the baby (in years) is?",
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-004",
+      "q": "Roshan bought 5 pants at Rs25 each, 10 shirts at Rs5O each and 15 ties at Rs35 each. Find the average price of all the articles?",
+      "options": [
+        "43.33",
+        "33.33",
+        "38.33",
+        "48.33"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-005",
+      "q": "The average of the first 100 natural number is?",
+      "options": [
+        "60.5",
+        "55.5",
+        "50.5",
+        "45.5"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-006",
+      "q": "The average weight of 7 people is 70 kg. If one person weighing 80 kg is replaced by a person weighing 60 kg, what will be the new average weight?",
+      "options": [
+        "67.14",
+        "77.14",
+        "62.14",
+        "72.14"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-007",
+      "q": "The distance between two cities is 203 miles, and the journey takes 3 1/2 hours. What is the average speed of the vehicle?",
+      "options": [
+        "58 mph",
+        "63 mph",
+        "60 mph",
+        "59 mph"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-008",
+      "q": "Acar travels a distance of 510 km in 6 hours. What is the average speed of the car?",
+      "options": [
+        "85 km/h",
+        "86 km/h",
+        "90 km/h",
+        "87 km/h"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-009",
+      "q": "Ifthe mean of 7 terms is 40, the sum of those terms will be?",
+      "options": [
+        "290",
+        "270",
+        "330",
+        "280"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-010",
+      "q": "Atherapist is preparing a poster that will clarify some of the data in an in service presentation. The poster reflects the mode, median, and mean of a set of data. The data consist of the numbers 2, 2, 4, 9, and 13. If presented in the above order (mode, median mean), which of the following is the correct list of answers calculated from the data?",
+      "options": [
+        "2, 4,8",
+        "2, 4,7",
+        "2, 4,11",
+        "2, 4,6"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-011",
+      "q": "The average of 5 numbers is 42, if we include sixth number 48, then the new average will be?",
+      "options": [
+        "43",
+        "48",
+        "38",
+        "53"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-012",
+      "q": "The average height of a class of 25 students is 4.4 feet. A student of height 5.7 feet is newly enrolled. Find the new average?",
+      "options": [
+        "6.45 feet",
+        "5.45 feet",
+        "9.45 feet",
+        "4.45 feet"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-013",
+      "q": "Aman covers half of his journey at 6 km/h and the remaining half at 3 km/h. His average speed is?",
+      "options": [
+        "4km/h",
+        "6km/h",
+        "9km/h",
+        "5km/h"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-014",
+      "q": "The average age of 11 players of a cricket team is decreased by 2 months when two of them aged 17 years and 20 years are replaced by two new players. The average age of the new players is?",
+      "options": [
+        "17 years 7 months",
+        "112 years 12 months",
+        "19 years 9 months",
+        "18 years 8 months"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-015",
+      "q": "The average of x, X2, X3 and Xq is 16. Half the sum of x2, x3, X4 is 23. What is the value of x?",
+      "options": [
+        "28",
+        "18",
+        "23",
+        "13"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-016",
+      "q": "The sum of five numbers is 555. The average of first two numbers is 75 and the third number is 115. What is the average of the last two numbers?",
+      "options": [
+        "155",
+        "135",
+        "145",
+        "195"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-017",
+      "q": "The mean proportional between 64 and 81 is?",
+      "options": [
+        "77",
+        "72",
+        "82",
+        "67"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-018",
+      "q": "The mean of five numbers is 18. If one number is excluded, their mean is 16. The excluded number is?",
+      "options": [
+        "26",
+        "21",
+        "36",
+        "31"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-019",
+      "q": "The mean of 100 items was found to be 30. If at the time of calculation two items were wrongly taken as 32 and 12 instead of 23 and 11, find the correct mean?",
+      "options": [
+        "39.9",
+        "24.9",
+        "34.9",
+        "29.9"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-020",
+      "q": "The average height of five pupils is 68 inches. If one 70 inches and other three are 76 inches, then what is the height (in inches) of the fifth pupil?",
+      "options": [
+        "47",
+        "37",
+        "42",
+        "52"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-021",
+      "q": "Acar travels 100 km at a speed of 60 km/h and returns with a speed of 40 km/h. Calculate the average speed for the whole journey?",
+      "options": [
+        "50 km/h",
+        "53 km/h",
+        "48 km/h",
+        "49 km/h"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-022",
+      "q": "The diameter of a wheel of a car is 48 cm. If the car travels at an average speed of 3.5 km/h. The number of revolutions made by the wheel per minute is?",
+      "options": [
+        "33.68",
+        "38.68",
+        "48.68",
+        "43.68"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-023",
+      "q": "The arithmetic mean is 25 and all the sum of observations is 350, then the number of observations is?",
+      "options": [
+        "14",
+        "19",
+        "24",
+        "9"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-024",
+      "q": "The number of observations is 30 and the value of arithmetic mean is 15, then sum of all values is?",
+      "options": [
+        "460",
+        "500",
+        "440",
+        "450"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-025",
+      "q": "Ali obtained an average marks of 48 in Physics, Chemistry and Biology. What are total marks of three subjects?",
+      "options": [
+        "134",
+        "144",
+        "194",
+        "154"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-026",
+      "q": "Shahzad family has an average age of 72 years. If the family has total 4 members, what is their collective age?",
+      "options": [
+        "290 years",
+        "289 years",
+        "293 years",
+        "288 years"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-027",
+      "q": "The average of three numbers is 54. If two numbers are 48 and 58, what is the third number?",
+      "options": [
+        "61",
+        "66",
+        "56",
+        "51"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-028",
+      "q": "Oncalculation means (average) of 15 numbers was 64. One of the number 24 was misread as 34. What is the correct mean?",
+      "options": [
+        "68 1/8",
+        "65 1/5",
+        "64 1/4",
+        "63 1/3"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-029",
+      "q": "The ages of six girls are 120 months, 124 months, 123 months, 130 months, 130 months, and 129 months, find their average age?",
+      "options": [
+        "126 months",
+        "127 months",
+        "131 months",
+        "128 months"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-030",
+      "q": "Average of 10 values is 200. Sum of nine of them is 1850. Find 10th value?",
+      "options": [
+        "160",
+        "140",
+        "200",
+        "150"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-031",
+      "q": "The mean proportional of 0.25 and 0.04 is?",
+      "options": [
+        "2.1",
+        "0.1",
+        "1.1",
+        "-0.9"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-032",
+      "q": "The average of 7 consecutive numbers is 20. The largest of these numbers is?",
+      "options": [
+        "23",
+        "18",
+        "33",
+        "28"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-033",
+      "q": "Calculate the average of 1, 2,3, 4,5?",
+      "options": [
+        "5",
+        "4",
+        "2",
+        "3"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-034",
+      "q": "A boat travels with a speed of 100 km/h when going from initial point to destination. While the speed of the boat was 130 km/h when coming back from destination to initial point. What was the average speed in whole journey?",
+      "options": [
+        "114 km/h",
+        "118 km/h",
+        "115 km/h",
+        "113 km/h"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-035",
+      "q": "The average salary of all the workers in a restaurant is Rs. 8000. The average salary of 7 cooks is Rs. 12000 and the average salary of the rest is Rs. 6000. How many workers are there working in that restaurant?",
+      "options": [
+        "31",
+        "16",
+        "21",
+        "26"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-036",
+      "q": "A biker went to Lahore at an average of 70 km/h while reached back home at an average speed of 60 km/h. What is the entire journey’s average speed?",
+      "options": [
+        "64.62km/h",
+        "66.62km/h",
+        "69.62km/h",
+        "65.62km/h"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-037",
+      "q": "Average of five numbers is 4. If a number 2 is added in all the five numbers, what will be the average?",
+      "options": [
+        "7",
+        "6",
+        "8",
+        "5"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-038",
+      "q": "What is the average of first 150 natural numbers?",
+      "options": [
+        "75.5",
+        "80.5",
+        "70.5",
+        "85.5"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-039",
+      "q": "lf sum of all 10 values in the data set are 10, then what will be average?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-040",
+      "q": "The mean of 5 observations is 10. A new observation 10 is added, then mean of 6 observations is?",
+      "options": [
+        "10",
+        "5",
+        "20",
+        "15"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-041",
+      "q": "The average income of A and B is 50000 and average income of B and C is 60000 and Average income of A and Cis 55000. What is the income of B?",
+      "options": [
+        "55100",
+        "55000",
+        "54900",
+        "110000"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-042",
+      "q": "The mean weight of 100 students ina class is 46 kg. Then mean weight of boys is 50 kg and that of girls is 40 kg. Therefore, the number of boys is?",
+      "options": [
+        "55",
+        "60",
+        "65",
+        "70"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-043",
+      "q": "The average of the first five multiples of 9 is?",
+      "options": [
+        "22",
+        "37",
+        "27",
+        "32"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-044",
+      "q": "The average of 6 numbers is 30. If the average of the first four is 25 and that of the last three is 35, the fourth number is?",
+      "options": [
+        "30",
+        "20",
+        "25",
+        "35"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-045",
+      "q": "Ifx?—y?=28 andx—y=8, then the average of x and y is?",
+      "options": [
+        "1.75",
+        "2.75",
+        "3.75",
+        "0.75"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-046",
+      "q": "The average of 50 numbers is 30; remove 35 and 25, new average?",
+      "options": [
+        "40",
+        "30",
+        "35",
+        "25"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-047",
+      "q": "Average of 10 innings is 32; runs in next innings to raise average by 4?",
+      "options": [
+        "86",
+        "76",
+        "81",
+        "71"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-048",
+      "q": "The average age of 3 friends is 23. Even if the age of 4th friend is added the average becomes 23. What is the age of 4th friend?",
+      "options": [
+        "33",
+        "18",
+        "23",
+        "28"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-049",
+      "q": "The mean proportional between 2 and 8 is?",
+      "options": [
+        "6",
+        "4",
+        "5",
+        "3"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-050",
+      "q": "The average of five numbers is 27. If one number is excluded, the average becomes 25. The excluded number is?",
+      "options": [
+        "40",
+        "30",
+        "35",
+        "45"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-051",
+      "q": "There are two sections A and B of a class, consisting of 36 and 44 students respectively. If the average weight of section A is 40kg and that of section B is 35kg, find the average weight of the whole class?",
+      "options": [
+        "39.25 kg",
+        "37.25 kg",
+        "42.25 kg",
+        "38.25 kg"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-052",
+      "q": "Aclass had 14 boys with an average height of 5.3 feet. A new boy joined the class. Now the average of 15 boys in the class was 5.25 feet. Find the height of the new boy?",
+      "options": [
+        "9.55 fee",
+        "5.55 fee",
+        "4.55 fee",
+        "6.55 fee"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-053",
+      "q": "The average (arithmetic mean) of 5, 10, 15 and x is 20. What is the value of x?",
+      "options": [
+        "45",
+        "50",
+        "55",
+        "60"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-054",
+      "q": "The mean of 5 observations is 60, the mean of 10 observations is 30 and mean of 15 observations is 20. The mean of all 30 observations is?",
+      "options": [
+        "30",
+        "35",
+        "40",
+        "25"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-055",
+      "q": "Average age of A and B is 30 years, that of B and Cis 32 years and the average PREPARATION WIT age of C and A is 34 years. The age of C is?",
+      "options": [
+        "37 years",
+        "38 years",
+        "36 years",
+        "41 years"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-056",
+      "q": "The mean proportional of 4 and 16 is?",
+      "options": [
+        "+10",
+        "+8",
+        "+9",
+        "+13"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-057",
+      "q": "When a student weighting 45 kgs left a class the average weight of the remaining 59 student icreased by 200g . What is average weight of the remaining 59 students?",
+      "options": [
+        "52",
+        "57",
+        "67",
+        "62"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-058",
+      "q": "If the average of five numbers is 6.92, then the sum of numbers is?",
+      "options": [
+        "44.6",
+        "34.6",
+        "39.6",
+        "29.6"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-059",
+      "q": "Four years ago the average age of A,B and C was 25 years. Five years ago the average of B and C was 20 years. As present is of A?",
+      "options": [
+        "38 years",
+        "39 years",
+        "37 years",
+        "42 years"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-060",
+      "q": "If average of 7 numbers is 40, What was the sum of the numbers?",
+      "options": [
+        "330",
+        "280",
+        "290",
+        "270"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-061",
+      "q": "Find the average of the 277, 278, 279, 280, 281, 282, 283?",
+      "options": [
+        "330",
+        "280",
+        "270",
+        "290"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-062",
+      "q": "Five years ago the average of AandB was 15 years. Average age of A, Band C today is 20 years how old will C be after 10 years?",
+      "options": [
+        "32 years",
+        "31 years",
+        "30 years",
+        "35 years"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-063",
+      "q": "If 3x+3y=7 and 8x + 7y = 12, what is average of x and y?",
+      "options": [
+        "6/6",
+        "8/6",
+        "7/6",
+        "7/7"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-064",
+      "q": "The speed of the bus going from Islamabad to Murree was 100 km/h, while the speed of the bus was 130 km/h when coming back from Murree to Islamabad. What was the average speed in whole journey?",
+      "options": [
+        "118.04 km/h",
+        "113.04 km/h",
+        "115.04 km/h",
+        "114.04 km/h"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-065",
+      "q": "The average age of A, B, C, Dand E is 40 years. The average age of A and B is 35 years and the average of C and Dis 42 years. Age of E is?",
+      "options": [
+        "48 years",
+        "51 years",
+        "47 years",
+        "46 years"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-066",
+      "q": "What is the average of first 100 natural numbers?",
+      "options": [
+        "50.5",
+        "60.5",
+        "55.5",
+        "45.5"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-067",
+      "q": "The average of five consecutive even numbers starting with 4, is?",
+      "options": [
+        "9",
+        "8",
+        "10",
+        "7"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-068",
+      "q": "What is the average of even numbers from 1 to 81?",
+      "options": [
+        "41",
+        "46",
+        "36",
+        "51"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-069",
+      "q": "The speed of the train going from Nagpur to Allahabad is 100 km/h while when coming back from Allahabad to Nagpur, its speed is 150 km/h. Find the average speed during the whole journey?",
+      "options": [
+        "121km/h",
+        "125km/h",
+        "120km/h",
+        "122km/h"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-070",
+      "q": "Five years ago, the average age of A, B, C, and D was 45 years. With E joining them now, the average of all five is 49 years. How old is E?",
+      "options": [
+        "50 years",
+        "45 years",
+        "46 years",
+        "47 years"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-071",
+      "q": "The is equal to the sum of all the values in the data divided by the number of values in the data?",
+      "options": [
+        "None of these",
+        "Insufficient data",
+        "Mean",
+        "Cannot be determined"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-072",
+      "q": "lf the average arithmetic means of 8, 12, 15, 21, x and 11 is 17 then what is x?",
+      "options": [
+        "35",
+        "40",
+        "45",
+        "30"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-073",
+      "q": "If Mary traveled 116 miles on day 1, 130 miles on day 2, 114 miles on day 3. How many miles per day did she average?",
+      "options": [
+        "130",
+        "170",
+        "120",
+        "110"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-074",
+      "q": "Find the average of 8 13 25 43 and 11?",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "15"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-075",
+      "q": "The average of 5 quantities is 6. The average of 3 of them is 4. What is the average of remaining 2 numbers?",
+      "options": [
+        "9",
+        "11",
+        "10",
+        "8"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-076",
+      "q": "The arithmetic mean between 4 and 6 is?",
+      "options": [
+        "Cannot be determined",
+        "Insufficient data",
+        "S",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-077",
+      "q": "Ifthe average of 5, 6, 7 and X is 10. What is the value of 'X'?",
+      "options": [
+        "27",
+        "32",
+        "17",
+        "22"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-078",
+      "q": "Find the average of all numbers between 6 and 34 which are divisible by 5?",
+      "options": [
+        "25",
+        "15",
+        "30",
+        "20"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-079",
+      "q": "Reeya obtained 65, 67, 78, 82 and 85 out of 100 in different subjects, what will be the average?",
+      "options": [
+        "75.4",
+        "70.4",
+        "80.4",
+        "85.4"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-080",
+      "q": "Find out the average of A and B if the given value of 16 A + 16 B = 48?",
+      "options": [
+        "3.5",
+        "0.5",
+        "2.5",
+        "1.5"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-081",
+      "q": "Find the average of 8, 13, 25, 43, and 11?",
+      "options": [
+        "15",
+        "30",
+        "20",
+        "25"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-082",
+      "q": "The average of four consecutive odd numbers is 24. Find the largest number?",
+      "options": [
+        "22",
+        "32",
+        "27",
+        "37"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-083",
+      "q": "What is the average of 1/2, 5/6, 3/4, 5/12?",
+      "options": [
+        "4/8",
+        "5/8",
+        "6/8",
+        "5/9"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-084",
+      "q": "The average weight of A, B and Cis 45 Kg. If the average weight of A and B is 40 Kg and that of B and Cis 43 Kg, then weight of B is?",
+      "options": [
+        "36 Kg",
+        "33 Kg",
+        "31 Kg",
+        "32 Kg"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-085",
+      "q": "Find the average of all prime numbers between 30 and 50?",
+      "options": [
+        "39.8",
+        "34.8",
+        "44.8",
+        "49.8"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-086",
+      "q": "Find the average of first 40 natural numbers?",
+      "options": [
+        "25.5",
+        "30.5",
+        "15.5",
+        "20.5"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-087",
+      "q": "The average of 17 results is 60. If the average of first 9 results is 57 and that of the last 9 results is 65, then what will be the value of 9th result?",
+      "options": [
+        "73",
+        "78",
+        "83",
+        "88"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-088",
+      "q": "Three years ago the average age of A and B was 18 years. With C joining them, the average age becomes 22 years. How old is C now?",
+      "options": [
+        "24 years",
+        "26 years",
+        "29 years",
+        "25 years"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-089",
+      "q": "Find the average of first 97 natural numbers?",
+      "options": [
+        "54",
+        "49",
+        "59",
+        "44"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-090",
+      "q": "The average of three numbers is 77. The first number is twice the second and the second number is twice the third. Find the first number?",
+      "options": [
+        "182",
+        "142",
+        "122",
+        "132"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-091",
+      "q": "Find the average of all the numbers between 11 and 36 which are divisible by 5?",
+      "options": [
+        "25",
+        "30",
+        "20",
+        "35"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-092",
+      "q": "The average weight of X, Y and Z is 45 kg. If the average weight of X and Y be 40 kg and that of Y and Z be 43 kg, then the weight of Y is?",
+      "options": [
+        "31 kg",
+        "32 kg",
+        "36 kg",
+        "33 kg"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-093",
+      "q": "The average marks of four subjects is 120. If 33 was misread as 13 during the calculation, what will be the correct average?",
+      "options": [
+        "175",
+        "125",
+        "135",
+        "115"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-094",
+      "q": "If 16a+16b = 48, what is the average of aand b?",
+      "options": [
+        "3.5",
+        "2.5",
+        "0.5",
+        "1.5"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-095",
+      "q": "Atrain moves with a speed of 30 km/hr for 12 minutes and for next 8 minutes at a speed of 45 km/hr the average speed of the train is?",
+      "options": [
+        "41 km/hr",
+        "38 km/hr",
+        "37 km/hr",
+        "36 km/hr"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-096",
+      "q": "Average of four numbers is 24. What is the sum of the four numbers?",
+      "options": [
+        "91",
+        "106",
+        "96",
+        "101"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-097",
+      "q": "Ifthe sum of three numbers is 93, then the average of the numbers is?",
+      "options": [
+        "41",
+        "26",
+        "31",
+        "36"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-098",
+      "q": "The average of the numbers 0.1, 0.21, 0.31, 0.41, 0.51 is?",
+      "options": [
+        "2.308",
+        "-0.692",
+        "1.308",
+        "0.308"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-099",
+      "q": "Acar travels a distance of 75 km at the speed of 25 km/hr. It covers the next 25 km of its journey at the speed of 5 km/hr and the last 50 km of its journey PREPARATION WI at the speed of 25 km/hr. What is the average speed of the car?",
+      "options": [
+        "20",
+        "15",
+        "10",
+        "25"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-100",
+      "q": "The average speed of a bus is three- fifth of the average speed of a car which covers 3250 km in 65 hours. What is the average speed of the bus?",
+      "options": [
+        "32km/hr",
+        "30km/hr",
+        "35km/hr",
+        "31km/hr"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-101",
+      "q": "Acar left Lahore at 7.12 am and arrived in Multan, 180 miles distant at 10.57 am. What was its average speed in miles per hour?",
+      "options": [
+        "53",
+        "48",
+        "58",
+        "43"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-102",
+      "q": "Alibrary received an average of 510 visitors every Sunday and on other days 240. What is average number of visitors in a month of 30 days beginning with Sunday?",
+      "options": [
+        "275",
+        "295",
+        "335",
+        "285"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-103",
+      "q": "The average age of A, Band Cis 45. Furthermore average age of A and Bis 40 and of B and Cis 43. Find the age of B?",
+      "options": [
+        "41",
+        "36",
+        "26",
+        "31"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-104",
+      "q": "Find the average of 5/6, 4/3, 3/4?",
+      "options": [
+        "35/37",
+        "35/36",
+        "34/36",
+        "36/36"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-105",
+      "q": "Average monthly income of P and Qis Rs. 5050. The average monthly income of Qand R is Rs. 6250. The average monthly income of P and R is Rs. 5200. What will be the monthly income of Q?",
+      "options": [
+        "6100",
+        "12200",
+        "6000",
+        "6200"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-106",
+      "q": "Rashid buys 3 books for Rs. 16 each and four books for Rs. 23 each. What will be the average price of the books?",
+      "options": [
+        "30",
+        "20",
+        "15",
+        "25"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-107",
+      "q": "lf the arithmetic mean of 10, 12, 15, x and 20 is 14, then the value of x is?",
+      "options": [
+        "13",
+        "8",
+        "18",
+        "23"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-108",
+      "q": "The arithmetic mean of 6 numbers is 10. If each number is multiplied by 3, then the new arithmetic mean is?",
+      "options": [
+        "35",
+        "40",
+        "25",
+        "30"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-109",
+      "q": "What is the Arithmetic Mean of the numbers 10, 20, 30, 40, and 50?",
+      "options": [
+        "25",
+        "35",
+        "40",
+        "30"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-110",
+      "q": "If three arithmetic means are inserted between 5 and 25, the second arithmetic mean is?",
+      "options": [
+        "20",
+        "25",
+        "15",
+        "10"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-111",
+      "q": "The mean of 14 numbers is 6. What will be the new mean if 3 is added to every number?",
+      "options": [
+        "8",
+        "11",
+        "9",
+        "10"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-112",
+      "q": "Ifthe mean of 9, 8, 10, x, 12 is 15, find the value of x?",
+      "options": [
+        "46",
+        "41",
+        "31",
+        "36"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-113",
+      "q": "The arithmetic mean of the first 10 prime numbers is?",
+      "options": [
+        "12.9",
+        "22.9",
+        "7.9",
+        "17.9"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-114",
+      "q": "What is the 3rd arithmetic mean out of 4 arithmetic means inserted between 18 and 3?",
+      "options": [
+        "10",
+        "9",
+        "11",
+        "8"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-115",
+      "q": "A person travels from A to B at a speed of 40 kmph and returns by increasing his speed by 50%. What is his average speed for both the trips?",
+      "options": [
+        "49 km/h",
+        "48 km/h",
+        "53 km/h",
+        "50 km/h"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-116",
+      "q": "What is the arithmetic mean of 34, 44, 56, and 78?",
+      "options": [
+        "53",
+        "48",
+        "63",
+        "58"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-117",
+      "q": "The speed of car is 30 km in the first hour and 32 km in the second hour. Its average speed is?",
+      "options": [
+        "36",
+        "26",
+        "41",
+        "31"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-118",
+      "q": "Average of first 10 multiples of 7 is?",
+      "options": [
+        "33.5",
+        "38.5",
+        "48.5",
+        "43.5"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-119",
+      "q": "The average of six numbers is X and the average of three of these is Y. If the average of the remaining three is Z, then?",
+      "options": [
+        "2X=Y+Z",
+        "3X=Y+Z",
+        "7X=Y+Z",
+        "4X=Y+Z"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-120",
+      "q": "If x+y=6, y+z=7 z+x=9 the average (arithmetic) of x, y and z is?",
+      "options": [
+        "11/4",
+        "11/3",
+        "12/3",
+        "10/3"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-121",
+      "q": "Ifx+y=6,y+z=7andz+x=9, the average (arithmetic mean) of x, y and z is?",
+      "options": [
+        "10/3",
+        "11/3",
+        "11/4",
+        "12/3"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-122",
+      "q": "Ifx?-y?=28 and x -y =8, what is the average of x and y?",
+      "options": [
+        "3.75",
+        "1.75",
+        "0.75",
+        "2.75"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-123",
+      "q": "Ifthe arithmetic mean of 6, 8, 10, x, 7 is 8 the value of x will be?",
+      "options": [
+        "8",
+        "11",
+        "9",
+        "10"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-124",
+      "q": "The average (arithmetic mean) of 5, 10, 15, and zis 20. What is z?",
+      "options": [
+        "60",
+        "55",
+        "50",
+        "45"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-125",
+      "q": "The speed of the train going from Nagpur to Allahabad is 100 km/h while coming back from Allahabad to Nagpur, its speed is 150 km/h. Find the average speed during the whole journey?",
+      "options": [
+        "110",
+        "170",
+        "130",
+        "120"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-126",
+      "q": "The average of first five multiples of 3 is?",
+      "options": [
+        "9",
+        "11",
+        "8",
+        "10"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-127",
+      "q": "The average age of a group of 13 boys is 13. When two more boys join the group, the average rose by 2 years. The sum of the ages of the two new boys is?",
+      "options": [
+        "66",
+        "61",
+        "51",
+        "56"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-128",
+      "q": "What is the arithmetic mean (average) of 2,4, 6, 8,10 and 12?",
+      "options": [
+        "9",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-129",
+      "q": "What is the average (arithmetic mean) of the positive integers from 1 to 100 inclusive?",
+      "options": [
+        "50.5",
+        "45.5",
+        "55.5",
+        "60.5"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-130",
+      "q": "If the average (arithmetic mean) of 5, 6, 7 and wis 8, what is the value of w?",
+      "options": [
+        "14",
+        "19",
+        "9",
+        "24"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-131",
+      "q": "Onacertain project the only grades awarded were 75 and 100. If 85 students completed the project and the average of their grades was 85, how many earned 100?",
+      "options": [
+        "34",
+        "39",
+        "44",
+        "29"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-132",
+      "q": "The average of three numbers is 20. If two numbers are 16 and 22, the third is?",
+      "options": [
+        "22",
+        "32",
+        "27",
+        "17"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-133",
+      "q": "There are four numbers. Average of the first three is 20 and that of the last three is 19. If the last number is 22, find the first number?",
+      "options": [
+        "25",
+        "35",
+        "30",
+        "20"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-134",
+      "q": "Find the average of 49, 51, 29?",
+      "options": [
+        "43",
+        "38",
+        "53",
+        "48"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-135",
+      "q": "The average of 13 results is 68 The average of first seven is 63 and that of the last seven is 70 the seventh result is?",
+      "options": [
+        "52",
+        "47",
+        "57",
+        "42"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-136",
+      "q": "The speed of a car is 30km first hour and 32 km in the second hour. Its average speed is?",
+      "options": [
+        "41",
+        "31",
+        "36",
+        "26"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-137",
+      "q": "A batsman has a certain average of runs for 16 innings. In the 17th innings, he makes a score of 85 runs, thereby increasing his average by 3. What is the average after the 17th innings?",
+      "options": [
+        "37",
+        "32",
+        "42",
+        "47"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-138",
+      "q": "Mary jogs 9 km at a speed of 6 km per hour. At what speed would she need to jog during the next 1.5 hours to have an average of 9 km per hour for the entire jogging session?",
+      "options": [
+        "12 kmph",
+        "13 kmph",
+        "17 kmph",
+        "14 kmph"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-139",
+      "q": "If p?—q?=48 and p—q = 12, what is the average of p and q?",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-140",
+      "q": "There are four numbers. Average of the first three is 15 and that of the last three is 16. If the last number is 19 find the first number?",
+      "options": [
+        "26",
+        "21",
+        "11",
+        "16"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-141",
+      "q": "The speed of a car is 30 km first hour and 32 km in the second hour. Its average speed is?",
+      "options": [
+        "32 km",
+        "36 km",
+        "33 km",
+        "31 km"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-142",
+      "q": "Acar covers 160 km distance in 4 hours. Find the average speed of car?",
+      "options": [
+        "40 km/h",
+        "41 km/h",
+        "42 km/h",
+        "45 km/h"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-143",
+      "q": "The average of 5 numbers is 34. If there are 28, 30, 32, then find the average of rest of them²",
+      "options": [
+        "35",
+        "50",
+        "40",
+        "45"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-144",
+      "q": "Astudent of physics obtains the average of 60 in his 4 physics tests. How many marks in his fifth test will bring the average to 65?",
+      "options": [
+        "80",
+        "85",
+        "90",
+        "95"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-145",
+      "q": "The captain of a cricket team 11 members is 26 years old and the wicket keeper is 3 years older. If the ages of these two are excluded, the average age of the remaining players is one year less than the average age of the whole team. What is the average age of the team²",
+      "options": [
+        "24 years",
+        "25 years",
+        "28 years",
+        "23 years"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-146",
+      "q": "Find the average age of a family of five members, whose ages are 42, 49, 56, 63 and 35 years respectively?",
+      "options": [
+        "50 years",
+        "54 years",
+        "51 years",
+        "49 years"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-147",
+      "q": "Mean of 10, 30, Y, and 50 is 50. Y is?",
+      "options": [
+        "110",
+        "160",
+        "100",
+        "120"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "averag-148",
+      "q": "Inthe morning Sarah read 100 pages at the rate of 60 pages per hour. In the evening, she read another 100 pages at the rate of 40 pages per hour. What was the average rate of reading for the day?",
+      "options": [
+        "48",
+        "53",
+        "58",
+        "43"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    }
+  ]
+}

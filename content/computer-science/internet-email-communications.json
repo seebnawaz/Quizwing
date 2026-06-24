@@ -2,10 +2,10 @@
   "topic_id": "internet-email-communications",
   "topic_name": "Internet Email Communications",
   "subject": "computer-science",
-  "version": 1,
-  "updated_at": "2026-05-12",
+  "version": 3,
+  "updated_at": "2026-06-24",
   "description": "Internet Email Communications MCQs for PPSC, FPSC, NTS, CSS & PMS.",
-  "icon": "📧",
+  "icon": "📄",
   "mcqs": [
     {
       "id": "intern-001",

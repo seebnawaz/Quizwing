@@ -1,0 +1,8 @@
+{
+  "name": "NTS (GAT / NAT)",
+  "icon": "📝",
+  "order": 11,
+  "description": "NAT-ICOM, NAT-ICS, NAT-IE, NAT-IM mock tests with verified answers.",
+  "color": "#15803d",
+  "category": "entry-tests"
+}

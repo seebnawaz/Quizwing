@@ -2,10 +2,10 @@
   "topic_id": "exploration-and-colonization",
   "topic_name": "Exploration & Colonization",
   "subject": "general-knowledge",
-  "version": 1,
-  "updated_at": "2026-05-12",
+  "version": 3,
+  "updated_at": "2026-06-24",
   "description": "Exploration & Colonization MCQs for PPSC, FPSC, NTS, CSS & PMS.",
-  "icon": "🧭",
+  "icon": "📄",
   "mcqs": [
     {
       "id": "explor-001",

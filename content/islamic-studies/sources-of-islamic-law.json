@@ -1,0 +1,817 @@
+{
+  "topic_id": "sources-of-islamic-law",
+  "topic_name": "Sources of Islamic Law",
+  "subject": "islamic-studies",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Sources of Islamic Law MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "source-001",
+      "q": "What is the first and most important source of Islamic law?",
+      "options": [
+        "Hadith",
+        "Ijma",
+        "The Holy Quran",
+        "Qiyas"
+      ],
+      "correct": 2,
+      "explanation": "The Holy Quran is the first and primary source of Islamic law. It is the word of Allah and takes precedence over all other sources.",
+      "tags": []
+    },
+    {
+      "id": "source-002",
+      "q": "The word 'Quran' is derived from which Arabic root word?",
+      "options": [
+        "Qarra",
+        "Qara'a",
+        "Qawwama",
+        "Qaraba"
+      ],
+      "correct": 1,
+      "explanation": "The word Quran is derived from qara'a (يقرأ). Its literal meaning is 'to read' or 'to recite.'",
+      "tags": []
+    },
+    {
+      "id": "source-003",
+      "q": "What is the literal meaning of the word 'Quran'?",
+      "options": [
+        "The Final Message",
+        "To read or to recite",
+        "The Word of Allah",
+        "The Clear Book"
+      ],
+      "correct": 1,
+      "explanation": "The literal meaning of Quran is 'to read or to recite.' Technically, Quran refers to the words of Allah revealed to Prophet Muhammad (PBUH).",
+      "tags": []
+    },
+    {
+      "id": "source-004",
+      "q": "Over how many years was the Holy Quran revealed?",
+      "options": [
+        "20 years",
+        "21 years",
+        "23 years",
+        "25 years"
+      ],
+      "correct": 2,
+      "explanation": "The Holy Quran was revealed over approximately 23 years — from 610 AD (first revelation) to 632 AD (year of the Prophet's death).",
+      "tags": []
+    },
+    {
+      "id": "source-005",
+      "q": "In which language was the Holy Quran revealed?",
+      "options": [
+        "Aramaic",
+        "Hebrew",
+        "Urdu",
+        "Arabic"
+      ],
+      "correct": 3,
+      "explanation": "The Holy Quran was revealed in the Arabic language. This is established in Surah Yusuf (12:2): 'Indeed, We have sent it down as an Arabic Quran.'",
+      "tags": []
+    },
+    {
+      "id": "source-006",
+      "q": "The Holy Quran was first revealed in which city?",
+      "options": [
+        "Madinah",
+        "Makkah",
+        "Ta'if",
+        "Jerusalem"
+      ],
+      "correct": 1,
+      "explanation": "The Holy Quran was first revealed in Makkah, beginning in 610 AD. The Makki surahs were revealed from 610 to 622 AD before the Hijra to Madinah.",
+      "tags": []
+    },
+    {
+      "id": "source-007",
+      "q": "How many total Surahs (chapters) are in the Holy Quran?",
+      "options": [
+        "110",
+        "112",
+        "114",
+        "116"
+      ],
+      "correct": 2,
+      "explanation": "The Holy Quran contains 114 Surahs (chapters). This is a fundamental Quranic statistic tested in virtually every competitive exam.",
+      "tags": []
+    },
+    {
+      "id": "source-008",
+      "q": "How many Surahs in the Holy Quran are Makki (revealed in Makkah)?",
+      "options": [
+        "72",
+        "80",
+        "86",
+        "92"
+      ],
+      "correct": 2,
+      "explanation": "86 Surahs of the Holy Quran are Makki — revealed before the Hijra to Madinah. The remaining 28 Surahs are Madni.",
+      "tags": []
+    },
+    {
+      "id": "source-009",
+      "q": "How many Surahs in the Holy Quran are Madni (revealed in Madinah)?",
+      "options": [
+        "22",
+        "24",
+        "26",
+        "28"
+      ],
+      "correct": 3,
+      "explanation": "28 Surahs of the Holy Quran are Madni — revealed after the Hijra to Madinah. 86 Surahs are Makki.",
+      "tags": []
+    },
+    {
+      "id": "source-010",
+      "q": "How many Paras (Juz/divisions) does the Holy Quran have?",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "40"
+      ],
+      "correct": 2,
+      "explanation": "The Holy Quran is divided into 30 Paras (Juz). Each Para is roughly equal in length to facilitate completion of the Quran in 30 days.",
+      "tags": []
+    },
+    {
+      "id": "source-011",
+      "q": "How many Manzils are there in the Holy Quran?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "explanation": "The Holy Quran has 7 Manzils — divisions used for completing the recitation over one week (one Manzil per day).",
+      "tags": []
+    },
+    {
+      "id": "source-012",
+      "q": "How many Rukus are there in the Holy Quran?",
+      "options": [
+        "540",
+        "558",
+        "570",
+        "600"
+      ],
+      "correct": 1,
+      "explanation": "There are 558 Rukus in the Holy Quran. A Ruku is a section that ends with a bow during prayer — each marked with the ع symbol in written Quranic text.",
+      "tags": []
+    },
+    {
+      "id": "source-013",
+      "q": "How many Sajdas (prostration verses) are in the Holy Quran?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "correct": 2,
+      "explanation": "There are 14 Sajdas (obligatory prostration verses) in the Holy Quran. Upon reciting or hearing these verses, a Muslim performs Sajdah-e-Tilawat.",
+      "tags": []
+    },
+    {
+      "id": "source-014",
+      "q": "Which Surah was the first to be revealed to the Holy Prophet (PBUH)?",
+      "options": [
+        "Surah Al-Fatihah",
+        "Surah Al-Baqarah",
+        "Surah Al-Alaq",
+        "Surah Al-Ikhlas"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Alaq (Chapter 96) — specifically its first five verses beginning with 'Iqra' (Read!) — was the first revelation to the Holy Prophet (PBUH) in 610 AD.",
+      "tags": []
+    },
+    {
+      "id": "source-015",
+      "q": "Which is the first Surah in the Quranic arrangement?",
+      "options": [
+        "Surah Al-Alaq",
+        "Surah Al-Baqarah",
+        "Surah Al-Fatihah",
+        "Surah Al-Ikhlas"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Fatihah (The Opening) is the first Surah in the Quranic arrangement. It has 7 verses and is recited in every rakat of prayer.",
+      "tags": []
+    },
+    {
+      "id": "source-016",
+      "q": "Which is the longest Surah in the Holy Quran?",
+      "options": [
+        "Surah Al-Imran",
+        "Surah An-Nisa",
+        "Surah Al-Baqarah",
+        "Surah Al-Maidah"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Baqarah (The Cow) is the longest Surah in the Quran with 286 verses. It is a Madni Surah covering core Islamic teachings.",
+      "tags": []
+    },
+    {
+      "id": "source-017",
+      "q": "Which is the shortest Surah in the Holy Quran?",
+      "options": [
+        "Surah Al-Ikhlas",
+        "Surah Al-Kauthar",
+        "Surah Al-Asr",
+        "Surah Al-Falaq"
+      ],
+      "correct": 1,
+      "explanation": "Surah Al-Kauthar (Chapter 108) is the shortest Surah in the Quran with only 3 verses.",
+      "tags": []
+    },
+    {
+      "id": "source-018",
+      "q": "Which Surah in the Holy Quran does NOT begin with Bismillah?",
+      "options": [
+        "Surah Al-Fatihah",
+        "Surah Al-Baqarah",
+        "Surah At-Taubah",
+        "Surah Al-Kahf"
+      ],
+      "correct": 2,
+      "explanation": "Surah At-Taubah (Chapter 9, Repentance) is the only Surah in the Quran without Bismillah at its beginning. This is believed to be because of its stern content regarding hypocrites.",
+      "tags": []
+    },
+    {
+      "id": "source-019",
+      "q": "Which Surah is known as the 'Heart of the Holy Quran'?",
+      "options": [
+        "Surah Al-Fatihah",
+        "Surah Al-Baqarah",
+        "Surah Al-Ikhlas",
+        "Surah Yaseen"
+      ],
+      "correct": 3,
+      "explanation": "Surah Yaseen (Chapter 36) is called the 'Heart of the Quran' based on a Hadith of the Prophet (PBUH). It concerns the central doctrine of revelation and the Hereafter.",
+      "tags": []
+    },
+    {
+      "id": "source-020",
+      "q": "How many times is the most repeated ayat of the Quran (Surah Ar-Rahman) repeated?",
+      "options": [
+        "22 times",
+        "28 times",
+        "32 times",
+        "40 times"
+      ],
+      "correct": 2,
+      "explanation": "The verse 'Fa-bi-ayyi ala'i rabbikuma tukadhdhibaan' (So which of the favours of your Lord will you deny?) is repeated 32 times in Surah Ar-Rahman.",
+      "tags": []
+    },
+    {
+      "id": "source-021",
+      "q": "The longest ayat (verse) in the Holy Quran is found in which Surah and verse number?",
+      "options": [
+        "Surah Al-Baqarah, Ayat 255",
+        "Surah Al-Baqarah, Ayat 282",
+        "Surah Al-Imran, Ayat 1",
+        "Surah An-Nisa, Ayat 11"
+      ],
+      "correct": 1,
+      "explanation": "The longest ayat in the Quran is Ayat 282 of Surah Al-Baqarah — known as the Debt Verse (Ayat al-Mudayanah). It addresses financial transactions and contracts.",
+      "tags": []
+    },
+    {
+      "id": "source-022",
+      "q": "Which is the only lady mentioned by name in the Holy Quran?",
+      "options": [
+        "Hazrat Khadijah (RA)",
+        "Hazrat Aisha (RA)",
+        "Hazrat Fatimah (RA)",
+        "Hazrat Maryam (AS)"
+      ],
+      "correct": 3,
+      "explanation": "Hazrat Maryam (AS) — Mary, mother of Jesus — is the only woman mentioned by name in the Holy Quran. Surah Maryam (Chapter 19) is named after her.",
+      "tags": []
+    },
+    {
+      "id": "source-023",
+      "q": "Which is the only day of the week specifically mentioned in the Holy Quran?",
+      "options": [
+        "Saturday",
+        "Sunday",
+        "Friday",
+        "Monday"
+      ],
+      "correct": 2,
+      "explanation": "Friday (Yawm al-Jumu'ah) is the only day of the week mentioned by name in the Holy Quran — in Surah Al-Jumu'ah (62:9): 'O you who believe! When the call is proclaimed to prayer on Friday...'",
+      "tags": []
+    },
+    {
+      "id": "source-024",
+      "q": "How many times is Hazrat Musa (AS) mentioned in the Holy Quran?",
+      "options": [
+        "50 times",
+        "100 times",
+        "136 times",
+        "163 times"
+      ],
+      "correct": 2,
+      "explanation": "Hazrat Musa (AS) — Moses — is mentioned 136 times in the Holy Quran, making him the most mentioned Prophet in the Quran.",
+      "tags": []
+    },
+    {
+      "id": "source-025",
+      "q": "How many Prophets are mentioned by name in the Holy Quran?",
+      "options": [
+        "18",
+        "21",
+        "25",
+        "30"
+      ],
+      "correct": 2,
+      "explanation": "25 Prophets are mentioned by name in the Holy Quran, from Hazrat Adam (AS) to Hazrat Muhammad (PBUH).",
+      "tags": []
+    },
+    {
+      "id": "source-026",
+      "q": "Who was the first Hafiz of the Holy Quran?",
+      "options": [
+        "Hazrat Abu Bakr (RA)",
+        "Hazrat Ali (RA)",
+        "Hazrat Uthman (RA)",
+        "Hazrat Umer (RA)"
+      ],
+      "correct": 2,
+      "explanation": "Hazrat Uthman (RA) was the first Hafiz of the Holy Quran. He is also known by the title Jami-e-Quran for his role in standardising the Quranic manuscript.",
+      "tags": []
+    },
+    {
+      "id": "source-027",
+      "q": "The title 'Jami-e-Quran' (Compiler of the Quran) belongs to:",
+      "options": [
+        "Hazrat Abu Bakr (RA)",
+        "Hazrat Umer (RA)",
+        "Hazrat Uthman (RA)",
+        "Hazrat Ali (RA)"
+      ],
+      "correct": 2,
+      "explanation": "The title Jami-e-Quran belongs to Hazrat Uthman (RA) because he supervised the standardisation and distribution of the official Quranic manuscript.",
+      "tags": []
+    },
+    {
+      "id": "source-028",
+      "q": "Who advised Hazrat Abu Bakr (RA) to compile the Holy Quran?",
+      "options": [
+        "Hazrat Ali (RA)",
+        "Hazrat Uthman (RA)",
+        "Hazrat Umer (RA)",
+        "Hazrat Zaid bin Thabit (RA)"
+      ],
+      "correct": 2,
+      "explanation": "Hazrat Umer ibn al-Khattab (RA) advised Hazrat Abu Bakr (RA) to compile the Quran after the Battle of Yamama in which many Hafiz were martyred.",
+      "tags": []
+    },
+    {
+      "id": "source-029",
+      "q": "The first English translation of the Holy Quran was made by:",
+      "options": [
+        "George Sale",
+        "Edward Henry Palmer",
+        "Alexander Ross",
+        "John Rodwell"
+      ],
+      "correct": 2,
+      "explanation": "The first English translation of the Quran was by Alexander Ross in 1649 (though it was a translation of the French version by Du Ryer). The first Latin translation was by Robertus Ketenensis in 1143.",
+      "tags": []
+    },
+    {
+      "id": "source-030",
+      "q": "The Holy Quran is also known by all of the following names EXCEPT:",
+      "options": [
+        "Al-Furqaan",
+        "Al-Zikr",
+        "Al-Huda",
+        "Al-Hadith"
+      ],
+      "correct": 3,
+      "explanation": "The Holy Quran is known as Al-Furqaan, Al-Kitab, Al-Zikr, An-Noor, and Al-Huda. Al-Hadith is not one of its names — it refers to the Prophet's sayings.",
+      "tags": []
+    },
+    {
+      "id": "source-031",
+      "q": "What is the science of explanation of the Holy Quran called?",
+      "options": [
+        "Fiqh",
+        "Tafsir",
+        "Hadith",
+        "Aqeedah"
+      ],
+      "correct": 1,
+      "explanation": "The science of explanation and interpretation of the Holy Quran is called Tafsir. A scholar who writes a Tafsir is called a Mufassir.",
+      "tags": []
+    },
+    {
+      "id": "source-032",
+      "q": "What is the second source of Islamic law?",
+      "options": [
+        "Ijma",
+        "Qiyas",
+        "Hadith and Sunnah",
+        "Ijtehad"
+      ],
+      "correct": 2,
+      "explanation": "The second source of Islamic law is Hadith and Sunnah — the reported sayings, actions, and tacit approvals of the Holy Prophet (PBUH).",
+      "tags": []
+    },
+    {
+      "id": "source-033",
+      "q": "From which Arabic word is 'Hadith' derived?",
+      "options": [
+        "Hada",
+        "Tahdis",
+        "Hadara",
+        "Tahdhib"
+      ],
+      "correct": 1,
+      "explanation": "The word Hadith is derived from the Arabic word tahdis. Its literal meaning is 'to inform' or 'to report.'",
+      "tags": []
+    },
+    {
+      "id": "source-034",
+      "q": "What is the literal meaning of 'Sunnah'?",
+      "options": [
+        "The Final Revelation",
+        "Well-known or well-trodden path",
+        "To struggle or strive",
+        "Consensus of opinion"
+      ],
+      "correct": 1,
+      "explanation": "The literal meaning of Sunnah is 'well-known path' or 'well-trodden path.' In Sharia, it refers to the Prophet's established practices.",
+      "tags": []
+    },
+    {
+      "id": "source-035",
+      "q": "What are the two essential parts of a Hadith called?",
+      "options": [
+        "Isnad and Matn",
+        "Sahih and Hasan",
+        "Rawi and Qadi",
+        "Maqbul and Mardud"
+      ],
+      "correct": 0,
+      "explanation": "Every Hadith has two parts: (1) Isnad (also Sanad) — the chain of transmitters (literal meaning: foundation), and (2) Matn — the text or content of the Hadith (literal meaning: visible part of something).",
+      "tags": []
+    },
+    {
+      "id": "source-036",
+      "q": "A Hadith that is genuine and authentic is called:",
+      "options": [
+        "Hasan",
+        "Zaeef",
+        "Sahih",
+        "Madhu"
+      ],
+      "correct": 2,
+      "explanation": "A Sahih Hadith is one that is genuine and authentic — meeting strict criteria of an unbroken chain of reliable narrators. Hasan has minor doubts; Zaeef is weak; Madhu is forged.",
+      "tags": []
+    },
+    {
+      "id": "source-037",
+      "q": "A forged (fabricated) Hadith is known as:",
+      "options": [
+        "Zaeef",
+        "Hasan",
+        "Sahih",
+        "Madhu"
+      ],
+      "correct": 3,
+      "explanation": "A Madhu (Mawdhu) Hadith is a fabricated or forged Hadith — one that has been falsely attributed to the Prophet (PBUH). It is strictly rejected.",
+      "tags": []
+    },
+    {
+      "id": "source-038",
+      "q": "A Hadith reported by such a large number of companions that it cannot be doubted is called:",
+      "options": [
+        "Ahad",
+        "Mutawatir",
+        "Maqtu",
+        "Marfu"
+      ],
+      "correct": 1,
+      "explanation": "A Mutawatir Hadith is one narrated by such a large number of companions at every level of transmission that fabrication is considered impossible. It carries the highest degree of certainty.",
+      "tags": []
+    },
+    {
+      "id": "source-039",
+      "q": "Which companion narrated the most Hadiths?",
+      "options": [
+        "Hazrat Aisha (RA)",
+        "Hazrat Abdullah ibn Abbas (RA)",
+        "Hazrat Abu Hurairah (RA)",
+        "Hazrat Anas ibn Malik (RA)"
+      ],
+      "correct": 2,
+      "explanation": "Hazrat Abu Hurairah (RA) narrated the most Hadiths — 5,374 narrations. He embraced Islam late but devoted his life entirely to learning from and transmitting the Prophet's sayings.",
+      "tags": []
+    },
+    {
+      "id": "source-040",
+      "q": "How many Hadiths did Hazrat Abu Hurairah (RA) narrate?",
+      "options": [
+        "2,210",
+        "3,500",
+        "5,374",
+        "7,563"
+      ],
+      "correct": 2,
+      "explanation": "Hazrat Abu Hurairah (RA) narrated 5,374 Hadiths — the largest collection from any single companion.",
+      "tags": []
+    },
+    {
+      "id": "source-041",
+      "q": "What are the six most authentic Hadith collections collectively called?",
+      "options": [
+        "Arbaeen",
+        "Musnad Ahmed",
+        "Sihah-e-Sitta",
+        "Al Muwatta"
+      ],
+      "correct": 2,
+      "explanation": "Sihah-e-Sitta (the Six Authentic Books) refers to the six most authoritative Hadith collections: Sahih Bukhari, Sahih Muslim, Sunan Nisai, Sunan Abu Dawood, Sunan Tirmizi, and Sunan Ibn Majah.",
+      "tags": []
+    },
+    {
+      "id": "source-042",
+      "q": "How many Hadiths are in Sahih Bukhari?",
+      "options": [
+        "5,374",
+        "6,200",
+        "7,563",
+        "9,200"
+      ],
+      "correct": 2,
+      "explanation": "Sahih Bukhari contains 7,563 Hadiths. It was compiled by Imam Muhammad ibn Ismail al-Bukhari and is considered the most authentic book after the Holy Quran.",
+      "tags": []
+    },
+    {
+      "id": "source-043",
+      "q": "How many Hadiths are in Sahih Muslim?",
+      "options": [
+        "7,563",
+        "8,000",
+        "9,200",
+        "10,000"
+      ],
+      "correct": 2,
+      "explanation": "Sahih Muslim contains 9,200 Hadiths. It was compiled by Imam Muslim ibn al-Hajjaj and is second in authority only to Sahih Bukhari.",
+      "tags": []
+    },
+    {
+      "id": "source-044",
+      "q": "Al Muwatta was the first legal work to combine Hadith and Fiqh. Who compiled it?",
+      "options": [
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam Malik",
+        "Imam Abu Hanifa"
+      ],
+      "correct": 2,
+      "explanation": "Al Muwatta was compiled by Imam Malik ibn Anas. It contains 1,720 Hadiths and is historically significant as the first work to systematically combine Hadith and Fiqh (Islamic jurisprudence).",
+      "tags": []
+    },
+    {
+      "id": "source-045",
+      "q": "How many Hadiths does Al Muwatta contain?",
+      "options": [
+        "720",
+        "1,000",
+        "1,720",
+        "3,000"
+      ],
+      "correct": 2,
+      "explanation": "Al Muwatta by Imam Malik contains 1,720 Hadiths. It was also the first legal work to incorporate and combine Hadith and Fiqh.",
+      "tags": []
+    },
+    {
+      "id": "source-046",
+      "q": "Who compiled the first written Hadith collection — Sahifa-e-Sadiqa?",
+      "options": [
+        "Hazrat Abu Hurairah (RA)",
+        "Hazrat Anas ibn Malik (RA)",
+        "Hazrat Abdullah bin Amr (RA)",
+        "Hazrat Aisha (RA)"
+      ],
+      "correct": 2,
+      "explanation": "Hazrat Abdullah bin Amr ibn al-'As (RA) compiled Sahifa-e-Sadiqa — the first written Hadith collection, compiled during the lifetime of the Prophet (PBUH) with his permission.",
+      "tags": []
+    },
+    {
+      "id": "source-047",
+      "q": "The term 'Arbaeen' refers to a collection of how many Hadiths?",
+      "options": [
+        "20",
+        "30",
+        "40",
+        "50"
+      ],
+      "correct": 2,
+      "explanation": "Arbaeen refers to a collection of 40 Hadiths. The most famous is Imam Nawawi's Arbaeen (40 Hadith), a standard text in Islamic education.",
+      "tags": []
+    },
+    {
+      "id": "source-048",
+      "q": "What is the third source of Islamic law?",
+      "options": [
+        "Hadith",
+        "Qiyas",
+        "Ijma",
+        "Ijtehad"
+      ],
+      "correct": 2,
+      "explanation": "The third source of Islamic law is Ijma — the consensus or agreement of Muslim jurists (mujtahideen) on a legal issue.",
+      "tags": []
+    },
+    {
+      "id": "source-049",
+      "q": "What is the literal meaning of 'Ijma'?",
+      "options": [
+        "To measure and compare",
+        "An agreement upon something",
+        "Independent reasoning",
+        "A well-trodden path"
+      ],
+      "correct": 1,
+      "explanation": "Ijma is derived from the Arabic word jamun. Its literal meaning is 'an agreement upon something' — technically referring to the consensus of Muslim scholars on a legal ruling.",
+      "tags": []
+    },
+    {
+      "id": "source-050",
+      "q": "When does Ijma operate as a source of Islamic law?",
+      "options": [
+        "Whenever scholars disagree",
+        "When Quran and Hadith have not clarified a matter",
+        "Only during the time of the Sahaba",
+        "Only in criminal matters"
+      ],
+      "correct": 1,
+      "explanation": "Ijma operates only when the Quran and Hadith have not already clarified a matter. It is a supplementary source used for new issues not directly addressed in primary texts.",
+      "tags": []
+    },
+    {
+      "id": "source-051",
+      "q": "What are the two types of Ijma?",
+      "options": [
+        "Qawli and Amali",
+        "Mutawatir and Ahad",
+        "Sarih (Explicit) and Sukuti (Silent)",
+        "Absolute and Partial"
+      ],
+      "correct": 2,
+      "explanation": "The two types of Ijma are: (1) Ijma Sarih — Explicit Ijma where each mujtahid states their opinion openly, and (2) Ijma Sukuti — Silent Ijma where some scholars do not object to an opinion.",
+      "tags": []
+    },
+    {
+      "id": "source-052",
+      "q": "Which of the following is an example of Ijma as a source of Islamic law?",
+      "options": [
+        "Five daily prayers",
+        "Hajj rituals",
+        "Compilation of the Holy Quran",
+        "Number of Quranic verses"
+      ],
+      "correct": 2,
+      "explanation": "The compilation of the Holy Quran is a classic example of Ijma — the companions of the Prophet (PBUH) reached consensus (Ijma) on compiling it into a single standardised manuscript.",
+      "tags": []
+    },
+    {
+      "id": "source-053",
+      "q": "What is the fourth source of Islamic law?",
+      "options": [
+        "Ijma",
+        "Ijtehad",
+        "Qiyas",
+        "Tafsir"
+      ],
+      "correct": 2,
+      "explanation": "The fourth source of Islamic law is Qiyas — analogical deduction, meaning applying the ruling of an existing case to a new analogous situation.",
+      "tags": []
+    },
+    {
+      "id": "source-054",
+      "q": "What is the literal meaning of 'Qiyas'?",
+      "options": [
+        "Independent reasoning",
+        "To measure, compare and weigh up",
+        "An agreement upon something",
+        "To inform"
+      ],
+      "correct": 1,
+      "explanation": "The literal meaning of Qiyas is 'to measure, to compare and to weigh up.' In Islamic jurisprudence, it refers to analogical deduction.",
+      "tags": []
+    },
+    {
+      "id": "source-055",
+      "q": "The term 'Qiyas' in Islamic jurisprudence was introduced by:",
+      "options": [
+        "Imam Malik",
+        "Imam Shafi'i",
+        "Imam Abu Hanifa",
+        "Imam Ahmad ibn Hanbal"
+      ],
+      "correct": 2,
+      "explanation": "The term Qiyas was introduced and systematically developed by Imam Abu Hanifa, the founder of the Hanafi school of Islamic jurisprudence.",
+      "tags": []
+    },
+    {
+      "id": "source-056",
+      "q": "Which of the following is NOT one of the four essential elements of Qiyas?",
+      "options": [
+        "Asl (original case)",
+        "Illah (effective cause)",
+        "Ijma (consensus)",
+        "Far (new case)"
+      ],
+      "correct": 2,
+      "explanation": "The four essential elements of Qiyas are: Asl (original case), Hukm al-Asl (ruling on original case), Far (new case), and Illah (effective cause). Ijma is a separate source of law, not an element of Qiyas.",
+      "tags": []
+    },
+    {
+      "id": "source-057",
+      "q": "Qiyas cannot be applied to laws relating to:",
+      "options": [
+        "Trade transactions",
+        "Ablution (Wuzu)",
+        "Criminal law",
+        "Intoxicating substances"
+      ],
+      "correct": 2,
+      "explanation": "Qiyas cannot be applied to laws relating to criminal law (Hudud). Additionally, Qiyas cannot be drawn from another Qiyas — it must always derive from a ruling in the Quran or Sunnah.",
+      "tags": []
+    },
+    {
+      "id": "source-058",
+      "q": "What is the fifth source of Islamic law?",
+      "options": [
+        "Ijma",
+        "Qiyas",
+        "Tafsir",
+        "Ijtehad"
+      ],
+      "correct": 3,
+      "explanation": "The fifth source of Islamic law is Ijtehad — the process of independent scholarly reasoning to derive rulings from the primary sources of Islamic law.",
+      "tags": []
+    },
+    {
+      "id": "source-059",
+      "q": "What is the literal meaning of 'Ijtehad'?",
+      "options": [
+        "Consensus",
+        "Analogy",
+        "Effort or striving",
+        "Testimony"
+      ],
+      "correct": 2,
+      "explanation": "The word Ijtehad comes from the Arabic root jahada (to struggle). Its literal meaning is 'effort' or 'striving.' In Islamic law, it means exerting effort to derive legal rulings from the sources.",
+      "tags": []
+    },
+    {
+      "id": "source-060",
+      "q": "A person who performs Ijtehad is called a:",
+      "options": [
+        "Mufassir",
+        "Muhaddith",
+        "Mujtahid",
+        "Mufti"
+      ],
+      "correct": 2,
+      "explanation": "A person qualified to perform Ijtehad is called a Mujtahid. Requirements include thorough knowledge of theology, Arabic, revealed texts, legal theory, and exceptional legal reasoning ability.",
+      "tags": []
+    },
+    {
+      "id": "source-061",
+      "q": "According to Hanafites and Malikites, Qiyas is another name for:",
+      "options": [
+        "Hadith",
+        "Ijma",
+        "Ijtehad",
+        "Taqlid"
+      ],
+      "correct": 2,
+      "explanation": "According to Hanafites and Malikites, Qiyas is considered another name for Ijtehad — as analogical reasoning is one form of independent scholarly deduction from sources.",
+      "tags": []
+    },
+    {
+      "id": "source-062",
+      "q": "Which of the following correctly lists ALL five sources of Islamic law in order?",
+      "options": [
+        "Quran, Ijma, Hadith, Qiyas, Ijtehad",
+        "Quran, Hadith, Qiyas, Ijma, Ijtehad",
+        "Quran, Hadith, Ijma, Qiyas, Ijtehad",
+        "Hadith, Quran, Ijma, Qiyas, Ijtehad"
+      ],
+      "correct": 2,
+      "explanation": "The correct order of the five sources of Islamic law is: (1) Quran, (2) Hadith and Sunnah, (3) Ijma, (4) Qiyas, (5) Ijtehad. The Quran is always first as the primary supreme source.",
+      "tags": []
+    }
+  ]
+}

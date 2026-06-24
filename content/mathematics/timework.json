@@ -1,0 +1,817 @@
+{
+  "topic_id": "timework",
+  "topic_name": "Timework",
+  "subject": "mathematics",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Timework MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "timewo-001",
+      "q": "If5 men complete the work 6 days, then in how many days 6 men can complete the same work?",
+      "options": [
+        "7 days",
+        "10 days",
+        "6 days",
+        "5 days"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-002",
+      "q": "40 men complete one-third of a work in 40 days. How many more men should be employed to finish the rest of the work in 50 more days?",
+      "options": [
+        "24",
+        "19",
+        "29",
+        "34"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-003",
+      "q": "AandB finish a job in 12 days. While A, B, and C together can finish it in 8 days. How many days will it take for C alone to finish the job?",
+      "options": [
+        "25 days",
+        "24 days",
+        "26 days",
+        "29 days"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-004",
+      "q": "Four men working together can dig a ditch in 42 days. They begin, but one man works only half-days. How long will it take to complete the job?",
+      "options": [
+        "43",
+        "48",
+        "53",
+        "58"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-005",
+      "q": "|facertain job can be finished by 18 workers in 26 days. How many workers are needed to finish job in 12 days?",
+      "options": [
+        "39",
+        "44",
+        "49",
+        "34"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-006",
+      "q": "Acandoa piece of work in 4 days and B can do it in 12 days. In how many days will they finish the work, both working together?",
+      "options": [
+        "5 days",
+        "8 days",
+        "4 days",
+        "3 days"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-007",
+      "q": "If 8menor 12 women can do a piece of work in 25 days, in how many days can the same work be done by 6 men and 11 women?",
+      "options": [
+        "17 days",
+        "20 days",
+        "15 days",
+        "16 days"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-008",
+      "q": "If 10mencan construct a building in 40 days. How long will it take 1 man to do this work?",
+      "options": [
+        "450",
+        "400",
+        "410",
+        "390"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-009",
+      "q": "Acando work in 6 days and B can do the same work in 12 days. How long will it take if A and B work together?",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "3"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-010",
+      "q": "If6men take 9 days to complete a work, how many men can complete the work in 3 days?",
+      "options": [
+        "23 men",
+        "18 men",
+        "20 men",
+        "19 men"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-011",
+      "q": "If 10 workers can make 10 tables in 10 days, then how many days would it take for 5 workers to make 5 tables?",
+      "options": [
+        "5",
+        "20",
+        "15",
+        "10"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-012",
+      "q": "6 persons complete a work in 16 days, 8 persons will complete the job in how many days?",
+      "options": [
+        "17",
+        "22",
+        "7",
+        "12"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-013",
+      "q": "\\fAand B together can complete a piece of work in 15 days and B alone in 20 days, in how many days can A alone complete the work?",
+      "options": [
+        "61S",
+        "60S",
+        "65S",
+        "62S"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-014",
+      "q": "Aworker did work 1 week and 3 days for Rs. 750. In one month how much he got money?",
+      "options": [
+        "2150",
+        "4500",
+        "2350",
+        "2250"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-015",
+      "q": "Ali earns Rs 7500 in 2 weeks what will he earn in 2 days if he works 6 days a week?",
+      "options": [
+        "1350",
+        "1250",
+        "1150",
+        "2500"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-016",
+      "q": "Ais 4times as fast as B and therefore is able to finish the work in 45 days less than B. A and B, can complete the work in how many days?",
+      "options": [
+        "12 days",
+        "17 days",
+        "14 days",
+        "13 days"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-017",
+      "q": "AandB together can complete a work in 3 days. They start together but, after 2 days, B left the work. If the work is completed after 2 more days, B alone could do the work in?",
+      "options": [
+        "8 days",
+        "7 days",
+        "11 days",
+        "06 days"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-018",
+      "q": "A project of construction of a building can be completed by 150 workers in 40 days. But project manager brought 30 more workers after 16 days. In how many days will the remaining work be finished?",
+      "options": [
+        "25 days",
+        "21 days",
+        "20 days",
+        "22 days"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-019",
+      "q": "lf 10 persons can do a work in 20 days than 20 persons with twice efficiency can do the same work in?",
+      "options": [
+        "7 days",
+        "10 days",
+        "6 days",
+        "5 days"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-020",
+      "q": "AandBcan doa piece of work in 12 days B and Cin 15 days A and Cin 20 days than the number of days taken by A Band C together to finish the work are?",
+      "options": [
+        "12 days",
+        "11 days",
+        "15 days",
+        "10 days"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-021",
+      "q": "Working 5 hours a day, A can Complete a work in 8 days and working 6 hours a day, B can complete the same work in 10 days. Working 8 hours a day, they can jointly complete the work in?",
+      "options": [
+        "3",
+        "5",
+        "2",
+        "4"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-022",
+      "q": "60 men can doa work in 40 days. How long will it take 40 men to complete the same work?",
+      "options": [
+        "65",
+        "70",
+        "55",
+        "60"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-023",
+      "q": "42 women can do a piece a work in 18 days. How many women be required to PREPARATION WI do the same piece of work in 21 days?",
+      "options": [
+        "41",
+        "36",
+        "31",
+        "46"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-024",
+      "q": "Xand Y can doa piece of work in 20 days and 12 days respectively. X started the work alone and then after 4 days Y joined him till the completion of the work. How long did the work last?",
+      "options": [
+        "12 days",
+        "10 days",
+        "11 days",
+        "15 days"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-025",
+      "q": "Ais twice as good as B as a workman. A takes 30 days less than B. How many days does both complete the work?",
+      "options": [
+        "30",
+        "20",
+        "15",
+        "25"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-026",
+      "q": "36men can complete a piece of work in 18 days. In how many days will 27 men complete the same work?",
+      "options": [
+        "26 days",
+        "29 days",
+        "25 days",
+        "24 days"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-027",
+      "q": "If 10mencan doa piece of work in 12 days, the time taken by 12 men to do the same piece of work will be?",
+      "options": [
+        "20",
+        "15",
+        "10",
+        "5"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-028",
+      "q": "Ais twice as good as workman as B and together they finish a piece of work in 18 days. In how many days will B alone finish the work?",
+      "options": [
+        "55 days",
+        "56 days",
+        "54 days",
+        "59 days"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-029",
+      "q": "If 1 day work = 1/20 then time required to finish the job (in days)?",
+      "options": [
+        "25",
+        "20",
+        "30",
+        "15"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-030",
+      "q": "AandB together can complete a piece of work in 4 days. If A alone can PREPARATION WI1 complete the same work in 12 days, in how many days can B alone complete that work?",
+      "options": [
+        "6 days",
+        "7 days",
+        "11 days",
+        "8 days"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-031",
+      "q": "56 men can do apiece of work in 24 days. In how many days can 42 men complete the same piece of work?",
+      "options": [
+        "42",
+        "27",
+        "37",
+        "32"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-032",
+      "q": "3 pumps, working 8 hours a day, can empty a tank in 2 days. How many hours a day must 4 pumps work to empty the tank in 1 day?",
+      "options": [
+        "17",
+        "7",
+        "22",
+        "12"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-033",
+      "q": "39 persons can repair a road in 12 days, working 5 hours a day. In how many days will 30 persons, working 6 hours a day, complete the work?",
+      "options": [
+        "23",
+        "13",
+        "8",
+        "18"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-034",
+      "q": "71.A man anda boy received Rs. 800 as wages for 5 days for the work they did together. The man’s efficiency in the work was three times that of the boy. What are the daily wages of the boy?",
+      "options": [
+        "35",
+        "45",
+        "50",
+        "40"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-035",
+      "q": "{If 24 men can finish a work in 10 days, then find the number of days required to complete the same work by 30 men?",
+      "options": [
+        "10 days",
+        "13 days",
+        "8 days",
+        "9 days"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-036",
+      "q": "Aninlet pipe can fill a tank in 10 hours and an outlet pipe empties the same full tank in 20 hrs. The time required to PREPARATION WI1 fill the tank when both pipes are opened?",
+      "options": [
+        "30",
+        "25",
+        "15",
+        "20"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-037",
+      "q": "|f10mencan construct a building in 40 days, how long will it take 20 men to do this work?",
+      "options": [
+        "20 days",
+        "25 days",
+        "22 days",
+        "21 days"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-038",
+      "q": "If 16 machines do a piece of work in 4 days, then 8 machines will do the same job in days?",
+      "options": [
+        "10 days",
+        "13 days",
+        "8 days",
+        "9 days"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-039",
+      "q": "If 20 mencan doa piece of work in 8 days, how many men will finish it in 10 days?",
+      "options": [
+        "21 men",
+        "17 men",
+        "16 men",
+        "18 men"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-040",
+      "q": "Pipe “A” can fill a tank in 5 minutes whereas “B” can fill it in 6 minutes. How long would it take both pipes, working together, to fill it?",
+      "options": [
+        "31/11",
+        "29/11",
+        "30/11",
+        "30/12"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-041",
+      "q": "If 16 men complete work in 10 days how much days are required completing work by 8 men?",
+      "options": [
+        "25",
+        "20",
+        "15",
+        "30"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-042",
+      "q": "If 8 people work for 60 days how many days will it take for 6 people to complete the same work?",
+      "options": [
+        "82 days",
+        "80 days",
+        "85 days",
+        "81 days"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-043",
+      "q": "10 men, working 6 hours a day can complete a work in 18 days. How many hours a day must 15 men work to complete the work in 12 days?",
+      "options": [
+        "6",
+        "8",
+        "7",
+        "5"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-044",
+      "q": "A person can doa work in 10 days but another can do it in 15 days. In how many days, they will complete the task if work together?",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "5"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-045",
+      "q": "If 10 men can doa piece of work in 20 days, how long will it take 8 men to do the same job if they work at the same rate?",
+      "options": [
+        "25 days",
+        "30 days",
+        "27 days",
+        "26 days"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-046",
+      "q": "7mencan complete a piece of work in 12 days. How many additional men will be required to complete double the work in 8 days?",
+      "options": [
+        "9",
+        "24",
+        "19",
+        "14"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-047",
+      "q": "If 15 men can doa piece of work in 20 days then in how many days can 25 men finish the same work?",
+      "options": [
+        "22",
+        "12",
+        "7",
+        "17"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-048",
+      "q": "40 men can do work in 50 days. How long it will take 25 men to do the work?",
+      "options": [
+        "85 days",
+        "81 days",
+        "80 days",
+        "82 days"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-049",
+      "q": "Iften men can doa piece of work in twenty days, how long will it take if 8 men do the job when they work at the same rate?",
+      "options": [
+        "27 days",
+        "26 days",
+        "30 days",
+        "25 days"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-050",
+      "q": "Amir does a work in 10 days and Babar does the same work in 15 days. In how many days do they together complete the same work?",
+      "options": [
+        "7 days",
+        "6 days",
+        "8 days",
+        "11 days"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-051",
+      "q": "16 men build a house in 10 days. How much time will it take 8 men to do this work?",
+      "options": [
+        "22 days",
+        "20 days",
+        "21 days",
+        "25 days"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-052",
+      "q": "5 workers, working 8 hours a day, finished painting a house in 2 days. If an identical house has to be painted completely in a day by 8 workers, how many hours should they work?",
+      "options": [
+        "20",
+        "5",
+        "15",
+        "10"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-053",
+      "q": "If 15 men complete a work in 20 days, then 25 men will complete that work in how much days?",
+      "options": [
+        "7",
+        "22",
+        "12",
+        "17"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-054",
+      "q": "12 men build a house in 24 days. How much time will it take 8 men to do this work?",
+      "options": [
+        "36",
+        "31",
+        "46",
+        "41"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-055",
+      "q": "|f15 mencan doa piece of work in 8 days, how many men will finish it in 10 days?",
+      "options": [
+        "12",
+        "7",
+        "22",
+        "17"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-056",
+      "q": "If 3 menor 6 boys can do a work in 20 days, then 6 men and 8 boys shall do it in?",
+      "options": [
+        "8 days",
+        "7 days",
+        "6 days",
+        "11 days"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-057",
+      "q": "If 200 men can do a piece of work in 8 days, how many men will finish it in 10 days?",
+      "options": [
+        "150",
+        "210",
+        "170",
+        "160"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-058",
+      "q": "Acandoa piece of work in 10 days and B can do it in 15 days. The number of days required by them to finish it, working together is?",
+      "options": [
+        "5",
+        "8",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-059",
+      "q": "10mencan complete a job in 14 days. How long will it take 4 men to finish the same job if they work at the same rate?",
+      "options": [
+        "37 days",
+        "40 days",
+        "35 days",
+        "36 days"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-060",
+      "q": "8&mencan doa work in 60 days. How long will it take 6 men to do the work?",
+      "options": [
+        "85 days",
+        "80 days",
+        "81 days",
+        "82 days"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-061",
+      "q": "20mencan construct a building in 40 days. How long will it take 10 men to do this work?",
+      "options": [
+        "75",
+        "90",
+        "85",
+        "80"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "timewo-062",
+      "q": "120 men are used to build a huge building for 30 days. How long will it take 80 men to do the same work?",
+      "options": [
+        "50",
+        "55",
+        "40",
+        "45"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    }
+  ]
+}

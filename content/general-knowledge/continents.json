@@ -1,0 +1,1051 @@
+{
+  "topic_id": "continents",
+  "topic_name": "Continents",
+  "subject": "general-knowledge",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Continents MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "contin-001",
+      "q": "How many continents are there in the world?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "explanation": "There are 7 continents: Asia, Africa, North America, South America, Antarctica, Europe and Australia/Oceania.",
+      "tags": []
+    },
+    {
+      "id": "contin-002",
+      "q": "Which is the largest continent in the world by area?",
+      "options": [
+        "Africa",
+        "Asia",
+        "North America",
+        "Antarctica"
+      ],
+      "correct": 1,
+      "explanation": "Asia covers ~43,998,000 km² — about 29.5% of Earth&#x27;s land area — making it the largest continent.",
+      "tags": []
+    },
+    {
+      "id": "contin-003",
+      "q": "Which is the smallest continent by area?",
+      "options": [
+        "Europe",
+        "Antarctica",
+        "Australia",
+        "South America"
+      ],
+      "correct": 2,
+      "explanation": "Australia, at ~7,699,000 km² (about 5.2% of Earth&#x27;s land), is the smallest continent.",
+      "tags": []
+    },
+    {
+      "id": "contin-004",
+      "q": "Which is the most populous continent?",
+      "options": [
+        "Africa",
+        "Europe",
+        "Asia",
+        "South America"
+      ],
+      "correct": 2,
+      "explanation": "Asia hosts ~4.83 billion people — about 58.74% of the world&#x27;s population — by far the most populous.",
+      "tags": []
+    },
+    {
+      "id": "contin-005",
+      "q": "Which is the least populated continent (excluding research stations)?",
+      "options": [
+        "Australia",
+        "Antarctica",
+        "Oceania",
+        "Europe"
+      ],
+      "correct": 1,
+      "explanation": "Antarctica has only 3,000–5,000 temporary residents (scientists/researchers) at any time — by far the least populated.",
+      "tags": []
+    },
+    {
+      "id": "contin-006",
+      "q": "Which continent covers about 29.5% of Earth&#x27;s land area?",
+      "options": [
+        "Africa (20%)",
+        "Asia (29.5%)",
+        "North America (16.3%)",
+        "Antarctica (9.6%)"
+      ],
+      "correct": 1,
+      "explanation": "Asia, at 29.5% of Earth&#x27;s land area, is by far the largest continent.",
+      "tags": []
+    },
+    {
+      "id": "contin-007",
+      "q": "What percentage of Earth&#x27;s land area is covered by Africa?",
+      "options": [
+        "11.8%",
+        "16.3%",
+        "20.0%",
+        "29.5%"
+      ],
+      "correct": 2,
+      "explanation": "Africa is the second-largest continent at about 20% of Earth&#x27;s land area (~29.8 million km²).",
+      "tags": []
+    },
+    {
+      "id": "contin-008",
+      "q": "Which is the second-largest continent by area?",
+      "options": [
+        "South America",
+        "North America",
+        "Africa",
+        "Antarctica"
+      ],
+      "correct": 2,
+      "explanation": "Africa is the second-largest continent at ~29.8 million km².",
+      "tags": []
+    },
+    {
+      "id": "contin-009",
+      "q": "Approximately how much of Earth&#x27;s land area does Antarctica cover?",
+      "options": [
+        "5.2%",
+        "6.5%",
+        "9.6%",
+        "11.8%"
+      ],
+      "correct": 2,
+      "explanation": "Antarctica covers about 9.6% of Earth&#x27;s land area (~13.6 million km²) — the fifth-largest continent.",
+      "tags": []
+    },
+    {
+      "id": "contin-010",
+      "q": "Which continent has the highest population density?",
+      "options": [
+        "Africa (52)",
+        "Asia (156)",
+        "Europe (34)",
+        "South America (21)"
+      ],
+      "correct": 1,
+      "explanation": "Asia has the highest population density at ~156 inhabitants per km².",
+      "tags": []
+    },
+    {
+      "id": "contin-011",
+      "q": "Which is the highest point on Earth?",
+      "options": [
+        "K2",
+        "Mount Everest",
+        "Kilimanjaro",
+        "Aconcagua"
+      ],
+      "correct": 1,
+      "explanation": "Mount Everest in the Himalayas (Asia) is the highest point on Earth at 8,848.86 m (2020 China-Nepal survey).",
+      "tags": []
+    },
+    {
+      "id": "contin-012",
+      "q": "What is the official height of Mount Everest as per the 2020 China-Nepal survey?",
+      "options": [
+        "8,611 m",
+        "8,848.86 m",
+        "8,850 m",
+        "9,000 m"
+      ],
+      "correct": 1,
+      "explanation": "The 2020 joint China-Nepal survey set Everest&#x27;s official height at 8,848.86 m (29,031.7 ft) — an upward revision from the older 8,850 m figure.",
+      "tags": []
+    },
+    {
+      "id": "contin-013",
+      "q": "Which is the lowest point on Earth&#x27;s land surface?",
+      "options": [
+        "Death Valley",
+        "Dead Sea shore",
+        "Caspian Sea",
+        "Lake Eyre"
+      ],
+      "correct": 1,
+      "explanation": "The Dead Sea shore (between Jordan and Israel) at −396.8 m is the lowest land point on Earth.",
+      "tags": []
+    },
+    {
+      "id": "contin-014",
+      "q": "What is the highest peak in Africa?",
+      "options": [
+        "Mount Kenya",
+        "Mount Kilimanjaro",
+        "Ras Dashen",
+        "Mount Elgon"
+      ],
+      "correct": 1,
+      "explanation": "Mount Kilimanjaro (5,895 m) in Tanzania is the highest point in Africa and the world&#x27;s tallest free-standing mountain.",
+      "tags": []
+    },
+    {
+      "id": "contin-015",
+      "q": "What is the lowest point in Africa?",
+      "options": [
+        "Lake Assal (Djibouti)",
+        "Qattara Depression",
+        "Lake Chad",
+        "Lake Victoria"
+      ],
+      "correct": 0,
+      "explanation": "Lake Assal in Djibouti at −156.1 m is the lowest point in Africa and the third-lowest land point on Earth.",
+      "tags": []
+    },
+    {
+      "id": "contin-016",
+      "q": "What is the highest peak in North America?",
+      "options": [
+        "Mount Whitney",
+        "Mount Logan",
+        "Denali (McKinley)",
+        "Pico de Orizaba"
+      ],
+      "correct": 2,
+      "explanation": "Denali (formerly Mount McKinley) in Alaska at 6,190 m is the highest peak in North America. Its name was changed back to McKinley in 2025.",
+      "tags": []
+    },
+    {
+      "id": "contin-017",
+      "q": "What is the lowest point in North America?",
+      "options": [
+        "Salton Sea",
+        "Death Valley",
+        "Lake Mead",
+        "Great Salt Lake"
+      ],
+      "correct": 1,
+      "explanation": "Death Valley (Badwater Basin) in California at −85.9 m is the lowest point in North America.",
+      "tags": []
+    },
+    {
+      "id": "contin-018",
+      "q": "What is the highest peak in South America?",
+      "options": [
+        "Aconcagua",
+        "Ojos del Salado",
+        "Huascarán",
+        "Chimborazo"
+      ],
+      "correct": 0,
+      "explanation": "Mount Aconcagua (6,960 m) in Argentina is the highest peak in South America — and the highest outside Asia.",
+      "tags": []
+    },
+    {
+      "id": "contin-019",
+      "q": "What is the lowest point in South America?",
+      "options": [
+        "Lake Titicaca",
+        "Valdés Peninsula",
+        "Salar de Uyuni",
+        "Lake Maracaibo"
+      ],
+      "correct": 1,
+      "explanation": "Laguna del Carbón on the Valdés Peninsula (Argentina) at −39.9 m is the lowest point in South America.",
+      "tags": []
+    },
+    {
+      "id": "contin-020",
+      "q": "What is the highest peak in Europe?",
+      "options": [
+        "Mont Blanc",
+        "Mount Elbrus",
+        "Matterhorn",
+        "Galdhøpiggen"
+      ],
+      "correct": 1,
+      "explanation": "Mount Elbrus (5,642 m) in the Caucasus Mountains of Russia is the highest peak in Europe. Mont Blanc (4,810 m) is the highest in Western Europe.",
+      "tags": []
+    },
+    {
+      "id": "contin-021",
+      "q": "What is the lowest point in Europe?",
+      "options": [
+        "Caspian Sea",
+        "North Sea",
+        "Black Sea",
+        "Aral Sea"
+      ],
+      "correct": 0,
+      "explanation": "The Caspian Sea at −28 m is the lowest point in Europe.",
+      "tags": []
+    },
+    {
+      "id": "contin-022",
+      "q": "What is the highest point on mainland Australia?",
+      "options": [
+        "Mount Kosciuszko",
+        "Mount Bogong",
+        "Mount Cook",
+        "Mount Wilhelm"
+      ],
+      "correct": 0,
+      "explanation": "Mount Kosciuszko (2,228 m) in New South Wales is the highest peak on mainland Australia.",
+      "tags": []
+    },
+    {
+      "id": "contin-023",
+      "q": "What is the highest peak in Antarctica?",
+      "options": [
+        "Mount Erebus",
+        "Vinson Massif",
+        "Mount Kirkpatrick",
+        "Mount Sidley"
+      ],
+      "correct": 1,
+      "explanation": "Vinson Massif (4,897 m) in the Ellsworth Mountains is the highest peak in Antarctica — one of the Seven Summits.",
+      "tags": []
+    },
+    {
+      "id": "contin-024",
+      "q": "What is the deepest point in Antarctica (below sea level on land)?",
+      "options": [
+        "Bentley Subglacial Trench",
+        "Marianas Trench",
+        "Tonga Trench",
+        "Java Trench"
+      ],
+      "correct": 0,
+      "explanation": "The Bentley Subglacial Trench at −2,555 m is the lowest point on Earth&#x27;s land surface (covered by ice).",
+      "tags": []
+    },
+    {
+      "id": "contin-025",
+      "q": "Who is known as the Father of Geography?",
+      "options": [
+        "Anaximander",
+        "Eratosthenes",
+        "Vidal de la Blache",
+        "Carl Ritter"
+      ],
+      "correct": 1,
+      "explanation": "Eratosthenes (276–194 BCE), a Greek mathematician and astronomer, is known as the Father of Geography — he first used the term &#x27;geography&#x27; and calculated Earth&#x27;s circumference.",
+      "tags": []
+    },
+    {
+      "id": "contin-026",
+      "q": "Who created the first known world map?",
+      "options": [
+        "Eratosthenes",
+        "Anaximander",
+        "Ptolemy",
+        "Strabo"
+      ],
+      "correct": 1,
+      "explanation": "Anaximander, an ancient Greek philosopher, created the first known world map in the 6th century BCE.",
+      "tags": []
+    },
+    {
+      "id": "contin-027",
+      "q": "Who is regarded as the Father of Modern Geography?",
+      "options": [
+        "Friedrich Ratzel",
+        "Alexander von Humboldt",
+        "Carl O. Sauer",
+        "Vidal de la Blache"
+      ],
+      "correct": 1,
+      "explanation": "Alexander von Humboldt (Prussian polymath) is regarded as the Father of Modern Geography. Carl Ritter is also a co-founder.",
+      "tags": []
+    },
+    {
+      "id": "contin-028",
+      "q": "Who is the Father of Human Geography?",
+      "options": [
+        "Vidal de la Blache",
+        "Carl Ritter",
+        "Friedrich Ratzel",
+        "Carl O. Sauer"
+      ],
+      "correct": 0,
+      "explanation": "French geographer Paul Vidal de la Blache is regarded as the Father of Human Geography.",
+      "tags": []
+    },
+    {
+      "id": "contin-029",
+      "q": "Who is the Father of Environmental Geography?",
+      "options": [
+        "Carl O. Sauer",
+        "Alexander von Humboldt",
+        "Vidal de la Blache",
+        "George Chisholm"
+      ],
+      "correct": 1,
+      "explanation": "Alexander von Humboldt is also regarded as the Father of Environmental Geography for his pioneering work on biogeography and ecological zones.",
+      "tags": []
+    },
+    {
+      "id": "contin-030",
+      "q": "Who is the Father of Cultural Geography?",
+      "options": [
+        "Friedrich Ratzel",
+        "Vidal de la Blache",
+        "Carl O. Sauer",
+        "Alfred Russel Wallace"
+      ],
+      "correct": 2,
+      "explanation": "American geographer Carl O. Sauer is regarded as the Father of Cultural Geography for his landscape-and-culture approach.",
+      "tags": []
+    },
+    {
+      "id": "contin-031",
+      "q": "Who is the Father of Political Geography?",
+      "options": [
+        "Friedrich Ratzel",
+        "Halford Mackinder",
+        "Karl Marx",
+        "Vidal de la Blache"
+      ],
+      "correct": 0,
+      "explanation": "German geographer and anthropologist Friedrich Ratzel is regarded as the Father of Political Geography.",
+      "tags": []
+    },
+    {
+      "id": "contin-032",
+      "q": "Who is the Father of Zoogeography?",
+      "options": [
+        "Charles Darwin",
+        "Alfred Russel Wallace",
+        "Carl Linnaeus",
+        "Alexander von Humboldt"
+      ],
+      "correct": 1,
+      "explanation": "Alfred Russel Wallace, co-discoverer of natural selection, is regarded as the Father of Zoogeography for his classification of animal regions.",
+      "tags": []
+    },
+    {
+      "id": "contin-033",
+      "q": "Who is the Father of Economic Geography?",
+      "options": [
+        "George Chisholm",
+        "Adam Smith",
+        "David Ricardo",
+        "Carl Ritter"
+      ],
+      "correct": 0,
+      "explanation": "Scottish geographer George Chisholm is regarded as the Father of Economic Geography. His 1889 &#x27;Handbook of Commercial Geography&#x27; was foundational.",
+      "tags": []
+    },
+    {
+      "id": "contin-034",
+      "q": "What was the world population as of December 2025 (UN data)?",
+      "options": [
+        "~7.5 billion",
+        "~8.27 billion",
+        "~9 billion",
+        "~10 billion"
+      ],
+      "correct": 1,
+      "explanation": "Per the UN, world population reached approximately 8.27 billion in December 2025 — 50.4% male, 49.6% female.",
+      "tags": []
+    },
+    {
+      "id": "contin-035",
+      "q": "In which year did India overtake China to become the world&#x27;s most populous country?",
+      "options": [
+        "2019",
+        "2021",
+        "2023",
+        "2025"
+      ],
+      "correct": 2,
+      "explanation": "India officially overtook China as the world&#x27;s most populous country in 2023, per UN data.",
+      "tags": []
+    },
+    {
+      "id": "contin-036",
+      "q": "Approximately what percentage of the world&#x27;s population does India hold?",
+      "options": [
+        "12.5%",
+        "14.0%",
+        "17.8%",
+        "22.0%"
+      ],
+      "correct": 2,
+      "explanation": "India has approximately 17.8% of the world&#x27;s population — the highest of any single country.",
+      "tags": []
+    },
+    {
+      "id": "contin-037",
+      "q": "Approximately what percentage of the world&#x27;s population does China hold?",
+      "options": [
+        "12.5%",
+        "17.2%",
+        "20.0%",
+        "22.5%"
+      ],
+      "correct": 1,
+      "explanation": "China has approximately 17.2% of the world&#x27;s population (just below India since 2023).",
+      "tags": []
+    },
+    {
+      "id": "contin-038",
+      "q": "What is Pakistan&#x27;s approximate share of world population?",
+      "options": [
+        "1.50%",
+        "2.15%",
+        "3.22%",
+        "4.50%"
+      ],
+      "correct": 2,
+      "explanation": "Pakistan holds approximately 3.22% of the world&#x27;s population, the 5th-largest country by population.",
+      "tags": []
+    },
+    {
+      "id": "contin-039",
+      "q": "Together, China and India hold approximately what share of world population?",
+      "options": [
+        "20%",
+        "27%",
+        "35%",
+        "45%"
+      ],
+      "correct": 2,
+      "explanation": "China (17.2%) plus India (17.8%) together account for approximately 35% of the world&#x27;s total population.",
+      "tags": []
+    },
+    {
+      "id": "contin-040",
+      "q": "Asia hosts approximately what share of world population?",
+      "options": [
+        "38%",
+        "48%",
+        "58.74%",
+        "68%"
+      ],
+      "correct": 2,
+      "explanation": "Asia hosts approximately 58.74% of the world&#x27;s total population — about 4.83 billion people.",
+      "tags": []
+    },
+    {
+      "id": "contin-041",
+      "q": "What is the world population growth rate (2025)?",
+      "options": [
+        "0.45%",
+        "0.85%",
+        "1.25%",
+        "2.10%"
+      ],
+      "correct": 1,
+      "explanation": "The world population is growing at approximately 0.85% per year in 2025 — down from 0.97% in 2020 and 1.25% in 2015.",
+      "tags": []
+    },
+    {
+      "id": "contin-042",
+      "q": "Approximately how many people are added to the world population annually?",
+      "options": [
+        "~30 million",
+        "~50 million",
+        "~70 million",
+        "~100 million"
+      ],
+      "correct": 2,
+      "explanation": "The world population is currently increasing by approximately 70 million people per year.",
+      "tags": []
+    },
+    {
+      "id": "contin-043",
+      "q": "According to recent UN data, which city has surpassed Tokyo as the world&#x27;s largest city?",
+      "options": [
+        "Mumbai",
+        "Delhi",
+        "Jakarta",
+        "Shanghai"
+      ],
+      "correct": 2,
+      "explanation": "Jakarta, Indonesia, with a population of ~42 million, has surpassed Tokyo as the world&#x27;s largest city.",
+      "tags": []
+    },
+    {
+      "id": "contin-044",
+      "q": "In what year did world population first reach 8 billion?",
+      "options": [
+        "2017",
+        "2020",
+        "2022",
+        "2024"
+      ],
+      "correct": 2,
+      "explanation": "The UN marked 15 November 2022 as the day world population reached 8 billion. It reached 6 billion in 1999 and 7 billion in 2011.",
+      "tags": []
+    },
+    {
+      "id": "contin-045",
+      "q": "By what year is world population projected to reach approximately 10 billion?",
+      "options": [
+        "2040",
+        "2050",
+        "2060",
+        "2080"
+      ],
+      "correct": 2,
+      "explanation": "The UN projects the world population to reach approximately 9.2 billion in 2040, 10 billion in 2060, and 11.2 billion by 2100.",
+      "tags": []
+    },
+    {
+      "id": "contin-046",
+      "q": "Which is the most populous country in Africa?",
+      "options": [
+        "Egypt",
+        "Ethiopia",
+        "Nigeria",
+        "South Africa"
+      ],
+      "correct": 2,
+      "explanation": "Nigeria is Africa&#x27;s most populous country with about 239 million people.",
+      "tags": []
+    },
+    {
+      "id": "contin-047",
+      "q": "Which is the most populous country in Europe?",
+      "options": [
+        "Germany",
+        "France",
+        "Russia",
+        "UK"
+      ],
+      "correct": 2,
+      "explanation": "Russia is Europe&#x27;s most populous country with about 143 million people.",
+      "tags": []
+    },
+    {
+      "id": "contin-048",
+      "q": "Which is the most populous city in Africa?",
+      "options": [
+        "Lagos",
+        "Cairo",
+        "Kinshasa",
+        "Johannesburg"
+      ],
+      "correct": 1,
+      "explanation": "Cairo, Egypt, with about 19.4 million people in its metro area, is the most populous city in Africa.",
+      "tags": []
+    },
+    {
+      "id": "contin-049",
+      "q": "Which is the most populous city in Europe?",
+      "options": [
+        "London",
+        "Paris",
+        "Moscow",
+        "Istanbul"
+      ],
+      "correct": 2,
+      "explanation": "Moscow, Russia, with about 14.9 million people, is the most populous city in Europe.",
+      "tags": []
+    },
+    {
+      "id": "contin-050",
+      "q": "Which is the most populous city in South America?",
+      "options": [
+        "Buenos Aires",
+        "Lima",
+        "São Paulo",
+        "Rio de Janeiro"
+      ],
+      "correct": 2,
+      "explanation": "São Paulo, Brazil, with about 20 million people, is South America&#x27;s most populous city.",
+      "tags": []
+    },
+    {
+      "id": "contin-051",
+      "q": "Which is the most populous city in North America?",
+      "options": [
+        "New York",
+        "Los Angeles",
+        "Mexico City",
+        "Toronto"
+      ],
+      "correct": 2,
+      "explanation": "Mexico City with about 21.8 million people is North America&#x27;s most populous city.",
+      "tags": []
+    },
+    {
+      "id": "contin-052",
+      "q": "Which is the most populous city in Oceania?",
+      "options": [
+        "Melbourne",
+        "Sydney",
+        "Auckland",
+        "Brisbane"
+      ],
+      "correct": 1,
+      "explanation": "Sydney, Australia, with about 4.6 million people, is the most populous city in Oceania.",
+      "tags": []
+    },
+    {
+      "id": "contin-053",
+      "q": "Which continent has the lowest population density (excl. Antarctica)?",
+      "options": [
+        "Africa",
+        "Europe",
+        "South America",
+        "Oceania"
+      ],
+      "correct": 3,
+      "explanation": "Oceania, with about 5 inhabitants per km², has the lowest population density of any populated continent. Antarctica is even lower at 0.0003.",
+      "tags": []
+    },
+    {
+      "id": "contin-054",
+      "q": "Africa&#x27;s share of world population is approximately:",
+      "options": [
+        "8.5%",
+        "18.83%",
+        "27.5%",
+        "35.0%"
+      ],
+      "correct": 1,
+      "explanation": "Africa is the second most populous continent with about 18.83% of world population (~1.55 billion).",
+      "tags": []
+    },
+    {
+      "id": "contin-055",
+      "q": "Europe&#x27;s share of world population is approximately:",
+      "options": [
+        "4.71%",
+        "9.14%",
+        "12.5%",
+        "18.83%"
+      ],
+      "correct": 1,
+      "explanation": "Europe makes up about 9.14% of world population (~744 million).",
+      "tags": []
+    },
+    {
+      "id": "contin-056",
+      "q": "North America&#x27;s share of world population is approximately:",
+      "options": [
+        "4.71%",
+        "8.11%",
+        "9.14%",
+        "18.83%"
+      ],
+      "correct": 0,
+      "explanation": "North America (primarily USA and Canada) makes up about 4.71% of world population (~388 million).",
+      "tags": []
+    },
+    {
+      "id": "contin-057",
+      "q": "Oceania&#x27;s share of world population is approximately:",
+      "options": [
+        "0.57%",
+        "2.5%",
+        "4.71%",
+        "9.14%"
+      ],
+      "correct": 0,
+      "explanation": "Oceania is the least populous region with about 0.57% of world population (~46.6 million).",
+      "tags": []
+    },
+    {
+      "id": "contin-058",
+      "q": "Which is the most populous country in North America?",
+      "options": [
+        "Mexico",
+        "Canada",
+        "USA",
+        "Cuba"
+      ],
+      "correct": 2,
+      "explanation": "The USA, with about 348 million people, is by far the most populous country in North America.",
+      "tags": []
+    },
+    {
+      "id": "contin-059",
+      "q": "Which is the most populous country in South America?",
+      "options": [
+        "Argentina",
+        "Brazil",
+        "Colombia",
+        "Peru"
+      ],
+      "correct": 1,
+      "explanation": "Brazil, with about 213 million people, is the most populous country in South America.",
+      "tags": []
+    },
+    {
+      "id": "contin-060",
+      "q": "Which is the most populous country in Oceania?",
+      "options": [
+        "Papua New Guinea",
+        "Australia",
+        "New Zealand",
+        "Fiji"
+      ],
+      "correct": 1,
+      "explanation": "Australia, with about 27 million people, is the most populous country in Oceania.",
+      "tags": []
+    },
+    {
+      "id": "contin-061",
+      "q": "Which is the most populous country in Asia (as of 2026)?",
+      "options": [
+        "China",
+        "India",
+        "Indonesia",
+        "Pakistan"
+      ],
+      "correct": 0,
+      "explanation": "China remains the most populous country in Asia (~1.47 bn) — though India has overtaken it for the global #1 spot since 2023.",
+      "tags": []
+    },
+    {
+      "id": "contin-062",
+      "q": "Which continent has NO permanent human population (only research stations)?",
+      "options": [
+        "Antarctica",
+        "Australia",
+        "Greenland",
+        "Siberia"
+      ],
+      "correct": 0,
+      "explanation": "Antarctica has no permanent population — only 3,000-5,000 temporary scientists and staff at research stations like McMurdo (~955 people).",
+      "tags": []
+    },
+    {
+      "id": "contin-063",
+      "q": "Which two continents are located entirely in the Southern Hemisphere?",
+      "options": [
+        "Africa & Australia",
+        "Antarctica & Australia",
+        "South America & Antarctica",
+        "Africa & Antarctica"
+      ],
+      "correct": 1,
+      "explanation": "Antarctica and Australia are the only two continents located entirely in the Southern Hemisphere.",
+      "tags": []
+    },
+    {
+      "id": "contin-064",
+      "q": "Which continent is crossed by both the Equator and the Prime Meridian?",
+      "options": [
+        "Asia",
+        "Africa",
+        "South America",
+        "Antarctica"
+      ],
+      "correct": 1,
+      "explanation": "Africa is the only continent crossed by both the Equator (0° latitude) and the Prime Meridian (0° longitude).",
+      "tags": []
+    },
+    {
+      "id": "contin-065",
+      "q": "Which continent is known as the &#x27;Frozen Continent&#x27;?",
+      "options": [
+        "Greenland",
+        "Antarctica",
+        "Siberia",
+        "Iceland"
+      ],
+      "correct": 1,
+      "explanation": "Antarctica is known as the &#x27;Frozen Continent&#x27; — about 98% of its surface is covered by ice up to 4 km thick.",
+      "tags": []
+    },
+    {
+      "id": "contin-066",
+      "q": "Which continent is sometimes called the &#x27;Dark Continent&#x27; due to its long unexplored interior?",
+      "options": [
+        "Asia",
+        "Antarctica",
+        "Africa",
+        "South America"
+      ],
+      "correct": 2,
+      "explanation": "Africa was historically called the &#x27;Dark Continent&#x27; because its interior remained largely unexplored by Europeans until the 19th century.",
+      "tags": []
+    },
+    {
+      "id": "contin-067",
+      "q": "Asia and Europe together form which super-landmass?",
+      "options": [
+        "Pangaea",
+        "Eurasia",
+        "Laurasia",
+        "Gondwana"
+      ],
+      "correct": 1,
+      "explanation": "Asia and Europe together form Eurasia — the largest contiguous landmass on Earth.",
+      "tags": []
+    },
+    {
+      "id": "contin-068",
+      "q": "Africa and Eurasia together form which landmass?",
+      "options": [
+        "Eurasia",
+        "Afro-Eurasia",
+        "Pangaea",
+        "Gondwana"
+      ],
+      "correct": 1,
+      "explanation": "Africa + Eurasia = Afro-Eurasia — the largest land area on Earth (combined Old World).",
+      "tags": []
+    },
+    {
+      "id": "contin-069",
+      "q": "Which natural landmark/canal separates the Mediterranean Sea from the Red Sea?",
+      "options": [
+        "Panama Canal",
+        "Suez Canal",
+        "Strait of Gibraltar",
+        "Bosphorus Strait"
+      ],
+      "correct": 1,
+      "explanation": "The Suez Canal in Egypt connects the Mediterranean Sea to the Red Sea, effectively separating Africa from Asia.",
+      "tags": []
+    },
+    {
+      "id": "contin-070",
+      "q": "North America and South America are connected by which country?",
+      "options": [
+        "Mexico",
+        "Panama",
+        "Colombia",
+        "Costa Rica"
+      ],
+      "correct": 1,
+      "explanation": "Panama, via the Isthmus of Panama, connects North and South America. The Panama Canal cuts through it.",
+      "tags": []
+    },
+    {
+      "id": "contin-071",
+      "q": "The Ural Mountains and Caucasus form the conventional boundary between which two continents?",
+      "options": [
+        "Europe and Africa",
+        "Asia and Africa",
+        "Europe and Asia",
+        "North and South America"
+      ],
+      "correct": 2,
+      "explanation": "The Ural Mountains (Russia) and the Caucasus traditionally mark the boundary between Europe and Asia.",
+      "tags": []
+    },
+    {
+      "id": "contin-072",
+      "q": "Which continent is sometimes referred to as the &#x27;New World&#x27;?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Americas (N + S)",
+        "Australia"
+      ],
+      "correct": 2,
+      "explanation": "North and South America are collectively referred to as the &#x27;New World&#x27; — a term coined after European contact in the 15th century.",
+      "tags": []
+    },
+    {
+      "id": "contin-073",
+      "q": "Which continent does the Sahara Desert occupy?",
+      "options": [
+        "Asia",
+        "Africa",
+        "South America",
+        "Australia"
+      ],
+      "correct": 1,
+      "explanation": "The Sahara — the world&#x27;s largest hot desert — covers most of North Africa.",
+      "tags": []
+    },
+    {
+      "id": "contin-074",
+      "q": "Which continent contains the world&#x27;s largest tropical rainforest (Amazon)?",
+      "options": [
+        "Africa",
+        "South America",
+        "Asia",
+        "Oceania"
+      ],
+      "correct": 1,
+      "explanation": "The Amazon Rainforest — the world&#x27;s largest tropical rainforest — covers most of northern South America (chiefly Brazil).",
+      "tags": []
+    },
+    {
+      "id": "contin-075",
+      "q": "Which continent contains the Gobi Desert?",
+      "options": [
+        "Africa",
+        "Asia",
+        "Australia",
+        "South America"
+      ],
+      "correct": 1,
+      "explanation": "The Gobi Desert is in Asia, spanning northern China and southern Mongolia.",
+      "tags": []
+    },
+    {
+      "id": "contin-076",
+      "q": "Which continent does the Nile River flow through?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "South America"
+      ],
+      "correct": 1,
+      "explanation": "The Nile flows northward through 11 African countries before reaching the Mediterranean Sea — traditionally considered the world&#x27;s longest river.",
+      "tags": []
+    },
+    {
+      "id": "contin-077",
+      "q": "The Caspian Sea (lowest point in Europe) borders how many countries?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "7"
+      ],
+      "correct": 2,
+      "explanation": "The Caspian Sea is bordered by 5 countries — Russia, Kazakhstan, Turkmenistan, Iran and Azerbaijan.",
+      "tags": []
+    },
+    {
+      "id": "contin-078",
+      "q": "Which is the highest active volcano in Antarctica?",
+      "options": [
+        "Vinson Massif",
+        "Mount Erebus",
+        "Mount Sidley",
+        "Mount Kirkpatrick"
+      ],
+      "correct": 1,
+      "explanation": "Mount Erebus (3,794 m) on Ross Island is Antarctica&#x27;s highest active volcano — one of the few in the world with a permanent lava lake.",
+      "tags": []
+    },
+    {
+      "id": "contin-079",
+      "q": "Which continent has the most countries?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "North America"
+      ],
+      "correct": 1,
+      "explanation": "Africa has 54 sovereign countries — the most of any continent. Asia has 49; Europe ~44.",
+      "tags": []
+    },
+    {
+      "id": "contin-080",
+      "q": "McMurdo Station — the largest research base in Antarctica — has a population of approximately:",
+      "options": [
+        "~150",
+        "~500",
+        "~955",
+        "~2,500"
+      ],
+      "correct": 2,
+      "explanation": "McMurdo Station, operated by the United States, hosts about 955 people during summer — the largest research community in Antarctica.",
+      "tags": []
+    }
+  ]
+}

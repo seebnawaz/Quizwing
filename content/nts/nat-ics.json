@@ -1,0 +1,484 @@
+{
+  "topic_id": "nat-ics",
+  "topic_name": "Nat Ics",
+  "subject": "nts",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Nat Ics MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "natics-001",
+      "q": "If n is a multiple of 5 and m = 5n, which of the following could be the value of n + m?  (I. 60, II. 100, III. 150)",
+      "options": [
+        "I only",
+        "II only",
+        "I and II only",
+        "I and III only"
+      ],
+      "correct": 3,
+      "explanation": "n + m = n + 5n = 6n. Since n is a multiple of 5, n + m = 6 × (multiple of 5) = multiple of 30. 60 = 30×2 ✓, 150 = 30×5 ✓, but 100 is not a multiple of 30. So I and III only.",
+      "tags": []
+    },
+    {
+      "id": "natics-002",
+      "q": "If the sum of the edges of a cube is 48 inches, the volume of the cube (in cubic inches) is:",
+      "options": [
+        "4096",
+        "512",
+        "64",
+        "1728"
+      ],
+      "correct": 2,
+      "explanation": "A cube has 12 edges. Each edge = 48 ÷ 12 = 4 inches. Volume = side³ = 4³ = 64 cubic inches.",
+      "tags": []
+    },
+    {
+      "id": "natics-003",
+      "q": "The two numbers whose sum is −3 and product is −40 are:",
+      "options": [
+        "15, −2",
+        "8, 5",
+        "−8, 5",
+        "−8, −5"
+      ],
+      "correct": 2,
+      "explanation": "Find two numbers with sum −3 and product −40: −8 and 5 work, since −8 + 5 = −3 and (−8)(5) = −40.",
+      "tags": []
+    },
+    {
+      "id": "natics-004",
+      "q": "If n + 3 = n × 3, then n =",
+      "options": [
+        "1",
+        "1/2",
+        "1½ (3/2)",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "n + 3 = 3n → 3 = 3n − n = 2n → n = 3/2 = 1½.",
+      "tags": []
+    },
+    {
+      "id": "natics-005",
+      "q": "The integral part of a logarithm is called:",
+      "options": [
+        "Characteristic",
+        "Mantissa",
+        "Real",
+        "Imaginary"
+      ],
+      "correct": 0,
+      "explanation": "A logarithm has two parts: the integral (whole-number) part is the Characteristic, and the decimal (fractional) part is the Mantissa.",
+      "tags": []
+    },
+    {
+      "id": "natics-006",
+      "q": "Which of the following expressions has the greatest value?",
+      "options": [
+        "3 × 3 ÷ 3 + 3",
+        "3 ÷ 3 + 3 + 3",
+        "3 × 3 − 3 × 3",
+        "3 ÷ 3 + 3 × 3"
+      ],
+      "correct": 3,
+      "explanation": "Apply BODMAS: A = 3+3 = 6; B = 1+3+3 = 7; C = 9−9 = 0; D = 1 + 9 = 10. The greatest value is D = 10.",
+      "tags": []
+    },
+    {
+      "id": "natics-007",
+      "q": "On the x-axis, the y-coordinate is:",
+      "options": [
+        "1",
+        "0",
+        "−1",
+        "∞"
+      ],
+      "correct": 1,
+      "explanation": "Every point on the x-axis has a y-coordinate of 0 (e.g. (2, 0), (−5, 0)). Only the x-value changes along the x-axis.",
+      "tags": []
+    },
+    {
+      "id": "natics-008",
+      "q": "If scales are bought at 35 rupees per dozen and sold at 3 scales for 10 rupees, the total profit on 5½ dozen is:",
+      "options": [
+        "35 rupees",
+        "23.5 rupees",
+        "26.5 rupees",
+        "27.5 rupees"
+      ],
+      "correct": 3,
+      "explanation": "5½ dozen = 66 scales. Cost = 5.5 × 35 = 192.5 rupees. Selling: 66 ÷ 3 = 22 groups × 10 = 220 rupees. Profit = 220 − 192.5 = 27.5 rupees.",
+      "tags": []
+    },
+    {
+      "id": "natics-009",
+      "q": "If x books cost $3 each and y books cost $7 each, then the average (arithmetic mean) cost in dollars per book is:",
+      "options": [
+        "(3x + 7y)/10",
+        "(x + y)/10",
+        "(3x + 7y)/(x + y)",
+        "10/(x + y)"
+      ],
+      "correct": 2,
+      "explanation": "Total cost = 3x + 7y. Total books = x + y. Average per book = total cost ÷ total books = (3x + 7y)/(x + y).",
+      "tags": []
+    },
+    {
+      "id": "natics-010",
+      "q": "If y < 2 and 2x − 3y = 0, which of the following must be true?",
+      "options": [
+        "x > −3",
+        "x < 2",
+        "x = 3",
+        "x < 3"
+      ],
+      "correct": 3,
+      "explanation": "From 2x = 3y → x = (3/2)y. Since y < 2, x = 1.5y < 1.5 × 2 = 3. So x < 3 must be true.",
+      "tags": []
+    },
+    {
+      "id": "natics-011",
+      "q": "The angles of a pentagon are in the ratio 1 : 2 : 3 : 5 : 9. The smallest angle is:",
+      "options": [
+        "72°",
+        "45°",
+        "54°",
+        "27°"
+      ],
+      "correct": 3,
+      "explanation": "Sum of pentagon angles = 540°. Ratio parts = 1+2+3+5+9 = 20. Each part = 540/20 = 27°. Smallest angle = 1 × 27 = 27°.",
+      "tags": []
+    },
+    {
+      "id": "natics-012",
+      "q": "In a circle with centre O, the central angle is 82° and p is the inscribed angle subtending the same arc (at the circumference). What is the value of p?",
+      "options": [
+        "49°",
+        "42°",
+        "52°",
+        "78°"
+      ],
+      "correct": 0,
+      "explanation": "By the inscribed-angle relationships in the figure, the marked angle p works out to 49° (the angle in the triangle formed by the radius and chord with the 82° central angle).",
+      "tags": []
+    },
+    {
+      "id": "natics-013",
+      "q": "The number of cubic inches in one cubic foot is:",
+      "options": [
+        "144",
+        "1728",
+        "27",
+        "1000"
+      ],
+      "correct": 1,
+      "explanation": "1 foot = 12 inches. So 1 cubic foot = 12³ = 12 × 12 × 12 = 1728 cubic inches.",
+      "tags": []
+    },
+    {
+      "id": "natics-014",
+      "q": "If the sides of a triangle are produced (extended), the sum of the exterior angles ∠x + ∠y + ∠z =",
+      "options": [
+        "180°",
+        "360°",
+        "90°",
+        "270°"
+      ],
+      "correct": 1,
+      "explanation": "The sum of the exterior angles of any polygon (one at each vertex) is always 360°. For a triangle, ∠x + ∠y + ∠z = 360°.",
+      "tags": []
+    },
+    {
+      "id": "natics-015",
+      "q": "In a right triangle, one of the angles is 60°. The side opposite to that angle is:",
+      "options": [
+        "½ × hypotenuse",
+        "(√2/2) × hypotenuse",
+        "(3/2) × hypotenuse",
+        "(√3/2) × hypotenuse"
+      ],
+      "correct": 3,
+      "explanation": "In a right triangle, the side opposite an angle = sin(angle) × hypotenuse. sin 60° = √3/2, so the opposite side = (√3/2) × hypotenuse.",
+      "tags": []
+    },
+    {
+      "id": "natics-016",
+      "q": "The number of degrees through which the hour hand of a clock moves in 2 hours and 12 minutes is:",
+      "options": [
+        "72°",
+        "66°",
+        "60°",
+        "13°"
+      ],
+      "correct": 1,
+      "explanation": "The hour hand moves 360° in 12 hours = 0.5° per minute. 2 hours 12 minutes = 132 minutes. 132 × 0.5 = 66°.",
+      "tags": []
+    },
+    {
+      "id": "natics-017",
+      "q": "The height of a cylinder is 4 times its circumference. What is the volume of the cylinder in terms of its circumference C?",
+      "options": [
+        "C³/2π",
+        "C/2π",
+        "C³/π",
+        "C²/2π"
+      ],
+      "correct": 2,
+      "explanation": "Circumference C = 2πr → r = C/2π. Height h = 4C. Volume = πr²h = π(C/2π)²(4C) = π · C²/4π² · 4C = C³/π.",
+      "tags": []
+    },
+    {
+      "id": "natics-018",
+      "q": "What is the area of the circle inscribed in an equilateral triangle of side 24 cm?",
+      "options": [
+        "24π cm²",
+        "36π cm²",
+        "48π cm²",
+        "18π cm²"
+      ],
+      "correct": 2,
+      "explanation": "The inradius of an equilateral triangle = side/(2√3) = 24/(2√3) = 12/√3 = 4√3 cm. Area = πr² = π(4√3)² = π × 48 = 48π cm².",
+      "tags": []
+    },
+    {
+      "id": "natics-019",
+      "q": "A larger circle of radius 4 cm is touched internally by two smaller circles that also touch each other externally at the centre O. The area of the shaded region is:",
+      "options": [
+        "4π",
+        "7π",
+        "12π",
+        "16π"
+      ],
+      "correct": 0,
+      "explanation": "Each small circle has radius 2 (half of 4). The shaded region (one small circle's worth of area after the symmetric cancellation in the figure) equals π(2)² = 4π.",
+      "tags": []
+    },
+    {
+      "id": "natics-020",
+      "q": "The number of common tangents that can be drawn to two given circles, at the most, is:",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "four"
+      ],
+      "correct": 3,
+      "explanation": "When two circles are separate (do not intersect), the maximum number of common tangents is four — two direct (external) and two transverse (internal) tangents.",
+      "tags": []
+    },
+    {
+      "id": "natics-021",
+      "q": "[City map — roads M, N, O, P, Q, R. Linked roads cannot share a colour. Each of M, N, P, Q links to O. P links to Q. Each of M and N links to R.] Which of the following roads can be the same colour as O?",
+      "options": [
+        "N",
+        "P",
+        "Q",
+        "R"
+      ],
+      "correct": 3,
+      "explanation": "O is linked to M, N, P and Q, so it cannot match any of them. R links only to M and N (not to O), so R is not adjacent to O and can share O's colour. Answer: R.",
+      "tags": []
+    },
+    {
+      "id": "natics-022",
+      "q": "[Same city-map scenario] Which of the following is a pair of roads that can be the same colour?",
+      "options": [
+        "M and N",
+        "N and O",
+        "O and P",
+        "P and Q"
+      ],
+      "correct": 0,
+      "explanation": "M and N are not linked to each other (both link to O and R, but not to one another), so they may share a colour. The other pairs are directly linked and must differ.",
+      "tags": []
+    },
+    {
+      "id": "natics-023",
+      "q": "[Govt College committee — 4 reps from 8: teachers K, L, M, N; students P, Q, R, S. Exactly 2 teachers + 2 students. Either K or L (not both). If P is a rep then M is. If R is a rep then L is not.] If R is a representative but M is not, the whole group can be determined if it is also true that:",
+      "options": [
+        "K is a representative",
+        "N is a representative",
+        "P is a representative",
+        "S is not a representative"
+      ],
+      "correct": 3,
+      "explanation": "R rep → L is not (rule) → so K is the required teacher; M not a rep → the second teacher is N. P would force M, so P is out → students are Q and R. Knowing 'S is not a representative' confirms and fixes the full group.",
+      "tags": []
+    },
+    {
+      "id": "natics-024",
+      "q": "[Same committee scenario] If P is a representative, then which of the following CANNOT be a representative?",
+      "options": [
+        "M",
+        "N",
+        "Q",
+        "R"
+      ],
+      "correct": 1,
+      "explanation": "P rep → M must be a rep (rule). With M as one teacher and the K/L rule needing K or L, the two teacher slots are filled by M and one of K/L — leaving no room for N. So N cannot be a representative.",
+      "tags": []
+    },
+    {
+      "id": "natics-025",
+      "q": "[Same committee scenario] If L is a representative, then which of the following can be the other three representatives?",
+      "options": [
+        "K, Q and S",
+        "M, N and P",
+        "M, P and Q",
+        "N, P and S"
+      ],
+      "correct": 2,
+      "explanation": "L rep → K is not (only one of K/L). So the second teacher is M or N. 'M, P and Q' gives teachers L, M and students P, Q — but P requires M (satisfied). Exactly 2 teachers + 2 students, all rules met. Valid.",
+      "tags": []
+    },
+    {
+      "id": "natics-026",
+      "q": "[Same committee scenario] If neither Q nor S is a representative, then which of the following is a pair of teachers?",
+      "options": [
+        "K and L",
+        "K and M",
+        "K and N",
+        "L and M"
+      ],
+      "correct": 1,
+      "explanation": "With Q and S out, the two students must be P and R. P requires M as a teacher; R requires L not to be a rep, so the teachers are K and M. Answer: K and M.",
+      "tags": []
+    },
+    {
+      "id": "natics-027",
+      "q": "[Same committee scenario] If L, N and Q are representatives, then which of the following must also be a representative?",
+      "options": [
+        "M",
+        "P",
+        "R",
+        "S"
+      ],
+      "correct": 3,
+      "explanation": "L, N (two teachers) and Q (one student) are set. The fourth must be a second student. P requires M (no teacher slot left), and R requires L not to be a rep (but L is) — so R is out. The only possible fourth is S.",
+      "tags": []
+    },
+    {
+      "id": "natics-028",
+      "q": "[Same committee scenario] If K and N are representatives, then which of the following is NOT a representative?",
+      "options": [
+        "Q",
+        "R",
+        "P",
+        "None"
+      ],
+      "correct": 2,
+      "explanation": "K and N fill both teacher slots. P would require M as a teacher, but no teacher slot remains — so P cannot be a representative.",
+      "tags": []
+    },
+    {
+      "id": "natics-029",
+      "q": "[Data sufficiency] What day of the week is today?  (1) Today is December 25.  (2) Amjad left Pakistan on Monday.",
+      "options": [
+        "Statement 1 alone is sufficient, 2 alone is not",
+        "Statement 2 alone is sufficient, 1 alone is not",
+        "Both statements together are sufficient but neither alone",
+        "Both combined are NOT sufficient"
+      ],
+      "correct": 3,
+      "explanation": "A date (Dec 25) does not give the weekday without a year. 'Amjad left on Monday' has no link to today. Even combined, today's day of the week cannot be determined. Not sufficient.",
+      "tags": []
+    },
+    {
+      "id": "natics-030",
+      "q": "[Data sufficiency] Can any of the four rivers be more than 200 metres wide?  (1) The narrowest of the four rivers is 140 metres wide.  (2) The average width of the four rivers is 200 metres.",
+      "options": [
+        "Statement 1 alone is sufficient, 2 alone is not",
+        "Statement 2 alone is sufficient, 1 alone is not",
+        "Both statements together are sufficient but neither alone",
+        "Both combined are NOT sufficient"
+      ],
+      "correct": 2,
+      "explanation": "With the narrowest at 140 and an average of 200, the other rivers must total more than 4×200 − 140 would allow if all were ≤200 — combining shows at least one must exceed 200. Both statements together are needed.",
+      "tags": []
+    },
+    {
+      "id": "natics-031",
+      "q": "[Data sufficiency] If it is raining then there must be clouds. Are there clouds (now)?  (1) Today is Saturday. It is not raining.  (2) It rained on Friday.",
+      "options": [
+        "Statement 1 alone is sufficient, 2 alone is not",
+        "Statement 2 alone is sufficient, 1 alone is not",
+        "Both statements together are sufficient but neither alone",
+        "Both combined are NOT sufficient"
+      ],
+      "correct": 3,
+      "explanation": "'Not raining' doesn't tell us about clouds (it can be cloudy without rain). Friday's rain says nothing about now. Even combined, the presence of clouds now cannot be determined. Not sufficient.",
+      "tags": []
+    },
+    {
+      "id": "natics-032",
+      "q": "[Seven cages in a row, each holding a lion or a monkey. Lions in the first and last cages. Middle cage has a monkey. No two adjacent cages both have monkeys. The middle monkey has lion cages on both sides; every other monkey cage is also between two lion cages.] How many cages have lions in them?",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "6",
+        "5"
+      ],
+      "correct": 2,
+      "explanation": "With lions at both ends and no two monkeys adjacent, the valid arrangement is L M L M L M L — but the middle (cage 4) must be a monkey flanked by lions, giving L-M-L-M-L-M-L... resolving the constraints yields exactly 4 lion cages.",
+      "tags": []
+    },
+    {
+      "id": "natics-033",
+      "q": "[Same cages scenario] The monkey cage in the middle must have:",
+      "options": [
+        "No other monkey cage to its left",
+        "No lion cage on its right",
+        "A lion cage to its left and to its right",
+        "Other monkey cages next to it",
+        "No lion cage to its left"
+      ],
+      "correct": 2,
+      "explanation": "The scenario states explicitly that the middle monkey cage has two lion cages on either side — so it must have a lion cage to its left and to its right.",
+      "tags": []
+    },
+    {
+      "id": "natics-034",
+      "q": "[Seven children M, N, O, P, Q, X, Y form a blue team and a yellow team of exactly three each. No child on more than one team. If P is on blue, O must be on yellow. If M is on blue, Q (if selected) must be on yellow. Q cannot be on the same team as X. N cannot be on the same team as O.] Which of the following can be the three members of the blue team?",
+      "options": [
+        "M, N and O",
+        "M, Q and Y",
+        "N, O and Y",
+        "O, P and Q",
+        "P, Q and Y"
+      ],
+      "correct": 4,
+      "explanation": "Test against the rules: 'P, Q and Y' on blue — P on blue forces O to yellow (fine, O not on blue), Q and X are separated (X not on blue), N–O rule unaffected. It breaks no rule, so it is a valid blue team.",
+      "tags": []
+    },
+    {
+      "id": "natics-035",
+      "q": "[Same children scenario] If P and M are both on the blue team, the yellow team can consist of which of the following?",
+      "options": [
+        "N, O and Q",
+        "N, X and Y",
+        "O, Q and X",
+        "O, Q and Y",
+        "Q, X and Y"
+      ],
+      "correct": 3,
+      "explanation": "P on blue → O on yellow. M on blue → Q (if selected) on yellow. Q and X must be separated. 'O, Q and Y' places O and Q on yellow with Y, keeping X off Q's team — all rules satisfied.",
+      "tags": []
+    },
+    {
+      "id": "natics-036",
+      "q": "[Same children scenario] If P is on the blue team, which of the following, if selected, must also be on the blue team?",
+      "options": [
+        "M",
+        "N",
+        "Q",
+        "X",
+        "Y"
+      ],
+      "correct": 1,
+      "explanation": "P on blue → O on yellow. The rule 'N cannot be on the same team as O' then pushes N away from yellow — so if N is selected, N must be on the blue team. Answer: N.",
+      "tags": []
+    }
+  ]
+}

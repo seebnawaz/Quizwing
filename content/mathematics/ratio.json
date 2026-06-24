@@ -1,0 +1,2949 @@
+{
+  "topic_id": "ratio",
+  "topic_name": "Ratio",
+  "subject": "mathematics",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Ratio MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "ratio-001",
+      "q": "If a:b:c=3:4:7 then ratio (a+b+c):c is equal to?",
+      "options": [
+        "2:2",
+        "4:1",
+        "2:1",
+        "3:1"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-002",
+      "q": "Solve:6-4+4*8/4?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "5"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-003",
+      "q": "The sum of ratio 1:x:5 is 11 find the value of x?",
+      "options": [
+        "4",
+        "5",
+        "7",
+        "6"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-004",
+      "q": "Solve: 2/3 + 3/4?",
+      "options": [
+        "17/12",
+        "17/13",
+        "18/12",
+        "16/12"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-005",
+      "q": "Atruck covers 640 km in 10 hours and a car covers the same distance in 8 hours. Find the ratio of the speed of truck to car?",
+      "options": [
+        "5:5",
+        "4:5",
+        "8:5",
+        "4:6"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-006",
+      "q": "Find unknown value of given equations? 12:68 :: 30:x?",
+      "options": [
+        "170",
+        "220",
+        "160",
+        "180"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-007",
+      "q": "Find- the value positive of (x) from equation: 4x2-6x-4=0?",
+      "options": [
+        "2",
+        "4",
+        "1",
+        "3"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-008",
+      "q": "1hour: 30 minutes : 45 seconds?",
+      "options": [
+        "80:40:3",
+        "80:40:1",
+        "80:40:2",
+        "80:40:6"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-009",
+      "q": "The ratio of three numbers is 1:2 :3 and their product is 750. What is the largest number?",
+      "options": [
+        "10",
+        "20",
+        "15",
+        "25"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-010",
+      "q": "Formula: 17 + 2? + 37+... +n??",
+      "options": [
+        "n(n+1)(2n+1)/8",
+        "n(n+1)(2n+1)/11",
+        "n(n+1)(2n+1)/6",
+        "n(n+1)(2n+1)/7"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-011",
+      "q": "Evaluate: 13.133+16.007-9.1320?",
+      "options": [
+        "25",
+        "15",
+        "20",
+        "30"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-012",
+      "q": "Solve: 16x5-2+(84-3)+37?",
+      "options": [
+        "87",
+        "92",
+        "82",
+        "97"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-013",
+      "q": "Find the missing term: 6:x::60:120, find x?",
+      "options": [
+        "7",
+        "17",
+        "12",
+        "22"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-014",
+      "q": "The ratio of three numbers is 1: 2:3 and their product is 750. What is the largest number?",
+      "options": [
+        "20",
+        "15",
+        "10",
+        "25"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-015",
+      "q": "Evaluate: 13.133 + 16.007 - 9.1320?",
+      "options": [
+        "15.008",
+        "20.008",
+        "25.008",
+        "30.008"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-016",
+      "q": "Formula: 17 + 2? + 37+... + n??",
+      "options": [
+        "n(n+1)(2n+1)/7",
+        "n(n+1)(2n+1)/6",
+        "n(n+1)(2n+1)/8",
+        "n(n+1)(2n+1)/11"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-017",
+      "q": "What is the simplified ratio of 2 km to 400 meters?",
+      "options": [
+        "5:2",
+        "5:1",
+        "6:1",
+        "10:1"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-018",
+      "q": "What is the result of the following expression: 5 + 51 + (-3) + 7 + (-5.1)?",
+      "options": [
+        "Cannot be determined",
+        "None of these",
+        "-",
+        "Insufficient data"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-019",
+      "q": "Simplify the expression: 27+|2|+|-2|- 22?",
+      "options": [
+        "-14",
+        "-4",
+        "-9",
+        "-19"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-020",
+      "q": "Acoach was scheduled to depart at 22:55 and arrive at 06:05 the next day. What was the duration of the journey?",
+      "options": [
+        "7 hours 10 minutes",
+        "7 hours 12 minutes",
+        "7 hours 15 minutes",
+        "7 hours 11 minutes"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-021",
+      "q": "IfA:B=2:3andB:C=4:7, andthe total amount is 410,000, what is B’s share?",
+      "options": [
+        "120,000",
+        "240000",
+        "120100",
+        "119900"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-022",
+      "q": "If first second and third proportions are 8, 18 and 64, find 4th Proportion?",
+      "options": [
+        "134",
+        "144",
+        "194",
+        "154"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-023",
+      "q": "If X:Y = 11:8 and Y:Z = 6:7 Find the value of X:Z?",
+      "options": [
+        "34:28",
+        "66:28",
+        "33:29",
+        "33:28"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-024",
+      "q": "Inaregular polygon, the ratio of the measure of an exterior angle to the measure of an interior angle is 2:13. How many sides does the polygon have?",
+      "options": [
+        "20",
+        "15",
+        "25",
+        "10"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-025",
+      "q": "The measures of the angles of a triangle are in the ratio 5:4:3. Find the smallest angle of triangle?",
+      "options": [
+        "47°",
+        "45°",
+        "46°",
+        "50°"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-026",
+      "q": "|fan orange costs Rs.20 and an apple costs Rs.16. What is the ratio of the cost of an orange to the cost of an apple?",
+      "options": [
+        "5:5",
+        "5:4",
+        "6:4",
+        "10:4"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-027",
+      "q": "The ratio of 8 inch to 7 feet will be?",
+      "options": [
+        "3:21",
+        "2:22",
+        "4:21",
+        "2:21"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-028",
+      "q": "Ifx: y=2:1, then (5x? - 13xy + 6y?) is equal to?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "-1"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-029",
+      "q": "What is the ratio of 12 minute to 1 hour?",
+      "options": [
+        "1:5",
+        "2:5",
+        "Cannot be determined",
+        "1:6"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-030",
+      "q": "Find the odd one out: 140, 340, 540, 730, 940, 1140?",
+      "options": [
+        "720",
+        "740",
+        "730",
+        "780"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-031",
+      "q": "Ifm:n=3:2, then (4m + 5n): (4m - 5n) is equal to?",
+      "options": [
+        "11:2",
+        "11:1",
+        "22:1",
+        "12:1"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-032",
+      "q": "The average age of three boys is 15 years and their ages are in proportion 3:5:7. What is the age in years of the youngest boy?",
+      "options": [
+        "11 years",
+        "9 years",
+        "14 years",
+        "10 years"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-033",
+      "q": "What is the fifth term of the geometric sequence whose first term is 3 and whose common ratio is 2?",
+      "options": [
+        "53",
+        "43",
+        "48",
+        "58"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-034",
+      "q": "The number of boys and girls ina school at 360 and 240 respectively. What is the ratio of number of boys to total students?",
+      "options": [
+        "3:6",
+        "6:5",
+        "4:5",
+        "3:5"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-035",
+      "q": "Evaluate: 57/10000?",
+      "options": [
+        "0.0057",
+        "-0.9943",
+        "1.0057",
+        "2.0057"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-036",
+      "q": "Evaluate: 87=16, then zis?",
+      "options": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-037",
+      "q": "IfP:Q=8:15 and Q: R =3: 2, then find P: Q: R?",
+      "options": [
+        "8:15:11",
+        "8:15:15",
+        "8:15:12",
+        "8:15:10"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-038",
+      "q": "Aliis younger than Zia by 10 years. If 5 years back their ages were in the ratio 1:2, how old is Zia?",
+      "options": [
+        "27 years",
+        "25 years",
+        "26 years",
+        "30 years"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-039",
+      "q": "The ratio of ages of two students is 3:2. One is older to the other by 5 years. What is the age of younger student?",
+      "options": [
+        "10",
+        "20",
+        "5",
+        "15"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-040",
+      "q": "A photograph measuring 5 cm by 7 cm is enlarged in the ratio of 7:5. What is the new length and width of the picture?",
+      "options": [
+        "9.8cm ,9cm",
+        "9.8cm ,8cm",
+        "9.8cm ,12cm",
+        "9.8cm ,7cm"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-041",
+      "q": "120girls, 50 boys, find the ratio of boys to girls?",
+      "options": [
+        "10:12",
+        "5:13",
+        "5:12",
+        "6:12"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-042",
+      "q": "Time and work: 12 men can do a piece of work in 10 days. How many men would be required to do the same work in 8 days?",
+      "options": [
+        "25",
+        "20",
+        "10",
+        "15"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-043",
+      "q": "Which number increase 224 in the ratio 7:9?",
+      "options": [
+        "338",
+        "278",
+        "298",
+        "288"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-044",
+      "q": "If a:b=2:3 and b:c=4:3, then find a:b:c:?",
+      "options": [
+        "8:12:10",
+        "8:12:14",
+        "8:12:11",
+        "8:12:9"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-045",
+      "q": "There are two numbers and their ratio is 3:9. If we subtract 9 from both numbers then their ratio becomes WHATSAPP FOR IN CLASSES VITH SIR TAUQEER 12:13, what is value of smaller number?",
+      "options": [
+        "-26/23",
+        "-27/23",
+        "-27/24",
+        "-28/23"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-046",
+      "q": "Akbar wants to distribute some amount among his four partners (A, B, C, D) respectively in proportion 1:2:3:4, can you guess the share of B if total amount is Rs. 80,000?",
+      "options": [
+        "Rs. 16,1",
+        "Rs. 16,5",
+        "Rs. 16,2",
+        "Rs. 16,000"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-047",
+      "q": "Auniversity allocates 360 seats for three disciplines (Electrical, Mechanical and Civil) in the ratio 2:3:4. How many seats are there in Mechanical?",
+      "options": [
+        "170",
+        "110",
+        "130",
+        "120"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-048",
+      "q": "Saba and Nida do their assignment together. The ratio of time taken by Saba to Nida is 6:5. If Saba takes 90 minutes to complete the assignment then how much time does Nida require?",
+      "options": [
+        "75 minutes",
+        "80 minutes",
+        "76 minutes",
+        "77 minutes"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-049",
+      "q": "Anew number is added in a series of numbers: 3,4,4,5,6,8 such that the average of series does not change. What is the new number?",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-050",
+      "q": "If 2x=3y and 4y=5z, then x:z?",
+      "options": [
+        "16:8",
+        "15:9",
+        "15:8",
+        "30:8"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-051",
+      "q": "Ratio of Bio students to Math students is 6:7. If 90 students are taking Bio, How many are taking maths?",
+      "options": [
+        "115",
+        "155",
+        "105",
+        "95"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-052",
+      "q": "There are 27 students in chemistry class and 22 students in physics class, seven of these students take physics and chemistry. What is the ratio of the number of students taking only physics to those taking only chemistry?",
+      "options": [
+        "3:4",
+        "3:5",
+        "6:4",
+        "4:4"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-053",
+      "q": "Inacertain class, 3 out of 24 students are in student organizations. What is the ratio of students in organizations to students not in organizations?",
+      "options": [
+        "1/7",
+        "1/8",
+        "2/7",
+        "0/7"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-054",
+      "q": "What number has to be added to each term of 3:5 to make the ratio 5:6?",
+      "options": [
+        "9",
+        "8",
+        "6",
+        "7"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-055",
+      "q": "At what time a train traveling at 50 km/h will arrive at the station if it is 5 km from the station at 5:00 P.M?",
+      "options": [
+        "6.06",
+        "7.06",
+        "4.06",
+        "5.06"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-056",
+      "q": "Ifthe ratio of males and female teachers in school is 5:6 and the total teachers are 33. How many more male teachers should be hired to make this ratio 1:1?",
+      "options": [
+        "5",
+        "3",
+        "2",
+        "4"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-057",
+      "q": "The ratio between the perimeter and the breadth of a rectangle is 5:1. If the area of the rectangle is 216 sq. cm, what is the length of the rectangle?",
+      "options": [
+        "20cm",
+        "23cm",
+        "18cm",
+        "19cm"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-058",
+      "q": "There are 24 female and 36 male athletes. What is the ratio of female to total athletes?",
+      "options": [
+        "4:5",
+        "2:5",
+        "3:5",
+        "2:6"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-059",
+      "q": "A firm announces a total of 63 posts. If the ratio of ordinary to officer staff must be kept as 6:3, how many posts are there for the officers?",
+      "options": [
+        "26",
+        "21",
+        "16",
+        "31"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-060",
+      "q": "Three persons A, B, C invested an amount of 12 Lac Rupees in 2:3:5. What is the investment amount of person A?",
+      "options": [
+        "7.4 Lac",
+        "4.4 Lac",
+        "3.4 Lac",
+        "2.4 Lac"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-061",
+      "q": "Three quantities a, b, c of a:b=1:2, b:c=2:3 then it continues as?",
+      "options": [
+        "1:2:3",
+        "1:2:4",
+        "1:2:8",
+        "1:2:5"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-062",
+      "q": "0.75: x =5:8 then the value of x is?",
+      "options": [
+        "1.2",
+        "3.2",
+        "2.2",
+        "0.19999999999999996"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-063",
+      "q": "Thesum of the ages of a father and his son is 100 years now. 5 years ago their WHATSAPP FOR IN CLASSES NITH SIR TAUQEER ages were in ratio of 2:1. The ratio of the ages of father and son after 10 years will be?",
+      "options": [
+        "10:3",
+        "5:4",
+        "5:3",
+        "6:3"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-064",
+      "q": "If 3a+5b/3a-5b=5, a:b is equal to?",
+      "options": [
+        "10:2",
+        "6:2",
+        "5:2",
+        "5:3"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-065",
+      "q": "Ages A:B = 6:5, sum 44; age of B after 8 years?",
+      "options": [
+        "33",
+        "38",
+        "23",
+        "28"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-066",
+      "q": "Forx: y = 3:4, then (7x+3y):(7x-3y) is equal to?",
+      "options": [
+        "22:3",
+        "11:3",
+        "12:3",
+        "11:4"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-067",
+      "q": "The sum of two numbers is 40 and their difference is 4. The ratio of the numbers is?",
+      "options": [
+        "11:10",
+        "11:9",
+        "12:9",
+        "22:9"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-068",
+      "q": "At 3:00 AM the temperature was 13°C below zero and by noon it was 32°C; the average hourly increase was?",
+      "options": [
+        "7°C",
+        "10°C",
+        "5°C",
+        "6°C"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-069",
+      "q": "If A:B = 3:4 and B:C = 12:13 then A:C?",
+      "options": [
+        "9:14",
+        "9:13",
+        "10:13",
+        "18:13"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-070",
+      "q": "What is the ratio in Rs 2.80 and 40 paisa?",
+      "options": [
+        "8:1",
+        "7:1",
+        "14:1",
+        "7:2"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-071",
+      "q": "If x: y5:2,then (8x+9y):(8x+2y) is?",
+      "options": [
+        "29:22",
+        "30:22",
+        "58:22",
+        "29:23"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-072",
+      "q": "Two numbers are in the ratio 3:5. If 9 is subtracted from each, the new numbers are in ratio 12:23, the smaller number is?",
+      "options": [
+        "33",
+        "38",
+        "28",
+        "43"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-073",
+      "q": "What is the average of the numbers: 0, 0, 4, 10,5, and 5?",
+      "options": [
+        "5",
+        "3",
+        "6",
+        "04"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-074",
+      "q": "Simplify: 0.8-0.3+0.5?",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "0"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-075",
+      "q": "2:x=x:50 what one number can replace x?",
+      "options": [
+        "5",
+        "20",
+        "15",
+        "10"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-076",
+      "q": "Solve: 1/2+%?",
+      "options": [
+        "None of these",
+        "Insufficient data",
+        "%",
+        "Cannot be determined"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-077",
+      "q": "Simplify: 13.05 x 4.5 + 0.5?",
+      "options": [
+        "64.225",
+        "54.225",
+        "59.225",
+        "69.225"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-078",
+      "q": "If Rs. 1000 is divided amongst Rabail and Amna in the proportion of 2:3 respectively, how much will Rabail receive?",
+      "options": [
+        "390",
+        "410",
+        "450",
+        "400"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-079",
+      "q": "Solve: 100 +50x2?",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "3"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-080",
+      "q": "Solve: 1/10 x 3/5 x 6/5?",
+      "options": [
+        "8/125",
+        "10/125",
+        "9/126",
+        "9/125"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-081",
+      "q": "Multiply: 9.5 x 6?",
+      "options": [
+        "57",
+        "52",
+        "62",
+        "67"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-082",
+      "q": "A hockey team won 6 games and lost 8. What is the ratio of wins to number of games?",
+      "options": [
+        "4:7",
+        "3:8",
+        "6:7",
+        "3:7"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-083",
+      "q": "Complete the series: 1, 3, 7, 15, 31, 63, __?",
+      "options": [
+        "137",
+        "117",
+        "177",
+        "127"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-084",
+      "q": "If 2:7:: x: 49 is, then what is the value of “x”?",
+      "options": [
+        "14",
+        "19",
+        "9",
+        "24"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-085",
+      "q": "Acandidate was selected for 6 jobs as he gave 15 interviews. What is the ratio of not selected jobs to the number of interviews?",
+      "options": [
+        "4:5",
+        "3:5",
+        "3:6",
+        "6:5"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-086",
+      "q": "The ratio of length to the breadth of a rectangle is 3:2. Its area is 2400m. What is the length of the field?",
+      "options": [
+        "61 m",
+        "60 m",
+        "62 m",
+        "65 m"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-087",
+      "q": "The ratio of two numbers a and b is 3:5. If 2 is added to both the numbers, the ratio becomes 2:3. Find b?",
+      "options": [
+        "15",
+        "10",
+        "5",
+        "20"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-088",
+      "q": "Solve: 2'x 2? x 25?",
+      "options": [
+        "256",
+        "306",
+        "266",
+        "246"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-089",
+      "q": "Aclock seen through a mirror, shows quarter past three. What is the correct time shown by the clock?",
+      "options": [
+        "9:45",
+        "8:45",
+        "16:45",
+        "8:46"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-090",
+      "q": "The ratio of the ages of Minu and Meera is 4:2. If the sum of their ages is 6 years, find the ratio of their ages after 8 years?",
+      "options": [
+        "6:5",
+        "12:5",
+        "6:6",
+        "7:5"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-091",
+      "q": "5/6 to 10/9 is same as?",
+      "options": [
+        "3:5",
+        "4:4",
+        "3:4",
+        "6:4"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-092",
+      "q": "If 2:7::44:x, then x is equal to?",
+      "options": [
+        "154",
+        "204",
+        "144",
+        "164"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-093",
+      "q": "Ifx:y=2: 3, find the value of (3x + 2y) : (2x + 5y)?",
+      "options": [
+        "12:19",
+        "12:20",
+        "24:19",
+        "13:19"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-094",
+      "q": "What number must be added to each term of the ratio 5 : 37 to make it equal to1:3?",
+      "options": [
+        "11",
+        "6",
+        "21",
+        "16"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-095",
+      "q": "The ratio of the incomes of Ali and Anwar is 5 : 4 and the ratio of their expenditures is 3 : 2. If at the end of the year, each saves Rs. 1600, then the income of Ali is?",
+      "options": [
+        "8000",
+        "3900",
+        "4100",
+        "4000"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-096",
+      "q": "Ina mixture of 25 liters the ratio of milk and water is 4: 1. Another 5 liters of water is added to the mixture. Find the ratio of milk and water in the new mixture?",
+      "options": [
+        "4:1",
+        "2:2",
+        "2:1",
+        "3:1"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-097",
+      "q": "The sum of two numbers is 144. The ratio between them is 5:7. The numbers are?",
+      "options": [
+        "60 & 89",
+        "60 & 86",
+        "60 & 85",
+        "60 & 84"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-098",
+      "q": "Ratio of A:B:Cis5:2:4.3.Cgets 2000 more than B, how much B get?",
+      "options": [
+        "2100",
+        "4000",
+        "2000",
+        "1900"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-099",
+      "q": "Ina60-liter mixture, ratio of milk and water is 2:1. How much water must be further added to make it 1:2?",
+      "options": [
+        "61 liters",
+        "65 liters",
+        "60 liters",
+        "62 liters"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-100",
+      "q": "Complete the series: 1, 1, 8, 4, 27,9, __?",
+      "options": [
+        "74",
+        "64",
+        "59",
+        "69"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-101",
+      "q": "Which one number will complete the series: 8,13, 10,15,12,17,14, ?",
+      "options": [
+        "24",
+        "14",
+        "19",
+        "29"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-102",
+      "q": "The length and breadth of a rectangle are in the ratio 3: 1. If the breadth is 7 cm, then the length of the rectangle is?",
+      "options": [
+        "2icm",
+        "3icm",
+        "7icm",
+        "4icm"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-103",
+      "q": "Solve: 6.334 x 10*?",
+      "options": [
+        "63440",
+        "63240",
+        "126680",
+        "63340"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-104",
+      "q": "The ratio 35: 84 in simplest form i?",
+      "options": [
+        "6",
+        "7",
+        "4",
+        "5"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-105",
+      "q": "The medians of a triangle cut each other in the ratio?",
+      "options": [
+        "4:1",
+        "2:2",
+        "3:1",
+        "2:1"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-106",
+      "q": "Length and width of a field are in the ratio 5:3. If the width of the field is 42 m then its length is?",
+      "options": [
+        "71 m",
+        "75 m",
+        "70 m",
+        "72 m"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-107",
+      "q": "x, 9, 25, 49, 81, 121 Find the value of x? 1 Solution: The given series is: x, 9, 25, 49, 81, 121 Notice the pattern: 9 = 3? 25:=5? 49=77 81 = 9? 124 = 117 The series is squares of odd numbers: 12, 32, 57, 7? 9:41?",
+      "options": [
+        "So, X= 12=1",
+        "So, X= 32=3",
+        "So, X= 22=2",
+        "So, X= 62=6"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-108",
+      "q": "Total number of students in a class is 95. If the total number of girls in the class is 45, then the ratio of total number. If boys to total number girls is?",
+      "options": [
+        "10:10",
+        "11:9",
+        "20:9",
+        "10:9"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-109",
+      "q": "Aratio equivalent to 3: 7 is?",
+      "options": [
+        "9:22",
+        "10:21",
+        "18:21",
+        "9:21"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-110",
+      "q": "Solve: 840 + 14+ 40?",
+      "options": [
+        "90",
+        "100",
+        "150",
+        "110"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-111",
+      "q": "Given that 543 x 21 = 11403. Find the value of: 1140.3 + 5.43?",
+      "options": [
+        "210",
+        "220",
+        "260",
+        "200"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-112",
+      "q": "Ifa:b=2:3 and b:c=4: 3, then finda: b:c?",
+      "options": [
+        "8:12:10",
+        "8:12:14",
+        "8:12:9",
+        "8:12:11"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-113",
+      "q": "For the series, what is the next term: 4, 6,9,13__?",
+      "options": [
+        "13",
+        "23",
+        "18",
+        "28"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-114",
+      "q": "Two numbers are in the ratio 7: 9, if the sum of the numbers is 112, then the larger number is?",
+      "options": [
+        "68",
+        "58",
+        "73",
+        "63"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-115",
+      "q": "Three numbers are in the ratio 4:5:6 and their average is 30. The largest number is?",
+      "options": [
+        "36",
+        "31",
+        "46",
+        "41"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-116",
+      "q": "Solve: 2° x 23?",
+      "options": [
+        "256",
+        "266",
+        "306",
+        "246"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-117",
+      "q": "The ratio of 3.5 kg to 280 gm is?",
+      "options": [
+        "25:3",
+        "26:2",
+        "25:2",
+        "50:2"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-118",
+      "q": "Find the odd one out: 8, 27, 64, 100, 125, 216, 343?",
+      "options": [
+        "110",
+        "100",
+        "90",
+        "150"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-119",
+      "q": "If 3isasolution of 3x42 +(k—1)x+9= 0, then k? -11 Solution: Equation: 3x? + (k-1)x+9=0 Solution: x = 3 Step 1: Substitute x = 3 3x 3?",
+      "options": [
+        "7+(k-1)x3+9=5",
+        "7+(k-1)x3+9=1",
+        "7+(k-1)x3+9=2",
+        "7+(k-1)x3+9=0"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-120",
+      "q": "Complete the series: 2, 4, 3, 9, 4, 16, 5, 25, 6...?",
+      "options": [
+        "377",
+        "417",
+        "36,7",
+        "357"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-121",
+      "q": "Evaluate: 2x25+5+10—2?",
+      "options": [
+        "18",
+        "28",
+        "13",
+        "23"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-122",
+      "q": "Find the mean proportion between 5 and 45?",
+      "options": [
+        "25",
+        "10",
+        "15",
+        "20"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-123",
+      "q": "A bag contains 50 paise, 1 rupee and 2 rupee coins in the ratio 2:5:8. If the total amount is Rs. 352, find the total number of coins in the bag?",
+      "options": [
+        "230",
+        "250",
+        "290",
+        "240"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-124",
+      "q": "If 15:7::x:560 then x?",
+      "options": [
+        "1100",
+        "2400",
+        "1300",
+        "1200"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-125",
+      "q": "Complete the number series: 0.5, 1.5, 4.5,13.5,_?",
+      "options": [
+        "50.5",
+        "45.5",
+        "40.5",
+        "35.5"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-126",
+      "q": "How much distance in kilometer, a cyclist will cover from 11:10 am to 11:50 am while cycling at the speed of 15 kilometer per hour?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "5"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-127",
+      "q": "Three numbers are in ratio 1: 2:3 and HCF is 12. The numbers are?",
+      "options": [
+        "12, 24, 38",
+        "12, 24, 41",
+        "12, 24, 36",
+        "12, 24, 37"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-128",
+      "q": "Solve for x: 2x - y = (3/4)x +6?",
+      "options": [
+        "x =(29+",
+        "x =(25+",
+        "x =(26+",
+        "x =(24+"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-129",
+      "q": "Factor: 3y(x - 3) — 2(x - 3)?",
+      "options": [
+        "(x -5)(5y-",
+        "(x -4)(4y-",
+        "(x -8)(8y-",
+        "(x -3)(3y-"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-130",
+      "q": "If 3P/7 = 4Q/11, then what is the ratio of P and Q respectively?",
+      "options": [
+        "28 : 34",
+        "28 : 38",
+        "28 : 35",
+        "28 : 33"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-131",
+      "q": "The ratio between the speeds of two trains is 7:8. If the second train runs 400 km in 4 hours, then the speed of the first train is?",
+      "options": [
+        "88.5 km/hr",
+        "89.5 km/hr",
+        "87.5 km/hr",
+        "92.5 km/hr"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-132",
+      "q": "If2:7::44:x, then x is equal to?",
+      "options": [
+        "204",
+        "154",
+        "144",
+        "164"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-133",
+      "q": "The simplest form of 24: 48 is?",
+      "options": [
+        "2:2",
+        "Cannot be determined",
+        "1:2",
+        "1:3"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-134",
+      "q": "The perimeter of a floor of a room is 18 m. What is the area of four walls of the room, if height = 3 m² 54 m² Solution: Perimeter of floor = 18m Height = 3m Area of four walls = Perimeter of floor x Height Area=18x3 Area =54 Answer: 54 m²",
+      "options": [
+        "None of these",
+        "Insufficient data",
+        "Cannot be determined",
+        "WHATSAPP FOR IN CLASSES"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-135",
+      "q": "The ratio of 1 km to 600 m is?",
+      "options": [
+        "5:3",
+        "5:4",
+        "10:3",
+        "6:3"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-136",
+      "q": "Ina mixture 60 liters, the ratio of alcohol and water 2 : 1. If this ratio is to be 1: 2, then the quantity of water to be further added is?",
+      "options": [
+        "62 liters",
+        "61 liters",
+        "65 liters",
+        "60 liters"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-137",
+      "q": "Inaschool having roll strength 286, the ratio of boys and girls is 8:5. If 22 more girls get admitted into the school, the ratio of boys and girls becomes?",
+      "options": [
+        "4:4",
+        "5:3",
+        "4:3",
+        "8:3"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-138",
+      "q": "Present ages of Salman and Ahmad are in the ratio of 5 : 4 respectively. Three years hence the ratio of their ages will become 11 : 9 respectively. What is Ahmad’s present age in years?",
+      "options": [
+        "24",
+        "34",
+        "19",
+        "29"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-139",
+      "q": "Three numbers are in the ratio 3:4:6 and their product is 1944. The largest of these numbers is?",
+      "options": [
+        "18",
+        "23",
+        "13",
+        "28"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-140",
+      "q": "If 3/4 of the Police employees are not graduates, the ratio of graduates to non-graduates employees in the Police Department is?",
+      "options": [
+        "2:3",
+        "Cannot be determined",
+        "1:3",
+        "1:4"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-141",
+      "q": "If Rs. 782 be divided into three parts proportional to 1/2 : 2/3 : 3/4, then the first part is?",
+      "options": [
+        "Rs 205",
+        "Rs 206",
+        "Rs 204",
+        "Rs 209"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-142",
+      "q": "Two train for Lahore leave Rawalpindi at 8:30 AM and 9:00 AM and travel at 60 km/h and 70 km/h. How many kilometers from Rawalpindi will the two trains have together?",
+      "options": [
+        "260",
+        "210",
+        "220",
+        "200"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-143",
+      "q": "Pilot School invited same number of boys and girls at its annual party. All came but 15 extra girls showed up. As a result ratio of boys to girls is 4:5. How many people did pilot school invite at its party?",
+      "options": [
+        "130",
+        "120",
+        "170",
+        "110"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-144",
+      "q": "Calculate the following: 313 — 225?",
+      "options": [
+        "83",
+        "93",
+        "98",
+        "88"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-145",
+      "q": "|f4?=8> what is the ratio of a to b?",
+      "options": [
+        "6:2",
+        "4:2",
+        "3:3",
+        "3:2"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-146",
+      "q": "The angle between the minute hand and the hour hand of a clock when the time is 4:20 is?",
+      "options": [
+        "11°",
+        "12°",
+        "15°",
+        "10°"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-147",
+      "q": "5 men and 2 boys working together can do four times as much work as a man and a boy. Working capacity of man and boy is in the ratio?",
+      "options": [
+        "2:2",
+        "4:1",
+        "3:1",
+        "2:1"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-148",
+      "q": "Complete the series: 1, 2, 4, 7,11, 16?",
+      "options": [
+        "27",
+        "17",
+        "22",
+        "32"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-149",
+      "q": "Simplify: 280 + (—120) — (—320) + 50?",
+      "options": [
+        "520",
+        "580",
+        "530",
+        "540"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-150",
+      "q": "Find the odd one in the series: 835, 734, 842, 761, 853, 981, 532?",
+      "options": [
+        "852",
+        "842",
+        "832",
+        "892"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-151",
+      "q": "Find the value of “x”: 4x-6=8+2x?",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "6"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-152",
+      "q": "Complete the number series: 14, 28, 20, 40, 32,64, ?",
+      "options": [
+        "56",
+        "51",
+        "61",
+        "66"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-153",
+      "q": "|f4:x::5:15, then x?",
+      "options": [
+        "22",
+        "12",
+        "17",
+        "7"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-154",
+      "q": "Complete the number series: 3, 7, 6, 5, 9,3, 12,1, 15?",
+      "options": [
+        "'-1",
+        "'4",
+        "'0",
+        "'1"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-155",
+      "q": "Simplify: 37 —[5 + (28 —(19-—7))]?",
+      "options": [
+        "26",
+        "21",
+        "11",
+        "16"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-156",
+      "q": "Acar salesman sells 42 red cars and 14 green cars. What is the ratio of red cars to green cars sold?",
+      "options": [
+        "6:1",
+        "4:1",
+        "3:1",
+        "3:2"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-157",
+      "q": "If x:y = 2:1, then (x? - y?):(x? + y?) is?",
+      "options": [
+        "5",
+        "2",
+        "4",
+        "3"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-158",
+      "q": "Two numbers are in the ratio 1:2. If 7 is added to both, their ratio changes to 3:5. The greatest number is?",
+      "options": [
+        "38",
+        "23",
+        "33",
+        "28"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-159",
+      "q": "The average age of three boys is 25 years and their ages are in proportion 3:5:7. The age of the youngest boy is?",
+      "options": [
+        "10",
+        "20",
+        "15",
+        "25"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-160",
+      "q": "Ifx:y=3:4 and y:z = 2:5, then x:z is?",
+      "options": [
+        "6:10",
+        "3:10",
+        "3:11",
+        "4:10"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-161",
+      "q": "\\f a:b: c= 3:4: 7, then the ratio (a+ b+ c): cis equal to?",
+      "options": [
+        "2:2",
+        "4:1",
+        "3:1",
+        "2:1"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-162",
+      "q": "If Aand Bare inthe ratio 3: 4, andB and C are in the ratio 12: 13, then A and C will be in the ratio?",
+      "options": [
+        "9: 18",
+        "9: 13",
+        "9: 14",
+        "9: 15"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-163",
+      "q": "Three numbers are in the ratio 2:3: 4 and their H.C.F. is 12. The L.C.M. of the numbers is?",
+      "options": [
+        "144",
+        "134",
+        "154",
+        "194"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-164",
+      "q": "A bag contains 50 paisa, 1 rupee and 2 rupee coins in the ratio 2:5:8. If the total amount is Rs. 352, find the total number of coins in the bag?",
+      "options": [
+        "230",
+        "240",
+        "250",
+        "290"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-165",
+      "q": "Ina certain class the ratio of men to women is 3:5. If the class has 24 people in it, how many are women?",
+      "options": [
+        "15",
+        "10",
+        "20",
+        "25"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-166",
+      "q": "If there are 20 girls and 15 boys in a class, the ratio of number of girls to the number of boys is?",
+      "options": [
+        "4:4",
+        "4:3",
+        "8:3",
+        "5:3"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-167",
+      "q": "Find the 30th term of AP: 10,7,4,_?",
+      "options": [
+        "Cannot be determined",
+        "None of these",
+        "-",
+        "Insufficient data"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-168",
+      "q": "The ratio of boys and girls in a class was 11:13. 8 girls and 4 boys join the class from this academic year and the ratio becomes 4:5. Find the strength of the class?",
+      "options": [
+        "158",
+        "98",
+        "108",
+        "118"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-169",
+      "q": "Complete the series: 18,13, , 3?",
+      "options": [
+        "10",
+        "9",
+        "8",
+        "7"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-170",
+      "q": "Which of the following is equivalent to the ratio 7: 12?",
+      "options": [
+        "15:24",
+        "28:24",
+        "14:25",
+        "14:24"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-171",
+      "q": "Divide Rs.2000 into two shares in the ratio 3:2?",
+      "options": [
+        "Rs. 1200 and Rs. 802",
+        "Rs. 1200 and Rs. 801",
+        "Rs. 1200 and Rs. 800",
+        "Rs. 1200 and Rs. 805"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-172",
+      "q": "Complete the number series: 1, 6, 13, 22,33, —-?",
+      "options": [
+        "56",
+        "51",
+        "46",
+        "41"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-173",
+      "q": "What is the ratio of 5/6 to 10/9?",
+      "options": [
+        "Insufficient data",
+        "None of these",
+        "Cannot be determined",
+        "%"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-174",
+      "q": "Zaid and his mother’s age ratio is 4:7 the age difference is 33 years The age of Zaid is?",
+      "options": [
+        "49 years",
+        "46 years",
+        "44 years",
+        "45 years"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-175",
+      "q": "Complete the series: 0/1, 2/3, 4/9, 6/27?",
+      "options": [
+        "8/81",
+        "9/81",
+        "8/82",
+        "7/81"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-176",
+      "q": "Inacollege, the ratio of the number of boys to girls is 8: 5. If there are 200 girls, the total number of students in the college is?",
+      "options": [
+        "530",
+        "510",
+        "520",
+        "570"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-177",
+      "q": "If Rs. 60000 is distributed among three boys in the ratio 3:5:7, then find the difference between the largest and smallest share?",
+      "options": [
+        "Rs. 16001",
+        "Rs. 16000",
+        "Rs. 16002",
+        "Rs. 16005"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-178",
+      "q": "Complete the number series: 15, 31, 63,127,255, -?",
+      "options": [
+        "521",
+        "561",
+        "511",
+        "501"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-179",
+      "q": "Complete the series: 11, 33, 77, 143, 231, 341?",
+      "options": [
+        "463",
+        "473",
+        "483",
+        "523"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-180",
+      "q": "Asum of money is to be distributed among A, B, C and D in the proportion of 5:2:4:3. If Cgets Rs. 1000 more than D, what is B's share?",
+      "options": [
+        "Rs. 2005",
+        "Rs. 2002",
+        "Rs. 2000",
+        "Rs. 2001"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-181",
+      "q": "Complete the Sequence: 12, 38, 29, 55, 46, 72,?",
+      "options": [
+        "73",
+        "63",
+        "58",
+        "68"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-182",
+      "q": "Find the odd one out: 10, 25, 45, 54, 60, 75, 80?",
+      "options": [
+        "54",
+        "49",
+        "59",
+        "64"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-183",
+      "q": "Complete the number series: 4, 6, 12, 14, 28, 30, _?",
+      "options": [
+        "55",
+        "70",
+        "65",
+        "60"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-184",
+      "q": "Complete the series: 3, 5, 10, 12, 24, 26,?",
+      "options": [
+        "57",
+        "52",
+        "62",
+        "47"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-185",
+      "q": "lf the ratio of the sides of a triangle is 2 :3:4 and its perimeter is 54 cm, then the measure of the smallest side of the triangle will be?",
+      "options": [
+        "17 cm",
+        "14 cm",
+        "12 cm",
+        "13 cm"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-186",
+      "q": "Find the odd one in the series: 835, 734, 642, 751, 853, 981, 532?",
+      "options": [
+        "741",
+        "801",
+        "751",
+        "761"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-187",
+      "q": "Complete the number series: 1, 2, 3, 6, 9,18, ,54?",
+      "options": [
+        "37",
+        "27",
+        "32",
+        "22"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-188",
+      "q": "Complete the series: 2, 4, 16, 256? 65536 Solution: Pattern: Each term is the square of the previous term 2?=4 47=16 16? = 256 Next term: 256?",
+      "options": [
+        "= 256 x 256 = 65538",
+        "= 256 x 256 = 65536",
+        "= 256 x 256 = 65537",
+        "= 256 x 256 = 65541"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-189",
+      "q": "Complete the series: 50, 60, 80, 110, 150?",
+      "options": [
+        "190",
+        "200",
+        "210",
+        "250"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-190",
+      "q": "Calculate the value of x in the equation: 12 —5x =x + 30?",
+      "options": [
+        "-1",
+        "-3",
+        "-4",
+        "-2"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-191",
+      "q": "Simplify: 12 x (13 -2 x5)?",
+      "options": [
+        "46",
+        "36",
+        "31",
+        "41"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-192",
+      "q": "Complete the number series: 11, 13, 17,19, 23, 29, 31, 37,41, _ _?",
+      "options": [
+        "43",
+        "48",
+        "38",
+        "53"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-193",
+      "q": "Find the square root of 6492304? 2548 Solutions: Let V6492304 = x Check 2548?: 2548? = (2500 + 48)? 2548? = 2500? + 2(2500)(48) + 48? 2548?",
+      "options": [
+        "= 6492309",
+        "= 6492306",
+        "= 6492305",
+        "= 6492304"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-194",
+      "q": "Find the missing number in the number series: 2,4,12,48,240, —-?",
+      "options": [
+        "1540",
+        "2880",
+        "1340",
+        "1440"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-195",
+      "q": "What comes next in the sequence: 2, 12, 32, 62, 102?",
+      "options": [
+        "152",
+        "142",
+        "162",
+        "202"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-196",
+      "q": "6,9,18, 45, 126 ......? 369 Solution: Differences 9-6=3 18-9=9 45 -18=27 126-45=81 Differences: 3, 9, 27, 81 = 3', 3?",
+      "options": [
+        "3°, 3*",
+        "5°, 5*",
+        "4°, 4*",
+        "8°, 8*"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-197",
+      "q": "Simplify: 18800/470/20?",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-198",
+      "q": "If 2x = 32, what is x?? 256 Solution: 2x = 32 x = 32/2 x=16 Now, x? = 16? x? = 16 x 16 x?",
+      "options": [
+        "= 258",
+        "= 256",
+        "= 261",
+        "= 257"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-199",
+      "q": "If 3:00 AM, the temperature was 13°C below zero but by noon it had risen to 32°C. Therefore, the average hourly increase in temperature was?",
+      "options": [
+        "7°",
+        "10°",
+        "5°",
+        "6°"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-200",
+      "q": "What comes next in these sequence: 2, 4,16,128, _-?",
+      "options": [
+        "1948",
+        "2148",
+        "2048",
+        "4096"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-201",
+      "q": "Look at this series: 2,1,(1/2),(1/4), ... What number should come next?",
+      "options": [
+        "(1/13)",
+        "(1/10)",
+        "(1/8)",
+        "(1/9)"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-202",
+      "q": "Three numbers are in the ratio 1:2:3 and their H.C.F. is 12. The numbers are?",
+      "options": [
+        "244872",
+        "122336",
+        "122536",
+        "12,24,36"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-203",
+      "q": "Find the H.C.F of 36 and 84? 12 Find the H.C.F of 36 and 84 Solutions: 36=2x2x3x3=2?x3? £4.2=2:x 2%.3x 7'=2* x3ix 7 Common factors = 2?",
+      "options": [
+        "x 5",
+        "x 3",
+        "x 4",
+        "x 8"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-204",
+      "q": "What is the ratio of the circumference of a circle to its radius?",
+      "options": [
+        "4n",
+        "7n",
+        "3n",
+        "2n"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-205",
+      "q": "Acertain sum of money is distributed among two friends in the ratio of 5: 11. If one of them got Rs. 1200 more than the other, the total amount distributed at?",
+      "options": [
+        "Rs. 3201",
+        "Rs. 3205",
+        "Rs. 3200",
+        "Rs. 3202"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-206",
+      "q": "Multiply: 9.5 x 4?",
+      "options": [
+        "33",
+        "38",
+        "48",
+        "43"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-207",
+      "q": "Multiply: 0.4 x 710?",
+      "options": [
+        "294",
+        "334",
+        "284",
+        "274"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-208",
+      "q": "Divide: 340 + 50?",
+      "options": [
+        "7.8",
+        "5.8",
+        "8.8",
+        "6.8"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-209",
+      "q": "Divide: 810 + 500?",
+      "options": [
+        "2.62",
+        "3.62",
+        "0.6200000000000001",
+        "1.62"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-210",
+      "q": "The ratio of girls boys in a school is 5:7. If there are 525 girls, how many boys are there?",
+      "options": [
+        "745",
+        "735",
+        "725",
+        "785"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-211",
+      "q": "A fruit salad has apples, bananas, and grapes in a ratio of 5 to 2 to 9. If a total of 128 pieces of fruit are in the salad, how many grapes were used?",
+      "options": [
+        "67",
+        "82",
+        "72",
+        "77"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-212",
+      "q": "What comes next in this sequence: 1, 3, 12,60, ?",
+      "options": [
+        "370",
+        "350",
+        "410",
+        "360"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-213",
+      "q": "ina mixture of 28 liters the ratio of milk and water is 5:2 Another 12 liters of water is added to the mixture then the ratio of milk and water in the resulting mixture is?",
+      "options": [
+        "1:2",
+        "1:1",
+        "2:1",
+        "Cannot be determined"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-214",
+      "q": "Which number will come next? 0,1,8,27,64, 2125 Solution: Sequence: 0,1,8,27,64, WHATSAPP FOR IN CLASSES NITH SIR TAUQEER Step 1: Recognize the pattern — these are cubes of natural numbers. 0? =0 77> 1 2=8 33 =27 4? = 64 Step 2: Find the next number. Next natural number =5 §?",
+      "options": [
+        "=126",
+        "=125",
+        "=130",
+        "=127"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-215",
+      "q": "Which of the missing number is correct for: 1, 2, 4, 8, 16, 32, 64?",
+      "options": [
+        "128",
+        "178",
+        "118",
+        "138"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-216",
+      "q": "Tea worth Rs. 126 per kg and Rs. 135 per kg are mixed with a third variety in PREPARATION WI the ratio 1:1:2. If the mixture is worth Rs. 153 per kg, the price of the third variety per kg will be?",
+      "options": [
+        "Rs.175.50",
+        "Rs.180.5",
+        "Rs.176.5",
+        "Rs.177.5"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-217",
+      "q": "If 81'° = 3*°7, what is the value of x? 47 Solution: 81° = 3x7 81.=3t So, (3*y\"° = 3x?",
+      "options": [
+        "34° = 3*-7",
+        "34° = 3*-5",
+        "34° = 3*-2",
+        "34° = 3*-6"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-218",
+      "q": "Rs. 1581 is divided among A, B and Cin the ratio 10:15:6. What is the share of B?",
+      "options": [
+        "755",
+        "765",
+        "775",
+        "815"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-219",
+      "q": "Which number can replace both question marks: 2/10 = ?/50?",
+      "options": [
+        "15",
+        "20",
+        "5",
+        "10"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-220",
+      "q": "Total number of doctors and nurses in a hospital is 240. The ratio between them is 5 and 7 respectively. Find the total number of doctors?",
+      "options": [
+        "90",
+        "110",
+        "150",
+        "100"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-221",
+      "q": "The ratio of 50ml and 2 liters is?",
+      "options": [
+        "2:40",
+        "1:41",
+        "1:40",
+        "Cannot be determined"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-222",
+      "q": "If difference between the ages X and Y is 12 years and the ratio of their ages is 3:7 then what is the age of Y?",
+      "options": [
+        "26",
+        "31",
+        "21",
+        "16"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-223",
+      "q": "Seen through a mirror, the arms of a clock show 9.30. What is the actual time?",
+      "options": [
+        "2:31",
+        "2:30",
+        "3:30",
+        "4:30"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-224",
+      "q": "The total number of boys and girls ina class is 16 and 12 respectively. What is the simplest ratio among them²",
+      "options": [
+        "4:3",
+        "8:3",
+        "5:3",
+        "4:4"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-225",
+      "q": "The age of father 10 years ago was thrice the age of his son. Ten years hence, father’s age will be twice that of his son. The ratio of their present ages is?",
+      "options": [
+        "7:3",
+        "7:4",
+        "14:3",
+        "8:3"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "ratio-226",
+      "q": "Present ages of Anwar and Ali are in the ratio of 5 : 4 respectively. Three years hence, the ratio of their ages will become 11: 9 respectively. What is Ali’s present age in years?",
+      "options": [
+        "29",
+        "34",
+        "19",
+        "24"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    }
+  ]
+}

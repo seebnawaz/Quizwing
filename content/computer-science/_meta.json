@@ -2,7 +2,7 @@
   "name": "Computer Science",
   "icon": "💻",
   "order": 2,
-  "description": "Computer fundamentals, CPU, networks, internet, AI, databases & famous scientists for PPSC, FPSC, NTS, CSS.",
+  "description": "Computer fundamentals, CPU, networks, internet, AI, databases & famous scientists.",
   "color": "#1e40af",
   "category": "one-paper"
 }

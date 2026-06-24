@@ -1,0 +1,2026 @@
+{
+  "topic_id": "countries-and-their-parliaments",
+  "topic_name": "Countries & Their Parliaments",
+  "subject": "general-knowledge",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Countries & Their Parliaments MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "countr-001",
+      "q": "The name of Afghanistan&#x27;s parliament is:",
+      "options": [
+        "National Assembly (Shora)",
+        "Wolesi Jirga",
+        "Loya Jirga",
+        "Majlis"
+      ],
+      "correct": 0,
+      "explanation": "Afghanistan&#x27;s parliament is the National Assembly (Shora) — bicameral with the Wolesi Jirga (lower) and Meshrano Jirga (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-002",
+      "q": "The name of Albania&#x27;s parliament is:",
+      "options": [
+        "Kuvendi-i-Shqiperise",
+        "Sobranie",
+        "Skupstina",
+        "Riigikogu"
+      ],
+      "correct": 0,
+      "explanation": "Albania&#x27;s unicameral parliament is the Kuvendi-i-Shqiperise (Assembly of Albania) — 140 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-003",
+      "q": "The name of Algeria&#x27;s parliament is:",
+      "options": [
+        "People's National Assembly",
+        "Majlis",
+        "National Diet",
+        "Council of Nation"
+      ],
+      "correct": 0,
+      "explanation": "Algeria&#x27;s parliament is the People&#x27;s National Assembly (lower house) along with the Council of the Nation (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-004",
+      "q": "The name of Andorra&#x27;s parliament is:",
+      "options": [
+        "Cortes",
+        "General Council",
+        "Sansad",
+        "Bundestag"
+      ],
+      "correct": 1,
+      "explanation": "Andorra&#x27;s parliament is the General Council (Consell General) — 28 elected members.",
+      "tags": []
+    },
+    {
+      "id": "countr-005",
+      "q": "The name of Angola&#x27;s parliament is:",
+      "options": [
+        "Senate",
+        "National Assembly",
+        "Congress",
+        "Sobor"
+      ],
+      "correct": 1,
+      "explanation": "Angola has a unicameral National Assembly of 220 members elected for 5-year terms.",
+      "tags": []
+    },
+    {
+      "id": "countr-006",
+      "q": "The name of Argentina&#x27;s parliament is:",
+      "options": [
+        "National Congress",
+        "Cortes",
+        "Sansad",
+        "Folketing"
+      ],
+      "correct": 0,
+      "explanation": "Argentina&#x27;s bicameral legislature is the National Congress (Congreso de la Nación) — Chamber of Deputies + Senate.",
+      "tags": []
+    },
+    {
+      "id": "countr-007",
+      "q": "The name of Australia&#x27;s parliament is:",
+      "options": [
+        "Federal Assembly",
+        "Parliament of the Commonwealth of Australia",
+        "Riksdag",
+        "Diet"
+      ],
+      "correct": 1,
+      "explanation": "Australia&#x27;s bicameral legislature is the Parliament of the Commonwealth of Australia — House of Representatives + Senate.",
+      "tags": []
+    },
+    {
+      "id": "countr-008",
+      "q": "The name of Austria&#x27;s parliament is:",
+      "options": [
+        "Federal Assembly",
+        "Nationalrat",
+        "Bundestag",
+        "Storting"
+      ],
+      "correct": 0,
+      "explanation": "Austria&#x27;s bicameral parliament is the Federal Assembly — Nationalrat (lower) + Bundesrat / Federal Council (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-009",
+      "q": "The name of Azerbaijan&#x27;s parliament is:",
+      "options": [
+        "Majlis",
+        "Milli Mejlis",
+        "Knesset",
+        "Folketing"
+      ],
+      "correct": 1,
+      "explanation": "Azerbaijan has a unicameral parliament called Milli Mejlis (National Assembly) — 125 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-010",
+      "q": "The name of Bahamas&#x27;s parliament is:",
+      "options": [
+        "Senate",
+        "Parliament",
+        "Congress",
+        "Assembly"
+      ],
+      "correct": 1,
+      "explanation": "The Bahamas has a bicameral Parliament — House of Assembly (lower) + Senate (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-011",
+      "q": "The name of Bahrain&#x27;s parliament is:",
+      "options": [
+        "Al-Majlis Al-Watni",
+        "Knesset",
+        "Diet",
+        "Cortes"
+      ],
+      "correct": 0,
+      "explanation": "Bahrain&#x27;s bicameral parliament is the Al-Majlis Al-Watni (National Assembly) — Consultative Council + Council of Representatives.",
+      "tags": []
+    },
+    {
+      "id": "countr-012",
+      "q": "The name of Bangladesh&#x27;s parliament is:",
+      "options": [
+        "Sansad",
+        "Jatiya Sangsad",
+        "Lok Sabha",
+        "Majlis"
+      ],
+      "correct": 1,
+      "explanation": "Bangladesh has a unicameral parliament — the Jatiya Sangsad (House of the Nation) with 350 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-013",
+      "q": "The name of Bosnia and Herzegovina&#x27;s parliament is:",
+      "options": [
+        "Skupština",
+        "Parliamentary Assembly",
+        "Cortes",
+        "Sobranie"
+      ],
+      "correct": 1,
+      "explanation": "Bosnia and Herzegovina has a Parliamentary Assembly — House of Representatives + House of Peoples.",
+      "tags": []
+    },
+    {
+      "id": "countr-014",
+      "q": "The name of Brazil&#x27;s parliament is:",
+      "options": [
+        "Congress of the Union",
+        "National Congress",
+        "Cortes",
+        "Federal Assembly"
+      ],
+      "correct": 1,
+      "explanation": "Brazil&#x27;s bicameral parliament is the National Congress — Chamber of Deputies + Federal Senate.",
+      "tags": []
+    },
+    {
+      "id": "countr-015",
+      "q": "The name of Bulgaria&#x27;s parliament is:",
+      "options": [
+        "National Assembly",
+        "Sobor",
+        "Cortes",
+        "Sansad"
+      ],
+      "correct": 0,
+      "explanation": "Bulgaria has a unicameral National Assembly (Narodno Sobranie) — 240 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-016",
+      "q": "The name of Chile&#x27;s parliament is:",
+      "options": [
+        "National Congress",
+        "Cortes",
+        "Sansad",
+        "Diet"
+      ],
+      "correct": 0,
+      "explanation": "Chile&#x27;s bicameral parliament is the National Congress — Chamber of Deputies + Senate.",
+      "tags": []
+    },
+    {
+      "id": "countr-017",
+      "q": "The name of the Chinese parliament is:",
+      "options": [
+        "State Council",
+        "National People's Congress",
+        "Politburo",
+        "Federal Assembly"
+      ],
+      "correct": 1,
+      "explanation": "The People&#x27;s Republic of China&#x27;s unicameral parliament is the National People&#x27;s Congress (NPC) — nearly 3,000 deputies, the world&#x27;s largest legislature.",
+      "tags": []
+    },
+    {
+      "id": "countr-018",
+      "q": "The name of Croatia&#x27;s parliament is:",
+      "options": [
+        "Sabor",
+        "Croatian Parliament",
+        "Skupština",
+        "Sobor"
+      ],
+      "correct": 1,
+      "explanation": "Croatia&#x27;s unicameral parliament is the Croatian Parliament (Hrvatski Sabor) — 151 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-019",
+      "q": "The name of Cuba&#x27;s parliament is:",
+      "options": [
+        "National Assembly of People's Power",
+        "Politburo",
+        "Cortes",
+        "Congress"
+      ],
+      "correct": 0,
+      "explanation": "Cuba&#x27;s unicameral parliament is the National Assembly of People&#x27;s Power — the supreme organ of state.",
+      "tags": []
+    },
+    {
+      "id": "countr-020",
+      "q": "The name of Cyprus&#x27;s parliament is:",
+      "options": [
+        "House of Representatives",
+        "Senate",
+        "Cortes",
+        "Vouli"
+      ],
+      "correct": 0,
+      "explanation": "Cyprus has a unicameral House of Representatives (Vouli Antiprosopon) — 56 active seats.",
+      "tags": []
+    },
+    {
+      "id": "countr-021",
+      "q": "The name of Czech Republic&#x27;s parliament is:",
+      "options": [
+        "Parliament",
+        "Sejm",
+        "Cortes",
+        "Riksdag"
+      ],
+      "correct": 0,
+      "explanation": "Czech Republic&#x27;s bicameral legislature is the Parliament of the Czech Republic — Chamber of Deputies + Senate.",
+      "tags": []
+    },
+    {
+      "id": "countr-022",
+      "q": "The name of Denmark&#x27;s parliament is:",
+      "options": [
+        "Riksdagen",
+        "Folketinget",
+        "Storting",
+        "Eduskunta"
+      ],
+      "correct": 1,
+      "explanation": "Denmark has a unicameral parliament called Folketinget — 179 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-023",
+      "q": "The name of El Salvador&#x27;s parliament is:",
+      "options": [
+        "Legislative Assembly",
+        "Cortes",
+        "Congress",
+        "Senate"
+      ],
+      "correct": 0,
+      "explanation": "El Salvador&#x27;s unicameral parliament is the Legislative Assembly (Asamblea Legislativa) — 60 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-024",
+      "q": "The name of Estonia&#x27;s parliament is:",
+      "options": [
+        "Saeima",
+        "Riigikogu",
+        "Seimas",
+        "Sejm"
+      ],
+      "correct": 1,
+      "explanation": "Estonia has a unicameral parliament called Riigikogu — 101 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-025",
+      "q": "The name of Equatorial Guinea&#x27;s parliament is:",
+      "options": [
+        "House of Representatives",
+        "National Assembly",
+        "Senate",
+        "Congress"
+      ],
+      "correct": 0,
+      "explanation": "Equatorial Guinea&#x27;s parliament includes the Chamber of Deputies/House of Representatives plus the Senate.",
+      "tags": []
+    },
+    {
+      "id": "countr-026",
+      "q": "The name of Finland&#x27;s parliament is:",
+      "options": [
+        "Eduskunta-Riksdagen",
+        "Folketing",
+        "Storting",
+        "Sansad"
+      ],
+      "correct": 0,
+      "explanation": "Finland&#x27;s unicameral parliament is the Eduskunta (Finnish) / Riksdagen (Swedish) — 200 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-027",
+      "q": "The name of Georgia&#x27;s parliament is:",
+      "options": [
+        "Parliament",
+        "Sobor",
+        "Cortes",
+        "Riksdag"
+      ],
+      "correct": 0,
+      "explanation": "Georgia (the country) has a unicameral Parliament of Georgia (Sakartvelos Parlamenti) — 150 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-028",
+      "q": "The name of Greece&#x27;s parliament is:",
+      "options": [
+        "Hellenic Parliament",
+        "Sansad",
+        "Cortes",
+        "Folketing"
+      ],
+      "correct": 0,
+      "explanation": "Greece has a unicameral Hellenic Parliament (Vouli ton Ellinon) — 300 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-029",
+      "q": "The name of Hungary&#x27;s parliament is:",
+      "options": [
+        "National Assembly",
+        "Sejm",
+        "Skupština",
+        "Riksdag"
+      ],
+      "correct": 0,
+      "explanation": "Hungary has a unicameral National Assembly (Országgyűlés) since 2014 — 199 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-030",
+      "q": "The name of Iceland&#x27;s parliament is:",
+      "options": [
+        "Storting",
+        "Folketing",
+        "Althingi",
+        "Riksdag"
+      ],
+      "correct": 2,
+      "explanation": "Iceland&#x27;s parliament is the Althingi — founded in 930 AD, the world&#x27;s oldest functioning parliament.",
+      "tags": []
+    },
+    {
+      "id": "countr-031",
+      "q": "The name of India&#x27;s parliament is:",
+      "options": [
+        "Sansad",
+        "Lok Sabha",
+        "Cortes",
+        "Diet"
+      ],
+      "correct": 0,
+      "explanation": "India&#x27;s bicameral parliament is the Sansad — Lok Sabha (lower) + Rajya Sabha (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-032",
+      "q": "The name of Indonesia&#x27;s parliament is:",
+      "options": [
+        "House of Representatives",
+        "Cortes",
+        "Sejm",
+        "Knesset"
+      ],
+      "correct": 0,
+      "explanation": "Indonesia&#x27;s parliament includes the House of Representatives (DPR) within the broader People&#x27;s Consultative Assembly (MPR).",
+      "tags": []
+    },
+    {
+      "id": "countr-033",
+      "q": "The name of Iran&#x27;s parliament is:",
+      "options": [
+        "Knesset",
+        "Majles Shoraye Eslami",
+        "Majlis-e-Shoora",
+        "Cortes"
+      ],
+      "correct": 1,
+      "explanation": "Iran&#x27;s unicameral parliament is the Majles Shoraye Eslami (Islamic Consultative Assembly) — 290 seats.",
+      "tags": []
+    },
+    {
+      "id": "countr-034",
+      "q": "The name of Ireland&#x27;s parliament is:",
+      "options": [
+        "Oireachtas",
+        "Cortes",
+        "Sejm",
+        "Storting"
+      ],
+      "correct": 0,
+      "explanation": "Ireland&#x27;s bicameral parliament is the Oireachtas — Dáil Éireann (lower) + Seanad Éireann (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-035",
+      "q": "The name of Israel&#x27;s parliament is:",
+      "options": [
+        "Knesset",
+        "Majlis",
+        "Diet",
+        "Cortes"
+      ],
+      "correct": 0,
+      "explanation": "Israel&#x27;s unicameral parliament is the Knesset — 120 members, based in Jerusalem.",
+      "tags": []
+    },
+    {
+      "id": "countr-036",
+      "q": "The name of Italy&#x27;s parliament is:",
+      "options": [
+        "Cortes",
+        "Parliament",
+        "Diet",
+        "Sansad"
+      ],
+      "correct": 1,
+      "explanation": "Italy&#x27;s bicameral legislature is the Parliament of the Italian Republic — Chamber of Deputies + Senate.",
+      "tags": []
+    },
+    {
+      "id": "countr-037",
+      "q": "The name of the Japanese parliament is:",
+      "options": [
+        "National Diet",
+        "Cortes",
+        "Folketing",
+        "Sansad"
+      ],
+      "correct": 0,
+      "explanation": "Japan&#x27;s bicameral legislature is the National Diet (Kokkai) — House of Representatives + House of Councillors.",
+      "tags": []
+    },
+    {
+      "id": "countr-038",
+      "q": "The name of Kuwait&#x27;s parliament is:",
+      "options": [
+        "Knesset",
+        "Majles Al-Ommah",
+        "Cortes",
+        "Sejm"
+      ],
+      "correct": 1,
+      "explanation": "Kuwait&#x27;s unicameral parliament is the Majles Al-Ommah (National Assembly) — 50 elected members.",
+      "tags": []
+    },
+    {
+      "id": "countr-039",
+      "q": "The name of Lebanon&#x27;s parliament is:",
+      "options": [
+        "Majlis al-Nuwwab",
+        "Knesset",
+        "Cortes",
+        "Sejm"
+      ],
+      "correct": 0,
+      "explanation": "Lebanon&#x27;s unicameral parliament is the Majlis al-Nuwwab — 128 seats split equally between Christians and Muslims.",
+      "tags": []
+    },
+    {
+      "id": "countr-040",
+      "q": "The name of Libya&#x27;s parliament is:",
+      "options": [
+        "House of Representatives",
+        "Knesset",
+        "Cortes",
+        "Sejm"
+      ],
+      "correct": 0,
+      "explanation": "Libya&#x27;s parliament is the House of Representatives, which replaced the General National Congress in 2014.",
+      "tags": []
+    },
+    {
+      "id": "countr-041",
+      "q": "The name of Lithuania&#x27;s parliament is:",
+      "options": [
+        "Riigikogu",
+        "Saeima",
+        "Seimas",
+        "Sejm"
+      ],
+      "correct": 2,
+      "explanation": "Lithuania&#x27;s unicameral parliament is the Seimas — 141 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-042",
+      "q": "The name of Luxembourg&#x27;s parliament is:",
+      "options": [
+        "Cortes",
+        "Chamber of Deputies",
+        "Storting",
+        "Eduskunta"
+      ],
+      "correct": 1,
+      "explanation": "Luxembourg&#x27;s unicameral parliament is the Chamber of Deputies (Chambre des Députés) — 60 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-043",
+      "q": "The name of Myanmar&#x27;s parliament is:",
+      "options": [
+        "Assembly of the Union",
+        "Pyithu Hluttaw",
+        "Cortes",
+        "Sejm"
+      ],
+      "correct": 0,
+      "explanation": "Myanmar&#x27;s bicameral legislature is the Assembly of the Union (Pyidaungsu Hluttaw) — House of Representatives (Pyithu Hluttaw) + House of Nationalities.",
+      "tags": []
+    },
+    {
+      "id": "countr-044",
+      "q": "The name of Malaysia&#x27;s parliament is:",
+      "options": [
+        "Parlimen",
+        "Diet",
+        "Cortes",
+        "Majlis"
+      ],
+      "correct": 0,
+      "explanation": "Malaysia&#x27;s bicameral parliament is the Parlimen — Dewan Rakyat (lower) + Dewan Negara (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-045",
+      "q": "The name of Maldives&#x27;s parliament is:",
+      "options": [
+        "People's Majlis",
+        "Knesset",
+        "Cortes",
+        "Sansad"
+      ],
+      "correct": 0,
+      "explanation": "Maldives has a unicameral People&#x27;s Majlis (Majlis of the Maldives) — 87 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-046",
+      "q": "The name of Malta&#x27;s parliament is:",
+      "options": [
+        "House of Representatives",
+        "Cortes",
+        "Senate",
+        "Diet"
+      ],
+      "correct": 0,
+      "explanation": "Malta has a unicameral House of Representatives — 79 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-047",
+      "q": "The name of Mexico&#x27;s parliament is:",
+      "options": [
+        "Cortes",
+        "Congress of the Union",
+        "Senate",
+        "Sansad"
+      ],
+      "correct": 1,
+      "explanation": "Mexico&#x27;s bicameral parliament is the Congress of the Union — Chamber of Deputies + Senate.",
+      "tags": []
+    },
+    {
+      "id": "countr-048",
+      "q": "The name of Mongolia&#x27;s parliament is:",
+      "options": [
+        "Ulsiin Ih Hural",
+        "Diet",
+        "Folketing",
+        "Cortes"
+      ],
+      "correct": 0,
+      "explanation": "Mongolia&#x27;s unicameral parliament is the Ulsiin Ih Hural (State Great Khural) — 76 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-049",
+      "q": "The name of Netherlands&#x27;s parliament is:",
+      "options": [
+        "Cortes",
+        "Staten-Generaal",
+        "Folketing",
+        "Sansad"
+      ],
+      "correct": 1,
+      "explanation": "The Netherlands&#x27;s bicameral parliament is the Staten-Generaal (States General) — House of Representatives + Senate.",
+      "tags": []
+    },
+    {
+      "id": "countr-050",
+      "q": "The name of New Zealand&#x27;s parliament is:",
+      "options": [
+        "House of Representatives",
+        "Senate",
+        "Cortes",
+        "Diet"
+      ],
+      "correct": 0,
+      "explanation": "New Zealand has a unicameral House of Representatives — 120 members. The Legislative Council was abolished in 1951.",
+      "tags": []
+    },
+    {
+      "id": "countr-051",
+      "q": "The name of North Korea&#x27;s parliament is:",
+      "options": [
+        "Supreme People's Assembly",
+        "National Assembly",
+        "Cortes",
+        "Politburo"
+      ],
+      "correct": 0,
+      "explanation": "North Korea&#x27;s unicameral parliament is the Supreme People&#x27;s Assembly — 687 members elected unopposed.",
+      "tags": []
+    },
+    {
+      "id": "countr-052",
+      "q": "The name of Norway&#x27;s parliament is:",
+      "options": [
+        "Folketing",
+        "Riksdag",
+        "Stortinget",
+        "Eduskunta"
+      ],
+      "correct": 2,
+      "explanation": "Norway has a unicameral Stortinget — 169 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-053",
+      "q": "The name of Pakistan&#x27;s parliament is:",
+      "options": [
+        "Sansad",
+        "Majlis-e-Shoora",
+        "Knesset",
+        "Cortes"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan&#x27;s bicameral parliament is the Majlis-e-Shoora — National Assembly (lower) + Senate (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-054",
+      "q": "The name of the Philippines&#x27;s parliament is:",
+      "options": [
+        "Congress",
+        "Cortes",
+        "Folketing",
+        "Diet"
+      ],
+      "correct": 0,
+      "explanation": "The Philippines&#x27;s bicameral legislature is the Congress of the Philippines — House of Representatives + Senate.",
+      "tags": []
+    },
+    {
+      "id": "countr-055",
+      "q": "The name of Portugal&#x27;s parliament is:",
+      "options": [
+        "Cortes",
+        "Assembly of the Republic",
+        "Senate",
+        "Diet"
+      ],
+      "correct": 1,
+      "explanation": "Portugal has a unicameral Assembly of the Republic (Assembleia da República) — 230 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-056",
+      "q": "The name of Qatar&#x27;s parliament is:",
+      "options": [
+        "Knesset",
+        "Majlis Al-Shura",
+        "Cortes",
+        "Diet"
+      ],
+      "correct": 1,
+      "explanation": "Qatar&#x27;s parliament is the Majlis Al-Shura (Consultative Assembly) — partially elected since 2021.",
+      "tags": []
+    },
+    {
+      "id": "countr-057",
+      "q": "The name of South Sudan&#x27;s parliament is:",
+      "options": [
+        "National Legislature",
+        "National Assembly",
+        "Cortes",
+        "Congress"
+      ],
+      "correct": 0,
+      "explanation": "South Sudan&#x27;s bicameral parliament is the National Legislature — National Legislative Assembly + Council of States.",
+      "tags": []
+    },
+    {
+      "id": "countr-058",
+      "q": "The name of Russia&#x27;s parliament is:",
+      "options": [
+        "State Duma",
+        "Federal Assembly",
+        "Cortes",
+        "Sobor"
+      ],
+      "correct": 1,
+      "explanation": "Russia&#x27;s bicameral parliament is the Federal Assembly — State Duma (lower) + Federation Council (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-059",
+      "q": "The name of South Korea&#x27;s parliament is:",
+      "options": [
+        "National Diet",
+        "National Assembly",
+        "Cortes",
+        "Politburo"
+      ],
+      "correct": 1,
+      "explanation": "South Korea has a unicameral National Assembly (Gukhoe) — 300 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-060",
+      "q": "The name of Spain&#x27;s parliament is:",
+      "options": [
+        "Sansad",
+        "The Cortes",
+        "Folketing",
+        "Storting"
+      ],
+      "correct": 1,
+      "explanation": "Spain&#x27;s bicameral parliament is the Cortes Generales — Congress of Deputies + Senate.",
+      "tags": []
+    },
+    {
+      "id": "countr-061",
+      "q": "The name of Sweden&#x27;s parliament is:",
+      "options": [
+        "Folketing",
+        "Riksdagen",
+        "Storting",
+        "Eduskunta"
+      ],
+      "correct": 1,
+      "explanation": "Sweden has a unicameral Riksdagen — 349 members since 1971.",
+      "tags": []
+    },
+    {
+      "id": "countr-062",
+      "q": "The name of Switzerland&#x27;s parliament is:",
+      "options": [
+        "Federal Assembly",
+        "Bundestag",
+        "Cortes",
+        "Diet"
+      ],
+      "correct": 0,
+      "explanation": "Switzerland&#x27;s bicameral parliament is the Federal Assembly — National Council (lower) + Council of States (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-063",
+      "q": "The name of Syria&#x27;s parliament is:",
+      "options": [
+        "Majlis al-Sha'ab",
+        "Knesset",
+        "Cortes",
+        "Sejm"
+      ],
+      "correct": 0,
+      "explanation": "Syria&#x27;s unicameral parliament is the Majlis al-Sha&#x27;ab (People&#x27;s Assembly) — 250 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-064",
+      "q": "The name of Tajikistan&#x27;s parliament is:",
+      "options": [
+        "Majlisi Oliy",
+        "Milli Mejlis",
+        "Cortes",
+        "Sejm"
+      ],
+      "correct": 0,
+      "explanation": "Tajikistan&#x27;s bicameral parliament is the Majlisi Oliy (Supreme Assembly) — Majlisi Namoyandagon + Majlisi Milli.",
+      "tags": []
+    },
+    {
+      "id": "countr-065",
+      "q": "The name of Tanzania&#x27;s parliament is:",
+      "options": [
+        "Bunge",
+        "Cortes",
+        "Sejm",
+        "Folketing"
+      ],
+      "correct": 0,
+      "explanation": "Tanzania&#x27;s unicameral parliament is the Bunge — 393 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-066",
+      "q": "The name of Thailand&#x27;s parliament is:",
+      "options": [
+        "Diet",
+        "Rathasapha",
+        "Cortes",
+        "Sejm"
+      ],
+      "correct": 1,
+      "explanation": "Thailand&#x27;s bicameral parliament is the Rathasapha (National Assembly) — House of Representatives + Senate.",
+      "tags": []
+    },
+    {
+      "id": "countr-067",
+      "q": "The name of Tonga&#x27;s parliament is:",
+      "options": [
+        "Legislative Assembly",
+        "Cortes",
+        "House of Lords",
+        "Sejm"
+      ],
+      "correct": 0,
+      "explanation": "Tonga has a unicameral Legislative Assembly (Fale Alea) — 30 seats.",
+      "tags": []
+    },
+    {
+      "id": "countr-068",
+      "q": "The name of Türkiye&#x27;s parliament is:",
+      "options": [
+        "Majlis",
+        "Grand National Assembly of Türkiye",
+        "Cortes",
+        "Diet"
+      ],
+      "correct": 1,
+      "explanation": "Türkiye has a unicameral Grand National Assembly (TBMM) — 600 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-069",
+      "q": "The name of Ukraine&#x27;s parliament is:",
+      "options": [
+        "State Duma",
+        "Verkhovna Rada",
+        "Cortes",
+        "Sejm"
+      ],
+      "correct": 1,
+      "explanation": "Ukraine has a unicameral Verkhovna Rada (Supreme Council) — 450 seats.",
+      "tags": []
+    },
+    {
+      "id": "countr-070",
+      "q": "The name of the UK parliament is:",
+      "options": [
+        "Congress",
+        "Parliament",
+        "Cortes",
+        "Sansad"
+      ],
+      "correct": 1,
+      "explanation": "The UK&#x27;s bicameral legislature is simply called the Parliament of the United Kingdom — House of Commons + House of Lords. It is at Westminster.",
+      "tags": []
+    },
+    {
+      "id": "countr-071",
+      "q": "The name of the USA&#x27;s parliament is:",
+      "options": [
+        "Federal Assembly",
+        "Congress",
+        "Cortes",
+        "Senate"
+      ],
+      "correct": 1,
+      "explanation": "The USA&#x27;s bicameral legislature is the Congress — House of Representatives + Senate.",
+      "tags": []
+    },
+    {
+      "id": "countr-072",
+      "q": "The name of Vietnam&#x27;s parliament is:",
+      "options": [
+        "Knesset",
+        "Quoc-Hoi",
+        "Cortes",
+        "Sejm"
+      ],
+      "correct": 1,
+      "explanation": "Vietnam has a unicameral Quoc-Hoi (National Assembly) — about 500 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-073",
+      "q": "The name of Yemen&#x27;s parliament is:",
+      "options": [
+        "Knesset",
+        "Majlis",
+        "Cortes",
+        "Sejm"
+      ],
+      "correct": 1,
+      "explanation": "Yemen&#x27;s bicameral parliament is the Majlis — House of Representatives + Shura Council.",
+      "tags": []
+    },
+    {
+      "id": "countr-074",
+      "q": "The name of Zambia&#x27;s parliament is:",
+      "options": [
+        "Cortes",
+        "National Assembly",
+        "Bunge",
+        "Sejm"
+      ],
+      "correct": 1,
+      "explanation": "Zambia has a unicameral National Assembly — 167 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-075",
+      "q": "The name of Zimbabwe&#x27;s parliament is:",
+      "options": [
+        "Congress",
+        "Parliament",
+        "Cortes",
+        "Sejm"
+      ],
+      "correct": 1,
+      "explanation": "Zimbabwe&#x27;s bicameral parliament is simply called the Parliament — National Assembly + Senate.",
+      "tags": []
+    },
+    {
+      "id": "countr-076",
+      "q": "Parliament is the supreme legislative body of a country where elected representatives:",
+      "options": [
+        "Levy taxes only",
+        "Make laws",
+        "Run elections",
+        "Conduct trials"
+      ],
+      "correct": 1,
+      "explanation": "A parliament is the supreme legislative body where elected representatives debate and pass laws on behalf of the people.",
+      "tags": []
+    },
+    {
+      "id": "countr-077",
+      "q": "Which is the world&#x27;s oldest parliament (930 AD)?",
+      "options": [
+        "Westminster (UK)",
+        "Cortes (Spain)",
+        "Althing (Iceland)",
+        "Tynwald (Isle of Man)"
+      ],
+      "correct": 2,
+      "explanation": "The Althing of Iceland was established in 930 AD at Þingvellir — the world&#x27;s oldest still-functioning parliament.",
+      "tags": []
+    },
+    {
+      "id": "countr-078",
+      "q": "What is the lower chamber of Afghanistan&#x27;s parliament called?",
+      "options": [
+        "Meshrano Jirga",
+        "Wolesi Jirga",
+        "Loya Jirga",
+        "Majlis"
+      ],
+      "correct": 1,
+      "explanation": "Afghanistan&#x27;s lower chamber is the Wolesi Jirga (House of the People) — 250 seats. The upper house is Meshrano Jirga.",
+      "tags": []
+    },
+    {
+      "id": "countr-079",
+      "q": "Kuvendi is the unicameral parliament of which country?",
+      "options": [
+        "Albania",
+        "Bulgaria",
+        "Romania",
+        "Serbia"
+      ],
+      "correct": 0,
+      "explanation": "Kuvendi (full name Kuvendi-i-Shqiperise) is the unicameral parliament of Albania — 140 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-080",
+      "q": "People&#x27;s National Assembly is the lower house of which country?",
+      "options": [
+        "Tunisia",
+        "Algeria",
+        "Morocco",
+        "Egypt"
+      ],
+      "correct": 1,
+      "explanation": "The People&#x27;s National Assembly is the lower house of Algeria; the Council of the Nation is the upper.",
+      "tags": []
+    },
+    {
+      "id": "countr-081",
+      "q": "What type of legislature does Angola have?",
+      "options": [
+        "Bicameral",
+        "Unicameral",
+        "Tricameral",
+        "Appointed only"
+      ],
+      "correct": 1,
+      "explanation": "Angola has a unicameral National Assembly — 220 members elected for 5 years.",
+      "tags": []
+    },
+    {
+      "id": "countr-082",
+      "q": "National Assembly is the unicameral parliament of which Caucasus country?",
+      "options": [
+        "Georgia",
+        "Azerbaijan",
+        "Armenia",
+        "Türkiye"
+      ],
+      "correct": 2,
+      "explanation": "Armenia has a unicameral National Assembly (Azgayin Zhoghov) — 107 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-083",
+      "q": "What are the two houses of the Australian Parliament?",
+      "options": [
+        "House of Reps & Senate",
+        "Council & Diet",
+        "Lok Sabha & Rajya Sabha",
+        "Commons & Lords"
+      ],
+      "correct": 0,
+      "explanation": "Australia&#x27;s Parliament has two houses — the House of Representatives (lower) and the Senate (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-084",
+      "q": "Milli Majlis is the unicameral parliament of:",
+      "options": [
+        "Türkiye",
+        "Azerbaijan",
+        "Iran",
+        "Tajikistan"
+      ],
+      "correct": 1,
+      "explanation": "Milli Majlis (National Assembly) is the unicameral parliament of Azerbaijan — 125 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-085",
+      "q": "Bahrain&#x27;s National Assembly consists of the Consultative Council and:",
+      "options": [
+        "Council of Representatives",
+        "Senate",
+        "Federal Council",
+        "Shura Council"
+      ],
+      "correct": 0,
+      "explanation": "Bahrain&#x27;s National Assembly is bicameral — Consultative Council (appointed) + Council of Representatives (elected).",
+      "tags": []
+    },
+    {
+      "id": "countr-086",
+      "q": "Jatiya Sangsad is the parliament of:",
+      "options": [
+        "Bhutan",
+        "Bangladesh",
+        "Sri Lanka",
+        "Nepal"
+      ],
+      "correct": 1,
+      "explanation": "Jatiya Sangsad (&#x27;House of the Nation&#x27;) is the unicameral parliament of Bangladesh — 350 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-087",
+      "q": "Belarus has a bicameral parliament consisting of the House of Representatives and:",
+      "options": [
+        "Senate",
+        "Council of the Republic",
+        "Federal Council",
+        "Sobor"
+      ],
+      "correct": 1,
+      "explanation": "Belarus&#x27;s bicameral parliament is the National Assembly — House of Representatives + Council of the Republic.",
+      "tags": []
+    },
+    {
+      "id": "countr-088",
+      "q": "The Federal Senate is the upper house of which country?",
+      "options": [
+        "Argentina",
+        "Brazil",
+        "Mexico",
+        "Russia"
+      ],
+      "correct": 1,
+      "explanation": "Brazil&#x27;s bicameral National Congress includes the Chamber of Deputies (lower) and the Federal Senate (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-089",
+      "q": "Tshogdu was the earlier unicameral parliament of:",
+      "options": [
+        "Nepal",
+        "Bhutan",
+        "Tibet",
+        "Maldives"
+      ],
+      "correct": 1,
+      "explanation": "Bhutan&#x27;s unicameral Tshogdu was replaced in 2008 by the bicameral Parliament — National Assembly + National Council.",
+      "tags": []
+    },
+    {
+      "id": "countr-090",
+      "q": "Bolivia&#x27;s National Congress consists of the Chamber of Senators and:",
+      "options": [
+        "Chamber of Deputies",
+        "Senate",
+        "Federal Council",
+        "Diet"
+      ],
+      "correct": 0,
+      "explanation": "Bolivia&#x27;s bicameral Plurinational Legislative Assembly = Chamber of Senators + Chamber of Deputies.",
+      "tags": []
+    },
+    {
+      "id": "countr-091",
+      "q": "Chile&#x27;s National Congress is bicameral with a Senate and:",
+      "options": [
+        "Chamber of Deputies",
+        "Folketing",
+        "Diet",
+        "Cortes"
+      ],
+      "correct": 0,
+      "explanation": "Chile&#x27;s National Congress has 50 Senators and 155 Members of the Chamber of Deputies.",
+      "tags": []
+    },
+    {
+      "id": "countr-092",
+      "q": "Which is the world&#x27;s largest legislature?",
+      "options": [
+        "UK Parliament",
+        "National People's Congress (China)",
+        "US Congress",
+        "European Parliament"
+      ],
+      "correct": 1,
+      "explanation": "China&#x27;s National People&#x27;s Congress (NPC) — nearly 3,000 deputies — is the world&#x27;s largest legislature by membership.",
+      "tags": []
+    },
+    {
+      "id": "countr-093",
+      "q": "Argentina&#x27;s lower house is called:",
+      "options": [
+        "Senate",
+        "Chamber of Deputies",
+        "Cortes",
+        "Diet"
+      ],
+      "correct": 1,
+      "explanation": "Argentina&#x27;s bicameral National Congress = Senate (upper) + Chamber of Deputies (lower).",
+      "tags": []
+    },
+    {
+      "id": "countr-094",
+      "q": "National Assembly of People&#x27;s Power is the supreme organ of state power in:",
+      "options": [
+        "China",
+        "Cuba",
+        "North Korea",
+        "Vietnam"
+      ],
+      "correct": 1,
+      "explanation": "Cuba&#x27;s National Assembly of People&#x27;s Power is the supreme organ of state power — 470 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-095",
+      "q": "The Legislative Council is the unicameral body of:",
+      "options": [
+        "Bahrain",
+        "Brunei",
+        "Bhutan",
+        "Bahamas"
+      ],
+      "correct": 1,
+      "explanation": "Brunei has a unicameral Legislative Council (Majlis Mesyuarat Negara) — 33 appointed members.",
+      "tags": []
+    },
+    {
+      "id": "countr-096",
+      "q": "Cambodia&#x27;s parliament consists of the National Assembly and:",
+      "options": [
+        "Senate",
+        "House of Lords",
+        "Council",
+        "Folketing"
+      ],
+      "correct": 0,
+      "explanation": "Cambodia&#x27;s bicameral parliament = National Assembly (lower) + Senate (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-097",
+      "q": "Folketing is the unicameral parliament of:",
+      "options": [
+        "Norway",
+        "Sweden",
+        "Denmark",
+        "Finland"
+      ],
+      "correct": 2,
+      "explanation": "Folketinget (often shortened to Folketing) is the unicameral parliament of Denmark — 179 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-098",
+      "q": "Riigikogu is the unicameral legislature of:",
+      "options": [
+        "Latvia",
+        "Lithuania",
+        "Estonia",
+        "Finland"
+      ],
+      "correct": 2,
+      "explanation": "Riigikogu is the unicameral parliament of Estonia — 101 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-099",
+      "q": "Eduskunta is the parliament of:",
+      "options": [
+        "Sweden",
+        "Denmark",
+        "Finland",
+        "Iceland"
+      ],
+      "correct": 2,
+      "explanation": "Eduskunta (Finnish) / Riksdagen (Swedish) is the unicameral parliament of Finland — 200 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-100",
+      "q": "France&#x27;s parliament consists of the National Assembly and:",
+      "options": [
+        "Senate",
+        "Cortes",
+        "Folketing",
+        "Diet"
+      ],
+      "correct": 0,
+      "explanation": "France has a bicameral parliament — National Assembly (lower) + Senate (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-101",
+      "q": "Bundestag is the lower house of:",
+      "options": [
+        "Austria",
+        "Switzerland",
+        "Germany",
+        "Netherlands"
+      ],
+      "correct": 2,
+      "explanation": "The Bundestag is the lower house of Germany&#x27;s bicameral parliament. The Bundesrat (Federal Council) is the upper house.",
+      "tags": []
+    },
+    {
+      "id": "countr-102",
+      "q": "Vouli ton Ellinon is the parliament of:",
+      "options": [
+        "Cyprus",
+        "Greece",
+        "Bulgaria",
+        "Albania"
+      ],
+      "correct": 1,
+      "explanation": "Vouli ton Ellinon (Hellenic Parliament) is the unicameral parliament of Greece — 300 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-103",
+      "q": "Hungary&#x27;s National Assembly has been unicameral since:",
+      "options": [
+        "1989",
+        "2010",
+        "2012",
+        "2014"
+      ],
+      "correct": 3,
+      "explanation": "Hungary&#x27;s National Assembly has been unicameral since 2014 — 199 members under the 2011 constitution.",
+      "tags": []
+    },
+    {
+      "id": "countr-104",
+      "q": "The Japanese Diet consists of the House of Representatives and House of:",
+      "options": [
+        "Councillors",
+        "Lords",
+        "Senators",
+        "Deputies"
+      ],
+      "correct": 0,
+      "explanation": "Japan&#x27;s bicameral National Diet = House of Representatives + House of Councillors.",
+      "tags": []
+    },
+    {
+      "id": "countr-105",
+      "q": "Majlis is the parliament of:",
+      "options": [
+        "Iraq",
+        "Iran",
+        "Türkiye",
+        "Jordan"
+      ],
+      "correct": 1,
+      "explanation": "Iran&#x27;s unicameral parliament is the Majles Shoraye Eslami — often called simply &#x27;Majlis&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "countr-106",
+      "q": "Oireachtas consists of Dáil Éireann and:",
+      "options": [
+        "Seanad Éireann",
+        "Senate",
+        "House of Lords",
+        "Knesset"
+      ],
+      "correct": 0,
+      "explanation": "Ireland&#x27;s Oireachtas = Dáil Éireann (lower) + Seanad Éireann (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-107",
+      "q": "Knesset is the unicameral parliament of:",
+      "options": [
+        "Iran",
+        "Israel",
+        "Iraq",
+        "Jordan"
+      ],
+      "correct": 1,
+      "explanation": "The Knesset is Israel&#x27;s unicameral 120-member parliament in Jerusalem.",
+      "tags": []
+    },
+    {
+      "id": "countr-108",
+      "q": "Lok Sabha is which house of the Indian Parliament?",
+      "options": [
+        "Upper",
+        "Lower",
+        "Joint",
+        "Advisory"
+      ],
+      "correct": 1,
+      "explanation": "Lok Sabha (&#x27;House of the People&#x27;) is the lower house of India&#x27;s bicameral Sansad. Rajya Sabha is the upper house.",
+      "tags": []
+    },
+    {
+      "id": "countr-109",
+      "q": "Jordan&#x27;s National Assembly consists of the House of Representatives and:",
+      "options": [
+        "Council",
+        "Senate",
+        "Diet",
+        "Sobor"
+      ],
+      "correct": 1,
+      "explanation": "Jordan&#x27;s National Assembly is bicameral — House of Representatives (elected) + Senate (appointed by the King).",
+      "tags": []
+    },
+    {
+      "id": "countr-110",
+      "q": "Kazakhstan&#x27;s parliament consists of the Senate and:",
+      "options": [
+        "Mazhilis",
+        "Majles",
+        "Mejlis",
+        "Folketing"
+      ],
+      "correct": 0,
+      "explanation": "Kazakhstan&#x27;s bicameral parliament = Senate (upper) + Mazhilis (lower).",
+      "tags": []
+    },
+    {
+      "id": "countr-111",
+      "q": "Kenya&#x27;s parliament consists of the National Assembly and:",
+      "options": [
+        "Senate",
+        "Council",
+        "Bunge",
+        "Diet"
+      ],
+      "correct": 0,
+      "explanation": "Kenya&#x27;s bicameral parliament = National Assembly (lower) + Senate (upper). Collectively also called the Bunge.",
+      "tags": []
+    },
+    {
+      "id": "countr-112",
+      "q": "Laos has a ___ parliament.",
+      "options": [
+        "Bicameral",
+        "Unicameral",
+        "Tricameral",
+        "Appointed only"
+      ],
+      "correct": 1,
+      "explanation": "Laos has a unicameral National Assembly — the country&#x27;s supreme legislative body.",
+      "tags": []
+    },
+    {
+      "id": "countr-113",
+      "q": "Saeima is the parliament of:",
+      "options": [
+        "Lithuania",
+        "Latvia",
+        "Estonia",
+        "Finland"
+      ],
+      "correct": 1,
+      "explanation": "Saeima is the unicameral parliament of Latvia — 100 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-114",
+      "q": "Libya&#x27;s House of Representatives replaced the:",
+      "options": [
+        "Revolutionary Command Council",
+        "High Council of State",
+        "General National Congress",
+        "Loya Jirga"
+      ],
+      "correct": 2,
+      "explanation": "Libya&#x27;s House of Representatives, elected in 2014, replaced the General National Congress (GNC).",
+      "tags": []
+    },
+    {
+      "id": "countr-115",
+      "q": "Seimas is the parliament of:",
+      "options": [
+        "Latvia",
+        "Estonia",
+        "Lithuania",
+        "Poland"
+      ],
+      "correct": 2,
+      "explanation": "Seimas is the unicameral parliament of Lithuania — 141 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-116",
+      "q": "Chamber of Deputies is the unicameral parliament of:",
+      "options": [
+        "Malta",
+        "Luxembourg",
+        "Cyprus",
+        "Andorra"
+      ],
+      "correct": 1,
+      "explanation": "Luxembourg has a unicameral Chamber of Deputies (Chambre des Députés) — 60 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-117",
+      "q": "Dewan Rakyat is the lower house of:",
+      "options": [
+        "Indonesia",
+        "Malaysia",
+        "Singapore",
+        "Brunei"
+      ],
+      "correct": 1,
+      "explanation": "Malaysia&#x27;s bicameral Parlimen = Dewan Rakyat (lower, elected) + Dewan Negara (upper, appointed).",
+      "tags": []
+    },
+    {
+      "id": "countr-118",
+      "q": "People&#x27;s Majlis is the parliament of:",
+      "options": [
+        "Maldives",
+        "Bahrain",
+        "Kuwait",
+        "Qatar"
+      ],
+      "correct": 0,
+      "explanation": "People&#x27;s Majlis is the unicameral parliament of the Maldives — 87 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-119",
+      "q": "State Great Khural is the parliament of:",
+      "options": [
+        "Tajikistan",
+        "Mongolia",
+        "Kyrgyzstan",
+        "Turkmenistan"
+      ],
+      "correct": 1,
+      "explanation": "Ulsiin Ih Hural (State Great Khural) is Mongolia&#x27;s unicameral parliament — 76 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-120",
+      "q": "Congress of the Union is the parliament of:",
+      "options": [
+        "Argentina",
+        "Brazil",
+        "Mexico",
+        "Colombia"
+      ],
+      "correct": 2,
+      "explanation": "Mexico&#x27;s bicameral parliament is the Congress of the Union — Chamber of Deputies + Senate.",
+      "tags": []
+    },
+    {
+      "id": "countr-121",
+      "q": "Skupština is the parliament of:",
+      "options": [
+        "Serbia",
+        "Montenegro",
+        "Slovenia",
+        "Macedonia"
+      ],
+      "correct": 1,
+      "explanation": "Skupština is the parliament of Montenegro (and historically used in Serbia/Yugoslavia).",
+      "tags": []
+    },
+    {
+      "id": "countr-122",
+      "q": "Pyithu Hluttaw is the lower house of:",
+      "options": [
+        "Thailand",
+        "Vietnam",
+        "Myanmar",
+        "Laos"
+      ],
+      "correct": 2,
+      "explanation": "Myanmar&#x27;s Assembly of the Union (Pyidaungsu Hluttaw) consists of the Pyithu Hluttaw (lower) and Amyotha Hluttaw (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-123",
+      "q": "Storting is the parliament of:",
+      "options": [
+        "Sweden",
+        "Denmark",
+        "Norway",
+        "Iceland"
+      ],
+      "correct": 2,
+      "explanation": "Stortinget is the unicameral parliament of Norway — 169 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-124",
+      "q": "Majlis-e-Shoora consists of the National Assembly and:",
+      "options": [
+        "Senate",
+        "Council",
+        "Cortes",
+        "Diet"
+      ],
+      "correct": 0,
+      "explanation": "Pakistan&#x27;s Majlis-e-Shoora (Parliament) is bicameral — National Assembly (lower) + Senate (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-125",
+      "q": "Paraguay&#x27;s Congress consists of the Chamber of Deputies and:",
+      "options": [
+        "House of Lords",
+        "Senate",
+        "Diet",
+        "Folketing"
+      ],
+      "correct": 1,
+      "explanation": "Paraguay&#x27;s bicameral Congress = Chamber of Deputies (lower) + Senate (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-126",
+      "q": "Sejm is the lower house of:",
+      "options": [
+        "Czech Republic",
+        "Slovakia",
+        "Poland",
+        "Lithuania"
+      ],
+      "correct": 2,
+      "explanation": "Poland&#x27;s bicameral parliament = Sejm (lower) + Senat (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-127",
+      "q": "State Duma is the lower house of:",
+      "options": [
+        "Belarus",
+        "Ukraine",
+        "Russia",
+        "Kazakhstan"
+      ],
+      "correct": 2,
+      "explanation": "Russia&#x27;s bicameral Federal Assembly = State Duma (lower) + Federation Council (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-128",
+      "q": "Cortes Generales is the parliament of:",
+      "options": [
+        "Portugal",
+        "Spain",
+        "Mexico",
+        "Argentina"
+      ],
+      "correct": 1,
+      "explanation": "Spain&#x27;s bicameral parliament is Cortes Generales — Congress of Deputies + Senate.",
+      "tags": []
+    },
+    {
+      "id": "countr-129",
+      "q": "Riksdag has been unicameral since:",
+      "options": [
+        "1949",
+        "1971",
+        "1995",
+        "2010"
+      ],
+      "correct": 1,
+      "explanation": "Sweden&#x27;s Riksdagen has been unicameral since 1971 — 349 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-130",
+      "q": "Sudan&#x27;s National Legislature is currently:",
+      "options": [
+        "Bicameral",
+        "Unicameral (Transitional)",
+        "Suspended",
+        "Appointed only"
+      ],
+      "correct": 1,
+      "explanation": "Sudan&#x27;s transitional government operates a unicameral Transitional Legislative Council (under the 2019 constitutional declaration).",
+      "tags": []
+    },
+    {
+      "id": "countr-131",
+      "q": "South Africa&#x27;s upper house is called:",
+      "options": [
+        "Senate",
+        "House of Lords",
+        "National Council of Provinces",
+        "Federal Council"
+      ],
+      "correct": 2,
+      "explanation": "South Africa&#x27;s bicameral parliament = National Assembly (lower) + National Council of Provinces (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-132",
+      "q": "Libandla is the parliament of:",
+      "options": [
+        "Lesotho",
+        "Eswatini",
+        "Botswana",
+        "Namibia"
+      ],
+      "correct": 1,
+      "explanation": "Libandla is the bicameral parliament of Eswatini (formerly Swaziland) — House of Assembly + Senate.",
+      "tags": []
+    },
+    {
+      "id": "countr-133",
+      "q": "Narodno Sobranie is the parliament of:",
+      "options": [
+        "Bulgaria",
+        "Serbia",
+        "Macedonia",
+        "Romania"
+      ],
+      "correct": 0,
+      "explanation": "Narodno Sobranie (National Assembly) is the unicameral parliament of Bulgaria — 240 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-134",
+      "q": "Grand National Assembly is the parliament of:",
+      "options": [
+        "Greece",
+        "Türkiye",
+        "Bulgaria",
+        "Romania"
+      ],
+      "correct": 1,
+      "explanation": "The Grand National Assembly of Türkiye (TBMM) is the unicameral parliament of Türkiye — 600 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-135",
+      "q": "Majlis al-Umma is the parliament of:",
+      "options": [
+        "Saudi Arabia",
+        "Kuwait",
+        "Qatar",
+        "Oman"
+      ],
+      "correct": 1,
+      "explanation": "Majlis al-Umma is the unicameral parliament of Kuwait — 50 elected members.",
+      "tags": []
+    },
+    {
+      "id": "countr-136",
+      "q": "Majlis al-Shura in Saudi Arabia is:",
+      "options": [
+        "Fully elected",
+        "Appointed",
+        "Hereditary",
+        "Mixed"
+      ],
+      "correct": 1,
+      "explanation": "Saudi Arabia&#x27;s Majlis al-Shura (Consultative Assembly) is fully appointed by the King — 150 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-137",
+      "q": "Advisory Council of Qatar has:",
+      "options": [
+        "Full legislative powers",
+        "Limited legislative powers",
+        "No powers",
+        "Veto on King"
+      ],
+      "correct": 1,
+      "explanation": "Qatar&#x27;s Majlis Al-Shura has limited legislative powers — partially elected since 2021 but with the Emir holding ultimate authority.",
+      "tags": []
+    },
+    {
+      "id": "countr-138",
+      "q": "Vietnam&#x27;s National Assembly is:",
+      "options": [
+        "Bicameral",
+        "Unicameral",
+        "Tricameral",
+        "Appointed only"
+      ],
+      "correct": 1,
+      "explanation": "Vietnam has a unicameral National Assembly (Quoc-Hoi) — about 500 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-139",
+      "q": "Austria&#x27;s upper house is called:",
+      "options": [
+        "Bundestag",
+        "Bundesrat",
+        "Federal Council",
+        "Nationalrat"
+      ],
+      "correct": 2,
+      "explanation": "Austria&#x27;s bicameral Federal Assembly = Nationalrat (lower) + Bundesrat / Federal Council (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-140",
+      "q": "Which parliament is called the &#x27;Mother of Parliaments&#x27;?",
+      "options": [
+        "UK",
+        "India",
+        "France",
+        "USA"
+      ],
+      "correct": 0,
+      "explanation": "The UK Parliament at Westminster is called the &#x27;Mother of Parliaments&#x27; — its Westminster system has been adopted across the Commonwealth.",
+      "tags": []
+    },
+    {
+      "id": "countr-141",
+      "q": "US Congress consists of the House of Representatives and:",
+      "options": [
+        "Federal Council",
+        "Senate",
+        "House of Lords",
+        "Diet"
+      ],
+      "correct": 1,
+      "explanation": "The US Congress is bicameral — House of Representatives (435 seats) + Senate (100 seats).",
+      "tags": []
+    },
+    {
+      "id": "countr-142",
+      "q": "How many members are in the European Parliament (2024)?",
+      "options": [
+        "705",
+        "720",
+        "751",
+        "785"
+      ],
+      "correct": 1,
+      "explanation": "The European Parliament has 720 MEPs from 27 EU member states after the 2024 elections (up from 705).",
+      "tags": []
+    },
+    {
+      "id": "countr-143",
+      "q": "Verkhovna Rada is the parliament of:",
+      "options": [
+        "Belarus",
+        "Ukraine",
+        "Russia",
+        "Moldova"
+      ],
+      "correct": 1,
+      "explanation": "Verkhovna Rada (Supreme Council) is the unicameral parliament of Ukraine — 450 seats.",
+      "tags": []
+    },
+    {
+      "id": "countr-144",
+      "q": "Slovakia&#x27;s parliament is:",
+      "options": [
+        "Bicameral",
+        "Unicameral",
+        "Tricameral",
+        "Appointed"
+      ],
+      "correct": 1,
+      "explanation": "Slovakia has a unicameral National Council (Národná rada) — 150 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-145",
+      "q": "Switzerland&#x27;s lower house is called:",
+      "options": [
+        "Council of States",
+        "National Council",
+        "Bundestag",
+        "Cortes"
+      ],
+      "correct": 1,
+      "explanation": "Switzerland&#x27;s bicameral Federal Assembly = National Council (lower, 200 seats) + Council of States (upper, 46 seats).",
+      "tags": []
+    },
+    {
+      "id": "countr-146",
+      "q": "Serbia&#x27;s National Assembly is:",
+      "options": [
+        "Bicameral",
+        "Unicameral",
+        "Tricameral",
+        "Suspended"
+      ],
+      "correct": 1,
+      "explanation": "Serbia has a unicameral National Assembly — 250 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-147",
+      "q": "Venezuela&#x27;s National Assembly is:",
+      "options": [
+        "Bicameral",
+        "Unicameral",
+        "Tricameral",
+        "Suspended"
+      ],
+      "correct": 1,
+      "explanation": "Venezuela has a unicameral National Assembly (Asamblea Nacional) — 277 members under the 2020 reform.",
+      "tags": []
+    },
+    {
+      "id": "countr-148",
+      "q": "Zimbabwe&#x27;s parliament consists of the National Assembly and:",
+      "options": [
+        "Senate",
+        "Federal Council",
+        "House of Lords",
+        "Cortes"
+      ],
+      "correct": 0,
+      "explanation": "Zimbabwe&#x27;s bicameral parliament = National Assembly (lower) + Senate (upper).",
+      "tags": []
+    },
+    {
+      "id": "countr-149",
+      "q": "Majlisi Oli is the parliament of:",
+      "options": [
+        "Turkmenistan",
+        "Tajikistan",
+        "Uzbekistan",
+        "Kyrgyzstan"
+      ],
+      "correct": 1,
+      "explanation": "Majlisi Oliy (Supreme Assembly) is the bicameral parliament of Tajikistan.",
+      "tags": []
+    },
+    {
+      "id": "countr-150",
+      "q": "Turkmenistan&#x27;s Majlis has been unicameral since:",
+      "options": [
+        "2008",
+        "2015",
+        "2020",
+        "2023"
+      ],
+      "correct": 3,
+      "explanation": "Turkmenistan abolished its upper Khalk Maslakhaty in 2023, making the Majlis unicameral again.",
+      "tags": []
+    },
+    {
+      "id": "countr-151",
+      "q": "Inatsisartut is the parliament of:",
+      "options": [
+        "Iceland",
+        "Greenland",
+        "Faroe Islands",
+        "Norway"
+      ],
+      "correct": 1,
+      "explanation": "Inatsisartut is the unicameral parliament of Greenland (an autonomous territory of Denmark) — 31 members.",
+      "tags": []
+    },
+    {
+      "id": "countr-152",
+      "q": "Which parliament has the largest membership?",
+      "options": [
+        "UK Parliament",
+        "China's NPC",
+        "European Parliament",
+        "India's Sansad"
+      ],
+      "correct": 1,
+      "explanation": "China&#x27;s National People&#x27;s Congress (NPC) has nearly 3,000 deputies — the largest legislature in the world.",
+      "tags": []
+    },
+    {
+      "id": "countr-153",
+      "q": "Which region has the highest female representation in parliaments?",
+      "options": [
+        "Latin America",
+        "Nordic Parliaments",
+        "South Asia",
+        "Middle East"
+      ],
+      "correct": 1,
+      "explanation": "The Nordic Parliaments (Sweden, Norway, Finland, Iceland, Denmark) consistently lead the world in female representation — often 40%+.",
+      "tags": []
+    },
+    {
+      "id": "countr-154",
+      "q": "What is considered the &#x27;Parliament of the World&#x27;?",
+      "options": [
+        "UN Security Council",
+        "UN General Assembly",
+        "G-20",
+        "WTO"
+      ],
+      "correct": 1,
+      "explanation": "The UN General Assembly, where all 193 UN member states are represented equally, is informally called the &#x27;Parliament of the World&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "countr-155",
+      "q": "Does the UK Parliament have a single written constitution?",
+      "options": [
+        "Yes, since 1215",
+        "Yes, since 1689",
+        "No",
+        "Yes, since 1949"
+      ],
+      "correct": 2,
+      "explanation": "The UK has no single written constitutional document — it is one of very few countries with an uncodified constitution.",
+      "tags": []
+    }
+  ]
+}

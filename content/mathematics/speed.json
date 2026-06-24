@@ -1,0 +1,960 @@
+{
+  "topic_id": "speed",
+  "topic_name": "Speed",
+  "subject": "mathematics",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Speed MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "speed-001",
+      "q": "The distance of points (-6,8) from x-axis is?",
+      "options": [
+        "10",
+        "8",
+        "9",
+        "7"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-002",
+      "q": "An Aeroplan has to cover a journey of 600 km. Its speed was 200 km/h but was reduced due to bad weather, causing a delay of 30 minutes. What was the original time of the journey?",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-003",
+      "q": "A ball is dropped from a height of 75m. After each fall, it rebounds 2/5 of the distance it fell. What total distance does the ball travel before coming to rest?",
+      "options": [
+        "176m",
+        "177m",
+        "175m",
+        "180m"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-004",
+      "q": "Convert 90 km/h into cm/min?",
+      "options": [
+        "150100",
+        "300000",
+        "150000",
+        "149900"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-005",
+      "q": "Acircular wheel has a diameter of 30cm the wheel rolls a distance of 150m. Calculate the number of complete revolutions?",
+      "options": [
+        "149",
+        "159",
+        "209",
+        "169"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-006",
+      "q": "An Aeroplane has to cover a journey of 600 km. Its speed was 200 km/h but was reduced due to bad weather, PREPARATION WI1 causing a delay of 30 minutes. What was the original time of the journey?",
+      "options": [
+        "5",
+        "3",
+        "4",
+        "2"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-007",
+      "q": "A ball is dropped from a height of 75m. After each fall, it rebounds 2/5 of the distance it fell. What distance does the ball travel before coming to rest?",
+      "options": [
+        "225",
+        "185",
+        "175",
+        "165"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-008",
+      "q": "Two poles are in straight position of length 5m and 12m. Distance between the base is 7m. Find the distance from the top?",
+      "options": [
+        "7¥V4 m",
+        "7¥V7 m",
+        "7¥V3 m",
+        "7¥V2 m"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-009",
+      "q": "Acar moves at a speed of 55 km/h. How much distance will it cover in 12 minutes?",
+      "options": [
+        "12 km",
+        "16 km",
+        "13 km",
+        "11 km"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-010",
+      "q": "If point A is (4, -1) and point B is (3, 5), what is the square of the distance AB between them²",
+      "options": [
+        "42",
+        "32",
+        "47",
+        "37"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-011",
+      "q": "The distance between two parallel tangents of a circle with radius 10 cm is?",
+      "options": [
+        "20cm",
+        "25cm",
+        "22cm",
+        "21cm"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-012",
+      "q": "Atrain covers a distance of 400 km ata speed of 20 km/h. How much time will it take?",
+      "options": [
+        "20 hours",
+        "22 hours",
+        "25 hours",
+        "21 hours"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-013",
+      "q": "Acar travels 50 km in 1 hour. How much distance will it cover in 12 minutes?",
+      "options": [
+        "11 km",
+        "10 km",
+        "12 km",
+        "15 km"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-014",
+      "q": "A boy travels at the speed of 4 km/h and reaches school 30 minutes late. If he travels at 5 km/h, he reaches 15 minutes early. What is the distance from his home to school?",
+      "options": [
+        "16 km",
+        "20 km",
+        "17 km",
+        "15 km"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-015",
+      "q": "Acar travels 48 KM distance at speed of 12 Km/h. How much time taken?",
+      "options": [
+        "6",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-016",
+      "q": "The angle of depression of a point situated at a distance of 70m from the base of a tower is 60°. The height of the tower is?",
+      "options": [
+        "70V3 m",
+        "70V3 m/2",
+        "270V3 m",
+        "-70V3 m"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-017",
+      "q": "Atrain travels 16 km in 20 minutes. The speed of the train is?",
+      "options": [
+        "49 km/h",
+        "48 km/h",
+        "50 km/h",
+        "53 km/h"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-018",
+      "q": "Atrain covers a distance in 5 hours at 45 km/h. What speed is required to cover the same distance in 3 hours?",
+      "options": [
+        "70",
+        "80",
+        "75",
+        "85"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-019",
+      "q": "A person crosses a 500 m long street in 5 minutes. What is his speed in km/h?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "5"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-020",
+      "q": "Aman sitting in a train moving ata speed of 70 km/h observes that a goods train, traveling in the opposite direction at 50 km/h, takes 9 seconds to completely pass him. What is the length of the goods train?",
+      "options": [
+        "300 m",
+        "305 m",
+        "301 m",
+        "302 m"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-021",
+      "q": "Distance between 2 points (7, q) (3, 4) is 4 what is the value of q?",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-022",
+      "q": "Atrain of length 99m takes 11 seconds to pass completely through a station of length 231m. What is the speed of the train in km/h?",
+      "options": [
+        "158",
+        "98",
+        "108",
+        "118"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-023",
+      "q": "Acar travels at the speed of 36 km per hour. What is the distance traveled by the car within 20 second in meter?",
+      "options": [
+        "210",
+        "190",
+        "250",
+        "200"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-024",
+      "q": "The radius of a circle is 10 cm and the length of one of its chords is 12 cm then the distance of chord from the centre is?",
+      "options": [
+        "13cm",
+        "10cm",
+        "9cm",
+        "8cm"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-025",
+      "q": "Acar is travelling at a speed of 90 km/hr. In how many minutes it will cover 450 km²",
+      "options": [
+        "301 minutes",
+        "300 minutes",
+        "305 minutes",
+        "302 minutes"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-026",
+      "q": "Two trains each of length 150m are running in opposite directions with the same speed. If they cross each other in WHATSAPP FOR IN CLASSES NITH SIR TAUQEER 15 seconds, what is the speed of each train in km per hour?",
+      "options": [
+        "41",
+        "46",
+        "36",
+        "31"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-027",
+      "q": "Ifacar travels 1/100 of a kilometer each second, how many kilometers does it travel per hour?",
+      "options": [
+        "46",
+        "36",
+        "31",
+        "41"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-028",
+      "q": "Two trains are running in opposite directions with speeds of 62 km/h and 40 km/h respectively. If the length of one train is 260 m, and they cross each other in 18 seconds, then what is the length of the other train?",
+      "options": [
+        "255 meter",
+        "252 meter",
+        "251 meter",
+        "250 meter"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-029",
+      "q": "Ifthe angle of elevation of a tower from a distance of 100 meters from its foot is 60°, then the height of the tower is?",
+      "options": [
+        "100V3 m",
+        "-100V3 m",
+        "2100V3 m",
+        "100V3 m/2"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-030",
+      "q": "Aman takes 6 hours 15 minutes in walking a distance and riding back; both-way walk is 7hours 45 minutes. Time to ride both ways is?",
+      "options": [
+        "4 hours 46",
+        "4 hours 47",
+        "4 hours 50",
+        "4 hours 45"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-031",
+      "q": "%inchis equal to 12 kilometers. The distance between two points is 5-2/3 inches. What is the distance in kilometers?",
+      "options": [
+        "137 km",
+        "136 km",
+        "141 km",
+        "138 km"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-032",
+      "q": "Acar is moving with the speed of 120 km/h. How much distance does the car PREPARATION WI1 cover in 4 hours and 30 minutes?",
+      "options": [
+        "540",
+        "550",
+        "530",
+        "590"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-033",
+      "q": "Acyclist covers a distance of 750 meters in 2 minutes and 30 seconds. What is his speed in km/hr?",
+      "options": [
+        "19 km/hr",
+        "20 km/hr",
+        "23 km/hr",
+        "18 km/hr"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-034",
+      "q": "Atrain is 130 m long it travels at a speed of 45 km/hr. It crosses a bridge in 30 seconds. The Length of Bridge is?",
+      "options": [
+        "247m",
+        "246m",
+        "245m",
+        "250m"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-035",
+      "q": "A130-meter-long train travelling at a speed of 45 km/hour crosses a bridge in 30 seconds. What is the length of the bridge?",
+      "options": [
+        "250 m",
+        "246 m",
+        "247 m",
+        "245 m"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-036",
+      "q": "Acar travels 240 km in 6 hours. If the speed of the car remains constant, how far will it travel in 9 hours?",
+      "options": [
+        "365 km",
+        "361 km",
+        "362 km",
+        "360 km"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-037",
+      "q": "A train 800-meter-long is running with a speed of 78 km/h. It crosses tunnel in 1 minute. What is the length of tunnel?",
+      "options": [
+        "505 m",
+        "502 m",
+        "500 m",
+        "501 m"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-038",
+      "q": "Ahorse runs around a ground twice and covers a distance of 8 km, one side of square ground is?",
+      "options": [
+        "3km",
+        "1km",
+        "6km",
+        "2km"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-039",
+      "q": "Alican type at a speed of 25 words per minute. How many words he can type in one hour?",
+      "options": [
+        "1400",
+        "1600",
+        "3000",
+        "1500"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-040",
+      "q": "Atrain running with a speed of 60 km/h crosses a pole in 9 seconds. What is the length of the train?",
+      "options": [
+        "151 m",
+        "150 m",
+        "152 m",
+        "155 m"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-041",
+      "q": "Acar passes a landmark on a highway traveling at a constant rate of 45 km/h. 2 hours later a second car passes the same landmark traveling in same direction at 70 km/h. How much time after second car passes the landmark will take it the first car?",
+      "options": [
+        "3 hours 38",
+        "3 hours 37",
+        "3 hours 41",
+        "3 hours 36"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-042",
+      "q": "A motorcyclist travels 200 km in 1 hr. How many minutes it would take him to travel 120 km²",
+      "options": [
+        "41 minutes",
+        "36 minutes",
+        "37 minutes",
+        "38 minutes"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-043",
+      "q": "A270 metres long train running at the speed of 120 kmph crosses another train running in opposite direction at the speed of 80 kmph in 9 seconds. What is the length of the other train?",
+      "options": [
+        "230m",
+        "231m",
+        "232m",
+        "235m"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-044",
+      "q": "Alican type at a speed of 25 word per minute. How many words he can type in one hour?",
+      "options": [
+        "1500",
+        "3000",
+        "1600",
+        "1400"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-045",
+      "q": "Acar travelling with 5/7 of its actual speed covers 42 km in 1 hour 40 min 48 sec. Find the actual speed of the car?",
+      "options": [
+        "40 km/hour",
+        "35 km/hour",
+        "37 km/hour",
+        "36 km/hour"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-046",
+      "q": "Two trains are running in opposite direction with a speed of 62 km/hour and 40 km/hour respectively. If the length of one train is 250 meters and they cross each other in 18 seconds then what is the length of the other train?",
+      "options": [
+        "262 meters",
+        "261 meters",
+        "265 meters",
+        "260 meters"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-047",
+      "q": "Atrain running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+      "options": [
+        "150",
+        "200",
+        "160",
+        "140"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-048",
+      "q": "Atrain takes 50 minute for a journey if it runs at 48 km/hr. The rate at which the train must run to reduce the time to 40 minutes will be?",
+      "options": [
+        "60 km/hr",
+        "65 km/hr",
+        "62 km/hr",
+        "61 km/hr"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-049",
+      "q": "What is the speed of a car that travels 700 km in 3 hours and 30 minutes?",
+      "options": [
+        "250",
+        "210",
+        "190",
+        "200"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-050",
+      "q": "Two trains 140 m and 160 m long run at the speed of 60 km/hr and 40 km/hr respectively in opposite direction on parallel tracks. The time (in seconds) which they take to cross each other is?",
+      "options": [
+        "21",
+        "6",
+        "16",
+        "11"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-051",
+      "q": "lf avehicle is traveling at 180 km/h for 8 hours how far will it travel?",
+      "options": [
+        "1,442 km",
+        "1,441 km",
+        "1,445 km",
+        "1,440 km"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-052",
+      "q": "Atrain 360 m long is running as speed of 45 km/h in what time will it pass a bridge 140 m long?",
+      "options": [
+        "45 sec",
+        "42 sec",
+        "40 sec",
+        "41 sec"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-053",
+      "q": "Xis midway between Y and Z. The distance between X and Y is 6 cm. Then what will be the distance between Y and Z?",
+      "options": [
+        "17cm",
+        "12cm",
+        "13cm",
+        "14cm"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-054",
+      "q": "There are 8 mango trees in a straight line. Distance between each tree is 3 meters. What is the distance between the first tree and eighth tree?",
+      "options": [
+        "16",
+        "31",
+        "21",
+        "26"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-055",
+      "q": "A person crosses a 600 m long street in 6 minutes. What is his speed in km/hr?",
+      "options": [
+        "11km/hr",
+        "7km/hr",
+        "6km/hr",
+        "8km/hr"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-056",
+      "q": "lf Acanrun1 Km in 3 minutes and 10 seconds and B can cover the same distance in 3 minutes and 20 seconds, by what distance can A beat B?",
+      "options": [
+        "45",
+        "50",
+        "60",
+        "55"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-057",
+      "q": "Ina100mrace, A covers the distance in 36 seconds and B in 45 seconds. In this A beats B by?",
+      "options": [
+        "25m",
+        "20m",
+        "22m",
+        "21m"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-058",
+      "q": "Atrain passes a station platform in 36 seconds and a man standing on the WHATSAPP FOR IN CLASSES NITH SIR TAUQEER platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform²",
+      "options": [
+        "241 m",
+        "245 m",
+        "240 m",
+        "242 m"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-059",
+      "q": "A train moves with a speed of 108 km/h. Its speed in meters per second is?",
+      "options": [
+        "35",
+        "40",
+        "30",
+        "25"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-060",
+      "q": "Atrain 280 m long, running with a speed of 63 km/h will pass a tree in?",
+      "options": [
+        "11",
+        "21",
+        "26",
+        "16"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-061",
+      "q": "Atruck covers the distance of 360 kilometres in 5 hours. What will be the speed of truck in kilo meters per hours?",
+      "options": [
+        "82",
+        "72",
+        "77",
+        "67"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-062",
+      "q": "Abus is moving on motorway at speed of 90 km/hr. What is the distance travelled by the bus after 3 hours and 30 minutes?",
+      "options": [
+        "320 km",
+        "315 km",
+        "317 km",
+        "316 km"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-063",
+      "q": "Khalid covered the distance of 750 meter in 2 minutes 30 seconds by his bike. He covered the distance at a speed of?",
+      "options": [
+        "20 km/hr",
+        "23 km/hr",
+        "18 km/hr",
+        "19 km/hr"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-064",
+      "q": "Aman takes 50 minutes to cover a certain distance at a speed of 6 km/hr. If he walks with a speed of 10 km/hr, he covers the same distance in?",
+      "options": [
+        "40",
+        "25",
+        "30",
+        "35"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-065",
+      "q": "A100 meters long train passes a bridge with speed 72 km/hr in 25 seconds. What is the length of the bridge?",
+      "options": [
+        "400",
+        "450",
+        "390",
+        "410"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-066",
+      "q": "Atower is 15m tall. If | am standing 20m from the base of the tower, what is my aerial distance to the top of the tower?",
+      "options": [
+        "27m",
+        "30m",
+        "25m",
+        "26m"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-067",
+      "q": "Ahillis at 4 km horizontal distance from a trekker’s position as marked on the map. If an aerial radar measures the distance to a tin shed on the top of the hill as 5 km, how high is the hill relative to the position of the trekker?",
+      "options": [
+        "3km",
+        "5km",
+        "8km",
+        "4km"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-068",
+      "q": "Amancan reach a certain place in 30 hours. If he reduces his speed by 1/15th, he will take 10 km less in that time. Find his speed?",
+      "options": [
+        "6 km/hr",
+        "7 km/hr",
+        "5 km/hr",
+        "10 km/hr"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-069",
+      "q": "If Aslam wants to finish a 16 kilometer race inno more than 2 hours, then what is the minimum distance in kilometers that he should run every 15 minutes?",
+      "options": [
+        "3 kilometers",
+        "2 kilometers",
+        "7 kilometers",
+        "4 kilometers"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-070",
+      "q": "The total distance from school to house is 35 km. Noor khan covered 4/7 of the whole distance has he covered?",
+      "options": [
+        "15",
+        "25",
+        "20",
+        "30"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-071",
+      "q": "Aman takes 50 minutes to move a certain distance at a speed of 6 km/hr. If he walks with a speed of 10 km/hr, he covers the same distance in?",
+      "options": [
+        "35",
+        "25",
+        "40",
+        "30"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-072",
+      "q": "The diameter of a round table is 7 meters. How much distance a person will walk around it?",
+      "options": [
+        "27 meters",
+        "24 meters",
+        "22 meters",
+        "23 meters"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "speed-073",
+      "q": "Along a yard 225 meters long, 26 trees are planted at equal distances, one tree being at each end of the yard. What is the distance between two consecutive trees?",
+      "options": [
+        "10",
+        "11",
+        "9",
+        "8"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    }
+  ]
+}

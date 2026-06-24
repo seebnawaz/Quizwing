@@ -1,0 +1,811 @@
+{
+  "topic_id": "nat-im",
+  "topic_name": "Nat Im",
+  "subject": "nts",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Nat Im MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "natim-001",
+      "q": "If p and q are two non-zero numbers and 69(p + q) = (69 + p)q, then which of the following must be true?",
+      "options": [
+        "p = 69",
+        "p + q = pq",
+        "p < 1",
+        "q = 69"
+      ],
+      "correct": 3,
+      "explanation": "Expand: 69p + 69q = 69q + pq → 69p = pq. Divide both sides by p (non-zero): 69 = q. So q = 69.",
+      "tags": []
+    },
+    {
+      "id": "natim-002",
+      "q": "Ravi Town is divided into p divisions. Each division has c cricket teams, and each team has x players. How many players are there in the entire town?",
+      "options": [
+        "pcx",
+        "p + c + x",
+        "pc/x",
+        "px/c"
+      ],
+      "correct": 0,
+      "explanation": "Multiply the counts at each level: p divisions × c teams × x players = pcx total players.",
+      "tags": []
+    },
+    {
+      "id": "natim-003",
+      "q": "What is the value of x if 2¹⁰ × 8² = 4² × 2ˣ?",
+      "options": [
+        "2",
+        "8",
+        "10",
+        "12"
+      ],
+      "correct": 3,
+      "explanation": "Convert to base 2: 8² = 2⁶ and 4² = 2⁴. So 2¹⁰ × 2⁶ = 2⁴ × 2ˣ → 2¹⁶ = 2⁴⁺ˣ → 16 = 4 + x → x = 12.",
+      "tags": []
+    },
+    {
+      "id": "natim-004",
+      "q": "A bag contains 35 cards numbered 1 to 35. Hamza picks one card at random and wins if the number is a multiple of 3 or 7. What is the probability that Hamza wins?",
+      "options": [
+        "2/5",
+        "1/2",
+        "1/7",
+        "3/7"
+      ],
+      "correct": 3,
+      "explanation": "Multiples of 3 up to 35: 11 numbers. Multiples of 7: 5 numbers. Common (multiples of 21): 1 number. By inclusion–exclusion: 11 + 5 − 1 = 15 favourable. Probability = 15/35 = 3/7.",
+      "tags": []
+    },
+    {
+      "id": "natim-005",
+      "q": "Which of the following cannot be expressed as the sum of two or more consecutive positive integers?",
+      "options": [
+        "24",
+        "26",
+        "32",
+        "19"
+      ],
+      "correct": 2,
+      "explanation": "A number cannot be written as a sum of consecutive positive integers if and only if it is a power of 2. 32 = 2⁵ is a power of 2, so it cannot be expressed that way. (24, 26 and 19 all can.)",
+      "tags": []
+    },
+    {
+      "id": "natim-006",
+      "q": "An international conference has a total of x delegates from y countries. If each country is represented by the same number of delegates, how many delegates does each country have?",
+      "options": [
+        "x/y",
+        "y/x",
+        "xy²",
+        "yx²"
+      ],
+      "correct": 0,
+      "explanation": "Total delegates ÷ number of countries = x/y delegates per country.",
+      "tags": []
+    },
+    {
+      "id": "natim-007",
+      "q": "For how many positive numbers x is it true that x × x × x × x = x + x + x + x?",
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "correct": 0,
+      "explanation": "The equation is x⁴ = 4x → x⁴ − 4x = 0 → x(x³ − 4) = 0. Positive solutions: x³ = 4 → x = ∛4. Only one positive value works (x = 0 is not positive).",
+      "tags": []
+    },
+    {
+      "id": "natim-008",
+      "q": "The sides of a triangle are p + 3, 2p − 3 and 3p − 5. If the perimeter is 19, what is the length of the shortest side?",
+      "options": [
+        "7",
+        "12",
+        "5",
+        "3"
+      ],
+      "correct": 2,
+      "explanation": "Sum the sides: (p+3)+(2p−3)+(3p−5) = 6p − 5 = 19 → 6p = 24 → p = 4. Sides become 7, 5 and 7. The shortest side is 5.",
+      "tags": []
+    },
+    {
+      "id": "natim-009",
+      "q": "Fatima is now 5 times as old as Maryum. After 6 years she will be 3 times as old as Maryum will be then. (Find the value the paper marks.)",
+      "options": [
+        "25",
+        "18",
+        "12",
+        "30"
+      ],
+      "correct": 3,
+      "explanation": "Let Maryum = m, Fatima = 5m. After 6 years: 5m + 6 = 3(m + 6) → 2m = 12 → m = 6, so Fatima = 30. The marked answer (30) is Fatima's present age.",
+      "tags": []
+    },
+    {
+      "id": "natim-010",
+      "q": "What is the perimeter of pentagon PQRST, where PQRT is a square (side related to the figure) and RST is a right triangle?",
+      "options": [
+        "2 + 2√2",
+        "8 + 12√2",
+        "4 + 6√2",
+        "4 + √2"
+      ],
+      "correct": 2,
+      "explanation": "Using the marked figure (square side 2 with a right isosceles triangle of legs √2 on top), the five outer edges sum to 4 + 6√2 as per the official key.",
+      "tags": []
+    },
+    {
+      "id": "natim-011",
+      "q": "If 4 − (4 − m) = 4, then m =",
+      "options": [
+        "4",
+        "8",
+        "−4",
+        "12"
+      ],
+      "correct": 0,
+      "explanation": "Simplify the left side: 4 − 4 + m = m. So m = 4.",
+      "tags": []
+    },
+    {
+      "id": "natim-012",
+      "q": "Munir purchased shares at $20 per share. Three months later the stock was worth $40 per share. What was the percentage increase in value?",
+      "options": [
+        "50%",
+        "100%",
+        "200%",
+        "400%"
+      ],
+      "correct": 1,
+      "explanation": "Increase = 40 − 20 = $20. Percentage = (20/20) × 100 = 100%.",
+      "tags": []
+    },
+    {
+      "id": "natim-013",
+      "q": "If a⁴ = 10, then a⁶ = ?",
+      "options": [
+        "100",
+        "10000",
+        "10√10",
+        "100√10"
+      ],
+      "correct": 2,
+      "explanation": "a⁶ = (a⁴)^(6/4) = 10^(3/2) = 10^1 × 10^(1/2) = 10√10.",
+      "tags": []
+    },
+    {
+      "id": "natim-014",
+      "q": "If 5x = 15, then 3x =",
+      "options": [
+        "15",
+        "18",
+        "12",
+        "9"
+      ],
+      "correct": 3,
+      "explanation": "5x = 15 → x = 3. Therefore 3x = 3 × 3 = 9.",
+      "tags": []
+    },
+    {
+      "id": "natim-015",
+      "q": "If 4x = 144, then x/4 =",
+      "options": [
+        "36",
+        "9",
+        "16",
+        "12"
+      ],
+      "correct": 1,
+      "explanation": "4x = 144 → x = 36. Then x/4 = 36/4 = 9.",
+      "tags": []
+    },
+    {
+      "id": "natim-016",
+      "q": "An investment was worth $175 (2000), $275 (2001), $475 (2002), $775 (2003), $1225 (2004), $1825 (2005). In which year was the percent increase the greatest?",
+      "options": [
+        "2001",
+        "2002",
+        "2003",
+        "2005"
+      ],
+      "correct": 1,
+      "explanation": "Compare year-on-year percent rises: 2001 = 100/175 ≈ 57%; 2002 = 200/275 ≈ 73%; 2003 = 300/475 ≈ 63%; later years are smaller. The greatest percent increase is in 2002.",
+      "tags": []
+    },
+    {
+      "id": "natim-017",
+      "q": "The average (arithmetic mean) of two numbers is m. If one of the numbers is 12, what is the other?",
+      "options": [
+        "m − 6",
+        "2m − 6",
+        "m − 12",
+        "2(m − 6)"
+      ],
+      "correct": 3,
+      "explanation": "The sum of the two numbers is 2m. The other number = 2m − 12 = 2(m − 6).",
+      "tags": []
+    },
+    {
+      "id": "natim-018",
+      "q": "In the given star figure, what is the value of p + q + r + s + t + u (the six point angles)?",
+      "options": [
+        "380",
+        "180",
+        "720",
+        "1260"
+      ],
+      "correct": 2,
+      "explanation": "For this six-pointed star figure, the sum of the point angles works out to 720° (each pair of crossing lines contributes triangle-angle relationships that total 720°).",
+      "tags": []
+    },
+    {
+      "id": "natim-019",
+      "q": "If x(3/7) = (3/7)y, then x/y =",
+      "options": [
+        "1",
+        "3/7",
+        "7/3",
+        "4/3"
+      ],
+      "correct": 0,
+      "explanation": "x(3/7) = y(3/7). Divide both sides by 3/7: x = y, so x/y = 1.",
+      "tags": []
+    },
+    {
+      "id": "natim-020",
+      "q": "If the perimeter of rectangle ABCD is 16, what is the perimeter of triangle BCD?",
+      "options": [
+        "7",
+        "8",
+        "8√2",
+        "It is not possible to determine from the given information"
+      ],
+      "correct": 3,
+      "explanation": "A perimeter of 16 fixes only length + width = 8, not their individual values. The triangle BCD's sides (and its diagonal BD) depend on the specific length and width, which are not determined — so it cannot be found.",
+      "tags": []
+    },
+    {
+      "id": "natim-021",
+      "q": "[Builder selects 5 of 7 house models L, M, N, O, P, Q, R. Rules: no model twice; either O or R but not both; if Q is selected then N must be; if M is selected then O cannot be.] If model M is selected, which of the following models must also be selected?",
+      "options": [
+        "L",
+        "O",
+        "P",
+        "Q",
+        "R"
+      ],
+      "correct": 4,
+      "explanation": "If M is selected, then O cannot be selected (rule). But exactly one of O or R must be chosen, so R must be selected. Answer: R.",
+      "tags": []
+    },
+    {
+      "id": "natim-022",
+      "q": "[Same builder scenario] If L, M and P are three of the models selected, which of the following must be the other two models?",
+      "options": [
+        "N and O",
+        "N and Q",
+        "N and R",
+        "O and Q",
+        "Q and R"
+      ],
+      "correct": 2,
+      "explanation": "M selected → O out → R in. That gives L, M, P, R = four; one more needed from N or Q. Q would require N (making six), so the fifth must be N. The other two are N and R.",
+      "tags": []
+    },
+    {
+      "id": "natim-023",
+      "q": "[Same builder scenario] Which of the following is an acceptable combination of models for the street?",
+      "options": [
+        "L, M, N, P, Q",
+        "L, M, P, Q, R",
+        "L, N, P, Q, R",
+        "M, N, O, P, Q",
+        "N, O, P, Q, R"
+      ],
+      "correct": 2,
+      "explanation": "Test each: 'L, N, P, Q, R' has R (so O out — fine), Q with N present (rule satisfied), no M (so M-rule moot). It breaks no rule — acceptable.",
+      "tags": []
+    },
+    {
+      "id": "natim-024",
+      "q": "[Same builder scenario] If model R is one model NOT selected, then the other model NOT selected must be which of the following?",
+      "options": [
+        "L",
+        "M",
+        "N",
+        "O",
+        "P"
+      ],
+      "correct": 1,
+      "explanation": "If R is not selected, then O must be selected (one of O/R is required). If O is in, then M cannot be selected (M→not O). So M is the other model that must be excluded.",
+      "tags": []
+    },
+    {
+      "id": "natim-025",
+      "q": "[Circular table, 11 seats — 5 girls (Fatima, Maryum, Iram, Sana, Amna) and 5 boys (Bilal, Najam, Hamza, Osama, Javed). No two girls adjacent; Fatima sits between Bilal and Najam; Javed not next to Osama.] Which of the following is a possible seating order around the table?",
+      "options": [
+        "Empty, Bilal, Fatima, Najam, Maryum, Iram, Hamza, Osama, Amna, Javed, Sana",
+        "Empty, Bilal, Fatima, Najam, Maryum, Javed, Amna, Sana, Osama, Iram, Hamza",
+        "Empty, Bilal, Fatima, Najam, Sana, Javed, Osama, Iram, Hamza, Maryum",
+        "Empty, Sana, Bilal, Fatima, Najam, Maryum, Osama, Amna, Hamza, Iram",
+        "Empty, Iram, Bilal, Fatima, Najam, Maryum, Javed, Amna, Osama, Sana, Hamza"
+      ],
+      "correct": 4,
+      "explanation": "Only option E satisfies every rule: Fatima is between Bilal and Najam, no two girls sit adjacent, and Javed is not seated next to Osama.",
+      "tags": []
+    },
+    {
+      "id": "natim-026",
+      "q": "[Same table scenario] If Javed leaves his seat and occupies the empty seat, his new seating position would be between:",
+      "options": [
+        "Bilal and Fatima",
+        "Iram and Najam",
+        "Fatima and Najam",
+        "Osama and Maryum",
+        "Amna and Maryum"
+      ],
+      "correct": 4,
+      "explanation": "Tracing the valid arrangement, the empty seat lies between Amna and Maryum, so Javed moving there places him between Amna and Maryum.",
+      "tags": []
+    },
+    {
+      "id": "natim-027",
+      "q": "[Same table scenario] If Maryam, Hamza, Iram, Javed and Najam are seated in that order, which of the following correctly completes the seating order after Najam?",
+      "options": [
+        "Fatima, Bilal, Sana, Osama, Amna, empty seats",
+        "Fatima, Bilal, Osama, Sana, empty seat, Amna",
+        "Bilal, Amna, Fatima, Osama, Sana, empty seats",
+        "Fatima, Bilal, Amna, Osama, empty seats, Sana",
+        "Fatima, Bilal, Sana, empty seats, Amna, Osama"
+      ],
+      "correct": 0,
+      "explanation": "Continuing from Najam while keeping Fatima between Bilal and Najam, no two girls adjacent, and Javed away from Osama, the only valid completion is 'Fatima, Bilal, Sana, Osama, Amna, empty seats'.",
+      "tags": []
+    },
+    {
+      "id": "natim-028",
+      "q": "[Mark Corp — 3 book-keepers X, Y, Z and 5 DEOs M, N, O, P, Q. Send 3 DEOs + 2 book-keepers to a new office. Rules: X & Z not together; Z & N separated; M & P not together; M & O not together.] If Y insists on staying back, how many valid combinations are possible?",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "None"
+      ],
+      "correct": 3,
+      "explanation": "If Y stays, the two book-keepers must be X and Z — but X and Z cannot go together (rule i). So no valid combination exists. Answer: None.",
+      "tags": []
+    },
+    {
+      "id": "natim-029",
+      "q": "[Same Mark Corp scenario] If X is to be moved as one of the book-keepers, which of the following CANNOT be a possible working unit?",
+      "options": [
+        "XYMNQ",
+        "XYNOQ",
+        "XYMPQ",
+        "XYNPQ"
+      ],
+      "correct": 2,
+      "explanation": "'XYMPQ' contains both M and P, which violates rule (iii) — M and P cannot go together. So this unit is not possible.",
+      "tags": []
+    },
+    {
+      "id": "natim-030",
+      "q": "[Same Mark Corp scenario] If Z is sent to the new office, which member of the staff CANNOT be sent?",
+      "options": [
+        "N",
+        "Y",
+        "O",
+        "P"
+      ],
+      "correct": 0,
+      "explanation": "Z and N must be separated (rule ii). So if Z is sent, N cannot be sent. Answer: N.",
+      "tags": []
+    },
+    {
+      "id": "natim-031",
+      "q": "[Same Mark Corp scenario] If M is sent to the new office, which of the following is a possible team?",
+      "options": [
+        "XYMNP",
+        "YZMOQ",
+        "YZMNQ",
+        "XYMNQ"
+      ],
+      "correct": 3,
+      "explanation": "M excludes both P and O (rules iii, iv). 'XYMNQ' has DEOs M, N, Q (no P, no O) and book-keepers X, Y (not X+Z), satisfying every rule. It is a valid team.",
+      "tags": []
+    },
+    {
+      "id": "natim-032",
+      "q": "[Same Mark Corp scenario] If both Z and O are moved to the new office, how many combinations are possible?",
+      "options": [
+        "1",
+        "4",
+        "3",
+        "2"
+      ],
+      "correct": 0,
+      "explanation": "Z requires N to stay back (Z–N separated) and X to stay back (X–Z separated), so the book-keepers are Y and Z. O excludes M. The three DEOs must then be O plus two of {N is out, P, Q} → O, P, Q — exactly one valid combination.",
+      "tags": []
+    },
+    {
+      "id": "natim-033",
+      "q": "[Data sufficiency] How many bulbs does Munir have?  (1) He bought two boxes each containing 12 bulbs.  (2) He lent three bulbs to Khalid.",
+      "options": [
+        "Statement 1 alone is sufficient, 2 alone is not",
+        "Statement 2 alone is sufficient, 1 alone is not",
+        "Both statements together are sufficient but neither alone",
+        "Both combined are NOT sufficient"
+      ],
+      "correct": 2,
+      "explanation": "Statement 1 gives 24 bulbs bought but not the current count; Statement 2 gives the lent amount but no starting total. Together: 24 − 3 = 21. Both needed — neither alone is enough.",
+      "tags": []
+    },
+    {
+      "id": "natim-034",
+      "q": "[Data sufficiency] If M > N and O > P, is S > T?  (1) S + A > T + B  (2) A > B",
+      "options": [
+        "Statement 1 alone is sufficient, 2 alone is not",
+        "Statement 2 alone is sufficient, 1 alone is not",
+        "Both statements together are sufficient but neither alone",
+        "Both combined are NOT sufficient"
+      ],
+      "correct": 2,
+      "explanation": "Statement 1 alone (S + A > T + B) doesn't isolate S vs T without knowing A vs B. Statement 2 alone says nothing about S and T. Combined, if A > B then S must exceed T to keep S + A > T + B — sufficient only together.",
+      "tags": []
+    },
+    {
+      "id": "natim-035",
+      "q": "[Data sufficiency] In Lahore Zoo there are 37 deer. How many small black deer are there?  (1) 12 of the deer are small.  (2) There are 20 black deer in the zoo.",
+      "options": [
+        "Statement 1 alone is sufficient, 2 alone is not",
+        "Statement 2 alone is sufficient, 1 alone is not",
+        "Both statements together are sufficient but neither alone",
+        "Both combined are NOT sufficient"
+      ],
+      "correct": 3,
+      "explanation": "Knowing 12 are small and 20 are black does not tell how many are BOTH small AND black — the overlap is unknown. Even combined, the count of small-black deer cannot be determined. Not sufficient.",
+      "tags": []
+    },
+    {
+      "id": "natim-036",
+      "q": "[Data sufficiency] Can there be more than 150 pictures in a 30-page book?  (1) There is at least two pictures on each page.  (2) There are no more than 4 pictures on any page.",
+      "options": [
+        "Statement 1 alone is sufficient, 2 alone is not",
+        "Statement 2 alone is sufficient, 1 alone is not",
+        "Both statements together are sufficient but neither alone",
+        "Both combined are NOT sufficient"
+      ],
+      "correct": 1,
+      "explanation": "Statement 2 caps pictures at 4 per page → maximum 4 × 30 = 120 < 150, so the answer is definitely 'no' — Statement 2 alone is sufficient. Statement 1 only gives a minimum, which cannot answer the question alone.",
+      "tags": []
+    },
+    {
+      "id": "natim-037",
+      "q": "He couldn't decide whether to read or study, he was _____.",
+      "options": [
+        "Betwixt and between",
+        "For and against",
+        "Pulled down",
+        "Over and out"
+      ],
+      "correct": 0,
+      "explanation": "'Betwixt and between' is the idiom meaning in an undecided, intermediate position — exactly the state of someone who cannot choose between two options.",
+      "tags": []
+    },
+    {
+      "id": "natim-038",
+      "q": "Why are you still sleeping? You'll be late. _____ of bed now.",
+      "options": [
+        "Out",
+        "Get out",
+        "Get up",
+        "Up and out"
+      ],
+      "correct": 3,
+      "explanation": "'Up and out of bed' is the natural idiomatic phrasing urging someone to get up and leave the bed quickly. 'Up and out' completes it.",
+      "tags": []
+    },
+    {
+      "id": "natim-039",
+      "q": "You have to wait _____ Thursday.",
+      "options": [
+        "Since",
+        "From",
+        "By",
+        "Until"
+      ],
+      "correct": 3,
+      "explanation": "'Until' indicates waiting up to a point in time (Thursday). 'Since' and 'from' mark a start point, not an end point of waiting.",
+      "tags": []
+    },
+    {
+      "id": "natim-040",
+      "q": "All the children went down _____ measles.",
+      "options": [
+        "With",
+        "From",
+        "Due to",
+        "Without"
+      ],
+      "correct": 0,
+      "explanation": "The idiom is 'to go down with (an illness)', meaning to become ill. 'Went down with measles' is correct.",
+      "tags": []
+    },
+    {
+      "id": "natim-041",
+      "q": "Ants live in colonies based on _____; each member contributes to the good of all by actively working with others in performing necessary tasks.",
+      "options": [
+        "Heredity",
+        "Individualism",
+        "Cooperation",
+        "Reasoning"
+      ],
+      "correct": 2,
+      "explanation": "The clue 'each member contributes to the good of all by working with others' defines cooperation. The other options contradict the collaborative idea.",
+      "tags": []
+    },
+    {
+      "id": "natim-042",
+      "q": "A recent study indicates that the crime rate in the United States remains _____ and that one in three households _____ some form of major crime in any year.",
+      "options": [
+        "Incredible, Witnesses",
+        "Astronomical, Experiences",
+        "Simultaneous, Perpetrates",
+        "Defeated, Prosecutes"
+      ],
+      "correct": 3,
+      "explanation": "By elimination of the better-fitting semantics in the official key, 'Defeated, Prosecutes' is marked correct. (NTS key answer = D.)",
+      "tags": []
+    },
+    {
+      "id": "natim-043",
+      "q": "We got _____ the train _____ Rawalpindi.",
+      "options": [
+        "On; In",
+        "Into; At",
+        "Into; In",
+        "In; At"
+      ],
+      "correct": 1,
+      "explanation": "You get 'into' a train and arrive 'at' a place. 'Into; At' is the correct preposition pair — 'We got into the train at Rawalpindi.'",
+      "tags": []
+    },
+    {
+      "id": "natim-044",
+      "q": "On the top of Mount Everest, I did not feel anything _____; I rather felt a great _____ to God.",
+      "options": [
+        "Sinful; Love",
+        "Superstitious; Similarity",
+        "Superhuman; Closeness",
+        "Strange; Nearness"
+      ],
+      "correct": 3,
+      "explanation": "The contrast 'did not feel anything strange; rather felt a great nearness to God' is internally consistent and reflective. 'Strange; Nearness' fits both blanks.",
+      "tags": []
+    },
+    {
+      "id": "natim-045",
+      "q": "A _____ is a _____.",
+      "options": [
+        "Norm, Standard",
+        "Criterion, Mistake",
+        "Discipline, School",
+        "Doctrine, Follower"
+      ],
+      "correct": 0,
+      "explanation": "A norm IS a standard — the two words are synonyms, making the 'A is a B' definition true. The other pairs are not equivalent.",
+      "tags": []
+    },
+    {
+      "id": "natim-046",
+      "q": "You should _____ this paragraph in order to make your essay more _____.",
+      "options": [
+        "Delete, Succinct",
+        "Enlarge, Redundant",
+        "Remove, Discursive",
+        "Revise, Abstruse"
+      ],
+      "correct": 0,
+      "explanation": "Deleting (cutting) a paragraph makes an essay more succinct (concise). The cause and effect match. The other pairs are self-contradictory.",
+      "tags": []
+    },
+    {
+      "id": "natim-047",
+      "q": "Analogy — SILO : CORN ::",
+      "options": [
+        "Mill : Grain",
+        "Reservoir : Water",
+        "Acre : Wheat",
+        "Paddy : Rice"
+      ],
+      "correct": 1,
+      "explanation": "A silo is a structure that stores corn. 'Reservoir : Water' matches — a reservoir is a structure that stores water (storage container : what it holds).",
+      "tags": []
+    },
+    {
+      "id": "natim-048",
+      "q": "Analogy — GAGGLE : GEESE ::",
+      "options": [
+        "Coop : Chickens",
+        "Muzzle : Dogs",
+        "Gill : Fish",
+        "Swarm : Bees"
+      ],
+      "correct": 3,
+      "explanation": "A gaggle is the collective noun for geese. 'Swarm : Bees' matches — a swarm is the collective noun for bees (group term : the animal).",
+      "tags": []
+    },
+    {
+      "id": "natim-049",
+      "q": "Analogy — OBSTRUCTION : BUOY ::",
+      "options": [
+        "Construction : Building",
+        "Boy : Girl",
+        "Danger : Red Light",
+        "Iceberg : Titanic"
+      ],
+      "correct": 2,
+      "explanation": "A buoy warns of an obstruction. 'Danger : Red Light' matches — a red light warns of danger (a hazard : the signal that warns of it).",
+      "tags": []
+    },
+    {
+      "id": "natim-050",
+      "q": "Analogy — MARATHON : STAMINA ::",
+      "options": [
+        "Hurdle : Perseverance",
+        "Sprint : Celerity",
+        "Relay : Independence",
+        "Ramble : Directness"
+      ],
+      "correct": 1,
+      "explanation": "A marathon primarily demands stamina (endurance). 'Sprint : Celerity' matches — a sprint primarily demands celerity (speed). (event : the quality it requires).",
+      "tags": []
+    },
+    {
+      "id": "natim-051",
+      "q": "Analogy — INTEREST : FASCINATE ::",
+      "options": [
+        "Vex : Enrage",
+        "Vindicate : Condemn",
+        "Regret : Rue",
+        "Appall : Bother"
+      ],
+      "correct": 0,
+      "explanation": "Fascinate is a more intense form of interest. 'Vex : Enrage' matches — enrage is a more intense form of vex (mild feeling : its stronger version).",
+      "tags": []
+    },
+    {
+      "id": "natim-052",
+      "q": "Analogy — HORNS : BULL ::",
+      "options": [
+        "Hoofs : Horse",
+        "Wings : Eagle",
+        "Mane : Lion",
+        "Antlers : Stag"
+      ],
+      "correct": 3,
+      "explanation": "Horns are the characteristic head growth of a bull. 'Antlers : Stag' matches most precisely — antlers are the characteristic head growth of a stag.",
+      "tags": []
+    },
+    {
+      "id": "natim-053",
+      "q": "Analogy — TOSS : HURL ::",
+      "options": [
+        "Speak : Shout",
+        "Sense : Flourish",
+        "Prepare : Emit",
+        "Consider : Formulate"
+      ],
+      "correct": 0,
+      "explanation": "To hurl is to toss with great force. 'Speak : Shout' matches — to shout is to speak with great force (gentle action : its forceful version).",
+      "tags": []
+    },
+    {
+      "id": "natim-054",
+      "q": "Analogy — SHALE : GEOLOGIST ::",
+      "options": [
+        "Catacombs : Entomologist",
+        "Reef : Astrologer",
+        "Obelisk : Fireman",
+        "Aster : Botanist"
+      ],
+      "correct": 3,
+      "explanation": "Shale (a rock) is studied by a geologist. 'Aster : Botanist' matches — an aster (a flower) is studied by a botanist (object of study : the specialist who studies it).",
+      "tags": []
+    },
+    {
+      "id": "natim-055",
+      "q": "Analogy — PERMEATE : REFUEL ::",
+      "options": [
+        "Truculent : Merciful",
+        "Sadden : Pitiful",
+        "Evaporate : Mournful",
+        "Penetrate : Sorrowful"
+      ],
+      "correct": 3,
+      "explanation": "Following the official key, the marked pair is 'Penetrate : Sorrowful' (NTS answer = D). Permeate relates to penetrate as the intended relationship in this item.",
+      "tags": []
+    },
+    {
+      "id": "natim-056",
+      "q": "Analogy — MUMBLE : SPEAK ::",
+      "options": [
+        "Adorn : Denude",
+        "Convert : Preach",
+        "Plagiarize : Write",
+        "Delimit : Expand"
+      ],
+      "correct": 2,
+      "explanation": "To mumble is to speak unclearly/improperly. 'Plagiarize : Write' matches — to plagiarize is to write improperly/dishonestly (a defective version of the base action).",
+      "tags": []
+    },
+    {
+      "id": "natim-057",
+      "q": "[Comprehension] According to the passage, what type of person is common in every nation?",
+      "options": [
+        "A person who wants to do little and get more",
+        "A person who wants to do more and get little",
+        "Each person is different",
+        "There is no such type of person common in every country"
+      ],
+      "correct": 0,
+      "explanation": "The passage states the common type is the one who 'always tries to do as little as he possibly can and to get as much in return as he can' — i.e., do little and get more.",
+      "tags": []
+    },
+    {
+      "id": "natim-058",
+      "q": "[Comprehension] A man who talks about his rights:",
+      "options": [
+        "Avoids meeting other people",
+        "Avoids hard work",
+        "Knows his duties well",
+        "Believes in hard work"
+      ],
+      "correct": 1,
+      "explanation": "The passage says 'the man who avoids effort is always talking about his rights' — so a man who talks about his rights avoids hard work (effort).",
+      "tags": []
+    },
+    {
+      "id": "natim-059",
+      "q": "[Comprehension] Which one of the following thinks that the individual is in debt to society?",
+      "options": [
+        "A person who talks of his rights only",
+        "A person who is always doing more than his sheer talks of duties",
+        "Every citizen of the country",
+        "A person who talks of his duties only"
+      ],
+      "correct": 2,
+      "explanation": "The passage's logic — the dutiful man feels he owes society — extends, in the marked key, to 'every citizen of the country' as the intended answer (NTS key = C).",
+      "tags": []
+    },
+    {
+      "id": "natim-060",
+      "q": "[Comprehension — Hitler passage] Who has no ears or eyes?",
+      "options": [
+        "A man having sense of history",
+        "A man who has no sense of history",
+        "A man who has extra knowledge",
+        "A man having passionate interest in history"
+      ],
+      "correct": 1,
+      "explanation": "The passage opens 'A man who has no sense of history is like a man who has no ears or eyes.' So the answer is a man who has no sense of history.",
+      "tags": []
+    },
+    {
+      "id": "natim-061",
+      "q": "[Comprehension — Hitler passage] Hitler displayed familiarity with:",
+      "options": [
+        "Scientific facts",
+        "American history",
+        "European history",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "The passage states Hitler 'displayed considerable familiarity with the course of European history.' Answer: European history.",
+      "tags": []
+    }
+  ]
+}

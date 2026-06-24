@@ -1,0 +1,2026 @@
+{
+  "topic_id": "fraction",
+  "topic_name": "Fraction",
+  "subject": "mathematics",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Fraction MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "fracti-001",
+      "q": "The fraction 5/8 with a denominator 40 is?",
+      "options": [
+        "25/40",
+        "25/41",
+        "24/40",
+        "26/40"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-002",
+      "q": "Find the circumstances if radius is “8”?",
+      "options": [
+        "60.2",
+        "45.2",
+        "50.2",
+        "55.2"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-003",
+      "q": "If 2vV(x+2) = 3V2. Find the value of x?",
+      "options": [
+        "2.5",
+        "1.5",
+        "3.5",
+        "4.5"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-004",
+      "q": "If aperson has $1.50, $6.05, and $3.25, what will be their total amount?",
+      "options": [
+        "$12.8",
+        "$15.8",
+        "$11.8",
+        "$10.80"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-005",
+      "q": "A bank teller uses the equation Y=1.30x-1.50Y=1.30x-1.50 to exchange U.S. dollars into euros, where y is the euro amount and x is the U.S. dollar amount. Which of the following is the best interpretation of the 1.50 in the equation?",
+      "options": [
+        "The bank charges 1.50 euros",
+        "The bank charges 2.5 euros",
+        "The bank charges 6.5 euros",
+        "The bank charges 3.5 euros"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-006",
+      "q": "If 2V(x+2) = 3V2. Find the value of x?",
+      "options": [
+        "2.5",
+        "1.5",
+        "4.5",
+        "3.5"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-007",
+      "q": "Ifaperson has $1.50, $6.05, and $3.25, what will be their total amount?",
+      "options": [
+        "$15.8",
+        "$11.8",
+        "$12.8",
+        "$10.80"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-008",
+      "q": "Which is next term in given sequence?",
+      "options": [
+        "5,11,19,29,...2 46",
+        "5,11,19,29,...2 41",
+        "5,11,19,29,...2 42",
+        "5,11,19,29,...2 43"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-009",
+      "q": "The sum of 0.3 + 0.03 + 0.003 + 0.0003?",
+      "options": [
+        "0.3333",
+        "2.3333",
+        "-0.6667000000000001",
+        "1.3333"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-010",
+      "q": "The capacity of a cuboidal tank is 50000 liters of water. Find the breadth of the tank, if its length and depth are respectively 2.5 mand10m²",
+      "options": [
+        "2m",
+        "4m",
+        "3m",
+        "7m"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-011",
+      "q": "If Akbar had $12 and spent $8.4, how much money is left?",
+      "options": [
+        "$3.6",
+        "$4.6",
+        "$8.6",
+        "$5.6"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-012",
+      "q": "What is the value of 0.085 + 0.017?",
+      "options": [
+        "0.102",
+        "1.102",
+        "-0.898",
+        "2.102"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-013",
+      "q": "The area of a right-angled triangle is 42 cm. If perpendicular is 10 cm, then find the base?",
+      "options": [
+        "9.4 cm",
+        "8.4 cm",
+        "13.4 cm",
+        "10.4 cm"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-014",
+      "q": "Aperson drives a car at a speed of 50 miles per hour. How far will he travel in 2.5 hours?",
+      "options": [
+        "126 miles",
+        "125 miles",
+        "127 miles",
+        "130 miles"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-015",
+      "q": "Ifthe volume of cone is 245 cm3 and radius is 7 cm find the height of cone?",
+      "options": [
+        "5.77cm",
+        "9.77cm",
+        "4.77cm",
+        "6.77cm"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-016",
+      "q": "A bicycle makes 4000 rev. to cover a distance of 8 KM. Find the diameter?",
+      "options": [
+        "2.637",
+        "-0.363",
+        "0.637",
+        "1.637"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-017",
+      "q": "The numerator of a fraction is 4 less than the denominator. If 1 is added to both its numerator and denominator, it becomes 1/2. Find the fraction?",
+      "options": [
+        "3/7",
+        "4/7",
+        "2/7",
+        "3/8"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-018",
+      "q": "A flagstaff 17.5 m high casts a shadow of length 40.25 m. The height of the building which casts a shadow of length 28.75 m under similar conditions will be?",
+      "options": [
+        "12.5m",
+        "17.5m",
+        "13.5m",
+        "14.5m"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-019",
+      "q": "Find the correct value of x 3889+12.952-x=3854.002?",
+      "options": [
+        "42.95",
+        "47.95",
+        "57.95",
+        "52.95"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-020",
+      "q": "4.036 divided by 0.04 gives?",
+      "options": [
+        "110.9",
+        "150.9",
+        "90.9",
+        "100.9"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-021",
+      "q": "Anobserver 1.6m tall is 20V3m away from a tower. The angle of elevation from his eye to the top of the tower is 30°. The height of the tower is?",
+      "options": [
+        "22.6 m",
+        "26.6 m",
+        "23.6 m",
+        "21.6 m"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-022",
+      "q": "The area of circle is 275cm². What is the circumference of circle?",
+      "options": [
+        "58.79 cm",
+        "59.79 cm",
+        "60.79 cm",
+        "63.79 cm"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-023",
+      "q": "How many pieces of 13.2 cm can be cut from a 330 cm long rod?",
+      "options": [
+        "25",
+        "35",
+        "20",
+        "30"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-024",
+      "q": "If 6 persons working 8 hours a day earn Rs.8400 per week, then how much will 9 persons be working 6 hours a day each per week?",
+      "options": [
+        "Rs.9452",
+        "Rs.9451",
+        "Rs.9450",
+        "Rs.9455"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-025",
+      "q": "Ifthe cost of tiles is Rs.5 for 50 sq.m, what will be the cost of 400 sq.m²",
+      "options": [
+        "Rs.42",
+        "Rs.40",
+        "Rs.41",
+        "Rs.45"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-026",
+      "q": "Atrain covers 32 kilometers in 14.5 minutes. If it continues to travel at the same rate, which of the following is closest to the distance it will travel in 2 hours?",
+      "options": [
+        "270 kilometers",
+        "267 kilometers",
+        "266 kilometers",
+        "265 kilometers"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-027",
+      "q": "The product of 0.003x0.02?",
+      "options": [
+        "0.00006",
+        "1.00006",
+        "2.00006",
+        "-0.99994"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-028",
+      "q": "The repeating decimal 0.121212...... can be written as?",
+      "options": [
+        "4/33",
+        "4/34",
+        "3/33",
+        "5/33"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-029",
+      "q": "If 12 eggs cost Rs.40, how much will 30 eggs cost?",
+      "options": [
+        "90",
+        "100",
+        "150",
+        "110"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-030",
+      "q": "The total cost of placing an advertisement in a newspaper compromise of a fixed cost of $3.50 and a variable cost that depends on the number of words. Each word costs 25 cents. Find the total cost of placing an advertisement containing 22 words?",
+      "options": [
+        "10$",
+        "9$",
+        "11$",
+        "14$"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-031",
+      "q": "Usher ona rice crop produced by natural resources amounting to Rs. 6,00,000 is?",
+      "options": [
+        "Rs.60005",
+        "Rs.60002",
+        "Rs.60001",
+        "Rs.60000"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-032",
+      "q": "The excise duty at rate of 150%, one has to pay against an amount of Rs. 3,00,000 is?",
+      "options": [
+        "Rs.450000",
+        "Rs.450001",
+        "Rs.450002",
+        "Rs.450005"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-033",
+      "q": "| paid 3/5 of a bill. If Rs. 400 of the bill is still due, what was the total amount of the bill?",
+      "options": [
+        "Rs.1002",
+        "Rs.1001",
+        "Rs.1005",
+        "Rs.1000"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-034",
+      "q": "Out of an earning of Rs.720, Raza spends 65%. How much does he save?",
+      "options": [
+        "Rs.257",
+        "Rs.254",
+        "Rs.253",
+        "Rs.252"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-035",
+      "q": "Total cost of 5 markers and 1 pencil is Rs.245 and total cost of 3 markers and 3 pencils is Rs.327. What is the cost of one marker?",
+      "options": [
+        "Rs.35",
+        "Rs.34",
+        "Rs.36",
+        "Rs.39"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-036",
+      "q": "Awater tank in the shape of a cuboid has length 1.5 meters and width 1 meter. How many liters of water in the tank if water is 60 centimeters deep?",
+      "options": [
+        "901 liters",
+        "905 liters",
+        "902 liters",
+        "900 liters"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-037",
+      "q": "Find the height of a parallelogram whose area is 54 cm² and the base is 15 cm²",
+      "options": [
+        "8.6 cm",
+        "5.6 cm",
+        "4.6 cm",
+        "3.6 cm"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-038",
+      "q": "The fuel is after 4\" lap is 22 and it is 18 after 7\" laps then how many laps are made at the end?",
+      "options": [
+        "22.5Laps",
+        "20.5Laps",
+        "25.5Laps",
+        "21.5Laps"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-039",
+      "q": "The binary decimal of 10100 is?",
+      "options": [
+        "20(12)",
+        "20(10)",
+        "20(15)",
+        "20(11)"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-040",
+      "q": "A Ladder 15 m Long Just Reaches the Top of a Vertical Wall. If the Ladder Makes an Angle of 60° with the Wall, Then the length of the Wall is?",
+      "options": [
+        "9.5m",
+        "8.5m",
+        "12.5m",
+        "7.5m"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-041",
+      "q": "If 144/0.144 = 14.4/x then what will be the value of x?",
+      "options": [
+        "2.0144",
+        "0.0144",
+        "1.0144",
+        "-0.9856"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-042",
+      "q": "3.275 is equal to?",
+      "options": [
+        "311/40",
+        "312/40",
+        "311/41",
+        "310/40"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-043",
+      "q": "Anopen rectangular tank that is 4m long, 2m wide and 4.8m high, is initially three-quarters filled with water. Find the depth of water in the tank after 4000 liters of water are added to it?",
+      "options": [
+        "6.1",
+        "4.1",
+        "5.1",
+        "3.0999999999999996"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-044",
+      "q": "6x6 inch tiles rate Rs.60 room area of 10x6 feet. The total cost of tiles flooring is?",
+      "options": [
+        "Rs.14405",
+        "Rs.14402",
+        "Rs.14401",
+        "Rs.14400"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-045",
+      "q": "The total cost of 12 pens and 5 pencils is equal to Rs.111. Also, the cost of 1 pencil is Rs.5 less than the cost of 1 pen. What will be the cost of 8 pens and 9 pencils?",
+      "options": [
+        "91",
+        "96",
+        "101",
+        "86"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-046",
+      "q": "The length and breadth of a rectangular drawing room of a house are 18 ft and 13 ft respectively. The length of house is 10 ft. If the cost of painting is Rs.40 per square ft. Find the cost of painting the drawing room²",
+      "options": [
+        "24700",
+        "24800",
+        "24900",
+        "49600"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-047",
+      "q": "A boy makes a diagram of a plane to scale of 1/400 of actual size. If the diagram of the plane is 9.6 inches in length, what is the length, in feet, of the plane?",
+      "options": [
+        "320",
+        "370",
+        "310",
+        "330"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-048",
+      "q": "The perimeter of square whose side is 2.5 cm long is?",
+      "options": [
+        "12 cm",
+        "10 cm",
+        "11 cm",
+        "15 cm"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-049",
+      "q": "According to a time table a coach was due to leave a station at 22.55 and arrive at its destination at 06.05 the next day find the time for the journey?",
+      "options": [
+        "7 hours 11 minutes",
+        "7 hours 15 minutes",
+        "7 hours 10 minutes",
+        "7 hours 12 minutes"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-050",
+      "q": "If94 is subtracted from three times a certain number the result is 36. Find the number?",
+      "options": [
+        "48.33",
+        "43.33",
+        "38.33",
+        "53.33"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-051",
+      "q": "Tank fills in 0.8 s; in 2 hours how many tanks can be filled?",
+      "options": [
+        "8900",
+        "9000",
+        "18000",
+        "9100"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-052",
+      "q": "When 52416 is divided by 312, the quotient is 168. What will be the quotient when 52.416 is divided by 0.0168?",
+      "options": [
+        "3020",
+        "6240",
+        "3120",
+        "3220"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-053",
+      "q": "The price of 357 mangoes is Rs.1517.25. What will be the approximate price of 49 dozen of such mangoes?",
+      "options": [
+        "2599",
+        "2499",
+        "2399",
+        "4998"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-054",
+      "q": "The place value of 9 in 0.06945 is?",
+      "options": [
+        "2.009",
+        "0.009",
+        "1.009",
+        "-0.991"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-055",
+      "q": "7.5 million in numbers is write as?",
+      "options": [
+        "7500000",
+        "7499900",
+        "7500100",
+        "15000000"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-056",
+      "q": "Atrain left a station at 8.35 a.m. and arrived at destination at 3.12 p.m. How long did the journey take?",
+      "options": [
+        "8 hours and",
+        "7 hours and",
+        "6 hours and",
+        "11 hours and"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-057",
+      "q": "A hollow iron pipe is 21 cm long and its external diameter is 8 cm. If the thickness of the pipe is 1 cm and iron weights 8 g/cm², then the weight of iron is?",
+      "options": [
+        "8.7 kg",
+        "4.7 kg",
+        "3.696 kg",
+        "5.7 kg"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-058",
+      "q": "The value of (3.5 x 1.4) + 0.7 is?",
+      "options": [
+        "8",
+        "7",
+        "9",
+        "6"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-059",
+      "q": "4.036 divide by 0.04?",
+      "options": [
+        "110.9",
+        "100.9",
+        "90.9",
+        "150.9"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-060",
+      "q": "The angle of elevation of a ladder leaning against a wall is 60° and the foot of the ladder is 4.6 m away from the wall. The length of the ladder is?",
+      "options": [
+        "8.2",
+        "11.2",
+        "10.2",
+        "9.2"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-061",
+      "q": "0.0009 +x = 0.01. Find the value of x?",
+      "options": [
+        "-0.91",
+        "1.09",
+        "0.09",
+        "2.09"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-062",
+      "q": "The area of a circle is 98.56 cm². Find its circumference?",
+      "options": [
+        "37.17cm",
+        "35.17cm",
+        "36.17cm",
+        "40.17cm"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-063",
+      "q": "Aliran around a 1/4 kilometer track 17 times. How many kilometers did he ran?",
+      "options": [
+        "5.25 km",
+        "6.25 km",
+        "4.25 km",
+        "9.25 km"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-064",
+      "q": "Ifthe rate of tax on salary is 15%, then what is the monthly salary of a person who pays 4500 per month?",
+      "options": [
+        "Rs.30002",
+        "Rs.30005",
+        "Rs.30000",
+        "Rs.30001"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-065",
+      "q": "The cost of paint is Rs. 36.50 per kg. If one kg of paint covers 16 square feet, how much will it cost to paint outside of a cube having each side of 8 feet?",
+      "options": [
+        "Rs. 877",
+        "Rs. 876",
+        "Rs. 878",
+        "Rs. 881"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-066",
+      "q": "Six tenths is the same as?",
+      "options": [
+        "-0.4",
+        "0.6",
+        "1.6",
+        "2.6"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-067",
+      "q": "If 1 inch = 60 then 2.5 inches is equal to?",
+      "options": [
+        "140",
+        "160",
+        "150",
+        "200"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-068",
+      "q": "To fill a tank 25 buckets of water are required. How many buckets of water will be required to fill the same tank if the capacity of the bucket is reduced to two-fifth of its present capacity?",
+      "options": [
+        "72.5",
+        "62.5",
+        "57.5",
+        "67.5"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-069",
+      "q": "12 men and 15 women can reap a field in 14 days. Find the days that 7 men and 5 women can take to reap it?",
+      "options": [
+        "31.5",
+        "36.5",
+        "26.5",
+        "41.5"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-070",
+      "q": "When you divide 0.7 by 10, you will get?",
+      "options": [
+        "2.07",
+        "0.07",
+        "-0.9299999999999999",
+        "1.07"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-071",
+      "q": "Aman buys an article of $27.50 and sells it for $28.60. What is his gain?",
+      "options": [
+        "$6.1",
+        "$2.1",
+        "$1.10",
+        "$3.1"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-072",
+      "q": "Round off the following digit 38.23?",
+      "options": [
+        "48",
+        "43",
+        "38",
+        "33"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-073",
+      "q": "756/100 in decimal form is?",
+      "options": [
+        "6.56",
+        "7.56",
+        "8.559999999999999",
+        "9.559999999999999"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-074",
+      "q": "What fraction of a cake remains when 3/8 of the cake has been eaten?",
+      "options": [
+        "4/8",
+        "6/8",
+        "5/9",
+        "5/8"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-075",
+      "q": "If Jack needs 2.5 pints of cream to make a dessert. How many pints will he need to make 3 desserts?",
+      "options": [
+        "6.5",
+        "8.5",
+        "9.5",
+        "7.5"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-076",
+      "q": "Ahmad reads 24 pages of a book in 15 minutes. The rate of pages read per minute by him will be?",
+      "options": [
+        "0.6000000000000001",
+        "1.6",
+        "2.6",
+        "3.6"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-077",
+      "q": "Solve v(1.44)?",
+      "options": [
+        "0.19999999999999996",
+        "1.2",
+        "3.2",
+        "2.2"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-078",
+      "q": "Sam bought a 12 pack of soda for $5.40. How much did he pay per can of soda?",
+      "options": [
+        "$5.45",
+        "$0.45",
+        "$2.45",
+        "$1.45"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-079",
+      "q": "Solve 8+0.2?",
+      "options": [
+        "40",
+        "35",
+        "45",
+        "50"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-080",
+      "q": "Amancan doa piece of work in 5 days, but with the help of his son he can do it in 3 days. In what time can the son do it alone?",
+      "options": [
+        "9.5 days",
+        "7.5 days",
+        "12.5 days",
+        "8.5 days"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-081",
+      "q": "What is the square root of 0.16?",
+      "options": [
+        "0.4",
+        "2.4",
+        "1.4",
+        "-0.6"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-082",
+      "q": "The cube root of 0.000216 is?",
+      "options": [
+        "-0.94",
+        "2.06",
+        "0.06",
+        "1.06"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-083",
+      "q": "Toconvert a decimal number into binary number, we use the method of repeated?",
+      "options": [
+        "Cannot be determined",
+        "Insufficient data",
+        "Division",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-084",
+      "q": "Aspeed of 14 meters per second is the same as?",
+      "options": [
+        "51.4 km/h",
+        "55.4 km/h",
+        "52.4 km/h",
+        "50.4 km/h"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-085",
+      "q": "Solve 12 +20?",
+      "options": [
+        "1.6",
+        "2.6",
+        "0.6",
+        "-0.4"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-086",
+      "q": "Solve 5+0.5?",
+      "options": [
+        "20",
+        "10",
+        "5",
+        "15"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-087",
+      "q": "What is the fractional equivalent of 12.5%?",
+      "options": [
+        "1/8",
+        "2/8",
+        "0/8",
+        "1/9"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-088",
+      "q": "Atrain moves past a telegraph post and a bridge 264 m long in 8 seconds and 20 seconds respectively. What is the speed of the train?",
+      "options": [
+        "81.2 km/hr",
+        "80.2 km/hr",
+        "79.2 km/hr",
+        "84.2 km/hr"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-089",
+      "q": "One fourth of 15 is?",
+      "options": [
+        "4.75",
+        "2.75",
+        "3.75",
+        "5.75"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-090",
+      "q": "Amilkman adds 10 litre water in 10 litre milk. His son takes 15 litres of the milk and adds 5 litre water in it. Find out the amount of water in litres in this milk?",
+      "options": [
+        "17.5",
+        "7.5",
+        "12.5",
+        "22.5"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-091",
+      "q": "A bridge is completed in 45 days by 105 men. How long will it take 90 men to do the same work?",
+      "options": [
+        "53.5 days",
+        "57.5 days",
+        "52.5 days",
+        "54.5 days"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-092",
+      "q": "What fraction is exactly midway between 1/5 and 1/7?",
+      "options": [
+        "6/36",
+        "7/35",
+        "5/35",
+        "6/35"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-093",
+      "q": "Arectangular courtyard 3.78 m long and 5.25 m broad is to be paved exactly with square tiles of the same size. The minimum number of such tiles is?",
+      "options": [
+        "450",
+        "440",
+        "460",
+        "500"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-094",
+      "q": "Apperson covers distance of 125 kmin1 hour 15 minutes when travelling on car, how much distance will he travel in 25 minutes if the speed of car remain same?",
+      "options": [
+        "51.67",
+        "46.67",
+        "41.67",
+        "36.67"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-095",
+      "q": "1.14 expressed as a per cent of 1.9 is?",
+      "options": [
+        "60%",
+        "65%",
+        "62%",
+        "61%"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-096",
+      "q": "Ifthe cost of 50 kg of rice is Rs.9250 then find the cost of 5 kg rice?",
+      "options": [
+        "Rs.927",
+        "Rs.926",
+        "Rs.925",
+        "Rs.930"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-097",
+      "q": "Arectangular courtyard 3.78m long and 5.25m broad is to be paved exactly with square tiles, all of the same size. The minimum number of such tiles is?",
+      "options": [
+        "460",
+        "440",
+        "500",
+        "450"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-098",
+      "q": "The total cost of flooring a room at Rs. 8.50 per square meter is Rs. 510. If the WHATSAPP FOR IN CLASSES NITH SIR TAUQEER length of the room is 8m, its breadth is?",
+      "options": [
+        "12.5m",
+        "7.5m",
+        "9.5m",
+        "8.5m"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-099",
+      "q": "After adding 1.5 and 2.5 the result will be?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-100",
+      "q": "Simplify 1.1 x 10 + (4.2 - 2) x 3.7?",
+      "options": [
+        "24.14",
+        "29.14",
+        "19.14",
+        "14.14"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-101",
+      "q": "The perimeter of square whose side is 2.5cm long is?",
+      "options": [
+        "10cm",
+        "15cm",
+        "11cm",
+        "12cm"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-102",
+      "q": "The outer diameter of metal pipe is 2.84 inch and the inner diameter is 1.94 inches, the thickness of the metal is?",
+      "options": [
+        "0.45inch",
+        "1.45inch",
+        "5.45inch",
+        "2.45inch"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-103",
+      "q": "If 213x16=3408, then1.6x21.3 is equal to?",
+      "options": [
+        "44.08",
+        "29.08",
+        "34.08",
+        "39.08"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-104",
+      "q": "How many kg of pure salt must be added to 30 kg of 2 solution of salt and water to increase it to a 10 solution?",
+      "options": [
+        "7.6 kg",
+        "4.6 kg",
+        "3.6 kg",
+        "2.6 kg"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-105",
+      "q": "0.25 +100 is equal to?",
+      "options": [
+        "0.0025",
+        "2.0025",
+        "1.0025",
+        "-0.9975"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-106",
+      "q": "Two third of which number gives us 45?",
+      "options": [
+        "62.5",
+        "77.5",
+        "67.5",
+        "72.5"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-107",
+      "q": "Complete the series.1,9,25,49, _, 121?",
+      "options": [
+        "76",
+        "91",
+        "81",
+        "86"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-108",
+      "q": "lf a History Class has 12 boys & 18 girls than boys are what fraction of the class?",
+      "options": [
+        "3/5",
+        "2/5",
+        "1/5",
+        "2/6"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-109",
+      "q": "If 0.13 x p? = 13, then p equals?",
+      "options": [
+        "10",
+        "20",
+        "5",
+        "15"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-110",
+      "q": "Riya scored 72 out of 120 in her first test. After studying, she improved her score by 15%. What is her new score?",
+      "options": [
+        "82.8",
+        "77.8",
+        "87.8",
+        "92.8"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-111",
+      "q": "What is the result of (-0.9) - (-0.9)?",
+      "options": [
+        "-1",
+        "1",
+        "0",
+        "2"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-112",
+      "q": "If the cost of a loaf is Rs. 5.50, what is the cost of 2” loaves of bread?",
+      "options": [
+        "Rs. 13.75",
+        "Rs. 15.75",
+        "Rs. 14.75",
+        "Rs. 18.75"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-113",
+      "q": "0.05 is equal to which of the following fractions?",
+      "options": [
+        "1/20",
+        "2/20",
+        "0/20",
+        "1/21"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-114",
+      "q": "If 70 men completed a road in 35 days how many days will it take for 40 men to complete the same road?",
+      "options": [
+        "61.25 days",
+        "62.25 days",
+        "63.25 days",
+        "66.25 days"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-115",
+      "q": "Rs.120 are divided among A, B, C such that A’s share is Rs.20 more than B’s and Rs.20 less than C’s. What is B’s share?",
+      "options": [
+        "Rs.20",
+        "Rs.21",
+        "Rs.22",
+        "Rs.25"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-116",
+      "q": "Anindustrial loom weaves 0.128 meter of cloth every second. Approximately, how many seconds will it take for the loom to weave 25 meters of cloth?",
+      "options": [
+        "185",
+        "245",
+        "205",
+        "195"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-117",
+      "q": "Write the fraction of 5%?",
+      "options": [
+        "0/20",
+        "2/20",
+        "1/21",
+        "1/20"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-118",
+      "q": "Inthe first 10 over of a cricket game, the run rate was only 3.2. What should be the run rate in remaining 40 overs to reach the target 282 runs?",
+      "options": [
+        "5.25",
+        "7.25",
+        "6.25",
+        "8.25"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-119",
+      "q": "Aplayer drank 10 bottles of water in a cricket match. The capacity of each bottle is 1.5 Liter. How many liters of water the player drank?",
+      "options": [
+        "15 Liters",
+        "17 Liters",
+        "20 Liters",
+        "16 Liters"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-120",
+      "q": "What is the amount of Zakat a person has to pay if he has Rs. 800000 at a rate of 2.5%?",
+      "options": [
+        "20100",
+        "40000",
+        "19900",
+        "20000"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-121",
+      "q": "Your supervisor instructed you to purchase 240 pens and 6 staplers for the office. Pens are purchased in sets of 6 for Rs. 2.35 per pack. Staplers are purchased in sets of 2 for 12.95. How much will the purchasing of these products cost?",
+      "options": [
+        "Rs. 137.85",
+        "Rs. 132.85",
+        "Rs. 134.85",
+        "Rs. 133.85"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-122",
+      "q": "How many pieces of 0.85 meters can be cut from a rod 42.5 meters long?",
+      "options": [
+        "60",
+        "55",
+        "50",
+        "45"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-123",
+      "q": "3/1000 written as?",
+      "options": [
+        "0.003",
+        "-0.997",
+        "1.003",
+        "2.003"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-124",
+      "q": "Adil’s daily wage is Rs.250 after increment of 25%. What was his daily wage before increment?",
+      "options": [
+        "Rs. 202",
+        "Rs. 205",
+        "Rs. 201",
+        "Rs. 200"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-125",
+      "q": "What fraction of a cake remains when its 2/8 part has been eaten?",
+      "options": [
+        "3/4",
+        "3/5",
+        "4/4",
+        "2/4"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-126",
+      "q": "Convert 1100011 from Binary to Decimal?",
+      "options": [
+        "94",
+        "104",
+        "99",
+        "109"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-127",
+      "q": "One Inch is equal to?",
+      "options": [
+        "3.54 cm",
+        "7.54 cm",
+        "4.54 cm",
+        "2.54 cm"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-128",
+      "q": "One yard is equal to how many meter?",
+      "options": [
+        "0.914 m",
+        "2.91 m",
+        "1.91 m",
+        "5.91 m"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-129",
+      "q": "What is the amount of Zakat a person has to pay if he has Rs. 4,040,000 at a rate of 2.5%?",
+      "options": [
+        "Rs. 101,5",
+        "Rs. 101,000",
+        "Rs. 101,2",
+        "Rs. 101,1"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-130",
+      "q": "Divide 3900 + 500?",
+      "options": [
+        "6.8",
+        "9.8",
+        "7.8",
+        "8.8"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-131",
+      "q": "Evaluate 48.95 - 32.006?",
+      "options": [
+        "26.944",
+        "16.944",
+        "11.943999999999999",
+        "21.944"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-132",
+      "q": "What is 0.004 x 0.5?",
+      "options": [
+        "0.002",
+        "2.002",
+        "1.002",
+        "-0.998"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-133",
+      "q": "A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?",
+      "options": [
+        "6.2",
+        "7.2",
+        "8.2",
+        "9.2"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-134",
+      "q": "One square foot is equal to 144 sq inches and one meter is equal to?",
+      "options": [
+        "3.28",
+        "5.279999999999999",
+        "4.279999999999999",
+        "2.28"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-135",
+      "q": "A boy saves Rs. 4.56 the first month, Rs. 3.82 second month and Rs. 5.06 the third month. How much did he save altogether?",
+      "options": [
+        "8.44",
+        "13.44",
+        "18.439999999999998",
+        "23.439999999999998"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-136",
+      "q": "Apizza is divided into 12 slices. If 4 slices are eaten, what fraction pizza is left?",
+      "options": [
+        "3/3",
+        "2/3",
+        "2/4",
+        "1/3"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-137",
+      "q": "Printer A can complete a 50-page manuscript in 12 minutes. How many pages would be completed in 3 minutes?",
+      "options": [
+        "17.5",
+        "22.5",
+        "7.5",
+        "12.5"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-138",
+      "q": "Ahistory class has 12 boys and 18 girls. Boys are what fraction of the class?",
+      "options": [
+        "3/5",
+        "2/5",
+        "2/6",
+        "1/5"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-139",
+      "q": "A housing society has been allotted a piece of land measuring 2550.25 Sq m. What is the side of the plot?",
+      "options": [
+        "51.5 m",
+        "50.5 m",
+        "55.5 m",
+        "52.5 m"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-140",
+      "q": "If an object is moving at a speed of 30 km/hour, how many meters does it travel in one second?",
+      "options": [
+        "8.33",
+        "9.33",
+        "10.33",
+        "7.33"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-141",
+      "q": "One pound is equal to kilogram²",
+      "options": [
+        "1.454",
+        "-0.546",
+        "0.454",
+        "2.454"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-142",
+      "q": "One ounce is equal to grams?",
+      "options": [
+        "23.35",
+        "33.35",
+        "28.35",
+        "38.35"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-143",
+      "q": "The road is completed in 35 days by 70 men. How long it will take 40 men to complete the work?",
+      "options": [
+        "61.25",
+        "56.25",
+        "71.25",
+        "66.25"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-144",
+      "q": "3.29 x 1000 equals?",
+      "options": [
+        "3290",
+        "3190",
+        "3390",
+        "6580"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-145",
+      "q": "One mile is equal to how many kilometers?",
+      "options": [
+        "2.609",
+        "1.609",
+        "0.609",
+        "3.609"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-146",
+      "q": "lf 2 tables and 3 chairs cost Rs.3500 and 3 tables and 2 chairs cost Rs.4000, then how much does a table cost?",
+      "options": [
+        "2000",
+        "1100",
+        "900",
+        "1000"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-147",
+      "q": "A pineapple costs Rs.7 each. A watermelon costs Rs.5 each. X spends Rs.38 on those fruits. The number of pineapples purchased is?",
+      "options": [
+        "6",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-148",
+      "q": "Add1/4.1/4?",
+      "options": [
+        "%",
+        "Cannot be determined",
+        "None of these",
+        "Insufficient data"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-149",
+      "q": "Inthe first 10 overs of a cricket game, the run rate was only 3.2. What should be the run rate in the remaining 40 overs to reach the target of 282 runs?",
+      "options": [
+        "6.25",
+        "8.25",
+        "5.25",
+        "7.25"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-150",
+      "q": "Convert 1/10 into fraction?",
+      "options": [
+        "2.1",
+        "1.1",
+        "-0.9",
+        "0.1"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-151",
+      "q": "Simplify 0.001?",
+      "options": [
+        "1/1000",
+        "2/1000",
+        "1/1001",
+        "0/1000"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-152",
+      "q": "0.5is equal to?",
+      "options": [
+        "%",
+        "Insufficient data",
+        "None of these",
+        "Cannot be determined"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-153",
+      "q": "If2x-—10=5thenx—5?",
+      "options": [
+        "1.5",
+        "2.5",
+        "3.5",
+        "4.5"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-154",
+      "q": "Asteel rod has a diameter of 2.25 cm Express its diameter in millimeter?",
+      "options": [
+        "27.5",
+        "22.5",
+        "32.5",
+        "17.5"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "fracti-155",
+      "q": "Hamid had three times as much money as Rashid. If Hamid gives Rashid Rs.50, Rashid will then have three times as much money as Hamid. How much money do the two of them have together?",
+      "options": [
+        "100",
+        "90",
+        "150",
+        "110"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    }
+  ]
+}

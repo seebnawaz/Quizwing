@@ -1,0 +1,713 @@
+{
+  "topic_id": "99-names-of-holy-prophet",
+  "topic_name": "99 Names of Holy Prophet",
+  "subject": "islamic-studies",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "99 Names of Holy Prophet MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "nameso-001",
+      "q": "How many blessed names does the Holy Prophet Muhammad (ï·º) have according to Islamic tradition?",
+      "options": [
+        "33",
+        "66",
+        "99",
+        "114"
+      ],
+      "correct": 2,
+      "explanation": "The Holy Prophet Muhammad (ï·º) has 99 blessed names in Islamic tradition, known as Asma-un-Nabi. These names reflect his attributes, lineage, and his role as the final messenger of Allah.",
+      "tags": []
+    },
+    {
+      "id": "nameso-002",
+      "q": "What is the meaning of the name &#x27;Muhammad&#x27;?",
+      "options": [
+        "The most commendable",
+        "The chosen one",
+        "The highly praised one",
+        "The praising"
+      ],
+      "correct": 2,
+      "explanation": "Muhammad means &#x27;the highly praised one&#x27; in Arabic. It is the 1st and most well-known name of the Holy Prophet (ï·º). The name Ahmed (no. 2) means the most commendable.",
+      "tags": []
+    },
+    {
+      "id": "nameso-003",
+      "q": "What is the meaning of the name &#x27;Ahmed&#x27;?",
+      "options": [
+        "The highly praised one",
+        "The most commendable",
+        "The chosen one",
+        "The witness"
+      ],
+      "correct": 1,
+      "explanation": "Ahmed means &#x27;the most commendable.&#x27; It is the 2nd name of the Holy Prophet (ï·º). Both Muhammad and Ahmed are derived from the same Arabic root (hamd = praise) and both are mentioned in the Quran.",
+      "tags": []
+    },
+    {
+      "id": "nameso-004",
+      "q": "What is the meaning of &#x27;Hamid&#x27; (3rd name)?",
+      "options": [
+        "The praised",
+        "The praising",
+        "The most commendable",
+        "The distributor"
+      ],
+      "correct": 1,
+      "explanation": "Hamid means &#x27;the praising&#x27; â one who praises Allah. Mahmud (4th name) means &#x27;the praised&#x27; â one who is praised. The two are often confused in exams.",
+      "tags": []
+    },
+    {
+      "id": "nameso-005",
+      "q": "What is the meaning of &#x27;Mahmud&#x27; (4th name)?",
+      "options": [
+        "The praising",
+        "The most commendable",
+        "The praised",
+        "The highly praised one"
+      ],
+      "correct": 2,
+      "explanation": "Mahmud means &#x27;the praised.&#x27; Hamid (3rd) means &#x27;the praising.&#x27; Mahmud and Muhammad share the same root but have different forms â Mahmud is passive (the one who is praised).",
+      "tags": []
+    },
+    {
+      "id": "nameso-006",
+      "q": "What is the meaning of &#x27;Qasim&#x27; (5th name)?",
+      "options": [
+        "The distributor",
+        "The conqueror",
+        "The witness",
+        "The caller"
+      ],
+      "correct": 0,
+      "explanation": "Qasim means &#x27;the distributor&#x27; â one who distributes or divides. It was also the name of the Holy Prophet&#x27;s son (Qasim ibn Muhammad), who died in infancy, and the Prophet was known as Abu Qasim.",
+      "tags": []
+    },
+    {
+      "id": "nameso-007",
+      "q": "What is the meaning of &#x27;Aqib&#x27; (6th name)?",
+      "options": [
+        "The first",
+        "The last",
+        "The witness",
+        "The well-guided"
+      ],
+      "correct": 1,
+      "explanation": "Aqib means &#x27;the last.&#x27; It signifies that the Holy Prophet (ï·º) is the last in the line of prophets. Khatam al Anbiya (no. 63, Seal of the Prophets) conveys the same finality.",
+      "tags": []
+    },
+    {
+      "id": "nameso-008",
+      "q": "What is the meaning of &#x27;Hashir&#x27; (9th name)?",
+      "options": [
+        "The one who saves",
+        "The one who wipes out",
+        "The one who gathers people",
+        "The well-guided"
+      ],
+      "correct": 2,
+      "explanation": "Hashir means &#x27;the one who gathers people.&#x27; It refers to the Prophet&#x27;s role on the Day of Judgment when all of mankind will be gathered. It is one of the eschatological names of the Holy Prophet (ï·º).",
+      "tags": []
+    },
+    {
+      "id": "nameso-009",
+      "q": "What is the meaning of &#x27;Bashir&#x27; (12th name)?",
+      "options": [
+        "The warner",
+        "The bringer of good tidings",
+        "The healer",
+        "The witness"
+      ],
+      "correct": 1,
+      "explanation": "Bashir means &#x27;the bringer of good tidings&#x27; â one who gives glad tidings of Paradise to believers. Its counterpart is Nadhir (13th name), meaning the warner.",
+      "tags": []
+    },
+    {
+      "id": "nameso-010",
+      "q": "What is the meaning of &#x27;Nadhir&#x27; (13th name)?",
+      "options": [
+        "The bringer of good tidings",
+        "The caller",
+        "The warner",
+        "The healer"
+      ],
+      "correct": 2,
+      "explanation": "Nadhir means &#x27;the warner&#x27; â one who warns people of the consequences of disbelief and sin. Bashir (12th) and Nadhir (13th) are mentioned together in the Quran as twin roles of the Prophet.",
+      "tags": []
+    },
+    {
+      "id": "nameso-011",
+      "q": "What is the meaning of &#x27;Shafi&#x27; (15th name)?",
+      "options": [
+        "The guide",
+        "The healer",
+        "The warner",
+        "The witness"
+      ],
+      "correct": 1,
+      "explanation": "Shafi means &#x27;the healer.&#x27; It also carries the meaning of &#x27;intercessor&#x27; â one who intercedes on behalf of others. The Holy Prophet (ï·º) will be the great intercessor (Shafi-ul-Muznibin) on the Day of Judgment.",
+      "tags": []
+    },
+    {
+      "id": "nameso-012",
+      "q": "What is the meaning of &#x27;Mahi&#x27; (18th name)?",
+      "options": [
+        "The guided one",
+        "The safe one",
+        "The one who wipes out",
+        "The one who delivers"
+      ],
+      "correct": 2,
+      "explanation": "Mahi means &#x27;the one who wipes out&#x27; â the Prophet (ï·º) wiped out disbelief and polytheism from Arabia. It is one of the five names the Prophet mentioned for himself in a famous hadith alongside Muhammad, Ahmed, Hashir and Aqib.",
+      "tags": []
+    },
+    {
+      "id": "nameso-013",
+      "q": "What is the meaning of &#x27;Ummi&#x27; (23rd name)?",
+      "options": [
+        "From Makkah",
+        "The orphan",
+        "Unlettered",
+        "Noble"
+      ],
+      "correct": 2,
+      "explanation": "Ummi means &#x27;unlettered&#x27; â the Prophet (ï·º) could not read or write before revelation, which itself is a miracle proving the divine origin of the Quran. This title is referenced in Surah Al-A&#x27;raf (7:157â158).",
+      "tags": []
+    },
+    {
+      "id": "nameso-014",
+      "q": "What is the meaning of &#x27;Aziz&#x27; (27th name)?",
+      "options": [
+        "Mild",
+        "Merciful",
+        "Noble",
+        "Trustworthy"
+      ],
+      "correct": 2,
+      "explanation": "Aziz means &#x27;noble&#x27; or &#x27;dear.&#x27; The name appears in Surah At-Tawbah (9:128): &#x27;There has come to you a messenger from among yourselves â grievous to him is what you suffer (Aziz-un Alayhi ma anittum).&#x27;",
+      "tags": []
+    },
+    {
+      "id": "nameso-015",
+      "q": "What is the meaning of &#x27;Rauf&#x27; (29th name)?",
+      "options": [
+        "Generous",
+        "Noble",
+        "Merciful",
+        "Mild"
+      ],
+      "correct": 3,
+      "explanation": "Rauf means &#x27;mild&#x27; or &#x27;kind.&#x27; It appears alongside Rahim in Surah At-Tawbah (9:128), where Allah describes the Prophet as being Rauf (full of kindness) and Rahim (merciful) toward the believers.",
+      "tags": []
+    },
+    {
+      "id": "nameso-016",
+      "q": "What is the meaning of &#x27;Mustafa&#x27; (36th name)?",
+      "options": [
+        "Elect",
+        "Content",
+        "The praised",
+        "Chosen"
+      ],
+      "correct": 3,
+      "explanation": "Mustafa means &#x27;the chosen one&#x27; â chosen by Allah. It is no. 36 among the 99 names and is the most widely used poetic title of the Holy Prophet (ï·º) in Urdu and Persian literature.",
+      "tags": []
+    },
+    {
+      "id": "nameso-017",
+      "q": "What is the meaning of &#x27;Mujtaba&#x27; (32nd name)?",
+      "options": [
+        "Chosen",
+        "Elect",
+        "Content",
+        "Guided"
+      ],
+      "correct": 1,
+      "explanation": "Mujtaba means &#x27;elect&#x27; â selected or handpicked by Allah. Mustafa (no. 36) means chosen, and Murtada (no. 34) means content. All three are honor-titles reflecting Allah&#x27;s selection of the Prophet.",
+      "tags": []
+    },
+    {
+      "id": "nameso-018",
+      "q": "What is the meaning of &#x27;Murtada&#x27; (34th name)?",
+      "options": [
+        "Chosen",
+        "Elect",
+        "Content",
+        "Trustworthy"
+      ],
+      "correct": 2,
+      "explanation": "Murtada means &#x27;content&#x27; or &#x27;one who is pleased.&#x27; It is no. 34 among the 99 names. Mujtaba (32) = Elect; Mustafa (36) = Chosen. This trio of names is frequently tested together in competitive exams.",
+      "tags": []
+    },
+    {
+      "id": "nameso-019",
+      "q": "The name &#x27;Taha&#x27; (31st) is associated with which Surah of the Quran?",
+      "options": [
+        "Surah 18",
+        "Surah 19",
+        "Surah 20",
+        "Surah 36"
+      ],
+      "correct": 2,
+      "explanation": "Taha is the 31st name of the Holy Prophet (ï·º) and is associated with Surah Taha (Surah 20, verse 1). The opening letters &#x27;Ta Ha&#x27; of this Surah are considered one of the blessed names of the Prophet.",
+      "tags": []
+    },
+    {
+      "id": "nameso-020",
+      "q": "The name &#x27;Yasin&#x27; (37th) is associated with which Surah of the Quran?",
+      "options": [
+        "Surah 36",
+        "Surah 37",
+        "Surah 40",
+        "Surah 73"
+      ],
+      "correct": 0,
+      "explanation": "Yasin is the 37th name of the Holy Prophet (ï·º) and is associated with Surah Yasin (Surah 36, verse 1). Surah Yasin is called the heart of the Quran.",
+      "tags": []
+    },
+    {
+      "id": "nameso-021",
+      "q": "What is the meaning of &#x27;Muzammil&#x27; (39th name)?",
+      "options": [
+        "Covered",
+        "Wrapped",
+        "Purified",
+        "Guided"
+      ],
+      "correct": 1,
+      "explanation": "Muzammil means &#x27;wrapped&#x27; â one who is wrapped in a garment. It is no. 39 among the 99 names and is also the name of Surah 73 of the Quran, in which Allah addresses the Prophet as &#x27;O you wrapped in garments!&#x27;",
+      "tags": []
+    },
+    {
+      "id": "nameso-022",
+      "q": "What is the meaning of &#x27;Mudathir&#x27; (41st name)?",
+      "options": [
+        "Wrapped",
+        "Purified",
+        "Covered",
+        "Chosen"
+      ],
+      "correct": 2,
+      "explanation": "Mudathir means &#x27;covered&#x27; â one who is covered with a cloak. It is no. 41 and is also the name of Surah 74. Allah addresses the Prophet: &#x27;O you covered (Mudathir), arise and warn!&#x27;",
+      "tags": []
+    },
+    {
+      "id": "nameso-023",
+      "q": "What is the meaning of &#x27;Tayyib&#x27; (44th name)?",
+      "options": [
+        "Sincere",
+        "Trustworthy",
+        "Pure",
+        "Obedient"
+      ],
+      "correct": 2,
+      "explanation": "Tayyib means &#x27;pure&#x27; â pure in character, lineage and conduct. It is no. 44 among the 99 names. The word Tayyib is also used in Islamic scholarship to describe lawful and wholesome things (Halal wa Tayyib).",
+      "tags": []
+    },
+    {
+      "id": "nameso-024",
+      "q": "What is the meaning of &#x27;Amin&#x27; (57th name)?",
+      "options": [
+        "Sincere",
+        "Trustworthy",
+        "Obedient",
+        "Noble"
+      ],
+      "correct": 1,
+      "explanation": "Amin means &#x27;trustworthy.&#x27; It is no. 57 among the 99 names and was a title given to the Holy Prophet (ï·º) by the Quraysh of Makkah even before his prophethood, alongside Al-Sadiq (the truthful).",
+      "tags": []
+    },
+    {
+      "id": "nameso-025",
+      "q": "What is the meaning of &#x27;Sadiq&#x27; (56th name)?",
+      "options": [
+        "Trustworthy",
+        "Sincere",
+        "Just",
+        "Pure"
+      ],
+      "correct": 1,
+      "explanation": "Sadiq means &#x27;sincere&#x27; or &#x27;truthful.&#x27; It is no. 56. Together with Amin (no. 57, trustworthy), these two names reflect the titles given to the Holy Prophet by the Quraysh before his declaration of prophethood.",
+      "tags": []
+    },
+    {
+      "id": "nameso-026",
+      "q": "What is the meaning of &#x27;Abdallah&#x27; (58th name)?",
+      "options": [
+        "God&#x27;s intimate friend",
+        "God&#x27;s beloved friend",
+        "Allah&#x27;s servant",
+        "Whom God has talked to"
+      ],
+      "correct": 2,
+      "explanation": "Abdallah means &#x27;Allah&#x27;s servant.&#x27; It is the first of five compound &#x27;Allah-names&#x27; (nos. 58â62). In Surah Al-Jinn (72:19), Allah says: &#x27;When the servant of Allah (Abd-Allah) stood up...&#x27;",
+      "tags": []
+    },
+    {
+      "id": "nameso-027",
+      "q": "What is the meaning of &#x27;Habibullah&#x27; (60th name)?",
+      "options": [
+        "Allah&#x27;s servant",
+        "God&#x27;s intimate friend",
+        "Whom God has talked to",
+        "God&#x27;s beloved friend"
+      ],
+      "correct": 3,
+      "explanation": "Habibullah means &#x27;God&#x27;s beloved friend.&#x27; It is no. 60 among the 99 names. Habib = beloved/close friend. This is one of the most frequently cited of the compound Allah-names in Islamic literature.",
+      "tags": []
+    },
+    {
+      "id": "nameso-028",
+      "q": "What is the meaning of &#x27;Kalimullah&#x27; (59th name)?",
+      "options": [
+        "God&#x27;s beloved friend",
+        "Whom God has talked to",
+        "Allah&#x27;s servant",
+        "God&#x27;s sincere friend"
+      ],
+      "correct": 1,
+      "explanation": "Kalimullah means &#x27;Whom God has talked to.&#x27; It is no. 59. Note: In the Quran, Hazrat Musa (AS) is specifically called Kalimullah because Allah spoke to him directly. The Holy Prophet (ï·º) also shares this name.",
+      "tags": []
+    },
+    {
+      "id": "nameso-029",
+      "q": "What is the meaning of &#x27;Safiallah&#x27; (62nd name)?",
+      "options": [
+        "God&#x27;s intimate friend",
+        "God&#x27;s beloved friend",
+        "Allah&#x27;s servant",
+        "God&#x27;s sincere friend"
+      ],
+      "correct": 3,
+      "explanation": "Safiallah means &#x27;God&#x27;s sincere friend.&#x27; It is no. 62, the last of the five compound Allah-names (nos. 58â62). Safi = sincere, pure, chosen. Note: Hazrat Adam (AS) is known as Safiallah in Islamic tradition.",
+      "tags": []
+    },
+    {
+      "id": "nameso-030",
+      "q": "What is the meaning of &#x27;Khatam al Anbiya&#x27; (63rd name)?",
+      "options": [
+        "The Messenger of mercy",
+        "Seal of the Prophets",
+        "The Prophet of repentance",
+        "God&#x27;s beloved friend"
+      ],
+      "correct": 1,
+      "explanation": "Khatam al Anbiya means &#x27;Seal of the Prophets&#x27; â the last and final prophet. It is no. 63 and reflects the doctrine of Khatm-e-Nubuwwat (finality of prophethood), a fundamental belief in Islam.",
+      "tags": []
+    },
+    {
+      "id": "nameso-031",
+      "q": "What is the meaning of &#x27;Rasul ar Rahma&#x27; (68th name)?",
+      "options": [
+        "The Messenger of the battles",
+        "The Prophet of repentance",
+        "The Messenger of mercy",
+        "God&#x27;s beloved messenger"
+      ],
+      "correct": 2,
+      "explanation": "Rasul ar Rahma means &#x27;the Messenger of mercy.&#x27; It is no. 68 and is directly referenced in the Quran in Surah Al-Anbiya (21:107): &#x27;And We have not sent you except as a mercy to the worlds.&#x27;",
+      "tags": []
+    },
+    {
+      "id": "nameso-032",
+      "q": "How many compound names of the Holy Prophet contain the word &#x27;Allah&#x27;?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "explanation": "Five compound names of the Holy Prophet (ï·º) contain the word Allah (nos. 58â62): Abdallah, Kalimullah, Habibullah, Najiallah, and Safiallah. These are consecutively numbered and frequently tested as a group.",
+      "tags": []
+    },
+    {
+      "id": "nameso-033",
+      "q": "What is the meaning of &#x27;Yatim&#x27; (80th name)?",
+      "options": [
+        "Generous",
+        "Orphan",
+        "Lord",
+        "Wise"
+      ],
+      "correct": 1,
+      "explanation": "Yatim means &#x27;orphan.&#x27; It is no. 80 and refers to the Holy Prophet&#x27;s early life â his father Abdullah died before his birth, and his mother Aminah died when he was six years old. Surah Ad-Duha (93:6) mentions: &#x27;Did He not find you an orphan and shelter you?&#x27;",
+      "tags": []
+    },
+    {
+      "id": "nameso-034",
+      "q": "What is the meaning of &#x27;Sayyid&#x27; (83rd name)?",
+      "options": [
+        "Lamp",
+        "Friend",
+        "Lord",
+        "Generous"
+      ],
+      "correct": 2,
+      "explanation": "Sayyid means &#x27;lord&#x27; or &#x27;master.&#x27; It is no. 83 among the 99 names. The Holy Prophet (ï·º) said: &#x27;I am the Sayyid (master) of the children of Adam on the Day of Resurrection, and I am not boasting.&#x27;",
+      "tags": []
+    },
+    {
+      "id": "nameso-035",
+      "q": "Which two names of the Holy Prophet both mean &#x27;Lamp&#x27;?",
+      "options": [
+        "Siraj and Munir",
+        "Misbah and Siraj",
+        "Misbah and Munir",
+        "Siraj and Matin"
+      ],
+      "correct": 1,
+      "explanation": "Both Misbah (no. 47) and Siraj (no. 84) mean &#x27;Lamp.&#x27; This is a key MCQ trap â two different names share the same meaning. Surah Al-Ahzab (33:46) refers to the Prophet as &#x27;Siraj-un-Munir&#x27; (a radiant lamp).",
+      "tags": []
+    },
+    {
+      "id": "nameso-036",
+      "q": "What is the meaning of &#x27;Munir&#x27; (85th name)?",
+      "options": [
+        "Lamp",
+        "Honoured",
+        "Radiant",
+        "Purified"
+      ],
+      "correct": 2,
+      "explanation": "Munir means &#x27;radiant&#x27; or &#x27;shining.&#x27; It is no. 85. The Quran refers to the Holy Prophet in Surah Al-Ahzab (33:46) as &#x27;Siraj-un-Munir&#x27; â combining the names Siraj (84, Lamp) and Munir (85, Radiant).",
+      "tags": []
+    },
+    {
+      "id": "nameso-037",
+      "q": "What is the meaning of &#x27;Mutahhar&#x27; (90th name)?",
+      "options": [
+        "Honoured",
+        "Immune",
+        "Bringer of good news",
+        "Purified"
+      ],
+      "correct": 3,
+      "explanation": "Mutahhar means &#x27;purified.&#x27; It is no. 90. Surah Al-Abasa (80:14) describes the Quran as &#x27;Mutahhara&#x27; (purified/honoured). As a name of the Prophet, Mutahhar reflects his purity of character, lineage and spirit.",
+      "tags": []
+    },
+    {
+      "id": "nameso-038",
+      "q": "What is the meaning of &#x27;Adil&#x27; (96th name)?",
+      "options": [
+        "Well-known",
+        "Martyr",
+        "Just",
+        "Near"
+      ],
+      "correct": 2,
+      "explanation": "Adil means &#x27;just.&#x27; It is no. 96 among the 99 names. Justice (Adl) is a central pillar of Islamic governance and prophetic conduct. The Holy Prophet (ï·º) was described as supremely just in all his dealings.",
+      "tags": []
+    },
+    {
+      "id": "nameso-039",
+      "q": "What is the meaning of &#x27;Rasul al Malahim&#x27; (99th name)?",
+      "options": [
+        "The Messenger of mercy",
+        "The Seal of the Prophets",
+        "The Messenger of the battles of the last days",
+        "The Prophet of repentance"
+      ],
+      "correct": 2,
+      "explanation": "Rasul al Malahim means &#x27;the Messenger of the battles of the last days.&#x27; It is the 99th and final name, referring to the Holy Prophet&#x27;s role and prophecies regarding end-times events (Malahim = great battles / end-times events).",
+      "tags": []
+    },
+    {
+      "id": "nameso-040",
+      "q": "&#x27;Hamim&#x27; (35th name) is associated with the opening of which Surahs?",
+      "options": [
+        "Surahs 20â26",
+        "Surahs 36â40",
+        "Surahs 40â46",
+        "Surahs 50â56"
+      ],
+      "correct": 2,
+      "explanation": "Hamim is the 35th name and is associated with the beginning of Surahs 40 through 46 â a group called the Hawamim. These seven consecutive Surahs all begin with the letters &#x27;Ha Mim.&#x27;",
+      "tags": []
+    },
+    {
+      "id": "nameso-041",
+      "q": "What is the meaning of &#x27;Nabi at Tauba&#x27; (53rd name)?",
+      "options": [
+        "The Prophet of patience",
+        "The Prophet of repentance",
+        "The Prophet of forgiveness",
+        "The Prophet of mercy"
+      ],
+      "correct": 1,
+      "explanation": "Nabi at Tauba means &#x27;the Prophet of repentance.&#x27; It is no. 53 and reflects the Holy Prophet&#x27;s role in guiding sinners to seek repentance and return to Allah. Tawbah = repentance in Arabic.",
+      "tags": []
+    },
+    {
+      "id": "nameso-042",
+      "q": "Which name of the Holy Prophet means &#x27;The one who wipes out&#x27; (18th name)?",
+      "options": [
+        "Hashir",
+        "Naji",
+        "Aqib",
+        "Mahi"
+      ],
+      "correct": 3,
+      "explanation": "Mahi (no. 18) means &#x27;the one who wipes out&#x27; â the Prophet wiped out disbelief from Arabia. In a hadith, the Prophet named five of his own names: Muhammad, Ahmed, Mahi, Hashir, and Aqib.",
+      "tags": []
+    },
+    {
+      "id": "nameso-043",
+      "q": "Which geographic/tribal name means &#x27;From the clan of Quraysh&#x27;?",
+      "options": [
+        "Tihami",
+        "Hashimi",
+        "Qurayshi",
+        "Hijazi"
+      ],
+      "correct": 2,
+      "explanation": "Qurayshi (no. 51) means &#x27;from the clan of Quraysh.&#x27; Related names: Tihami (24) = from the Tihama, Hashimi (25) = belonging to the family of al-Hashim, Hijazi (49) = from the Hijaz, Mudari (52) = from the tribe of Mudar.",
+      "tags": []
+    },
+    {
+      "id": "nameso-044",
+      "q": "What is the meaning of &#x27;Kamil&#x27; (55th name)?",
+      "options": [
+        "Sincere",
+        "Trustworthy",
+        "Obedient",
+        "Perfect"
+      ],
+      "correct": 3,
+      "explanation": "Kamil means &#x27;perfect.&#x27; It is no. 55 among the 99 names, reflecting the Holy Prophet&#x27;s perfect character, knowledge, conduct and role as the ideal model (Uswah Hasanah) for all of mankind.",
+      "tags": []
+    },
+    {
+      "id": "nameso-045",
+      "q": "Which name means &#x27;God&#x27;s intimate friend&#x27; (61st name)?",
+      "options": [
+        "Habibullah",
+        "Safiallah",
+        "Najiallah",
+        "Kalimullah"
+      ],
+      "correct": 2,
+      "explanation": "Najiallah (no. 61) means &#x27;God&#x27;s intimate friend.&#x27; Naji = intimate, confidant. Habibullah (60) = God&#x27;s beloved friend; Safiallah (62) = God&#x27;s sincere friend. All three express closeness to Allah.",
+      "tags": []
+    },
+    {
+      "id": "nameso-046",
+      "q": "What is the meaning of &#x27;Khalil&#x27; (92nd name)?",
+      "options": [
+        "Near",
+        "Good friend",
+        "Obedient",
+        "Generous"
+      ],
+      "correct": 1,
+      "explanation": "Khalil means &#x27;good friend&#x27; or &#x27;close companion.&#x27; It is no. 92 among the 99 names. In Islamic tradition, Hazrat Ibrahim (AS) is called Khalilullah (close friend of Allah). The Prophet (ï·º) also holds this blessed title.",
+      "tags": []
+    },
+    {
+      "id": "nameso-047",
+      "q": "What is the meaning of &#x27;Hashimi&#x27; (25th name)?",
+      "options": [
+        "From the Tihama",
+        "Belonging to the family of al-Hashim",
+        "From the Hijaz",
+        "From the tribe of Mudar"
+      ],
+      "correct": 1,
+      "explanation": "Hashimi (no. 25) means &#x27;belonging to the family of al-Hashim&#x27; â the Holy Prophet&#x27;s clan within the Quraysh tribe. His great-grandfather Hashim ibn Abd Manaf founded the Banu Hashim clan.",
+      "tags": []
+    },
+    {
+      "id": "nameso-048",
+      "q": "What is the meaning of &#x27;Mansur&#x27; (46th name)?",
+      "options": [
+        "Strong",
+        "Helper",
+        "Victorious",
+        "Firm"
+      ],
+      "correct": 2,
+      "explanation": "Mansur means &#x27;victorious.&#x27; It is no. 46 and reflects the ultimate victory of truth and Islam through the Holy Prophet&#x27;s mission. Related names: Nasir (45) = Helper, Matin (42) = Firm, Qawi (69) = Strong.",
+      "tags": []
+    },
+    {
+      "id": "nameso-049",
+      "q": "What is the meaning of &#x27;Mukarram&#x27; (87th name)?",
+      "options": [
+        "Immune",
+        "Honoured",
+        "Purified",
+        "Bringer of good news"
+      ],
+      "correct": 1,
+      "explanation": "Mukarram means &#x27;honoured&#x27; or &#x27;distinguished.&#x27; It is no. 87. Related name: Muharram (86) = immune (protected from sin). Mukarram reflects the supreme dignity and honour bestowed by Allah on the Holy Prophet (ï·º).",
+      "tags": []
+    },
+    {
+      "id": "nameso-050",
+      "q": "&#x27;Siraj&#x27; as a name of the Holy Prophet means:",
+      "options": [
+        "Radiant",
+        "Lamp",
+        "Glowing star",
+        "Sun"
+      ],
+      "correct": 1,
+      "explanation": "Siraj means &#x27;lamp.&#x27; It is no. 84. The Quran (33:46) calls the Prophet &#x27;Siraj-un-Munir&#x27; â a radiant lamp. Both Siraj (84) and Misbah (47) mean Lamp â two names sharing the same meaning.",
+      "tags": []
+    },
+    {
+      "id": "nameso-051",
+      "q": "What is the meaning of &#x27;Khatim&#x27; (95th name)?",
+      "options": [
+        "Messenger",
+        "Seal",
+        "Lord",
+        "Just"
+      ],
+      "correct": 1,
+      "explanation": "Khatim means &#x27;seal.&#x27; It is no. 95. Note the distinction: Khatam al Anbiya (no. 63) means &#x27;Seal of the Prophets&#x27; (a full compound title), while Khatim (no. 95) is simply &#x27;seal&#x27; as a standalone name.",
+      "tags": []
+    },
+    {
+      "id": "nameso-052",
+      "q": "Which name of the Holy Prophet means &#x27;The distributor&#x27; (5th name)?",
+      "options": [
+        "Hamid",
+        "Aqib",
+        "Qasim",
+        "Fateh"
+      ],
+      "correct": 2,
+      "explanation": "Qasim means &#x27;the distributor.&#x27; It is the 5th name of the Holy Prophet (ï·º). It was also the name of the Prophet&#x27;s son Qasim ibn Muhammad (who died in infancy), and the Prophet was known as Abu Qasim (father of Qasim).",
+      "tags": []
+    },
+    {
+      "id": "nameso-053",
+      "q": "What is the meaning of &#x27;Hakim&#x27; (82nd name)?",
+      "options": [
+        "Just",
+        "Lord",
+        "Wise",
+        "Generous"
+      ],
+      "correct": 2,
+      "explanation": "Hakim means &#x27;wise.&#x27; It is no. 82 among the 99 names. The name reflects the Prophet&#x27;s unparalleled wisdom in governance, legislation, interpersonal relations and spiritual guidance.",
+      "tags": []
+    },
+    {
+      "id": "nameso-054",
+      "q": "Which four names of the Holy Prophet are also titles/openings of Quranic Surahs?",
+      "options": [
+        "Ahmad, Taha, Yasin, Muzammil",
+        "Taha, Yasin, Muzammil, Mudathir",
+        "Taha, Yasin, Hamim, Mudathir",
+        "Yasin, Muzammil, Mudathir, Hamid"
+      ],
+      "correct": 1,
+      "explanation": "Four names that are also Surah openings: Taha (Surah 20, no. 31), Yasin (Surah 36, no. 37), Muzammil (Surah 73, no. 39, meaning Wrapped), and Mudathir (Surah 74, no. 41, meaning Covered). Hamim (no. 35) is associated with Surahs 40â46 but is not a Surah title itself.",
+      "tags": []
+    }
+  ]
+}

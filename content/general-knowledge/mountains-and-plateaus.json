@@ -1,0 +1,1051 @@
+{
+  "topic_id": "mountains-and-plateaus",
+  "topic_name": "Mountains & Plateaus",
+  "subject": "general-knowledge",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Mountains & Plateaus MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "mounta-001",
+      "q": "Which plateau is widely known as the &#x27;Roof of the World&#x27;?",
+      "options": [
+        "Pamir Plateau",
+        "Tibetan Plateau",
+        "Deccan Plateau",
+        "Iranian Plateau"
+      ],
+      "correct": 1,
+      "explanation": "The Tibetan Plateau, with an average elevation of about 4,500 m, is the highest and largest plateau on Earth and is famously called the &#x27;Roof of the World&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "mounta-002",
+      "q": "Which plateau, linking the Himalayas and Hindu Kush, is also called the &#x27;Roof of the World&#x27;?",
+      "options": [
+        "Tibetan",
+        "Pamir",
+        "Deccan",
+        "Anatolian"
+      ],
+      "correct": 1,
+      "explanation": "The Pamir Plateau in Tajikistan/Afghanistan is the &#x27;pamir knot&#x27; where the Himalayas, Karakoram, Hindu Kush, Kunlun and Tien Shan meet — also called the Roof of the World.",
+      "tags": []
+    },
+    {
+      "id": "mounta-003",
+      "q": "The Deccan Plateau, known for its volcanic basalt layers, is located in:",
+      "options": [
+        "Pakistan",
+        "India",
+        "Iran",
+        "Sri Lanka"
+      ],
+      "correct": 1,
+      "explanation": "The Deccan Plateau covers most of peninsular India south of the Vindhyas, formed by massive volcanic eruptions ~66 million years ago that produced the Deccan Traps basalt.",
+      "tags": []
+    },
+    {
+      "id": "mounta-004",
+      "q": "The Balochistan Plateau, rich in coal and chromite, is located in which country?",
+      "options": [
+        "Iran",
+        "Afghanistan",
+        "Pakistan",
+        "India"
+      ],
+      "correct": 2,
+      "explanation": "The Balochistan Plateau covers most of Balochistan province in Pakistan. It is rich in coal, chromite, copper and natural gas — Pakistan&#x27;s main mineral reserve.",
+      "tags": []
+    },
+    {
+      "id": "mounta-005",
+      "q": "Which plateau in China is famous for its wind-blown fertile loam soil?",
+      "options": [
+        "Tibetan Plateau",
+        "Yunnan Plateau",
+        "Loess Plateau",
+        "Mongolian Plateau"
+      ],
+      "correct": 2,
+      "explanation": "The Loess Plateau in north-central China is famous for its yellow wind-blown silt (loess) — among the world&#x27;s most fertile soils, but also highly erodible.",
+      "tags": []
+    },
+    {
+      "id": "mounta-006",
+      "q": "The Anatolian Plateau is the central highland of which country?",
+      "options": [
+        "Iran",
+        "Turkey",
+        "Greece",
+        "Syria"
+      ],
+      "correct": 1,
+      "explanation": "The Anatolian Plateau forms the central highland of Turkey, ringed by the Pontic Mountains in the north and the Taurus Mountains in the south.",
+      "tags": []
+    },
+    {
+      "id": "mounta-007",
+      "q": "Which plateau includes the Dasht-e-Lut and Dasht-e-Kavir deserts?",
+      "options": [
+        "Iranian Plateau",
+        "Anatolian Plateau",
+        "Arabian Plateau",
+        "Pamir Plateau"
+      ],
+      "correct": 0,
+      "explanation": "The Iranian Plateau spans Iran, Afghanistan and parts of Pakistan and contains Iran&#x27;s two great deserts — Dasht-e-Kavir (salt) and Dasht-e-Lut (sand & lava).",
+      "tags": []
+    },
+    {
+      "id": "mounta-008",
+      "q": "Which plateau is covered with steppe grasslands and has an extreme continental climate?",
+      "options": [
+        "Tibetan",
+        "Anatolian",
+        "Mongolian",
+        "Deccan"
+      ],
+      "correct": 2,
+      "explanation": "The Mongolian Plateau spans Mongolia and Inner Mongolia (China). It is covered with steppe grasslands and experiences one of Earth&#x27;s most extreme continental climates.",
+      "tags": []
+    },
+    {
+      "id": "mounta-009",
+      "q": "The Yunnan Plateau, famous for its karst landscapes, is located in which country?",
+      "options": [
+        "Vietnam",
+        "Myanmar",
+        "China",
+        "Laos"
+      ],
+      "correct": 2,
+      "explanation": "The Yunnan-Guizhou Plateau in southwestern China is famous for its karst topography — including the Stone Forest and limestone pinnacles.",
+      "tags": []
+    },
+    {
+      "id": "mounta-010",
+      "q": "Which plateau in Myanmar is noted for tea cultivation?",
+      "options": [
+        "Shan Plateau",
+        "Deccan Plateau",
+        "Loess Plateau",
+        "Pamir Plateau"
+      ],
+      "correct": 0,
+      "explanation": "The Shan Plateau in eastern Myanmar is known for its tea gardens, hill stations and its ethnically diverse population.",
+      "tags": []
+    },
+    {
+      "id": "mounta-011",
+      "q": "The Columbia-Snake Plateau in the USA was formed by which process?",
+      "options": [
+        "Glaciation",
+        "Folding",
+        "Flood basalt volcanic eruptions",
+        "Coral uplift"
+      ],
+      "correct": 2,
+      "explanation": "The Columbia-Snake Plateau in the US Pacific Northwest was formed by massive flood-basalt eruptions about 17 million years ago — among the largest volcanic events in geological history.",
+      "tags": []
+    },
+    {
+      "id": "mounta-012",
+      "q": "Which plateau is home to the world-famous Grand Canyon?",
+      "options": [
+        "Colorado Plateau",
+        "Ozark Plateau",
+        "Mexican Plateau",
+        "Laurentian Plateau"
+      ],
+      "correct": 0,
+      "explanation": "The Colorado Plateau in the southwestern US (Arizona, Utah, Colorado, New Mexico) is home to the Grand Canyon and many other iconic national parks.",
+      "tags": []
+    },
+    {
+      "id": "mounta-013",
+      "q": "Which plateau in Canada is also known as the &#x27;Canadian Shield&#x27;?",
+      "options": [
+        "Laurentian Plateau",
+        "Colorado Plateau",
+        "Yukon Plateau",
+        "Brazilian Highlands"
+      ],
+      "correct": 0,
+      "explanation": "The Laurentian Plateau is the Canadian Shield — an ancient Precambrian craton covering most of eastern and central Canada, rich in minerals.",
+      "tags": []
+    },
+    {
+      "id": "mounta-014",
+      "q": "The Ozark Plateau, known for its karst topography and forested hills, is located in which country?",
+      "options": [
+        "Mexico",
+        "United States",
+        "Canada",
+        "Brazil"
+      ],
+      "correct": 1,
+      "explanation": "The Ozark Plateau spans Missouri, Arkansas and parts of Oklahoma and Kansas in the USA, famous for karst caves, springs and the Ozark Mountains.",
+      "tags": []
+    },
+    {
+      "id": "mounta-015",
+      "q": "Which plateau contains the famous Chihuahua silver mines?",
+      "options": [
+        "Brazilian Highlands",
+        "Altiplano",
+        "Mexican Plateau",
+        "Patagonian Plateau"
+      ],
+      "correct": 2,
+      "explanation": "The Mexican Plateau (Mesa Central) hosts the rich Chihuahua silver mines — Mexico is the world&#x27;s largest silver producer.",
+      "tags": []
+    },
+    {
+      "id": "mounta-016",
+      "q": "The Altiplano — the world&#x27;s second-highest plateau — is located in:",
+      "options": [
+        "Central Asia",
+        "South America",
+        "Africa",
+        "North America"
+      ],
+      "correct": 1,
+      "explanation": "The Altiplano spans Bolivia, Peru, Chile and Argentina at ~3,750 m. It is the world&#x27;s second-highest plateau after the Tibetan Plateau, and Lake Titicaca lies on it.",
+      "tags": []
+    },
+    {
+      "id": "mounta-017",
+      "q": "The Brazilian Highlands cover most of which country&#x27;s eastern part?",
+      "options": [
+        "Argentina",
+        "Brazil",
+        "Venezuela",
+        "Colombia"
+      ],
+      "correct": 1,
+      "explanation": "The Brazilian Highlands occupy most of central and eastern Brazil — an ancient cratonic shield with savanna, hill country and major mineral wealth.",
+      "tags": []
+    },
+    {
+      "id": "mounta-018",
+      "q": "Which plateau supports savanna used for cattle grazing across Brazil and Bolivia?",
+      "options": [
+        "Matto Grosso Plateau",
+        "Altiplano",
+        "Patagonian Plateau",
+        "Guyana Plateau"
+      ],
+      "correct": 0,
+      "explanation": "The Mato Grosso (Matto Grosso) Plateau covers central-west Brazil and parts of Bolivia — vast savanna grasslands ideal for cattle ranching.",
+      "tags": []
+    },
+    {
+      "id": "mounta-019",
+      "q": "Which plateau is home to Angel Falls, the world&#x27;s highest waterfall?",
+      "options": [
+        "Brazilian Highlands",
+        "Guyana Plateau",
+        "Patagonian Plateau",
+        "Altiplano"
+      ],
+      "correct": 1,
+      "explanation": "The Guiana (Guyana) Plateau in Venezuela is home to Angel Falls (979 m / 3,212 ft) — the world&#x27;s highest uninterrupted waterfall, on Auyán-tepui.",
+      "tags": []
+    },
+    {
+      "id": "mounta-020",
+      "q": "The Patagonian Plateau — a rain-shadow desert famous for sheep rearing — is located in:",
+      "options": [
+        "Chile",
+        "Argentina",
+        "Brazil",
+        "Bolivia"
+      ],
+      "correct": 1,
+      "explanation": "The Patagonian Plateau covers southern Argentina east of the Andes. It is a cold, dry rain-shadow desert and the world&#x27;s largest sheep-rearing region.",
+      "tags": []
+    },
+    {
+      "id": "mounta-021",
+      "q": "The Jos Plateau, known for tin mining, is located in which country?",
+      "options": [
+        "Niger",
+        "Nigeria",
+        "Ghana",
+        "Cameroon"
+      ],
+      "correct": 1,
+      "explanation": "The Jos Plateau in central Nigeria is the centre of Nigerian tin mining and has a cool climate that made it a colonial-era hill station.",
+      "tags": []
+    },
+    {
+      "id": "mounta-022",
+      "q": "The &#x27;Roof of Africa&#x27; and source of the Blue Nile is which plateau?",
+      "options": [
+        "Katanga Plateau",
+        "Ethiopian Plateau",
+        "Jos Plateau",
+        "Anatolian Plateau"
+      ],
+      "correct": 1,
+      "explanation": "The Ethiopian Plateau (Highlands) — often called the &#x27;Roof of Africa&#x27; — is the source of the Blue Nile, which contributes ~80% of the Nile&#x27;s water during flood season.",
+      "tags": []
+    },
+    {
+      "id": "mounta-023",
+      "q": "Which plateau in DR Congo is rich in copper and uranium?",
+      "options": [
+        "Jos Plateau",
+        "Katanga Plateau",
+        "Ethiopian Plateau",
+        "Bavarian Plateau"
+      ],
+      "correct": 1,
+      "explanation": "The Katanga Plateau in southern DR Congo is the heart of the Central African Copperbelt and was the source of uranium used in the first atomic bombs.",
+      "tags": []
+    },
+    {
+      "id": "mounta-024",
+      "q": "The Ahaggar (Hoggar) Plateau is located in which desert?",
+      "options": [
+        "Kalahari",
+        "Sahara",
+        "Gobi",
+        "Arabian"
+      ],
+      "correct": 1,
+      "explanation": "The Ahaggar (Hoggar) Plateau is a volcanic highland in southern Algeria within the Sahara Desert. Its highest peak is Mount Tahat (~2,908 m).",
+      "tags": []
+    },
+    {
+      "id": "mounta-025",
+      "q": "The Meseta Central is the primary highland of which country?",
+      "options": [
+        "Portugal",
+        "Spain",
+        "Italy",
+        "France"
+      ],
+      "correct": 1,
+      "explanation": "The Meseta Central forms most of the Iberian Peninsula in Spain — a high, dry tableland averaging 600–700 m, divided by the Central System mountains.",
+      "tags": []
+    },
+    {
+      "id": "mounta-026",
+      "q": "Which Australian plateau contains diamond-bearing kimberlite rocks?",
+      "options": [
+        "Kimberley Plateau",
+        "Nullarbor Plain",
+        "Great Artesian Basin",
+        "Pilbara"
+      ],
+      "correct": 0,
+      "explanation": "The Kimberley Plateau in northwestern Australia contains the Argyle diamond mine — once the world&#x27;s largest producer of diamonds, especially rare pink diamonds.",
+      "tags": []
+    },
+    {
+      "id": "mounta-027",
+      "q": "Which is the world&#x27;s highest and coldest ice-covered plateau?",
+      "options": [
+        "Tibetan Plateau",
+        "Pamir Plateau",
+        "Antarctic Plateau",
+        "Greenland Plateau"
+      ],
+      "correct": 2,
+      "explanation": "The Antarctic Plateau (~3,000+ m) at the heart of East Antarctica is the world&#x27;s highest and coldest plateau, with surface temperatures recorded below -89°C.",
+      "tags": []
+    },
+    {
+      "id": "mounta-028",
+      "q": "The oil and salt-rich Pothohar Plateau is located in which country?",
+      "options": [
+        "India",
+        "Pakistan",
+        "Afghanistan",
+        "Iran"
+      ],
+      "correct": 1,
+      "explanation": "The Pothohar Plateau in northern Punjab (Pakistan) is famous for its oil fields and the Khewra Salt Mine — the second-largest salt mine in the world.",
+      "tags": []
+    },
+    {
+      "id": "mounta-029",
+      "q": "Which mountain range is the highest and youngest fold-mountain system on Earth?",
+      "options": [
+        "Andes",
+        "Rockies",
+        "Himalayas",
+        "Alps"
+      ],
+      "correct": 2,
+      "explanation": "The Himalayas — formed by the India-Eurasia collision ~50 million years ago — are the world&#x27;s highest and youngest fold-mountain system, with 10 of the 14 &#x27;eight-thousanders&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "mounta-030",
+      "q": "K2, the world&#x27;s second-highest peak, lies in which range?",
+      "options": [
+        "Himalayas",
+        "Hindu Kush",
+        "Karakoram",
+        "Pamir"
+      ],
+      "correct": 2,
+      "explanation": "K2 (8,611 m) is located in the Karakoram Range on the Pakistan–China border. The Karakoram contains 4 of the world&#x27;s 14 &#x27;eight-thousanders&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "mounta-031",
+      "q": "Tirich Mir is the highest peak of which mountain range?",
+      "options": [
+        "Karakoram",
+        "Himalayas",
+        "Hindu Kush",
+        "Kunlun"
+      ],
+      "correct": 2,
+      "explanation": "Tirich Mir (7,708 m) in Chitral, Pakistan, is the highest peak of the Hindu Kush range. The Hindu Kush stretches across Afghanistan and northern Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "mounta-032",
+      "q": "Which mountain range forms the northern boundary of the Tibetan Plateau?",
+      "options": [
+        "Kunlun Mountains",
+        "Tien Shan",
+        "Altai",
+        "Hindu Kush"
+      ],
+      "correct": 0,
+      "explanation": "The Kunlun Mountains form the northern edge of the Tibetan Plateau and are one of the longest mountain chains in Asia (~3,000 km).",
+      "tags": []
+    },
+    {
+      "id": "mounta-033",
+      "q": "Which range is known as the &#x27;Celestial Mountains&#x27;?",
+      "options": [
+        "Altai",
+        "Tien Shan",
+        "Kunlun",
+        "Pamir"
+      ],
+      "correct": 1,
+      "explanation": "Tien Shan (literally &#x27;Celestial Mountains&#x27; in Chinese) stretches across Kazakhstan, Kyrgyzstan, Uzbekistan and China — a major Central Asian range.",
+      "tags": []
+    },
+    {
+      "id": "mounta-034",
+      "q": "Which range is an extension of the Himalayas into western Myanmar?",
+      "options": [
+        "Arakan Yoma",
+        "Annamites",
+        "Shan Hills",
+        "Karakoram"
+      ],
+      "correct": 0,
+      "explanation": "The Arakan Yoma (Rakhine Range) in western Myanmar is the southern extension of the Himalayas, separating Myanmar from Bangladesh.",
+      "tags": []
+    },
+    {
+      "id": "mounta-035",
+      "q": "Anai Mudi is the highest peak of which Indian mountain range?",
+      "options": [
+        "Eastern Ghats",
+        "Aravallis",
+        "Western Ghats",
+        "Vindhyas"
+      ],
+      "correct": 2,
+      "explanation": "Anai Mudi (2,695 m) in Kerala is the highest peak of the Western Ghats and the highest point in peninsular India.",
+      "tags": []
+    },
+    {
+      "id": "mounta-036",
+      "q": "The oil-rich Zagros Mountains are primarily located in which countries?",
+      "options": [
+        "Turkey and Syria",
+        "Iran and Iraq",
+        "Iran and Pakistan",
+        "Saudi Arabia and Yemen"
+      ],
+      "correct": 1,
+      "explanation": "The Zagros Mountains stretch ~1,600 km through Iran and northern Iraq. They sit atop some of the world&#x27;s largest oil and gas reserves.",
+      "tags": []
+    },
+    {
+      "id": "mounta-037",
+      "q": "Which range divides Europe and Asia and contains Mount Elbrus?",
+      "options": [
+        "Urals",
+        "Caucasus",
+        "Alps",
+        "Carpathians"
+      ],
+      "correct": 1,
+      "explanation": "The Caucasus Mountains divide Europe and Asia between the Black and Caspian seas. Mount Elbrus (5,642 m) in Russia is the highest peak in Europe.",
+      "tags": []
+    },
+    {
+      "id": "mounta-038",
+      "q": "Mount Narodnaya is the highest peak of which boundary range?",
+      "options": [
+        "Caucasus",
+        "Alps",
+        "Ural Mountains",
+        "Carpathians"
+      ],
+      "correct": 2,
+      "explanation": "The Ural Mountains form the conventional boundary between Europe and Asia. Mount Narodnaya (1,895 m) is their highest peak.",
+      "tags": []
+    },
+    {
+      "id": "mounta-039",
+      "q": "The iconic Mont Blanc belongs to which European mountain range?",
+      "options": [
+        "Pyrenees",
+        "Apennines",
+        "Alps",
+        "Carpathians"
+      ],
+      "correct": 2,
+      "explanation": "Mont Blanc (4,810 m) on the France–Italy border is the highest peak of the Alps and the highest in Western Europe.",
+      "tags": []
+    },
+    {
+      "id": "mounta-040",
+      "q": "Which range forms the natural border between France and Spain?",
+      "options": [
+        "Alps",
+        "Pyrenees",
+        "Carpathians",
+        "Apennines"
+      ],
+      "correct": 1,
+      "explanation": "The Pyrenees stretch ~491 km across the France–Spain border, also bordering Andorra. Highest peak: Aneto (3,404 m).",
+      "tags": []
+    },
+    {
+      "id": "mounta-041",
+      "q": "Which European range is described as &#x27;crescent-shaped&#x27; and is rich in forests?",
+      "options": [
+        "Alps",
+        "Apennines",
+        "Carpathians",
+        "Balkans"
+      ],
+      "correct": 2,
+      "explanation": "The Carpathians form a 1,500 km crescent across Slovakia, Poland, Ukraine, Romania, Hungary and Serbia. Europe&#x27;s largest virgin forests and brown-bear populations live here.",
+      "tags": []
+    },
+    {
+      "id": "mounta-042",
+      "q": "Which range is often called the &#x27;Spine of Italy&#x27;?",
+      "options": [
+        "Alps",
+        "Apennines",
+        "Pyrenees",
+        "Balkans"
+      ],
+      "correct": 1,
+      "explanation": "The Apennines run nearly the full length of Italy — the &#x27;Spine of Italy&#x27; — from Liguria to Calabria, with the Mount Etna and Vesuvius volcanic systems nearby.",
+      "tags": []
+    },
+    {
+      "id": "mounta-043",
+      "q": "Galdhøpiggen is the highest peak of which range?",
+      "options": [
+        "Pyrenees",
+        "Scandinavian Mountains",
+        "Caucasus",
+        "Carpathians"
+      ],
+      "correct": 1,
+      "explanation": "Galdhøpiggen (2,469 m) in Norway is the highest peak of the Scandinavian Mountains — the range that forms the spine of the Scandinavian Peninsula.",
+      "tags": []
+    },
+    {
+      "id": "mounta-044",
+      "q": "Which range is in Bulgaria and gave its name to the entire peninsula?",
+      "options": [
+        "Carpathians",
+        "Balkan Mountains",
+        "Pindus",
+        "Rhodopes"
+      ],
+      "correct": 1,
+      "explanation": "The Balkan Mountains (Stara Planina) cross northern Bulgaria and give the Balkan Peninsula its name.",
+      "tags": []
+    },
+    {
+      "id": "mounta-045",
+      "q": "What is the longest mountain range in Australia?",
+      "options": [
+        "Snowy Mountains",
+        "MacDonnell Ranges",
+        "Great Dividing Range",
+        "Flinders Ranges"
+      ],
+      "correct": 2,
+      "explanation": "The Great Dividing Range stretches ~3,500 km along Australia&#x27;s east coast — the country&#x27;s longest range and the 5th-longest land-based range in the world.",
+      "tags": []
+    },
+    {
+      "id": "mounta-046",
+      "q": "Mount Cook is the highest peak of which range in New Zealand?",
+      "options": [
+        "Tasmanian Alps",
+        "Southern Alps",
+        "Great Dividing Range",
+        "Murchison Range"
+      ],
+      "correct": 1,
+      "explanation": "Aoraki/Mount Cook (3,724 m) is New Zealand&#x27;s highest peak and lies in the Southern Alps on the South Island.",
+      "tags": []
+    },
+    {
+      "id": "mounta-047",
+      "q": "Which range holds the record as the longest continental mountain range on Earth?",
+      "options": [
+        "Himalayas",
+        "Rockies",
+        "Andes",
+        "Great Dividing Range"
+      ],
+      "correct": 2,
+      "explanation": "The Andes (~7,000 km) along South America&#x27;s western coast are the longest continental mountain range in the world, passing through 7 countries.",
+      "tags": []
+    },
+    {
+      "id": "mounta-048",
+      "q": "Mount Whitney is the highest peak of which California range?",
+      "options": [
+        "Cascade Range",
+        "Coast Range",
+        "Sierra Nevada",
+        "Rocky Mountains"
+      ],
+      "correct": 2,
+      "explanation": "Mount Whitney (4,421 m) in California is the highest peak of the Sierra Nevada and the highest peak in the contiguous (lower-48) United States.",
+      "tags": []
+    },
+    {
+      "id": "mounta-049",
+      "q": "The Rocky Mountains act as a continental divide in which region?",
+      "options": [
+        "South America",
+        "North America",
+        "Asia",
+        "Europe"
+      ],
+      "correct": 1,
+      "explanation": "The Rocky Mountains stretch ~4,800 km from Canada to New Mexico and form the Continental Divide of North America — separating Pacific-bound and Atlantic-bound rivers.",
+      "tags": []
+    },
+    {
+      "id": "mounta-050",
+      "q": "Which ancient range in the Eastern USA is known for its coal deposits?",
+      "options": [
+        "Sierra Nevada",
+        "Appalachians",
+        "Cascades",
+        "Rockies"
+      ],
+      "correct": 1,
+      "explanation": "The Appalachian Mountains — among the oldest ranges on Earth (~480 million years) — run along the eastern USA and Canada and hold vast coal reserves.",
+      "tags": []
+    },
+    {
+      "id": "mounta-051",
+      "q": "What is the official height of Mount Everest?",
+      "options": [
+        "8,611 m",
+        "8,586 m",
+        "8,849 m",
+        "8,167 m"
+      ],
+      "correct": 2,
+      "explanation": "Mount Everest&#x27;s official height was updated to 8,848.86 m (~8,849 m) by a joint Nepal-China survey in 2020. It is the world&#x27;s highest peak.",
+      "tags": []
+    },
+    {
+      "id": "mounta-052",
+      "q": "K2 is also known by which name?",
+      "options": [
+        "Nanga Parbat",
+        "Godwin Austen",
+        "Trivor",
+        "Masherbrum"
+      ],
+      "correct": 1,
+      "explanation": "K2 is also called Mount Godwin-Austen (after the British surveyor Henry Godwin-Austen) and locally as Chogori — second-highest peak in the world.",
+      "tags": []
+    },
+    {
+      "id": "mounta-053",
+      "q": "Which is the third-highest peak in the world?",
+      "options": [
+        "Lhotse",
+        "Makalu",
+        "Kangchenjunga",
+        "Cho Oyu"
+      ],
+      "correct": 2,
+      "explanation": "Kangchenjunga (8,586 m) on the Nepal-India border is the third-highest mountain in the world. Its name means &#x27;Five Treasures of the Great Snow&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "mounta-054",
+      "q": "Which is the fifth-highest mountain in the world?",
+      "options": [
+        "Lhotse",
+        "Cho Oyu",
+        "Manaslu",
+        "Makalu"
+      ],
+      "correct": 3,
+      "explanation": "Makalu (8,485 m) on the Nepal-Tibet border is the world&#x27;s fifth-highest peak, known for its distinctive four-sided pyramid shape.",
+      "tags": []
+    },
+    {
+      "id": "mounta-055",
+      "q": "Which 8,000 m peak is widely considered the easiest to climb?",
+      "options": [
+        "K2",
+        "Cho Oyu",
+        "Annapurna I",
+        "Nanga Parbat"
+      ],
+      "correct": 1,
+      "explanation": "Cho Oyu (8,188 m) is widely considered the easiest of the 14 eight-thousanders due to its gentler slopes and accessibility — the 6th-highest peak.",
+      "tags": []
+    },
+    {
+      "id": "mounta-056",
+      "q": "Dhaulagiri I means what in Sanskrit?",
+      "options": [
+        "Big Mountain",
+        "White Mountain",
+        "Five Treasures",
+        "Black Mountain"
+      ],
+      "correct": 1,
+      "explanation": "Dhaulagiri (8,167 m) means &#x27;White Mountain&#x27; in Sanskrit (dhavala = dazzling white, giri = mountain). It is the 7th-highest peak.",
+      "tags": []
+    },
+    {
+      "id": "mounta-057",
+      "q": "Manaslu is the _____ highest mountain in the world.",
+      "options": [
+        "Sixth",
+        "Seventh",
+        "Eighth",
+        "Ninth"
+      ],
+      "correct": 2,
+      "explanation": "Manaslu (8,163 m) in Nepal&#x27;s Mansiri Himal is the eighth-highest peak in the world. The name comes from Sanskrit &#x27;Manasa&#x27; (intellect or soul).",
+      "tags": []
+    },
+    {
+      "id": "mounta-058",
+      "q": "Which mountain is nicknamed the &#x27;Killer Mountain&#x27;?",
+      "options": [
+        "K2",
+        "Nanga Parbat",
+        "Annapurna",
+        "Dhaulagiri"
+      ],
+      "correct": 1,
+      "explanation": "Nanga Parbat (8,126 m) in Pakistan is called the &#x27;Killer Mountain&#x27; due to its high climbing-death rate, especially during early 20th-century expeditions.",
+      "tags": []
+    },
+    {
+      "id": "mounta-059",
+      "q": "Annapurna I was the first 8,000 m peak ever climbed — in which year?",
+      "options": [
+        "1948",
+        "1950",
+        "1953",
+        "1954"
+      ],
+      "correct": 1,
+      "explanation": "Annapurna I (8,091 m) was first climbed by Maurice Herzog and Louis Lachenal of France in June 1950 — making it the first &#x27;eight-thousander&#x27; to be summited.",
+      "tags": []
+    },
+    {
+      "id": "mounta-060",
+      "q": "Which is the highest peak in Europe?",
+      "options": [
+        "Mont Blanc",
+        "Mount Elbrus",
+        "Galdhøpiggen",
+        "Aneto"
+      ],
+      "correct": 1,
+      "explanation": "Mount Elbrus (5,642 m) in the Caucasus Mountains of Russia is the highest peak in Europe. Mont Blanc (4,810 m) is the highest in Western Europe.",
+      "tags": []
+    },
+    {
+      "id": "mounta-061",
+      "q": "The iconic pyramid-shaped Matterhorn lies in which range?",
+      "options": [
+        "Pyrenees",
+        "Alps",
+        "Carpathians",
+        "Apennines"
+      ],
+      "correct": 1,
+      "explanation": "The Matterhorn (4,478 m) on the Switzerland-Italy border is one of the most photographed mountains in the world — a near-perfect pyramid in the Alps.",
+      "tags": []
+    },
+    {
+      "id": "mounta-062",
+      "q": "Mount Kilimanjaro is located in which country?",
+      "options": [
+        "Kenya",
+        "Uganda",
+        "Tanzania",
+        "Ethiopia"
+      ],
+      "correct": 2,
+      "explanation": "Mount Kilimanjaro (5,895 m) in Tanzania is the highest peak in Africa and the world&#x27;s tallest free-standing mountain — a dormant stratovolcano.",
+      "tags": []
+    },
+    {
+      "id": "mounta-063",
+      "q": "In which country is Mount Aconcagua located?",
+      "options": [
+        "Chile",
+        "Peru",
+        "Argentina",
+        "Bolivia"
+      ],
+      "correct": 2,
+      "explanation": "Mount Aconcagua (6,961 m) in Argentina is the highest peak in South America and the highest mountain outside Asia.",
+      "tags": []
+    },
+    {
+      "id": "mounta-064",
+      "q": "What is the world&#x27;s highest active volcano?",
+      "options": [
+        "Mount Etna",
+        "Mount Vesuvius",
+        "Ojos del Salado",
+        "Mount Erebus"
+      ],
+      "correct": 2,
+      "explanation": "Ojos del Salado (6,893 m) on the Chile-Argentina border is the world&#x27;s highest active volcano and the second-highest peak in the Western Hemisphere.",
+      "tags": []
+    },
+    {
+      "id": "mounta-065",
+      "q": "Denali — North America&#x27;s highest peak — was formerly known as:",
+      "options": [
+        "Mount Logan",
+        "Mount McKinley",
+        "Mount Whitney",
+        "Pico de Orizaba"
+      ],
+      "correct": 1,
+      "explanation": "Denali (6,190 m) in Alaska was officially named Mount McKinley from 1917 until 2015, when it was renamed Denali (its indigenous Athabaskan name).",
+      "tags": []
+    },
+    {
+      "id": "mounta-066",
+      "q": "Which is the highest peak in Mexico?",
+      "options": [
+        "Iztaccihuatl",
+        "Popocatépetl",
+        "Pico de Orizaba",
+        "Nevado de Toluca"
+      ],
+      "correct": 2,
+      "explanation": "Pico de Orizaba (5,636 m) is the highest peak in Mexico and the third-highest peak in North America — a dormant stratovolcano.",
+      "tags": []
+    },
+    {
+      "id": "mounta-067",
+      "q": "Which peak is the highest in Antarctica?",
+      "options": [
+        "Mount Erebus",
+        "Mount Vinson",
+        "Mount Kirkpatrick",
+        "Mount Sidley"
+      ],
+      "correct": 1,
+      "explanation": "Mount Vinson (4,892 m) in the Ellsworth Mountains is the highest peak in Antarctica and one of the Seven Summits.",
+      "tags": []
+    },
+    {
+      "id": "mounta-068",
+      "q": "Which mountain is the national symbol of Japan?",
+      "options": [
+        "Mount Aso",
+        "Mount Fuji",
+        "Mount Tate",
+        "Mount Norikura"
+      ],
+      "correct": 1,
+      "explanation": "Mount Fuji (3,776 m) is Japan&#x27;s highest peak and an iconic national symbol — an active stratovolcano on Honshu island.",
+      "tags": []
+    },
+    {
+      "id": "mounta-069",
+      "q": "Mount Ararat is traditionally linked to which legend?",
+      "options": [
+        "Pandora's Box",
+        "Noah's Ark",
+        "Tower of Babel",
+        "Atlantis"
+      ],
+      "correct": 1,
+      "explanation": "Mount Ararat (5,137 m) in eastern Turkey is traditionally identified in Abrahamic religions as the resting place of Noah&#x27;s Ark after the Great Flood.",
+      "tags": []
+    },
+    {
+      "id": "mounta-070",
+      "q": "Which volcano destroyed the Roman city of Pompeii in 79 AD?",
+      "options": [
+        "Etna",
+        "Stromboli",
+        "Vesuvius",
+        "Vulcano"
+      ],
+      "correct": 2,
+      "explanation": "Mount Vesuvius near Naples, Italy, erupted catastrophically in 79 AD and buried the Roman cities of Pompeii and Herculaneum in ash and pumice.",
+      "tags": []
+    },
+    {
+      "id": "mounta-071",
+      "q": "Which historic Silk Route pass lies on the border of India and China?",
+      "options": [
+        "Khyber Pass",
+        "Karakoram Pass",
+        "Nathu La",
+        "Khunjerab"
+      ],
+      "correct": 1,
+      "explanation": "The Karakoram Pass (5,540 m) on the India-China border was a historic branch of the Silk Route connecting Ladakh to Yarkand in Xinjiang.",
+      "tags": []
+    },
+    {
+      "id": "mounta-072",
+      "q": "Which iconic high motorable road lies north of Leh in Ladakh?",
+      "options": [
+        "Rohtang",
+        "Khardung La",
+        "Zoji La",
+        "Nathu La"
+      ],
+      "correct": 1,
+      "explanation": "Khardung La (~5,359 m) north of Leh is one of the world&#x27;s highest motorable roads — a major Ladakh tourist route.",
+      "tags": []
+    },
+    {
+      "id": "mounta-073",
+      "q": "Zoji La is a critical mountain pass in which Indian region?",
+      "options": [
+        "Sikkim",
+        "Uttarakhand",
+        "Ladakh / J&K",
+        "Arunachal Pradesh"
+      ],
+      "correct": 2,
+      "explanation": "Zoji La (~3,528 m) in Ladakh/J&K connects Srinagar with Leh — vital for military and civil supply, often closed in winter snow.",
+      "tags": []
+    },
+    {
+      "id": "mounta-074",
+      "q": "Nathu La pass connects which Indian state with Tibet?",
+      "options": [
+        "Arunachal Pradesh",
+        "Sikkim",
+        "Himachal Pradesh",
+        "Uttarakhand"
+      ],
+      "correct": 1,
+      "explanation": "Nathu La (~4,310 m) in Sikkim connects India with Tibet (China) — reopened in 2006 as a key trade route, closed during the 1962 Indo-China war.",
+      "tags": []
+    },
+    {
+      "id": "mounta-075",
+      "q": "Thorong La is a famous trekking pass in which country?",
+      "options": [
+        "Bhutan",
+        "India",
+        "Nepal",
+        "Pakistan"
+      ],
+      "correct": 2,
+      "explanation": "Thorong La (5,416 m) is a famous pass on the Annapurna Circuit trek in Nepal — among the most popular high passes in the trekking world.",
+      "tags": []
+    },
+    {
+      "id": "mounta-076",
+      "q": "Which pass is the main road link between Kabul and northern Afghanistan?",
+      "options": [
+        "Salang Pass",
+        "Khyber Pass",
+        "Khojak Pass",
+        "Lowari Pass"
+      ],
+      "correct": 0,
+      "explanation": "The Salang Pass (~3,878 m) and its Soviet-built tunnel link Kabul with northern Afghanistan — the country&#x27;s most strategic transport route.",
+      "tags": []
+    },
+    {
+      "id": "mounta-077",
+      "q": "Which iconic Swiss pass forms a historic north-south Alpine axis?",
+      "options": [
+        "Stelvio",
+        "Brenner",
+        "Gotthard",
+        "Simplon"
+      ],
+      "correct": 2,
+      "explanation": "The Gotthard Pass (2,106 m) is a historic north-south corridor through the Swiss Alps — vital for centuries of Italy-to-Northern-Europe traffic.",
+      "tags": []
+    },
+    {
+      "id": "mounta-078",
+      "q": "The Stelvio Pass, famous for its dramatic hairpins, is located in:",
+      "options": [
+        "Switzerland",
+        "Austria",
+        "Italy",
+        "France"
+      ],
+      "correct": 2,
+      "explanation": "Stelvio Pass (2,758 m) in the Italian Alps is famous for its 48 hairpin bends on the northern side — among the most spectacular paved roads on Earth.",
+      "tags": []
+    },
+    {
+      "id": "mounta-079",
+      "q": "Which pass is a major crossing between Italy and Austria through the Alps?",
+      "options": [
+        "Gotthard",
+        "Brenner",
+        "Simplon",
+        "Stelvio"
+      ],
+      "correct": 1,
+      "explanation": "The Brenner Pass (1,370 m) is the lowest and busiest Alpine pass linking Italy with Austria — a key European trade and rail corridor.",
+      "tags": []
+    },
+    {
+      "id": "mounta-080",
+      "q": "Paso de los Libertadores is the main pass between Chile and which country?",
+      "options": [
+        "Bolivia",
+        "Peru",
+        "Argentina",
+        "Brazil"
+      ],
+      "correct": 2,
+      "explanation": "Paso de los Libertadores (Cristo Redentor Pass) is the main road link between Chile and Argentina through the Andes — near Mount Aconcagua.",
+      "tags": []
+    }
+  ]
+}

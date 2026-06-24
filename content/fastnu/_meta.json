@@ -1,0 +1,9 @@
+{
+  "name": "FAST NU",
+  "icon": "🖥️",
+  "order": 15,
+  "description": "FAST National University admission test prep.",
+  "color": "#1e40af",
+  "category": "entry-tests",
+  "placeholder": true
+}

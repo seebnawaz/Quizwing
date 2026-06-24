@@ -1,0 +1,453 @@
+{
+  "topic_id": "age",
+  "topic_name": "Age",
+  "subject": "mathematics",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Age MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "age-001",
+      "q": "The sum of the ages of ason anda father is 64. After 4 years the age of father will be three times that of his sons. The age of the father is?",
+      "options": [
+        "45",
+        "55",
+        "50",
+        "60"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-002",
+      "q": "Aperson’s age after 15 years will be four times his age 15 years ago. What is his present age?",
+      "options": [
+        "27 years",
+        "26 years",
+        "30 years",
+        "25 years"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-003",
+      "q": "The sum of ages of two children is 12 and their product is 32. The age of elder one?",
+      "options": [
+        "13 years",
+        "8 years",
+        "9 years",
+        "10 years"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-004",
+      "q": "The age of baby will be 5 times after 20 years. What is the present age of baby?",
+      "options": [
+        "7 years",
+        "5 years",
+        "10 years",
+        "6 years"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-005",
+      "q": "Ahmad is as much younger than Saeed as he is older than Tanveer. If the sum of the ages of Saeed and Tanveer is 48 years. What is the age of Ahmad?",
+      "options": [
+        "19",
+        "24",
+        "34",
+        "29"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-006",
+      "q": "If Amna is x years old then 5 times Amna’s age three years ago is?",
+      "options": [
+        "5x—17",
+        "5x—16",
+        "5x—20",
+        "5x—15"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-007",
+      "q": "Avg age of A-E is 40; avg of A&B is 35; avg of C&D is 42. Age of E?",
+      "options": [
+        "51",
+        "46",
+        "41",
+        "56"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-008",
+      "q": "The sum of ages of 5 children born at the intervals of 3 years each is 50 years. What is the age of the youngest child?",
+      "options": [
+        "5 years",
+        "6 years",
+        "9 years",
+        "4 years"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-009",
+      "q": "Ais the father of B but B is not A’s son. What is relationship of B to A?",
+      "options": [
+        "Cannot be determined",
+        "None of these",
+        "Daughter",
+        "Insufficient data"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-010",
+      "q": "Ais father of B, but B is not son of A, Then what is B?",
+      "options": [
+        "Daughter",
+        "Cannot be determined",
+        "None of these",
+        "Insufficient data"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-011",
+      "q": "Amanis 24 years older than his son. In two years, his age will be twice the age of his son. The present age of his son is?",
+      "options": [
+        "22 years",
+        "27 years",
+        "24 years",
+        "23 years"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-012",
+      "q": "A father tells his son, “I was of your present age when you were born.” If the father is 36 now, how old was the PREPARATION WIT boy five years back if he is half the age of his father now?",
+      "options": [
+        "13 years",
+        "18 years",
+        "14 years",
+        "15 years"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-013",
+      "q": "Laila is four times as old as her 2-year- old brother Mansoor. How old will Mansoor be when he is half the age of his older sister Laila?",
+      "options": [
+        "8",
+        "6",
+        "5",
+        "7"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-014",
+      "q": "Amana got engaged 10 years ago. Amana’s present age is 5/3 of her age at the time of engagement. If the PREPARATION WI present age of Amana’s mother is twice that of Amana’s present age, then what was her mother’s age (in years) at the time of her engagement?",
+      "options": [
+        "45",
+        "50",
+        "40",
+        "35"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-015",
+      "q": "A father is twice as old as his son, 20 years ago, the age of the father was 12 times the age of the son. The present age of the father (in years) is?",
+      "options": [
+        "39",
+        "44",
+        "49",
+        "54"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-016",
+      "q": "Aman’s age is three times his son’s in 15 years, it will be double that of his son’s. How old is the son now?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-017",
+      "q": "Ais two years older than B who is twice as old as C. If the total ages of A, Band C be 27, what is the age of B?",
+      "options": [
+        "11 years",
+        "15 years",
+        "10 years",
+        "12 years"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-018",
+      "q": "At the birth of his son, Ali’s age is 32 and after how many years his age become 5 times of his son’s age?",
+      "options": [
+        "10",
+        "8",
+        "7",
+        "9"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-019",
+      "q": "Ais B’s sister, C is B’s mother, D is C’s father, E is D’s mother. Then how is A related to D?",
+      "options": [
+        "Insufficient data",
+        "Cannot be determined",
+        "None of these",
+        "Grand Daughter"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-020",
+      "q": "Pointing to a photograph, a man said, “1 have no brother, and that girl’s father is my father’s son.” Whose photograph was it?",
+      "options": [
+        "Insufficient data",
+        "None of these",
+        "His daughter",
+        "Cannot be determined"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-021",
+      "q": "Javed will be 6-times as old in 50 years as he is now. What is the present age of Javed?",
+      "options": [
+        "11 years",
+        "15 years",
+        "10 years",
+        "12 years"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-022",
+      "q": "Javed will be 6-times as old in 50-years as he is now. What is the present age of Javed?",
+      "options": [
+        "12 years",
+        "10 years",
+        "11 years",
+        "15 years"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-023",
+      "q": "If thirty years ago my age was 1/6th of what it is now, then what is my present age in years?",
+      "options": [
+        "41",
+        "31",
+        "36",
+        "46"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-024",
+      "q": "A’s mother is twice as old as A’s brother. A is 6 years younger than his brother but 4 years older than his sister. If A’s sister is 15, his mother’s age is?",
+      "options": [
+        "45",
+        "50",
+        "55",
+        "60"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-025",
+      "q": "If 12 years are added to 2/3 age of Rani, she will be three years older than today. What is Rani’s present age?",
+      "options": [
+        "37",
+        "22",
+        "27",
+        "32"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-026",
+      "q": "'‘A'has a brother 'B’. 'A' is son of 'C’. 'D' is father of 'C'. What relation is 'B' of ‘D'?",
+      "options": [
+        "Insufficient data",
+        "None of these",
+        "Cannot be determined",
+        "Grandson"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-027",
+      "q": "A father is 9 times as old as his son and the mother is 8 times as old as the son. Sum of father’s and mother’s age is 51. What is the age of the son?",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "2"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-028",
+      "q": "Huma’s age after 15 years will be 5 times of her age 5 years back. What is the present age of Huma?",
+      "options": [
+        "20",
+        "10",
+        "5",
+        "15"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-029",
+      "q": "AWomanis 5 years younger than her husband and he is 5 times as old as his daughter. If the daughter was 5 years old 3 years back, what is the present age of the woman?",
+      "options": [
+        "45",
+        "30",
+        "35",
+        "40"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-030",
+      "q": "Ten years ago, Mohsin was thrice as old as Rabia, but 10 years hence, he will be only twice as old. Find Mohsin’s present age?",
+      "options": [
+        "71 years",
+        "75 years",
+        "72 years",
+        "70 years"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-031",
+      "q": "A father is now three times as old as his son. Five years back, he was four times as old as his son. The age of the son is?",
+      "options": [
+        "10",
+        "20",
+        "25",
+        "15"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-032",
+      "q": "The sum of the present ages of a father and his son is 60 years. Six years ago, father’s age was five times the age of the son. After 6 years, son’s age will be?",
+      "options": [
+        "15",
+        "30",
+        "20",
+        "25"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-033",
+      "q": "Aliis now half of his father’s age. After 20 years, his father will be one anda half times older than Ali. The present age of Ali is?",
+      "options": [
+        "25",
+        "20",
+        "15",
+        "30"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "age-034",
+      "q": "Five years ago, age of father was thrice the age of son. If son is 30 years old PREPARATION WI now, what is the current age of father?",
+      "options": [
+        "80",
+        "85",
+        "90",
+        "75"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    }
+  ]
+}

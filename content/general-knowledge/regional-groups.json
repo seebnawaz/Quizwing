@@ -1,0 +1,700 @@
+{
+  "topic_id": "regional-groups",
+  "topic_name": "Regional Groups",
+  "subject": "general-knowledge",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Regional Groups MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "region-001",
+      "q": "Which of the following countries joined the EU on 1 July 2013?",
+      "options": [
+        "Hungary",
+        "Slovakia",
+        "Romania",
+        "Croatia"
+      ],
+      "correct": 3,
+      "explanation": "Croatia joined the EU on 1 July 2013 (note: the source incorrectly states 2012 — actual date was 2013).",
+      "tags": []
+    },
+    {
+      "id": "region-002",
+      "q": "The total number of EU member countries currently is:",
+      "options": [
+        "27",
+        "32",
+        "28",
+        "23"
+      ],
+      "correct": 0,
+      "explanation": "After the UK left the EU (Brexit, 31 Jan 2020), the EU has 27 member states.",
+      "tags": []
+    },
+    {
+      "id": "region-003",
+      "q": "Which of the following was awarded the Nobel Peace Prize in 2012?",
+      "options": [
+        "ASEAN",
+        "European Union",
+        "Security Council",
+        "ILO"
+      ],
+      "correct": 1,
+      "explanation": "The European Union was awarded the Nobel Peace Prize in 2012 for its contribution to peace and reconciliation in Europe.",
+      "tags": []
+    },
+    {
+      "id": "region-004",
+      "q": "How many official languages are there in the European Union?",
+      "options": [
+        "32",
+        "23",
+        "15",
+        "10"
+      ],
+      "correct": 1,
+      "explanation": "The EU has 24 official languages (the source states 23 — the figure was updated when Croatian was added in 2013).",
+      "tags": []
+    },
+    {
+      "id": "region-005",
+      "q": "How many official languages were there in the original &#x27;Europe of Six&#x27; (1952-73)?",
+      "options": [
+        "3",
+        "6",
+        "4",
+        "1"
+      ],
+      "correct": 2,
+      "explanation": "The original Europe of Six (Belgium, France, Germany, Italy, Luxembourg, Netherlands) had 4 official languages.",
+      "tags": []
+    },
+    {
+      "id": "region-006",
+      "q": "How many working languages are there in the EU?",
+      "options": [
+        "3",
+        "10",
+        "5",
+        "20"
+      ],
+      "correct": 0,
+      "explanation": "The EU has 3 working languages: English, French and German.",
+      "tags": []
+    },
+    {
+      "id": "region-007",
+      "q": "The Translation Centre for the Bodies of the European Union, based in Luxembourg, provides translation services for:",
+      "options": [
+        "EU agencies",
+        "European Commission",
+        "Council",
+        "European Parliament"
+      ],
+      "correct": 0,
+      "explanation": "The Translation Centre in Luxembourg serves EU decentralised agencies (the source&#x27;s official answer).",
+      "tags": []
+    },
+    {
+      "id": "region-008",
+      "q": "When did French minister Aristide Briand suggest the idea of a European Federation within the League of Nations?",
+      "options": [
+        "1945",
+        "1921",
+        "1929",
+        "1933"
+      ],
+      "correct": 2,
+      "explanation": "Aristide Briand proposed a European Federation idea in 1929.",
+      "tags": []
+    },
+    {
+      "id": "region-009",
+      "q": "In 1949 the Council of Europe was established by ten countries. Which of these was NOT a member?",
+      "options": [
+        "Germany",
+        "UK",
+        "France",
+        "Sweden"
+      ],
+      "correct": 0,
+      "explanation": "Germany was not among the 10 founding members of the Council of Europe in 1949 (it joined later in 1950).",
+      "tags": []
+    },
+    {
+      "id": "region-010",
+      "q": "In 1950 the French Minister René Pleven developed the design for the EDC. What was his department?",
+      "options": [
+        "Defense",
+        "Justice",
+        "Foreign Affairs",
+        "Finance"
+      ],
+      "correct": 0,
+      "explanation": "René Pleven was France&#x27;s Minister of Defense; the EDC was the European Defence Community.",
+      "tags": []
+    },
+    {
+      "id": "region-011",
+      "q": "The European Parliament is the co-legislator together with:",
+      "options": [
+        "Council of the European Union",
+        "European Commission",
+        "European Council",
+        "Court of Justice"
+      ],
+      "correct": 0,
+      "explanation": "The European Parliament co-legislates with the Council of the European Union under the ordinary legislative procedure.",
+      "tags": []
+    },
+    {
+      "id": "region-012",
+      "q": "How many countries have so far had presidents of the European Commission?",
+      "options": [
+        "8",
+        "12",
+        "20",
+        "3"
+      ],
+      "correct": 0,
+      "explanation": "Per the source, 8 countries have had European Commission presidents.",
+      "tags": []
+    },
+    {
+      "id": "region-013",
+      "q": "Who was the President of the Commission which resigned in 1999?",
+      "options": [
+        "Gaston Thorn",
+        "Jacques Delors",
+        "Jacques Santer",
+        "Romano Prodi"
+      ],
+      "correct": 2,
+      "explanation": "Jacques Santer&#x27;s Commission resigned in March 1999 amid a corruption scandal.",
+      "tags": []
+    },
+    {
+      "id": "region-014",
+      "q": "What is the acronym for the Commission&#x27;s European Anti-Fraud Office?",
+      "options": [
+        "UCLAF",
+        "OLAF",
+        "TAIEX",
+        "ECHO"
+      ],
+      "correct": 1,
+      "explanation": "OLAF — Office européen de Lutte Anti-Fraude (European Anti-Fraud Office).",
+      "tags": []
+    },
+    {
+      "id": "region-015",
+      "q": "Who was the first president of the European Parliament?",
+      "options": [
+        "Romano Prodi",
+        "Altiero Spinelli",
+        "Robert Schuman",
+        "Jean Monnet"
+      ],
+      "correct": 2,
+      "explanation": "Robert Schuman, the French statesman, was the first president of the European Parliament (1958-1960).",
+      "tags": []
+    },
+    {
+      "id": "region-016",
+      "q": "Where is the Secretariat-General of the European Parliament located?",
+      "options": [
+        "Luxembourg",
+        "Strasbourg",
+        "Brussels",
+        "The Hague"
+      ],
+      "correct": 0,
+      "explanation": "The Secretariat-General of the European Parliament is located in Luxembourg.",
+      "tags": []
+    },
+    {
+      "id": "region-017",
+      "q": "Which country has the greatest number of seats in the European Parliament?",
+      "options": [
+        "United Kingdom",
+        "Germany",
+        "Italy",
+        "France"
+      ],
+      "correct": 1,
+      "explanation": "Germany — the EU&#x27;s most populous member — has the greatest number of seats in the European Parliament.",
+      "tags": []
+    },
+    {
+      "id": "region-018",
+      "q": "The European Parliament appoints the:",
+      "options": [
+        "European Defensor of Human Rights",
+        "European Ombudsman",
+        "European Mediator",
+        "European Human Rights Advocate"
+      ],
+      "correct": 1,
+      "explanation": "The European Parliament appoints the European Ombudsman.",
+      "tags": []
+    },
+    {
+      "id": "region-019",
+      "q": "When did the first direct elections for the European Parliament take place?",
+      "options": [
+        "1979",
+        "1980",
+        "1977",
+        "1982"
+      ],
+      "correct": 0,
+      "explanation": "The first direct EP elections were held in June 1979 across 9 member states.",
+      "tags": []
+    },
+    {
+      "id": "region-020",
+      "q": "Which region of the EU is the first to celebrate New Year?",
+      "options": [
+        "France",
+        "Slovakia",
+        "Romania",
+        "Denmark"
+      ],
+      "correct": 0,
+      "explanation": "France&#x27;s overseas territories (French Polynesia etc.) are among the first to enter the New Year.",
+      "tags": []
+    },
+    {
+      "id": "region-021",
+      "q": "The world&#x27;s oldest national anthem belongs to which EU member?",
+      "options": [
+        "Germany",
+        "Netherlands",
+        "France",
+        "Italy"
+      ],
+      "correct": 1,
+      "explanation": "The Wilhelmus — the Dutch national anthem — is the world&#x27;s oldest national anthem (16th century).",
+      "tags": []
+    },
+    {
+      "id": "region-022",
+      "q": "When did the Iberian Peninsula countries (Spain and Portugal) join the EU?",
+      "options": [
+        "1976",
+        "1986",
+        "1996",
+        "1966"
+      ],
+      "correct": 1,
+      "explanation": "Spain and Portugal joined the EU on 1 January 1986.",
+      "tags": []
+    },
+    {
+      "id": "region-023",
+      "q": "French is an official language in Belgium, Luxembourg and which other EU country?",
+      "options": [
+        "France",
+        "Slovakia",
+        "Romania",
+        "Denmark"
+      ],
+      "correct": 0,
+      "explanation": "French is an official language in France (along with Belgium and Luxembourg).",
+      "tags": []
+    },
+    {
+      "id": "region-024",
+      "q": "Jean Monnet was one of the founding fathers of the European Community. Which member state was he from?",
+      "options": [
+        "Germany",
+        "Belgium",
+        "France",
+        "Luxembourg"
+      ],
+      "correct": 2,
+      "explanation": "Jean Monnet (1888-1979), considered a &#x27;Father of Europe&#x27;, was from France.",
+      "tags": []
+    },
+    {
+      "id": "region-025",
+      "q": "Which country was the subject of the 1990 &#x27;enlargement&#x27; of the EU?",
+      "options": [
+        "Austria",
+        "Germany",
+        "Sweden",
+        "Finland"
+      ],
+      "correct": 1,
+      "explanation": "German reunification (1990) effectively brought East Germany into the EU — the &#x27;1990 enlargement&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "region-026",
+      "q": "Which country was the only new member to join the EC in the 1981 enlargement?",
+      "options": [
+        "Norway",
+        "Spain",
+        "Greece",
+        "Portugal"
+      ],
+      "correct": 2,
+      "explanation": "Greece was the only new member to join the EC in 1981.",
+      "tags": []
+    },
+    {
+      "id": "region-027",
+      "q": "In terms of population and land area, which was the largest of the 2004 enlargement members?",
+      "options": [
+        "Slovakia",
+        "Hungary",
+        "Poland",
+        "Czech Republic"
+      ],
+      "correct": 2,
+      "explanation": "Poland was the largest of the 10 countries joining the EU in 2004 — both by area and population.",
+      "tags": []
+    },
+    {
+      "id": "region-028",
+      "q": "Aside from Denmark, which EU member voted against adopting the Euro in a referendum?",
+      "options": [
+        "United Kingdom",
+        "Sweden",
+        "Greece",
+        "Ireland"
+      ],
+      "correct": 1,
+      "explanation": "Sweden voted against adopting the Euro in a 2003 referendum.",
+      "tags": []
+    },
+    {
+      "id": "region-029",
+      "q": "In 1973 the EC expanded to take in three new members: the UK, Denmark and:",
+      "options": [
+        "Greece",
+        "Norway",
+        "Ireland",
+        "Sweden"
+      ],
+      "correct": 2,
+      "explanation": "The 1973 EC enlargement brought in the UK, Denmark and Ireland.",
+      "tags": []
+    },
+    {
+      "id": "region-030",
+      "q": "Where are the headquarters of the European Union?",
+      "options": [
+        "Antwerp, Bonn, Munich",
+        "Brussels, Strasbourg, Luxembourg",
+        "Amsterdam, The Hague, Vienna",
+        "Nuremberg, Rome, Berlin"
+      ],
+      "correct": 1,
+      "explanation": "The EU has three institutional seats: Brussels, Strasbourg and Luxembourg.",
+      "tags": []
+    },
+    {
+      "id": "region-031",
+      "q": "Which 2004 EU enlargement member had a long-running border dispute involving a candidate country that did not join in 2004?",
+      "options": [
+        "Cyprus",
+        "Slovakia",
+        "Malta",
+        "Latvia"
+      ],
+      "correct": 0,
+      "explanation": "Cyprus had (and has) the long-running division dispute with northern Cyprus/Turkey — and joined in 2004.",
+      "tags": []
+    },
+    {
+      "id": "region-032",
+      "q": "In which country was the Treaty establishing the European Economic Community signed in 1957?",
+      "options": [
+        "France",
+        "Luxembourg",
+        "Belgium",
+        "Italy"
+      ],
+      "correct": 3,
+      "explanation": "The Treaty of Rome (1957) establishing the EEC was signed in Rome, Italy.",
+      "tags": []
+    },
+    {
+      "id": "region-033",
+      "q": "Which 2004 enlargement country was once part of the Soviet Union?",
+      "options": [
+        "Slovenia",
+        "Lithuania",
+        "Poland",
+        "Slovakia"
+      ],
+      "correct": 1,
+      "explanation": "Lithuania (a Baltic state) was part of the Soviet Union before joining the EU in 2004.",
+      "tags": []
+    },
+    {
+      "id": "region-034",
+      "q": "Which of these EU member states was a founder member of EFTA before joining the EC?",
+      "options": [
+        "Spain",
+        "Portugal",
+        "Greece",
+        "Italy"
+      ],
+      "correct": 1,
+      "explanation": "Portugal was a founding member of EFTA (1960) before joining the EC in 1986.",
+      "tags": []
+    },
+    {
+      "id": "region-035",
+      "q": "Which country has become the first-ever nation to leave the European Union?",
+      "options": [
+        "United Kingdom",
+        "France",
+        "Germany",
+        "Italy"
+      ],
+      "correct": 0,
+      "explanation": "The United Kingdom left the EU on 31 January 2020 (Brexit) — the first-ever to leave.",
+      "tags": []
+    },
+    {
+      "id": "region-036",
+      "q": "When was the European Monetary System (EMS) launched?",
+      "options": [
+        "1968",
+        "1981",
+        "1979",
+        "1952"
+      ],
+      "correct": 2,
+      "explanation": "The European Monetary System (EMS) was launched in March 1979.",
+      "tags": []
+    },
+    {
+      "id": "region-037",
+      "q": "Who became the first president of the European Central Bank (ECB)?",
+      "options": [
+        "Wim Duisenberg",
+        "Jean-Claude Trichet",
+        "Alexandre Lamfalussy",
+        "Philippe Maystadt"
+      ],
+      "correct": 0,
+      "explanation": "Wim Duisenberg of the Netherlands was the ECB&#x27;s first president (1998-2003).",
+      "tags": []
+    },
+    {
+      "id": "region-038",
+      "q": "When did the Euro banknotes and coins start to circulate?",
+      "options": [
+        "January 1, 2002",
+        "December 1, 2001",
+        "July 1, 2002",
+        "January 1, 2003"
+      ],
+      "correct": 0,
+      "explanation": "Euro banknotes and coins started circulating on 1 January 2002.",
+      "tags": []
+    },
+    {
+      "id": "region-039",
+      "q": "Where is the European Central Bank located?",
+      "options": [
+        "Luxembourg",
+        "Basel",
+        "Frankfurt",
+        "London"
+      ],
+      "correct": 2,
+      "explanation": "The European Central Bank (ECB) is headquartered in Frankfurt, Germany.",
+      "tags": []
+    },
+    {
+      "id": "region-040",
+      "q": "Which EU institution has seats in three cities — Brussels, Strasbourg and Luxembourg?",
+      "options": [
+        "European Parliament",
+        "European Council",
+        "European Commission",
+        "European Court of Justice"
+      ],
+      "correct": 0,
+      "explanation": "The European Parliament has seats in all three cities — Brussels, Strasbourg and Luxembourg.",
+      "tags": []
+    },
+    {
+      "id": "region-041",
+      "q": "Which country once &#x27;froze&#x27; its application for EU membership?",
+      "options": [
+        "Malta",
+        "Cyprus",
+        "Slovakia",
+        "Poland"
+      ],
+      "correct": 0,
+      "explanation": "Malta froze its EU application in 1996 (after a change of government), reactivated 1998, joined 2004.",
+      "tags": []
+    },
+    {
+      "id": "region-042",
+      "q": "What is the maximum number of MEPs in the European Parliament set by the Treaty of Nice?",
+      "options": [
+        "800",
+        "700",
+        "732",
+        "626"
+      ],
+      "correct": 2,
+      "explanation": "The Treaty of Nice (2001) capped the European Parliament at 732 MEPs.",
+      "tags": []
+    },
+    {
+      "id": "region-043",
+      "q": "In which country is voting in European Parliament elections obligatory?",
+      "options": [
+        "Denmark",
+        "Portugal",
+        "Belgium",
+        "United Kingdom"
+      ],
+      "correct": 2,
+      "explanation": "Voting in European Parliament elections is obligatory in Belgium.",
+      "tags": []
+    },
+    {
+      "id": "region-044",
+      "q": "ASEAN (Association of Southeast Asian Nations), established on 8 August 1967, has its headquarters in:",
+      "options": [
+        "Jakarta",
+        "Singapore",
+        "Delhi",
+        "Geneva"
+      ],
+      "correct": 0,
+      "explanation": "ASEAN was established on 8 August 1967 (cited as 9 Aug in some older sources) with HQ in Jakarta, Indonesia.",
+      "tags": []
+    },
+    {
+      "id": "region-045",
+      "q": "Amnesty International was established in 1961 with its headquarters in London by a British lawyer named:",
+      "options": [
+        "J. H. Dunant",
+        "Michael Johnson",
+        "Peter Benenson",
+        "King Robinson"
+      ],
+      "correct": 2,
+      "explanation": "Amnesty International was founded by British lawyer Peter Benenson in 1961.",
+      "tags": []
+    },
+    {
+      "id": "region-046",
+      "q": "In January 1992 ASEAN members agreed to establish a free trade area, cutting tariffs on non-agricultural goods over a period of:",
+      "options": [
+        "10 years",
+        "12 years",
+        "8 years",
+        "15 years"
+      ],
+      "correct": 3,
+      "explanation": "The ASEAN Free Trade Area (AFTA) was agreed in January 1992 with a 15-year tariff-reduction plan.",
+      "tags": []
+    },
+    {
+      "id": "region-047",
+      "q": "Which international organization is effectively a cartel seeking to control prices and quantities of oil on the world market?",
+      "options": [
+        "OPEC",
+        "NATO",
+        "OECD",
+        "CPLP"
+      ],
+      "correct": 0,
+      "explanation": "OPEC (Organization of the Petroleum Exporting Countries) is the leading oil cartel.",
+      "tags": []
+    },
+    {
+      "id": "region-048",
+      "q": "OPEC, the Organization of the Petroleum Exporting Countries, was founded on:",
+      "options": [
+        "14 September 1960",
+        "14 September 1959",
+        "14 December 1960",
+        "14 November 1960"
+      ],
+      "correct": 0,
+      "explanation": "OPEC was founded on 14 September 1960 in Baghdad, Iraq.",
+      "tags": []
+    },
+    {
+      "id": "region-049",
+      "q": "Where are the headquarters of the Organization of the Petroleum Exporting Countries (OPEC)?",
+      "options": [
+        "Berlin",
+        "Baghdad",
+        "Riyadh",
+        "Vienna"
+      ],
+      "correct": 3,
+      "explanation": "OPEC is headquartered in Vienna, Austria (since 1965, after originally being in Geneva).",
+      "tags": []
+    },
+    {
+      "id": "region-050",
+      "q": "What was the main objective behind the formation of OPEC?",
+      "options": [
+        "To reduce production in order to increase prices",
+        "To control production and pricing of crude oil",
+        "To increase production in order to capture oil market",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "OPEC&#x27;s primary objective is to coordinate and unify petroleum policies — controlling production and pricing of crude oil.",
+      "tags": []
+    },
+    {
+      "id": "region-051",
+      "q": "Which country suspended its OPEC membership in 2009?",
+      "options": [
+        "Angola",
+        "Ecuador",
+        "Indonesia",
+        "Iran"
+      ],
+      "correct": 2,
+      "explanation": "Indonesia suspended its OPEC membership in January 2009 (briefly reactivated in 2016, then re-suspended in November 2016).",
+      "tags": []
+    },
+    {
+      "id": "region-052",
+      "q": "Which of the following statements regarding OPEC is NOT correct?",
+      "options": [
+        "It was formed in 1960",
+        "Its membership is open to every country",
+        "It was formed to control production and pricing of crude oil",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "OPEC membership is restricted — only countries with substantial net oil exports can join. Saying it is &#x27;open to every country&#x27; is incorrect.",
+      "tags": []
+    },
+    {
+      "id": "region-053",
+      "q": "What is the total number of OPEC member countries (per source)?",
+      "options": [
+        "14",
+        "13",
+        "15",
+        "12"
+      ],
+      "correct": 0,
+      "explanation": "Per the original source, OPEC had 14 members (current membership has fluctuated; presently ~12 after Angola left in 2024).",
+      "tags": []
+    }
+  ]
+}

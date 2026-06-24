@@ -1,0 +1,1415 @@
+{
+  "topic_id": "international-airlines",
+  "topic_name": "International Airlines",
+  "subject": "general-knowledge",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "International Airlines MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "intern-001",
+      "q": "Ural Airlines is a major regional carrier based in which country?",
+      "options": [
+        "Ukraine",
+        "Russia",
+        "Kazakhstan",
+        "Belarus"
+      ],
+      "correct": 1,
+      "explanation": "Ural Airlines is a Russian airline based in Yekaterinburg — one of the largest regional carriers in Russia.",
+      "tags": []
+    },
+    {
+      "id": "intern-002",
+      "q": "What is the flag carrier of Afghanistan, founded in 1955?",
+      "options": [
+        "Kam Air",
+        "Ariana Afghan Airlines",
+        "Safi Airways",
+        "Bakhtar Afghan"
+      ],
+      "correct": 1,
+      "explanation": "Ariana Afghan Airlines, founded in 1955, is the flag carrier of Afghanistan and its oldest airline.",
+      "tags": []
+    },
+    {
+      "id": "intern-003",
+      "q": "Which airline is the national carrier of Bangladesh, founded in 1972?",
+      "options": [
+        "US-Bangla",
+        "Biman Bangladesh Airlines",
+        "Novoair",
+        "Regent Airways"
+      ],
+      "correct": 1,
+      "explanation": "Biman Bangladesh Airlines, founded in 1972 just after independence, is the national flag carrier of Bangladesh.",
+      "tags": []
+    },
+    {
+      "id": "intern-004",
+      "q": "Sun Country Airlines is a low-cost leisure carrier from which country?",
+      "options": [
+        "Canada",
+        "UK",
+        "USA",
+        "Australia"
+      ],
+      "correct": 2,
+      "explanation": "Sun Country Airlines is a US-based low-cost leisure carrier headquartered in Minneapolis, Minnesota.",
+      "tags": []
+    },
+    {
+      "id": "intern-005",
+      "q": "Which is Canada&#x27;s second-largest airline known for its low-cost model?",
+      "options": [
+        "Air Canada",
+        "Porter",
+        "WestJet",
+        "Flair"
+      ],
+      "correct": 2,
+      "explanation": "WestJet, headquartered in Calgary, is Canada&#x27;s second-largest airline and is known for its low-cost model.",
+      "tags": []
+    },
+    {
+      "id": "intern-006",
+      "q": "Continental Airlines merged with which major carrier in 2012?",
+      "options": [
+        "Delta",
+        "American",
+        "United Airlines",
+        "Southwest"
+      ],
+      "correct": 2,
+      "explanation": "Continental Airlines merged with United Airlines in 2012, creating one of the world&#x27;s largest carriers.",
+      "tags": []
+    },
+    {
+      "id": "intern-007",
+      "q": "Virgin Atlantic was founded by which entrepreneur in 1984?",
+      "options": [
+        "Elon Musk",
+        "Richard Branson",
+        "Howard Hughes",
+        "Freddie Laker"
+      ],
+      "correct": 1,
+      "explanation": "Virgin Atlantic was founded by British entrepreneur Richard Branson in 1984 as part of his Virgin Group.",
+      "tags": []
+    },
+    {
+      "id": "intern-008",
+      "q": "What is Japan&#x27;s largest private airline known for service excellence?",
+      "options": [
+        "Japan Airlines",
+        "All Nippon Airways (ANA)",
+        "Peach Aviation",
+        "Skymark"
+      ],
+      "correct": 1,
+      "explanation": "All Nippon Airways (ANA), founded in 1952, is Japan&#x27;s largest private airline and is renowned for its service excellence — a 5-star Skytrax airline.",
+      "tags": []
+    },
+    {
+      "id": "intern-009",
+      "q": "China Airlines is the flag carrier of which territory?",
+      "options": [
+        "China (PRC)",
+        "Hong Kong",
+        "Taiwan",
+        "Macau"
+      ],
+      "correct": 2,
+      "explanation": "China Airlines is the flag carrier of Taiwan (Republic of China), not mainland China. Air China is the PRC&#x27;s flag carrier.",
+      "tags": []
+    },
+    {
+      "id": "intern-010",
+      "q": "What is the official national airline of the People&#x27;s Republic of China?",
+      "options": [
+        "China Eastern",
+        "China Southern",
+        "Air China",
+        "China Airlines"
+      ],
+      "correct": 2,
+      "explanation": "Air China is the official flag carrier of the People&#x27;s Republic of China, headquartered in Beijing.",
+      "tags": []
+    },
+    {
+      "id": "intern-011",
+      "q": "Which Israeli airline is considered the world&#x27;s most secure?",
+      "options": [
+        "Israir",
+        "Arkia",
+        "El Al Airlines",
+        "Sun d'Or"
+      ],
+      "correct": 2,
+      "explanation": "El Al Israel Airlines is the flag carrier of Israel and is considered the world&#x27;s most secure airline — with armed sky marshals on every flight and bullet-proof cockpit doors.",
+      "tags": []
+    },
+    {
+      "id": "intern-012",
+      "q": "easyJet is a leading low-cost carrier from which country?",
+      "options": [
+        "Ireland",
+        "UK",
+        "Germany",
+        "Spain"
+      ],
+      "correct": 1,
+      "explanation": "easyJet is a British low-cost airline headquartered at London Luton Airport.",
+      "tags": []
+    },
+    {
+      "id": "intern-013",
+      "q": "Delta Air Lines is a major airline based in which US city?",
+      "options": [
+        "Chicago",
+        "Dallas",
+        "Atlanta",
+        "New York"
+      ],
+      "correct": 2,
+      "explanation": "Delta Air Lines is headquartered in Atlanta, Georgia — its primary hub is Hartsfield-Jackson Atlanta International Airport.",
+      "tags": []
+    },
+    {
+      "id": "intern-014",
+      "q": "EVA Air is a highly ranked airline from which country?",
+      "options": [
+        "Vietnam",
+        "South Korea",
+        "Thailand",
+        "Taiwan"
+      ],
+      "correct": 3,
+      "explanation": "EVA Air is a Taiwanese airline founded in 1989, consistently ranked among the world&#x27;s best by Skytrax.",
+      "tags": []
+    },
+    {
+      "id": "intern-015",
+      "q": "Which is the world&#x27;s oldest airline still operating under its original name?",
+      "options": [
+        "KLM",
+        "Qantas",
+        "Avianca",
+        "Lufthansa"
+      ],
+      "correct": 0,
+      "explanation": "KLM Royal Dutch Airlines was founded in 1919 and is the world&#x27;s oldest airline still operating under its original name.",
+      "tags": []
+    },
+    {
+      "id": "intern-016",
+      "q": "Which airline claims to be the oldest continuously operating airline?",
+      "options": [
+        "KLM",
+        "Qantas",
+        "Avianca",
+        "Lufthansa"
+      ],
+      "correct": 1,
+      "explanation": "Qantas of Australia, founded in 1920, claims to be the world&#x27;s oldest continuously operating airline.",
+      "tags": []
+    },
+    {
+      "id": "intern-017",
+      "q": "Olympic Air is a carrier based in which country?",
+      "options": [
+        "Cyprus",
+        "Italy",
+        "Greece",
+        "Türkiye"
+      ],
+      "correct": 2,
+      "explanation": "Olympic Air is a Greek airline, the successor of the historic Olympic Airways (founded by Aristotle Onassis in 1957).",
+      "tags": []
+    },
+    {
+      "id": "intern-018",
+      "q": "DELAG, the world&#x27;s first airline (1909), was from which country?",
+      "options": [
+        "UK",
+        "France",
+        "Germany",
+        "USA"
+      ],
+      "correct": 2,
+      "explanation": "DELAG (Deutsche Luftschiffahrts-Aktiengesellschaft) was founded in Germany in 1909 to operate Zeppelin airships — the world&#x27;s first commercial airline.",
+      "tags": []
+    },
+    {
+      "id": "intern-019",
+      "q": "American Airlines is the largest airline in the world by which metric?",
+      "options": [
+        "Routes served",
+        "Profit margin",
+        "Fleet size and passengers",
+        "Cargo volume"
+      ],
+      "correct": 2,
+      "explanation": "American Airlines is the world&#x27;s largest airline by fleet size and passengers carried — based in Fort Worth, Texas.",
+      "tags": []
+    },
+    {
+      "id": "intern-020",
+      "q": "Middle East Airlines (MEA) is the national carrier of:",
+      "options": [
+        "Syria",
+        "Lebanon",
+        "Jordan",
+        "Iraq"
+      ],
+      "correct": 1,
+      "explanation": "Middle East Airlines (MEA) is the flag carrier of Lebanon, headquartered in Beirut.",
+      "tags": []
+    },
+    {
+      "id": "intern-021",
+      "q": "SATA Air Açores is a regional airline from which country?",
+      "options": [
+        "Spain",
+        "Portugal (Azores)",
+        "Italy",
+        "France"
+      ],
+      "correct": 1,
+      "explanation": "SATA Air Açores is the regional airline of Portugal&#x27;s Azores Islands, headquartered in Ponta Delgada.",
+      "tags": []
+    },
+    {
+      "id": "intern-022",
+      "q": "Aeroflot is the flag carrier of which country?",
+      "options": [
+        "Ukraine",
+        "Russia",
+        "Belarus",
+        "Kazakhstan"
+      ],
+      "correct": 1,
+      "explanation": "Aeroflot Russian Airlines, founded in 1923, is the flag carrier of Russia — one of the world&#x27;s oldest airlines.",
+      "tags": []
+    },
+    {
+      "id": "intern-023",
+      "q": "ITA Airways is the successor to which historic Italian carrier?",
+      "options": [
+        "Air One",
+        "Alitalia",
+        "Meridiana",
+        "Blue Panorama"
+      ],
+      "correct": 1,
+      "explanation": "ITA Airways replaced Alitalia as Italy&#x27;s flag carrier in October 2021 after Alitalia&#x27;s liquidation.",
+      "tags": []
+    },
+    {
+      "id": "intern-024",
+      "q": "Air France is the flag carrier of which nation?",
+      "options": [
+        "Belgium",
+        "France",
+        "Switzerland",
+        "Luxembourg"
+      ],
+      "correct": 1,
+      "explanation": "Air France, founded in 1933, is the flag carrier of France and part of the Air France-KLM group.",
+      "tags": []
+    },
+    {
+      "id": "intern-025",
+      "q": "SriLankan Airlines was formerly known as:",
+      "options": [
+        "Ceylon Airways",
+        "Air Lanka",
+        "SriLanka Air",
+        "Ceylon International"
+      ],
+      "correct": 1,
+      "explanation": "SriLankan Airlines was known as Air Lanka from 1979 until it was rebranded SriLankan Airlines in 1998.",
+      "tags": []
+    },
+    {
+      "id": "intern-026",
+      "q": "British Airways is headquartered at which airport?",
+      "options": [
+        "London Gatwick",
+        "London Heathrow",
+        "Manchester",
+        "Birmingham"
+      ],
+      "correct": 1,
+      "explanation": "British Airways is headquartered at the Waterside complex near London Heathrow Airport — its main hub.",
+      "tags": []
+    },
+    {
+      "id": "intern-027",
+      "q": "Cathay Pacific is the flag carrier of:",
+      "options": [
+        "China",
+        "Taiwan",
+        "Hong Kong",
+        "Singapore"
+      ],
+      "correct": 2,
+      "explanation": "Cathay Pacific Airways, founded in 1946, is the flag carrier of Hong Kong.",
+      "tags": []
+    },
+    {
+      "id": "intern-028",
+      "q": "Emirates Airlines is based in which city?",
+      "options": [
+        "Abu Dhabi",
+        "Doha",
+        "Dubai",
+        "Riyadh"
+      ],
+      "correct": 2,
+      "explanation": "Emirates, founded in 1985, is based in Dubai, UAE — operator of the world&#x27;s largest A380 fleet.",
+      "tags": []
+    },
+    {
+      "id": "intern-029",
+      "q": "Gulf Air is the national carrier of:",
+      "options": [
+        "UAE",
+        "Qatar",
+        "Oman",
+        "Bahrain"
+      ],
+      "correct": 3,
+      "explanation": "Gulf Air is the national flag carrier of the Kingdom of Bahrain, headquartered in Muharraq.",
+      "tags": []
+    },
+    {
+      "id": "intern-030",
+      "q": "Japan Airlines (JAL) is based in:",
+      "options": [
+        "Osaka",
+        "Nagoya",
+        "Tokyo",
+        "Kyoto"
+      ],
+      "correct": 2,
+      "explanation": "Japan Airlines (JAL), Japan&#x27;s flag carrier, is headquartered in Tokyo with its main hub at Haneda Airport.",
+      "tags": []
+    },
+    {
+      "id": "intern-031",
+      "q": "Lufthansa is the flag carrier of:",
+      "options": [
+        "Austria",
+        "Switzerland",
+        "Germany",
+        "Netherlands"
+      ],
+      "correct": 2,
+      "explanation": "Lufthansa is the flag carrier of Germany, headquartered in Cologne with its main hubs at Frankfurt and Munich.",
+      "tags": []
+    },
+    {
+      "id": "intern-032",
+      "q": "Oman Air is the national airline of:",
+      "options": [
+        "Yemen",
+        "UAE",
+        "Oman",
+        "Qatar"
+      ],
+      "correct": 2,
+      "explanation": "Oman Air, founded in 1993, is the national flag carrier of the Sultanate of Oman, based in Muscat.",
+      "tags": []
+    },
+    {
+      "id": "intern-033",
+      "q": "Which airline was voted World&#x27;s Best Airline by Skytrax in 2024?",
+      "options": [
+        "Singapore Airlines",
+        "Emirates",
+        "Qatar Airways",
+        "ANA"
+      ],
+      "correct": 2,
+      "explanation": "Qatar Airways was voted the World&#x27;s Best Airline by Skytrax in 2024 — a title it has won a record number of times.",
+      "tags": []
+    },
+    {
+      "id": "intern-034",
+      "q": "Singapore Airlines is the flag carrier of:",
+      "options": [
+        "Malaysia",
+        "Indonesia",
+        "Singapore",
+        "Brunei"
+      ],
+      "correct": 2,
+      "explanation": "Singapore Airlines, founded in 1947, is the flag carrier of Singapore — frequently ranked among the world&#x27;s top airlines.",
+      "tags": []
+    },
+    {
+      "id": "intern-035",
+      "q": "South African Airways is the flag carrier of:",
+      "options": [
+        "Nigeria",
+        "Kenya",
+        "South Africa",
+        "Egypt"
+      ],
+      "correct": 2,
+      "explanation": "South African Airways (SAA), founded in 1934, is the flag carrier of South Africa, based in Johannesburg.",
+      "tags": []
+    },
+    {
+      "id": "intern-036",
+      "q": "What was Pakistan&#x27;s first private airline?",
+      "options": [
+        "PIA",
+        "Airblue",
+        "Orient Airways",
+        "Shaheen Air"
+      ],
+      "correct": 2,
+      "explanation": "Orient Airways, founded by M. A. Ispahani in 1946, was Pakistan&#x27;s first private airline. It later merged with the government&#x27;s Pakistan Airways in 1955 to form PIA.",
+      "tags": []
+    },
+    {
+      "id": "intern-037",
+      "q": "Nepal Airlines was formerly known as:",
+      "options": [
+        "Mount Everest Airlines",
+        "Royal Nepal Airlines",
+        "Buddha Air",
+        "Nepal Air"
+      ],
+      "correct": 1,
+      "explanation": "Nepal Airlines was known as Royal Nepal Airlines Corporation (RNAC) until 2006, when Nepal abolished its monarchy.",
+      "tags": []
+    },
+    {
+      "id": "intern-038",
+      "q": "SAS is the joint flag airline of which three countries?",
+      "options": [
+        "Norway, Sweden, Finland",
+        "Norway, Sweden, Denmark",
+        "Denmark, Finland, Iceland",
+        "Sweden, Finland, Iceland"
+      ],
+      "correct": 1,
+      "explanation": "Scandinavian Airlines System (SAS), founded in 1946, is the joint flag carrier of Norway, Sweden and Denmark.",
+      "tags": []
+    },
+    {
+      "id": "intern-039",
+      "q": "AirAsia is a low-cost airline based in:",
+      "options": [
+        "Indonesia",
+        "Thailand",
+        "Malaysia",
+        "Philippines"
+      ],
+      "correct": 2,
+      "explanation": "AirAsia is a Malaysian low-cost airline based in Kuala Lumpur — Asia&#x27;s largest low-cost carrier.",
+      "tags": []
+    },
+    {
+      "id": "intern-040",
+      "q": "Air Europa is the second-largest airline of:",
+      "options": [
+        "Italy",
+        "Portugal",
+        "Spain",
+        "France"
+      ],
+      "correct": 2,
+      "explanation": "Air Europa, founded in 1986, is Spain&#x27;s second-largest airline after Iberia.",
+      "tags": []
+    },
+    {
+      "id": "intern-041",
+      "q": "PIA (Pakistan International Airlines) was the first Asian airline to:",
+      "options": [
+        "Fly to Europe",
+        "Fly a jet aircraft",
+        "Have female pilots",
+        "Use a Boeing 747"
+      ],
+      "correct": 1,
+      "explanation": "PIA was the first Asian airline to operate a jet aircraft (Boeing 707-321) in 1960. It was also the first non-communist airline to fly to China.",
+      "tags": []
+    },
+    {
+      "id": "intern-042",
+      "q": "Thai Airways International is the flag carrier of:",
+      "options": [
+        "Vietnam",
+        "Cambodia",
+        "Thailand",
+        "Laos"
+      ],
+      "correct": 2,
+      "explanation": "Thai Airways International is the flag carrier of Thailand, based in Bangkok.",
+      "tags": []
+    },
+    {
+      "id": "intern-043",
+      "q": "LOT Polish Airlines is the flag carrier of:",
+      "options": [
+        "Lithuania",
+        "Poland",
+        "Latvia",
+        "Czech Republic"
+      ],
+      "correct": 1,
+      "explanation": "LOT Polish Airlines, founded in 1929, is the flag carrier of Poland and one of the world&#x27;s oldest airlines still operating.",
+      "tags": []
+    },
+    {
+      "id": "intern-044",
+      "q": "TAROM is the national airline of:",
+      "options": [
+        "Bulgaria",
+        "Romania",
+        "Hungary",
+        "Serbia"
+      ],
+      "correct": 1,
+      "explanation": "TAROM, founded in 1954, is the flag carrier of Romania, based in Bucharest.",
+      "tags": []
+    },
+    {
+      "id": "intern-045",
+      "q": "Avianca is the second-oldest airline in the world. It is based in:",
+      "options": [
+        "Brazil",
+        "Argentina",
+        "Colombia",
+        "Venezuela"
+      ],
+      "correct": 2,
+      "explanation": "Avianca, founded in 1919, is the flag carrier of Colombia and the second-oldest airline in the world (after KLM, also 1919).",
+      "tags": []
+    },
+    {
+      "id": "intern-046",
+      "q": "Copa Airlines is the flag carrier of:",
+      "options": [
+        "Costa Rica",
+        "Panama",
+        "Colombia",
+        "Ecuador"
+      ],
+      "correct": 1,
+      "explanation": "Copa Airlines, founded in 1947, is the flag carrier of Panama, based at Tocumen International Airport.",
+      "tags": []
+    },
+    {
+      "id": "intern-047",
+      "q": "Iberia is the flag carrier of:",
+      "options": [
+        "Portugal",
+        "Spain",
+        "Italy",
+        "Argentina"
+      ],
+      "correct": 1,
+      "explanation": "Iberia, founded in 1927, is the flag carrier of Spain, headquartered in Madrid.",
+      "tags": []
+    },
+    {
+      "id": "intern-048",
+      "q": "Etihad Airways is based in:",
+      "options": [
+        "Dubai",
+        "Abu Dhabi",
+        "Sharjah",
+        "Doha"
+      ],
+      "correct": 1,
+      "explanation": "Etihad Airways, founded in 2003, is based in Abu Dhabi — the second flag carrier of the UAE alongside Emirates.",
+      "tags": []
+    },
+    {
+      "id": "intern-049",
+      "q": "Asiana Airlines is a major carrier from:",
+      "options": [
+        "Japan",
+        "Taiwan",
+        "South Korea",
+        "Singapore"
+      ],
+      "correct": 2,
+      "explanation": "Asiana Airlines, founded in 1988, is one of South Korea&#x27;s two major airlines (alongside Korean Air), based in Seoul.",
+      "tags": []
+    },
+    {
+      "id": "intern-050",
+      "q": "LATAM Airlines Group is the largest airline in:",
+      "options": [
+        "North America",
+        "Latin America",
+        "Africa",
+        "Europe"
+      ],
+      "correct": 1,
+      "explanation": "LATAM Airlines Group is the largest airline in Latin America, formed by the 2012 merger of LAN (Chile) and TAM (Brazil).",
+      "tags": []
+    },
+    {
+      "id": "intern-051",
+      "q": "Ryanair is a low-cost carrier from:",
+      "options": [
+        "UK",
+        "Ireland",
+        "Italy",
+        "Spain"
+      ],
+      "correct": 1,
+      "explanation": "Ryanair, founded in 1984, is an Irish low-cost airline — Europe&#x27;s largest LCC by passengers carried.",
+      "tags": []
+    },
+    {
+      "id": "intern-052",
+      "q": "Mahan Air is a private airline from:",
+      "options": [
+        "Iraq",
+        "Iran",
+        "Türkiye",
+        "Afghanistan"
+      ],
+      "correct": 1,
+      "explanation": "Mahan Air, founded in 1991, is Iran&#x27;s first privately owned airline, based in Tehran.",
+      "tags": []
+    },
+    {
+      "id": "intern-053",
+      "q": "Airblue is a private airline based in:",
+      "options": [
+        "India",
+        "Pakistan",
+        "Bangladesh",
+        "UAE"
+      ],
+      "correct": 1,
+      "explanation": "Airblue, founded in 2003, is a Pakistani private low-cost airline based in Islamabad/Karachi.",
+      "tags": []
+    },
+    {
+      "id": "intern-054",
+      "q": "Garuda Indonesia is named after:",
+      "options": [
+        "A volcano",
+        "A mythical bird",
+        "An Indonesian island",
+        "A king"
+      ],
+      "correct": 1,
+      "explanation": "Garuda Indonesia is named after Garuda — the mythical bird from Hindu/Buddhist mythology that serves as Vishnu&#x27;s mount and Indonesia&#x27;s national emblem.",
+      "tags": []
+    },
+    {
+      "id": "intern-055",
+      "q": "JetBlue is a low-cost carrier based in:",
+      "options": [
+        "Canada",
+        "USA",
+        "UK",
+        "Australia"
+      ],
+      "correct": 1,
+      "explanation": "JetBlue Airways, founded in 1998, is a major American low-cost carrier headquartered in New York City.",
+      "tags": []
+    },
+    {
+      "id": "intern-056",
+      "q": "Spirit Airlines is known as an:",
+      "options": [
+        "Eco-friendly carrier",
+        "Ultra-low-cost carrier (ULCC)",
+        "Charter carrier",
+        "Cargo airline"
+      ],
+      "correct": 1,
+      "explanation": "Spirit Airlines, headquartered in Florida, is the largest ultra-low-cost carrier (ULCC) in North America.",
+      "tags": []
+    },
+    {
+      "id": "intern-057",
+      "q": "Frontier Airlines is an eco-friendly carrier from:",
+      "options": [
+        "USA",
+        "Canada",
+        "Mexico",
+        "Brazil"
+      ],
+      "correct": 0,
+      "explanation": "Frontier Airlines is a US ultra-low-cost carrier based in Denver, known for marketing itself as &#x27;America&#x27;s Greenest Airline&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "intern-058",
+      "q": "Allegiant Air focuses on:",
+      "options": [
+        "Cargo",
+        "Leisure travel",
+        "Business class only",
+        "Charter only"
+      ],
+      "correct": 1,
+      "explanation": "Allegiant Air is a US leisure airline based in Las Vegas, focused on flying from small cities to leisure destinations.",
+      "tags": []
+    },
+    {
+      "id": "intern-059",
+      "q": "United Airlines is one of the &#x27;Big Three&#x27; carriers in:",
+      "options": [
+        "EU",
+        "USA",
+        "China",
+        "India"
+      ],
+      "correct": 1,
+      "explanation": "The &#x27;Big Three&#x27; US carriers are American Airlines, Delta Air Lines and United Airlines — all global majors.",
+      "tags": []
+    },
+    {
+      "id": "intern-060",
+      "q": "Southwest Airlines is the largest low-cost carrier in:",
+      "options": [
+        "Europe",
+        "Asia",
+        "North America",
+        "South America"
+      ],
+      "correct": 2,
+      "explanation": "Southwest Airlines, founded in 1967, is the largest low-cost carrier in North America by passengers carried.",
+      "tags": []
+    },
+    {
+      "id": "intern-061",
+      "q": "Pegasus Airlines is a budget carrier from:",
+      "options": [
+        "Greece",
+        "Türkiye",
+        "Cyprus",
+        "Egypt"
+      ],
+      "correct": 1,
+      "explanation": "Pegasus Airlines, founded in 1990, is a Turkish low-cost carrier based in Istanbul.",
+      "tags": []
+    },
+    {
+      "id": "intern-062",
+      "q": "Vueling is a low-cost airline from:",
+      "options": [
+        "Portugal",
+        "Spain",
+        "Italy",
+        "France"
+      ],
+      "correct": 1,
+      "explanation": "Vueling, founded in 2004, is a Spanish low-cost airline based in Barcelona — part of the IAG group.",
+      "tags": []
+    },
+    {
+      "id": "intern-063",
+      "q": "Wizz Air is a fast-growing low-cost airline from:",
+      "options": [
+        "Poland",
+        "Hungary",
+        "Romania",
+        "Bulgaria"
+      ],
+      "correct": 1,
+      "explanation": "Wizz Air, founded in 2003, is a Hungarian low-cost carrier headquartered in Budapest — one of Europe&#x27;s fastest-growing airlines.",
+      "tags": []
+    },
+    {
+      "id": "intern-064",
+      "q": "IndiGo is the largest airline by market share in:",
+      "options": [
+        "Bangladesh",
+        "Sri Lanka",
+        "India",
+        "Pakistan"
+      ],
+      "correct": 2,
+      "explanation": "IndiGo is India&#x27;s largest airline by domestic market share — more than 60% of the Indian market.",
+      "tags": []
+    },
+    {
+      "id": "intern-065",
+      "q": "Vistara is a full-service airline based in:",
+      "options": [
+        "Pakistan",
+        "Bangladesh",
+        "India",
+        "Sri Lanka"
+      ],
+      "correct": 2,
+      "explanation": "Vistara is an Indian full-service carrier (Tata-SIA JV) based in Gurugram. It is merging with Air India under the Tata Group.",
+      "tags": []
+    },
+    {
+      "id": "intern-066",
+      "q": "Lion Air is the largest private airline in:",
+      "options": [
+        "Vietnam",
+        "Thailand",
+        "Indonesia",
+        "Philippines"
+      ],
+      "correct": 2,
+      "explanation": "Lion Air, founded in 1999, is the largest private airline in Indonesia, headquartered in Jakarta.",
+      "tags": []
+    },
+    {
+      "id": "intern-067",
+      "q": "Scoot is a low-cost subsidiary of:",
+      "options": [
+        "Cathay Pacific",
+        "Singapore Airlines",
+        "Malaysia Airlines",
+        "ANA"
+      ],
+      "correct": 1,
+      "explanation": "Scoot is the low-cost subsidiary of Singapore Airlines, launched in 2012 for medium- and long-haul budget routes.",
+      "tags": []
+    },
+    {
+      "id": "intern-068",
+      "q": "Flydubai is a medium-haul carrier from:",
+      "options": [
+        "Qatar",
+        "UAE",
+        "Bahrain",
+        "Oman"
+      ],
+      "correct": 1,
+      "explanation": "Flydubai, founded in 2008, is a UAE low-cost airline based in Dubai — a sister carrier to Emirates.",
+      "tags": []
+    },
+    {
+      "id": "intern-069",
+      "q": "Saudia is the national airline of:",
+      "options": [
+        "UAE",
+        "Qatar",
+        "Saudi Arabia",
+        "Bahrain"
+      ],
+      "correct": 2,
+      "explanation": "Saudia (formerly Saudi Arabian Airlines), founded in 1945, is the flag carrier of Saudi Arabia, based in Jeddah.",
+      "tags": []
+    },
+    {
+      "id": "intern-070",
+      "q": "Air Arabia is a budget airline based in:",
+      "options": [
+        "Saudi Arabia",
+        "UAE",
+        "Egypt",
+        "Qatar"
+      ],
+      "correct": 1,
+      "explanation": "Air Arabia, founded in 2003, is a UAE low-cost airline based in Sharjah — the Middle East&#x27;s first LCC.",
+      "tags": []
+    },
+    {
+      "id": "intern-071",
+      "q": "Flynas is a private low-cost airline from:",
+      "options": [
+        "UAE",
+        "Qatar",
+        "Saudi Arabia",
+        "Oman"
+      ],
+      "correct": 2,
+      "explanation": "Flynas, founded in 2007, is a Saudi private low-cost airline based in Riyadh.",
+      "tags": []
+    },
+    {
+      "id": "intern-072",
+      "q": "Gol Linhas Aéreas is a major airline in:",
+      "options": [
+        "Argentina",
+        "Chile",
+        "Brazil",
+        "Mexico"
+      ],
+      "correct": 2,
+      "explanation": "Gol Linhas Aéreas, founded in 2000, is one of the largest airlines in Brazil — pioneered LCC operations in Latin America.",
+      "tags": []
+    },
+    {
+      "id": "intern-073",
+      "q": "Azul Airlines is a leading carrier in:",
+      "options": [
+        "Argentina",
+        "Brazil",
+        "Colombia",
+        "Peru"
+      ],
+      "correct": 1,
+      "explanation": "Azul Brazilian Airlines, founded in 2008 by JetBlue founder David Neeleman, is one of Brazil&#x27;s three major airlines.",
+      "tags": []
+    },
+    {
+      "id": "intern-074",
+      "q": "TAP Air Portugal is the flag carrier of:",
+      "options": [
+        "Spain",
+        "Portugal",
+        "Brazil",
+        "Cape Verde"
+      ],
+      "correct": 1,
+      "explanation": "TAP Air Portugal, founded in 1945, is the flag carrier of Portugal, based in Lisbon.",
+      "tags": []
+    },
+    {
+      "id": "intern-075",
+      "q": "Finnair is the flag carrier of:",
+      "options": [
+        "Norway",
+        "Sweden",
+        "Denmark",
+        "Finland"
+      ],
+      "correct": 3,
+      "explanation": "Finnair, founded in 1923, is the flag carrier of Finland — one of the oldest operating airlines in the world.",
+      "tags": []
+    },
+    {
+      "id": "intern-076",
+      "q": "SWISS (Swiss International Air Lines) is the flag carrier of:",
+      "options": [
+        "Austria",
+        "Switzerland",
+        "Liechtenstein",
+        "Germany"
+      ],
+      "correct": 1,
+      "explanation": "SWISS, founded in 2002, is the flag carrier of Switzerland, replacing the bankrupt Swissair — now part of the Lufthansa Group.",
+      "tags": []
+    },
+    {
+      "id": "intern-077",
+      "q": "Royal Jordanian is the national airline of:",
+      "options": [
+        "Lebanon",
+        "Jordan",
+        "Iraq",
+        "Syria"
+      ],
+      "correct": 1,
+      "explanation": "Royal Jordanian, founded in 1963, is the flag carrier of Jordan, based at Queen Alia International Airport, Amman.",
+      "tags": []
+    },
+    {
+      "id": "intern-078",
+      "q": "Royal Air Maroc is the flag carrier of:",
+      "options": [
+        "Algeria",
+        "Tunisia",
+        "Morocco",
+        "Egypt"
+      ],
+      "correct": 2,
+      "explanation": "Royal Air Maroc (RAM), founded in 1957, is the flag carrier of Morocco, based in Casablanca.",
+      "tags": []
+    },
+    {
+      "id": "intern-079",
+      "q": "EgyptAir is the national airline of:",
+      "options": [
+        "Egypt",
+        "Libya",
+        "Sudan",
+        "Tunisia"
+      ],
+      "correct": 0,
+      "explanation": "EgyptAir, founded in 1932, is the flag carrier of Egypt — Africa&#x27;s first airline and the world&#x27;s 7th-oldest airline.",
+      "tags": []
+    },
+    {
+      "id": "intern-080",
+      "q": "Ethiopian Airlines is the largest airline in:",
+      "options": [
+        "North Africa",
+        "Sub-Saharan Africa",
+        "Africa",
+        "Middle East"
+      ],
+      "correct": 2,
+      "explanation": "Ethiopian Airlines, founded in 1945 and based in Addis Ababa, is the largest airline in Africa by revenue and passengers.",
+      "tags": []
+    },
+    {
+      "id": "intern-081",
+      "q": "Turkish Airlines is known for serving the most:",
+      "options": [
+        "Aircraft types",
+        "Routes per day",
+        "Countries",
+        "Cities in Asia"
+      ],
+      "correct": 2,
+      "explanation": "Turkish Airlines flies to more countries than any other airline in the world — over 120 nations from its Istanbul hub.",
+      "tags": []
+    },
+    {
+      "id": "intern-082",
+      "q": "China Southern Airlines is Asia&#x27;s largest airline by:",
+      "options": [
+        "Revenue",
+        "Fleet size",
+        "Profit",
+        "Routes"
+      ],
+      "correct": 1,
+      "explanation": "China Southern Airlines, based in Guangzhou, is Asia&#x27;s largest airline by fleet size and one of the largest in the world.",
+      "tags": []
+    },
+    {
+      "id": "intern-083",
+      "q": "Vietnam Airlines is the flag carrier of:",
+      "options": [
+        "Laos",
+        "Cambodia",
+        "Vietnam",
+        "Myanmar"
+      ],
+      "correct": 2,
+      "explanation": "Vietnam Airlines, founded in 1956, is the flag carrier of Vietnam, based in Hanoi.",
+      "tags": []
+    },
+    {
+      "id": "intern-084",
+      "q": "Philippine Airlines is the oldest airline in:",
+      "options": [
+        "Asia",
+        "Southeast Asia",
+        "ASEAN",
+        "Pacific Rim"
+      ],
+      "correct": 0,
+      "explanation": "Philippine Airlines (PAL), founded on 26 February 1941, is the oldest commercial airline in Asia still operating under its original name.",
+      "tags": []
+    },
+    {
+      "id": "intern-085",
+      "q": "Malaysia Airlines is the flag carrier of:",
+      "options": [
+        "Singapore",
+        "Brunei",
+        "Malaysia",
+        "Indonesia"
+      ],
+      "correct": 2,
+      "explanation": "Malaysia Airlines, descended from Malayan Airways (1947), is the flag carrier of Malaysia, based in Kuala Lumpur.",
+      "tags": []
+    },
+    {
+      "id": "intern-086",
+      "q": "Bangkok Airways brands itself as:",
+      "options": [
+        "Thailand's flag carrier",
+        "Asia's Boutique Airline",
+        "Buddhist Air",
+        "Sustainable Skies"
+      ],
+      "correct": 1,
+      "explanation": "Bangkok Airways markets itself as &#x27;Asia&#x27;s Boutique Airline&#x27; — Thailand&#x27;s leading regional carrier with a focus on premium service.",
+      "tags": []
+    },
+    {
+      "id": "intern-087",
+      "q": "Aegean Airlines is the largest airline of:",
+      "options": [
+        "Cyprus",
+        "Greece",
+        "Albania",
+        "Bulgaria"
+      ],
+      "correct": 1,
+      "explanation": "Aegean Airlines, founded in 1987, is the largest airline of Greece — Star Alliance member based in Athens.",
+      "tags": []
+    },
+    {
+      "id": "intern-088",
+      "q": "Riyadh Air is a new flag carrier from:",
+      "options": [
+        "UAE",
+        "Qatar",
+        "Saudi Arabia",
+        "Kuwait"
+      ],
+      "correct": 2,
+      "explanation": "Riyadh Air, announced in 2023 by Saudi Arabia&#x27;s PIF, is a new Saudi flag carrier based in Riyadh — set to begin operations by 2025.",
+      "tags": []
+    },
+    {
+      "id": "intern-089",
+      "q": "Aeroflot is the airline of which country?",
+      "options": [
+        "Belarus",
+        "Ukraine",
+        "Russia",
+        "Kazakhstan"
+      ],
+      "correct": 2,
+      "explanation": "Aeroflot is the flag carrier of Russia — one of the world&#x27;s oldest airlines (founded 1923).",
+      "tags": []
+    },
+    {
+      "id": "intern-090",
+      "q": "Air Canada is the airline of which country?",
+      "options": [
+        "USA",
+        "Canada",
+        "UK",
+        "Australia"
+      ],
+      "correct": 1,
+      "explanation": "Air Canada, founded in 1937, is the flag carrier of Canada — the country&#x27;s largest airline.",
+      "tags": []
+    },
+    {
+      "id": "intern-091",
+      "q": "Air France is the airline of which country?",
+      "options": [
+        "Spain",
+        "Italy",
+        "France",
+        "Belgium"
+      ],
+      "correct": 2,
+      "explanation": "Air France is the flag carrier of France, headquartered at Paris-Charles de Gaulle Airport.",
+      "tags": []
+    },
+    {
+      "id": "intern-092",
+      "q": "Air India is the airline of which country?",
+      "options": [
+        "Bangladesh",
+        "India",
+        "Sri Lanka",
+        "Pakistan"
+      ],
+      "correct": 1,
+      "explanation": "Air India is the flag carrier of India — privatised in 2022 to the Tata Group, which originally founded it.",
+      "tags": []
+    },
+    {
+      "id": "intern-093",
+      "q": "Airblue is the airline of which country?",
+      "options": [
+        "India",
+        "Pakistan",
+        "Bangladesh",
+        "Sri Lanka"
+      ],
+      "correct": 1,
+      "explanation": "Airblue, founded in 2003, is a private Pakistani airline based in Islamabad/Karachi.",
+      "tags": []
+    },
+    {
+      "id": "intern-094",
+      "q": "Alitalia (now ITA Airways) was the airline of which country?",
+      "options": [
+        "Spain",
+        "Italy",
+        "Portugal",
+        "Greece"
+      ],
+      "correct": 1,
+      "explanation": "Alitalia was the historic flag carrier of Italy until 2021 — replaced by ITA Airways.",
+      "tags": []
+    },
+    {
+      "id": "intern-095",
+      "q": "Biman is the airline of which country?",
+      "options": [
+        "Bhutan",
+        "Bangladesh",
+        "Myanmar",
+        "Maldives"
+      ],
+      "correct": 1,
+      "explanation": "Biman Bangladesh Airlines, founded in 1972, is the flag carrier of Bangladesh.",
+      "tags": []
+    },
+    {
+      "id": "intern-096",
+      "q": "British Airways is the airline of which country?",
+      "options": [
+        "Ireland",
+        "Britain (UK)",
+        "Canada",
+        "Australia"
+      ],
+      "correct": 1,
+      "explanation": "British Airways, founded in 1974, is the flag carrier of the United Kingdom, headquartered at London Heathrow.",
+      "tags": []
+    },
+    {
+      "id": "intern-097",
+      "q": "Cathay Pacific is the airline of:",
+      "options": [
+        "China",
+        "Singapore",
+        "Hong Kong",
+        "Taiwan"
+      ],
+      "correct": 2,
+      "explanation": "Cathay Pacific is the flag carrier of Hong Kong, founded in 1946.",
+      "tags": []
+    },
+    {
+      "id": "intern-098",
+      "q": "Emirates is the airline of which country?",
+      "options": [
+        "Qatar",
+        "UAE",
+        "Bahrain",
+        "Saudi Arabia"
+      ],
+      "correct": 1,
+      "explanation": "Emirates is one of the two flag carriers of the UAE, based in Dubai (the other being Etihad in Abu Dhabi).",
+      "tags": []
+    },
+    {
+      "id": "intern-099",
+      "q": "Garuda is the airline of which country?",
+      "options": [
+        "Malaysia",
+        "Thailand",
+        "Indonesia",
+        "Philippines"
+      ],
+      "correct": 2,
+      "explanation": "Garuda Indonesia is the flag carrier of Indonesia, named after the mythical bird Garuda.",
+      "tags": []
+    },
+    {
+      "id": "intern-100",
+      "q": "KLM is the airline of which country?",
+      "options": [
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Norway"
+      ],
+      "correct": 1,
+      "explanation": "KLM Royal Dutch Airlines (1919) is the flag carrier of the Netherlands — the world&#x27;s oldest airline under its original name.",
+      "tags": []
+    },
+    {
+      "id": "intern-101",
+      "q": "Lufthansa is the airline of which country?",
+      "options": [
+        "Austria",
+        "Switzerland",
+        "Germany",
+        "Netherlands"
+      ],
+      "correct": 2,
+      "explanation": "Lufthansa is the flag carrier of Germany, founded in 1953 (re-established post-war).",
+      "tags": []
+    },
+    {
+      "id": "intern-102",
+      "q": "PIA (Pakistan International Airlines) is the airline of:",
+      "options": [
+        "Bangladesh",
+        "India",
+        "Pakistan",
+        "Sri Lanka"
+      ],
+      "correct": 2,
+      "explanation": "PIA, founded in 1955, is the flag carrier of Pakistan — and the first Asian airline to fly a jet aircraft.",
+      "tags": []
+    },
+    {
+      "id": "intern-103",
+      "q": "Qantas is the airline of which country?",
+      "options": [
+        "New Zealand",
+        "Australia",
+        "South Africa",
+        "UK"
+      ],
+      "correct": 1,
+      "explanation": "Qantas, founded in 1920, is the flag carrier of Australia — the world&#x27;s oldest continuously operating airline.",
+      "tags": []
+    },
+    {
+      "id": "intern-104",
+      "q": "Shaheen Airlines was the airline of which country?",
+      "options": [
+        "UAE",
+        "Pakistan",
+        "Saudi Arabia",
+        "Türkiye"
+      ],
+      "correct": 1,
+      "explanation": "Shaheen Air International was a Pakistani private airline (1993–2018), based in Karachi.",
+      "tags": []
+    },
+    {
+      "id": "intern-105",
+      "q": "Brussels Airlines is the airline of which country?",
+      "options": [
+        "Netherlands",
+        "Belgium",
+        "Luxembourg",
+        "France"
+      ],
+      "correct": 1,
+      "explanation": "Brussels Airlines is the flag carrier of Belgium, based in Brussels — part of the Lufthansa Group.",
+      "tags": []
+    },
+    {
+      "id": "intern-106",
+      "q": "Singapore Airlines is the airline of:",
+      "options": [
+        "Malaysia",
+        "Indonesia",
+        "Singapore",
+        "Thailand"
+      ],
+      "correct": 2,
+      "explanation": "Singapore Airlines is the flag carrier of Singapore — frequently ranked as one of the world&#x27;s best airlines.",
+      "tags": []
+    },
+    {
+      "id": "intern-107",
+      "q": "Swiss Airlines (SWISS) is the airline of which country?",
+      "options": [
+        "Austria",
+        "Germany",
+        "Switzerland",
+        "Liechtenstein"
+      ],
+      "correct": 2,
+      "explanation": "SWISS International Air Lines is the flag carrier of Switzerland — successor to Swissair.",
+      "tags": []
+    },
+    {
+      "id": "intern-108",
+      "q": "American Airlines is the airline of which country?",
+      "options": [
+        "Canada",
+        "USA",
+        "Mexico",
+        "Brazil"
+      ],
+      "correct": 1,
+      "explanation": "American Airlines is the world&#x27;s largest airline by fleet and passengers — headquartered in Fort Worth, Texas, USA.",
+      "tags": []
+    }
+  ]
+}

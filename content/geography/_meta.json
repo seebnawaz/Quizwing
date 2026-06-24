@@ -4,6 +4,6 @@
   "order": 9,
   "description": "Physical, political & economic geography of Pakistan and the world.",
   "color": "#0f766e",
-  "placeholder": true,
-  "category": "one-paper"
+  "category": "one-paper",
+  "placeholder": true
 }

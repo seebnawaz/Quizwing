@@ -1,0 +1,2546 @@
+{
+  "topic_id": "economics-concepts",
+  "topic_name": "Economics Concepts",
+  "subject": "general-knowledge",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Economics Concepts MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "econom-001",
+      "q": "What is the definition of Green Economy?",
+      "options": [
+        "System ensuring growth with environmental protection and reduced carbon emissions.",
+        "Tracks prices received by producers.",
+        "Rapid outflow of capital due to instability.",
+        "IMF reserve assets."
+      ],
+      "correct": 0,
+      "explanation": "Green Economy is defined as: System ensuring growth with environmental protection and reduced carbon emissions.",
+      "tags": []
+    },
+    {
+      "id": "econom-002",
+      "q": "What is the definition of Blue Economy?",
+      "options": [
+        "Supports state intervention during recessions.",
+        "Sustainable use of oceans and marine resources.",
+        "Price of one currency in terms of another.",
+        "Involves long-term ownership and control."
+      ],
+      "correct": 1,
+      "explanation": "Blue Economy is defined as: Sustainable use of oceans and marine resources.",
+      "tags": []
+    },
+    {
+      "id": "econom-003",
+      "q": "What is the definition of Circular Economy?",
+      "options": [
+        "Favors free markets and minimal government role.",
+        "Government maintains currency at a predetermined value.",
+        "Economy based on reuse, recycling, and waste minimization.",
+        "Purchase of financial assets without control."
+      ],
+      "correct": 2,
+      "explanation": "Circular Economy is defined as: Economy based on reuse, recycling, and waste minimization.",
+      "tags": []
+    },
+    {
+      "id": "econom-004",
+      "q": "What is the definition of Sharing Economy?",
+      "options": [
+        "Advocates minimal or no government intervention (&#x27;let do&#x27;).",
+        "Determined by market forces of supply and demand.",
+        "Income sent home by migrant workers.",
+        "Sharing goods/services via digital platforms (access over ownership)."
+      ],
+      "correct": 3,
+      "explanation": "Sharing Economy is defined as: Sharing goods/services via digital platforms (access over ownership).",
+      "tags": []
+    },
+    {
+      "id": "econom-005",
+      "q": "What is the definition of Gig Economy?",
+      "options": [
+        "Short-term contracts and freelance work instead of permanent jobs.",
+        "Stresses control of money supply (Milton Friedman).",
+        "Market-determined but with some central bank intervention.",
+        "UN index ranking health, education, and income."
+      ],
+      "correct": 0,
+      "explanation": "Gig Economy is defined as: Short-term contracts and freelance work instead of permanent jobs.",
+      "tags": []
+    },
+    {
+      "id": "econom-006",
+      "q": "What is the definition of Sustainable Development?",
+      "options": [
+        "Price and demand move inversely.",
+        "Meeting present needs without compromising future generations.",
+        "Fixes a currency to another (usually the US Dollar).",
+        "Tax rate rises with income."
+      ],
+      "correct": 1,
+      "explanation": "Sustainable Development is defined as: Meeting present needs without compromising future generations.",
+      "tags": []
+    },
+    {
+      "id": "econom-007",
+      "q": "What is the definition of Microeconomics?",
+      "options": [
+        "Supply rises with higher prices.",
+        "Official reduction in a fixed currency&#x27;s value.",
+        "Study of individual consumers and firms behavior.",
+        "Tax rate remains constant across incomes."
+      ],
+      "correct": 2,
+      "explanation": "Microeconomics is defined as: Study of individual consumers and firms behavior.",
+      "tags": []
+    },
+    {
+      "id": "econom-008",
+      "q": "What is the definition of Macroeconomics?",
+      "options": [
+        "Self-interest guiding markets (Adam Smith).",
+        "Official increase in a fixed currency&#x27;s value.",
+        "Tax burden falls as income rises.",
+        "Examines the economy as a whole (inflation, GDP, unemployment)."
+      ],
+      "correct": 3,
+      "explanation": "Macroeconomics is defined as: Examines the economy as a whole (inflation, GDP, unemployment).",
+      "tags": []
+    },
+    {
+      "id": "econom-009",
+      "q": "What is the definition of Capitalism?",
+      "options": [
+        "System based on private ownership and profit motive.",
+        "Uses taxes and spending to manage the economy.",
+        "Gain in currency value due to market forces.",
+        "Paid directly by individuals or firms (Income, Corporate)."
+      ],
+      "correct": 0,
+      "explanation": "Capitalism is defined as: System based on private ownership and profit motive.",
+      "tags": []
+    },
+    {
+      "id": "econom-010",
+      "q": "What is the definition of Socialism?",
+      "options": [
+        "Controls money supply and interest rates.",
+        "State or community ownership of production for collective welfare.",
+        "Compares currencies based on domestic purchasing power.",
+        "Collected through prices of goods (Sales, VAT)."
+      ],
+      "correct": 1,
+      "explanation": "Socialism is defined as: State or community ownership of production for collective welfare.",
+      "tags": []
+    },
+    {
+      "id": "econom-011",
+      "q": "What is the definition of Communism?",
+      "options": [
+        "Government spending exceeds revenue.",
+        "Currencies directly convertible into gold.",
+        "Extreme socialism with complete state ownership and no private property.",
+        "Direct tax on individual or entity income."
+      ],
+      "correct": 2,
+      "explanation": "Communism is defined as: Extreme socialism with complete state ownership and no private property.",
+      "tags": []
+    },
+    {
+      "id": "econom-012",
+      "q": "What is the definition of Mixed Economy?",
+      "options": [
+        "Government revenue exceeds spending.",
+        "Government-issued money not backed by commodities.",
+        "Direct tax on company profits.",
+        "Combines public and private sectors side by side."
+      ],
+      "correct": 3,
+      "explanation": "Mixed Economy is defined as: Combines public and private sectors side by side.",
+      "tags": []
+    },
+    {
+      "id": "econom-013",
+      "q": "What is the definition of Market Economy?",
+      "options": [
+        "Operates through demand and supply with minimal intervention.",
+        "Often leads to borrowing or inflation.",
+        "Globally accepted currency held by central banks.",
+        "Direct tax on net assets."
+      ],
+      "correct": 0,
+      "explanation": "Market Economy is defined as: Operates through demand and supply with minimal intervention.",
+      "tags": []
+    },
+    {
+      "id": "econom-014",
+      "q": "What is the definition of Command Economy?",
+      "options": [
+        "Total government borrowing.",
+        "Controlled by government via centralized planning.",
+        "Primary global reserve and settlement currency.",
+        "Indirect tax on sales of goods."
+      ],
+      "correct": 1,
+      "explanation": "Command Economy is defined as: Controlled by government via centralized planning.",
+      "tags": []
+    },
+    {
+      "id": "econom-015",
+      "q": "What is the definition of Welfare State Economy?",
+      "options": [
+        "Reduces private investment due to public borrowing.",
+        "Adoption of the US Dollar by another country.",
+        "Emphasizes social security and income redistribution.",
+        "Tax on value added at each production stage."
+      ],
+      "correct": 2,
+      "explanation": "Welfare State Economy is defined as: Emphasizes social security and income redistribution.",
+      "tags": []
+    },
+    {
+      "id": "econom-016",
+      "q": "What is the definition of Subsistence Economy?",
+      "options": [
+        "Central bank sets explicit inflation goals.",
+        "Global oil trade priced in US Dollars.",
+        "Tax on manufactured or domestically produced goods.",
+        "Production mainly for self-consumption."
+      ],
+      "correct": 3,
+      "explanation": "Subsistence Economy is defined as: Production mainly for self-consumption.",
+      "tags": []
+    },
+    {
+      "id": "econom-017",
+      "q": "What is the definition of Informal Economy?",
+      "options": [
+        "Unregulated activities outside official oversight.",
+        "Central bank injects liquidity via asset purchases.",
+        "Effort to reduce reliance on the US Dollar.",
+        "Tax on imports and exports."
+      ],
+      "correct": 0,
+      "explanation": "Informal Economy is defined as: Unregulated activities outside official oversight.",
+      "tags": []
+    },
+    {
+      "id": "econom-018",
+      "q": "What is the definition of Black Economy?",
+      "options": [
+        "Trade in stocks, bonds, and securities.",
+        "Illegal or hidden activities evading taxes and regulation.",
+        "Official currency of the Eurozone.",
+        "Comprehensive indirect tax replacing several others."
+      ],
+      "correct": 1,
+      "explanation": "Black Economy is defined as: Illegal or hidden activities evading taxes and regulation.",
+      "tags": []
+    },
+    {
+      "id": "econom-019",
+      "q": "What is the definition of Grey Economy?",
+      "options": [
+        "Instruments with under one-year maturity.",
+        "EU member states using the Euro.",
+        "Partially reported or unregulated semi-legal activities.",
+        "Measures debt repayment ability of a borrower."
+      ],
+      "correct": 2,
+      "explanation": "Grey Economy is defined as: Partially reported or unregulated semi-legal activities.",
+      "tags": []
+    },
+    {
+      "id": "econom-020",
+      "q": "What is the definition of White Economy?",
+      "options": [
+        "Deal in long-term securities.",
+        "Multiple states sharing a single currency.",
+        "Global credit-rating agency.",
+        "Fully legal, transparent, and tax-compliant activities."
+      ],
+      "correct": 3,
+      "explanation": "White Economy is defined as: Fully legal, transparent, and tax-compliant activities.",
+      "tags": []
+    },
+    {
+      "id": "econom-021",
+      "q": "What is the definition of Traditional Economy?",
+      "options": [
+        "Based on customs and inherited practices.",
+        "Issues new securities.",
+        "Systematic record of all economic transactions with the world.",
+        "Provides bond credit ratings."
+      ],
+      "correct": 0,
+      "explanation": "Traditional Economy is defined as: Based on customs and inherited practices.",
+      "tags": []
+    },
+    {
+      "id": "econom-022",
+      "q": "What is the definition of Digital Economy?",
+      "options": [
+        "Trades existing securities.",
+        "Driven by digital technologies and e-commerce.",
+        "Foreign currencies and gold held by central banks.",
+        "Publishes credit and market analysis."
+      ],
+      "correct": 1,
+      "explanation": "Digital Economy is defined as: Driven by digital technologies and e-commerce.",
+      "tags": []
+    },
+    {
+      "id": "econom-023",
+      "q": "What is the definition of Knowledge Economy?",
+      "options": [
+        "Cost of borrowing capital.",
+        "Restrictions on cross-border capital flows.",
+        "Based on production and use of knowledge as a key resource.",
+        "State-owned investment fund."
+      ],
+      "correct": 2,
+      "explanation": "Knowledge Economy is defined as: Based on production and use of knowledge as a key resource.",
+      "tags": []
+    },
+    {
+      "id": "econom-024",
+      "q": "What is the definition of Bear Market?",
+      "options": [
+        "Original borrowed or invested amount.",
+        "States devalue currency to gain trade advantage.",
+        "Finances high-growth startups.",
+        "Prolonged period of falling stock prices."
+      ],
+      "correct": 3,
+      "explanation": "Bear Market is defined as: Prolonged period of falling stock prices.",
+      "tags": []
+    },
+    {
+      "id": "econom-025",
+      "q": "What is the definition of Bear Market Strategy?",
+      "options": [
+        "Investors often liquidate assets to limit losses.",
+        "Correlation among regression variables.",
+        "Deliberate distortion of currency value.",
+        "Annual financial statement of revenue and expenditure."
+      ],
+      "correct": 0,
+      "explanation": "Bear Market Strategy is defined as: Investors often liquidate assets to limit losses.",
+      "tags": []
+    },
+    {
+      "id": "econom-026",
+      "q": "What is the definition of Bull Market?",
+      "options": [
+        "Restrict international trade (tariffs, quotas).",
+        "Characterized by rising stock prices and investor optimism.",
+        "Agreements to exchange currencies for a fixed period.",
+        "A 12-month accounting/budget period."
+      ],
+      "correct": 1,
+      "explanation": "Bull Market is defined as: Characterized by rising stock prices and investor optimism.",
+      "tags": []
+    },
+    {
+      "id": "econom-027",
+      "q": "What is the definition of Dutch Disease?",
+      "options": [
+        "Tax on imports.",
+        "IMF reserve assets based on a basket of currencies.",
+        "Resource boom that weakens other economic sectors.",
+        "Receipts and expenditure not creating assets."
+      ],
+      "correct": 2,
+      "explanation": "Dutch Disease is defined as: Resource boom that weakens other economic sectors.",
+      "tags": []
+    },
+    {
+      "id": "econom-028",
+      "q": "What is the definition of Pure Play?",
+      "options": [
+        "Limits the quantity of imports.",
+        "China&#x27;s strategy to expand the Yuan&#x27;s global role.",
+        "Receipts and expenditure that create assets.",
+        "Firm operating in only one line of business."
+      ],
+      "correct": 3,
+      "explanation": "Pure Play is defined as: Firm operating in only one line of business.",
+      "tags": []
+    },
+    {
+      "id": "econom-029",
+      "q": "What is the definition of Business Cycle?",
+      "options": [
+        "Expansion, peak, contraction, and recovery phases.",
+        "Government financial support to producers.",
+        "Promotes Yuan trade settlement and swap lines.",
+        "Income not leading to asset creation."
+      ],
+      "correct": 0,
+      "explanation": "Business Cycle is defined as: Expansion, peak, contraction, and recovery phases.",
+      "tags": []
+    },
+    {
+      "id": "econom-030",
+      "q": "What is the definition of Comparative Advantage?",
+      "options": [
+        "Selling exports below cost in foreign markets.",
+        "Producing goods at a lower opportunity cost than others.",
+        "State-issued digital form of money.",
+        "Funds from loans or asset sales."
+      ],
+      "correct": 1,
+      "explanation": "Comparative Advantage is defined as: Producing goods at a lower opportunity cost than others.",
+      "tags": []
+    },
+    {
+      "id": "econom-031",
+      "q": "What is the definition of Division of Labour?",
+      "options": [
+        "Exchange of goods without restrictions.",
+        "China&#x27;s central bank digital currency.",
+        "Increases efficiency through specialization of tasks.",
+        "Government income from taxes."
+      ],
+      "correct": 2,
+      "explanation": "Division of Labour is defined as: Increases efficiency through specialization of tasks.",
+      "tags": []
+    },
+    {
+      "id": "econom-032",
+      "q": "What is the definition of Elasticity of Demand?",
+      "options": [
+        "Policy that shields domestic industries.",
+        "Decentralized digital asset on blockchain.",
+        "Income from fines, fees, and profits.",
+        "Responsiveness of demand to price changes."
+      ],
+      "correct": 3,
+      "explanation": "Elasticity of Demand is defined as: Responsiveness of demand to price changes.",
+      "tags": []
+    },
+    {
+      "id": "econom-033",
+      "q": "What is the definition of Inelastic Goods?",
+      "options": [
+        "Little demand change despite price variation.",
+        "Exports minus imports.",
+        "First cryptocurrency, often called &#x27;digital gold&#x27;.",
+        "Tax levied on income or wealth."
+      ],
+      "correct": 0,
+      "explanation": "Inelastic Goods is defined as: Little demand change despite price variation.",
+      "tags": []
+    },
+    {
+      "id": "econom-034",
+      "q": "What is the definition of GDP?",
+      "options": [
+        "Imports exceed exports.",
+        "Total domestic production value of an economy.",
+        "Ethereum, Tether, Ripple.",
+        "Tax imposed on goods and services."
+      ],
+      "correct": 1,
+      "explanation": "GDP is defined as: Total domestic production value of an economy.",
+      "tags": []
+    },
+    {
+      "id": "econom-035",
+      "q": "What is the definition of Real GDP?",
+      "options": [
+        "Exports exceed imports.",
+        "Thousands of active cryptocurrencies.",
+        "GDP adjusted for inflation (unlike Nominal GDP).",
+        "Spending on infrastructure and projects."
+      ],
+      "correct": 2,
+      "explanation": "Real GDP is defined as: GDP adjusted for inflation (unlike Nominal GDP).",
+      "tags": []
+    },
+    {
+      "id": "econom-036",
+      "q": "What is the definition of Growth Rate?",
+      "options": [
+        "Ratio of export prices to import prices.",
+        "Crypto is decentralized; Fiat is government-issued.",
+        "Spending on defense, salaries, and debt service.",
+        "Percentage increase in output over time."
+      ],
+      "correct": 3,
+      "explanation": "Growth Rate is defined as: Percentage increase in output over time.",
+      "tags": []
+    },
+    {
+      "id": "econom-037",
+      "q": "What is the definition of GDP per capita?",
+      "options": [
+        "Average income and living standards indicator (GDP ÷ population).",
+        "Records all external economic transactions.",
+        "USD, Euro, Yen.",
+        "Government expenditure exceeds total revenue."
+      ],
+      "correct": 0,
+      "explanation": "GDP per capita is defined as: Average income and living standards indicator (GDP ÷ population).",
+      "tags": []
+    },
+    {
+      "id": "econom-038",
+      "q": "What is the definition of GNP?",
+      "options": [
+        "Includes goods, services, and transfers.",
+        "Includes income earned abroad by nationals (unlike GDP).",
+        "Regulates global trade.",
+        "Expenditure exceeds revenue including grants."
+      ],
+      "correct": 1,
+      "explanation": "GNP is defined as: Includes income earned abroad by nationals (unlike GDP).",
+      "tags": []
+    },
+    {
+      "id": "econom-039",
+      "q": "What is the definition of Opportunity Cost?",
+      "options": [
+        "Records financial flows and investments.",
+        "Replaced by the WTO in 1995.",
+        "Value of the next best alternative forgone.",
+        "Fiscal deficit excluding interest payments."
+      ],
+      "correct": 2,
+      "explanation": "Opportunity Cost is defined as: Value of the next best alternative forgone.",
+      "tags": []
+    },
+    {
+      "id": "econom-040",
+      "q": "What is the definition of Marginal Utility?",
+      "options": [
+        "Short-term, mobile capital seeking quick profits.",
+        "Promotes growth among developed economies.",
+        "Revenue exceeds expenditures.",
+        "Additional satisfaction from one extra unit consumed."
+      ],
+      "correct": 3,
+      "explanation": "Marginal Utility is defined as: Additional satisfaction from one extra unit consumed.",
+      "tags": []
+    },
+    {
+      "id": "econom-041",
+      "q": "What is the definition of Diminishing Marginal Utility?",
+      "options": [
+        "Utility falls with each additional unit consumed.",
+        "Long-term investment seeking stable returns.",
+        "IMF reserve assets.",
+        "Total amount borrowed by the government."
+      ],
+      "correct": 0,
+      "explanation": "Diminishing Marginal Utility is defined as: Utility falls with each additional unit consumed.",
+      "tags": []
+    },
+    {
+      "id": "econom-042",
+      "q": "What is the definition of Inflation?",
+      "options": [
+        "Long-term investment with ownership and control.",
+        "Sustained rise in general price levels.",
+        "Involves long-term ownership and control.",
+        "Payment of interest and principal on debt."
+      ],
+      "correct": 1,
+      "explanation": "Inflation is defined as: Sustained rise in general price levels.",
+      "tags": []
+    },
+    {
+      "id": "econom-043",
+      "q": "What is the definition of Hyperinflation?",
+      "options": [
+        "Purchase of financial assets without managerial control.",
+        "Purchase of financial assets without control.",
+        "Extremely rapid inflation (50%+ per month).",
+        "Financial assistance to reduce production or consumer cost."
+      ],
+      "correct": 2,
+      "explanation": "Hyperinflation is defined as: Extremely rapid inflation (50%+ per month).",
+      "tags": []
+    },
+    {
+      "id": "econom-044",
+      "q": "What is the definition of Deflation?",
+      "options": [
+        "Investment motivated by expected price changes.",
+        "Income sent home by migrant workers.",
+        "Transfers without obligation of repayment.",
+        "Persistent fall in prices linked to weak demand."
+      ],
+      "correct": 3,
+      "explanation": "Deflation is defined as: Persistent fall in prices linked to weak demand.",
+      "tags": []
+    },
+    {
+      "id": "econom-045",
+      "q": "What is the definition of Stagflation?",
+      "options": [
+        "Combines inflation, unemployment, and stagnant growth.",
+        "Rapid outflow of capital due to instability.",
+        "UN index ranking health, education, and income.",
+        "Covers unforeseen expenditures."
+      ],
+      "correct": 0,
+      "explanation": "Stagflation is defined as: Combines inflation, unemployment, and stagnant growth.",
+      "tags": []
+    },
+    {
+      "id": "econom-046",
+      "q": "What is the definition of Inflation Rate Measurement?",
+      "options": [
+        "Price of one currency in terms of another.",
+        "Measured by CPI or WPI.",
+        "Tax rate rises with income.",
+        "Gives legal effect to tax proposals."
+      ],
+      "correct": 1,
+      "explanation": "Inflation Rate Measurement is defined as: Measured by CPI or WPI.",
+      "tags": []
+    },
+    {
+      "id": "econom-047",
+      "q": "What is the definition of CPI (Consumer Price Index)?",
+      "options": [
+        "Government maintains currency at a predetermined value.",
+        "Tax rate remains constant across incomes.",
+        "Tracks consumer-basket prices.",
+        "Authorizes withdrawal of funds from the treasury."
+      ],
+      "correct": 2,
+      "explanation": "CPI (Consumer Price Index) is defined as: Tracks consumer-basket prices.",
+      "tags": []
+    },
+    {
+      "id": "econom-048",
+      "q": "What is the definition of PPI (Producer Price Index)?",
+      "options": [
+        "Determined by market forces of supply and demand.",
+        "Tax burden falls as income rises.",
+        "Government revenue equals expenditure.",
+        "Tracks prices received by producers."
+      ],
+      "correct": 3,
+      "explanation": "PPI (Producer Price Index) is defined as: Tracks prices received by producers.",
+      "tags": []
+    },
+    {
+      "id": "econom-049",
+      "q": "What is the definition of Keynesian Economics?",
+      "options": [
+        "Supports state intervention during recessions.",
+        "Market-determined but with some central bank intervention.",
+        "Paid directly by individuals or firms (Income, Corporate).",
+        "Financing a deficit via borrowing or printing money."
+      ],
+      "correct": 0,
+      "explanation": "Keynesian Economics is defined as: Supports state intervention during recessions.",
+      "tags": []
+    },
+    {
+      "id": "econom-050",
+      "q": "What is the definition of Classical Economics?",
+      "options": [
+        "Fixes a currency to another (usually the US Dollar).",
+        "Favors free markets and minimal government role.",
+        "Collected through prices of goods (Sales, VAT).",
+        "Links economies via trade and finance."
+      ],
+      "correct": 1,
+      "explanation": "Classical Economics is defined as: Favors free markets and minimal government role.",
+      "tags": []
+    },
+    {
+      "id": "econom-051",
+      "q": "What is the definition of Laissez-faire?",
+      "options": [
+        "Official reduction in a fixed currency&#x27;s value.",
+        "Direct tax on individual or entity income.",
+        "Advocates minimal or no government intervention (&#x27;let do&#x27;).",
+        "Country that engages in international trade."
+      ],
+      "correct": 2,
+      "explanation": "Laissez-faire is defined as: Advocates minimal or no government intervention (&#x27;let do&#x27;).",
+      "tags": []
+    },
+    {
+      "id": "econom-052",
+      "q": "What is the definition of Monetarism?",
+      "options": [
+        "Official increase in a fixed currency&#x27;s value.",
+        "Direct tax on company profits.",
+        "Lower production cost than others.",
+        "Stresses control of money supply (Milton Friedman)."
+      ],
+      "correct": 3,
+      "explanation": "Monetarism is defined as: Stresses control of money supply (Milton Friedman).",
+      "tags": []
+    },
+    {
+      "id": "econom-053",
+      "q": "What is the definition of Law of Demand?",
+      "options": [
+        "Price and demand move inversely.",
+        "Gain in currency value due to market forces.",
+        "Direct tax on net assets.",
+        "Unstable, export-dependent economy."
+      ],
+      "correct": 0,
+      "explanation": "Law of Demand is defined as: Price and demand move inversely.",
+      "tags": []
+    },
+    {
+      "id": "econom-054",
+      "q": "What is the definition of Law of Supply?",
+      "options": [
+        "Compares currencies based on domestic purchasing power.",
+        "Supply rises with higher prices.",
+        "Indirect tax on sales of goods.",
+        "Manages oil supply beyond OPEC members."
+      ],
+      "correct": 1,
+      "explanation": "Law of Supply is defined as: Supply rises with higher prices.",
+      "tags": []
+    },
+    {
+      "id": "econom-055",
+      "q": "What is the definition of Invisible Hand?",
+      "options": [
+        "Currencies directly convertible into gold.",
+        "Tax on value added at each production stage.",
+        "Self-interest guiding markets (Adam Smith).",
+        "Among the world&#x27;s largest stock exchanges."
+      ],
+      "correct": 2,
+      "explanation": "Invisible Hand is defined as: Self-interest guiding markets (Adam Smith).",
+      "tags": []
+    },
+    {
+      "id": "econom-056",
+      "q": "What is the definition of Fiscal Policy?",
+      "options": [
+        "Government-issued money not backed by commodities.",
+        "Tax on manufactured or domestically produced goods.",
+        "Index tracking Japanese stocks.",
+        "Uses taxes and spending to manage the economy."
+      ],
+      "correct": 3,
+      "explanation": "Fiscal Policy is defined as: Uses taxes and spending to manage the economy.",
+      "tags": []
+    },
+    {
+      "id": "econom-057",
+      "q": "What is the definition of Monetary Policy?",
+      "options": [
+        "Controls money supply and interest rates.",
+        "Globally accepted currency held by central banks.",
+        "Tax on imports and exports.",
+        "Index tracking major US equities."
+      ],
+      "correct": 0,
+      "explanation": "Monetary Policy is defined as: Controls money supply and interest rates.",
+      "tags": []
+    },
+    {
+      "id": "econom-058",
+      "q": "What is the definition of Fiscal Deficit?",
+      "options": [
+        "Primary global reserve and settlement currency.",
+        "Government spending exceeds revenue.",
+        "Comprehensive indirect tax replacing several others.",
+        "Equity divided by shares outstanding."
+      ],
+      "correct": 1,
+      "explanation": "Fiscal Deficit is defined as: Government spending exceeds revenue.",
+      "tags": []
+    },
+    {
+      "id": "econom-059",
+      "q": "What is the definition of Budget Surplus?",
+      "options": [
+        "Adoption of the US Dollar by another country.",
+        "Measures debt repayment ability of a borrower.",
+        "Government revenue exceeds spending.",
+        "Time required to recover an investment."
+      ],
+      "correct": 2,
+      "explanation": "Budget Surplus is defined as: Government revenue exceeds spending.",
+      "tags": []
+    },
+    {
+      "id": "econom-060",
+      "q": "What is the definition of Budget Deficit Consequence?",
+      "options": [
+        "Global oil trade priced in US Dollars.",
+        "Global credit-rating agency.",
+        "Measures compounded growth rates.",
+        "Often leads to borrowing or inflation."
+      ],
+      "correct": 3,
+      "explanation": "Budget Deficit Consequence is defined as: Often leads to borrowing or inflation.",
+      "tags": []
+    },
+    {
+      "id": "econom-061",
+      "q": "What is the definition of Public Debt?",
+      "options": [
+        "Total government borrowing.",
+        "Effort to reduce reliance on the US Dollar.",
+        "Provides bond credit ratings.",
+        "Mature in under one year."
+      ],
+      "correct": 0,
+      "explanation": "Public Debt is defined as: Total government borrowing.",
+      "tags": []
+    },
+    {
+      "id": "econom-062",
+      "q": "What is the definition of Crowding Out Effect?",
+      "options": [
+        "Official currency of the Eurozone.",
+        "Reduces private investment due to public borrowing.",
+        "Publishes credit and market analysis.",
+        "Growth-oriented stocks with lower risk."
+      ],
+      "correct": 1,
+      "explanation": "Crowding Out Effect is defined as: Reduces private investment due to public borrowing.",
+      "tags": []
+    },
+    {
+      "id": "econom-063",
+      "q": "What is the definition of Inflation Targeting?",
+      "options": [
+        "EU member states using the Euro.",
+        "State-owned investment fund.",
+        "Central bank sets explicit inflation goals.",
+        "Enables secure, decentralized digital ledgers."
+      ],
+      "correct": 2,
+      "explanation": "Inflation Targeting is defined as: Central bank sets explicit inflation goals.",
+      "tags": []
+    },
+    {
+      "id": "econom-064",
+      "q": "What is the definition of Quantitative Easing?",
+      "options": [
+        "Multiple states sharing a single currency.",
+        "Finances high-growth startups.",
+        "Linked to regional political stability.",
+        "Central bank injects liquidity via asset purchases."
+      ],
+      "correct": 3,
+      "explanation": "Quantitative Easing is defined as: Central bank injects liquidity via asset purchases.",
+      "tags": []
+    },
+    {
+      "id": "econom-065",
+      "q": "What is the definition of Financial Markets?",
+      "options": [
+        "Trade in stocks, bonds, and securities.",
+        "Systematic record of all economic transactions with the world.",
+        "Annual financial statement of revenue and expenditure.",
+        "System ensuring growth with environmental protection and reduced carbon emissions."
+      ],
+      "correct": 0,
+      "explanation": "Financial Markets is defined as: Trade in stocks, bonds, and securities.",
+      "tags": []
+    },
+    {
+      "id": "econom-066",
+      "q": "What is the definition of Money Markets?",
+      "options": [
+        "Foreign currencies and gold held by central banks.",
+        "Instruments with under one-year maturity.",
+        "A 12-month accounting/budget period.",
+        "Sustainable use of oceans and marine resources."
+      ],
+      "correct": 1,
+      "explanation": "Money Markets is defined as: Instruments with under one-year maturity.",
+      "tags": []
+    },
+    {
+      "id": "econom-067",
+      "q": "What is the definition of Capital Markets?",
+      "options": [
+        "Restrictions on cross-border capital flows.",
+        "Receipts and expenditure not creating assets.",
+        "Deal in long-term securities.",
+        "Economy based on reuse, recycling, and waste minimization."
+      ],
+      "correct": 2,
+      "explanation": "Capital Markets is defined as: Deal in long-term securities.",
+      "tags": []
+    },
+    {
+      "id": "econom-068",
+      "q": "What is the definition of Primary Market?",
+      "options": [
+        "States devalue currency to gain trade advantage.",
+        "Receipts and expenditure that create assets.",
+        "Sharing goods/services via digital platforms (access over ownership).",
+        "Issues new securities."
+      ],
+      "correct": 3,
+      "explanation": "Primary Market is defined as: Issues new securities.",
+      "tags": []
+    },
+    {
+      "id": "econom-069",
+      "q": "What is the definition of Secondary Market?",
+      "options": [
+        "Trades existing securities.",
+        "Deliberate distortion of currency value.",
+        "Income not leading to asset creation.",
+        "Short-term contracts and freelance work instead of permanent jobs."
+      ],
+      "correct": 0,
+      "explanation": "Secondary Market is defined as: Trades existing securities.",
+      "tags": []
+    },
+    {
+      "id": "econom-070",
+      "q": "What is the definition of Interest Rate?",
+      "options": [
+        "Agreements to exchange currencies for a fixed period.",
+        "Cost of borrowing capital.",
+        "Funds from loans or asset sales.",
+        "Meeting present needs without compromising future generations."
+      ],
+      "correct": 1,
+      "explanation": "Interest Rate is defined as: Cost of borrowing capital.",
+      "tags": []
+    },
+    {
+      "id": "econom-071",
+      "q": "What is the definition of Principal?",
+      "options": [
+        "IMF reserve assets based on a basket of currencies.",
+        "Government income from taxes.",
+        "Original borrowed or invested amount.",
+        "Study of individual consumers and firms behavior."
+      ],
+      "correct": 2,
+      "explanation": "Principal is defined as: Original borrowed or invested amount.",
+      "tags": []
+    },
+    {
+      "id": "econom-072",
+      "q": "What is the definition of Multicollinearity?",
+      "options": [
+        "China&#x27;s strategy to expand the Yuan&#x27;s global role.",
+        "Income from fines, fees, and profits.",
+        "Examines the economy as a whole (inflation, GDP, unemployment).",
+        "Correlation among regression variables."
+      ],
+      "correct": 3,
+      "explanation": "Multicollinearity is defined as: Correlation among regression variables.",
+      "tags": []
+    },
+    {
+      "id": "econom-073",
+      "q": "What is the definition of Trade Barriers?",
+      "options": [
+        "Restrict international trade (tariffs, quotas).",
+        "Promotes Yuan trade settlement and swap lines.",
+        "Tax levied on income or wealth.",
+        "System based on private ownership and profit motive."
+      ],
+      "correct": 0,
+      "explanation": "Trade Barriers is defined as: Restrict international trade (tariffs, quotas).",
+      "tags": []
+    },
+    {
+      "id": "econom-074",
+      "q": "What is the definition of Tariff?",
+      "options": [
+        "State-issued digital form of money.",
+        "Tax on imports.",
+        "Tax imposed on goods and services.",
+        "State or community ownership of production for collective welfare."
+      ],
+      "correct": 1,
+      "explanation": "Tariff is defined as: Tax on imports.",
+      "tags": []
+    },
+    {
+      "id": "econom-075",
+      "q": "What is the definition of Quota?",
+      "options": [
+        "China&#x27;s central bank digital currency.",
+        "Spending on infrastructure and projects.",
+        "Limits the quantity of imports.",
+        "Extreme socialism with complete state ownership and no private property."
+      ],
+      "correct": 2,
+      "explanation": "Quota is defined as: Limits the quantity of imports.",
+      "tags": []
+    },
+    {
+      "id": "econom-076",
+      "q": "What is the definition of Subsidy?",
+      "options": [
+        "Decentralized digital asset on blockchain.",
+        "Spending on defense, salaries, and debt service.",
+        "Combines public and private sectors side by side.",
+        "Government financial support to producers."
+      ],
+      "correct": 3,
+      "explanation": "Subsidy is defined as: Government financial support to producers.",
+      "tags": []
+    },
+    {
+      "id": "econom-077",
+      "q": "What is the definition of Dumping?",
+      "options": [
+        "Selling exports below cost in foreign markets.",
+        "First cryptocurrency, often called &#x27;digital gold&#x27;.",
+        "Government expenditure exceeds total revenue.",
+        "Operates through demand and supply with minimal intervention."
+      ],
+      "correct": 0,
+      "explanation": "Dumping is defined as: Selling exports below cost in foreign markets.",
+      "tags": []
+    },
+    {
+      "id": "econom-078",
+      "q": "What is the definition of Free Trade?",
+      "options": [
+        "Ethereum, Tether, Ripple.",
+        "Exchange of goods without restrictions.",
+        "Expenditure exceeds revenue including grants.",
+        "Controlled by government via centralized planning."
+      ],
+      "correct": 1,
+      "explanation": "Free Trade is defined as: Exchange of goods without restrictions.",
+      "tags": []
+    },
+    {
+      "id": "econom-079",
+      "q": "What is the definition of Protectionism?",
+      "options": [
+        "Thousands of active cryptocurrencies.",
+        "Fiscal deficit excluding interest payments.",
+        "Policy that shields domestic industries.",
+        "Emphasizes social security and income redistribution."
+      ],
+      "correct": 2,
+      "explanation": "Protectionism is defined as: Policy that shields domestic industries.",
+      "tags": []
+    },
+    {
+      "id": "econom-080",
+      "q": "What is the definition of Balance of Trade?",
+      "options": [
+        "Crypto is decentralized; Fiat is government-issued.",
+        "Revenue exceeds expenditures.",
+        "Production mainly for self-consumption.",
+        "Exports minus imports."
+      ],
+      "correct": 3,
+      "explanation": "Balance of Trade is defined as: Exports minus imports.",
+      "tags": []
+    },
+    {
+      "id": "econom-081",
+      "q": "What is the definition of Trade Deficit?",
+      "options": [
+        "Imports exceed exports.",
+        "USD, Euro, Yen.",
+        "Total amount borrowed by the government.",
+        "Unregulated activities outside official oversight."
+      ],
+      "correct": 0,
+      "explanation": "Trade Deficit is defined as: Imports exceed exports.",
+      "tags": []
+    },
+    {
+      "id": "econom-082",
+      "q": "What is the definition of Trade Surplus?",
+      "options": [
+        "Regulates global trade.",
+        "Exports exceed imports.",
+        "Payment of interest and principal on debt.",
+        "Illegal or hidden activities evading taxes and regulation."
+      ],
+      "correct": 1,
+      "explanation": "Trade Surplus is defined as: Exports exceed imports.",
+      "tags": []
+    },
+    {
+      "id": "econom-083",
+      "q": "What is the definition of Terms of Trade?",
+      "options": [
+        "Replaced by the WTO in 1995.",
+        "Financial assistance to reduce production or consumer cost.",
+        "Ratio of export prices to import prices.",
+        "Partially reported or unregulated semi-legal activities."
+      ],
+      "correct": 2,
+      "explanation": "Terms of Trade is defined as: Ratio of export prices to import prices.",
+      "tags": []
+    },
+    {
+      "id": "econom-084",
+      "q": "What is the definition of Balance of Payments?",
+      "options": [
+        "Promotes growth among developed economies.",
+        "Transfers without obligation of repayment.",
+        "Fully legal, transparent, and tax-compliant activities.",
+        "Records all external economic transactions."
+      ],
+      "correct": 3,
+      "explanation": "Balance of Payments is defined as: Records all external economic transactions.",
+      "tags": []
+    },
+    {
+      "id": "econom-085",
+      "q": "What is the definition of Current Account?",
+      "options": [
+        "Includes goods, services, and transfers.",
+        "IMF reserve assets.",
+        "Covers unforeseen expenditures.",
+        "Based on customs and inherited practices."
+      ],
+      "correct": 0,
+      "explanation": "Current Account is defined as: Includes goods, services, and transfers.",
+      "tags": []
+    },
+    {
+      "id": "econom-086",
+      "q": "What is the definition of Capital Account?",
+      "options": [
+        "Involves long-term ownership and control.",
+        "Records financial flows and investments.",
+        "Gives legal effect to tax proposals.",
+        "Driven by digital technologies and e-commerce."
+      ],
+      "correct": 1,
+      "explanation": "Capital Account is defined as: Records financial flows and investments.",
+      "tags": []
+    },
+    {
+      "id": "econom-087",
+      "q": "What is the definition of Hot Money?",
+      "options": [
+        "Purchase of financial assets without control.",
+        "Authorizes withdrawal of funds from the treasury.",
+        "Short-term, mobile capital seeking quick profits.",
+        "Based on production and use of knowledge as a key resource."
+      ],
+      "correct": 2,
+      "explanation": "Hot Money is defined as: Short-term, mobile capital seeking quick profits.",
+      "tags": []
+    },
+    {
+      "id": "econom-088",
+      "q": "What is the definition of Cold Money?",
+      "options": [
+        "Income sent home by migrant workers.",
+        "Government revenue equals expenditure.",
+        "Prolonged period of falling stock prices.",
+        "Long-term investment seeking stable returns."
+      ],
+      "correct": 3,
+      "explanation": "Cold Money is defined as: Long-term investment seeking stable returns.",
+      "tags": []
+    },
+    {
+      "id": "econom-089",
+      "q": "What is the definition of FDI (Foreign Direct Investment)?",
+      "options": [
+        "Long-term investment with ownership and control.",
+        "UN index ranking health, education, and income.",
+        "Financing a deficit via borrowing or printing money.",
+        "Investors often liquidate assets to limit losses."
+      ],
+      "correct": 0,
+      "explanation": "FDI (Foreign Direct Investment) is defined as: Long-term investment with ownership and control.",
+      "tags": []
+    },
+    {
+      "id": "econom-090",
+      "q": "What is the definition of Portfolio Investment?",
+      "options": [
+        "Tax rate rises with income.",
+        "Purchase of financial assets without managerial control.",
+        "Links economies via trade and finance.",
+        "Characterized by rising stock prices and investor optimism."
+      ],
+      "correct": 1,
+      "explanation": "Portfolio Investment is defined as: Purchase of financial assets without managerial control.",
+      "tags": []
+    },
+    {
+      "id": "econom-091",
+      "q": "What is the definition of Speculative Capital?",
+      "options": [
+        "Tax rate remains constant across incomes.",
+        "Country that engages in international trade.",
+        "Investment motivated by expected price changes.",
+        "Resource boom that weakens other economic sectors."
+      ],
+      "correct": 2,
+      "explanation": "Speculative Capital is defined as: Investment motivated by expected price changes.",
+      "tags": []
+    },
+    {
+      "id": "econom-092",
+      "q": "What is the definition of Capital Flight?",
+      "options": [
+        "Tax burden falls as income rises.",
+        "Lower production cost than others.",
+        "Firm operating in only one line of business.",
+        "Rapid outflow of capital due to instability."
+      ],
+      "correct": 3,
+      "explanation": "Capital Flight is defined as: Rapid outflow of capital due to instability.",
+      "tags": []
+    },
+    {
+      "id": "econom-093",
+      "q": "What is the definition of Exchange Rate?",
+      "options": [
+        "Price of one currency in terms of another.",
+        "Paid directly by individuals or firms (Income, Corporate).",
+        "Unstable, export-dependent economy.",
+        "Expansion, peak, contraction, and recovery phases."
+      ],
+      "correct": 0,
+      "explanation": "Exchange Rate is defined as: Price of one currency in terms of another.",
+      "tags": []
+    },
+    {
+      "id": "econom-094",
+      "q": "What is the definition of Fixed Exchange Rate?",
+      "options": [
+        "Collected through prices of goods (Sales, VAT).",
+        "Government maintains currency at a predetermined value.",
+        "Manages oil supply beyond OPEC members.",
+        "Producing goods at a lower opportunity cost than others."
+      ],
+      "correct": 1,
+      "explanation": "Fixed Exchange Rate is defined as: Government maintains currency at a predetermined value.",
+      "tags": []
+    },
+    {
+      "id": "econom-095",
+      "q": "What is the definition of Floating Exchange Rate?",
+      "options": [
+        "Direct tax on individual or entity income.",
+        "Among the world&#x27;s largest stock exchanges.",
+        "Determined by market forces of supply and demand.",
+        "Increases efficiency through specialization of tasks."
+      ],
+      "correct": 2,
+      "explanation": "Floating Exchange Rate is defined as: Determined by market forces of supply and demand.",
+      "tags": []
+    },
+    {
+      "id": "econom-096",
+      "q": "What is the definition of Managed Float?",
+      "options": [
+        "Direct tax on company profits.",
+        "Index tracking Japanese stocks.",
+        "Responsiveness of demand to price changes.",
+        "Market-determined but with some central bank intervention."
+      ],
+      "correct": 3,
+      "explanation": "Managed Float is defined as: Market-determined but with some central bank intervention.",
+      "tags": []
+    },
+    {
+      "id": "econom-097",
+      "q": "What is the definition of Currency Peg?",
+      "options": [
+        "Fixes a currency to another (usually the US Dollar).",
+        "Direct tax on net assets.",
+        "Index tracking major US equities.",
+        "Little demand change despite price variation."
+      ],
+      "correct": 0,
+      "explanation": "Currency Peg is defined as: Fixes a currency to another (usually the US Dollar).",
+      "tags": []
+    },
+    {
+      "id": "econom-098",
+      "q": "What is the definition of Devaluation?",
+      "options": [
+        "Indirect tax on sales of goods.",
+        "Official reduction in a fixed currency&#x27;s value.",
+        "Equity divided by shares outstanding.",
+        "Total domestic production value of an economy."
+      ],
+      "correct": 1,
+      "explanation": "Devaluation is defined as: Official reduction in a fixed currency&#x27;s value.",
+      "tags": []
+    },
+    {
+      "id": "econom-099",
+      "q": "What is the definition of Revaluation?",
+      "options": [
+        "Tax on value added at each production stage.",
+        "Time required to recover an investment.",
+        "Official increase in a fixed currency&#x27;s value.",
+        "GDP adjusted for inflation (unlike Nominal GDP)."
+      ],
+      "correct": 2,
+      "explanation": "Revaluation is defined as: Official increase in a fixed currency&#x27;s value.",
+      "tags": []
+    },
+    {
+      "id": "econom-100",
+      "q": "What is the definition of Currency Appreciation?",
+      "options": [
+        "Tax on manufactured or domestically produced goods.",
+        "Measures compounded growth rates.",
+        "Percentage increase in output over time.",
+        "Gain in currency value due to market forces."
+      ],
+      "correct": 3,
+      "explanation": "Currency Appreciation is defined as: Gain in currency value due to market forces.",
+      "tags": []
+    },
+    {
+      "id": "econom-101",
+      "q": "What is the definition of PPP (Purchasing Power Parity)?",
+      "options": [
+        "Compares currencies based on domestic purchasing power.",
+        "Tax on imports and exports.",
+        "Mature in under one year.",
+        "Average income and living standards indicator (GDP ÷ population)."
+      ],
+      "correct": 0,
+      "explanation": "PPP (Purchasing Power Parity) is defined as: Compares currencies based on domestic purchasing power.",
+      "tags": []
+    },
+    {
+      "id": "econom-102",
+      "q": "What is the definition of Gold Standard?",
+      "options": [
+        "Comprehensive indirect tax replacing several others.",
+        "Currencies directly convertible into gold.",
+        "Growth-oriented stocks with lower risk.",
+        "Includes income earned abroad by nationals (unlike GDP)."
+      ],
+      "correct": 1,
+      "explanation": "Gold Standard is defined as: Currencies directly convertible into gold.",
+      "tags": []
+    },
+    {
+      "id": "econom-103",
+      "q": "What is the definition of Fiat Currency?",
+      "options": [
+        "Measures debt repayment ability of a borrower.",
+        "Enables secure, decentralized digital ledgers.",
+        "Government-issued money not backed by commodities.",
+        "Value of the next best alternative forgone."
+      ],
+      "correct": 2,
+      "explanation": "Fiat Currency is defined as: Government-issued money not backed by commodities.",
+      "tags": []
+    },
+    {
+      "id": "econom-104",
+      "q": "What is the definition of Reserve Currency?",
+      "options": [
+        "Global credit-rating agency.",
+        "Linked to regional political stability.",
+        "Additional satisfaction from one extra unit consumed.",
+        "Globally accepted currency held by central banks."
+      ],
+      "correct": 3,
+      "explanation": "Reserve Currency is defined as: Globally accepted currency held by central banks.",
+      "tags": []
+    },
+    {
+      "id": "econom-105",
+      "q": "What is the definition of US Dollar Role?",
+      "options": [
+        "Primary global reserve and settlement currency.",
+        "Provides bond credit ratings.",
+        "System ensuring growth with environmental protection and reduced carbon emissions.",
+        "Utility falls with each additional unit consumed."
+      ],
+      "correct": 0,
+      "explanation": "US Dollar Role is defined as: Primary global reserve and settlement currency.",
+      "tags": []
+    },
+    {
+      "id": "econom-106",
+      "q": "What is the definition of Dollarization?",
+      "options": [
+        "Publishes credit and market analysis.",
+        "Adoption of the US Dollar by another country.",
+        "Sustainable use of oceans and marine resources.",
+        "Sustained rise in general price levels."
+      ],
+      "correct": 1,
+      "explanation": "Dollarization is defined as: Adoption of the US Dollar by another country.",
+      "tags": []
+    },
+    {
+      "id": "econom-107",
+      "q": "What is the definition of Petrodollar System?",
+      "options": [
+        "State-owned investment fund.",
+        "Economy based on reuse, recycling, and waste minimization.",
+        "Global oil trade priced in US Dollars.",
+        "Extremely rapid inflation (50%+ per month)."
+      ],
+      "correct": 2,
+      "explanation": "Petrodollar System is defined as: Global oil trade priced in US Dollars.",
+      "tags": []
+    },
+    {
+      "id": "econom-108",
+      "q": "What is the definition of De-dollarization?",
+      "options": [
+        "Finances high-growth startups.",
+        "Sharing goods/services via digital platforms (access over ownership).",
+        "Persistent fall in prices linked to weak demand.",
+        "Effort to reduce reliance on the US Dollar."
+      ],
+      "correct": 3,
+      "explanation": "De-dollarization is defined as: Effort to reduce reliance on the US Dollar.",
+      "tags": []
+    },
+    {
+      "id": "econom-109",
+      "q": "What is the definition of Euro?",
+      "options": [
+        "Official currency of the Eurozone.",
+        "Annual financial statement of revenue and expenditure.",
+        "Short-term contracts and freelance work instead of permanent jobs.",
+        "Combines inflation, unemployment, and stagnant growth."
+      ],
+      "correct": 0,
+      "explanation": "Euro is defined as: Official currency of the Eurozone.",
+      "tags": []
+    },
+    {
+      "id": "econom-110",
+      "q": "What is the definition of Eurozone?",
+      "options": [
+        "A 12-month accounting/budget period.",
+        "EU member states using the Euro.",
+        "Meeting present needs without compromising future generations.",
+        "Measured by CPI or WPI."
+      ],
+      "correct": 1,
+      "explanation": "Eurozone is defined as: EU member states using the Euro.",
+      "tags": []
+    },
+    {
+      "id": "econom-111",
+      "q": "What is the definition of Currency Union?",
+      "options": [
+        "Receipts and expenditure not creating assets.",
+        "Study of individual consumers and firms behavior.",
+        "Multiple states sharing a single currency.",
+        "Tracks consumer-basket prices."
+      ],
+      "correct": 2,
+      "explanation": "Currency Union is defined as: Multiple states sharing a single currency.",
+      "tags": []
+    },
+    {
+      "id": "econom-112",
+      "q": "What is the definition of BoP Purpose?",
+      "options": [
+        "Receipts and expenditure that create assets.",
+        "Examines the economy as a whole (inflation, GDP, unemployment).",
+        "Tracks prices received by producers.",
+        "Systematic record of all economic transactions with the world."
+      ],
+      "correct": 3,
+      "explanation": "BoP Purpose is defined as: Systematic record of all economic transactions with the world.",
+      "tags": []
+    },
+    {
+      "id": "econom-113",
+      "q": "What is the definition of Forex Reserves?",
+      "options": [
+        "Foreign currencies and gold held by central banks.",
+        "Income not leading to asset creation.",
+        "System based on private ownership and profit motive.",
+        "Supports state intervention during recessions."
+      ],
+      "correct": 0,
+      "explanation": "Forex Reserves is defined as: Foreign currencies and gold held by central banks.",
+      "tags": []
+    },
+    {
+      "id": "econom-114",
+      "q": "What is the definition of Capital Controls?",
+      "options": [
+        "Funds from loans or asset sales.",
+        "Restrictions on cross-border capital flows.",
+        "State or community ownership of production for collective welfare.",
+        "Favors free markets and minimal government role."
+      ],
+      "correct": 1,
+      "explanation": "Capital Controls is defined as: Restrictions on cross-border capital flows.",
+      "tags": []
+    },
+    {
+      "id": "econom-115",
+      "q": "What is the definition of Currency War?",
+      "options": [
+        "Government income from taxes.",
+        "Extreme socialism with complete state ownership and no private property.",
+        "States devalue currency to gain trade advantage.",
+        "Advocates minimal or no government intervention (&#x27;let do&#x27;)."
+      ],
+      "correct": 2,
+      "explanation": "Currency War is defined as: States devalue currency to gain trade advantage.",
+      "tags": []
+    },
+    {
+      "id": "econom-116",
+      "q": "What is the definition of Exchange-Rate Manipulation?",
+      "options": [
+        "Income from fines, fees, and profits.",
+        "Combines public and private sectors side by side.",
+        "Stresses control of money supply (Milton Friedman).",
+        "Deliberate distortion of currency value."
+      ],
+      "correct": 3,
+      "explanation": "Exchange-Rate Manipulation is defined as: Deliberate distortion of currency value.",
+      "tags": []
+    },
+    {
+      "id": "econom-117",
+      "q": "What is the definition of Currency Swaps?",
+      "options": [
+        "Agreements to exchange currencies for a fixed period.",
+        "Tax levied on income or wealth.",
+        "Operates through demand and supply with minimal intervention.",
+        "Price and demand move inversely."
+      ],
+      "correct": 0,
+      "explanation": "Currency Swaps is defined as: Agreements to exchange currencies for a fixed period.",
+      "tags": []
+    },
+    {
+      "id": "econom-118",
+      "q": "What is the definition of SDRs (Special Drawing Rights)?",
+      "options": [
+        "Tax imposed on goods and services.",
+        "IMF reserve assets based on a basket of currencies.",
+        "Controlled by government via centralized planning.",
+        "Supply rises with higher prices."
+      ],
+      "correct": 1,
+      "explanation": "SDRs (Special Drawing Rights) is defined as: IMF reserve assets based on a basket of currencies.",
+      "tags": []
+    },
+    {
+      "id": "econom-119",
+      "q": "What is the definition of Renminbi Internationalization?",
+      "options": [
+        "Spending on infrastructure and projects.",
+        "Emphasizes social security and income redistribution.",
+        "China&#x27;s strategy to expand the Yuan&#x27;s global role.",
+        "Self-interest guiding markets (Adam Smith)."
+      ],
+      "correct": 2,
+      "explanation": "Renminbi Internationalization is defined as: China&#x27;s strategy to expand the Yuan&#x27;s global role.",
+      "tags": []
+    },
+    {
+      "id": "econom-120",
+      "q": "What is the definition of China&#x27;s Yuan Strategy?",
+      "options": [
+        "Spending on defense, salaries, and debt service.",
+        "Production mainly for self-consumption.",
+        "Uses taxes and spending to manage the economy.",
+        "Promotes Yuan trade settlement and swap lines."
+      ],
+      "correct": 3,
+      "explanation": "China&#x27;s Yuan Strategy is defined as: Promotes Yuan trade settlement and swap lines.",
+      "tags": []
+    },
+    {
+      "id": "econom-121",
+      "q": "What is the definition of CBDC (Central Bank Digital Currency)?",
+      "options": [
+        "State-issued digital form of money.",
+        "Government expenditure exceeds total revenue.",
+        "Unregulated activities outside official oversight.",
+        "Controls money supply and interest rates."
+      ],
+      "correct": 0,
+      "explanation": "CBDC (Central Bank Digital Currency) is defined as: State-issued digital form of money.",
+      "tags": []
+    },
+    {
+      "id": "econom-122",
+      "q": "What is the definition of Digital Yuan?",
+      "options": [
+        "Expenditure exceeds revenue including grants.",
+        "China&#x27;s central bank digital currency.",
+        "Illegal or hidden activities evading taxes and regulation.",
+        "Government spending exceeds revenue."
+      ],
+      "correct": 1,
+      "explanation": "Digital Yuan is defined as: China&#x27;s central bank digital currency.",
+      "tags": []
+    },
+    {
+      "id": "econom-123",
+      "q": "What is the definition of Cryptocurrency?",
+      "options": [
+        "Fiscal deficit excluding interest payments.",
+        "Partially reported or unregulated semi-legal activities.",
+        "Decentralized digital asset on blockchain.",
+        "Government revenue exceeds spending."
+      ],
+      "correct": 2,
+      "explanation": "Cryptocurrency is defined as: Decentralized digital asset on blockchain.",
+      "tags": []
+    },
+    {
+      "id": "econom-124",
+      "q": "What is the definition of Bitcoin?",
+      "options": [
+        "Revenue exceeds expenditures.",
+        "Fully legal, transparent, and tax-compliant activities.",
+        "Often leads to borrowing or inflation.",
+        "First cryptocurrency, often called &#x27;digital gold&#x27;."
+      ],
+      "correct": 3,
+      "explanation": "Bitcoin is defined as: First cryptocurrency, often called &#x27;digital gold&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "econom-125",
+      "q": "What is the definition of Major Cryptos?",
+      "options": [
+        "Ethereum, Tether, Ripple.",
+        "Total amount borrowed by the government.",
+        "Based on customs and inherited practices.",
+        "Total government borrowing."
+      ],
+      "correct": 0,
+      "explanation": "Major Cryptos is defined as: Ethereum, Tether, Ripple.",
+      "tags": []
+    },
+    {
+      "id": "econom-126",
+      "q": "What is the definition of Crypto Market Size?",
+      "options": [
+        "Payment of interest and principal on debt.",
+        "Thousands of active cryptocurrencies.",
+        "Driven by digital technologies and e-commerce.",
+        "Reduces private investment due to public borrowing."
+      ],
+      "correct": 1,
+      "explanation": "Crypto Market Size is defined as: Thousands of active cryptocurrencies.",
+      "tags": []
+    },
+    {
+      "id": "econom-127",
+      "q": "What is the definition of Crypto vs Fiat?",
+      "options": [
+        "Financial assistance to reduce production or consumer cost.",
+        "Based on production and use of knowledge as a key resource.",
+        "Crypto is decentralized; Fiat is government-issued.",
+        "Central bank sets explicit inflation goals."
+      ],
+      "correct": 2,
+      "explanation": "Crypto vs Fiat is defined as: Crypto is decentralized; Fiat is government-issued.",
+      "tags": []
+    },
+    {
+      "id": "econom-128",
+      "q": "What is the definition of Major World Currencies?",
+      "options": [
+        "Transfers without obligation of repayment.",
+        "Prolonged period of falling stock prices.",
+        "Central bank injects liquidity via asset purchases.",
+        "USD, Euro, Yen."
+      ],
+      "correct": 3,
+      "explanation": "Major World Currencies is defined as: USD, Euro, Yen.",
+      "tags": []
+    },
+    {
+      "id": "econom-129",
+      "q": "What is the definition of WTO?",
+      "options": [
+        "Regulates global trade.",
+        "Covers unforeseen expenditures.",
+        "Investors often liquidate assets to limit losses.",
+        "Trade in stocks, bonds, and securities."
+      ],
+      "correct": 0,
+      "explanation": "WTO is defined as: Regulates global trade.",
+      "tags": []
+    },
+    {
+      "id": "econom-130",
+      "q": "What is the definition of GATT?",
+      "options": [
+        "Gives legal effect to tax proposals.",
+        "Replaced by the WTO in 1995.",
+        "Characterized by rising stock prices and investor optimism.",
+        "Instruments with under one-year maturity."
+      ],
+      "correct": 1,
+      "explanation": "GATT is defined as: Replaced by the WTO in 1995.",
+      "tags": []
+    },
+    {
+      "id": "econom-131",
+      "q": "What is the definition of OECD?",
+      "options": [
+        "Authorizes withdrawal of funds from the treasury.",
+        "Resource boom that weakens other economic sectors.",
+        "Promotes growth among developed economies.",
+        "Deal in long-term securities."
+      ],
+      "correct": 2,
+      "explanation": "OECD is defined as: Promotes growth among developed economies.",
+      "tags": []
+    },
+    {
+      "id": "econom-132",
+      "q": "What is the definition of SDRs (Institution)?",
+      "options": [
+        "Government revenue equals expenditure.",
+        "Firm operating in only one line of business.",
+        "Issues new securities.",
+        "IMF reserve assets."
+      ],
+      "correct": 3,
+      "explanation": "SDRs (Institution) is defined as: IMF reserve assets.",
+      "tags": []
+    },
+    {
+      "id": "econom-133",
+      "q": "What is the definition of FDI (Investment)?",
+      "options": [
+        "Involves long-term ownership and control.",
+        "Financing a deficit via borrowing or printing money.",
+        "Expansion, peak, contraction, and recovery phases.",
+        "Trades existing securities."
+      ],
+      "correct": 0,
+      "explanation": "FDI (Investment) is defined as: Involves long-term ownership and control.",
+      "tags": []
+    },
+    {
+      "id": "econom-134",
+      "q": "What is the definition of Portfolio Investment (Inv)?",
+      "options": [
+        "Links economies via trade and finance.",
+        "Purchase of financial assets without control.",
+        "Producing goods at a lower opportunity cost than others.",
+        "Cost of borrowing capital."
+      ],
+      "correct": 1,
+      "explanation": "Portfolio Investment (Inv) is defined as: Purchase of financial assets without control.",
+      "tags": []
+    },
+    {
+      "id": "econom-135",
+      "q": "What is the definition of Remittances?",
+      "options": [
+        "Country that engages in international trade.",
+        "Increases efficiency through specialization of tasks.",
+        "Income sent home by migrant workers.",
+        "Original borrowed or invested amount."
+      ],
+      "correct": 2,
+      "explanation": "Remittances is defined as: Income sent home by migrant workers.",
+      "tags": []
+    },
+    {
+      "id": "econom-136",
+      "q": "What is the definition of HDI (Human Development Index)?",
+      "options": [
+        "Lower production cost than others.",
+        "Responsiveness of demand to price changes.",
+        "Correlation among regression variables.",
+        "UN index ranking health, education, and income."
+      ],
+      "correct": 3,
+      "explanation": "HDI (Human Development Index) is defined as: UN index ranking health, education, and income.",
+      "tags": []
+    },
+    {
+      "id": "econom-137",
+      "q": "What is the definition of Progressive Tax?",
+      "options": [
+        "Tax rate rises with income.",
+        "Unstable, export-dependent economy.",
+        "Little demand change despite price variation.",
+        "Restrict international trade (tariffs, quotas)."
+      ],
+      "correct": 0,
+      "explanation": "Progressive Tax is defined as: Tax rate rises with income.",
+      "tags": []
+    },
+    {
+      "id": "econom-138",
+      "q": "What is the definition of Proportional Tax?",
+      "options": [
+        "Manages oil supply beyond OPEC members.",
+        "Tax rate remains constant across incomes.",
+        "Total domestic production value of an economy.",
+        "Tax on imports."
+      ],
+      "correct": 1,
+      "explanation": "Proportional Tax is defined as: Tax rate remains constant across incomes.",
+      "tags": []
+    },
+    {
+      "id": "econom-139",
+      "q": "What is the definition of Regressive Tax?",
+      "options": [
+        "Among the world&#x27;s largest stock exchanges.",
+        "GDP adjusted for inflation (unlike Nominal GDP).",
+        "Tax burden falls as income rises.",
+        "Limits the quantity of imports."
+      ],
+      "correct": 2,
+      "explanation": "Regressive Tax is defined as: Tax burden falls as income rises.",
+      "tags": []
+    },
+    {
+      "id": "econom-140",
+      "q": "What is the definition of Direct Taxes?",
+      "options": [
+        "Index tracking Japanese stocks.",
+        "Percentage increase in output over time.",
+        "Government financial support to producers.",
+        "Paid directly by individuals or firms (Income, Corporate)."
+      ],
+      "correct": 3,
+      "explanation": "Direct Taxes is defined as: Paid directly by individuals or firms (Income, Corporate).",
+      "tags": []
+    },
+    {
+      "id": "econom-141",
+      "q": "What is the definition of Indirect Taxes?",
+      "options": [
+        "Collected through prices of goods (Sales, VAT).",
+        "Index tracking major US equities.",
+        "Average income and living standards indicator (GDP ÷ population).",
+        "Selling exports below cost in foreign markets."
+      ],
+      "correct": 0,
+      "explanation": "Indirect Taxes is defined as: Collected through prices of goods (Sales, VAT).",
+      "tags": []
+    },
+    {
+      "id": "econom-142",
+      "q": "What is the definition of Income Tax?",
+      "options": [
+        "Equity divided by shares outstanding.",
+        "Direct tax on individual or entity income.",
+        "Includes income earned abroad by nationals (unlike GDP).",
+        "Exchange of goods without restrictions."
+      ],
+      "correct": 1,
+      "explanation": "Income Tax is defined as: Direct tax on individual or entity income.",
+      "tags": []
+    },
+    {
+      "id": "econom-143",
+      "q": "What is the definition of Corporate Tax?",
+      "options": [
+        "Time required to recover an investment.",
+        "Value of the next best alternative forgone.",
+        "Direct tax on company profits.",
+        "Policy that shields domestic industries."
+      ],
+      "correct": 2,
+      "explanation": "Corporate Tax is defined as: Direct tax on company profits.",
+      "tags": []
+    },
+    {
+      "id": "econom-144",
+      "q": "What is the definition of Wealth Tax?",
+      "options": [
+        "Measures compounded growth rates.",
+        "Additional satisfaction from one extra unit consumed.",
+        "Exports minus imports.",
+        "Direct tax on net assets."
+      ],
+      "correct": 3,
+      "explanation": "Wealth Tax is defined as: Direct tax on net assets.",
+      "tags": []
+    },
+    {
+      "id": "econom-145",
+      "q": "What is the definition of Sales Tax?",
+      "options": [
+        "Indirect tax on sales of goods.",
+        "Mature in under one year.",
+        "Utility falls with each additional unit consumed.",
+        "Imports exceed exports."
+      ],
+      "correct": 0,
+      "explanation": "Sales Tax is defined as: Indirect tax on sales of goods.",
+      "tags": []
+    },
+    {
+      "id": "econom-146",
+      "q": "What is the definition of VAT (Value Added Tax)?",
+      "options": [
+        "Growth-oriented stocks with lower risk.",
+        "Tax on value added at each production stage.",
+        "Sustained rise in general price levels.",
+        "Exports exceed imports."
+      ],
+      "correct": 1,
+      "explanation": "VAT (Value Added Tax) is defined as: Tax on value added at each production stage.",
+      "tags": []
+    },
+    {
+      "id": "econom-147",
+      "q": "What is the definition of Excise Duty?",
+      "options": [
+        "Enables secure, decentralized digital ledgers.",
+        "Extremely rapid inflation (50%+ per month).",
+        "Tax on manufactured or domestically produced goods.",
+        "Ratio of export prices to import prices."
+      ],
+      "correct": 2,
+      "explanation": "Excise Duty is defined as: Tax on manufactured or domestically produced goods.",
+      "tags": []
+    },
+    {
+      "id": "econom-148",
+      "q": "What is the definition of Customs Duty?",
+      "options": [
+        "Linked to regional political stability.",
+        "Persistent fall in prices linked to weak demand.",
+        "Records all external economic transactions.",
+        "Tax on imports and exports."
+      ],
+      "correct": 3,
+      "explanation": "Customs Duty is defined as: Tax on imports and exports.",
+      "tags": []
+    },
+    {
+      "id": "econom-149",
+      "q": "What is the definition of GST (Goods and Services Tax)?",
+      "options": [
+        "Comprehensive indirect tax replacing several others.",
+        "System ensuring growth with environmental protection and reduced carbon emissions.",
+        "Combines inflation, unemployment, and stagnant growth.",
+        "Includes goods, services, and transfers."
+      ],
+      "correct": 0,
+      "explanation": "GST (Goods and Services Tax) is defined as: Comprehensive indirect tax replacing several others.",
+      "tags": []
+    },
+    {
+      "id": "econom-150",
+      "q": "What is the definition of Credit Rating?",
+      "options": [
+        "Sustainable use of oceans and marine resources.",
+        "Measures debt repayment ability of a borrower.",
+        "Measured by CPI or WPI.",
+        "Records financial flows and investments."
+      ],
+      "correct": 1,
+      "explanation": "Credit Rating is defined as: Measures debt repayment ability of a borrower.",
+      "tags": []
+    },
+    {
+      "id": "econom-151",
+      "q": "What is the definition of Fitch Ratings?",
+      "options": [
+        "Economy based on reuse, recycling, and waste minimization.",
+        "Tracks consumer-basket prices.",
+        "Global credit-rating agency.",
+        "Short-term, mobile capital seeking quick profits."
+      ],
+      "correct": 2,
+      "explanation": "Fitch Ratings is defined as: Global credit-rating agency.",
+      "tags": []
+    },
+    {
+      "id": "econom-152",
+      "q": "What is the definition of Moody&#x27;s?",
+      "options": [
+        "Sharing goods/services via digital platforms (access over ownership).",
+        "Tracks prices received by producers.",
+        "Long-term investment seeking stable returns.",
+        "Provides bond credit ratings."
+      ],
+      "correct": 3,
+      "explanation": "Moody&#x27;s is defined as: Provides bond credit ratings.",
+      "tags": []
+    },
+    {
+      "id": "econom-153",
+      "q": "What is the definition of S&P Global?",
+      "options": [
+        "Publishes credit and market analysis.",
+        "Short-term contracts and freelance work instead of permanent jobs.",
+        "Supports state intervention during recessions.",
+        "Long-term investment with ownership and control."
+      ],
+      "correct": 0,
+      "explanation": "S&P Global is defined as: Publishes credit and market analysis.",
+      "tags": []
+    },
+    {
+      "id": "econom-154",
+      "q": "What is the definition of SWF (Sovereign Wealth Fund)?",
+      "options": [
+        "Meeting present needs without compromising future generations.",
+        "State-owned investment fund.",
+        "Favors free markets and minimal government role.",
+        "Purchase of financial assets without managerial control."
+      ],
+      "correct": 1,
+      "explanation": "SWF (Sovereign Wealth Fund) is defined as: State-owned investment fund.",
+      "tags": []
+    },
+    {
+      "id": "econom-155",
+      "q": "What is the definition of Venture Capital?",
+      "options": [
+        "Study of individual consumers and firms behavior.",
+        "Advocates minimal or no government intervention (&#x27;let do&#x27;).",
+        "Finances high-growth startups.",
+        "Investment motivated by expected price changes."
+      ],
+      "correct": 2,
+      "explanation": "Venture Capital is defined as: Finances high-growth startups.",
+      "tags": []
+    },
+    {
+      "id": "econom-156",
+      "q": "What is the definition of Budget?",
+      "options": [
+        "Examines the economy as a whole (inflation, GDP, unemployment).",
+        "Stresses control of money supply (Milton Friedman).",
+        "Rapid outflow of capital due to instability.",
+        "Annual financial statement of revenue and expenditure."
+      ],
+      "correct": 3,
+      "explanation": "Budget is defined as: Annual financial statement of revenue and expenditure.",
+      "tags": []
+    },
+    {
+      "id": "econom-157",
+      "q": "What is the definition of Fiscal Year?",
+      "options": [
+        "A 12-month accounting/budget period.",
+        "System based on private ownership and profit motive.",
+        "Price and demand move inversely.",
+        "Price of one currency in terms of another."
+      ],
+      "correct": 0,
+      "explanation": "Fiscal Year is defined as: A 12-month accounting/budget period.",
+      "tags": []
+    },
+    {
+      "id": "econom-158",
+      "q": "What is the definition of Revenue Budget?",
+      "options": [
+        "State or community ownership of production for collective welfare.",
+        "Receipts and expenditure not creating assets.",
+        "Supply rises with higher prices.",
+        "Government maintains currency at a predetermined value."
+      ],
+      "correct": 1,
+      "explanation": "Revenue Budget is defined as: Receipts and expenditure not creating assets.",
+      "tags": []
+    },
+    {
+      "id": "econom-159",
+      "q": "What is the definition of Capital Budget?",
+      "options": [
+        "Extreme socialism with complete state ownership and no private property.",
+        "Self-interest guiding markets (Adam Smith).",
+        "Receipts and expenditure that create assets.",
+        "Determined by market forces of supply and demand."
+      ],
+      "correct": 2,
+      "explanation": "Capital Budget is defined as: Receipts and expenditure that create assets.",
+      "tags": []
+    },
+    {
+      "id": "econom-160",
+      "q": "What is the definition of Revenue Receipts?",
+      "options": [
+        "Combines public and private sectors side by side.",
+        "Uses taxes and spending to manage the economy.",
+        "Market-determined but with some central bank intervention.",
+        "Income not leading to asset creation."
+      ],
+      "correct": 3,
+      "explanation": "Revenue Receipts is defined as: Income not leading to asset creation.",
+      "tags": []
+    },
+    {
+      "id": "econom-161",
+      "q": "What is the definition of Capital Receipts?",
+      "options": [
+        "Funds from loans or asset sales.",
+        "Operates through demand and supply with minimal intervention.",
+        "Controls money supply and interest rates.",
+        "Fixes a currency to another (usually the US Dollar)."
+      ],
+      "correct": 0,
+      "explanation": "Capital Receipts is defined as: Funds from loans or asset sales.",
+      "tags": []
+    },
+    {
+      "id": "econom-162",
+      "q": "What is the definition of Tax Revenue?",
+      "options": [
+        "Controlled by government via centralized planning.",
+        "Government income from taxes.",
+        "Government spending exceeds revenue.",
+        "Official reduction in a fixed currency&#x27;s value."
+      ],
+      "correct": 1,
+      "explanation": "Tax Revenue is defined as: Government income from taxes.",
+      "tags": []
+    },
+    {
+      "id": "econom-163",
+      "q": "What is the definition of Non-Tax Revenue?",
+      "options": [
+        "Emphasizes social security and income redistribution.",
+        "Government revenue exceeds spending.",
+        "Income from fines, fees, and profits.",
+        "Official increase in a fixed currency&#x27;s value."
+      ],
+      "correct": 2,
+      "explanation": "Non-Tax Revenue is defined as: Income from fines, fees, and profits.",
+      "tags": []
+    },
+    {
+      "id": "econom-164",
+      "q": "What is the definition of Direct Tax Definition?",
+      "options": [
+        "Production mainly for self-consumption.",
+        "Often leads to borrowing or inflation.",
+        "Gain in currency value due to market forces.",
+        "Tax levied on income or wealth."
+      ],
+      "correct": 3,
+      "explanation": "Direct Tax Definition is defined as: Tax levied on income or wealth.",
+      "tags": []
+    },
+    {
+      "id": "econom-165",
+      "q": "What is the definition of Indirect Tax Definition?",
+      "options": [
+        "Tax imposed on goods and services.",
+        "Unregulated activities outside official oversight.",
+        "Total government borrowing.",
+        "Compares currencies based on domestic purchasing power."
+      ],
+      "correct": 0,
+      "explanation": "Indirect Tax Definition is defined as: Tax imposed on goods and services.",
+      "tags": []
+    },
+    {
+      "id": "econom-166",
+      "q": "What is the definition of Development Expenditure?",
+      "options": [
+        "Illegal or hidden activities evading taxes and regulation.",
+        "Spending on infrastructure and projects.",
+        "Reduces private investment due to public borrowing.",
+        "Currencies directly convertible into gold."
+      ],
+      "correct": 1,
+      "explanation": "Development Expenditure is defined as: Spending on infrastructure and projects.",
+      "tags": []
+    },
+    {
+      "id": "econom-167",
+      "q": "What is the definition of Non-Development Expenditure?",
+      "options": [
+        "Partially reported or unregulated semi-legal activities.",
+        "Central bank sets explicit inflation goals.",
+        "Spending on defense, salaries, and debt service.",
+        "Government-issued money not backed by commodities."
+      ],
+      "correct": 2,
+      "explanation": "Non-Development Expenditure is defined as: Spending on defense, salaries, and debt service.",
+      "tags": []
+    },
+    {
+      "id": "econom-168",
+      "q": "What is the definition of Budget Deficit?",
+      "options": [
+        "Fully legal, transparent, and tax-compliant activities.",
+        "Central bank injects liquidity via asset purchases.",
+        "Globally accepted currency held by central banks.",
+        "Government expenditure exceeds total revenue."
+      ],
+      "correct": 3,
+      "explanation": "Budget Deficit is defined as: Government expenditure exceeds total revenue.",
+      "tags": []
+    },
+    {
+      "id": "econom-169",
+      "q": "What is the definition of Fiscal Deficit Definition?",
+      "options": [
+        "Expenditure exceeds revenue including grants.",
+        "Based on customs and inherited practices.",
+        "Trade in stocks, bonds, and securities.",
+        "Primary global reserve and settlement currency."
+      ],
+      "correct": 0,
+      "explanation": "Fiscal Deficit Definition is defined as: Expenditure exceeds revenue including grants.",
+      "tags": []
+    },
+    {
+      "id": "econom-170",
+      "q": "What is the definition of Primary Deficit?",
+      "options": [
+        "Driven by digital technologies and e-commerce.",
+        "Fiscal deficit excluding interest payments.",
+        "Instruments with under one-year maturity.",
+        "Adoption of the US Dollar by another country."
+      ],
+      "correct": 1,
+      "explanation": "Primary Deficit is defined as: Fiscal deficit excluding interest payments.",
+      "tags": []
+    },
+    {
+      "id": "econom-171",
+      "q": "What is the definition of Surplus Budget?",
+      "options": [
+        "Based on production and use of knowledge as a key resource.",
+        "Deal in long-term securities.",
+        "Revenue exceeds expenditures.",
+        "Global oil trade priced in US Dollars."
+      ],
+      "correct": 2,
+      "explanation": "Surplus Budget is defined as: Revenue exceeds expenditures.",
+      "tags": []
+    },
+    {
+      "id": "econom-172",
+      "q": "What is the definition of Public Debt Definition?",
+      "options": [
+        "Prolonged period of falling stock prices.",
+        "Issues new securities.",
+        "Effort to reduce reliance on the US Dollar.",
+        "Total amount borrowed by the government."
+      ],
+      "correct": 3,
+      "explanation": "Public Debt Definition is defined as: Total amount borrowed by the government.",
+      "tags": []
+    },
+    {
+      "id": "econom-173",
+      "q": "What is the definition of Debt Servicing?",
+      "options": [
+        "Payment of interest and principal on debt.",
+        "Investors often liquidate assets to limit losses.",
+        "Trades existing securities.",
+        "Official currency of the Eurozone."
+      ],
+      "correct": 0,
+      "explanation": "Debt Servicing is defined as: Payment of interest and principal on debt.",
+      "tags": []
+    },
+    {
+      "id": "econom-174",
+      "q": "What is the definition of Subsidy Definition?",
+      "options": [
+        "Characterized by rising stock prices and investor optimism.",
+        "Financial assistance to reduce production or consumer cost.",
+        "Cost of borrowing capital.",
+        "EU member states using the Euro."
+      ],
+      "correct": 1,
+      "explanation": "Subsidy Definition is defined as: Financial assistance to reduce production or consumer cost.",
+      "tags": []
+    },
+    {
+      "id": "econom-175",
+      "q": "What is the definition of Grants-in-Aid?",
+      "options": [
+        "Resource boom that weakens other economic sectors.",
+        "Original borrowed or invested amount.",
+        "Transfers without obligation of repayment.",
+        "Multiple states sharing a single currency."
+      ],
+      "correct": 2,
+      "explanation": "Grants-in-Aid is defined as: Transfers without obligation of repayment.",
+      "tags": []
+    },
+    {
+      "id": "econom-176",
+      "q": "What is the definition of Supplementary Budget?",
+      "options": [
+        "Firm operating in only one line of business.",
+        "Correlation among regression variables.",
+        "Systematic record of all economic transactions with the world.",
+        "Covers unforeseen expenditures."
+      ],
+      "correct": 3,
+      "explanation": "Supplementary Budget is defined as: Covers unforeseen expenditures.",
+      "tags": []
+    },
+    {
+      "id": "econom-177",
+      "q": "What is the definition of Finance Bill?",
+      "options": [
+        "Gives legal effect to tax proposals.",
+        "Expansion, peak, contraction, and recovery phases.",
+        "Restrict international trade (tariffs, quotas).",
+        "Foreign currencies and gold held by central banks."
+      ],
+      "correct": 0,
+      "explanation": "Finance Bill is defined as: Gives legal effect to tax proposals.",
+      "tags": []
+    },
+    {
+      "id": "econom-178",
+      "q": "What is the definition of Appropriation Bill?",
+      "options": [
+        "Producing goods at a lower opportunity cost than others.",
+        "Authorizes withdrawal of funds from the treasury.",
+        "Tax on imports.",
+        "Restrictions on cross-border capital flows."
+      ],
+      "correct": 1,
+      "explanation": "Appropriation Bill is defined as: Authorizes withdrawal of funds from the treasury.",
+      "tags": []
+    },
+    {
+      "id": "econom-179",
+      "q": "What is the definition of Balanced Budget?",
+      "options": [
+        "Increases efficiency through specialization of tasks.",
+        "Limits the quantity of imports.",
+        "Government revenue equals expenditure.",
+        "States devalue currency to gain trade advantage."
+      ],
+      "correct": 2,
+      "explanation": "Balanced Budget is defined as: Government revenue equals expenditure.",
+      "tags": []
+    },
+    {
+      "id": "econom-180",
+      "q": "What is the definition of Deficit Financing?",
+      "options": [
+        "Responsiveness of demand to price changes.",
+        "Government financial support to producers.",
+        "Deliberate distortion of currency value.",
+        "Financing a deficit via borrowing or printing money."
+      ],
+      "correct": 3,
+      "explanation": "Deficit Financing is defined as: Financing a deficit via borrowing or printing money.",
+      "tags": []
+    },
+    {
+      "id": "econom-181",
+      "q": "What is the definition of Economic Globalization?",
+      "options": [
+        "Links economies via trade and finance.",
+        "Little demand change despite price variation.",
+        "Selling exports below cost in foreign markets.",
+        "Agreements to exchange currencies for a fixed period."
+      ],
+      "correct": 0,
+      "explanation": "Economic Globalization is defined as: Links economies via trade and finance.",
+      "tags": []
+    },
+    {
+      "id": "econom-182",
+      "q": "What is the definition of Open Economy?",
+      "options": [
+        "Total domestic production value of an economy.",
+        "Country that engages in international trade.",
+        "Exchange of goods without restrictions.",
+        "IMF reserve assets based on a basket of currencies."
+      ],
+      "correct": 1,
+      "explanation": "Open Economy is defined as: Country that engages in international trade.",
+      "tags": []
+    },
+    {
+      "id": "econom-183",
+      "q": "What is the definition of Absolute Advantage?",
+      "options": [
+        "GDP adjusted for inflation (unlike Nominal GDP).",
+        "Policy that shields domestic industries.",
+        "Lower production cost than others.",
+        "China&#x27;s strategy to expand the Yuan&#x27;s global role."
+      ],
+      "correct": 2,
+      "explanation": "Absolute Advantage is defined as: Lower production cost than others.",
+      "tags": []
+    },
+    {
+      "id": "econom-184",
+      "q": "What is the definition of Banana Republic?",
+      "options": [
+        "Percentage increase in output over time.",
+        "Exports minus imports.",
+        "Promotes Yuan trade settlement and swap lines.",
+        "Unstable, export-dependent economy."
+      ],
+      "correct": 3,
+      "explanation": "Banana Republic is defined as: Unstable, export-dependent economy.",
+      "tags": []
+    },
+    {
+      "id": "econom-185",
+      "q": "What is the definition of OPEC+?",
+      "options": [
+        "Manages oil supply beyond OPEC members.",
+        "Average income and living standards indicator (GDP ÷ population).",
+        "Imports exceed exports.",
+        "State-issued digital form of money."
+      ],
+      "correct": 0,
+      "explanation": "OPEC+ is defined as: Manages oil supply beyond OPEC members.",
+      "tags": []
+    },
+    {
+      "id": "econom-186",
+      "q": "What is the definition of Shanghai Exchange?",
+      "options": [
+        "Includes income earned abroad by nationals (unlike GDP).",
+        "Among the world&#x27;s largest stock exchanges.",
+        "Exports exceed imports.",
+        "China&#x27;s central bank digital currency."
+      ],
+      "correct": 1,
+      "explanation": "Shanghai Exchange is defined as: Among the world&#x27;s largest stock exchanges.",
+      "tags": []
+    },
+    {
+      "id": "econom-187",
+      "q": "What is the definition of Nikkei 225?",
+      "options": [
+        "Value of the next best alternative forgone.",
+        "Ratio of export prices to import prices.",
+        "Index tracking Japanese stocks.",
+        "Decentralized digital asset on blockchain."
+      ],
+      "correct": 2,
+      "explanation": "Nikkei 225 is defined as: Index tracking Japanese stocks.",
+      "tags": []
+    },
+    {
+      "id": "econom-188",
+      "q": "What is the definition of Dow Jones?",
+      "options": [
+        "Additional satisfaction from one extra unit consumed.",
+        "Records all external economic transactions.",
+        "First cryptocurrency, often called &#x27;digital gold&#x27;.",
+        "Index tracking major US equities."
+      ],
+      "correct": 3,
+      "explanation": "Dow Jones is defined as: Index tracking major US equities.",
+      "tags": []
+    },
+    {
+      "id": "econom-189",
+      "q": "What is the definition of Book Value?",
+      "options": [
+        "Equity divided by shares outstanding.",
+        "Utility falls with each additional unit consumed.",
+        "Includes goods, services, and transfers.",
+        "Ethereum, Tether, Ripple."
+      ],
+      "correct": 0,
+      "explanation": "Book Value is defined as: Equity divided by shares outstanding.",
+      "tags": []
+    },
+    {
+      "id": "econom-190",
+      "q": "What is the definition of Payback Period?",
+      "options": [
+        "Sustained rise in general price levels.",
+        "Time required to recover an investment.",
+        "Records financial flows and investments.",
+        "Thousands of active cryptocurrencies."
+      ],
+      "correct": 1,
+      "explanation": "Payback Period is defined as: Time required to recover an investment.",
+      "tags": []
+    },
+    {
+      "id": "econom-191",
+      "q": "What is the definition of Geometric Mean?",
+      "options": [
+        "Extremely rapid inflation (50%+ per month).",
+        "Short-term, mobile capital seeking quick profits.",
+        "Measures compounded growth rates.",
+        "Crypto is decentralized; Fiat is government-issued."
+      ],
+      "correct": 2,
+      "explanation": "Geometric Mean is defined as: Measures compounded growth rates.",
+      "tags": []
+    },
+    {
+      "id": "econom-192",
+      "q": "What is the definition of Money Market Instruments?",
+      "options": [
+        "Persistent fall in prices linked to weak demand.",
+        "Long-term investment seeking stable returns.",
+        "USD, Euro, Yen.",
+        "Mature in under one year."
+      ],
+      "correct": 3,
+      "explanation": "Money Market Instruments is defined as: Mature in under one year.",
+      "tags": []
+    },
+    {
+      "id": "econom-193",
+      "q": "What is the definition of Low Book-to-Market?",
+      "options": [
+        "Growth-oriented stocks with lower risk.",
+        "Combines inflation, unemployment, and stagnant growth.",
+        "Long-term investment with ownership and control.",
+        "Regulates global trade."
+      ],
+      "correct": 0,
+      "explanation": "Low Book-to-Market is defined as: Growth-oriented stocks with lower risk.",
+      "tags": []
+    },
+    {
+      "id": "econom-194",
+      "q": "What is the definition of Blockchain?",
+      "options": [
+        "Measured by CPI or WPI.",
+        "Enables secure, decentralized digital ledgers.",
+        "Purchase of financial assets without managerial control.",
+        "Replaced by the WTO in 1995."
+      ],
+      "correct": 1,
+      "explanation": "Blockchain is defined as: Enables secure, decentralized digital ledgers.",
+      "tags": []
+    },
+    {
+      "id": "econom-195",
+      "q": "What is the definition of South Asian Trade?",
+      "options": [
+        "Tracks consumer-basket prices.",
+        "Investment motivated by expected price changes.",
+        "Linked to regional political stability.",
+        "Promotes growth among developed economies."
+      ],
+      "correct": 2,
+      "explanation": "South Asian Trade is defined as: Linked to regional political stability.",
+      "tags": []
+    }
+  ]
+}

@@ -2,10 +2,10 @@
   "topic_id": "introduction-generations-of-computers",
   "topic_name": "Introduction Generations of Computers",
   "subject": "computer-science",
-  "version": 1,
-  "updated_at": "2026-05-12",
+  "version": 3,
+  "updated_at": "2026-06-24",
   "description": "Introduction Generations of Computers MCQs for PPSC, FPSC, NTS, CSS & PMS.",
-  "icon": "🖥️",
+  "icon": "📄",
   "mcqs": [
     {
       "id": "introd-001",

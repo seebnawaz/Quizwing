@@ -1,0 +1,661 @@
+{
+  "topic_id": "international-boundaries",
+  "topic_name": "International Boundaries",
+  "subject": "general-knowledge",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "International Boundaries MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "intern-001",
+      "q": "The Durand Line is the boundary between which two countries?",
+      "options": [
+        "India and Pakistan",
+        "Pakistan and Afghanistan",
+        "India and China",
+        "Iran and Afghanistan"
+      ],
+      "correct": 1,
+      "explanation": "The Durand Line is the boundary between Pakistan and Afghanistan, demarcated in 1893.",
+      "tags": []
+    },
+    {
+      "id": "intern-002",
+      "q": "In which year was the Durand Line demarcated?",
+      "options": [
+        "1891",
+        "1893",
+        "1897",
+        "1900"
+      ],
+      "correct": 1,
+      "explanation": "The Durand Line was demarcated on 12 November 1893 by Sir Mortimer Durand and Amir Abdur Rahman Khan.",
+      "tags": []
+    },
+    {
+      "id": "intern-003",
+      "q": "What is the total length of the Durand Line (Pakistan-Afghanistan frontier)?",
+      "options": [
+        "2,234 km",
+        "2,252 km",
+        "2,344 km",
+        "2,900 km"
+      ],
+      "correct": 1,
+      "explanation": "The total length of the Durand Line / Pakistan-Afghanistan frontier is approximately 2,252 km.",
+      "tags": []
+    },
+    {
+      "id": "intern-004",
+      "q": "Who demarcated the Durand Line between British India and Afghanistan?",
+      "options": [
+        "Sir Cyril Radcliffe",
+        "Sir Mortimer Durand",
+        "Sir Henry McMahon",
+        "Lord Curzon"
+      ],
+      "correct": 1,
+      "explanation": "Sir Mortimer Durand (then Foreign Secretary of British India) demarcated the line in 1893 — hence its name.",
+      "tags": []
+    },
+    {
+      "id": "intern-005",
+      "q": "With which Afghan ruler was the Durand Line agreement signed in 1893?",
+      "options": [
+        "Amir Habibullah Khan",
+        "Amir Abdur Rahman Khan",
+        "Amir Amanullah Khan",
+        "Mohammad Zahir Shah"
+      ],
+      "correct": 1,
+      "explanation": "Sir Mortimer Durand signed the agreement with Amir Abdur Rahman Khan of Afghanistan in 1893.",
+      "tags": []
+    },
+    {
+      "id": "intern-006",
+      "q": "The Radcliffe Line is the boundary between which two countries?",
+      "options": [
+        "India and China",
+        "India and Pakistan",
+        "Pakistan and Afghanistan",
+        "Bangladesh and India"
+      ],
+      "correct": 1,
+      "explanation": "The Radcliffe Line demarcates the boundary between India and Pakistan at the time of Partition in 1947.",
+      "tags": []
+    },
+    {
+      "id": "intern-007",
+      "q": "In which year was the Radcliffe Line drawn?",
+      "options": [
+        "1935",
+        "1945",
+        "1947",
+        "1949"
+      ],
+      "correct": 2,
+      "explanation": "The Radcliffe Line was drawn at the time of Partition in August 1947.",
+      "tags": []
+    },
+    {
+      "id": "intern-008",
+      "q": "Who drew the Radcliffe Line dividing India and Pakistan?",
+      "options": [
+        "Sir Mortimer Durand",
+        "Sir Cyril Radcliffe",
+        "Lord Mountbatten",
+        "Sir Henry McMahon"
+      ],
+      "correct": 1,
+      "explanation": "Sir Cyril Radcliffe, a British lawyer, chaired the Boundary Commission and drew the line in just over a month.",
+      "tags": []
+    },
+    {
+      "id": "intern-009",
+      "q": "Which two provinces of British India did the Radcliffe Line divide?",
+      "options": [
+        "Sindh and Balochistan",
+        "Punjab and Bengal",
+        "Punjab and Sindh",
+        "Bengal and Assam"
+      ],
+      "correct": 1,
+      "explanation": "The Radcliffe Line divided the provinces of Punjab and Bengal between India and Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "intern-010",
+      "q": "The McMahon Line is the boundary between which two countries?",
+      "options": [
+        "India and Nepal",
+        "India and Bhutan",
+        "India and China",
+        "India and Myanmar"
+      ],
+      "correct": 2,
+      "explanation": "The McMahon Line is the boundary between India and China, drawn at the 1914 Simla Convention.",
+      "tags": []
+    },
+    {
+      "id": "intern-011",
+      "q": "At which historic convention was the McMahon Line drawn?",
+      "options": [
+        "Geneva Convention",
+        "Versailles Conference",
+        "Simla Convention (1914)",
+        "Yalta Conference"
+      ],
+      "correct": 2,
+      "explanation": "The McMahon Line was drawn at the 1914 Simla Convention by Sir Henry McMahon, then British India&#x27;s Foreign Secretary.",
+      "tags": []
+    },
+    {
+      "id": "intern-012",
+      "q": "Who drew the McMahon Line?",
+      "options": [
+        "Sir Henry McMahon",
+        "Sir Mortimer Durand",
+        "Sir Cyril Radcliffe",
+        "Lord Curzon"
+      ],
+      "correct": 0,
+      "explanation": "Sir Henry McMahon, then Foreign Secretary of British India, drew the line at the 1914 Simla Convention.",
+      "tags": []
+    },
+    {
+      "id": "intern-013",
+      "q": "The Line of Control (LoC) is the working boundary between India and Pakistan in which region?",
+      "options": [
+        "Sindh",
+        "Punjab",
+        "Kashmir",
+        "Balochistan"
+      ],
+      "correct": 2,
+      "explanation": "The Line of Control (LoC) is the working boundary between India and Pakistan in the disputed Kashmir region.",
+      "tags": []
+    },
+    {
+      "id": "intern-014",
+      "q": "The 24th Parallel is a boundary line situated between which two countries?",
+      "options": [
+        "USA and Canada",
+        "Pakistan and India",
+        "North and South Korea",
+        "Pakistan and Afghanistan"
+      ],
+      "correct": 1,
+      "explanation": "The 24th Parallel is a boundary line between Pakistan and India, settled after the Rann of Kutch dispute (1968).",
+      "tags": []
+    },
+    {
+      "id": "intern-015",
+      "q": "In which dispute was the 24th Parallel established as a boundary between Pakistan and India?",
+      "options": [
+        "Sir Creek dispute",
+        "Rann of Kutch dispute",
+        "Kashmir dispute",
+        "Siachen dispute"
+      ],
+      "correct": 1,
+      "explanation": "In the 1965 Rann of Kutch dispute, Pakistan declared the 24th Parallel as the frontier with India — settled in 1968.",
+      "tags": []
+    },
+    {
+      "id": "intern-016",
+      "q": "The 38th Parallel is the boundary line between which two countries?",
+      "options": [
+        "USA and Canada",
+        "Pakistan and India",
+        "North Korea and South Korea",
+        "Italy and France"
+      ],
+      "correct": 2,
+      "explanation": "The 38th Parallel is the boundary between North Korea and South Korea, set after WWII in 1945.",
+      "tags": []
+    },
+    {
+      "id": "intern-017",
+      "q": "In which year was the 38th Parallel set as the boundary between the two Koreas?",
+      "options": [
+        "1939",
+        "1945",
+        "1953",
+        "1960"
+      ],
+      "correct": 1,
+      "explanation": "The 38th Parallel was set after WWII in 1945 — initially as a temporary Soviet-American division of Korea.",
+      "tags": []
+    },
+    {
+      "id": "intern-018",
+      "q": "Which conflict in the early 1950s was fought across the 38th Parallel?",
+      "options": [
+        "Vietnam War",
+        "Korean War",
+        "Cold War",
+        "Cuban Missile Crisis"
+      ],
+      "correct": 1,
+      "explanation": "The Korean War (1950-1953) was fought across the 38th Parallel between North Korea (backed by China/USSR) and South Korea (backed by UN/US).",
+      "tags": []
+    },
+    {
+      "id": "intern-019",
+      "q": "The 49th Parallel is the boundary line between which two countries?",
+      "options": [
+        "USA and Mexico",
+        "USA and Canada",
+        "Pakistan and India",
+        "Brazil and Argentina"
+      ],
+      "correct": 1,
+      "explanation": "The 49th Parallel (49° N) is the boundary between the USA and Canada — among the world&#x27;s longest undefended international borders.",
+      "tags": []
+    },
+    {
+      "id": "intern-020",
+      "q": "Which boundary line is sometimes called the longest undefended international border?",
+      "options": [
+        "24th Parallel",
+        "38th Parallel",
+        "49th Parallel",
+        "17th Parallel"
+      ],
+      "correct": 2,
+      "explanation": "The 49th Parallel (USA-Canada) is among the longest undefended international borders in the world.",
+      "tags": []
+    },
+    {
+      "id": "intern-021",
+      "q": "The 24th and 49th Parallels are often confused in MCQs. Which is between the USA and Canada?",
+      "options": [
+        "24th Parallel",
+        "38th Parallel",
+        "49th Parallel",
+        "51st Parallel"
+      ],
+      "correct": 2,
+      "explanation": "The 49th Parallel is USA-Canada; the 24th Parallel is Pakistan-India. Don&#x27;t confuse them.",
+      "tags": []
+    },
+    {
+      "id": "intern-022",
+      "q": "The 17th Parallel was the former boundary between which two countries?",
+      "options": [
+        "East and West Germany",
+        "North and South Vietnam",
+        "North and South Korea",
+        "Egypt and Sudan"
+      ],
+      "correct": 1,
+      "explanation": "The 17th Parallel was the former boundary between North and South Vietnam (1954-1975), set at the Geneva Accords.",
+      "tags": []
+    },
+    {
+      "id": "intern-023",
+      "q": "The 17th Parallel as a Vietnam boundary was set at which 1954 agreement?",
+      "options": [
+        "Simla Convention",
+        "Geneva Accords",
+        "Treaty of Versailles",
+        "Camp David Accords"
+      ],
+      "correct": 1,
+      "explanation": "The 1954 Geneva Accords ended the First Indochina War and divided Vietnam at the 17th Parallel.",
+      "tags": []
+    },
+    {
+      "id": "intern-024",
+      "q": "The Maginot Line was a fortification built by which country?",
+      "options": [
+        "Germany",
+        "France",
+        "Italy",
+        "Belgium"
+      ],
+      "correct": 1,
+      "explanation": "The Maginot Line was a French line of fortification built in 1934 along the German border, from Switzerland to Belgium.",
+      "tags": []
+    },
+    {
+      "id": "intern-025",
+      "q": "In which year was the Maginot Line built?",
+      "options": [
+        "1914",
+        "1934",
+        "1939",
+        "1945"
+      ],
+      "correct": 1,
+      "explanation": "The Maginot Line was constructed in 1934, before WWII, to deter a German invasion of France.",
+      "tags": []
+    },
+    {
+      "id": "intern-026",
+      "q": "The Maginot Line stretched along the German border between which two countries?",
+      "options": [
+        "Switzerland and Belgium",
+        "Italy and Spain",
+        "Netherlands and Luxembourg",
+        "Poland and Czechoslovakia"
+      ],
+      "correct": 0,
+      "explanation": "The Maginot Line stretched from Switzerland to Belgium along the French-German border. It was named after French Minister of War André Maginot.",
+      "tags": []
+    },
+    {
+      "id": "intern-027",
+      "q": "The Hindenburg Line was a German line of fortification separating Germany from which country?",
+      "options": [
+        "France",
+        "Poland",
+        "Belgium",
+        "Russia"
+      ],
+      "correct": 1,
+      "explanation": "The Hindenburg Line was a German line of fortification separating Germany from Poland (demarcated 1977).",
+      "tags": []
+    },
+    {
+      "id": "intern-028",
+      "q": "The Gustav Line was a World War II German defensive line in which country?",
+      "options": [
+        "Poland",
+        "Ukraine",
+        "Italy",
+        "Germany"
+      ],
+      "correct": 2,
+      "explanation": "The Gustav Line was a major German defensive line in WWII stretching across central Italy.",
+      "tags": []
+    },
+    {
+      "id": "intern-029",
+      "q": "Which line was set up in 1945 as the Polish-Russian frontier?",
+      "options": [
+        "Hindenburg Line",
+        "Curzon Line",
+        "Maginot Line",
+        "Mannheim Line"
+      ],
+      "correct": 1,
+      "explanation": "The Curzon Line — first proposed in 1919 — became the formal Polish-Russian frontier in 1945.",
+      "tags": []
+    },
+    {
+      "id": "intern-030",
+      "q": "The Curzon Line was first proposed in which year?",
+      "options": [
+        "1914",
+        "1919",
+        "1939",
+        "1945"
+      ],
+      "correct": 1,
+      "explanation": "The Curzon Line was originally proposed in 1919 by British Foreign Secretary Lord Curzon. It became the official Polish-Soviet frontier in 1945.",
+      "tags": []
+    },
+    {
+      "id": "intern-031",
+      "q": "The Mannheim Line is a German line of fortification separating Germany from which country?",
+      "options": [
+        "France",
+        "Poland",
+        "Belgium",
+        "Austria"
+      ],
+      "correct": 1,
+      "explanation": "The Mannheim Line was a German fortification line separating Germany from Poland.",
+      "tags": []
+    },
+    {
+      "id": "intern-032",
+      "q": "The Hot Line was initially established between which two countries?",
+      "options": [
+        "USA and UK",
+        "USA and Russia (USSR)",
+        "USA and France",
+        "Germany and USA"
+      ],
+      "correct": 1,
+      "explanation": "The Hot Line was a direct teletype communication line initially established between the USA (Pentagon) and the USSR (Kremlin).",
+      "tags": []
+    },
+    {
+      "id": "intern-033",
+      "q": "In which year was the Hot Line first established between the USA and the USSR?",
+      "options": [
+        "1945",
+        "1962",
+        "1963",
+        "1976"
+      ],
+      "correct": 2,
+      "explanation": "The Hot Line was established in August 1963 following the 1962 Cuban Missile Crisis, to avoid accidental nuclear war.",
+      "tags": []
+    },
+    {
+      "id": "intern-034",
+      "q": "The Hot Line was set up to avoid:",
+      "options": [
+        "Trade disputes",
+        "Accidental nuclear war",
+        "Climate emergencies",
+        "Cybersecurity attacks"
+      ],
+      "correct": 1,
+      "explanation": "The Hot Line was set up to enable instant communication during emergencies and avoid accidental nuclear war.",
+      "tags": []
+    },
+    {
+      "id": "intern-035",
+      "q": "Which two countries cut off the Hot Line in March 2013?",
+      "options": [
+        "North and South Korea",
+        "Canada and USA",
+        "Russia and USA",
+        "China and USA"
+      ],
+      "correct": 0,
+      "explanation": "North Korea cut the Hot Line with South Korea in March 2013 amid rising military tensions.",
+      "tags": []
+    },
+    {
+      "id": "intern-036",
+      "q": "The International Date Line passes through which ocean?",
+      "options": [
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 1,
+      "explanation": "The International Date Line runs through the Pacific Ocean at roughly 180° longitude.",
+      "tags": []
+    },
+    {
+      "id": "intern-037",
+      "q": "At approximately which longitude does the International Date Line run?",
+      "options": [
+        "0°",
+        "90°",
+        "180°",
+        "360°"
+      ],
+      "correct": 2,
+      "explanation": "The International Date Line runs at approximately 180° longitude (with deviations to avoid splitting countries).",
+      "tags": []
+    },
+    {
+      "id": "intern-038",
+      "q": "The International Date Line separates:",
+      "options": [
+        "Two consecutive calendar dates",
+        "Two hemispheres",
+        "Two oceans",
+        "Two continents"
+      ],
+      "correct": 0,
+      "explanation": "Crossing the International Date Line involves adding or subtracting a calendar day — it separates two consecutive calendar dates.",
+      "tags": []
+    },
+    {
+      "id": "intern-039",
+      "q": "The Plimsoll Line is a safety mark used on:",
+      "options": [
+        "Submarines",
+        "Ships (cargo vessels)",
+        "Aircraft",
+        "Trains"
+      ],
+      "correct": 1,
+      "explanation": "The Plimsoll Line is a safety load line marked on ships, indicating the maximum safe loading depth.",
+      "tags": []
+    },
+    {
+      "id": "intern-040",
+      "q": "The Green Line is associated with ceasefire/buffer zones in conflict areas such as:",
+      "options": [
+        "Cyprus and Lebanon",
+        "India and Pakistan",
+        "Korea",
+        "Vietnam"
+      ],
+      "correct": 0,
+      "explanation": "Green Lines have been used as ceasefire/buffer-zone boundaries in Cyprus, Lebanon and other conflict areas.",
+      "tags": []
+    },
+    {
+      "id": "intern-041",
+      "q": "The English Channel is the natural boundary between which two countries?",
+      "options": [
+        "Britain and France",
+        "Britain and Netherlands",
+        "Britain and Belgium",
+        "Britain and Ireland"
+      ],
+      "correct": 0,
+      "explanation": "The English Channel (La Manche) is the natural sea boundary dividing Britain and France.",
+      "tags": []
+    },
+    {
+      "id": "intern-042",
+      "q": "Which of the following are recognised boundary lines between India and Pakistan?",
+      "options": [
+        "Line of Control",
+        "Working Boundary",
+        "24th Parallel",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "India and Pakistan share the Line of Control (in Kashmir), the Working Boundary and the 24th Parallel (Rann of Kutch).",
+      "tags": []
+    },
+    {
+      "id": "intern-043",
+      "q": "Which line is also known as the &#x27;Control Line&#x27; between India and Pakistan?",
+      "options": [
+        "Working Boundary",
+        "Line of Control",
+        "Radcliffe Line",
+        "24th Parallel"
+      ],
+      "correct": 1,
+      "explanation": "The Line of Control (LoC) is also called the &#x27;Control Line&#x27; — the working boundary in Kashmir.",
+      "tags": []
+    },
+    {
+      "id": "intern-044",
+      "q": "Which boundary was drawn first?",
+      "options": [
+        "Radcliffe Line (1947)",
+        "Durand Line (1893)",
+        "McMahon Line (1914)",
+        "38th Parallel (1945)"
+      ],
+      "correct": 1,
+      "explanation": "The Durand Line (1893) was drawn first — before the McMahon Line (1914), Radcliffe Line (1947) and 38th Parallel (1945).",
+      "tags": []
+    },
+    {
+      "id": "intern-045",
+      "q": "Which of the following lines separates Britain and France?",
+      "options": [
+        "English Channel",
+        "River Thames",
+        "River Seine",
+        "The Alps"
+      ],
+      "correct": 0,
+      "explanation": "The English Channel separates Britain and France — a natural sea boundary, not a man-made line.",
+      "tags": []
+    },
+    {
+      "id": "intern-046",
+      "q": "Which line was named after the British Minister for War (1934)?",
+      "options": [
+        "Hindenburg Line",
+        "Maginot Line",
+        "Curzon Line",
+        "Gustav Line"
+      ],
+      "correct": 1,
+      "explanation": "The Maginot Line is named after André Maginot, French Minister of War, who championed its construction in the 1930s.",
+      "tags": []
+    },
+    {
+      "id": "intern-047",
+      "q": "The Pakistan-Afghanistan boundary (Durand Line) is approximately how many kilometres long?",
+      "options": [
+        "~1,500 km",
+        "~2,252 km",
+        "~3,000 km",
+        "~4,200 km"
+      ],
+      "correct": 1,
+      "explanation": "The Pakistan-Afghanistan boundary (Durand Line) is about 2,252 km long.",
+      "tags": []
+    },
+    {
+      "id": "intern-048",
+      "q": "Which boundary is associated with the 1914 Simla Convention?",
+      "options": [
+        "Durand Line",
+        "Radcliffe Line",
+        "McMahon Line",
+        "Curzon Line"
+      ],
+      "correct": 2,
+      "explanation": "The McMahon Line was drawn at the 1914 Simla Convention. India accepts it; China has historically disputed it.",
+      "tags": []
+    },
+    {
+      "id": "intern-049",
+      "q": "Which boundary is associated with the 1962 Cuban Missile Crisis?",
+      "options": [
+        "38th Parallel",
+        "17th Parallel",
+        "Hot Line",
+        "Iron Curtain"
+      ],
+      "correct": 2,
+      "explanation": "The Hot Line was set up after the 1962 Cuban Missile Crisis to avoid accidental nuclear war between the USA and USSR.",
+      "tags": []
+    },
+    {
+      "id": "intern-050",
+      "q": "Which of the following is NOT a parallel line used as a boundary?",
+      "options": [
+        "38th Parallel",
+        "24th Parallel",
+        "Durand Line",
+        "49th Parallel"
+      ],
+      "correct": 2,
+      "explanation": "Durand Line is NOT a parallel — it is a named demarcated land boundary. The 38th, 24th and 49th are all parallels of latitude.",
+      "tags": []
+    }
+  ]
+}

@@ -2,10 +2,10 @@
   "topic_id": "cpu-memory-storage-devices",
   "topic_name": "Cpu Memory Storage Devices",
   "subject": "computer-science",
-  "version": 1,
-  "updated_at": "2026-05-12",
+  "version": 3,
+  "updated_at": "2026-06-24",
   "description": "Cpu Memory Storage Devices MCQs for PPSC, FPSC, NTS, CSS & PMS.",
-  "icon": "💾",
+  "icon": "📄",
   "mcqs": [
     {
       "id": "cpumem-001",

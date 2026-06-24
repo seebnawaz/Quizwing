@@ -2,10 +2,10 @@
   "topic_id": "firsts-in-computer-science",
   "topic_name": "Firsts in Computer Science",
   "subject": "computer-science",
-  "version": 1,
-  "updated_at": "2026-05-12",
+  "version": 3,
+  "updated_at": "2026-06-24",
   "description": "Firsts in Computer Science MCQs for PPSC, FPSC, NTS, CSS & PMS.",
-  "icon": "🥇",
+  "icon": "📄",
   "mcqs": [
     {
       "id": "firsts-001",

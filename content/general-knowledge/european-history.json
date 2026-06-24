@@ -2,10 +2,10 @@
   "topic_id": "european-history",
   "topic_name": "European History",
   "subject": "general-knowledge",
-  "version": 1,
-  "updated_at": "2026-05-12",
+  "version": 3,
+  "updated_at": "2026-06-24",
   "description": "European History MCQs for PPSC, FPSC, NTS, CSS & PMS.",
-  "icon": "🇪🇺",
+  "icon": "📄",
   "mcqs": [
     {
       "id": "europe-001",

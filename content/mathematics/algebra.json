@@ -1,0 +1,700 @@
+{
+  "topic_id": "algebra",
+  "topic_name": "Algebra",
+  "subject": "mathematics",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Algebra MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "algebr-001",
+      "q": "If x=7-4v3 find the value of x-1/x?",
+      "options": [
+        "/2",
+        "2",
+        "-8v3",
+        "Cannot be determined"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-002",
+      "q": "Solve: x(x?)?/x3?",
+      "options": [
+        "x*",
+        "Cannot be determined",
+        "Insufficient data",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-003",
+      "q": "If 3(x-1)=-6, find value of x is?",
+      "options": [
+        "0",
+        "-1",
+        "-2",
+        "1"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-004",
+      "q": "Simplified expression of Solve the equation (5p-6q)? + (5p+6q)?? 50p?",
+      "options": [
+        "+72q7",
+        "+92q9",
+        "+122q12",
+        "+82q8"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-005",
+      "q": "If f(x)=x then the value of f(F(-1)) is equal to?",
+      "options": [
+        "1",
+        "-1",
+        "0",
+        "-2"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-006",
+      "q": "How many solutions of given pair of equation 3x-6y=15 and -2x+4y=-10?",
+      "options": [
+        "Infinite",
+        "One solution",
+        "No solution",
+        "Two solutions"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-007",
+      "q": "If y=(x+1)(x+6), then its graph will intercept the y-axis how many times?",
+      "options": [
+        "None of these",
+        "Once",
+        "Insufficient data",
+        "Cannot be determined"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-008",
+      "q": "If 2log(x+1) + 3log(x?+3) - log(x+1)? changes into single form² log(x?",
+      "options": [
+        "+8)*",
+        "+5)*",
+        "+4)*",
+        "+3)*"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-009",
+      "q": "x+y=13x-y=1 What is the solution set?",
+      "options": [
+        "[7,11]",
+        "[7,6]",
+        "[7,8]",
+        "[7,7]"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-010",
+      "q": "Given f(x) =3x?+2x+4 what is the value of f (3)?",
+      "options": [
+        "47",
+        "32",
+        "37",
+        "42"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-011",
+      "q": "Solve 4/5 - 3/7?",
+      "options": [
+        "12/35",
+        "13/36",
+        "13/35",
+        "14/35"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-012",
+      "q": "Solve ((37)?)??",
+      "options": [
+        "6461",
+        "13122",
+        "6561",
+        "6661"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-013",
+      "q": "If x+1 is a factor of 2x?+kx, then the value of k is?",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-014",
+      "q": "To Solve the value (27)*(-1/3)?",
+      "options": [
+        "0/3",
+        "2/3",
+        "1/3",
+        "1/4"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-015",
+      "q": "If Sin X =4/5 find the value of Cos(2x)?",
+      "options": [
+        "-7/25",
+        "-7/26",
+        "-8/25",
+        "-6/25"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-016",
+      "q": "If x=7-4v3, then find the value of x+1/x?",
+      "options": [
+        "9",
+        "19",
+        "14",
+        "24"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-017",
+      "q": "For x=1 in 2x+y=6, we have y?",
+      "options": [
+        "6",
+        "3",
+        "5",
+        "4"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-018",
+      "q": "Factorization of the expression y?+y—6 is?",
+      "options": [
+        "(y+3)(y-1)",
+        "(y+3)(y3)",
+        "(y+3)(y-2)",
+        "(y+3)(y0)"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-019",
+      "q": "Solve *v64 + 3?",
+      "options": [
+        "3/3",
+        "4/3",
+        "5/3",
+        "4/4"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-020",
+      "q": "The power of linear equation is?",
+      "options": [
+        "2",
+        "3",
+        "0",
+        "1"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-021",
+      "q": "Solve the equation -8/20 -(+9/2)-1/2?",
+      "options": [
+        "None of these",
+        "-",
+        "Insufficient data",
+        "Cannot be determined"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-022",
+      "q": "The value of satisfying the equation 7x+1=4x-8 is?",
+      "options": [
+        "-3",
+        "-2",
+        "-1",
+        "-4"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-023",
+      "q": "The difference between three times a number and four more than two times the number can be represented by the PREPARATION WI1 expression 3x-(2x+4), where x is the number?",
+      "options": [
+        "x- 4",
+        "x- 5",
+        "x- 9",
+        "x- 6"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-024",
+      "q": "What is the value of X + 3Y + Zif X =3, Y =3, and Z=4?",
+      "options": [
+        "16",
+        "26",
+        "11",
+        "21"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-025",
+      "q": "At present the age of Ali is x-10 years. What will be his age after 12 years?",
+      "options": [
+        "x+3",
+        "x+7",
+        "x+4",
+        "x+2"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-026",
+      "q": "The algebraic expression of word expression “subtract eight times of the number b from ten times of the number c” is?",
+      "options": [
+        "10c—9b",
+        "10c—13b",
+        "10c—10b",
+        "10c—8b"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-027",
+      "q": "Let x =—4x + 4, the value of x will be?",
+      "options": [
+        "5/5",
+        "4/5",
+        "3/5",
+        "4/6"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-028",
+      "q": "-3(x?)-2(x)+1, Find f(1)?",
+      "options": [
+        "-2",
+        "-5",
+        "-4",
+        "-3"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-029",
+      "q": "What is meant by linear equation?",
+      "options": [
+        "First",
+        "None of these",
+        "Cannot be determined",
+        "Insufficient data"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-030",
+      "q": "ifx-y=6andx+y=16, then?",
+      "options": [
+        "x=16",
+        "x=13",
+        "x=11",
+        "x=12"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-031",
+      "q": "Solve 5+6x3-2+2?",
+      "options": [
+        "28",
+        "23",
+        "33",
+        "18"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-032",
+      "q": "In mathematics, a solution to an equation that emerges from the process of solving the problem but is not a valid solution to the problem is called solution?",
+      "options": [
+        "Cannot be determined",
+        "None of these",
+        "Extraneous",
+        "Insufficient data"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-033",
+      "q": "Solve the series 2, 4, 8, 16, ...?",
+      "options": [
+        "32",
+        "42",
+        "27",
+        "37"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-034",
+      "q": "If\"x\" and \"y\" are directly proportional and x = 8, y= 2. If y = 10, find value of ay\"?",
+      "options": [
+        "35",
+        "50",
+        "45",
+        "40"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-035",
+      "q": "Solve and find the value of x, if (30x + 70)/x = 100?",
+      "options": [
+        "0",
+        "2",
+        "1",
+        "3"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-036",
+      "q": "Solve %-%?",
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "2"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-037",
+      "q": "Ifxandy are the two digits of the number 347xy such that the number is completely divisible by 80, then what is the value of x + y?",
+      "options": [
+        "2",
+        "4",
+        "1",
+        "3"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-038",
+      "q": "Solve this equation 4x +5=17?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-039",
+      "q": "X+1/x=2. What is the value of x?",
+      "options": [
+        "2",
+        "3",
+        "0",
+        "1"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-040",
+      "q": "Solve the equation: (1/4 + 5/8) - (1/2 + 3/4)?",
+      "options": [
+        "-3/8",
+        "-3/9",
+        "-2/8",
+        "-4/8"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-041",
+      "q": "ifx+1/x=15, then the value of x? + 1/x? is?",
+      "options": [
+        "273",
+        "213",
+        "223",
+        "233"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-042",
+      "q": "|fx+1/x = 10, then what is the value of x? + 1/x??",
+      "options": [
+        "93",
+        "98",
+        "103",
+        "108"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-043",
+      "q": "Simplify the expression? 2x? + 3x?? 5x?",
+      "options": [
+        "WHATSAPP FOR IN CLASSES",
+        "Cannot be determined",
+        "None of these",
+        "Insufficient data"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-044",
+      "q": "What is the factorized form of the expression: x? - 3x — 4?",
+      "options": [
+        "(x - 4)(x + 2)",
+        "(x - 4)(x + 3)",
+        "(x - 4)(x + 1)",
+        "(x - 4)(x + 6)"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-045",
+      "q": "Solve the question 9-3+1/3+1?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-046",
+      "q": "Find the odd man out 1, 5, 7, 11, 12, 13,17?212 If x=3 then find the value of K from the equation 3x? + (K-1)x + 9=0?",
+      "options": [
+        "-11",
+        "-16",
+        "-1",
+        "-6"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-047",
+      "q": "Solve the equation 9 - 3+1/3+1?",
+      "options": [
+        "2",
+        "1",
+        "0",
+        "3"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-048",
+      "q": "If X=28 and Y=51, then (X+Y)+(X—Y)?",
+      "options": [
+        "66",
+        "61",
+        "51",
+        "56"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-049",
+      "q": "If 7x-y=23 and 7y-x=31,x+y?",
+      "options": [
+        "11",
+        "9",
+        "10",
+        "8"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-050",
+      "q": "If x=4, y=2, then (x?) -(y?)? 12 PREPARATION WI Solution: x2 - y?",
+      "options": [
+        "=42-21",
+        "=42-17",
+        "=42-22",
+        "=42-20"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-051",
+      "q": "If Meena solved 24 math problems in 15 minutes. At this rate, how many problems can she solve in 40 minutes?",
+      "options": [
+        "74",
+        "69",
+        "64",
+        "59"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-052",
+      "q": "If 4x +12 = 36, what is the value of x + 3?",
+      "options": [
+        "11",
+        "9",
+        "8",
+        "10"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "algebr-053",
+      "q": "x+6=7thenx?",
+      "options": [
+        "0",
+        "3",
+        "2",
+        "1"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "topic_id": "security-alliances",
+  "topic_name": "Security Alliances",
+  "subject": "general-knowledge",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Security Alliances MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "securi-001",
+      "q": "Today, how many countries are members of the North Atlantic Treaty Organization (NATO)?",
+      "options": [
+        "29",
+        "32",
+        "28",
+        "23"
+      ],
+      "correct": 1,
+      "explanation": "NATO currently has 32 member countries — Finland (2023) and Sweden (2024) are the newest.",
+      "tags": []
+    },
+    {
+      "id": "securi-002",
+      "q": "The North Atlantic Treaty Organization (NATO) was established in:",
+      "options": [
+        "1949",
+        "1951",
+        "1952",
+        "1956"
+      ],
+      "correct": 0,
+      "explanation": "NATO was established on 4 April 1949 in Washington D.C.",
+      "tags": []
+    },
+    {
+      "id": "securi-003",
+      "q": "Which American president was also a Supreme Commander of NATO forces in Europe before his US presidency?",
+      "options": [
+        "Eisenhower",
+        "Ronald Reagan",
+        "Richard Nixon",
+        "Truman"
+      ],
+      "correct": 0,
+      "explanation": "Dwight D. Eisenhower served as the first Supreme Allied Commander Europe (SACEUR) before becoming US President in 1953.",
+      "tags": []
+    },
+    {
+      "id": "securi-004",
+      "q": "What is the objective behind the formation of NATO?",
+      "options": [
+        "To develop individual and collective capacity to resist armed attack on any of the members",
+        "To consult and resist if any member is threatened politically",
+        "To consult and develop capacity to resist armed as well as political threat",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "NATO&#x27;s objective is to consult and develop capacity to resist both armed and political threats — the principle of collective defence (Article 5).",
+      "tags": []
+    },
+    {
+      "id": "securi-005",
+      "q": "Which of the following is a military alliance?",
+      "options": [
+        "ASEAN",
+        "NAFTA",
+        "NATO",
+        "EEC"
+      ],
+      "correct": 2,
+      "explanation": "NATO is the only military alliance among these — ASEAN, NAFTA and EEC are economic/regional groupings.",
+      "tags": []
+    },
+    {
+      "id": "securi-006",
+      "q": "Where are the NATO headquarters?",
+      "options": [
+        "Washington D.C.",
+        "Amsterdam",
+        "Moscow",
+        "Brussels"
+      ],
+      "correct": 3,
+      "explanation": "NATO is headquartered in Brussels, Belgium.",
+      "tags": []
+    },
+    {
+      "id": "securi-007",
+      "q": "What two security organizations dominated the Cold War era?",
+      "options": [
+        "UN Security Council and NATO",
+        "NATO and Comintern",
+        "NATO and the Warsaw Pact",
+        "Anti-Comintern Axis and League of Nations"
+      ],
+      "correct": 2,
+      "explanation": "The Cold War was dominated by NATO (Western bloc) and the Warsaw Pact (Soviet/Eastern bloc).",
+      "tags": []
+    },
+    {
+      "id": "securi-008",
+      "q": "NATO was founded with the aim of increasing the West&#x27;s ability to resist the threat of:",
+      "options": [
+        "Turkish Block",
+        "Asian Block",
+        "Communist Block",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "NATO was founded in 1949 to counter the Soviet/Communist Bloc.",
+      "tags": []
+    },
+    {
+      "id": "securi-009",
+      "q": "Which of the following countries is NOT a member of NATO?",
+      "options": [
+        "Czech Republic",
+        "Poland",
+        "Romania",
+        "Russia"
+      ],
+      "correct": 3,
+      "explanation": "Russia is not a NATO member — it was the successor to the USSR which led the Warsaw Pact.",
+      "tags": []
+    },
+    {
+      "id": "securi-010",
+      "q": "The Warsaw Pact was founded on which date?",
+      "options": [
+        "14 May 1955",
+        "19 April 1955",
+        "14 April 1954",
+        "14 May 1954"
+      ],
+      "correct": 0,
+      "explanation": "The Warsaw Pact was signed on 14 May 1955 by the Soviet Union and 7 Eastern European allies.",
+      "tags": []
+    },
+    {
+      "id": "securi-011",
+      "q": "Where was the headquarters of the Warsaw Pact?",
+      "options": [
+        "Moscow",
+        "Strasbourg",
+        "Brussels",
+        "Frankfurt"
+      ],
+      "correct": 0,
+      "explanation": "The Warsaw Pact was headquartered in Moscow.",
+      "tags": []
+    },
+    {
+      "id": "securi-012",
+      "q": "The Warsaw Pact was disestablished in:",
+      "options": [
+        "1991",
+        "1992",
+        "1993",
+        "1994"
+      ],
+      "correct": 0,
+      "explanation": "The Warsaw Pact was dissolved on 1 July 1991 — following the collapse of communist regimes in Eastern Europe.",
+      "tags": []
+    },
+    {
+      "id": "securi-013",
+      "q": "Who is the current Secretary-General of NATO?",
+      "options": [
+        "Jens Stoltenberg",
+        "Jean-Claude Trichet",
+        "Alexandre Lamfalussy",
+        "Mark Rutte"
+      ],
+      "correct": 3,
+      "explanation": "Mark Rutte, former PM of the Netherlands, became NATO Secretary-General on 1 October 2024, succeeding Jens Stoltenberg.",
+      "tags": []
+    },
+    {
+      "id": "securi-014",
+      "q": "What do the initials CENTO stand for?",
+      "options": [
+        "Central Treatment Organization",
+        "Central Treaty Organization",
+        "Cement Treaty Organization",
+        "None of the above"
+      ],
+      "correct": 1,
+      "explanation": "CENTO = Central Treaty Organization, originally known as the Baghdad Pact.",
+      "tags": []
+    },
+    {
+      "id": "securi-015",
+      "q": "The Central Treaty Organization (CENTO) was established in which year?",
+      "options": [
+        "1951",
+        "1953",
+        "1954",
+        "1955"
+      ],
+      "correct": 3,
+      "explanation": "CENTO (originally the Baghdad Pact) was established in 1955.",
+      "tags": []
+    },
+    {
+      "id": "securi-016",
+      "q": "Which set of countries were the founders of CENTO?",
+      "options": [
+        "USA, Turkey, Iran, Pakistan and Iraq",
+        "UK, Turkey, Iran, Pakistan and Syria",
+        "USA, France, Iran, Turkey and Pakistan",
+        "UK, Turkey, Iran, Pakistan and Iraq"
+      ],
+      "correct": 3,
+      "explanation": "CENTO&#x27;s founding members were the UK, Turkey, Iran, Pakistan and Iraq.",
+      "tags": []
+    },
+    {
+      "id": "securi-017",
+      "q": "The USA was NOT among the founders of CENTO but joined as an associate in:",
+      "options": [
+        "1957",
+        "1958",
+        "1959",
+        "1956"
+      ],
+      "correct": 1,
+      "explanation": "The USA joined CENTO as an associate member in 1958 — but was never a full member.",
+      "tags": []
+    },
+    {
+      "id": "securi-018",
+      "q": "When did Turkey, Iran and Pakistan withdraw from CENTO?",
+      "options": [
+        "1978",
+        "1977",
+        "1979",
+        "1976"
+      ],
+      "correct": 2,
+      "explanation": "Turkey, Iran and Pakistan withdrew from CENTO in 1979 — leading to its dissolution.",
+      "tags": []
+    },
+    {
+      "id": "securi-019",
+      "q": "Which country was very active in establishing CENTO but was not a full member?",
+      "options": [
+        "USA",
+        "Syria",
+        "Pakistan",
+        "Turkey"
+      ],
+      "correct": 0,
+      "explanation": "The USA was instrumental in establishing CENTO but never became a full member (only an associate, 1958).",
+      "tags": []
+    },
+    {
+      "id": "securi-020",
+      "q": "What do the initials SEATO stand for?",
+      "options": [
+        "South-East Asia Telecom Organization",
+        "South-East Asia Treaty Organization",
+        "South-East America Treaty Organization",
+        "South-East Africa Treaty Organization"
+      ],
+      "correct": 1,
+      "explanation": "SEATO = South-East Asia Treaty Organization — founded by the Manila Pact 1954/55.",
+      "tags": []
+    },
+    {
+      "id": "securi-021",
+      "q": "SEATO was formally founded in:",
+      "options": [
+        "1953",
+        "1954",
+        "1955",
+        "1957"
+      ],
+      "correct": 2,
+      "explanation": "SEATO was formally founded on 19 February 1955 in Bangkok (Manila Pact signed 8 Sep 1954).",
+      "tags": []
+    },
+    {
+      "id": "securi-022",
+      "q": "SEATO was founded by which pact?",
+      "options": [
+        "Manila Pact",
+        "Baghdad Pact",
+        "Bangkok Pact",
+        "Tehran Pact"
+      ],
+      "correct": 0,
+      "explanation": "SEATO was created by the Manila Pact (Southeast Asia Collective Defense Treaty), signed in the Philippines on 8 September 1954.",
+      "tags": []
+    },
+    {
+      "id": "securi-023",
+      "q": "SEATO was founded by Australia, France, NZ, Pakistan, Philippines, Thailand, Britain and:",
+      "options": [
+        "USA",
+        "Russia",
+        "Egypt",
+        "Syria"
+      ],
+      "correct": 0,
+      "explanation": "The 8 founding SEATO members included the United States.",
+      "tags": []
+    },
+    {
+      "id": "securi-024",
+      "q": "SEATO&#x27;s headquarters were in:",
+      "options": [
+        "Baghdad",
+        "Sydney",
+        "Manila",
+        "Bangkok"
+      ],
+      "correct": 3,
+      "explanation": "SEATO was headquartered in Bangkok, Thailand.",
+      "tags": []
+    },
+    {
+      "id": "securi-025",
+      "q": "SEATO was dissolved in:",
+      "options": [
+        "1973",
+        "1975",
+        "1977",
+        "1979"
+      ],
+      "correct": 2,
+      "explanation": "SEATO was dissolved in 1977 after losing relevance post-Vietnam War.",
+      "tags": []
+    },
+    {
+      "id": "securi-026",
+      "q": "What was the main purpose of SEATO?",
+      "options": [
+        "Providing collective defence and enhancing economic co-operation in South-East Asia",
+        "Making SE Asia a free trade zone",
+        "Providing economic assistance to fight terrorism",
+        "All of them"
+      ],
+      "correct": 0,
+      "explanation": "SEATO&#x27;s primary purpose was collective defence (containment of communism) plus economic cooperation in SE Asia.",
+      "tags": []
+    },
+    {
+      "id": "securi-027",
+      "q": "When did Pakistan withdraw from SEATO?",
+      "options": [
+        "1971",
+        "1973",
+        "1972",
+        "1974"
+      ],
+      "correct": 1,
+      "explanation": "Pakistan withdrew from SEATO in 1973 after the alliance failed to support it in the 1971 war with India.",
+      "tags": []
+    },
+    {
+      "id": "securi-028",
+      "q": "China founded the international alliance &#x27;Shanghai Five&#x27; in which month/year?",
+      "options": [
+        "April 1994",
+        "April 1995",
+        "April 1996",
+        "April 1997"
+      ],
+      "correct": 2,
+      "explanation": "The Shanghai Five was founded in April 1996 in Shanghai, China.",
+      "tags": []
+    },
+    {
+      "id": "securi-029",
+      "q": "The original members of the Shanghai Five were Russia, China, Kazakhstan, Kyrgyzstan and:",
+      "options": [
+        "Iran",
+        "Tajikistan",
+        "Uzbekistan",
+        "All of them"
+      ],
+      "correct": 1,
+      "explanation": "Shanghai Five = Russia + China + Kazakhstan + Kyrgyzstan + Tajikistan.",
+      "tags": []
+    },
+    {
+      "id": "securi-030",
+      "q": "The Shanghai Five especially focused on battling terrorist threats from:",
+      "options": [
+        "North Korea",
+        "Cambodia",
+        "Afghanistan",
+        "None of them"
+      ],
+      "correct": 2,
+      "explanation": "The Shanghai Five focused on counter-terrorism, including threats from Afghanistan and Central Asian militancy.",
+      "tags": []
+    },
+    {
+      "id": "securi-031",
+      "q": "In June 2001, which Central Asian state joined the Shanghai Five, after which the group was renamed the Shanghai Cooperation Organization (SCO)?",
+      "options": [
+        "Uzbekistan",
+        "Kazakhstan",
+        "Tajikistan",
+        "Azerbaijan"
+      ],
+      "correct": 0,
+      "explanation": "Uzbekistan joined the Shanghai Five in June 2001, after which the group was renamed the SCO.",
+      "tags": []
+    },
+    {
+      "id": "securi-032",
+      "q": "What is the total number of member states in the Shanghai Cooperation Organization (SCO)?",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correct": 3,
+      "explanation": "The SCO has 8 main member states — India and Pakistan joined on 10 July 2015.",
+      "tags": []
+    },
+    {
+      "id": "securi-033",
+      "q": "What are the major objectives of the SCO?",
+      "options": [
+        "Resolving border problems",
+        "Fostering economic ties",
+        "Promoting a multi-polar world",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "SCO&#x27;s objectives include resolving border disputes, fostering economic ties, counter-terrorism (RATS) and promoting a multipolar world.",
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,726 @@
+{
+  "topic_id": "six-articles-of-faith",
+  "topic_name": "Six Articles of Faith",
+  "subject": "islamic-studies",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Six Articles of Faith MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "sixart-001",
+      "q": "What is the Arabic name for the Six Articles of Faith?",
+      "options": [
+        "Arkan-al-Islam",
+        "Arkan al-Iman",
+        "Arkan al-Hajj",
+        "Arkan al-Quran"
+      ],
+      "correct": 1,
+      "explanation": "The Six Articles of Faith are called Arkan al-Iman (pillars of faith) in Arabic. Arkan-al-Islam refers to the Five Pillars of practice, not belief.",
+      "tags": []
+    },
+    {
+      "id": "sixart-002",
+      "q": "What is the 1st Article of Faith in Islam?",
+      "options": [
+        "Belief in Angels",
+        "Belief in Prophets",
+        "Belief in Allah (Tawheed)",
+        "Belief in Holy Books"
+      ],
+      "correct": 2,
+      "explanation": "The 1st Article of Faith is Belief in Allah — specifically His absolute oneness (Tawheed). This is the most fundamental belief in Islam.",
+      "tags": []
+    },
+    {
+      "id": "sixart-003",
+      "q": "The term 'Tawheed' in Islamic theology refers to:",
+      "options": [
+        "Belief in angels",
+        "The absolute oneness of Allah",
+        "The Day of Judgement",
+        "Predestination"
+      ],
+      "correct": 1,
+      "explanation": "Tawheed is the Arabic term for the absolute oneness of Allah — that He has no partners, equals, or associates. It is the central doctrine of Islamic belief.",
+      "tags": []
+    },
+    {
+      "id": "sixart-004",
+      "q": "In South Asian Islamic education, the Six Articles of Faith are referred to as:",
+      "options": [
+        "Arkan-al-Islam",
+        "Iman-e-Mujmal",
+        "Iman-e-Mufassal",
+        "Arkan al-Din"
+      ],
+      "correct": 2,
+      "explanation": "In South Asian madrassas and schools, the detailed declaration of faith covering all six articles is called Iman-e-Mufassal. Iman-e-Mujmal is the brief/summarised declaration.",
+      "tags": []
+    },
+    {
+      "id": "sixart-005",
+      "q": "Which Surah of the Quran most directly establishes the oneness of Allah (Tawheed)?",
+      "options": [
+        "Surah Al-Fatiha",
+        "Surah Al-Ikhlas",
+        "Surah Al-Baqarah",
+        "Surah Al-Imran"
+      ],
+      "correct": 1,
+      "explanation": "Surah Al-Ikhlas (112) is called the Surah of Tawheed. It states: 'Say: He is Allah, the One; Allah, the Eternal Refuge; He neither begets nor is born; nor is there to Him any equivalent.'",
+      "tags": []
+    },
+    {
+      "id": "sixart-006",
+      "q": "'Shirk' in Islamic theology means:",
+      "options": [
+        "Belief in Tawheed",
+        "Associating partners with Allah",
+        "Rejection of prophethood",
+        "Denial of the Day of Judgement"
+      ],
+      "correct": 1,
+      "explanation": "Shirk means associating partners, equals or rivals with Allah. It is the opposite of Tawheed and is described in the Quran as the greatest unforgivable sin.",
+      "tags": []
+    },
+    {
+      "id": "sixart-007",
+      "q": "How many Articles of Faith (Arkan al-Iman) are there in Islam?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "explanation": "There are 6 Articles of Faith in Islam: Belief in Allah, Angels, Holy Books, Prophets, Day of Judgement, and Predestination.",
+      "tags": []
+    },
+    {
+      "id": "sixart-008",
+      "q": "What is the 2nd Article of Faith in Islam?",
+      "options": [
+        "Belief in Holy Books",
+        "Belief in Prophets",
+        "Belief in Angels",
+        "Belief in Predestination"
+      ],
+      "correct": 2,
+      "explanation": "The 2nd Article of Faith is Belief in Angels (Malaika). Muslims must believe that angels exist, are created from light, and serve Allah without question.",
+      "tags": []
+    },
+    {
+      "id": "sixart-009",
+      "q": "Angels (Malaika) are created from:",
+      "options": [
+        "Clay (Earth)",
+        "Smokeless fire",
+        "Noor (light)",
+        "Water"
+      ],
+      "correct": 2,
+      "explanation": "Angels are created from Noor (light) according to Islamic theology. Humans were created from clay (Adam AS) and Jinn from smokeless fire.",
+      "tags": []
+    },
+    {
+      "id": "sixart-010",
+      "q": "How many angels are mentioned by name in the Holy Quran?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "explanation": "Four angels are mentioned by name in the Quran: Jibrael (AS), Mika'eel (AS), Harut and Marut. Other angels like Israfeel and Izraeel are mentioned in Hadith.",
+      "tags": []
+    },
+    {
+      "id": "sixart-011",
+      "q": "Which angel was responsible for bringing divine revelation (Wahi) to the Prophets?",
+      "options": [
+        "Mika'eel",
+        "Israfeel",
+        "Jibrael",
+        "Izraeel"
+      ],
+      "correct": 2,
+      "explanation": "Jibrael (AS) — known as Gabriel in English — was the Chief Angel and messenger entrusted with delivering divine revelation (Wahi) from Allah to the Prophets.",
+      "tags": []
+    },
+    {
+      "id": "sixart-012",
+      "q": "Which angel is responsible for rain and the sustenance (rizq) of all creatures?",
+      "options": [
+        "Jibrael",
+        "Mika'eel",
+        "Israfeel",
+        "Izraeel"
+      ],
+      "correct": 1,
+      "explanation": "Mika'eel (AS) — known as Michael in English — is responsible for rain, agriculture, and the distribution of rizq (sustenance/provision) to all of Allah's creatures.",
+      "tags": []
+    },
+    {
+      "id": "sixart-013",
+      "q": "Which angel will blow the Soor (trumpet) to signal the Day of Judgement?",
+      "options": [
+        "Jibrael",
+        "Mika'eel",
+        "Israfeel",
+        "Izraeel"
+      ],
+      "correct": 2,
+      "explanation": "Israfeel (AS) is the angel responsible for blowing the Soor (trumpet). The first blow will cause all living beings to die; the second blow will resurrect everyone for the Day of Judgement.",
+      "tags": []
+    },
+    {
+      "id": "sixart-014",
+      "q": "Which angel is responsible for taking the souls of the deceased?",
+      "options": [
+        "Jibrael",
+        "Mika'eel",
+        "Israfeel",
+        "Izraeel"
+      ],
+      "correct": 3,
+      "explanation": "Izraeel (AS) is the Angel of Death, responsible for taking the souls of all living beings at the time of death. He is mentioned in the Quran as Malak al-Mawt.",
+      "tags": []
+    },
+    {
+      "id": "sixart-015",
+      "q": "The two angels who record every human deed are collectively known as:",
+      "options": [
+        "Munkar and Nakeer",
+        "Harut and Marut",
+        "Kiraman Katibin",
+        "Raqeeb and Atid"
+      ],
+      "correct": 2,
+      "explanation": "Kiraman Katibin (Honourable Recorders) are the two guardian angels appointed to record every deed of a human being — one on the right (good deeds) and one on the left (bad deeds).",
+      "tags": []
+    },
+    {
+      "id": "sixart-016",
+      "q": "Which angel records good deeds?",
+      "options": [
+        "Atid",
+        "Raqeeb",
+        "Nakeer",
+        "Munkar"
+      ],
+      "correct": 1,
+      "explanation": "Raqeeb (also called Raqib) is the angel who records good deeds. Atid (عتيد) records bad deeds. Together they are part of the Kiraman Katibin.",
+      "tags": []
+    },
+    {
+      "id": "sixart-017",
+      "q": "Which angel records bad deeds?",
+      "options": [
+        "Raqeeb",
+        "Jibrael",
+        "Atid",
+        "Nakeer"
+      ],
+      "correct": 2,
+      "explanation": "Atid (عتيد) is the angel who records bad deeds. Raqeeb records good deeds. Both are part of the Kiraman Katibin — the two recording angels assigned to every person.",
+      "tags": []
+    },
+    {
+      "id": "sixart-018",
+      "q": "The two angels who question the deceased in the grave are:",
+      "options": [
+        "Kiraman Katibin",
+        "Raqeeb and Atid",
+        "Harut and Marut",
+        "Munkar and Nakeer"
+      ],
+      "correct": 3,
+      "explanation": "Munkar and Nakeer are the two angels who question the soul of the deceased in the grave about their faith, deeds, and their Prophet. This questioning is called Sawal-e-Qabr.",
+      "tags": []
+    },
+    {
+      "id": "sixart-019",
+      "q": "What is the characteristic that distinguishes angels from humans and Jinn?",
+      "options": [
+        "Angels can be male or female",
+        "Angels are created from fire",
+        "Angels are sinless and absolutely obedient to Allah",
+        "Angels can disobey Allah if commanded"
+      ],
+      "correct": 2,
+      "explanation": "Angels are sinless (masoom) and absolutely obedient to Allah — they cannot disobey Him. This distinguishes them from humans and Jinn who have free will and can sin.",
+      "tags": []
+    },
+    {
+      "id": "sixart-020",
+      "q": "The two angels Harut and Marut are mentioned in which Surah of the Quran?",
+      "options": [
+        "Surah Al-Imran",
+        "Surah Al-Baqarah",
+        "Surah An-Nisa",
+        "Surah Al-Maidah"
+      ],
+      "correct": 1,
+      "explanation": "Harut and Marut are mentioned in Surah Al-Baqarah (2:102). They were in Babylon (Babel) and are described in the context of magic (sihr).",
+      "tags": []
+    },
+    {
+      "id": "sixart-021",
+      "q": "Which is the chief/leading angel in Islamic theology?",
+      "options": [
+        "Mika'eel",
+        "Israfeel",
+        "Jibrael",
+        "Izraeel"
+      ],
+      "correct": 2,
+      "explanation": "Jibrael (AS) is the chief of all angels — the highest-ranked angel in Islamic theology. He was the most trusted messenger between Allah and His Prophets.",
+      "tags": []
+    },
+    {
+      "id": "sixart-022",
+      "q": "What is the 3rd Article of Faith in Islam?",
+      "options": [
+        "Belief in Prophets",
+        "Belief in Predestination",
+        "Belief in Holy Books",
+        "Belief in Angels"
+      ],
+      "correct": 2,
+      "explanation": "The 3rd Article of Faith is Belief in Holy Books (Kutub) — that Allah revealed books to guide humanity through His prophets.",
+      "tags": []
+    },
+    {
+      "id": "sixart-023",
+      "q": "How many major Holy Books are mentioned in the Quran?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "explanation": "Four major Holy Books are mentioned in the Quran: Tawrat (to Musa AS), Zabur (to Dawud AS), Injeel (to Isa AS), and the Holy Quran (to Muhammad PBUH).",
+      "tags": []
+    },
+    {
+      "id": "sixart-024",
+      "q": "The Tawrat (Torah) was revealed to which Prophet?",
+      "options": [
+        "Hazrat Ibrahim (AS)",
+        "Hazrat Dawud (AS)",
+        "Hazrat Musa (AS)",
+        "Hazrat Isa (AS)"
+      ],
+      "correct": 2,
+      "explanation": "The Tawrat was revealed to Hazrat Musa (AS) — Moses in English. It is the first of the four major Holy Books mentioned in the Quran.",
+      "tags": []
+    },
+    {
+      "id": "sixart-025",
+      "q": "The Zabur (Psalms) was revealed to which Prophet?",
+      "options": [
+        "Hazrat Musa (AS)",
+        "Hazrat Dawud (AS)",
+        "Hazrat Isa (AS)",
+        "Hazrat Ibrahim (AS)"
+      ],
+      "correct": 1,
+      "explanation": "The Zabur was revealed to Hazrat Dawud (AS) — David in English. The word Zabur is mentioned in the Quran in Surah Al-Isra (17:55) and Surah An-Nisa (4:163).",
+      "tags": []
+    },
+    {
+      "id": "sixart-026",
+      "q": "The Injeel (Gospel) was revealed to which Prophet?",
+      "options": [
+        "Hazrat Musa (AS)",
+        "Hazrat Dawud (AS)",
+        "Hazrat Ibrahim (AS)",
+        "Hazrat Isa (AS)"
+      ],
+      "correct": 3,
+      "explanation": "The Injeel was revealed to Hazrat Isa (AS) — Jesus in English. It was originally in Syriac (Aramaic). The Quran frequently references the Injeel as a book of guidance and light.",
+      "tags": []
+    },
+    {
+      "id": "sixart-027",
+      "q": "In which language was the Injeel (Gospel) originally revealed?",
+      "options": [
+        "Hebrew",
+        "Arabic",
+        "Syriac (Aramaic)",
+        "Greek"
+      ],
+      "correct": 2,
+      "explanation": "The Injeel was originally revealed in Syriac, also known as Aramaic — the language spoken by Hazrat Isa (AS) and his people in ancient Palestine.",
+      "tags": []
+    },
+    {
+      "id": "sixart-028",
+      "q": "The Suhuf (sacred scrolls) were revealed to which Prophets?",
+      "options": [
+        "Musa and Dawud",
+        "Ibrahim and Adam",
+        "Ibrahim and Musa",
+        "Dawud and Isa"
+      ],
+      "correct": 1,
+      "explanation": "The Suhuf (scrolls) were revealed to Hazrat Ibrahim (AS) and Hazrat Adam (AS). These are mentioned in Surah Al-A'la (87:18-19) as the 'scrolls of Ibrahim and Musa.'",
+      "tags": []
+    },
+    {
+      "id": "sixart-029",
+      "q": "Which Holy Book is considered the final, complete and preserved revelation of Allah?",
+      "options": [
+        "Tawrat",
+        "Zabur",
+        "Injeel",
+        "The Holy Quran"
+      ],
+      "correct": 3,
+      "explanation": "The Holy Quran is the final revelation from Allah, revealed to Prophet Muhammad (PBUH). Unlike previous books, it has been perfectly preserved and will remain so — guaranteed by Allah in Surah Al-Hijr (15:9).",
+      "tags": []
+    },
+    {
+      "id": "sixart-030",
+      "q": "The Tawrat was revealed in which language?",
+      "options": [
+        "Arabic",
+        "Syriac",
+        "Hebrew",
+        "Aramaic"
+      ],
+      "correct": 2,
+      "explanation": "The Tawrat was revealed to Hazrat Musa (AS) in Hebrew — the language of the Israelites (Bani Israeel).",
+      "tags": []
+    },
+    {
+      "id": "sixart-031",
+      "q": "What is the 4th Article of Faith in Islam?",
+      "options": [
+        "Belief in Holy Books",
+        "Belief in Predestination",
+        "Belief in Prophets",
+        "Belief in Day of Judgement"
+      ],
+      "correct": 2,
+      "explanation": "The 4th Article of Faith is Belief in Prophets (Anbiya/Rusul) — that Allah sent prophets to every nation to guide mankind to the right path.",
+      "tags": []
+    },
+    {
+      "id": "sixart-032",
+      "q": "How many prophets in total are believed to have been sent by Allah?",
+      "options": [
+        "25",
+        "100",
+        "313",
+        "124,000"
+      ],
+      "correct": 3,
+      "explanation": "According to Islamic tradition (based on Hadith), Allah sent approximately 124,000 prophets in total to guide all of humanity throughout history.",
+      "tags": []
+    },
+    {
+      "id": "sixart-033",
+      "q": "How many prophets are mentioned by name in the Holy Quran?",
+      "options": [
+        "10",
+        "18",
+        "25",
+        "40"
+      ],
+      "correct": 2,
+      "explanation": "25 Prophets are mentioned by name in the Holy Quran. They range from Hazrat Adam (AS) — the first prophet — to Hazrat Muhammad (PBUH) — the last.",
+      "tags": []
+    },
+    {
+      "id": "sixart-034",
+      "q": "How many Rasul (messengers) are believed to have been sent in total?",
+      "options": [
+        "25",
+        "124",
+        "313",
+        "1000"
+      ],
+      "correct": 2,
+      "explanation": "According to Hadith, approximately 313 or 315 Rasul (messengers) were sent in total. Every Rasul was also a Nabi (prophet), but not every Nabi was a Rasul.",
+      "tags": []
+    },
+    {
+      "id": "sixart-035",
+      "q": "Hazrat Muhammad (PBUH) holds which distinction among all Prophets?",
+      "options": [
+        "First Prophet",
+        "Youngest Prophet",
+        "Last and Final Prophet (Khatam-un-Nabiyeen)",
+        "Prophet only to Arabs"
+      ],
+      "correct": 2,
+      "explanation": "Hazrat Muhammad (PBUH) is Khatam-un-Nabiyeen — the Last and Final Prophet. No prophet will come after him. This is established in Surah Al-Ahzab (33:40).",
+      "tags": []
+    },
+    {
+      "id": "sixart-036",
+      "q": "What is the 5th Article of Faith in Islam?",
+      "options": [
+        "Belief in Prophets",
+        "Belief in Holy Books",
+        "Belief in Predestination",
+        "Belief in the Day of Judgement"
+      ],
+      "correct": 3,
+      "explanation": "The 5th Article of Faith is Belief in the Day of Judgement (Qiyamah / Yawm al-Hisab) — when all human beings will be resurrected and held accountable for their deeds.",
+      "tags": []
+    },
+    {
+      "id": "sixart-037",
+      "q": "The Day of Judgement is also called 'Youm al-Fasl' which means:",
+      "options": [
+        "Day of Resurrection",
+        "Day of Gathering",
+        "Day of Separation/Decision",
+        "Day of Reckoning"
+      ],
+      "correct": 2,
+      "explanation": "Youm al-Fasl (يوم الفصل) means the Day of Separation or Day of Decision. This name is used in the Quran (Surah An-Naba, 78:17) for the Day of Judgement.",
+      "tags": []
+    },
+    {
+      "id": "sixart-038",
+      "q": "On the Day of Judgement, deeds are weighed on the:",
+      "options": [
+        "Sirat",
+        "Mizan",
+        "Barzakh",
+        "Hisab"
+      ],
+      "correct": 1,
+      "explanation": "The Mizan (Scale) is the scale on which all deeds will be weighed on the Day of Judgement. Good deeds are placed on one side and bad deeds on the other to determine one's fate.",
+      "tags": []
+    },
+    {
+      "id": "sixart-039",
+      "q": "The bridge over Jahannam (Hell) that all souls must cross on the Day of Judgement is called:",
+      "options": [
+        "Mizan",
+        "Barzakh",
+        "Sirat",
+        "Maqam"
+      ],
+      "correct": 2,
+      "explanation": "The Sirat is the bridge over Jahannam (Hell). Every soul must cross it on the Day of Judgement. The righteous will cross quickly; the sinful will stumble and fall into Jahannam.",
+      "tags": []
+    },
+    {
+      "id": "sixart-040",
+      "q": "Which of the following is another name for the Day of Judgement?",
+      "options": [
+        "Youm al-Hajj",
+        "Youm al-Fasl",
+        "Youm al-Tawbah",
+        "Youm al-Khamis"
+      ],
+      "correct": 1,
+      "explanation": "Youm al-Fasl (Day of Decision/Separation) is one of the many Quranic names for the Day of Judgement. Others include Yawm al-Qiyamah, Yawm al-Hisab (Day of Reckoning), and Yawm al-Din (Day of Judgement).",
+      "tags": []
+    },
+    {
+      "id": "sixart-041",
+      "q": "'Barzakh' in Islamic theology refers to:",
+      "options": [
+        "The bridge over hell",
+        "The state between death and resurrection",
+        "Paradise",
+        "The weighing scale"
+      ],
+      "correct": 1,
+      "explanation": "Barzakh is the intermediate state between death and the Day of Resurrection. It is the period in which souls remain in the grave, awaiting the Day of Judgement.",
+      "tags": []
+    },
+    {
+      "id": "sixart-042",
+      "q": "The gathering of all people on the Day of Judgement is called:",
+      "options": [
+        "Sirat",
+        "Mizan",
+        "Hashr",
+        "Barzakh"
+      ],
+      "correct": 2,
+      "explanation": "Hashr (also Mahshar) is the gathering of all people — from the first human to the last — on the plain of the Day of Judgement for accountability before Allah.",
+      "tags": []
+    },
+    {
+      "id": "sixart-043",
+      "q": "According to Islamic belief, Jahannam (Hell) has how many gates?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 1,
+      "explanation": "Jahannam has 7 gates according to the Quran (Surah Al-Hijr, 15:44): 'It has seven gates; for each gate is of them a portion designated.'",
+      "tags": []
+    },
+    {
+      "id": "sixart-044",
+      "q": "The intercession of the Prophet (PBUH) on the Day of Judgement is called:",
+      "options": [
+        "Tawassul",
+        "Shafa'ah",
+        "Tawbah",
+        "Istighfar"
+      ],
+      "correct": 1,
+      "explanation": "Shafa'ah (intercession) refers to the Prophet Muhammad's (PBUH) intercession on behalf of his Ummah on the Day of Judgement. This is called Shafa'ah al-Uzma (the Greatest Intercession).",
+      "tags": []
+    },
+    {
+      "id": "sixart-045",
+      "q": "What is the 6th and final Article of Faith in Islam?",
+      "options": [
+        "Belief in Prophets",
+        "Belief in Holy Books",
+        "Belief in Angels",
+        "Belief in Predestination (Taqdeer)"
+      ],
+      "correct": 3,
+      "explanation": "The 6th and final Article of Faith is Belief in Predestination (Taqdeer/Qadar) — that everything in the universe happens according to Allah's knowledge, will, and divine decree.",
+      "tags": []
+    },
+    {
+      "id": "sixart-046",
+      "q": "The word 'Qadar' in Arabic means:",
+      "options": [
+        "Prayer",
+        "Testimony",
+        "Measure or decree",
+        "Guidance"
+      ],
+      "correct": 2,
+      "explanation": "Qadar (قدر) means 'measure' or 'decree' in Arabic. In Islamic theology, it refers to Allah's divine decree — His foreknowledge and control over all events in the universe.",
+      "tags": []
+    },
+    {
+      "id": "sixart-047",
+      "q": "The belief in Taqdeer means:",
+      "options": [
+        "Allah rewards only those who worship Him",
+        "Everything happens according to Allah's will and divine knowledge",
+        "Humans have no free will whatsoever",
+        "Only prophets are guided by Allah"
+      ],
+      "correct": 1,
+      "explanation": "Belief in Taqdeer (Qadar) means believing that Allah has complete knowledge of all events and that everything in the universe happens according to His divine will and decree.",
+      "tags": []
+    },
+    {
+      "id": "sixart-048",
+      "q": "Which Articles of Faith are directly mentioned together in Surah Al-Baqarah (2:285)?",
+      "options": [
+        "Tawheed, Prophets, Books",
+        "Allah, Angels, Books, Prophets, Day of Judgement",
+        "Angels, Prophets, Predestination",
+        "Books, Prophets, Qiyamah"
+      ],
+      "correct": 1,
+      "explanation": "Surah Al-Baqarah (2:285) mentions belief in Allah, His angels, His books, His messengers, and the Day of Judgement — five of the six Articles of Faith in one verse.",
+      "tags": []
+    },
+    {
+      "id": "sixart-049",
+      "q": "The difference between a Nabi (Prophet) and a Rasul (Messenger) in Islam is:",
+      "options": [
+        "Rasul received a new Sharia; Nabi followed an existing one",
+        "Nabi received a new Sharia; Rasul did not",
+        "Both are exactly the same",
+        "Rasul was always more senior than Nabi"
+      ],
+      "correct": 0,
+      "explanation": "A Rasul (Messenger) was given a new divine book/law (Sharia) to deliver to a people. A Nabi (Prophet) followed the existing Sharia without bringing a new book. Every Rasul was also a Nabi.",
+      "tags": []
+    },
+    {
+      "id": "sixart-050",
+      "q": "Which Article of Faith directly addresses the accountability of human actions?",
+      "options": [
+        "Belief in Angels",
+        "Belief in Holy Books",
+        "Belief in the Day of Judgement",
+        "Belief in Predestination"
+      ],
+      "correct": 2,
+      "explanation": "Belief in the Day of Judgement (Qiyamah) directly establishes accountability — every human will be resurrected and their deeds weighed, leading to either reward (Jannah) or punishment (Jahannam).",
+      "tags": []
+    },
+    {
+      "id": "sixart-051",
+      "q": "Iman-e-Mujmal is the ______ declaration of faith.",
+      "options": [
+        "Detailed",
+        "Brief/summarised",
+        "Conditional",
+        "Written"
+      ],
+      "correct": 1,
+      "explanation": "Iman-e-Mujmal is the brief or summarised declaration of Islamic faith. Iman-e-Mufassal is the detailed declaration that covers all six Articles of Faith explicitly.",
+      "tags": []
+    },
+    {
+      "id": "sixart-052",
+      "q": "Which of the following correctly lists ALL Six Articles of Faith in order?",
+      "options": [
+        "Allah, Books, Angels, Prophets, Taqdeer, Qiyamah",
+        "Allah, Angels, Books, Prophets, Qiyamah, Taqdeer",
+        "Angels, Allah, Books, Prophets, Qiyamah, Taqdeer",
+        "Allah, Prophets, Books, Angels, Taqdeer, Qiyamah"
+      ],
+      "correct": 1,
+      "explanation": "The correct order of the Six Articles of Faith is: (1) Allah, (2) Angels, (3) Holy Books, (4) Prophets, (5) Day of Judgement (Qiyamah), (6) Predestination (Taqdeer).",
+      "tags": []
+    },
+    {
+      "id": "sixart-053",
+      "q": "Belief in which Article of Faith specifically requires Muslims to accept the revealed nature of the Quran?",
+      "options": [
+        "Belief in Angels",
+        "Belief in Prophets",
+        "Belief in Holy Books",
+        "Belief in Predestination"
+      ],
+      "correct": 2,
+      "explanation": "The 3rd Article — Belief in Holy Books (Kutub) — requires Muslims to believe that Allah revealed books including the Quran, Tawrat, Zabur and Injeel as divine guidance.",
+      "tags": []
+    },
+    {
+      "id": "sixart-054",
+      "q": "The term 'Khatam-un-Nabiyeen' means:",
+      "options": [
+        "First of the Prophets",
+        "Greatest of the Prophets",
+        "Seal (Last) of the Prophets",
+        "Messenger to all nations"
+      ],
+      "correct": 2,
+      "explanation": "Khatam-un-Nabiyeen means 'Seal of the Prophets' — i.e. the last and final Prophet. This title of Prophet Muhammad (PBUH) is from Surah Al-Ahzab (33:40).",
+      "tags": []
+    },
+    {
+      "id": "sixart-055",
+      "q": "How many marks do Six Articles of Faith MCQs typically carry in PPSC One Paper Islamiat?",
+      "options": [
+        "1–2 marks",
+        "3–6 marks",
+        "7–10 marks",
+        "10–15 marks"
+      ],
+      "correct": 1,
+      "explanation": "Six Articles of Faith topics typically yield 3–6 MCQs in PPSC and FPSC One Paper exams. Frequently tested: names of angels and their duties, Holy Books and their Prophets, and the number of prophets.",
+      "tags": []
+    }
+  ]
+}

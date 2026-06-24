@@ -2,10 +2,10 @@
   "topic_id": "management-information-systems",
   "topic_name": "Management Information Systems",
   "subject": "computer-science",
-  "version": 1,
-  "updated_at": "2026-05-12",
+  "version": 3,
+  "updated_at": "2026-06-24",
   "description": "Management Information Systems MCQs for PPSC, FPSC, NTS, CSS & PMS.",
-  "icon": "📊",
+  "icon": "📄",
   "mcqs": [
     {
       "id": "manage-001",

@@ -1,0 +1,9 @@
+{
+  "name": "ECAT",
+  "icon": "⚙️",
+  "order": 13,
+  "description": "UET ECAT — Mathematics, Physics, Chemistry, Computer, English.",
+  "color": "#b45309",
+  "category": "entry-tests",
+  "placeholder": true
+}

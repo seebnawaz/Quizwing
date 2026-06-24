@@ -2,10 +2,10 @@
   "topic_id": "inventors-and-their-inventions",
   "topic_name": "Inventors & Their Inventions",
   "subject": "computer-science",
-  "version": 1,
-  "updated_at": "2026-05-12",
+  "version": 3,
+  "updated_at": "2026-06-24",
   "description": "Inventors & Their Inventions MCQs for PPSC, FPSC, NTS, CSS & PMS.",
-  "icon": "💡",
+  "icon": "📄",
   "mcqs": [
     {
       "id": "invent-001",

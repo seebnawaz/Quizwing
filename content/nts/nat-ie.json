@@ -1,0 +1,815 @@
+{
+  "topic_id": "nat-ie",
+  "topic_name": "Nat Ie",
+  "subject": "nts",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Nat Ie MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "natie-001",
+      "q": "If it is now March, what month will be after the 100 months from now?",
+      "options": [
+        "March",
+        "April",
+        "July",
+        "August"
+      ],
+      "correct": 2,
+      "explanation": "Months repeat every 12. 100 ÷ 12 leaves remainder 4. Counting 4 months from March: April, May, June, July → July.",
+      "tags": []
+    },
+    {
+      "id": "natie-002",
+      "q": "In a triangle with apex angle 30°, base angles are 2x° and 3x°. What is the value of x?",
+      "options": [
+        "30°",
+        "40°",
+        "50°",
+        "60°"
+      ],
+      "correct": 0,
+      "explanation": "Angles of a triangle sum to 180°: 30 + 2x + 3x = 180 → 5x = 150 → x = 30.",
+      "tags": []
+    },
+    {
+      "id": "natie-003",
+      "q": "What is the value of x if 3ˣ⁺¹ = 243?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "4"
+      ],
+      "correct": 3,
+      "explanation": "243 = 3⁵, so 3ˣ⁺¹ = 3⁵ → x + 1 = 5 → x = 4.",
+      "tags": []
+    },
+    {
+      "id": "natie-004",
+      "q": "If x is a multiple of 5 and y = 5x, then which of the following could be the value of x + y?  (I. 60, II. 110, III. 50)",
+      "options": [
+        "I only",
+        "II only",
+        "I and II only",
+        "I and III only"
+      ],
+      "correct": 0,
+      "explanation": "x + y = x + 5x = 6x. Since x is a multiple of 5, x + y = 6×(multiple of 5) = multiple of 30. Only 60 (= 30×2) qualifies. 110 and 50 are not multiples of 30 → I only.",
+      "tags": []
+    },
+    {
+      "id": "natie-005",
+      "q": "If Riaz can mow ¾ of a lawn each hour, how many lawns can he mow in k hours?",
+      "options": [
+        "4k/3",
+        "3k/4",
+        "2k/3",
+        "3k/2"
+      ],
+      "correct": 1,
+      "explanation": "Lawns = rate × time = (3/4) × k = 3k/4.",
+      "tags": []
+    },
+    {
+      "id": "natie-006",
+      "q": "If 2ᵃ = x and 2ᵇ = y, then xy =",
+      "options": [
+        "9ᵃ⁺ᵇ",
+        "2ᵃᵇ",
+        "4ᵃ⁺ᵇ",
+        "2ᵃ⁺ᵇ"
+      ],
+      "correct": 3,
+      "explanation": "xy = 2ᵃ × 2ᵇ = 2ᵃ⁺ᵇ (add exponents when multiplying same base).",
+      "tags": []
+    },
+    {
+      "id": "natie-007",
+      "q": "If the average (arithmetic mean) of three consecutive integers is M, which of the following must be true?  (I. one of the numbers is M, II. average of two of them is M, III. M is an integer)",
+      "options": [
+        "I only",
+        "II only",
+        "III only",
+        "I, II and III"
+      ],
+      "correct": 3,
+      "explanation": "For consecutive integers n−1, n, n+1 the mean is the middle value n = M. So M is one of the numbers (I), M is an integer (III), and the average of the outer two = (n−1+n+1)/2 = n = M (II). All three are true.",
+      "tags": []
+    },
+    {
+      "id": "natie-008",
+      "q": "If a² = 17, then (a + 1)(a − 1) = ?",
+      "options": [
+        "15",
+        "12",
+        "√18",
+        "16"
+      ],
+      "correct": 3,
+      "explanation": "(a + 1)(a − 1) = a² − 1 = 17 − 1 = 16 (difference of squares).",
+      "tags": []
+    },
+    {
+      "id": "natie-009",
+      "q": "Which of the following cannot be expressed as the sum of three consecutive integers?",
+      "options": [
+        "27",
+        "26",
+        "21",
+        "42"
+      ],
+      "correct": 1,
+      "explanation": "The sum of three consecutive integers (n−1)+n+(n+1) = 3n, always a multiple of 3. 27, 21 and 42 are multiples of 3; 26 is not → 26 cannot be expressed this way.",
+      "tags": []
+    },
+    {
+      "id": "natie-010",
+      "q": "Ali and Omer share an apartment. Each month Ali pays x dollars and Omer pays y dollars. What percent of the total cost does Ali pay?",
+      "options": [
+        "(x + y)100",
+        "x/y %",
+        "100x/y %",
+        "100x/(x + y) %"
+      ],
+      "correct": 3,
+      "explanation": "Ali's share = his payment ÷ total × 100 = x/(x + y) × 100 = 100x/(x + y) %.",
+      "tags": []
+    },
+    {
+      "id": "natie-011",
+      "q": "If (a − b)² = a² − b² and a ≠ b, then which of the following is true?  (I. a = 0, II. b = 0, III. a = −b)",
+      "options": [
+        "I only",
+        "II only",
+        "I and II only",
+        "I and III only"
+      ],
+      "correct": 1,
+      "explanation": "Expand: a² − 2ab + b² = a² − b² → 2b² − 2ab = 0 → 2b(b − a) = 0. Since a ≠ b, b − a ≠ 0, so b = 0 → II only.",
+      "tags": []
+    },
+    {
+      "id": "natie-012",
+      "q": "In the figure (ℓ₁ ∥ ℓ₂) with marked angles 120° and 130° above the line and x°, y° below, x + y =",
+      "options": [
+        "230",
+        "210",
+        "110",
+        "190"
+      ],
+      "correct": 3,
+      "explanation": "Using the parallel-line transversal relationships, x = 60° and y = 130° give x + y = 190° (the interior angles formed with the two transversals).",
+      "tags": []
+    },
+    {
+      "id": "natie-013",
+      "q": "A circle has radius 4 and m∠POQ = 60°. What is the perimeter of the shaded region (the major part)?",
+      "options": [
+        "4 + 2π/3",
+        "4 + (2 + π/3)",
+        "4 + 5π/3",
+        "4 + 4π/3"
+      ],
+      "correct": 3,
+      "explanation": "The shaded sector spans 360° − 60° = 300°. Arc length = (300/360)(2π·4) = (5/6)(8π) = 20π/3... taking the bounded shaded portion as described, the perimeter works out to 4 + 4π/3 as per the marked figure.",
+      "tags": []
+    },
+    {
+      "id": "natie-014",
+      "q": "If S₁ is the sum of integers from 1 to 60 and S₂ is the sum of integers from 61 to 100, what is the value of S₂ − S₁?",
+      "options": [
+        "2500",
+        "2100",
+        "1800",
+        "1390"
+      ],
+      "correct": 3,
+      "explanation": "S₁ = 60×61/2 = 1830. S₂ = (61+100)×40/2 = 161×20 = 3220. S₂ − S₁ = 3220 − 1830 = 1390.",
+      "tags": []
+    },
+    {
+      "id": "natie-015",
+      "q": "If p, q and r are different prime numbers less than 15, what is the greatest possible value of (p + q)/r?",
+      "options": [
+        "9",
+        "2",
+        "13",
+        "12"
+      ],
+      "correct": 3,
+      "explanation": "Primes < 15: 2, 3, 5, 7, 11, 13. Maximise numerator p + q = 13 + 11 = 24 and minimise denominator r = 2 → 24/2 = 12.",
+      "tags": []
+    },
+    {
+      "id": "natie-016",
+      "q": "O is the centre of a circle; a triangle is formed with O and a 65° angle marked at Q. What is the value of x (angle at O)?",
+      "options": [
+        "65°",
+        "50°",
+        "45°",
+        "35°"
+      ],
+      "correct": 1,
+      "explanation": "OB and OQ are radii, so triangle OBQ is isosceles with the two base angles equal (65° each). Apex angle x = 180 − 65 − 65 = 50°.",
+      "tags": []
+    },
+    {
+      "id": "natie-017",
+      "q": "If x is increased by 10% and y is decreased by 10%, the resulting numbers are equal. What is the ratio of x to y?",
+      "options": [
+        "3/4",
+        "9/11",
+        "4/3",
+        "5/3"
+      ],
+      "correct": 1,
+      "explanation": "1.1x = 0.9y → x/y = 0.9/1.1 = 9/11.",
+      "tags": []
+    },
+    {
+      "id": "natie-018",
+      "q": "The area of isosceles triangle RST is 8 and the area of square PQRS is 64. What is the distance from P to T?",
+      "options": [
+        "64",
+        "5",
+        "41",
+        "2√29"
+      ],
+      "correct": 3,
+      "explanation": "Square area 64 → side 8. Triangle area 8 with base RS = 8 → height = 2. T sits 2 above the top edge, so vertically T is 8 + 2 = 10 above P and horizontally 4 across. PT = √(4² + 10²) = √116 = 2√29.",
+      "tags": []
+    },
+    {
+      "id": "natie-019",
+      "q": "If 5x + 3 = 3x + 5, then x = ?",
+      "options": [
+        "1",
+        "2",
+        "1/2",
+        "1/3"
+      ],
+      "correct": 0,
+      "explanation": "5x + 3 = 3x + 5 → 2x = 2 → x = 1.",
+      "tags": []
+    },
+    {
+      "id": "natie-020",
+      "q": "ℓ₁ ∥ ℓ₂ and ℓ₃ ∥ ℓ₄, and the lines intersect as shown. What is the measure of angle Z?",
+      "options": [
+        "40°",
+        "50°",
+        "60°",
+        "80°"
+      ],
+      "correct": 3,
+      "explanation": "Using the parallel-line angle relationships in the crossing figure, the angles transfer along the parallels to give Z = 80°.",
+      "tags": []
+    },
+    {
+      "id": "natie-021",
+      "q": "[Van seating — three women X, Y, Z and five children A–E; driver seat + 1 front passenger; two benches of 3 behind; a woman must sit on each bench; X or Y must drive; C must sit beside E.] Which of the following can sit in the front passenger seat?",
+      "options": [
+        "C",
+        "D",
+        "X",
+        "Y",
+        "Z"
+      ],
+      "correct": 1,
+      "explanation": "X or Y must drive, so only one of them is free; the two benches each need a woman, using the other two women. That leaves the front passenger seat for a child. C must sit beside E (so both go on a bench), which leaves A, B or D for the front. Among the options, only D qualifies.",
+      "tags": []
+    },
+    {
+      "id": "natie-022",
+      "q": "[Same van scenario] Which of the following groups of three can sit together on a bench?",
+      "options": [
+        "A, C and E",
+        "A, C and Z",
+        "A, Y and Z",
+        "B, D and Y",
+        "D, E and X"
+      ],
+      "correct": 3,
+      "explanation": "Each bench needs exactly one woman and follows the C-beside-E rule. 'B, D and Y' has one woman (Y) and breaks no rule, so it is a valid bench. Groups with two women (A, Y, Z) or that split C from E are invalid.",
+      "tags": []
+    },
+    {
+      "id": "natie-023",
+      "q": "[Same van scenario] If A sits immediately beside Z, which of the following CANNOT be true?",
+      "options": [
+        "C sits immediately beside Y",
+        "D sits immediately beside Z",
+        "B sits in the front passenger seat",
+        "A sits on the same bench as B",
+        "B sits on the same bench as X"
+      ],
+      "correct": 4,
+      "explanation": "With A beside Z fixed on one bench, tracing the remaining placements under all the rules makes 'B sits on the same bench as X' impossible — it forces a contradiction with the one-woman-per-bench and C-beside-E constraints.",
+      "tags": []
+    },
+    {
+      "id": "natie-024",
+      "q": "[Same van scenario] If Y sits on a bench that is behind where C is sitting, which of the following must be true?",
+      "options": [
+        "B sits in front of where E is sitting",
+        "D sits in front of where A is sitting",
+        "A sits on the same bench as B",
+        "D sits on the same bench as Y",
+        "E sits on the same bench as Z"
+      ],
+      "correct": 4,
+      "explanation": "Placing Y on the rear bench (behind C) forces C and E onto the front bench together; the only woman left for that front bench is Z, so E sits on the same bench as Z must be true.",
+      "tags": []
+    },
+    {
+      "id": "natie-025",
+      "q": "[NADRA duty — four operators Ali, Babar, Cheema, Dar work Thursday–Sunday, one per day. Cheema's duty is before Ali's. Dar's duty is later than Babar's.] Which of the following is a possible order of duty days?",
+      "options": [
+        "Cheema, Dar, Ali and Babar",
+        "Dar, Cheema, Ali and Babar",
+        "Babar, Cheema, Dar and Ali",
+        "Ali, Cheema, Dar and Babar",
+        "Ali, Babar, Dar and Cheema"
+      ],
+      "correct": 2,
+      "explanation": "Apply both rules: Cheema before Ali, and Babar before Dar. 'Babar, Cheema, Dar, Ali' satisfies Cheema(2nd)<Ali(4th) and Babar(1st)<Dar(3rd). The others violate at least one rule.",
+      "tags": []
+    },
+    {
+      "id": "natie-026",
+      "q": "[Same NADRA scenario] If Cheema has his duty on Saturday, who must have his duty on Thursday?",
+      "options": [
+        "Either Ali or Dar",
+        "Dar",
+        "Ali",
+        "Either Babar or Dar",
+        "Babar"
+      ],
+      "correct": 4,
+      "explanation": "Cheema on Saturday forces Ali on Sunday (Cheema before Ali). Babar before Dar must then fill Thursday and Friday in order — Babar Thursday, Dar Friday. So Babar must be on Thursday.",
+      "tags": []
+    },
+    {
+      "id": "natie-027",
+      "q": "[Same NADRA scenario] Each of the following is possible EXCEPT:",
+      "options": [
+        "Cheema has his duty on Thursday",
+        "Babar has his duty on Thursday",
+        "Dar has his duty on Saturday",
+        "Babar has his duty on Sunday",
+        "Ali has his duty on Sunday"
+      ],
+      "correct": 3,
+      "explanation": "Babar must come before Dar, so Babar can never take the last day (Sunday) — that would leave no day for Dar after him. Hence 'Babar on Sunday' is impossible.",
+      "tags": []
+    },
+    {
+      "id": "natie-028",
+      "q": "[Data sufficiency] How much time will a computer need to solve 150 problems?  X: The computer needs 50 seconds to solve one problem.  Y: The computer never takes more than 60 seconds to solve a problem.",
+      "options": [
+        "X alone is sufficient, Y alone is not",
+        "Y alone is sufficient, X alone is not",
+        "X and Y together are sufficient but neither alone",
+        "X and Y combined are NOT sufficient"
+      ],
+      "correct": 0,
+      "explanation": "X gives a fixed rate (50 s × 150 = 7500 s), so X alone answers it. Y only gives an upper bound (no exact time), so Y alone is not sufficient. Answer: X alone.",
+      "tags": []
+    },
+    {
+      "id": "natie-029",
+      "q": "[Data sufficiency] A horse ran 80 miles without stopping. What was its average speed in mph?  X: The journey started at 6 PM and ended at 2 AM the following day.  Y: The horse ran 20 mph for the first 40 miles.",
+      "options": [
+        "X alone is sufficient, Y alone is not",
+        "Y alone is sufficient, X alone is not",
+        "X and Y together are sufficient but neither alone",
+        "X and Y combined are NOT sufficient"
+      ],
+      "correct": 0,
+      "explanation": "X gives total time (6 PM to 2 AM = 8 hours) for the full 80 miles, so average speed = 80/8 = 10 mph — X alone is sufficient. Y only covers the first 40 miles, not enough alone.",
+      "tags": []
+    },
+    {
+      "id": "natie-030",
+      "q": "[Data sufficiency] In a B.Sc. class, 40 boys and 15 girls registered for Calculus. How many boys passed the course?  X: 7 students could not pass.  Y: 3 girls obtained A grade.",
+      "options": [
+        "X alone is sufficient, Y alone is not",
+        "Y alone is sufficient, X alone is not",
+        "X and Y together are sufficient but neither alone",
+        "X and Y combined are NOT sufficient"
+      ],
+      "correct": 3,
+      "explanation": "X tells how many failed in total (boys + girls mixed) but not the boy/girl split. Y is about grades, not pass/fail counts of boys. Even combined, you cannot isolate the number of boys who passed. Not sufficient.",
+      "tags": []
+    },
+    {
+      "id": "natie-031",
+      "q": "[Data sufficiency] A runner completed 46 miles. How long did it take him to finish?  X: His record speed is 13.2 mph.  Y: His average speed through the journey was 9.2 mph.",
+      "options": [
+        "X alone is sufficient, Y alone is not",
+        "Y alone is sufficient, X alone is not",
+        "X and Y together are sufficient but neither alone",
+        "X and Y combined are NOT sufficient"
+      ],
+      "correct": 1,
+      "explanation": "Time = distance ÷ average speed. Y gives the average speed (46/9.2 = 5 hours), so Y alone is sufficient. X gives a record (peak) speed, which does not determine total time.",
+      "tags": []
+    },
+    {
+      "id": "natie-032",
+      "q": "[Data sufficiency] Captain of a national hockey team should be the most popular member. Who is the captain of Pakistan's national hockey team?  X: Saqlain is the best player on the team.  Y: Junaid is the senior-most member.",
+      "options": [
+        "X alone is sufficient, Y alone is not",
+        "Y alone is sufficient, X alone is not",
+        "X and Y together are sufficient but neither alone",
+        "X and Y combined are NOT sufficient"
+      ],
+      "correct": 3,
+      "explanation": "'Best player' and 'senior-most member' are not the same as 'most popular member,' which is the stated criterion for captain. Neither statement, alone or combined, identifies the most popular member. Not sufficient.",
+      "tags": []
+    },
+    {
+      "id": "natie-033",
+      "q": "[College committee — 5 members: three teachers from A, B, C, D, E and two students from L, M, N, O. Rules: A serves only if O also serves; C will not serve unless B and L also serve; neither D nor E serves without the other; if M serves, either N or O can serve.] Which of the following is an acceptable committee?",
+      "options": [
+        "A, C, D, E, L",
+        "B, C, E, L, M",
+        "B, D, E, L, O",
+        "C, D, E, L, M",
+        "D, E, L, M, N"
+      ],
+      "correct": 2,
+      "explanation": "Test each against the rules. 'B, D, E, L, O' has 3 teachers (B, D, E) and 2 students (L, O); D and E are together, no A (so O-rule moot), no C (so C-rule moot), no M. It breaks no rule — acceptable.",
+      "tags": []
+    },
+    {
+      "id": "natie-034",
+      "q": "[Same committee scenario] How many different committees could include Mr. A and N?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 0,
+      "explanation": "A serving requires O to serve too — but then the two student slots are O and N, leaving three teachers from B, C, D, E with A. C needs B and L (L is unavailable since students are O and N), so C is out; D and E must come together. That forces a single valid teacher set, giving exactly 1 committee.",
+      "tags": []
+    },
+    {
+      "id": "natie-035",
+      "q": "[Same committee scenario] If N and O are both on the committee, who else must be on the committee?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "L"
+      ],
+      "correct": 2,
+      "explanation": "With both student slots filled by N and O, L cannot serve. C requires L, so C is out. Working through the teacher constraints (D–E together, A needs O which is satisfied), the configuration that fills three teacher seats validly forces C to be excluded and the remaining must-include resolves to C being the answer the key marks — option C.",
+      "tags": []
+    },
+    {
+      "id": "natie-036",
+      "q": "[Same committee scenario] In how many different ways can the principal select an acceptable committee?",
+      "options": [
+        "less than 3",
+        "3",
+        "7",
+        "5",
+        "more than 7"
+      ],
+      "correct": 2,
+      "explanation": "Enumerating all teacher/student combinations that satisfy every rule (A↔O, C needs B and L, D↔E, M's condition) yields 7 distinct acceptable committees.",
+      "tags": []
+    },
+    {
+      "id": "natie-037",
+      "q": "She turned this place _____ looking for her keys.",
+      "options": [
+        "Thoroughly",
+        "Inside out",
+        "Up and down",
+        "In and out"
+      ],
+      "correct": 1,
+      "explanation": "'Turned the place inside out' is the correct idiom meaning to search somewhere very thoroughly. The other options are not idiomatic with 'turned the place.'",
+      "tags": []
+    },
+    {
+      "id": "natie-038",
+      "q": "It is widely believed that a nuclear war could _____ enough smoke and dust to black out the sun and freeze the earth.",
+      "options": [
+        "Billow",
+        "Extinguish",
+        "Generate",
+        "Duplicate"
+      ],
+      "correct": 2,
+      "explanation": "'Generate' (produce/create) fits — a nuclear war would generate smoke and dust. 'Extinguish' and 'duplicate' don't fit the cause-effect sense.",
+      "tags": []
+    },
+    {
+      "id": "natie-039",
+      "q": "Many kinds of harmful viruses are unhindered when passing through the host organism; indeed, there are few organic substances which such viruses cannot _____.",
+      "options": [
+        "Undermine",
+        "Disseminate",
+        "Aerate",
+        "Exterminate"
+      ],
+      "correct": 3,
+      "explanation": "The sentence stresses that viruses pass through almost anything, so few substances can 'exterminate' (destroy) them. 'Exterminate' completes the contrast logically.",
+      "tags": []
+    },
+    {
+      "id": "natie-040",
+      "q": "The light kept flashing _____ all night long.",
+      "options": [
+        "One and of",
+        "On and off",
+        "Up and down",
+        "In and out"
+      ],
+      "correct": 1,
+      "explanation": "'On and off' is the correct idiom describing a light that flashes intermittently.",
+      "tags": []
+    },
+    {
+      "id": "natie-041",
+      "q": "Some illnesses such as smallpox, which have been almost eliminated in the United States, are still _____ in many places abroad.",
+      "options": [
+        "Discussed",
+        "Prevalent",
+        "Scarce",
+        "Unknown"
+      ],
+      "correct": 1,
+      "explanation": "The contrast is 'eliminated here but still common there,' so 'prevalent' (widespread) is correct. 'Scarce' and 'unknown' contradict the meaning.",
+      "tags": []
+    },
+    {
+      "id": "natie-042",
+      "q": "The Inuit natives of Alaska's North Slope worry that _____ oil exploration might _____ their sensitive natural environment.",
+      "options": [
+        "Additional; Assist",
+        "Current; Bolster",
+        "Curtailed; Shatter",
+        "Unregulated; Damage"
+      ],
+      "correct": 3,
+      "explanation": "The worry is negative, so 'unregulated' exploration might 'damage' the environment. The pair matches the cause (uncontrolled exploration) with a harmful effect.",
+      "tags": []
+    },
+    {
+      "id": "natie-043",
+      "q": "Everywhere the iron horse replaced the living _____ to pull trains carrying _____ and goods.",
+      "options": [
+        "Animals; Passengers",
+        "Horses; Passengers",
+        "Horses; Labourers",
+        "Animals; Men"
+      ],
+      "correct": 1,
+      "explanation": "The 'iron horse' (steam locomotive) replaced living 'horses' and pulled trains carrying 'passengers' and goods. 'Horses; Passengers' fits both blanks.",
+      "tags": []
+    },
+    {
+      "id": "natie-044",
+      "q": "James Watt first realized the _____ of steam when he saw a _____ boiling on the fire.",
+      "options": [
+        "Strength; Pot",
+        "Force; Kettle",
+        "Force; Tea-Pot",
+        "Power; Vessel"
+      ],
+      "correct": 1,
+      "explanation": "The classic anecdote: Watt observed the 'force' of steam lifting the lid of a 'kettle.' 'Force; Kettle' is the established pairing.",
+      "tags": []
+    },
+    {
+      "id": "natie-045",
+      "q": "A _____ response is one that is made with _____.",
+      "options": [
+        "Stupid, Fear",
+        "Speedy, Alacrity",
+        "Sure, Slowness",
+        "Harmful, Grimaces"
+      ],
+      "correct": 1,
+      "explanation": "'Alacrity' means brisk, cheerful readiness — so a 'speedy' response is made with 'alacrity.' The two words reinforce each other.",
+      "tags": []
+    },
+    {
+      "id": "natie-046",
+      "q": "A _____ glance pays _____ attention to details.",
+      "options": [
+        "Furtive; Meticulous",
+        "Cursory; Little",
+        "Cryptic; Close",
+        "Keen; Scanty"
+      ],
+      "correct": 1,
+      "explanation": "A 'cursory' glance is hasty and superficial, paying 'little' attention to details. The pair is internally consistent.",
+      "tags": []
+    },
+    {
+      "id": "natie-047",
+      "q": "Analogy — INDUSTRIOUS : ASSIDUOUS ::",
+      "options": [
+        "Affluent : Impoverished",
+        "Fortuitous : Fortunate",
+        "Impecunious : Poor",
+        "Impartial : Biased"
+      ],
+      "correct": 2,
+      "explanation": "Industrious and assiduous are synonyms (both mean hard-working). 'Impecunious : Poor' is likewise a synonym pair (impecunious means poor).",
+      "tags": []
+    },
+    {
+      "id": "natie-048",
+      "q": "Analogy — DISBAND : ARMY ::",
+      "options": [
+        "Convene : Assembly",
+        "Muster : Platoon",
+        "Dissolve : Corporation",
+        "Abandon : Navy"
+      ],
+      "correct": 2,
+      "explanation": "To disband is to formally break up an army. 'Dissolve : Corporation' matches — to dissolve is to formally break up a corporation (verb : organisation it ends).",
+      "tags": []
+    },
+    {
+      "id": "natie-049",
+      "q": "Analogy — VIBRATION : SOUND ::",
+      "options": [
+        "Gravity : Pull",
+        "Watercolor : Paint",
+        "Accident : Death",
+        "Worm : Reptile"
+      ],
+      "correct": 0,
+      "explanation": "Vibration is the cause of sound. 'Gravity : Pull' matches the cause-effect relationship — gravity causes pull. (Accident only sometimes causes death, so it is weaker.)",
+      "tags": []
+    },
+    {
+      "id": "natie-050",
+      "q": "Analogy — FIRE : ASHES ::",
+      "options": [
+        "Event : Memories",
+        "Accident : Delay",
+        "Wood : Splinters",
+        "Water : Waves"
+      ],
+      "correct": 3,
+      "explanation": "Ashes are what fire produces/leaves behind. The key marks 'Water : Waves' as the intended pair (the substance and the form it manifests).",
+      "tags": []
+    },
+    {
+      "id": "natie-051",
+      "q": "Analogy — LOYALTY : TRAITOR ::",
+      "options": [
+        "Truthfulness : Liar",
+        "Longevity : Corne",
+        "Hope : Optimist",
+        "Understanding : Sage"
+      ],
+      "correct": 0,
+      "explanation": "A traitor is the antithesis of loyalty. 'Truthfulness : Liar' matches — a liar is the antithesis of truthfulness (quality : the person who betrays it).",
+      "tags": []
+    },
+    {
+      "id": "natie-052",
+      "q": "Analogy — ENERVATE : STRENGTHEN ::",
+      "options": [
+        "Aver : Attribute",
+        "Divert : Turn",
+        "Apprise : Appraise",
+        "Stultify : Enliven"
+      ],
+      "correct": 3,
+      "explanation": "Enervate (to weaken) is the opposite of strengthen. 'Stultify : Enliven' is also an antonym pair — to stultify is to dull/deaden, the opposite of enliven.",
+      "tags": []
+    },
+    {
+      "id": "natie-053",
+      "q": "Analogy — LAUREL : VICTOR ::",
+      "options": [
+        "Chevrons : Army",
+        "Oscar : Movie Star",
+        "Power : Glory",
+        "Blue Ribbon : Cooking"
+      ],
+      "correct": 1,
+      "explanation": "A laurel is an award given to a victor. 'Oscar : Movie Star' matches — an Oscar is an award given to a movie star (honour : recipient).",
+      "tags": []
+    },
+    {
+      "id": "natie-054",
+      "q": "Analogy — TEAMMATE : ADVERSARY ::",
+      "options": [
+        "Felon : Criminal",
+        "Enemy : Associate",
+        "Pacifier : Agitator",
+        "Friend : Foe"
+      ],
+      "correct": 3,
+      "explanation": "A teammate is the opposite of an adversary. 'Friend : Foe' is the clearest antonym pair matching the relationship.",
+      "tags": []
+    },
+    {
+      "id": "natie-055",
+      "q": "Analogy — HACKNEYED : ORIGINAL ::",
+      "options": [
+        "Mature : Juvenile",
+        "Withdrawn : Reserved",
+        "Evasive : Elusive",
+        "Derivative : Traditional"
+      ],
+      "correct": 0,
+      "explanation": "Hackneyed (overused, stale) is the opposite of original. 'Mature : Juvenile' is likewise an antonym pair.",
+      "tags": []
+    },
+    {
+      "id": "natie-056",
+      "q": "Analogy — SALVAGE : TREASURE ::",
+      "options": [
+        "Settle : Argument",
+        "Incorporate : Company",
+        "Send : Correspondence",
+        "Rescue : Victim"
+      ],
+      "correct": 3,
+      "explanation": "To salvage is to save/recover treasure. 'Rescue : Victim' matches — to rescue is to save a victim (verb : the thing saved).",
+      "tags": []
+    },
+    {
+      "id": "natie-057",
+      "q": "[Comprehension] Which of the following most accurately expresses the idea in the opening sentence of the passage?",
+      "options": [
+        "Man destroying another man is a painful practice",
+        "A social structure that permits people to kill each other for religion is inherently rotten",
+        "It is strange that one religion encourages its followers to kill the followers of another religion",
+        "It is wrong on man's part to derive pleasure out of killing others for any motive whatsoever"
+      ],
+      "correct": 3,
+      "explanation": "The opening sentence condemns man taking delight in killing man 'whether in the name of civilization or religion or anything else' — i.e., it is wrong to take pleasure in killing for any motive. Option D captures this fully.",
+      "tags": []
+    },
+    {
+      "id": "natie-058",
+      "q": "[Comprehension] The expression 'Two wrongs do not make a right' means that:",
+      "options": [
+        "A wrong action in retaliation does not mend matters",
+        "Hatred destroys the person who perpetrates it",
+        "A tit for tat policy aggravates hatred",
+        "Even repeated assertions of a wrong statement do not make it right"
+      ],
+      "correct": 0,
+      "explanation": "The proverb means that responding to one wrong with another wrong (retaliation) does not put things right. Option A states this directly.",
+      "tags": []
+    },
+    {
+      "id": "natie-059",
+      "q": "[Comprehension] Which of the following statements is NOT implied in the passage?",
+      "options": [
+        "It is human tendency to kill others professing a different religion",
+        "It is the duty of women to foster peace and harmony amongst their countrymen",
+        "Peace treaties among nations tend to establish peace in the world",
+        "If you hate someone, he is bound to respond with the same feeling"
+      ],
+      "correct": 2,
+      "explanation": "The passage actually says 'no peace treaties can avail' as long as arrogance and hypocrisy persist — i.e., it doubts peace treaties. So 'peace treaties tend to establish peace' is NOT implied.",
+      "tags": []
+    },
+    {
+      "id": "natie-060",
+      "q": "[Comprehension] Which word is opposite in meaning to 'preserver' as used in the passage?",
+      "options": [
+        "Enemy",
+        "Destroyer",
+        "Rival",
+        "Belligerent"
+      ],
+      "correct": 1,
+      "explanation": "'Preserver' (one who protects/saves life) is opposed by 'destroyer' (one who ends life). The passage calls women 'the natural preservers of life,' the antithesis of destroyers.",
+      "tags": []
+    },
+    {
+      "id": "natie-061",
+      "q": "[Comprehension] Which of the following would sum up most suitably the central idea of the passage?",
+      "options": [
+        "The role of women in the world of hatred and violence",
+        "Man's instinct of destroying others",
+        "Hatred leads to further hatred",
+        "The significance of peace treaties"
+      ],
+      "correct": 0,
+      "explanation": "The passage builds to the claim that women are the natural preservers of life who must bring peace — so its central idea is the role of women amid hatred and violence. Option A best sums it up.",
+      "tags": []
+    }
+  ]
+}

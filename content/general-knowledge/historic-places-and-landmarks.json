@@ -1,0 +1,1727 @@
+{
+  "topic_id": "historic-places-and-landmarks",
+  "topic_name": "Historic Places & Landmarks",
+  "subject": "general-knowledge",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Historic Places & Landmarks MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "histor-001",
+      "q": "The official residence of the Pope is in:",
+      "options": [
+        "Vatican City",
+        "Rome (Italy)",
+        "Athens",
+        "Lisbon"
+      ],
+      "correct": 0,
+      "explanation": "The Pope resides in Vatican City, the smallest sovereign state in the world (0.44 km²), enclaved within Rome, Italy.",
+      "tags": []
+    },
+    {
+      "id": "histor-002",
+      "q": "The International Rice Research Institute (IRRI) is located in:",
+      "options": [
+        "Indonesia",
+        "Philippines",
+        "Thailand",
+        "Vietnam"
+      ],
+      "correct": 1,
+      "explanation": "IRRI is headquartered in Los Baños, Philippines.",
+      "tags": []
+    },
+    {
+      "id": "histor-003",
+      "q": "With which activity is Wall Street in New York, USA associated?",
+      "options": [
+        "Banking and Finance",
+        "Fashion",
+        "Film",
+        "Politics"
+      ],
+      "correct": 0,
+      "explanation": "Wall Street in lower Manhattan is the global hub of banking and finance (NYSE, Federal Reserve).",
+      "tags": []
+    },
+    {
+      "id": "histor-004",
+      "q": "Where is &#x27;Élysée Palace&#x27;?",
+      "options": [
+        "France",
+        "Belgium",
+        "Germany",
+        "Italy"
+      ],
+      "correct": 0,
+      "explanation": "The Élysée Palace in Paris is the official residence of the President of France.",
+      "tags": []
+    },
+    {
+      "id": "histor-005",
+      "q": "The famous &#x27;Eiffel Tower&#x27; is in:",
+      "options": [
+        "Paris",
+        "London",
+        "Rome",
+        "Berlin"
+      ],
+      "correct": 0,
+      "explanation": "The Eiffel Tower (1889) is in Paris, France — designed by Gustave Eiffel.",
+      "tags": []
+    },
+    {
+      "id": "histor-006",
+      "q": "&#x27;Niagara Falls&#x27; is in:",
+      "options": [
+        "South America",
+        "North America",
+        "Africa",
+        "Asia"
+      ],
+      "correct": 1,
+      "explanation": "Niagara Falls is on the border between the USA (New York) and Canada (Ontario) — in North America.",
+      "tags": []
+    },
+    {
+      "id": "histor-007",
+      "q": "The Pentagon is:",
+      "options": [
+        "A large building housing the USA Defence Ministry",
+        "A US Treasury building",
+        "A NASA facility",
+        "A presidential retreat"
+      ],
+      "correct": 0,
+      "explanation": "The Pentagon, in Arlington, Virginia, is the headquarters of the US Department of Defense.",
+      "tags": []
+    },
+    {
+      "id": "histor-008",
+      "q": "&#x27;Golan Heights&#x27; belongs to:",
+      "options": [
+        "Syria",
+        "Israel",
+        "Jordan",
+        "Lebanon"
+      ],
+      "correct": 0,
+      "explanation": "Golan Heights is internationally recognised as Syrian territory, though largely occupied by Israel since 1967.",
+      "tags": []
+    },
+    {
+      "id": "histor-009",
+      "q": "&#x27;Waterloo&#x27; is located in:",
+      "options": [
+        "Belgium",
+        "France",
+        "Germany",
+        "Netherlands"
+      ],
+      "correct": 0,
+      "explanation": "Waterloo is in Belgium — site of Napoleon&#x27;s defeat in 1815.",
+      "tags": []
+    },
+    {
+      "id": "histor-010",
+      "q": "Where is the &#x27;Leaning Tower of Pisa&#x27; situated?",
+      "options": [
+        "Italy",
+        "France",
+        "Spain",
+        "Greece"
+      ],
+      "correct": 0,
+      "explanation": "The Leaning Tower of Pisa is in Pisa, Italy.",
+      "tags": []
+    },
+    {
+      "id": "histor-011",
+      "q": "The &#x27;Yellowstone National Park&#x27; is in:",
+      "options": [
+        "US",
+        "Canada",
+        "Russia",
+        "Brazil"
+      ],
+      "correct": 0,
+      "explanation": "Yellowstone, the world&#x27;s first national park (1872), is in the USA (mostly Wyoming).",
+      "tags": []
+    },
+    {
+      "id": "histor-012",
+      "q": "&#x27;Tiananmen Square&#x27; is located in which country?",
+      "options": [
+        "China",
+        "Japan",
+        "South Korea",
+        "Vietnam"
+      ],
+      "correct": 0,
+      "explanation": "Tiananmen Square is in central Beijing, China.",
+      "tags": []
+    },
+    {
+      "id": "histor-013",
+      "q": "&#x27;Statue of Liberty&#x27; is situated in:",
+      "options": [
+        "New York",
+        "Washington D.C.",
+        "Boston",
+        "Chicago"
+      ],
+      "correct": 0,
+      "explanation": "The Statue of Liberty stands on Liberty Island in New York Harbor.",
+      "tags": []
+    },
+    {
+      "id": "histor-014",
+      "q": "&#x27;Bethlehem&#x27; is associated with:",
+      "options": [
+        "Jesus Christ",
+        "Prophet Muhammad",
+        "Moses",
+        "Abraham"
+      ],
+      "correct": 0,
+      "explanation": "Bethlehem in Palestine is revered as the birthplace of Jesus Christ.",
+      "tags": []
+    },
+    {
+      "id": "histor-015",
+      "q": "&#x27;Wimbledon&#x27;, known for tennis, is in:",
+      "options": [
+        "London",
+        "Paris",
+        "New York",
+        "Sydney"
+      ],
+      "correct": 0,
+      "explanation": "Wimbledon, in southwest London, hosts The Championships — the oldest Grand Slam tennis tournament.",
+      "tags": []
+    },
+    {
+      "id": "histor-016",
+      "q": "What is the principal official residence of the British monarch in London?",
+      "options": [
+        "Buckingham Palace",
+        "Windsor Castle",
+        "Kensington Palace",
+        "Sandringham House"
+      ],
+      "correct": 0,
+      "explanation": "Buckingham Palace in London is the official London residence of the British monarch.",
+      "tags": []
+    },
+    {
+      "id": "histor-017",
+      "q": "What is the oldest and largest continuously inhabited castle in the world, used by the British monarch?",
+      "options": [
+        "Buckingham Palace",
+        "Windsor Castle",
+        "Balmoral Castle",
+        "Sandringham House"
+      ],
+      "correct": 1,
+      "explanation": "Windsor Castle (~900 years old) is the oldest and largest continuously inhabited castle in the world.",
+      "tags": []
+    },
+    {
+      "id": "histor-018",
+      "q": "Which is the private country estate and winter retreat of the British royal family?",
+      "options": [
+        "Windsor Castle",
+        "Balmoral Castle",
+        "Sandringham House",
+        "Hampton Court"
+      ],
+      "correct": 2,
+      "explanation": "Sandringham House in Norfolk is the British royal family&#x27;s private country estate and winter retreat.",
+      "tags": []
+    },
+    {
+      "id": "histor-019",
+      "q": "Castle of Laeken in Brussels is the official residence of the King of which country?",
+      "options": [
+        "Belgium",
+        "Netherlands",
+        "Luxembourg",
+        "Germany"
+      ],
+      "correct": 0,
+      "explanation": "The Castle of Laeken in Brussels is the official residence of the King of the Belgians.",
+      "tags": []
+    },
+    {
+      "id": "histor-020",
+      "q": "The ceremonial residence of the King of Spain is:",
+      "options": [
+        "Royal Palace of Madrid",
+        "La Moncloa",
+        "Alhambra",
+        "El Escorial"
+      ],
+      "correct": 0,
+      "explanation": "The Royal Palace of Madrid is the official/ceremonial residence of the King of Spain.",
+      "tags": []
+    },
+    {
+      "id": "histor-021",
+      "q": "Amalienborg Palace in Copenhagen is the official residence of the royal family of:",
+      "options": [
+        "Sweden",
+        "Denmark",
+        "Norway",
+        "Finland"
+      ],
+      "correct": 1,
+      "explanation": "Amalienborg Palace in Copenhagen is the official residence of the Danish royal family.",
+      "tags": []
+    },
+    {
+      "id": "histor-022",
+      "q": "Where is the official residence of the King of Sweden located?",
+      "options": [
+        "Oslo",
+        "Copenhagen",
+        "Stockholm",
+        "Helsinki"
+      ],
+      "correct": 2,
+      "explanation": "The Royal Palace of Stockholm is the official residence of the King of Sweden.",
+      "tags": []
+    },
+    {
+      "id": "histor-023",
+      "q": "The Royal Palace in Oslo is the official residence of the King of:",
+      "options": [
+        "Sweden",
+        "Denmark",
+        "Norway",
+        "Finland"
+      ],
+      "correct": 2,
+      "explanation": "The Royal Palace in Oslo is the official residence of the King of Norway.",
+      "tags": []
+    },
+    {
+      "id": "histor-024",
+      "q": "The Imperial Palace (Kōkyo) in Tokyo is the official residence of:",
+      "options": [
+        "Emperor of Japan",
+        "Prime Minister of Japan",
+        "Shogun",
+        "Diet Speaker"
+      ],
+      "correct": 0,
+      "explanation": "The Imperial Palace (Kōkyo) in Tokyo is the residence of the Emperor of Japan.",
+      "tags": []
+    },
+    {
+      "id": "histor-025",
+      "q": "Istana Negara in Kuala Lumpur is the official residence of the King of:",
+      "options": [
+        "Indonesia",
+        "Malaysia",
+        "Brunei",
+        "Thailand"
+      ],
+      "correct": 1,
+      "explanation": "Istana Negara in Kuala Lumpur is the official residence of the King (Yang di-Pertuan Agong) of Malaysia.",
+      "tags": []
+    },
+    {
+      "id": "histor-026",
+      "q": "Istana Nurul Iman in Bandar Seri Begawan is the residence of:",
+      "options": [
+        "Sultan of Brunei",
+        "Sultan of Oman",
+        "King of Malaysia",
+        "King of Saudi Arabia"
+      ],
+      "correct": 0,
+      "explanation": "Istana Nurul Iman is the residence of the Sultan of Brunei — the world&#x27;s largest residential palace.",
+      "tags": []
+    },
+    {
+      "id": "histor-027",
+      "q": "Basman Palace in Amman is the royal residence of the King of:",
+      "options": [
+        "Saudi Arabia",
+        "Jordan",
+        "UAE",
+        "Oman"
+      ],
+      "correct": 1,
+      "explanation": "Basman Palace in Amman is the royal residence of the King of Jordan.",
+      "tags": []
+    },
+    {
+      "id": "histor-028",
+      "q": "Al Alam Palace in Muscat is the ceremonial palace of the Sultan of:",
+      "options": [
+        "Oman",
+        "Bahrain",
+        "Qatar",
+        "UAE"
+      ],
+      "correct": 0,
+      "explanation": "Al Alam Palace in Muscat is the ceremonial palace of the Sultan of Oman.",
+      "tags": []
+    },
+    {
+      "id": "histor-029",
+      "q": "Al-Yamamah Palace in Riyadh is the official residence and executive headquarters of the King of:",
+      "options": [
+        "UAE",
+        "Saudi Arabia",
+        "Bahrain",
+        "Kuwait"
+      ],
+      "correct": 1,
+      "explanation": "Al-Yamamah Palace in Riyadh is the official residence and executive HQ of the King of Saudi Arabia.",
+      "tags": []
+    },
+    {
+      "id": "histor-030",
+      "q": "The primary workplace and official residence of the US President is:",
+      "options": [
+        "The White House",
+        "Camp David",
+        "The Pentagon",
+        "The Capitol"
+      ],
+      "correct": 0,
+      "explanation": "The White House at 1600 Pennsylvania Avenue NW, Washington D.C. is the President&#x27;s residence and primary workplace.",
+      "tags": []
+    },
+    {
+      "id": "histor-031",
+      "q": "The Grand Kremlin Palace in Moscow is the official residence of the President of:",
+      "options": [
+        "Belarus",
+        "Russia",
+        "Ukraine",
+        "Kazakhstan"
+      ],
+      "correct": 1,
+      "explanation": "The Grand Kremlin Palace in Moscow is the official residence of the President of Russia.",
+      "tags": []
+    },
+    {
+      "id": "histor-032",
+      "q": "The Élysée Palace in Paris is the official residence and office of the President of:",
+      "options": [
+        "France",
+        "Belgium",
+        "Switzerland",
+        "Monaco"
+      ],
+      "correct": 0,
+      "explanation": "The Élysée Palace in Paris has been the official residence of the President of France since 1848.",
+      "tags": []
+    },
+    {
+      "id": "histor-033",
+      "q": "Rashtrapati Bhavan in New Delhi is the official residence of the President of:",
+      "options": [
+        "India",
+        "Bangladesh",
+        "Sri Lanka",
+        "Nepal"
+      ],
+      "correct": 0,
+      "explanation": "Rashtrapati Bhavan in New Delhi is the official residence of the President of India.",
+      "tags": []
+    },
+    {
+      "id": "histor-034",
+      "q": "Aiwan-e-Sadr in Islamabad is the official residence of the President of:",
+      "options": [
+        "India",
+        "Pakistan",
+        "Bangladesh",
+        "Afghanistan"
+      ],
+      "correct": 1,
+      "explanation": "Aiwan-e-Sadr in Islamabad is the official residence and workplace of the President of Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "histor-035",
+      "q": "State House in Nairobi is the official residence of the President of:",
+      "options": [
+        "Tanzania",
+        "Uganda",
+        "Kenya",
+        "Ethiopia"
+      ],
+      "correct": 2,
+      "explanation": "State House in Nairobi is the official residence of the President of Kenya.",
+      "tags": []
+    },
+    {
+      "id": "histor-036",
+      "q": "Union Buildings in Pretoria is the seat and office complex of the President of:",
+      "options": [
+        "Namibia",
+        "Botswana",
+        "Zimbabwe",
+        "South Africa"
+      ],
+      "correct": 3,
+      "explanation": "Union Buildings in Pretoria is the seat of the South African government and office of the President.",
+      "tags": []
+    },
+    {
+      "id": "histor-037",
+      "q": "Akorda Presidential Palace in Astana is the official residence of the President of:",
+      "options": [
+        "Uzbekistan",
+        "Kazakhstan",
+        "Kyrgyzstan",
+        "Turkmenistan"
+      ],
+      "correct": 1,
+      "explanation": "The Akorda Presidential Palace in Astana is the official residence of the President of Kazakhstan.",
+      "tags": []
+    },
+    {
+      "id": "histor-038",
+      "q": "Palácio da Alvorada in Brasília is the official residence of the President of:",
+      "options": [
+        "Argentina",
+        "Brazil",
+        "Chile",
+        "Peru"
+      ],
+      "correct": 1,
+      "explanation": "Palácio da Alvorada in Brasília is the official residence of the President of Brazil.",
+      "tags": []
+    },
+    {
+      "id": "histor-039",
+      "q": "Jubilee House in Accra is the official presidential residence of:",
+      "options": [
+        "Nigeria",
+        "Senegal",
+        "Ghana",
+        "Ivory Coast"
+      ],
+      "correct": 2,
+      "explanation": "Jubilee House in Accra is the official residence of the President of Ghana.",
+      "tags": []
+    },
+    {
+      "id": "histor-040",
+      "q": "Quirinal Palace in Rome is the official residence of the President of:",
+      "options": [
+        "Italy",
+        "Vatican",
+        "San Marino",
+        "Spain"
+      ],
+      "correct": 0,
+      "explanation": "Quirinal Palace in Rome has been the official residence of the President of Italy since 1946.",
+      "tags": []
+    },
+    {
+      "id": "histor-041",
+      "q": "Palácio de Belém in Lisbon is the official residence of the President of:",
+      "options": [
+        "Brazil",
+        "Spain",
+        "Portugal",
+        "Mexico"
+      ],
+      "correct": 2,
+      "explanation": "Palácio de Belém in Lisbon is the official residence of the President of Portugal.",
+      "tags": []
+    },
+    {
+      "id": "histor-042",
+      "q": "President&#x27;s House (Janadhipathi Mandiraya) in Colombo is the official residence of the President of:",
+      "options": [
+        "India",
+        "Bangladesh",
+        "Sri Lanka",
+        "Maldives"
+      ],
+      "correct": 2,
+      "explanation": "Janadhipathi Mandiraya (President&#x27;s House) in Colombo is the official residence of the President of Sri Lanka.",
+      "tags": []
+    },
+    {
+      "id": "histor-043",
+      "q": "What is the official postal address of the White House?",
+      "options": [
+        "1600 Pennsylvania Avenue NW",
+        "1 Capitol Hill",
+        "One Liberty Plaza",
+        "100 Constitution Avenue"
+      ],
+      "correct": 0,
+      "explanation": "The White House is located at 1600 Pennsylvania Avenue NW, Washington D.C.",
+      "tags": []
+    },
+    {
+      "id": "histor-044",
+      "q": "The main executive working office of the US President is known as:",
+      "options": [
+        "The Oval Office",
+        "The Cabinet Room",
+        "The Situation Room",
+        "The West Wing"
+      ],
+      "correct": 0,
+      "explanation": "The Oval Office in the West Wing of the White House is the primary working office of the US President.",
+      "tags": []
+    },
+    {
+      "id": "histor-045",
+      "q": "Which location in Maryland (USA) serves as the President&#x27;s official private retreat?",
+      "options": [
+        "Camp David",
+        "Mount Vernon",
+        "Hyannis Port",
+        "Kennebunkport"
+      ],
+      "correct": 0,
+      "explanation": "Camp David in Maryland is the country retreat of the US President.",
+      "tags": []
+    },
+    {
+      "id": "histor-046",
+      "q": "What is the headquarters of the US Department of Defense in Arlington, Virginia?",
+      "options": [
+        "The Pentagon",
+        "The White House",
+        "The Capitol",
+        "The Hexagon"
+      ],
+      "correct": 0,
+      "explanation": "The Pentagon in Arlington, Virginia is the HQ of the US Department of Defense.",
+      "tags": []
+    },
+    {
+      "id": "histor-047",
+      "q": "10 Downing Street in London is the official residence of the British:",
+      "options": [
+        "Monarch",
+        "Prime Minister",
+        "Foreign Secretary",
+        "Lord Chancellor"
+      ],
+      "correct": 1,
+      "explanation": "10 Downing Street has been the official residence of the British Prime Minister since 1735.",
+      "tags": []
+    },
+    {
+      "id": "histor-048",
+      "q": "7 Lok Kalyan Marg in New Delhi is the official residence of the Prime Minister of:",
+      "options": [
+        "Pakistan",
+        "India",
+        "Bangladesh",
+        "Sri Lanka"
+      ],
+      "correct": 1,
+      "explanation": "7 Lok Kalyan Marg (formerly 7 Race Course Road) is the official residence of the Prime Minister of India.",
+      "tags": []
+    },
+    {
+      "id": "histor-049",
+      "q": "The Prime Minister&#x27;s House in Islamabad is the official residence of the Prime Minister of:",
+      "options": [
+        "India",
+        "Pakistan",
+        "Bangladesh",
+        "Afghanistan"
+      ],
+      "correct": 1,
+      "explanation": "The Prime Minister&#x27;s House in Islamabad is the official residence of the PM of Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "histor-050",
+      "q": "La Moncloa Palace in Madrid is the official residence of the Prime Minister of:",
+      "options": [
+        "Spain",
+        "Portugal",
+        "Italy",
+        "France"
+      ],
+      "correct": 0,
+      "explanation": "Palacio de la Moncloa in Madrid is the official residence of the PM of Spain.",
+      "tags": []
+    },
+    {
+      "id": "histor-051",
+      "q": "Temple Trees in Colombo is the official residence of the Prime Minister of:",
+      "options": [
+        "India",
+        "Pakistan",
+        "Sri Lanka",
+        "Bangladesh"
+      ],
+      "correct": 2,
+      "explanation": "Temple Trees is the official residence of the Prime Minister of Sri Lanka.",
+      "tags": []
+    },
+    {
+      "id": "histor-052",
+      "q": "Kantei in Tokyo is the official residence of the Prime Minister of:",
+      "options": [
+        "China",
+        "Japan",
+        "South Korea",
+        "Mongolia"
+      ],
+      "correct": 1,
+      "explanation": "Kantei (Sōri Daijin Kantei) in Tokyo is the official residence of the Prime Minister of Japan.",
+      "tags": []
+    },
+    {
+      "id": "histor-053",
+      "q": "Blair House in Washington D.C. serves as the official guest residence for:",
+      "options": [
+        "Foreign state visitors",
+        "US Cabinet members",
+        "Senators",
+        "Supreme Court Justices"
+      ],
+      "correct": 0,
+      "explanation": "Blair House in Washington D.C. is the President&#x27;s official guesthouse for visiting foreign heads of state.",
+      "tags": []
+    },
+    {
+      "id": "histor-054",
+      "q": "Akasaka Palace in Tokyo is Japan&#x27;s state guest house for:",
+      "options": [
+        "Domestic ministers",
+        "Official international delegations",
+        "Royal family events",
+        "Imperial coronations"
+      ],
+      "correct": 1,
+      "explanation": "Akasaka Palace is Japan&#x27;s state guest house for official international delegations.",
+      "tags": []
+    },
+    {
+      "id": "histor-055",
+      "q": "El Pardo Palace in Madrid is the Spanish state guest residence for:",
+      "options": [
+        "Visiting dignitaries",
+        "Spanish royalty",
+        "Cabinet retreats",
+        "Diplomatic conferences"
+      ],
+      "correct": 0,
+      "explanation": "El Pardo Palace in Madrid is the official guesthouse for visiting heads of state to Spain.",
+      "tags": []
+    },
+    {
+      "id": "histor-056",
+      "q": "The Palace of Nations in Geneva is the European headquarters of:",
+      "options": [
+        "The United Nations",
+        "NATO",
+        "WTO",
+        "World Bank"
+      ],
+      "correct": 0,
+      "explanation": "The Palace of Nations (Palais des Nations) in Geneva is the European headquarters of the United Nations.",
+      "tags": []
+    },
+    {
+      "id": "histor-057",
+      "q": "Topkapi Palace in Istanbul is the former imperial residence of the:",
+      "options": [
+        "Roman Emperors",
+        "Ottoman Sultans",
+        "Byzantine Emperors",
+        "Seljuk Sultans"
+      ],
+      "correct": 1,
+      "explanation": "Topkapi Palace in Istanbul was the imperial residence of the Ottoman Sultans for about 400 years.",
+      "tags": []
+    },
+    {
+      "id": "histor-058",
+      "q": "The Blue House (Cheong Wa Dae) in Seoul was the former presidential residence of:",
+      "options": [
+        "North Korea",
+        "South Korea",
+        "Japan",
+        "Mongolia"
+      ],
+      "correct": 1,
+      "explanation": "The Blue House (Cheong Wa Dae) was the official residence of the President of South Korea (until 2022).",
+      "tags": []
+    },
+    {
+      "id": "histor-059",
+      "q": "The Space Needle is an iconic landmark located in which US city?",
+      "options": [
+        "New York",
+        "Seattle, Washington",
+        "Chicago",
+        "San Francisco"
+      ],
+      "correct": 1,
+      "explanation": "The Space Needle (1962) is in Seattle, Washington.",
+      "tags": []
+    },
+    {
+      "id": "histor-060",
+      "q": "Which city in Italy is known as the Cradle of the Renaissance?",
+      "options": [
+        "Rome",
+        "Florence",
+        "Venice",
+        "Milan"
+      ],
+      "correct": 1,
+      "explanation": "Florence (Firenze) in Tuscany is known as the Cradle of the Renaissance.",
+      "tags": []
+    },
+    {
+      "id": "histor-061",
+      "q": "Venice, in Italy, is famously known as the:",
+      "options": [
+        "City of Lights",
+        "City of Canals",
+        "Eternal City",
+        "City of Spires"
+      ],
+      "correct": 1,
+      "explanation": "Venice is known as the City of Canals — built on 118 small islands in the Venetian Lagoon.",
+      "tags": []
+    },
+    {
+      "id": "histor-062",
+      "q": "Kirkuk, located in Iraq, is famous for its:",
+      "options": [
+        "Oil fields",
+        "Agriculture",
+        "Textile industry",
+        "Steel works"
+      ],
+      "correct": 0,
+      "explanation": "Kirkuk in northern Iraq is famous for its rich oil fields.",
+      "tags": []
+    },
+    {
+      "id": "histor-063",
+      "q": "Machu Picchu, the ancient Incan city, is located in:",
+      "options": [
+        "Peru",
+        "Bolivia",
+        "Ecuador",
+        "Chile"
+      ],
+      "correct": 0,
+      "explanation": "Machu Picchu, the 15th-century Inca citadel, is in the Andes of Peru.",
+      "tags": []
+    },
+    {
+      "id": "histor-064",
+      "q": "Moseley Road Baths are historic public baths located in which country?",
+      "options": [
+        "United Kingdom",
+        "Ireland",
+        "Canada",
+        "Australia"
+      ],
+      "correct": 0,
+      "explanation": "Moseley Road Baths in Birmingham, UK are Grade II* listed Edwardian public baths.",
+      "tags": []
+    },
+    {
+      "id": "histor-065",
+      "q": "The Brandenburg Gate, a symbol of unity and freedom, is located in:",
+      "options": [
+        "Berlin, Germany",
+        "Munich",
+        "Vienna",
+        "Frankfurt"
+      ],
+      "correct": 0,
+      "explanation": "The Brandenburg Gate (1791) is in Berlin — a symbol of German unity after the fall of the Berlin Wall.",
+      "tags": []
+    },
+    {
+      "id": "histor-066",
+      "q": "Canton is the historical name for which major commercial city in China?",
+      "options": [
+        "Beijing",
+        "Shanghai",
+        "Guangzhou",
+        "Shenzhen"
+      ],
+      "correct": 2,
+      "explanation": "Canton is the historical Western name for Guangzhou, a major commercial port in southern China.",
+      "tags": []
+    },
+    {
+      "id": "histor-067",
+      "q": "Wentworth Woodhouse is a grand historic estate located in:",
+      "options": [
+        "South Yorkshire, England",
+        "Edinburgh, Scotland",
+        "Dublin, Ireland",
+        "Cardiff, Wales"
+      ],
+      "correct": 0,
+      "explanation": "Wentworth Woodhouse, with the longest country-house façade in Europe, is in South Yorkshire, England.",
+      "tags": []
+    },
+    {
+      "id": "histor-068",
+      "q": "Sharjah, known for its Islamic architecture and culture, is one of the seven emirates of:",
+      "options": [
+        "The UAE",
+        "Oman",
+        "Saudi Arabia",
+        "Qatar"
+      ],
+      "correct": 0,
+      "explanation": "Sharjah is one of the 7 emirates of the United Arab Emirates (UAE).",
+      "tags": []
+    },
+    {
+      "id": "histor-069",
+      "q": "Bradlaugh Hall, a pre-partition political landmark, is located in:",
+      "options": [
+        "Karachi",
+        "Delhi",
+        "Lahore, Pakistan",
+        "Mumbai"
+      ],
+      "correct": 2,
+      "explanation": "Bradlaugh Hall (1900) in Lahore was a key venue for pre-partition political meetings.",
+      "tags": []
+    },
+    {
+      "id": "histor-070",
+      "q": "Gaza, a historic and contested city, is located in:",
+      "options": [
+        "Palestine",
+        "Egypt",
+        "Israel",
+        "Jordan"
+      ],
+      "correct": 0,
+      "explanation": "The Gaza Strip is a Palestinian territory along the Mediterranean coast.",
+      "tags": []
+    },
+    {
+      "id": "histor-071",
+      "q": "Greenwich, part of London, is world-famous for:",
+      "options": [
+        "The Prime Meridian and GMT",
+        "Stock Exchange",
+        "Royal Mint",
+        "Big Ben"
+      ],
+      "correct": 0,
+      "explanation": "Greenwich is the location of the Royal Observatory — defining the Prime Meridian (0°) and Greenwich Mean Time (GMT).",
+      "tags": []
+    },
+    {
+      "id": "histor-072",
+      "q": "Greater Iqbal Park is located near Minar-e-Pakistan in which city?",
+      "options": [
+        "Islamabad",
+        "Karachi",
+        "Lahore, Pakistan",
+        "Rawalpindi"
+      ],
+      "correct": 2,
+      "explanation": "Greater Iqbal Park surrounds Minar-e-Pakistan in Lahore, Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "histor-073",
+      "q": "Shukhov Tower is an engineering marvel located in:",
+      "options": [
+        "Moscow, Russia",
+        "St Petersburg",
+        "Kyiv",
+        "Minsk"
+      ],
+      "correct": 0,
+      "explanation": "The Shukhov Tower (1922) in Moscow is a 160 m hyperboloid steel structure.",
+      "tags": []
+    },
+    {
+      "id": "histor-074",
+      "q": "FIFA House, the global headquarters of FIFA, is located in:",
+      "options": [
+        "Madrid",
+        "Zurich, Switzerland",
+        "Frankfurt",
+        "London"
+      ],
+      "correct": 1,
+      "explanation": "FIFA House (the Home of FIFA) is in Zurich, Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "histor-075",
+      "q": "Vyborg is a historic city near the Finnish border located in:",
+      "options": [
+        "Finland",
+        "Russia",
+        "Estonia",
+        "Sweden"
+      ],
+      "correct": 1,
+      "explanation": "Vyborg is a Russian city in Leningrad Oblast, close to the Finnish border.",
+      "tags": []
+    },
+    {
+      "id": "histor-076",
+      "q": "Sagrada Família is a world-renowned basilica designed by Antoni Gaudí located in:",
+      "options": [
+        "Madrid",
+        "Barcelona, Spain",
+        "Lisbon",
+        "Seville"
+      ],
+      "correct": 1,
+      "explanation": "Sagrada Família, designed by Antoni Gaudí, is in Barcelona, Spain.",
+      "tags": []
+    },
+    {
+      "id": "histor-077",
+      "q": "The Great Rift Valley stretches mainly through which region?",
+      "options": [
+        "East Africa",
+        "South America",
+        "Central Asia",
+        "Middle East"
+      ],
+      "correct": 0,
+      "explanation": "The Great Rift Valley stretches ~7,000 km from Lebanon down through East Africa.",
+      "tags": []
+    },
+    {
+      "id": "histor-078",
+      "q": "Mount Eden Crater is a volcanic cone located in:",
+      "options": [
+        "Sydney",
+        "Auckland, New Zealand",
+        "Wellington",
+        "Melbourne"
+      ],
+      "correct": 1,
+      "explanation": "Mount Eden is a volcanic crater in Auckland, New Zealand.",
+      "tags": []
+    },
+    {
+      "id": "histor-079",
+      "q": "Sudbury in Ontario, Canada, is famous for its:",
+      "options": [
+        "Diamond mines",
+        "Nickel mines",
+        "Gold mines",
+        "Coal mines"
+      ],
+      "correct": 1,
+      "explanation": "Sudbury, Ontario is the world&#x27;s leading source of nickel.",
+      "tags": []
+    },
+    {
+      "id": "histor-080",
+      "q": "St Helena is famous as the island where which historical figure was exiled?",
+      "options": [
+        "Napoleon Bonaparte",
+        "Captain Cook",
+        "Henry VIII",
+        "Alexander the Great"
+      ],
+      "correct": 0,
+      "explanation": "Napoleon Bonaparte was exiled to St Helena, where he died in 1821.",
+      "tags": []
+    },
+    {
+      "id": "histor-081",
+      "q": "Gettysburg (USA) is known for a decisive battle in 1863 during the:",
+      "options": [
+        "War of Independence",
+        "Civil War",
+        "Mexican War",
+        "World War I"
+      ],
+      "correct": 1,
+      "explanation": "The Battle of Gettysburg (1-3 July 1863) was a turning point of the American Civil War.",
+      "tags": []
+    },
+    {
+      "id": "histor-082",
+      "q": "Cape Canaveral (Florida, USA), formerly Cape Kennedy, is primarily known as a:",
+      "options": [
+        "Naval base",
+        "NASA launch center",
+        "Tourist resort",
+        "Customs port"
+      ],
+      "correct": 1,
+      "explanation": "Cape Canaveral is the principal launch site for NASA crewed and uncrewed missions.",
+      "tags": []
+    },
+    {
+      "id": "histor-083",
+      "q": "Epsom (England) is famous for what kind of event?",
+      "options": [
+        "Cricket Ashes",
+        "Derby horse race",
+        "FA Cup Final",
+        "Golf Open"
+      ],
+      "correct": 1,
+      "explanation": "Epsom Downs in Surrey, England hosts The Derby — the most prestigious flat horse race in the UK.",
+      "tags": []
+    },
+    {
+      "id": "histor-084",
+      "q": "Which city was the first targeted by an atomic bomb in 1945?",
+      "options": [
+        "Nagasaki",
+        "Hiroshima, Japan",
+        "Tokyo",
+        "Osaka"
+      ],
+      "correct": 1,
+      "explanation": "Hiroshima was the first city ever targeted by an atomic bomb — 6 August 1945.",
+      "tags": []
+    },
+    {
+      "id": "histor-085",
+      "q": "Kew Gardens (Royal Botanic Gardens) are a UNESCO World Heritage Site located in:",
+      "options": [
+        "London, UK",
+        "Paris",
+        "New York",
+        "Berlin"
+      ],
+      "correct": 0,
+      "explanation": "Kew Gardens (Royal Botanic Gardens, Kew) in London is a UNESCO World Heritage Site.",
+      "tags": []
+    },
+    {
+      "id": "histor-086",
+      "q": "Lop Nur (China) served as the site of China&#x27;s first:",
+      "options": [
+        "Space launch",
+        "Nuclear tests",
+        "Naval base",
+        "Coal mine"
+      ],
+      "correct": 1,
+      "explanation": "Lop Nur in Xinjiang was the site of China&#x27;s first nuclear tests (from 1964).",
+      "tags": []
+    },
+    {
+      "id": "histor-087",
+      "q": "Bandung (Indonesia) hosted which historic event in 1955?",
+      "options": [
+        "UN Summit",
+        "First Afro-Asian Summit",
+        "ASEAN Summit",
+        "Olympic Games"
+      ],
+      "correct": 1,
+      "explanation": "The 1955 Bandung Conference brought together newly independent African and Asian nations — the foundation of the Non-Aligned Movement.",
+      "tags": []
+    },
+    {
+      "id": "histor-088",
+      "q": "Benghazi is a key port city on the Mediterranean coast of:",
+      "options": [
+        "Egypt",
+        "Libya",
+        "Tunisia",
+        "Algeria"
+      ],
+      "correct": 1,
+      "explanation": "Benghazi is Libya&#x27;s second-largest city and a key Mediterranean port.",
+      "tags": []
+    },
+    {
+      "id": "histor-089",
+      "q": "Barcelona (Spain) is a chief port and cultural center that hosted the Olympic Games in:",
+      "options": [
+        "1988",
+        "1992",
+        "1996",
+        "2000"
+      ],
+      "correct": 1,
+      "explanation": "Barcelona hosted the 1992 Summer Olympic Games.",
+      "tags": []
+    },
+    {
+      "id": "histor-090",
+      "q": "Durban (South Africa) is historically linked with the political career of:",
+      "options": [
+        "Nelson Mandela",
+        "Mahatma Gandhi",
+        "Steve Biko",
+        "Desmond Tutu"
+      ],
+      "correct": 1,
+      "explanation": "Mahatma Gandhi began his political activism in Durban, South Africa (1893-1914).",
+      "tags": []
+    },
+    {
+      "id": "histor-091",
+      "q": "Kansas City (USA) is famous for:",
+      "options": [
+        "Wine production",
+        "Livestock trade and barbecue culture",
+        "Tech industry",
+        "Fashion"
+      ],
+      "correct": 1,
+      "explanation": "Kansas City is famous for livestock trade and BBQ culture.",
+      "tags": []
+    },
+    {
+      "id": "histor-092",
+      "q": "Aswan (Egypt) is noted for the Aswan High Dam and tourism on which river?",
+      "options": [
+        "Tigris",
+        "Nile River",
+        "Euphrates",
+        "Jordan"
+      ],
+      "correct": 1,
+      "explanation": "Aswan in Egypt is noted for the Aswan High Dam (completed 1970) on the Nile River.",
+      "tags": []
+    },
+    {
+      "id": "histor-093",
+      "q": "Which city is called the &#x27;Brasília of Pakistan&#x27; for its planned design?",
+      "options": [
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Multan"
+      ],
+      "correct": 2,
+      "explanation": "Islamabad — planned by Greek architect Constantinos Doxiadis — is called the &#x27;Brasília of Pakistan&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "histor-094",
+      "q": "Bethlehem (Palestine) is revered as the birthplace of:",
+      "options": [
+        "Prophet Muhammad",
+        "Jesus Christ",
+        "Moses",
+        "Abraham"
+      ],
+      "correct": 1,
+      "explanation": "Bethlehem is revered as the birthplace of Jesus Christ.",
+      "tags": []
+    },
+    {
+      "id": "histor-095",
+      "q": "Auroville, founded by UNESCO in 1968 as an international township, is near which Indian city?",
+      "options": [
+        "Pondicherry",
+        "Chennai",
+        "Bangalore",
+        "Hyderabad"
+      ],
+      "correct": 0,
+      "explanation": "Auroville, founded 1968 by Mirra Alfassa (The Mother), is near Pondicherry, India.",
+      "tags": []
+    },
+    {
+      "id": "histor-096",
+      "q": "The Leaning Tower of Pisa is one of the Seven Wonders of the World located in:",
+      "options": [
+        "Italy",
+        "France",
+        "Spain",
+        "Greece"
+      ],
+      "correct": 0,
+      "explanation": "The Leaning Tower of Pisa is in Pisa, Italy.",
+      "tags": []
+    },
+    {
+      "id": "histor-097",
+      "q": "Dar es Salaam is the largest city and commercial hub of:",
+      "options": [
+        "Kenya",
+        "Tanzania",
+        "Uganda",
+        "Ethiopia"
+      ],
+      "correct": 1,
+      "explanation": "Dar es Salaam is Tanzania&#x27;s largest city and main commercial port (Dodoma is the political capital).",
+      "tags": []
+    },
+    {
+      "id": "histor-098",
+      "q": "Bali is a world-famous island resort located in:",
+      "options": [
+        "Malaysia",
+        "Indonesia",
+        "Thailand",
+        "Philippines"
+      ],
+      "correct": 1,
+      "explanation": "Bali is an Indonesian island province famous for tourism and Hindu culture.",
+      "tags": []
+    },
+    {
+      "id": "histor-099",
+      "q": "The Catholic-Protestant conflict historically took place in Ulster, located in:",
+      "options": [
+        "Ireland",
+        "Northern Ireland",
+        "Scotland",
+        "Wales"
+      ],
+      "correct": 1,
+      "explanation": "The Troubles (Catholic-Protestant conflict) took place in Ulster — Northern Ireland.",
+      "tags": []
+    },
+    {
+      "id": "histor-100",
+      "q": "Wimbledon, famous for its Tennis Championships, is located in:",
+      "options": [
+        "Paris",
+        "London",
+        "Sydney",
+        "New York"
+      ],
+      "correct": 1,
+      "explanation": "Wimbledon is in southwest London, UK.",
+      "tags": []
+    },
+    {
+      "id": "histor-101",
+      "q": "Baghdad (Iraq) lies on which river?",
+      "options": [
+        "Euphrates",
+        "River Tigris",
+        "Nile",
+        "Jordan"
+      ],
+      "correct": 1,
+      "explanation": "Baghdad lies on the banks of the River Tigris.",
+      "tags": []
+    },
+    {
+      "id": "histor-102",
+      "q": "Jerusalem is a Holy City sacred to which religions?",
+      "options": [
+        "Only Judaism",
+        "Islam and Christianity",
+        "Islam, Christianity and Judaism",
+        "Only Christianity"
+      ],
+      "correct": 2,
+      "explanation": "Jerusalem is holy to all three Abrahamic religions: Islam, Christianity and Judaism.",
+      "tags": []
+    },
+    {
+      "id": "histor-103",
+      "q": "Jerusalem was recaptured from the Crusaders in 1187 by:",
+      "options": [
+        "Salah al-Din Ayyubi (Saladin)",
+        "Richard the Lionheart",
+        "Tariq ibn Ziyad",
+        "Sultan Baybars"
+      ],
+      "correct": 0,
+      "explanation": "Salah al-Din Ayyubi (Saladin) recaptured Jerusalem from the Crusaders at the Battle of Hattin in 1187.",
+      "tags": []
+    },
+    {
+      "id": "histor-104",
+      "q": "Neelum Valley lies in which region?",
+      "options": [
+        "Gilgit-Baltistan",
+        "Azad Jammu &amp; Kashmir (Pakistan)",
+        "Khyber Pakhtunkhwa",
+        "Punjab"
+      ],
+      "correct": 1,
+      "explanation": "Neelum Valley lies in Azad Jammu &amp; Kashmir, Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "histor-105",
+      "q": "Which city in the West Bank is believed to be the world&#x27;s oldest inhabited city?",
+      "options": [
+        "Jericho",
+        "Bethlehem",
+        "Hebron",
+        "Ramallah"
+      ],
+      "correct": 0,
+      "explanation": "Jericho in the West Bank is widely regarded as the world&#x27;s oldest continuously inhabited city (~9000 BCE).",
+      "tags": []
+    },
+    {
+      "id": "histor-106",
+      "q": "Waterloo in Belgium is where which military leader was defeated in 1815?",
+      "options": [
+        "Wellington",
+        "Napoleon Bonaparte",
+        "Bismarck",
+        "Charles V"
+      ],
+      "correct": 1,
+      "explanation": "Napoleon Bonaparte was defeated at the Battle of Waterloo (Belgium) on 18 June 1815.",
+      "tags": []
+    },
+    {
+      "id": "histor-107",
+      "q": "Timbuktu, a medieval center of Islamic learning, is in:",
+      "options": [
+        "Niger",
+        "Mali",
+        "Senegal",
+        "Nigeria"
+      ],
+      "correct": 1,
+      "explanation": "Timbuktu, the legendary medieval centre of Islamic scholarship, is in Mali.",
+      "tags": []
+    },
+    {
+      "id": "histor-108",
+      "q": "Dasman Palace is located in which capital city?",
+      "options": [
+        "Riyadh",
+        "Kuwait City",
+        "Manama",
+        "Doha"
+      ],
+      "correct": 1,
+      "explanation": "Dasman Palace is the official residence of the Emir of Kuwait in Kuwait City.",
+      "tags": []
+    },
+    {
+      "id": "histor-109",
+      "q": "The Sun Temple of Konark, dedicated to the Sun God, is in which Indian state?",
+      "options": [
+        "Tamil Nadu",
+        "Odisha",
+        "Karnataka",
+        "West Bengal"
+      ],
+      "correct": 1,
+      "explanation": "The 13th-century Sun Temple of Konark is in the Indian state of Odisha — a UNESCO World Heritage Site.",
+      "tags": []
+    },
+    {
+      "id": "histor-110",
+      "q": "Which city lies on two continents — Asia and Europe?",
+      "options": [
+        "Moscow",
+        "Istanbul (Türkiye)",
+        "Cairo",
+        "Athens"
+      ],
+      "correct": 1,
+      "explanation": "Istanbul straddles the Bosphorus, with parts on both the Asian and European continents.",
+      "tags": []
+    },
+    {
+      "id": "histor-111",
+      "q": "Which is the smallest sovereign state in the world (0.44 sq km) and the residence of the Pope?",
+      "options": [
+        "Monaco",
+        "San Marino",
+        "Vatican City",
+        "Liechtenstein"
+      ],
+      "correct": 2,
+      "explanation": "Vatican City (0.44 km²) is the smallest sovereign state — also the residence of the Pope.",
+      "tags": []
+    },
+    {
+      "id": "histor-112",
+      "q": "Vatican City is enclaved within which major city?",
+      "options": [
+        "Rome, Italy",
+        "Paris",
+        "Madrid",
+        "Athens"
+      ],
+      "correct": 0,
+      "explanation": "Vatican City is an independent city-state enclaved within Rome, Italy.",
+      "tags": []
+    },
+    {
+      "id": "histor-113",
+      "q": "Which ancient city in Jordan is known as the Rose-Red City?",
+      "options": [
+        "Aqaba",
+        "Amman",
+        "Petra",
+        "Jerash"
+      ],
+      "correct": 2,
+      "explanation": "Petra in southern Jordan, carved into rose-red sandstone cliffs, is known as the Rose-Red City.",
+      "tags": []
+    },
+    {
+      "id": "histor-114",
+      "q": "Angkor Wat (Cambodia) holds what global distinction?",
+      "options": [
+        "Tallest temple",
+        "Oldest mosque",
+        "The largest religious monument in the world",
+        "Oldest church"
+      ],
+      "correct": 2,
+      "explanation": "Angkor Wat in Cambodia is the world&#x27;s largest religious monument.",
+      "tags": []
+    },
+    {
+      "id": "histor-115",
+      "q": "Which Japanese city is known as the City of Ten Thousand Shrines?",
+      "options": [
+        "Tokyo",
+        "Kyoto",
+        "Nara",
+        "Osaka"
+      ],
+      "correct": 1,
+      "explanation": "Kyoto, the former imperial capital of Japan, is known as the City of Ten Thousand Shrines.",
+      "tags": []
+    },
+    {
+      "id": "histor-116",
+      "q": "Beijing (China) houses which famous UNESCO World Heritage site?",
+      "options": [
+        "The Forbidden City",
+        "Taj Mahal",
+        "Great Wall of China only",
+        "Tiananmen Square only"
+      ],
+      "correct": 0,
+      "explanation": "The Forbidden City in central Beijing is a UNESCO World Heritage Site — the former imperial palace.",
+      "tags": []
+    },
+    {
+      "id": "histor-117",
+      "q": "Agra (India) is home to which New Seven Wonder of the World?",
+      "options": [
+        "Red Fort",
+        "Taj Mahal",
+        "Fatehpur Sikri",
+        "Charminar"
+      ],
+      "correct": 1,
+      "explanation": "The Taj Mahal in Agra is one of the New Seven Wonders of the World.",
+      "tags": []
+    },
+    {
+      "id": "histor-118",
+      "q": "Which city is the holiest in Islam and home to the Kaaba?",
+      "options": [
+        "Medina",
+        "Mecca (Saudi Arabia)",
+        "Jerusalem",
+        "Karbala"
+      ],
+      "correct": 1,
+      "explanation": "Mecca in Saudi Arabia is the holiest city in Islam and home to the Kaaba.",
+      "tags": []
+    },
+    {
+      "id": "histor-119",
+      "q": "Which city is known as the City of the Prophet Muhammad (PBUH)?",
+      "options": [
+        "Mecca",
+        "Medina (Saudi Arabia)",
+        "Jerusalem",
+        "Damascus"
+      ],
+      "correct": 1,
+      "explanation": "Medina (al-Madina al-Munawwara) in Saudi Arabia is known as the City of the Prophet Muhammad (PBUH).",
+      "tags": []
+    },
+    {
+      "id": "histor-120",
+      "q": "Dubai (UAE) is known for housing the world&#x27;s tallest building, called the:",
+      "options": [
+        "Burj Al Arab",
+        "Burj Khalifa",
+        "Empire State Building",
+        "Petronas Towers"
+      ],
+      "correct": 1,
+      "explanation": "The Burj Khalifa in Dubai (828 m) is the world&#x27;s tallest building.",
+      "tags": []
+    },
+    {
+      "id": "histor-121",
+      "q": "Doha (Qatar) is known for modern architecture and hosting which major event in 2022?",
+      "options": [
+        "Olympic Games",
+        "FIFA World Cup",
+        "Asian Games",
+        "Commonwealth Games"
+      ],
+      "correct": 1,
+      "explanation": "Doha (Qatar) hosted the FIFA World Cup in 2022.",
+      "tags": []
+    },
+    {
+      "id": "histor-122",
+      "q": "What is the capital and cultural heart of Iran?",
+      "options": [
+        "Mashhad",
+        "Tehran",
+        "Isfahan",
+        "Shiraz"
+      ],
+      "correct": 1,
+      "explanation": "Tehran is the capital of Iran and its cultural and political heart.",
+      "tags": []
+    },
+    {
+      "id": "histor-123",
+      "q": "Athens (Greece) is often referred to as the:",
+      "options": [
+        "City of Light",
+        "Cradle of Democracy",
+        "Eternal City",
+        "Big Apple"
+      ],
+      "correct": 1,
+      "explanation": "Athens is referred to as the Cradle of Democracy — birthplace of democratic governance.",
+      "tags": []
+    },
+    {
+      "id": "histor-124",
+      "q": "Rome (Italy) is known as the:",
+      "options": [
+        "City of Canals",
+        "Eternal City",
+        "Big Apple",
+        "City of Light"
+      ],
+      "correct": 1,
+      "explanation": "Rome is known as the Eternal City (Roma Aeterna).",
+      "tags": []
+    },
+    {
+      "id": "histor-125",
+      "q": "Paris (France) is commonly known as the:",
+      "options": [
+        "Big Apple",
+        "City of Light",
+        "Eternal City",
+        "Marvelous City"
+      ],
+      "correct": 1,
+      "explanation": "Paris is known as the City of Light (La Ville Lumière).",
+      "tags": []
+    },
+    {
+      "id": "histor-126",
+      "q": "London (UK) is famous for landmarks like Buckingham Palace and:",
+      "options": [
+        "Eiffel Tower",
+        "Big Ben",
+        "Brandenburg Gate",
+        "Sphinx"
+      ],
+      "correct": 1,
+      "explanation": "Big Ben (the Elizabeth Tower clock) is one of London&#x27;s most iconic landmarks.",
+      "tags": []
+    },
+    {
+      "id": "histor-127",
+      "q": "Moscow (Russia) is known for Red Square and the:",
+      "options": [
+        "Kremlin",
+        "White House",
+        "Pentagon",
+        "Forbidden City"
+      ],
+      "correct": 0,
+      "explanation": "Moscow is famous for Red Square and the Kremlin (the seat of the Russian government).",
+      "tags": []
+    },
+    {
+      "id": "histor-128",
+      "q": "New York City (USA) is famously called the:",
+      "options": [
+        "City of Light",
+        "Eternal City",
+        "Big Apple",
+        "Marvelous City"
+      ],
+      "correct": 2,
+      "explanation": "New York City is famously called the Big Apple.",
+      "tags": []
+    },
+    {
+      "id": "histor-129",
+      "q": "Which US city is considered the political capital of the world?",
+      "options": [
+        "New York",
+        "Washington D.C.",
+        "Chicago",
+        "Los Angeles"
+      ],
+      "correct": 1,
+      "explanation": "Washington D.C. is considered the political capital of the world — seat of US federal government.",
+      "tags": []
+    },
+    {
+      "id": "histor-130",
+      "q": "Rio de Janeiro (Brazil) is called the &#x27;Marvelous City&#x27;, which in Portuguese is:",
+      "options": [
+        "Cidade Maravilhosa",
+        "Ciudad Maravillosa",
+        "Cidade del Sol",
+        "Cidade Bonita"
+      ],
+      "correct": 0,
+      "explanation": "Rio de Janeiro&#x27;s nickname &#x27;Marvelous City&#x27; translates to &#x27;Cidade Maravilhosa&#x27; in Portuguese.",
+      "tags": []
+    },
+    {
+      "id": "histor-131",
+      "q": "Sydney (Australia) is famous for its Harbour Bridge and:",
+      "options": [
+        "Pyramids",
+        "Opera House",
+        "Eiffel Tower",
+        "Niagara Falls"
+      ],
+      "correct": 1,
+      "explanation": "The Sydney Opera House is Sydney&#x27;s most iconic landmark — alongside the Harbour Bridge.",
+      "tags": []
+    },
+    {
+      "id": "histor-132",
+      "q": "Which South African city lies beneath the iconic Table Mountain and is called the Mother City?",
+      "options": [
+        "Johannesburg",
+        "Pretoria",
+        "Cape Town",
+        "Durban"
+      ],
+      "correct": 2,
+      "explanation": "Cape Town, beneath Table Mountain, is known as the Mother City (Moederstad).",
+      "tags": []
+    }
+  ]
+}

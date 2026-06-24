@@ -1,0 +1,700 @@
+{
+  "topic_id": "numsys",
+  "topic_name": "Numsys",
+  "subject": "mathematics",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Numsys MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "numsys-001",
+      "q": "Find LCM of 27 & 63?",
+      "options": [
+        "189",
+        "199",
+        "179",
+        "239"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-002",
+      "q": "The sum of three consecutive integers is 33. Find the smallest integer?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "5"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-003",
+      "q": "If 1is added to the largest four-digit number, the number becomes?",
+      "options": [
+        "10100",
+        "20000",
+        "10000",
+        "9900"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-004",
+      "q": "What is the HCF of 18 and 30?",
+      "options": [
+        "6",
+        "5",
+        "7",
+        "8"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-005",
+      "q": "The sum of three consecutive even natural number is 78. Find the greater of these numbers?",
+      "options": [
+        "38",
+        "28",
+        "23",
+        "33"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-006",
+      "q": "The sum of two numbers is 138, and their difference is 68. What is the smallest number?",
+      "options": [
+        "45",
+        "35",
+        "30",
+        "40"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-007",
+      "q": "What is the first prime number?",
+      "options": [
+        "3",
+        "1",
+        "4",
+        "2"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-008",
+      "q": "What is the sum of the first 5 composite numbers?",
+      "options": [
+        "47",
+        "32",
+        "42",
+        "37"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-009",
+      "q": "The sum of the first five prime numbers is?",
+      "options": [
+        "33",
+        "23",
+        "38",
+        "28"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-010",
+      "q": "What is the LCM of 6\" and 7\" term in an=3n+2?",
+      "options": [
+        "510",
+        "470",
+        "450",
+        "460"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-011",
+      "q": "How many numbers of two digits are divisible by 9?",
+      "options": [
+        "20",
+        "15",
+        "10",
+        "5"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-012",
+      "q": "The sum of three consecutive odd numbers is 105. Who is the smallest number?",
+      "options": [
+        "28",
+        "38",
+        "43",
+        "33"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-013",
+      "q": "What is the greatest possible length of a scale that can be used to measure exactly the lengths 3m, 5m 10cm, and 12m 90cm²",
+      "options": [
+        "35 cm",
+        "32 cm",
+        "30 cm",
+        "31 cm"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-014",
+      "q": "Greatest Common Divisor of two numbers is 8 while their Least Common Multiple is 144. Find the other number if one number is 16?",
+      "options": [
+        "67",
+        "72",
+        "77",
+        "82"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-015",
+      "q": "LCM stands for?",
+      "options": [
+        "Insufficient data",
+        "None of these",
+        "Cannot be determined",
+        "Least common"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-016",
+      "q": "The sum of three consecutive integers is 48. What is the smallest integer?",
+      "options": [
+        "20",
+        "10",
+        "15",
+        "25"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-017",
+      "q": "The sum of first five prime numbers is?",
+      "options": [
+        "38",
+        "28",
+        "33",
+        "23"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-018",
+      "q": "How many prime numbers are less than 50?",
+      "options": [
+        "25",
+        "20",
+        "10",
+        "15"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-019",
+      "q": "How many two digit numbers are there which are divisible by 6?",
+      "options": [
+        "15",
+        "25",
+        "10",
+        "20"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-020",
+      "q": "The greatest number which exactly divides 1050 and 750 is?",
+      "options": [
+        "160",
+        "150",
+        "200",
+        "140"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-021",
+      "q": "Two dice are thrown together. What is the probability that the sum of the numbers on the two faces is divisible by 4 or 6?",
+      "options": [
+        "8/18",
+        "7/19",
+        "6/18",
+        "7/18"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-022",
+      "q": "The sum of first 45 natural numbers is?",
+      "options": [
+        "1035",
+        "2070",
+        "1135",
+        "935"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-023",
+      "q": "Three numbers which are co-prime to one another are such that the product of the first two is 551 and that of the two last numbers is 1073. The sum of the three numbers is?",
+      "options": [
+        "90",
+        "80",
+        "95",
+        "85"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-024",
+      "q": "The sum of the digits of a two-digit number is 13. If 9 is added to the number, the digits are reversed. What is the number?",
+      "options": [
+        "62",
+        "67",
+        "77",
+        "72"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-025",
+      "q": "The sum of the digits of a two-digit number is 11. On adding 27 to the given number, its digits are reversed. Find the number?",
+      "options": [
+        "47",
+        "57",
+        "52",
+        "42"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-026",
+      "q": "The product of two numbers is 750 and the LCM product of is 150. What is their HCF?",
+      "options": [
+        "7",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-027",
+      "q": "423 a divisible by?",
+      "options": [
+        "42",
+        "47",
+        "57",
+        "52"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-028",
+      "q": "Find the largest number which divides 62, 132 and 237 to leave the same remainder in each case?",
+      "options": [
+        "35",
+        "30",
+        "45",
+        "40"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-029",
+      "q": "The HCF of two numbers is 11 and their LCM is 693. If one of the numbers is 77, find the other?",
+      "options": [
+        "109",
+        "99",
+        "104",
+        "94"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-030",
+      "q": "Find the number of numbers from 1 to 100 which are not divisible by 2?",
+      "options": [
+        "55",
+        "45",
+        "60",
+        "50"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-031",
+      "q": "The sum of four consecutive even integers is 1284. The greatest of them is?",
+      "options": [
+        "374",
+        "334",
+        "314",
+        "324"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-032",
+      "q": "The LCM of two numbers 60 and 100 is?",
+      "options": [
+        "310",
+        "300",
+        "290",
+        "350"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-033",
+      "q": "What is the smallest integer divisible by both 25 and 30?",
+      "options": [
+        "200",
+        "160",
+        "140",
+        "150"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-034",
+      "q": "The sum of four consecutive integers is 1290. The greatest of them is?",
+      "options": [
+        "374",
+        "334",
+        "324",
+        "314"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-035",
+      "q": "HCF of 60 and 72 is?",
+      "options": [
+        "12",
+        "22",
+        "7",
+        "17"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-036",
+      "q": "Sum of Prime Numbers between 60 and 80?",
+      "options": [
+        "341",
+        "401",
+        "361",
+        "351"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-037",
+      "q": "148 is divisible by?",
+      "options": [
+        "47",
+        "37",
+        "32",
+        "42"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-038",
+      "q": "The number 329 is divisible by?",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-039",
+      "q": "When nis divided by 4, the remainder is 3. What is the remainder when 2n is divided by 4?",
+      "options": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-040",
+      "q": "Find the greatest 3/2, 2/5, 5/7?",
+      "options": [
+        "3/2",
+        "4/2",
+        "3/3",
+        "2/2"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-041",
+      "q": "The largest four-digit number exactly divisible by 88 is?",
+      "options": [
+        "9944",
+        "9844",
+        "19888",
+        "10044"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-042",
+      "q": "If 1/3 of the liquid contents of a can evaporates on the first day and 3/4 of the remainder evaporates on the second day, the fractional part of the original contents remaining at the close of the second day is?",
+      "options": [
+        "1/6",
+        "1/7",
+        "0/6",
+        "2/6"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-043",
+      "q": "What is the smallest integer divisible by 21 and 18 and 24?",
+      "options": [
+        "554",
+        "514",
+        "504",
+        "494"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-044",
+      "q": "What is the sum of all prime numbers from 60 to 80?",
+      "options": [
+        "341",
+        "401",
+        "361",
+        "351"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-045",
+      "q": "How many numbers between 100 and 300 are divisible by 11?",
+      "options": [
+        "18",
+        "13",
+        "28",
+        "23"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-046",
+      "q": "Acertain number when divided by 899 gives a remainder 63 What is the remainder when the same number is divided by 29?",
+      "options": [
+        "5",
+        "4",
+        "7",
+        "6"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-047",
+      "q": "How many numbers up to 100 are divisible by 7?",
+      "options": [
+        "24",
+        "19",
+        "9",
+        "14"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-048",
+      "q": "Three times the first of three consecutive odd integers is 3 more than twice the third. The third integer is?",
+      "options": [
+        "20",
+        "25",
+        "10",
+        "15"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-049",
+      "q": "The total number of digits used in numbering the pages of a book having 366 pages is?",
+      "options": [
+        "990",
+        "1040",
+        "980",
+        "1000"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-050",
+      "q": "How many numbers between 100 and 300 are divisible by both 7 and 11?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-051",
+      "q": "Smallest natural number is?",
+      "options": [
+        "3",
+        "1",
+        "0",
+        "2"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-052",
+      "q": "Smallest prime number is?",
+      "options": [
+        "2",
+        "1",
+        "4",
+        "3"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "numsys-053",
+      "q": "Sum of three consecutive even numbers is 60. The greatest number is?",
+      "options": [
+        "32",
+        "27",
+        "22",
+        "17"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    }
+  ]
+}

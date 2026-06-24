@@ -1,0 +1,2351 @@
+{
+  "topic_id": "world-currencies",
+  "topic_name": "World Currencies",
+  "subject": "general-knowledge",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "World Currencies MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "worldc-001",
+      "q": "The currency of Afghanistan is:",
+      "options": [
+        "Afghani",
+        "Rupee",
+        "Riyal",
+        "Tenge"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Afghanistan is the Afghani. The Afghani (AFN) is issued by Da Afghanistan Bank, the central bank.",
+      "tags": []
+    },
+    {
+      "id": "worldc-002",
+      "q": "The currency of Albania is:",
+      "options": [
+        "Euro",
+        "Lek",
+        "Lev",
+        "Denar"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Albania is the Lek. The Lek (ALL) has been Albania&#x27;s currency since 1926.",
+      "tags": []
+    },
+    {
+      "id": "worldc-003",
+      "q": "The currency of Algeria is:",
+      "options": [
+        "Dirham",
+        "Franc",
+        "Dinar",
+        "Pound"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Algeria is the Dinar. The Algerian Dinar (DZD) replaced the Algerian Franc in 1964.",
+      "tags": []
+    },
+    {
+      "id": "worldc-004",
+      "q": "The currency of Andorra is:",
+      "options": [
+        "Franc",
+        "Peseta",
+        "Dollar",
+        "Euro"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Andorra is the Euro. Andorra adopted the Euro in 2002 by agreement with the EU.",
+      "tags": []
+    },
+    {
+      "id": "worldc-005",
+      "q": "The currency of Angola is:",
+      "options": [
+        "Kwanza",
+        "Real",
+        "Escudo",
+        "Rand"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Angola is the Kwanza. Angola&#x27;s currency is the Kwanza (AOA), introduced in 1977.",
+      "tags": []
+    },
+    {
+      "id": "worldc-006",
+      "q": "The currency of Antigua and Barbuda is:",
+      "options": [
+        "US Dollar",
+        "East Caribbean Dollar",
+        "Bahamian Dollar",
+        "Pound"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Antigua and Barbuda is the East Caribbean Dollar. The East Caribbean Dollar (XCD) is shared by 8 Eastern Caribbean states.",
+      "tags": []
+    },
+    {
+      "id": "worldc-007",
+      "q": "The currency of Argentina is:",
+      "options": [
+        "Real",
+        "Sol",
+        "Peso",
+        "Boliviano"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Argentina is the Peso. Argentina&#x27;s currency is the Peso (ARS) — one of several countries called &#x27;peso&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "worldc-008",
+      "q": "The currency of Armenia is:",
+      "options": [
+        "Lari",
+        "Manat",
+        "Tenge",
+        "Dram"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Armenia is the Dram. The Armenian Dram (AMD) was introduced in 1993 after independence.",
+      "tags": []
+    },
+    {
+      "id": "worldc-009",
+      "q": "The currency of Australia is:",
+      "options": [
+        "Australian Dollar",
+        "Pound",
+        "Kiwi Dollar",
+        "Rand"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Australia is the Australian Dollar. The Australian Dollar (AUD) is also used in Kiribati, Nauru and Tuvalu.",
+      "tags": []
+    },
+    {
+      "id": "worldc-010",
+      "q": "The currency of Austria is:",
+      "options": [
+        "Schilling",
+        "Euro",
+        "Mark",
+        "Franc"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Austria is the Euro. Austria adopted the Euro on 1 January 1999 (cash 2002).",
+      "tags": []
+    },
+    {
+      "id": "worldc-011",
+      "q": "The currency of Azerbaijan is:",
+      "options": [
+        "Tenge",
+        "Som",
+        "Manat",
+        "Lari"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Azerbaijan is the Manat. Azerbaijan&#x27;s Manat (AZN) shares its name with the Turkmenistani Manat (TMT).",
+      "tags": []
+    },
+    {
+      "id": "worldc-012",
+      "q": "The currency of Bahamas is:",
+      "options": [
+        "US Dollar",
+        "Pound",
+        "Barbadian Dollar",
+        "Bahamian Dollar"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Bahamas is the Bahamian Dollar. The Bahamian Dollar (BSD) is pegged 1:1 with the US Dollar.",
+      "tags": []
+    },
+    {
+      "id": "worldc-013",
+      "q": "The currency of Bahrain is:",
+      "options": [
+        "Dinar",
+        "Riyal",
+        "Dirham",
+        "Rial"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Bahrain is the Dinar. The Bahraini Dinar (BHD) is among the world&#x27;s highest-valued currencies.",
+      "tags": []
+    },
+    {
+      "id": "worldc-014",
+      "q": "The currency of Bangladesh is:",
+      "options": [
+        "Rupee",
+        "Taka",
+        "Rupiah",
+        "Kyat"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Bangladesh is the Taka. Bangladesh&#x27;s Taka (BDT) was introduced after independence in 1972.",
+      "tags": []
+    },
+    {
+      "id": "worldc-015",
+      "q": "The currency of Barbados is:",
+      "options": [
+        "East Caribbean Dollar",
+        "US Dollar",
+        "Barbadian Dollar",
+        "Pound"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Barbados is the Barbadian Dollar. The Barbadian Dollar (BBD) is pegged 2:1 with the US Dollar.",
+      "tags": []
+    },
+    {
+      "id": "worldc-016",
+      "q": "The currency of Belarus is:",
+      "options": [
+        "Hryvnia",
+        "Tenge",
+        "Lev",
+        "Ruble"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Belarus is the Ruble. The Belarusian Ruble (BYN) is distinct from the Russian Ruble (RUB).",
+      "tags": []
+    },
+    {
+      "id": "worldc-017",
+      "q": "The currency of Belgium is:",
+      "options": [
+        "Euro",
+        "Franc",
+        "Mark",
+        "Pound"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Belgium is the Euro. Belgium was a founding Euro adopter in 1999, replacing the Belgian Franc.",
+      "tags": []
+    },
+    {
+      "id": "worldc-018",
+      "q": "The currency of Belize is:",
+      "options": [
+        "East Caribbean Dollar",
+        "Belizean Dollar",
+        "US Dollar",
+        "Peso"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Belize is the Belizean Dollar. The Belize Dollar (BZD) is pegged 2:1 with the US Dollar.",
+      "tags": []
+    },
+    {
+      "id": "worldc-019",
+      "q": "The currency of Benin is:",
+      "options": [
+        "Naira",
+        "Cedi",
+        "CFA Franc",
+        "Dalasi"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Benin is the CFA Franc. Benin uses the West African CFA Franc (XOF), pegged to the Euro.",
+      "tags": []
+    },
+    {
+      "id": "worldc-020",
+      "q": "The currency of Bhutan is:",
+      "options": [
+        "Rupee",
+        "Taka",
+        "Riyal",
+        "Ngultrum"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Bhutan is the Ngultrum. Bhutan&#x27;s Ngultrum (BTN) is pegged 1:1 with the Indian Rupee, which also circulates there.",
+      "tags": []
+    },
+    {
+      "id": "worldc-021",
+      "q": "The currency of Bolivia is:",
+      "options": [
+        "Boliviano",
+        "Peso",
+        "Sol",
+        "Guarani"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Bolivia is the Boliviano. The Boliviano (BOB) was reintroduced in 1987 to replace the inflation-hit Peso.",
+      "tags": []
+    },
+    {
+      "id": "worldc-022",
+      "q": "The currency of Bosnia and Herzegovina is:",
+      "options": [
+        "Euro",
+        "Convertible Mark",
+        "Dinar",
+        "Lev"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Bosnia and Herzegovina is the Convertible Mark. The Convertible Mark (BAM) is pegged to the Euro.",
+      "tags": []
+    },
+    {
+      "id": "worldc-023",
+      "q": "The currency of Botswana is:",
+      "options": [
+        "Rand",
+        "Lilangeni",
+        "Pula",
+        "Loti"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Botswana is the Pula. Pula (BWP) means &#x27;rain&#x27; in Setswana — a symbol of prosperity in arid Botswana.",
+      "tags": []
+    },
+    {
+      "id": "worldc-024",
+      "q": "The currency of Brazil is:",
+      "options": [
+        "Peso",
+        "Cruzado",
+        "Dollar",
+        "Real"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Brazil is the Real. Brazil&#x27;s currency is the Real (BRL), introduced in 1994 to end hyperinflation.",
+      "tags": []
+    },
+    {
+      "id": "worldc-025",
+      "q": "The currency of Brunei is:",
+      "options": [
+        "Dollar",
+        "Ringgit",
+        "Rupiah",
+        "Peso"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Brunei is the Dollar. The Brunei Dollar (BND) is interchangeable 1:1 with the Singapore Dollar.",
+      "tags": []
+    },
+    {
+      "id": "worldc-026",
+      "q": "The currency of Bulgaria is:",
+      "options": [
+        "Denar",
+        "Lev",
+        "Lei",
+        "Forint"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Bulgaria is the Lev. The Bulgarian Lev (BGN) is pegged to the Euro at a fixed rate.",
+      "tags": []
+    },
+    {
+      "id": "worldc-027",
+      "q": "The currency of Burkina Faso is:",
+      "options": [
+        "Naira",
+        "Dalasi",
+        "CFA Franc",
+        "Cedi"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Burkina Faso is the CFA Franc. Burkina Faso uses the West African CFA Franc (XOF) along with 7 other WAEMU members.",
+      "tags": []
+    },
+    {
+      "id": "worldc-028",
+      "q": "The currency of Burundi is:",
+      "options": [
+        "CFA Franc",
+        "Shilling",
+        "Pula",
+        "Burundian Franc"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Burundi is the Burundian Franc. The Burundian Franc (BIF) has been the country&#x27;s currency since 1916.",
+      "tags": []
+    },
+    {
+      "id": "worldc-029",
+      "q": "The currency of Cambodia is:",
+      "options": [
+        "Riel",
+        "Baht",
+        "Dong",
+        "Kip"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Cambodia is the Riel. Cambodia uses the Riel (KHR), though the US Dollar circulates widely.",
+      "tags": []
+    },
+    {
+      "id": "worldc-030",
+      "q": "The currency of Cameroon is:",
+      "options": [
+        "Naira",
+        "CFA Franc",
+        "Birr",
+        "Cedi"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Cameroon is the CFA Franc. Cameroon uses the Central African CFA Franc (XAF) — one of 6 CEMAC states.",
+      "tags": []
+    },
+    {
+      "id": "worldc-031",
+      "q": "The currency of Canada is:",
+      "options": [
+        "US Dollar",
+        "Pound",
+        "Canadian Dollar",
+        "Loonie"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Canada is the Canadian Dollar. The Canadian Dollar (CAD) is nicknamed the &#x27;Loonie&#x27; after the loon bird on the $1 coin.",
+      "tags": []
+    },
+    {
+      "id": "worldc-032",
+      "q": "The currency of Cape Verde is:",
+      "options": [
+        "Real",
+        "Dobra",
+        "Franc",
+        "Escudo"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Cape Verde is the Escudo. Cape Verde&#x27;s Escudo (CVE) is pegged to the Euro at a fixed rate.",
+      "tags": []
+    },
+    {
+      "id": "worldc-033",
+      "q": "The currency of Chad is:",
+      "options": [
+        "CFA Franc",
+        "Birr",
+        "Naira",
+        "Dinar"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Chad is the CFA Franc. Chad uses the Central African CFA Franc (XAF).",
+      "tags": []
+    },
+    {
+      "id": "worldc-034",
+      "q": "The currency of Chile is:",
+      "options": [
+        "Sol",
+        "Peso",
+        "Boliviano",
+        "Real"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Chile is the Peso. The Chilean Peso (CLP) is one of the most stable Latin American currencies.",
+      "tags": []
+    },
+    {
+      "id": "worldc-035",
+      "q": "The currency of China is:",
+      "options": [
+        "Yen",
+        "Won",
+        "Renminbi (Yuan)",
+        "Ringgit"
+      ],
+      "correct": 2,
+      "explanation": "The currency of China is the Renminbi (Yuan). China&#x27;s currency is the Renminbi (RMB); Yuan (CNY) is the basic unit. Issued by the People&#x27;s Bank of China.",
+      "tags": []
+    },
+    {
+      "id": "worldc-036",
+      "q": "The currency of Colombia is:",
+      "options": [
+        "Sol",
+        "Boliviano",
+        "Real",
+        "Peso"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Colombia is the Peso. The Colombian Peso (COP) is among the most-traded Latin American currencies.",
+      "tags": []
+    },
+    {
+      "id": "worldc-037",
+      "q": "The currency of Comoros is:",
+      "options": [
+        "Franc",
+        "CFA Franc",
+        "Shilling",
+        "Ariary"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Comoros is the Franc. The Comorian Franc (KMF) is pegged to the Euro.",
+      "tags": []
+    },
+    {
+      "id": "worldc-038",
+      "q": "The currency of Congo (Republic) is:",
+      "options": [
+        "Franc",
+        "CFA Franc",
+        "Naira",
+        "Birr"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Congo (Republic) is the CFA Franc. The Republic of Congo uses the Central African CFA Franc (XAF).",
+      "tags": []
+    },
+    {
+      "id": "worldc-039",
+      "q": "The currency of Costa Rica is:",
+      "options": [
+        "Peso",
+        "Quetzal",
+        "Colon",
+        "Lempira"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Costa Rica is the Colon. The Costa Rican Colón (CRC) is named after Christopher Columbus (Cristóbal Colón).",
+      "tags": []
+    },
+    {
+      "id": "worldc-040",
+      "q": "The currency of Côte d&#x27;Ivoire is:",
+      "options": [
+        "Naira",
+        "Dalasi",
+        "Cedi",
+        "CFA Franc"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Côte d&#x27;Ivoire is the CFA Franc. Côte d&#x27;Ivoire uses the West African CFA Franc (XOF).",
+      "tags": []
+    },
+    {
+      "id": "worldc-041",
+      "q": "The currency of Croatia is:",
+      "options": [
+        "Euro",
+        "Kuna",
+        "Lev",
+        "Forint"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Croatia is the Euro. Croatia adopted the Euro on 1 January 2023, replacing the Kuna.",
+      "tags": []
+    },
+    {
+      "id": "worldc-042",
+      "q": "The currency of Cuba is:",
+      "options": [
+        "Dollar",
+        "Peso",
+        "Real",
+        "Boliviano"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Cuba is the Peso. The Cuban Peso (CUP) is Cuba&#x27;s main currency since the dual-currency system ended in 2021.",
+      "tags": []
+    },
+    {
+      "id": "worldc-043",
+      "q": "The currency of Cyprus is:",
+      "options": [
+        "Pound",
+        "Lira",
+        "Euro",
+        "Drachma"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Cyprus is the Euro. Cyprus adopted the Euro on 1 January 2008, replacing the Cypriot Pound.",
+      "tags": []
+    },
+    {
+      "id": "worldc-044",
+      "q": "The currency of Czech Republic is:",
+      "options": [
+        "Euro",
+        "Zloty",
+        "Forint",
+        "Koruna"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Czech Republic is the Koruna. The Czech Koruna (CZK) is one of the few remaining EU currencies outside the Eurozone.",
+      "tags": []
+    },
+    {
+      "id": "worldc-045",
+      "q": "The currency of Denmark is:",
+      "options": [
+        "Krone",
+        "Krona",
+        "Euro",
+        "Mark"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Denmark is the Krone. The Danish Krone (DKK) is pegged to the Euro. Denmark has an opt-out from joining the Eurozone.",
+      "tags": []
+    },
+    {
+      "id": "worldc-046",
+      "q": "The currency of Djibouti is:",
+      "options": [
+        "CFA Franc",
+        "Franc",
+        "Birr",
+        "Shilling"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Djibouti is the Franc. The Djiboutian Franc (DJF) has been the country&#x27;s currency since 1949.",
+      "tags": []
+    },
+    {
+      "id": "worldc-047",
+      "q": "The currency of Dominica is:",
+      "options": [
+        "US Dollar",
+        "Bahamian Dollar",
+        "East Caribbean Dollar",
+        "Pound"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Dominica is the East Caribbean Dollar. Dominica uses the East Caribbean Dollar (XCD) — shared by 8 East Caribbean states.",
+      "tags": []
+    },
+    {
+      "id": "worldc-048",
+      "q": "The currency of East Timor is:",
+      "options": [
+        "Rupiah",
+        "Australian Dollar",
+        "Peso",
+        "US Dollar"
+      ],
+      "correct": 3,
+      "explanation": "The currency of East Timor is the US Dollar. East Timor (Timor-Leste) adopted the US Dollar as its official currency in 2000.",
+      "tags": []
+    },
+    {
+      "id": "worldc-049",
+      "q": "The currency of Ecuador is:",
+      "options": [
+        "US Dollar",
+        "Sucre",
+        "Peso",
+        "Sol"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Ecuador is the US Dollar. Ecuador officially adopted the US Dollar in September 2000, replacing the Sucre.",
+      "tags": []
+    },
+    {
+      "id": "worldc-050",
+      "q": "The currency of Egypt is:",
+      "options": [
+        "Dinar",
+        "Egyptian Pound",
+        "Lira",
+        "Dirham"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Egypt is the Egyptian Pound. The Egyptian Pound (EGP) is locally called &#x27;Geneih&#x27;, dating from 1834.",
+      "tags": []
+    },
+    {
+      "id": "worldc-051",
+      "q": "The currency of El Salvador is:",
+      "options": [
+        "Colon",
+        "Peso",
+        "US Dollar",
+        "Quetzal"
+      ],
+      "correct": 2,
+      "explanation": "The currency of El Salvador is the US Dollar. El Salvador adopted the US Dollar in 2001. In 2021 it also legalised Bitcoin as legal tender.",
+      "tags": []
+    },
+    {
+      "id": "worldc-052",
+      "q": "The currency of Eritrea is:",
+      "options": [
+        "Birr",
+        "Shilling",
+        "Dinar",
+        "Nakfa"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Eritrea is the Nakfa. Eritrea&#x27;s Nakfa (ERN) was introduced in 1997 after independence from Ethiopia.",
+      "tags": []
+    },
+    {
+      "id": "worldc-053",
+      "q": "The currency of Estonia is:",
+      "options": [
+        "Euro",
+        "Kroon",
+        "Mark",
+        "Lats"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Estonia is the Euro. Estonia adopted the Euro on 1 January 2011 — the first Baltic state to do so.",
+      "tags": []
+    },
+    {
+      "id": "worldc-054",
+      "q": "The currency of Ethiopia is:",
+      "options": [
+        "Nakfa",
+        "Birr",
+        "Shilling",
+        "Dinar"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Ethiopia is the Birr. The Ethiopian Birr (ETB) is one of Africa&#x27;s oldest currencies, dating to the 18th century.",
+      "tags": []
+    },
+    {
+      "id": "worldc-055",
+      "q": "The currency of Fiji is:",
+      "options": [
+        "Australian Dollar",
+        "Vatu",
+        "Fijian Dollar",
+        "Pa'anga"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Fiji is the Fijian Dollar. The Fijian Dollar (FJD) replaced the Fijian Pound in 1969.",
+      "tags": []
+    },
+    {
+      "id": "worldc-056",
+      "q": "The currency of Finland is:",
+      "options": [
+        "Markka",
+        "Krona",
+        "Mark",
+        "Euro"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Finland is the Euro. Finland adopted the Euro in 1999 — the only Nordic country to join the Eurozone.",
+      "tags": []
+    },
+    {
+      "id": "worldc-057",
+      "q": "The currency of France is:",
+      "options": [
+        "Euro",
+        "Franc",
+        "Pound",
+        "Mark"
+      ],
+      "correct": 0,
+      "explanation": "The currency of France is the Euro. France was a founding Euro adopter in 1999, replacing the French Franc.",
+      "tags": []
+    },
+    {
+      "id": "worldc-058",
+      "q": "The currency of Gabon is:",
+      "options": [
+        "Naira",
+        "CFA Franc",
+        "Birr",
+        "Cedi"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Gabon is the CFA Franc. Gabon uses the Central African CFA Franc (XAF).",
+      "tags": []
+    },
+    {
+      "id": "worldc-059",
+      "q": "The currency of Gambia is:",
+      "options": [
+        "Cedi",
+        "Naira",
+        "Dalasi",
+        "CFA Franc"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Gambia is the Dalasi. The Gambian Dalasi (GMD) was introduced in 1971.",
+      "tags": []
+    },
+    {
+      "id": "worldc-060",
+      "q": "The currency of Georgia is:",
+      "options": [
+        "Manat",
+        "Ruble",
+        "Dram",
+        "Lari"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Georgia is the Lari. Georgia&#x27;s Lari (GEL) was introduced in 1995 to replace coupon currency.",
+      "tags": []
+    },
+    {
+      "id": "worldc-061",
+      "q": "The currency of Germany is:",
+      "options": [
+        "Euro",
+        "Deutsche Mark",
+        "Pound",
+        "Franc"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Germany is the Euro. Germany was a founding Euro adopter in 1999, replacing the Deutsche Mark.",
+      "tags": []
+    },
+    {
+      "id": "worldc-062",
+      "q": "The currency of Ghana is:",
+      "options": [
+        "Naira",
+        "Cedi",
+        "Dalasi",
+        "CFA Franc"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Ghana is the Cedi. Ghana&#x27;s Cedi (GHS) takes its name from the cowrie shell once used as currency.",
+      "tags": []
+    },
+    {
+      "id": "worldc-063",
+      "q": "The currency of Greece is:",
+      "options": [
+        "Drachma",
+        "Lira",
+        "Euro",
+        "Pound"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Greece is the Euro. Greece adopted the Euro in 2001, replacing the Drachma (the world&#x27;s oldest still-circulating currency at the time).",
+      "tags": []
+    },
+    {
+      "id": "worldc-064",
+      "q": "The currency of Guatemala is:",
+      "options": [
+        "Peso",
+        "Colon",
+        "Lempira",
+        "Quetzal"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Guatemala is the Quetzal. The Guatemalan Quetzal (GTQ) is named after the resplendent quetzal bird, Guatemala&#x27;s national symbol.",
+      "tags": []
+    },
+    {
+      "id": "worldc-065",
+      "q": "The currency of Haiti is:",
+      "options": [
+        "Gourde",
+        "Peso",
+        "Lempira",
+        "Cordoba"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Haiti is the Gourde. The Haitian Gourde (HTG) was introduced in 1813 after independence from France.",
+      "tags": []
+    },
+    {
+      "id": "worldc-066",
+      "q": "The currency of Honduras is:",
+      "options": [
+        "Quetzal",
+        "Lempira",
+        "Cordoba",
+        "Colon"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Honduras is the Lempira. The Honduran Lempira (HNL) is named after the 16th-century indigenous chief Lempira.",
+      "tags": []
+    },
+    {
+      "id": "worldc-067",
+      "q": "The currency of Hungary is:",
+      "options": [
+        "Koruna",
+        "Zloty",
+        "Forint",
+        "Lei"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Hungary is the Forint. The Hungarian Forint (HUF) was introduced in 1946 after extreme post-war hyperinflation.",
+      "tags": []
+    },
+    {
+      "id": "worldc-068",
+      "q": "The currency of Iceland is:",
+      "options": [
+        "Krone",
+        "Euro",
+        "Mark",
+        "Krona"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Iceland is the Krona. The Icelandic Króna (ISK) has been Iceland&#x27;s currency since 1885.",
+      "tags": []
+    },
+    {
+      "id": "worldc-069",
+      "q": "The currency of India is:",
+      "options": [
+        "Rupee",
+        "Taka",
+        "Rupiah",
+        "Riyal"
+      ],
+      "correct": 0,
+      "explanation": "The currency of India is the Rupee. The Indian Rupee (INR) is issued by the Reserve Bank of India.",
+      "tags": []
+    },
+    {
+      "id": "worldc-070",
+      "q": "The currency of Indonesia is:",
+      "options": [
+        "Rupee",
+        "Rupiah",
+        "Ringgit",
+        "Peso"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Indonesia is the Rupiah. The Indonesian Rupiah (IDR) takes its name from the Sanskrit &#x27;rupya&#x27; (silver coin).",
+      "tags": []
+    },
+    {
+      "id": "worldc-071",
+      "q": "The currency of Iran is:",
+      "options": [
+        "Dinar",
+        "Dirham",
+        "Rial",
+        "Riyal"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Iran is the Rial. The Iranian Rial (IRR) is one of the world&#x27;s most depreciated currencies.",
+      "tags": []
+    },
+    {
+      "id": "worldc-072",
+      "q": "The currency of Iraq is:",
+      "options": [
+        "Lira",
+        "Riyal",
+        "Pound",
+        "Dinar"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Iraq is the Dinar. The Iraqi Dinar (IQD) has been the currency since 1932.",
+      "tags": []
+    },
+    {
+      "id": "worldc-073",
+      "q": "The currency of Ireland is:",
+      "options": [
+        "Euro",
+        "Pound",
+        "Punt",
+        "Mark"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Ireland is the Euro. Ireland adopted the Euro in 1999, replacing the Irish Punt.",
+      "tags": []
+    },
+    {
+      "id": "worldc-074",
+      "q": "The currency of Israel is:",
+      "options": [
+        "Dinar",
+        "New Israeli Sheqel",
+        "Pound",
+        "Lira"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Israel is the New Israeli Sheqel. The New Israeli Shekel (NIS / ILS) replaced the old Shekel in 1985.",
+      "tags": []
+    },
+    {
+      "id": "worldc-075",
+      "q": "The currency of Italy is:",
+      "options": [
+        "Lira",
+        "Franc",
+        "Euro",
+        "Mark"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Italy is the Euro. Italy was a founding Euro adopter in 1999, replacing the Italian Lira.",
+      "tags": []
+    },
+    {
+      "id": "worldc-076",
+      "q": "The currency of Japan is:",
+      "options": [
+        "Yuan",
+        "Won",
+        "Ringgit",
+        "Yen"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Japan is the Yen. The Japanese Yen (JPY) is the world&#x27;s third-most-traded currency.",
+      "tags": []
+    },
+    {
+      "id": "worldc-077",
+      "q": "The currency of Jordan is:",
+      "options": [
+        "Dinar",
+        "Riyal",
+        "Dirham",
+        "Pound"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Jordan is the Dinar. The Jordanian Dinar (JOD) is among the world&#x27;s most highly valued currencies.",
+      "tags": []
+    },
+    {
+      "id": "worldc-078",
+      "q": "The currency of Kazakhstan is:",
+      "options": [
+        "Som",
+        "Tenge",
+        "Manat",
+        "Ruble"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Kazakhstan is the Tenge. The Kazakh Tenge (KZT) was introduced in 1993 after independence from the USSR.",
+      "tags": []
+    },
+    {
+      "id": "worldc-079",
+      "q": "The currency of Kenya is:",
+      "options": [
+        "Birr",
+        "Franc",
+        "Shilling",
+        "Pound"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Kenya is the Shilling. The Kenyan Shilling (KES) replaced the East African Shilling in 1966.",
+      "tags": []
+    },
+    {
+      "id": "worldc-080",
+      "q": "The currency of Kiribati is:",
+      "options": [
+        "Fijian Dollar",
+        "Pa'anga",
+        "US Dollar",
+        "Australian Dollar"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Kiribati is the Australian Dollar. Kiribati uses the Australian Dollar (AUD) along with its own coins.",
+      "tags": []
+    },
+    {
+      "id": "worldc-081",
+      "q": "The currency of North Korea is:",
+      "options": [
+        "Won",
+        "Yuan",
+        "Yen",
+        "Ruble"
+      ],
+      "correct": 0,
+      "explanation": "The currency of North Korea is the Won. The North Korean Won (KPW) is non-convertible and not openly traded internationally.",
+      "tags": []
+    },
+    {
+      "id": "worldc-082",
+      "q": "The currency of South Korea is:",
+      "options": [
+        "Yen",
+        "Won",
+        "Yuan",
+        "Ringgit"
+      ],
+      "correct": 1,
+      "explanation": "The currency of South Korea is the Won. The South Korean Won (KRW) is one of the most-traded Asian currencies.",
+      "tags": []
+    },
+    {
+      "id": "worldc-083",
+      "q": "The currency of Kuwait is:",
+      "options": [
+        "Riyal",
+        "Dirham",
+        "Dinar",
+        "Rial"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Kuwait is the Dinar. The Kuwaiti Dinar (KWD) is the world&#x27;s highest-valued currency by exchange rate.",
+      "tags": []
+    },
+    {
+      "id": "worldc-084",
+      "q": "The currency of Kyrgyzstan is:",
+      "options": [
+        "Tenge",
+        "Manat",
+        "Ruble",
+        "Som"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Kyrgyzstan is the Som. The Kyrgyzstani Som (KGS) was introduced in 1993 after independence.",
+      "tags": []
+    },
+    {
+      "id": "worldc-085",
+      "q": "The currency of Laos is:",
+      "options": [
+        "Kip",
+        "Riel",
+        "Baht",
+        "Dong"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Laos is the Kip. The Lao Kip (LAK) has been Laos&#x27;s currency since 1955.",
+      "tags": []
+    },
+    {
+      "id": "worldc-086",
+      "q": "The currency of Latvia is:",
+      "options": [
+        "Lats",
+        "Euro",
+        "Litas",
+        "Krona"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Latvia is the Euro. Latvia adopted the Euro on 1 January 2014, replacing the Lats.",
+      "tags": []
+    },
+    {
+      "id": "worldc-087",
+      "q": "The currency of Lebanon is:",
+      "options": [
+        "Lira",
+        "Dinar",
+        "Pound",
+        "Riyal"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Lebanon is the Pound. The Lebanese Pound (LBP) has suffered severe depreciation since 2019.",
+      "tags": []
+    },
+    {
+      "id": "worldc-088",
+      "q": "The currency of Liechtenstein is:",
+      "options": [
+        "Euro",
+        "Pound",
+        "Lira",
+        "Swiss Franc"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Liechtenstein is the Swiss Franc. Liechtenstein uses the Swiss Franc (CHF) under a 1924 customs union with Switzerland.",
+      "tags": []
+    },
+    {
+      "id": "worldc-089",
+      "q": "The currency of Libya is:",
+      "options": [
+        "Dinar",
+        "Pound",
+        "Riyal",
+        "Lira"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Libya is the Dinar. The Libyan Dinar (LYD) replaced the Libyan Pound in 1971.",
+      "tags": []
+    },
+    {
+      "id": "worldc-090",
+      "q": "The currency of Lesotho is:",
+      "options": [
+        "Rand",
+        "Loti",
+        "Lilangeni",
+        "Pula"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Lesotho is the Loti. The Lesotho Loti (LSL) is pegged 1:1 with the South African Rand.",
+      "tags": []
+    },
+    {
+      "id": "worldc-091",
+      "q": "The currency of Lithuania is:",
+      "options": [
+        "Litas",
+        "Lats",
+        "Euro",
+        "Krona"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Lithuania is the Euro. Lithuania adopted the Euro on 1 January 2015 — the last Baltic state to do so.",
+      "tags": []
+    },
+    {
+      "id": "worldc-092",
+      "q": "The currency of Luxembourg is:",
+      "options": [
+        "Franc",
+        "Mark",
+        "Pound",
+        "Euro"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Luxembourg is the Euro. Luxembourg was a founding Euro adopter in 1999, replacing the Luxembourg Franc.",
+      "tags": []
+    },
+    {
+      "id": "worldc-093",
+      "q": "The currency of North Macedonia is:",
+      "options": [
+        "Denar",
+        "Lev",
+        "Lei",
+        "Euro"
+      ],
+      "correct": 0,
+      "explanation": "The currency of North Macedonia is the Denar. The Macedonian Denar (MKD) replaced the Yugoslav Dinar in 1992.",
+      "tags": []
+    },
+    {
+      "id": "worldc-094",
+      "q": "The currency of Madagascar is:",
+      "options": [
+        "Franc",
+        "Ariary",
+        "Rand",
+        "Shilling"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Madagascar is the Ariary. The Malagasy Ariary (MGA) replaced the Franc in 2005.",
+      "tags": []
+    },
+    {
+      "id": "worldc-095",
+      "q": "The currency of Malawi is:",
+      "options": [
+        "Rand",
+        "Shilling",
+        "Kwacha",
+        "Pula"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Malawi is the Kwacha. The Malawian Kwacha (MWK) shares its name with the Zambian Kwacha.",
+      "tags": []
+    },
+    {
+      "id": "worldc-096",
+      "q": "The currency of Maldives is:",
+      "options": [
+        "Rupee",
+        "Taka",
+        "Riyal",
+        "Rufiyaa"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Maldives is the Rufiyaa. The Maldivian Rufiyaa (MVR) takes its name from the Hindi &#x27;rupiya&#x27; (silver coin).",
+      "tags": []
+    },
+    {
+      "id": "worldc-097",
+      "q": "The currency of Malaysia is:",
+      "options": [
+        "Ringgit",
+        "Rupiah",
+        "Rupee",
+        "Baht"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Malaysia is the Ringgit. The Malaysian Ringgit (MYR) is issued by Bank Negara Malaysia.",
+      "tags": []
+    },
+    {
+      "id": "worldc-098",
+      "q": "The currency of Mauritania is:",
+      "options": [
+        "Dirham",
+        "Ouguiya",
+        "Dinar",
+        "CFA Franc"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Mauritania is the Ouguiya. The Mauritanian Ouguiya (MRU) and the Madagascar Ariary are the only currencies in the world not based on decimal subdivision.",
+      "tags": []
+    },
+    {
+      "id": "worldc-099",
+      "q": "The currency of Marshall Islands is:",
+      "options": [
+        "Australian Dollar",
+        "Pacific Franc",
+        "US Dollar",
+        "Yen"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Marshall Islands is the US Dollar. The Marshall Islands officially use the US Dollar.",
+      "tags": []
+    },
+    {
+      "id": "worldc-100",
+      "q": "The currency of Malta is:",
+      "options": [
+        "Lira",
+        "Pound",
+        "Drachma",
+        "Euro"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Malta is the Euro. Malta adopted the Euro on 1 January 2008, replacing the Maltese Lira.",
+      "tags": []
+    },
+    {
+      "id": "worldc-101",
+      "q": "The currency of Mali is:",
+      "options": [
+        "CFA Franc",
+        "Naira",
+        "Dalasi",
+        "Cedi"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Mali is the CFA Franc. Mali uses the West African CFA Franc (XOF).",
+      "tags": []
+    },
+    {
+      "id": "worldc-102",
+      "q": "The currency of Mauritius is:",
+      "options": [
+        "Rand",
+        "Rupee",
+        "Franc",
+        "Shilling"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Mauritius is the Rupee. The Mauritian Rupee (MUR) takes its name from the Indian Rupee.",
+      "tags": []
+    },
+    {
+      "id": "worldc-103",
+      "q": "The currency of Micronesia is:",
+      "options": [
+        "Australian Dollar",
+        "Yen",
+        "US Dollar",
+        "Pacific Franc"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Micronesia is the US Dollar. The Federated States of Micronesia officially use the US Dollar.",
+      "tags": []
+    },
+    {
+      "id": "worldc-104",
+      "q": "The currency of Mexico is:",
+      "options": [
+        "Quetzal",
+        "Lempira",
+        "Real",
+        "Peso"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Mexico is the Peso. The Mexican Peso (MXN) is the world&#x27;s most-traded emerging-market currency.",
+      "tags": []
+    },
+    {
+      "id": "worldc-105",
+      "q": "The currency of Moldova is:",
+      "options": [
+        "Leu",
+        "Lei",
+        "Hryvnia",
+        "Ruble"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Moldova is the Leu. The Moldovan Leu (MDL) was introduced in 1993.",
+      "tags": []
+    },
+    {
+      "id": "worldc-106",
+      "q": "The currency of Monaco is:",
+      "options": [
+        "Franc",
+        "Euro",
+        "Lira",
+        "Pound"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Monaco is the Euro. Monaco uses the Euro by agreement with France/EU and mints its own coins.",
+      "tags": []
+    },
+    {
+      "id": "worldc-107",
+      "q": "The currency of Mongolia is:",
+      "options": [
+        "Yuan",
+        "Tenge",
+        "Tugrik",
+        "Som"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Mongolia is the Tugrik. The Mongolian Tögrög/Tugrik (MNT) has been the currency since 1925.",
+      "tags": []
+    },
+    {
+      "id": "worldc-108",
+      "q": "The currency of Montenegro is:",
+      "options": [
+        "Dinar",
+        "Lev",
+        "Lei",
+        "Euro"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Montenegro is the Euro. Montenegro uses the Euro unilaterally — even though it is not an EU member.",
+      "tags": []
+    },
+    {
+      "id": "worldc-109",
+      "q": "The currency of Morocco is:",
+      "options": [
+        "Dirham",
+        "Dinar",
+        "Franc",
+        "Riyal"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Morocco is the Dirham. The Moroccan Dirham (MAD) shares its name with the UAE Dirham.",
+      "tags": []
+    },
+    {
+      "id": "worldc-110",
+      "q": "The currency of Mozambique is:",
+      "options": [
+        "Rand",
+        "Metical",
+        "Kwacha",
+        "Escudo"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Mozambique is the Metical. The Mozambican Metical (MZN) takes its name from the historical Arab gold weight &#x27;mithqal&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "worldc-111",
+      "q": "The currency of Myanmar is:",
+      "options": [
+        "Baht",
+        "Kip",
+        "Kyat",
+        "Riel"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Myanmar is the Kyat. The Myanmar Kyat (MMK) was introduced in 1952.",
+      "tags": []
+    },
+    {
+      "id": "worldc-112",
+      "q": "The currency of Namibia is:",
+      "options": [
+        "Pula",
+        "Loti",
+        "Lilangeni",
+        "Dollar/Rand"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Namibia is the Dollar/Rand. Namibia uses the Namibian Dollar (NAD), pegged 1:1 with the South African Rand which also circulates.",
+      "tags": []
+    },
+    {
+      "id": "worldc-113",
+      "q": "The currency of Nauru is:",
+      "options": [
+        "Australian Dollar",
+        "NZ Dollar",
+        "US Dollar",
+        "Fijian Dollar"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Nauru is the Australian Dollar. Nauru uses the Australian Dollar (AUD).",
+      "tags": []
+    },
+    {
+      "id": "worldc-114",
+      "q": "The currency of Nepal is:",
+      "options": [
+        "Taka",
+        "Rupee",
+        "Ngultrum",
+        "Riyal"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Nepal is the Rupee. The Nepalese Rupee (NPR) is pegged to the Indian Rupee.",
+      "tags": []
+    },
+    {
+      "id": "worldc-115",
+      "q": "The currency of Netherlands is:",
+      "options": [
+        "Guilder",
+        "Pound",
+        "Euro",
+        "Mark"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Netherlands is the Euro. The Netherlands was a founding Euro adopter in 1999, replacing the Guilder.",
+      "tags": []
+    },
+    {
+      "id": "worldc-116",
+      "q": "The currency of New Zealand is:",
+      "options": [
+        "Australian Dollar",
+        "Pound",
+        "Fijian Dollar",
+        "Dollar"
+      ],
+      "correct": 3,
+      "explanation": "The currency of New Zealand is the Dollar. The New Zealand Dollar (NZD) is nicknamed the &#x27;Kiwi&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "worldc-117",
+      "q": "The currency of Nicaragua is:",
+      "options": [
+        "Cordoba",
+        "Quetzal",
+        "Lempira",
+        "Colon"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Nicaragua is the Cordoba. The Nicaraguan Córdoba (NIO) is named after Spanish founder Francisco Hernández de Córdoba.",
+      "tags": []
+    },
+    {
+      "id": "worldc-118",
+      "q": "The currency of Niger is:",
+      "options": [
+        "Naira",
+        "CFA Franc",
+        "Dalasi",
+        "Cedi"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Niger is the CFA Franc. Niger uses the West African CFA Franc (XOF).",
+      "tags": []
+    },
+    {
+      "id": "worldc-119",
+      "q": "The currency of Nigeria is:",
+      "options": [
+        "Cedi",
+        "Dalasi",
+        "Naira",
+        "CFA Franc"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Nigeria is the Naira. The Nigerian Naira (NGN) was introduced in 1973.",
+      "tags": []
+    },
+    {
+      "id": "worldc-120",
+      "q": "The currency of Norway is:",
+      "options": [
+        "Krona",
+        "Euro",
+        "Mark",
+        "Krone"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Norway is the Krone. The Norwegian Krone (NOK) is among the world&#x27;s most stable currencies.",
+      "tags": []
+    },
+    {
+      "id": "worldc-121",
+      "q": "The currency of Oman is:",
+      "options": [
+        "Rial",
+        "Riyal",
+        "Dinar",
+        "Dirham"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Oman is the Rial. The Omani Rial (OMR) is among the world&#x27;s highest-valued currencies.",
+      "tags": []
+    },
+    {
+      "id": "worldc-122",
+      "q": "The currency of Pakistan is:",
+      "options": [
+        "Taka",
+        "Rupee",
+        "Riyal",
+        "Tenge"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Pakistan is the Rupee. The Pakistani Rupee (PKR) is issued by the State Bank of Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "worldc-123",
+      "q": "The currency of Palau is:",
+      "options": [
+        "Yen",
+        "Australian Dollar",
+        "US Dollar",
+        "Pacific Franc"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Palau is the US Dollar. Palau officially uses the US Dollar.",
+      "tags": []
+    },
+    {
+      "id": "worldc-124",
+      "q": "The currency of Panama is:",
+      "options": [
+        "Peso",
+        "Colon",
+        "US Dollar",
+        "Balboa"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Panama is the Balboa. Panama&#x27;s Balboa (PAB) circulates alongside the US Dollar, which is the everyday currency.",
+      "tags": []
+    },
+    {
+      "id": "worldc-125",
+      "q": "The currency of Papua New Guinea is:",
+      "options": [
+        "Kina",
+        "Pa'anga",
+        "Vatu",
+        "Tala"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Papua New Guinea is the Kina. The PNG Kina (PGK) takes its name from a traditional shell currency.",
+      "tags": []
+    },
+    {
+      "id": "worldc-126",
+      "q": "The currency of Paraguay is:",
+      "options": [
+        "Sol",
+        "Guarani",
+        "Real",
+        "Peso"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Paraguay is the Guarani. The Paraguayan Guaraní (PYG) takes its name from the indigenous Guaraní people.",
+      "tags": []
+    },
+    {
+      "id": "worldc-127",
+      "q": "The currency of Peru is:",
+      "options": [
+        "Boliviano",
+        "Peso",
+        "Sol",
+        "Real"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Peru is the Sol. Peru&#x27;s Sol (PEN) was reintroduced in 1991, replacing the Inti.",
+      "tags": []
+    },
+    {
+      "id": "worldc-128",
+      "q": "The currency of Philippines is:",
+      "options": [
+        "Rupiah",
+        "Ringgit",
+        "Baht",
+        "Peso"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Philippines is the Peso. The Philippine Peso (PHP) is the only Asian currency named &#x27;peso&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "worldc-129",
+      "q": "The currency of Poland is:",
+      "options": [
+        "Zloty",
+        "Koruna",
+        "Forint",
+        "Euro"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Poland is the Zloty. The Polish Złoty (PLN) is one of the largest non-Euro currencies in the EU.",
+      "tags": []
+    },
+    {
+      "id": "worldc-130",
+      "q": "The currency of Portugal is:",
+      "options": [
+        "Escudo",
+        "Euro",
+        "Real",
+        "Peseta"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Portugal is the Euro. Portugal was a founding Euro adopter in 1999, replacing the Escudo.",
+      "tags": []
+    },
+    {
+      "id": "worldc-131",
+      "q": "The currency of Qatar is:",
+      "options": [
+        "Rial",
+        "Dinar",
+        "Riyal",
+        "Dirham"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Qatar is the Riyal. The Qatari Riyal (QAR) is pegged to the US Dollar.",
+      "tags": []
+    },
+    {
+      "id": "worldc-132",
+      "q": "The currency of South Sudan is:",
+      "options": [
+        "Dinar",
+        "Birr",
+        "Shilling",
+        "Pound"
+      ],
+      "correct": 3,
+      "explanation": "The currency of South Sudan is the Pound. The South Sudanese Pound (SSP) was introduced after independence in 2011.",
+      "tags": []
+    },
+    {
+      "id": "worldc-133",
+      "q": "The currency of Romania is:",
+      "options": [
+        "Leu",
+        "Lei",
+        "Forint",
+        "Lev"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Romania is the Leu. The Romanian Leu (RON) takes its name from the word for &#x27;lion&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "worldc-134",
+      "q": "The currency of Russia is:",
+      "options": [
+        "Hryvnia",
+        "Ruble",
+        "Tenge",
+        "Lat"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Russia is the Ruble. The Russian Ruble (RUB) is among the world&#x27;s oldest currencies (14th century).",
+      "tags": []
+    },
+    {
+      "id": "worldc-135",
+      "q": "The currency of Rwanda is:",
+      "options": [
+        "Shilling",
+        "Birr",
+        "Franc",
+        "CFA Franc"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Rwanda is the Franc. The Rwandan Franc (RWF) has been the currency since 1916.",
+      "tags": []
+    },
+    {
+      "id": "worldc-136",
+      "q": "The currency of Samoa is:",
+      "options": [
+        "Pa'anga",
+        "Vatu",
+        "Kina",
+        "Tala"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Samoa is the Tala. The Samoan Tala (WST) replaced the New Zealand Pound in 1967.",
+      "tags": []
+    },
+    {
+      "id": "worldc-137",
+      "q": "The currency of San Marino is:",
+      "options": [
+        "Euro",
+        "Lira",
+        "Franc",
+        "Pound"
+      ],
+      "correct": 0,
+      "explanation": "The currency of San Marino is the Euro. San Marino uses the Euro by agreement with the EU.",
+      "tags": []
+    },
+    {
+      "id": "worldc-138",
+      "q": "The currency of São Tomé and Príncipe is:",
+      "options": [
+        "Escudo",
+        "Dobra",
+        "Real",
+        "Franc"
+      ],
+      "correct": 1,
+      "explanation": "The currency of São Tomé and Príncipe is the Dobra. São Tomé and Príncipe&#x27;s Dobra (STN) is pegged to the Euro.",
+      "tags": []
+    },
+    {
+      "id": "worldc-139",
+      "q": "The currency of Saudi Arabia is:",
+      "options": [
+        "Dinar",
+        "Dirham",
+        "Riyal",
+        "Rial"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Saudi Arabia is the Riyal. The Saudi Riyal (SAR) is pegged to the US Dollar.",
+      "tags": []
+    },
+    {
+      "id": "worldc-140",
+      "q": "The currency of Senegal is:",
+      "options": [
+        "Naira",
+        "Dalasi",
+        "Cedi",
+        "CFA Franc"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Senegal is the CFA Franc. Senegal uses the West African CFA Franc (XOF).",
+      "tags": []
+    },
+    {
+      "id": "worldc-141",
+      "q": "The currency of Sierra Leone is:",
+      "options": [
+        "Leone",
+        "Cedi",
+        "Naira",
+        "Dalasi"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Sierra Leone is the Leone. The Sierra Leonean Leone (SLL/SLE) replaced the British West African Pound in 1964.",
+      "tags": []
+    },
+    {
+      "id": "worldc-142",
+      "q": "The currency of Singapore is:",
+      "options": [
+        "Ringgit",
+        "Dollar",
+        "Baht",
+        "Rupiah"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Singapore is the Dollar. The Singapore Dollar (SGD) is interchangeable 1:1 with the Brunei Dollar.",
+      "tags": []
+    },
+    {
+      "id": "worldc-143",
+      "q": "The currency of Slovakia is:",
+      "options": [
+        "Koruna",
+        "Zloty",
+        "Euro",
+        "Lei"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Slovakia is the Euro. Slovakia adopted the Euro on 1 January 2009, replacing the Slovak Koruna.",
+      "tags": []
+    },
+    {
+      "id": "worldc-144",
+      "q": "The currency of Slovenia is:",
+      "options": [
+        "Tolar",
+        "Lira",
+        "Mark",
+        "Euro"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Slovenia is the Euro. Slovenia adopted the Euro on 1 January 2007, replacing the Tolar.",
+      "tags": []
+    },
+    {
+      "id": "worldc-145",
+      "q": "The currency of Solomon Islands is:",
+      "options": [
+        "Dollar",
+        "Australian Dollar",
+        "Pa'anga",
+        "Vatu"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Solomon Islands is the Dollar. The Solomon Islands Dollar (SBD) replaced the Australian Dollar in 1977.",
+      "tags": []
+    },
+    {
+      "id": "worldc-146",
+      "q": "The currency of Somalia is:",
+      "options": [
+        "Birr",
+        "Shilling",
+        "Pound",
+        "Dinar"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Somalia is the Shilling. The Somali Shilling (SOS) has been the currency since 1962.",
+      "tags": []
+    },
+    {
+      "id": "worldc-147",
+      "q": "The currency of South Africa is:",
+      "options": [
+        "Pula",
+        "Lilangeni",
+        "Rand",
+        "Loti"
+      ],
+      "correct": 2,
+      "explanation": "The currency of South Africa is the Rand. The South African Rand (ZAR) is also used in Lesotho, Eswatini and Namibia (CMA).",
+      "tags": []
+    },
+    {
+      "id": "worldc-148",
+      "q": "The currency of Spain is:",
+      "options": [
+        "Peseta",
+        "Real",
+        "Franc",
+        "Euro"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Spain is the Euro. Spain was a founding Euro adopter in 1999, replacing the Peseta.",
+      "tags": []
+    },
+    {
+      "id": "worldc-149",
+      "q": "The currency of Sri Lanka is:",
+      "options": [
+        "Rupee",
+        "Rufiyaa",
+        "Taka",
+        "Riyal"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Sri Lanka is the Rupee. The Sri Lankan Rupee (LKR) replaced the Ceylonese Rupee at independence.",
+      "tags": []
+    },
+    {
+      "id": "worldc-150",
+      "q": "The currency of Sudan is:",
+      "options": [
+        "Dinar",
+        "Pound",
+        "Lira",
+        "Riyal"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Sudan is the Pound. The Sudanese Pound (SDG) was reintroduced in 2007 after the 2nd civil-war agreement.",
+      "tags": []
+    },
+    {
+      "id": "worldc-151",
+      "q": "The currency of Suriname is:",
+      "options": [
+        "Guilder",
+        "Bolívar",
+        "Dollar",
+        "Real"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Suriname is the Dollar. The Surinamese Dollar (SRD) replaced the Surinamese Guilder in 2004.",
+      "tags": []
+    },
+    {
+      "id": "worldc-152",
+      "q": "The currency of Swaziland (Eswatini) is:",
+      "options": [
+        "Rand",
+        "Loti",
+        "Pula",
+        "Lilangeni"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Swaziland (Eswatini) is the Lilangeni. The Lilangeni (SZL) is pegged 1:1 with the South African Rand.",
+      "tags": []
+    },
+    {
+      "id": "worldc-153",
+      "q": "The currency of Sweden is:",
+      "options": [
+        "Krona",
+        "Krone",
+        "Euro",
+        "Mark"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Sweden is the Krona. The Swedish Krona (SEK) is one of few EU currencies outside the Eurozone.",
+      "tags": []
+    },
+    {
+      "id": "worldc-154",
+      "q": "The currency of Switzerland is:",
+      "options": [
+        "Euro",
+        "Franc",
+        "Mark",
+        "Pound"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Switzerland is the Franc. The Swiss Franc (CHF) is also used in Liechtenstein.",
+      "tags": []
+    },
+    {
+      "id": "worldc-155",
+      "q": "The currency of Syria is:",
+      "options": [
+        "Lira",
+        "Dinar",
+        "Pound",
+        "Riyal"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Syria is the Pound. The Syrian Pound (SYP) is locally called &#x27;Lira&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "worldc-156",
+      "q": "The currency of Taiwan is:",
+      "options": [
+        "Yuan",
+        "Yen",
+        "Won",
+        "New Taiwan Dollar"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Taiwan is the New Taiwan Dollar. The New Taiwan Dollar (TWD) has been Taiwan&#x27;s currency since 1949.",
+      "tags": []
+    },
+    {
+      "id": "worldc-157",
+      "q": "The currency of Tajikistan is:",
+      "options": [
+        "Somoni",
+        "Tenge",
+        "Manat",
+        "Ruble"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Tajikistan is the Somoni. The Tajik Somoni (TJS) is named after Samanid emir Ismoil Somoni.",
+      "tags": []
+    },
+    {
+      "id": "worldc-158",
+      "q": "The currency of Tanzania is:",
+      "options": [
+        "Birr",
+        "Shilling",
+        "Kwacha",
+        "Rand"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Tanzania is the Shilling. The Tanzanian Shilling (TZS) replaced the East African Shilling in 1966.",
+      "tags": []
+    },
+    {
+      "id": "worldc-159",
+      "q": "The currency of Thailand is:",
+      "options": [
+        "Kip",
+        "Riel",
+        "Baht",
+        "Dong"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Thailand is the Baht. The Thai Baht (THB) has been Thailand&#x27;s currency since the 19th century.",
+      "tags": []
+    },
+    {
+      "id": "worldc-160",
+      "q": "The currency of Togo is:",
+      "options": [
+        "Naira",
+        "Cedi",
+        "Dalasi",
+        "CFA Franc"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Togo is the CFA Franc. Togo uses the West African CFA Franc (XOF).",
+      "tags": []
+    },
+    {
+      "id": "worldc-161",
+      "q": "The currency of Tonga is:",
+      "options": [
+        "Pa'anga",
+        "Tala",
+        "Vatu",
+        "Kina"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Tonga is the Pa&#x27;anga. The Tongan Paʻanga (TOP) was introduced in 1967.",
+      "tags": []
+    },
+    {
+      "id": "worldc-162",
+      "q": "The currency of Trinidad and Tobago is:",
+      "options": [
+        "East Caribbean Dollar",
+        "Dollar",
+        "US Dollar",
+        "Pound"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Trinidad and Tobago is the Dollar. The Trinidad and Tobago Dollar (TTD) is one of the most-traded Caribbean currencies.",
+      "tags": []
+    },
+    {
+      "id": "worldc-163",
+      "q": "The currency of Tunisia is:",
+      "options": [
+        "Dirham",
+        "Franc",
+        "Dinar",
+        "Pound"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Tunisia is the Dinar. The Tunisian Dinar (TND) replaced the Tunisian Franc in 1960.",
+      "tags": []
+    },
+    {
+      "id": "worldc-164",
+      "q": "The currency of Türkiye is:",
+      "options": [
+        "Pound",
+        "Dinar",
+        "Franc",
+        "Lira"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Türkiye is the Lira. The Turkish Lira (TRY) was redenominated in 2005 to remove six zeros.",
+      "tags": []
+    },
+    {
+      "id": "worldc-165",
+      "q": "The currency of Turkmenistan is:",
+      "options": [
+        "Manat",
+        "Tenge",
+        "Som",
+        "Ruble"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Turkmenistan is the Manat. The Turkmenistan Manat (TMT) shares its name with the Azerbaijani Manat.",
+      "tags": []
+    },
+    {
+      "id": "worldc-166",
+      "q": "The currency of Tuvalu is:",
+      "options": [
+        "Fijian Dollar",
+        "Australian Dollar",
+        "NZ Dollar",
+        "Tala"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Tuvalu is the Australian Dollar. Tuvalu uses the Australian Dollar (AUD) along with its own coins.",
+      "tags": []
+    },
+    {
+      "id": "worldc-167",
+      "q": "The currency of Uganda is:",
+      "options": [
+        "Birr",
+        "Pound",
+        "Shilling",
+        "Kwacha"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Uganda is the Shilling. The Ugandan Shilling (UGX) replaced the East African Shilling in 1966.",
+      "tags": []
+    },
+    {
+      "id": "worldc-168",
+      "q": "The currency of Ukraine is:",
+      "options": [
+        "Ruble",
+        "Lev",
+        "Lei",
+        "Hryvnia"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Ukraine is the Hryvnia. The Ukrainian Hryvnia (UAH) was introduced in 1996, replacing the karbovanets.",
+      "tags": []
+    },
+    {
+      "id": "worldc-169",
+      "q": "The currency of UAE is:",
+      "options": [
+        "Dirham",
+        "Riyal",
+        "Rial",
+        "Dinar"
+      ],
+      "correct": 0,
+      "explanation": "The currency of UAE is the Dirham. The UAE Dirham (AED) is pegged to the US Dollar at a fixed rate of 3.6725.",
+      "tags": []
+    },
+    {
+      "id": "worldc-170",
+      "q": "The currency of UK is:",
+      "options": [
+        "Euro",
+        "Pound Sterling",
+        "Dollar",
+        "Lira"
+      ],
+      "correct": 1,
+      "explanation": "The currency of UK is the Pound Sterling. The Pound Sterling (GBP) is the world&#x27;s oldest currency still in use — dating to ~1,200 years.",
+      "tags": []
+    },
+    {
+      "id": "worldc-171",
+      "q": "The currency of USA is:",
+      "options": [
+        "Euro",
+        "Pound",
+        "Dollar",
+        "Yen"
+      ],
+      "correct": 2,
+      "explanation": "The currency of USA is the Dollar. The US Dollar (USD) is the world&#x27;s primary reserve currency.",
+      "tags": []
+    },
+    {
+      "id": "worldc-172",
+      "q": "The currency of Uruguay is:",
+      "options": [
+        "Real",
+        "Boliviano",
+        "Sol",
+        "Peso"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Uruguay is the Peso. The Uruguayan Peso (UYU) replaced the Nuevo Peso in 1993.",
+      "tags": []
+    },
+    {
+      "id": "worldc-173",
+      "q": "The currency of Uzbekistan is:",
+      "options": [
+        "Som",
+        "Tenge",
+        "Manat",
+        "Ruble"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Uzbekistan is the Som. The Uzbekistani Som (UZS) shares its name with the Kyrgyz Som but is independent.",
+      "tags": []
+    },
+    {
+      "id": "worldc-174",
+      "q": "The currency of Vanuatu is:",
+      "options": [
+        "Pa'anga",
+        "Vatu",
+        "Tala",
+        "Kina"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Vanuatu is the Vatu. The Vanuatu Vatu (VUV) is one of the few currencies with no subdivision.",
+      "tags": []
+    },
+    {
+      "id": "worldc-175",
+      "q": "The currency of Vatican City is:",
+      "options": [
+        "Lira",
+        "Franc",
+        "Euro",
+        "Pound"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Vatican City is the Euro. Vatican City uses the Euro by special agreement and mints its own coins.",
+      "tags": []
+    },
+    {
+      "id": "worldc-176",
+      "q": "The currency of Venezuela is:",
+      "options": [
+        "Peso",
+        "Sol",
+        "Real",
+        "Bolivar"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Venezuela is the Bolivar. The Venezuelan Bolívar (VES) has been redenominated multiple times due to hyperinflation.",
+      "tags": []
+    },
+    {
+      "id": "worldc-177",
+      "q": "The currency of Vietnam is:",
+      "options": [
+        "Dong",
+        "Baht",
+        "Kyat",
+        "Kip"
+      ],
+      "correct": 0,
+      "explanation": "The currency of Vietnam is the Dong. The Vietnamese Đồng (VND) has been the currency since 1978.",
+      "tags": []
+    },
+    {
+      "id": "worldc-178",
+      "q": "The currency of Yemen is:",
+      "options": [
+        "Riyal",
+        "Rial",
+        "Dinar",
+        "Dirham"
+      ],
+      "correct": 1,
+      "explanation": "The currency of Yemen is the Rial. The Yemeni Rial (YER) became the sole currency after unification in 1996.",
+      "tags": []
+    },
+    {
+      "id": "worldc-179",
+      "q": "The currency of Zambia is:",
+      "options": [
+        "Rand",
+        "Shilling",
+        "Kwacha",
+        "Pula"
+      ],
+      "correct": 2,
+      "explanation": "The currency of Zambia is the Kwacha. The Zambian Kwacha (ZMW) shares its name with the Malawian Kwacha — both mean &#x27;dawn&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "worldc-180",
+      "q": "The currency of Zimbabwe is:",
+      "options": [
+        "Rand",
+        "Kwacha",
+        "Pula",
+        "Dollar"
+      ],
+      "correct": 3,
+      "explanation": "The currency of Zimbabwe is the Dollar. The Zimbabwe Dollar (ZWG) was reintroduced in 2024 as the ZiG (Zimbabwe Gold), backed by gold reserves.",
+      "tags": []
+    }
+  ]
+}

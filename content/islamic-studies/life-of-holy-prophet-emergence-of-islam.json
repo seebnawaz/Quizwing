@@ -1,0 +1,635 @@
+{
+  "topic_id": "life-of-holy-prophet-emergence-of-islam",
+  "topic_name": "Life of Holy Prophet Emergence of Islam",
+  "subject": "islamic-studies",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Life of Holy Prophet Emergence of Islam MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "lifeof-001",
+      "q": "Islam is the world's ______ largest religion.",
+      "options": [
+        "First",
+        "Second",
+        "Third",
+        "Fourth"
+      ],
+      "correct": 1,
+      "explanation": "Islam is the world's second largest religion after Christianity, with over 1.8 billion followers worldwide.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-002",
+      "q": "How many people follow Islam worldwide?",
+      "options": [
+        "Over 1 billion",
+        "Over 1.5 billion",
+        "Over 1.8 billion",
+        "Over 2.5 billion"
+      ],
+      "correct": 2,
+      "explanation": "Over 1.8 billion people follow Islam, making it the second largest religion in the world after Christianity.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-003",
+      "q": "When did Islam begin?",
+      "options": [
+        "570 CE",
+        "595 CE",
+        "610 CE",
+        "622 CE"
+      ],
+      "correct": 2,
+      "explanation": "Islam began in Arabia in 610 CE when the Holy Prophet Muhammad (PBUH) received the first revelation from Allah through angel Jibrael.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-004",
+      "q": "Which countries have the largest Muslim populations?",
+      "options": [
+        "Saudi Arabia, Iran, Iraq, Egypt",
+        "Turkey, Egypt, Morocco, Algeria",
+        "Indonesia, India, Bangladesh, Pakistan",
+        "Malaysia, Nigeria, Sudan, Somalia"
+      ],
+      "correct": 2,
+      "explanation": "The countries with the largest Muslim populations are Indonesia, India, Bangladesh, and Pakistan — all in South and Southeast Asia.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-005",
+      "q": "Arabs represent what percentage of all Muslims in the world?",
+      "options": [
+        "50–60%",
+        "40–50%",
+        "30–40%",
+        "20–25%"
+      ],
+      "correct": 3,
+      "explanation": "Arabs represent only 20–25% of all Muslims worldwide. The majority of Muslims live in South and Southeast Asia, not the Arab world.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-006",
+      "q": "More than half of the world's Muslims live in which region?",
+      "options": [
+        "Middle East",
+        "North Africa",
+        "South and Southeast Asia",
+        "Central Asia"
+      ],
+      "correct": 2,
+      "explanation": "More than half of the world's Muslims live in South and Southeast Asia — countries like Indonesia, India, Bangladesh and Pakistan have the largest Muslim populations.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-007",
+      "q": "What was the full name of the Holy Prophet (PBUH)?",
+      "options": [
+        "Muhammad ibn Abd Allah ibn Hashim",
+        "Abu al-Qasim Muhammad ibn Abd Allah ibn Abd al-Muttalib ibn Hashim",
+        "Muhammad ibn Hashim ibn Abd al-Muttalib",
+        "Abdullah ibn Abd al-Muttalib ibn Hashim"
+      ],
+      "correct": 1,
+      "explanation": "The full name of the Holy Prophet (PBUH) was Abu al-Qasim Muhammad ibn Abd Allah ibn Abd al-Muttalib ibn Hashim. Abu al-Qasim (Father of Qasim) was his Kunya.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-008",
+      "q": "What were the titles of the Holy Prophet (PBUH)?",
+      "options": [
+        "Al-Hafiz and Al-Ameen",
+        "Al-Sadiq and Al-Ameen",
+        "Al-Kareem and Al-Sadiq",
+        "Al-Rashid and Al-Ameen"
+      ],
+      "correct": 1,
+      "explanation": "The Holy Prophet (PBUH) was known by two famous titles: Al-Sadiq (The Truthful) and Al-Ameen (The Trustworthy). These were given to him by the Quraysh before his prophethood.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-009",
+      "q": "What does the title 'Al-Ameen' mean?",
+      "options": [
+        "The Truthful",
+        "The Brave",
+        "The Trustworthy",
+        "The Wise"
+      ],
+      "correct": 2,
+      "explanation": "Al-Ameen (الأمين) means 'The Trustworthy.' The Holy Prophet (PBUH) was given this title because of his exceptional honesty and integrity, even before receiving prophethood.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-010",
+      "q": "What does the title 'Al-Sadiq' mean?",
+      "options": [
+        "The Trustworthy",
+        "The Truthful",
+        "The Kind",
+        "The Generous"
+      ],
+      "correct": 1,
+      "explanation": "Al-Sadiq (الصادق) means 'The Truthful.' Together with Al-Ameen (The Trustworthy), these were the two famous titles given to the Holy Prophet (PBUH) by the Quraysh.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-011",
+      "q": "The Holy Prophet (PBUH) was a descendant of which Prophet?",
+      "options": [
+        "Prophet Ishaq (AS)",
+        "Prophet Yaqub (AS)",
+        "Prophet Ismail (AS)",
+        "Prophet Ibrahim (AS)"
+      ],
+      "correct": 2,
+      "explanation": "The Holy Prophet (PBUH) was a descendant of Prophet Ismail (AS) — the son of Prophet Ibrahim (AS). The Arab lineage traces back through Ismail (AS).",
+      "tags": []
+    },
+    {
+      "id": "lifeof-012",
+      "q": "In which year was the Holy Prophet (PBUH) born?",
+      "options": [
+        "560 CE — Year of Fire",
+        "565 CE — Year of Light",
+        "570 CE — Year of Elephant",
+        "580 CE — Year of the Flood"
+      ],
+      "correct": 2,
+      "explanation": "The Holy Prophet (PBUH) was born in the Year of Elephant (approx. 570 CE) — the year Abraha's army with elephants attempted to destroy the Kaabah.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-013",
+      "q": "The Holy Prophet (PBUH) belonged to which tribe?",
+      "options": [
+        "Banu Tamim",
+        "Banu Asad",
+        "Banu Khazraj",
+        "Quraysh"
+      ],
+      "correct": 3,
+      "explanation": "The Holy Prophet (PBUH) belonged to the noble Quraysh tribe of Makkah — specifically to the Banu Hashim clan within the Quraysh.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-014",
+      "q": "The Holy Prophet (PBUH) belonged to which clan within the Quraysh tribe?",
+      "options": [
+        "Banu Makhzum",
+        "Banu Umayyah",
+        "Banu Hashim",
+        "Banu Zohra"
+      ],
+      "correct": 2,
+      "explanation": "The Holy Prophet (PBUH) belonged to the Banu Hashim clan of the Quraysh tribe. Banu Hashim was one of the noblest clans of Makkah.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-015",
+      "q": "What was the name of the mother of the Holy Prophet (PBUH)?",
+      "options": [
+        "Hazrat Khadijah (RA)",
+        "Hazrat Fatimah bint Amr",
+        "Hazrat Aminah bint Wahb (RA)",
+        "Hazrat Halima Sadia (RA)"
+      ],
+      "correct": 2,
+      "explanation": "The mother of the Holy Prophet (PBUH) was Hazrat Aminah bint Wahb (RA). She belonged to the Banu Zohra clan and died when the Prophet was only 6 years old.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-016",
+      "q": "Hazrat Aminah (RA), the mother of the Holy Prophet (PBUH), belonged to which clan?",
+      "options": [
+        "Banu Hashim",
+        "Banu Umayyah",
+        "Banu Zohra",
+        "Banu Sa'd"
+      ],
+      "correct": 2,
+      "explanation": "Hazrat Aminah (RA) belonged to the Banu Zohra clan. Her father was Wahb bin Abd Manaf and her mother was Barrah bint Abdul Uzza.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-017",
+      "q": "At what age of the Holy Prophet (PBUH) did his mother Hazrat Aminah (RA) pass away?",
+      "options": [
+        "4 years old",
+        "5 years old",
+        "6 years old",
+        "8 years old"
+      ],
+      "correct": 2,
+      "explanation": "Hazrat Aminah (RA), the mother of the Holy Prophet (PBUH), passed away when the Prophet was only 6 years old. She is buried at Al-Abwa.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-018",
+      "q": "Where is Hazrat Aminah (RA), the mother of the Holy Prophet (PBUH), buried?",
+      "options": [
+        "Makkah",
+        "Madinah",
+        "Al-Abwa",
+        "Jannat-ul-Mualla"
+      ],
+      "correct": 2,
+      "explanation": "Hazrat Aminah (RA) is buried at Al-Abwa — a place between Makkah and Madinah. She passed away on the return journey from visiting the grave of Abdullah (the Prophet's father).",
+      "tags": []
+    },
+    {
+      "id": "lifeof-019",
+      "q": "What was the name of the father of the Holy Prophet (PBUH)?",
+      "options": [
+        "Hazrat Abd al-Muttalib",
+        "Hazrat Hashim",
+        "Hazrat Abdullah bin Abd al-Muttalib (RA)",
+        "Hazrat Wahb ibn Abd Manaf"
+      ],
+      "correct": 2,
+      "explanation": "The father of the Holy Prophet (PBUH) was Hazrat Abdullah bin Abd al-Muttalib (RA). He passed away before the Prophet's birth (some say a few months after).",
+      "tags": []
+    },
+    {
+      "id": "lifeof-020",
+      "q": "What was the name of the paternal grandfather of the Holy Prophet (PBUH)?",
+      "options": [
+        "Hashim ibn Abd Manaf",
+        "Abd al-Muttalib (Shaybah ibn Hashim)",
+        "Wahb ibn Abd Manaf",
+        "Qusai ibn Kilab"
+      ],
+      "correct": 1,
+      "explanation": "The paternal grandfather of the Holy Prophet (PBUH) was Abd al-Muttalib, also known as Shaybah ibn Hashim. He was born in 480 AD, died in 578 AD, and is buried in Jannat-ul-Mualla.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-021",
+      "q": "Where is the paternal grandfather of the Holy Prophet (PBUH) — Abd al-Muttalib — buried?",
+      "options": [
+        "Al-Abwa",
+        "Madinah",
+        "Jannat-ul-Baqi",
+        "Jannat-ul-Mualla"
+      ],
+      "correct": 3,
+      "explanation": "Abd al-Muttalib (paternal grandfather of the Holy Prophet) is buried in Jannat-ul-Mualla — the ancient cemetery in Makkah.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-022",
+      "q": "What was the name of the paternal grandmother of the Holy Prophet (PBUH)?",
+      "options": [
+        "Barrah bint Abd al-Uzza",
+        "Aminah bint Wahb",
+        "Fatimah bint Amr",
+        "Halima bint Harith"
+      ],
+      "correct": 2,
+      "explanation": "The paternal grandmother of the Holy Prophet (PBUH) was Fatimah bint Amr. She was the wife of Abd al-Muttalib.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-023",
+      "q": "How many foster mothers did the Holy Prophet (PBUH) have?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "explanation": "The Holy Prophet (PBUH) had two foster mothers: (1) Hazrat Suaiba Aslamiyyah (RA) — the first, and (2) Hazrat Halima Sadia (RA) — the second and more well-known.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-024",
+      "q": "Who was the first foster mother of the Holy Prophet (PBUH)?",
+      "options": [
+        "Hazrat Halima Sadia (RA)",
+        "Hazrat Suaiba Aslamiyyah (RA)",
+        "Hazrat Aminah (RA)",
+        "Hazrat Sheema bint Harith"
+      ],
+      "correct": 1,
+      "explanation": "The first foster mother of the Holy Prophet (PBUH) was Hazrat Suaiba Aslamiyyah (RA). She was the freed slave of Abu Lahab and nursed the Prophet before Hazrat Halima Sadia (RA).",
+      "tags": []
+    },
+    {
+      "id": "lifeof-025",
+      "q": "Who was the second and most famous foster mother of the Holy Prophet (PBUH)?",
+      "options": [
+        "Hazrat Suaiba Aslamiyyah (RA)",
+        "Hazrat Aminah bint Wahb (RA)",
+        "Hazrat Halima Sadia (RA)",
+        "Hazrat Fatimah bint Amr"
+      ],
+      "correct": 2,
+      "explanation": "The second and more famous foster mother was Hazrat Halima Sadia (RA). She belonged to the Banu Sa'd tribe and is renowned for the blessing and prosperity that came to her family while the Prophet was in her care.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-026",
+      "q": "Hazrat Halima Sadia (RA) belonged to which tribe?",
+      "options": [
+        "Banu Hashim",
+        "Banu Quraysh",
+        "Banu Sa'd",
+        "Banu Zohra"
+      ],
+      "correct": 2,
+      "explanation": "Hazrat Halima Sadia (RA) belonged to the Banu Sa'd tribe — a tribe known for raising children from Makkah in the desert for better health and learning of pure Arabic.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-027",
+      "q": "What was the surname of Hazrat Halima Sadia (RA)?",
+      "options": [
+        "Ummay Ayman",
+        "Ummay Kabtah",
+        "Ummay Salama",
+        "Ummay Habiba"
+      ],
+      "correct": 1,
+      "explanation": "The surname (Kunya) of Hazrat Halima Sadia (RA) was Ummay Kabtah. She was the daughter of Abu Dhuayb Abd Allah ibn al-Harith.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-028",
+      "q": "For how many years did Hazrat Halima Sadia (RA) take care of the Holy Prophet (PBUH)?",
+      "options": [
+        "2 years",
+        "3 years",
+        "4 years",
+        "5 years"
+      ],
+      "correct": 2,
+      "explanation": "Hazrat Halima Sadia (RA) looked after the Holy Prophet (PBUH) for 4 years in the desert, which was the custom for Arab families to send their children to the desert for health and language.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-029",
+      "q": "How many foster sisters did the Holy Prophet (PBUH) have?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "explanation": "The Holy Prophet (PBUH) had two foster sisters: Sheema bint Harith and Aneesa bint Harith — both daughters of Hazrat Halima Sadia (RA).",
+      "tags": []
+    },
+    {
+      "id": "lifeof-030",
+      "q": "What were the names of the two foster sisters of the Holy Prophet (PBUH)?",
+      "options": [
+        "Fatimah and Ruqayyah",
+        "Sheema bint Harith and Aneesa bint Harith",
+        "Zainab and Umm Kulthum",
+        "Safiyya and Barrah"
+      ],
+      "correct": 1,
+      "explanation": "The two foster sisters of the Holy Prophet (PBUH) were Sheema bint Harith and Aneesa bint Harith — daughters of Hazrat Halima Sadia (RA) and her husband Harith ibn Abd al-Uzza.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-031",
+      "q": "How many foster brothers did the Holy Prophet (PBUH) have?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "explanation": "The Holy Prophet (PBUH) had five foster brothers, including the most notable: Syed-ul-Shuhada Hazrat Hamza (RA), who also nursed from Hazrat Suaiba Aslamiyyah (RA).",
+      "tags": []
+    },
+    {
+      "id": "lifeof-032",
+      "q": "How many paternal uncles did the Holy Prophet (PBUH) have?",
+      "options": [
+        "7",
+        "9",
+        "11",
+        "13"
+      ],
+      "correct": 2,
+      "explanation": "The Holy Prophet (PBUH) had 11 paternal uncles. The three most notable in Islamic history are Abu Talib, Al-Abbas (RA), and Hazrat Hamzah (RA).",
+      "tags": []
+    },
+    {
+      "id": "lifeof-033",
+      "q": "Which paternal uncle of the Holy Prophet (PBUH) raised him after Abd al-Muttalib's death?",
+      "options": [
+        "Al-Abbas (RA)",
+        "Hazrat Hamzah (RA)",
+        "Abu Talib",
+        "Abu Lahab"
+      ],
+      "correct": 2,
+      "explanation": "Abu Talib ibn Abd al-Muttalib was the first paternal uncle who raised the Holy Prophet (PBUH) after the death of Abd al-Muttalib (his grandfather). He supported and protected the Prophet throughout his life, though he did not accept Islam.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-034",
+      "q": "Which paternal uncle of the Holy Prophet (PBUH) holds the title 'Syed-ul-Shuhada'?",
+      "options": [
+        "Abu Talib",
+        "Al-Abbas ibn Abd al-Muttalib (RA)",
+        "Hazrat Hamzah ibn Abd al-Muttalib (RA)",
+        "Az-Zubayr ibn Abd al-Muttalib"
+      ],
+      "correct": 2,
+      "explanation": "Hazrat Hamzah ibn Abd al-Muttalib (RA) holds the title Syed-ul-Shuhada — Chief of the Martyrs. He was martyred at the Battle of Uhud in 625 AD.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-035",
+      "q": "What does the title 'Syed-ul-Shuhada' mean?",
+      "options": [
+        "Chief of the Prophets",
+        "Chief of the Believers",
+        "Chief of the Martyrs",
+        "Chief of the Companions"
+      ],
+      "correct": 2,
+      "explanation": "Syed-ul-Shuhada means 'Chief of the Martyrs.' This title was given to Hazrat Hamzah (RA) — the paternal uncle of the Holy Prophet (PBUH) — after his martyrdom at the Battle of Uhud.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-036",
+      "q": "Hazrat Hamzah (RA) was the first commander-in-chief of:",
+      "options": [
+        "The Quraysh Army",
+        "The Islamic Army",
+        "The Army of Madinah",
+        "The Battle of Badr only"
+      ],
+      "correct": 1,
+      "explanation": "Hazrat Hamzah (RA) was the first commander-in-chief of the Islamic Army. He was a skilled warrior who played a key role in the early battles of Islam.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-037",
+      "q": "At which battle was Hazrat Hamzah (RA) martyred?",
+      "options": [
+        "Battle of Badr",
+        "Battle of Uhud",
+        "Battle of Khandaq",
+        "Battle of Hunayn"
+      ],
+      "correct": 1,
+      "explanation": "Hazrat Hamzah (RA) was martyred at the Battle of Uhud in 625 AD. He was killed by Washi ibn Harb, an Abyssinian slave who had been promised his freedom.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-038",
+      "q": "Who martyred Hazrat Hamzah (RA) at the Battle of Uhud?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Khalid ibn Walid",
+        "Washi ibn Harb"
+      ],
+      "correct": 3,
+      "explanation": "Hazrat Hamzah (RA) was martyred by Washi ibn Harb — an Abyssinian slave who killed him with a javelin at the Battle of Uhud in 625 AD.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-039",
+      "q": "How many years older was Hazrat Hamzah (RA) than the Holy Prophet (PBUH)?",
+      "options": [
+        "Same age",
+        "1 year",
+        "2 years",
+        "5 years"
+      ],
+      "correct": 2,
+      "explanation": "Hazrat Hamzah (RA) was two years older than the Holy Prophet (PBUH). He is also considered a foster brother since both were nursed by Hazrat Suaiba Aslamiyyah (RA).",
+      "tags": []
+    },
+    {
+      "id": "lifeof-040",
+      "q": "Which paternal uncle of the Holy Prophet (PBUH) was a fierce opponent of Islam?",
+      "options": [
+        "Abu Talib",
+        "Al-Abbas",
+        "Hazrat Hamzah (RA)",
+        "Abu Lahab"
+      ],
+      "correct": 3,
+      "explanation": "Abu Lahab was the 11th paternal uncle of the Holy Prophet (PBUH) and a fierce opponent of Islam. A full Surah in the Quran (Surah Al-Masad, 111) condemns him for his hostility towards the Prophet.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-041",
+      "q": "How many paternal aunts did the Holy Prophet (PBUH) have?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "explanation": "The Holy Prophet (PBUH) had 6 paternal aunts. The first was Safiyya bint Abd al-Muttalib (RA), who embraced Islam and is buried in Jannat-ul-Baqi.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-042",
+      "q": "Who was the first paternal aunt of the Holy Prophet (PBUH)?",
+      "options": [
+        "Atika bint Abd al-Muttalib",
+        "Umm Hakim bint Abd al-Muttalib",
+        "Safiyya bint Abd al-Muttalib (RA)",
+        "Arwa bint Abd al-Muttalib"
+      ],
+      "correct": 2,
+      "explanation": "The first paternal aunt of the Holy Prophet (PBUH) was Safiyya bint Abd al-Muttalib (RA). She embraced Islam and is a respected Companion. She is buried in Jannat-ul-Baqi in Madinah.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-043",
+      "q": "Which of the following is a famous paternal cousin of the Holy Prophet (PBUH)?",
+      "options": [
+        "Hazrat Abu Bakr (RA)",
+        "Hazrat Umer (RA)",
+        "Hazrat Ali bin Abu Talib (RA)",
+        "Hazrat Uthman (RA)"
+      ],
+      "correct": 2,
+      "explanation": "Hazrat Ali bin Abu Talib (RA) is a paternal cousin of the Holy Prophet (PBUH). He was the son of Abu Talib — the Prophet's uncle who raised him. Ali (RA) later became the 4th Caliph of Islam.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-044",
+      "q": "Hazrat Abdullah ibn Abbas (RA) was related to the Holy Prophet (PBUH) as his:",
+      "options": [
+        "Son-in-law",
+        "Foster brother",
+        "Paternal cousin",
+        "Companion only"
+      ],
+      "correct": 2,
+      "explanation": "Hazrat Abdullah ibn Abbas (RA) was a paternal cousin of the Holy Prophet (PBUH). He was the son of Al-Abbas ibn Abd al-Muttalib (RA). He is renowned as one of the greatest scholars of the Quran (Mufassir).",
+      "tags": []
+    },
+    {
+      "id": "lifeof-045",
+      "q": "The Holy Prophet (PBUH) was born in Makkah in which area?",
+      "options": [
+        "Near the Kaabah",
+        "Banu Zohra quarter",
+        "Banu Hashim quarter — present-day Mawlid area",
+        "Outside the city"
+      ],
+      "correct": 2,
+      "explanation": "The Holy Prophet (PBUH) was born in the Banu Hashim quarter of Makkah — the area now known as Mawlid al-Nabi (Birthplace of the Prophet).",
+      "tags": []
+    },
+    {
+      "id": "lifeof-046",
+      "q": "Before his prophethood, the Quraysh of Makkah called the Holy Prophet (PBUH) Al-Ameen because he was known for:",
+      "options": [
+        "His bravery in battle",
+        "His great wealth",
+        "His exceptional honesty and trustworthiness",
+        "His knowledge of the Torah"
+      ],
+      "correct": 2,
+      "explanation": "The Quraysh called the Holy Prophet (PBUH) Al-Ameen (The Trustworthy) even before prophethood because of his exceptional honesty, integrity and reliability. He was trusted as an arbitrator in disputes.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-047",
+      "q": "Which famous incident of the Holy Prophet's childhood is associated with the Banu Sa'd tribe?",
+      "options": [
+        "The first revelation",
+        "The Year of Sorrow",
+        "The splitting of the chest (Shaq-e-Sadr)",
+        "The rebuilding of the Kaabah"
+      ],
+      "correct": 2,
+      "explanation": "The miracle of Shaq-e-Sadr (splitting/cleansing of the Prophet's chest) took place while he was under the care of Hazrat Halima Sadia (RA) in the Banu Sa'd tribe. After this event, Halima returned him to his mother.",
+      "tags": []
+    },
+    {
+      "id": "lifeof-048",
+      "q": "What is the significance of the 'Year of Elephant' (Am al-Feel)?",
+      "options": [
+        "Year the Quran was first revealed",
+        "Year the Prophet migrated to Madinah",
+        "Year Abraha's army attempted to destroy the Kaabah; the Holy Prophet was born this year",
+        "Year the first Muslim community was formed"
+      ],
+      "correct": 2,
+      "explanation": "The 'Year of Elephant' (Am al-Feel) is the year Abraha's army (with war elephants) marched on Makkah to destroy the Kaabah but was destroyed by birds (Ababil) — as narrated in Surah Al-Fil. The Holy Prophet was born in this same year (approx. 570 CE).",
+      "tags": []
+    }
+  ]
+}

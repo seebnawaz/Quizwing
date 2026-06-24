@@ -1,0 +1,947 @@
+{
+  "topic_id": "five-pillars-of-islam",
+  "topic_name": "Five Pillars of Islam",
+  "subject": "islamic-studies",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Five Pillars of Islam MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "fivepi-001",
+      "q": "What is the Arabic name for the Five Pillars of Islam?",
+      "options": [
+        "Arkan al-Iman",
+        "Arkan-al-Islam",
+        "Arkan al-Hajj",
+        "Arkan al-Quran"
+      ],
+      "correct": 1,
+      "explanation": "The Five Pillars of Islam are called Arkan-al-Islam (also Arkan al-Din) in Arabic. Arkan al-Iman refers to the Six Articles of Faith, not the Five Pillars.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-002",
+      "q": "What is the literal meaning of 'Shahadah' in Arabic?",
+      "options": [
+        "Prayer",
+        "Fasting",
+        "Testimony",
+        "Pilgrimage"
+      ],
+      "correct": 2,
+      "explanation": "Shahadah is the Arabic word for testimony. It is the first pillar of Islam — the declaration that there is no God but Allah and that Muhammad (PBUH) is His last messenger.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-003",
+      "q": "What is the literal meaning of the word 'Kalimah'?",
+      "options": [
+        "Prayer",
+        "Declaration",
+        "Fasting",
+        "Purification"
+      ],
+      "correct": 1,
+      "explanation": "The word Kalimah literally means declaration. The Shahadah is referred to as the Kalimah because it is a declarative statement of faith.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-004",
+      "q": "What is the first Kalimah known as?",
+      "options": [
+        "Kalimah Tauheed",
+        "Kalimah Shahadah",
+        "Kalimah Tayiba",
+        "Kalimah Tamjeed"
+      ],
+      "correct": 2,
+      "explanation": "The first Kalimah is known as Kalimah Tayiba (the Pure Word): 'La ilaha illallah Muhammadur Rasulullah.'",
+      "tags": []
+    },
+    {
+      "id": "fivepi-005",
+      "q": "The recitation of the first Kalimah is known as:",
+      "options": [
+        "Tasbih",
+        "Tahleel",
+        "Takbeer",
+        "Tahmeed"
+      ],
+      "correct": 1,
+      "explanation": "The act of reciting the first Kalimah (La ilaha illallah) is specifically known as Tahleel. Tasbih = SubhanAllah; Takbeer = Allahu Akbar; Tahmeed = Alhamdulillah.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-006",
+      "q": "How many words are there in Kalimah Tayiba?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "explanation": "Kalimah Tayiba — 'La ilaha illallah Muhammadur Rasulullah' — contains 7 words and 48 letters.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-007",
+      "q": "How many letters are there in Kalimah Tayiba?",
+      "options": [
+        "38",
+        "42",
+        "46",
+        "48"
+      ],
+      "correct": 3,
+      "explanation": "Kalimah Tayiba contains 48 letters. This is a commonly tested fact in Pakistani competitive exams.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-008",
+      "q": "The first part of Kalimah Tayiba is mentioned in which Surah of the Quran?",
+      "options": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Al-Nisa"
+      ],
+      "correct": 2,
+      "explanation": "The first part of Kalimah Tayiba ('La ilaha illallah') is found in Surah Al-Imran (3:18). The second part ('Muhammadur Rasulullah') is in Surah Al-Fath (48:29).",
+      "tags": []
+    },
+    {
+      "id": "fivepi-009",
+      "q": "The second part of Kalimah Tayiba ('Muhammadur Rasulullah') is mentioned in which Surah?",
+      "options": [
+        "Surah Al-Fath",
+        "Surah Al-Imran",
+        "Surah Al-Baqarah",
+        "Surah At-Tawbah"
+      ],
+      "correct": 0,
+      "explanation": "The second part of Kalimah Tayiba is mentioned in Surah Al-Fath (48:29): 'Muhammad is the Messenger of Allah.' The first part is in Surah Al-Imran.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-010",
+      "q": "What is the literal meaning of 'Salat'?",
+      "options": [
+        "To fast",
+        "To pray or bless",
+        "To purify",
+        "To testify"
+      ],
+      "correct": 1,
+      "explanation": "The word Salat literally means to pray or to bless in Arabic. In Iranian and Indian languages, the same prayer is known as Namaz.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-011",
+      "q": "How many times is the word 'Salat' mentioned in the Holy Quran?",
+      "options": [
+        "72",
+        "77",
+        "82",
+        "91"
+      ],
+      "correct": 2,
+      "explanation": "The word Salat is mentioned 82 times in the Holy Quran, reflecting the central importance of prayer in Islamic practice.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-012",
+      "q": "The call to Salat (Azan) is delivered by whom?",
+      "options": [
+        "Imam",
+        "Muezzin",
+        "Mufti",
+        "Qazi"
+      ],
+      "correct": 1,
+      "explanation": "The person who delivers the Azan (call to prayer) is known as the Muezzin (Muadhin). The Imam leads the prayer itself.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-013",
+      "q": "What is the Arabic name for ablution performed before Salat?",
+      "options": [
+        "Ghusl",
+        "Tayammum",
+        "Wuzu",
+        "Ihram"
+      ],
+      "correct": 2,
+      "explanation": "The Arabic name for ablution is Wuzu (Wudu). Ghusl is a full-body bath; Tayammum is dry ablution with clean earth when water is unavailable.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-014",
+      "q": "Which two prayers were essential in the very early period of Islam?",
+      "options": [
+        "Fajr and Zuhr",
+        "Fajr and Isha",
+        "Zuhr and Asr",
+        "Maghrib and Isha"
+      ],
+      "correct": 1,
+      "explanation": "The prayers essential and established in the early period of Islam were Fajr (dawn prayer) and Isha (night prayer) before all five became obligatory.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-015",
+      "q": "'Qaada' in Salat means:",
+      "options": [
+        "To bow in prayer",
+        "To prostrate (Sajdah)",
+        "To sit straight in Salat",
+        "To stand upright"
+      ],
+      "correct": 2,
+      "explanation": "Qaada means to sit straight in Salat — the seated posture during which Tashahhud is recited. It is distinct from Ruku (bowing) and Sajdah (prostration).",
+      "tags": []
+    },
+    {
+      "id": "fivepi-016",
+      "q": "How many types of prayers are there in Islam?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "explanation": "There are four types of prayers in Islam: (1) Farz — obligatory, (2) Wajib — necessary, (3) Sunnah — traditional practice of the Prophet, (4) Nafl — optional voluntary prayers.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-017",
+      "q": "The five obligatory (Farz) prayers were made compulsory in:",
+      "options": [
+        "5th Nabvi",
+        "8th Nabvi",
+        "10th Nabvi",
+        "12th Nabvi"
+      ],
+      "correct": 2,
+      "explanation": "The five daily obligatory prayers were made compulsory in the 10th year of Nabvi (the Prophet's mission), during the Night Journey (Isra wal Miraj).",
+      "tags": []
+    },
+    {
+      "id": "fivepi-018",
+      "q": "How many total rakats are in Fajr prayer (Sunnah + Farz)?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correct": 2,
+      "explanation": "Fajr consists of 2 Sunnah rakats followed by 2 Farz rakats = 4 total. It is the earliest and shortest of the five daily prayers.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-019",
+      "q": "Which of the following is a Wajib prayer?",
+      "options": [
+        "Salat-e-Tahajjud",
+        "Salat-e-Ishraq",
+        "Witr prayer",
+        "Salat-e-Traveeh"
+      ],
+      "correct": 2,
+      "explanation": "Witr prayer (3 rakats, offered after Isha) is Wajib (obligatory but slightly below Farz). Eid prayers are also Wajib. Tahajjud, Ishraq and Traveeh are Sunnah or Nafl.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-020",
+      "q": "How many rakats does the Witr prayer consist of?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2,
+      "explanation": "The Witr prayer consists of 3 rakats and is offered after the Isha prayer. It is a Wajib prayer, meaning its performance is necessary (obligatory) for Muslims.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-021",
+      "q": "Eid prayers consist of how many rakats and additional Takbirs?",
+      "options": [
+        "2 rakats and 4 Takbirs",
+        "2 rakats and 6 Takbirs",
+        "4 rakats and 4 Takbirs",
+        "4 rakats and 6 Takbirs"
+      ],
+      "correct": 1,
+      "explanation": "Eid prayers consist of 2 rakats with 6 additional Takbirs. Takbeer-e-Tashreeq is also recited during Eid-ul-Azha.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-022",
+      "q": "Salat-e-Istikharah is offered to:",
+      "options": [
+        "Seek forgiveness for sins",
+        "Seek divine guidance",
+        "Seek protection from enemies",
+        "Pray during solar eclipse"
+      ],
+      "correct": 1,
+      "explanation": "Salat-e-Istikharah is a Sunnah prayer offered specifically to seek divine guidance when making an important decision. 'Istikhara' means to seek what is good.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-023",
+      "q": "Salat-e-Tahajjud is offered during:",
+      "options": [
+        "After sunrise",
+        "Before noon",
+        "From midnight to predawn",
+        "During the month of Ramadan only"
+      ],
+      "correct": 2,
+      "explanation": "Salat-e-Tahajjud is offered voluntarily from midnight until just before Fajr (predawn). It is one of the most virtuous Sunnah prayers and was a regular practice of the Holy Prophet (PBUH).",
+      "tags": []
+    },
+    {
+      "id": "fivepi-024",
+      "q": "Which prayer is offered at the occasion of a solar eclipse?",
+      "options": [
+        "Salat-e-Kasoof",
+        "Salat-e-Khasoof",
+        "Salat-e-Istisqa",
+        "Salat-e-Khawf"
+      ],
+      "correct": 0,
+      "explanation": "Salat-e-Kasoof is performed during a solar eclipse. Salat-e-Khasoof is performed during a lunar eclipse. Both are Sunnah prayers.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-025",
+      "q": "Which prayer is offered due to shortage of rain?",
+      "options": [
+        "Salat-e-Kasoof",
+        "Salat-e-Khasoof",
+        "Salat-e-Istisqa",
+        "Salat-e-Khawf"
+      ],
+      "correct": 2,
+      "explanation": "Salat-e-Istisqa is offered to pray for rain during periods of drought. 'Istisqa' means seeking water. It is performed in congregation in an open area.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-026",
+      "q": "What is the literal meaning of 'Sawm' (fasting)?",
+      "options": [
+        "To pray",
+        "To purify",
+        "To stop or bring to a halt",
+        "To testify"
+      ],
+      "correct": 2,
+      "explanation": "The literal meaning of the Arabic word Sawm is 'to stop' or 'to bring to a halt' — referring to restraining oneself from food, drink and other prohibitions from Fajr to sunset.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-027",
+      "q": "Obligatory fasting is observed in which month of the Islamic calendar?",
+      "options": [
+        "Muharram",
+        "Rajab",
+        "Sha'aban",
+        "Ramadan"
+      ],
+      "correct": 3,
+      "explanation": "Obligatory fasting (Sawm) is observed in Ramadan, the 9th month of the Islamic (Hijri) calendar. Ramadan is the month in which the Quran was first revealed.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-028",
+      "q": "Ramadan is which month of the Islamic calendar?",
+      "options": [
+        "7th",
+        "8th",
+        "9th",
+        "10th"
+      ],
+      "correct": 2,
+      "explanation": "Ramadan is the 9th month of the Islamic Hijri calendar. It is the holiest month in Islam, during which the Quran was first revealed and fasting is obligatory.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-029",
+      "q": "The command to fast was revealed in which month?",
+      "options": [
+        "Ramadan",
+        "Sha'aban",
+        "Rajab",
+        "Muharram"
+      ],
+      "correct": 1,
+      "explanation": "The command to fast in Ramadan was revealed during the month of Sha'aban (the 8th month of the Hijri calendar), just before the first Ramadan fasting.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-030",
+      "q": "Fasting (Sawm) became obligatory in which year of Hijra?",
+      "options": [
+        "1 A.H.",
+        "2 A.H.",
+        "3 A.H.",
+        "4 A.H."
+      ],
+      "correct": 1,
+      "explanation": "Fasting in the month of Ramadan became obligatory in 2 A.H. (After Hijra). The order of Zakat was also revealed in the same year.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-031",
+      "q": "Fasting is commanded in which Surah of the Quran?",
+      "options": [
+        "Surah Al-Imran",
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah An-Nisa"
+      ],
+      "correct": 2,
+      "explanation": "The command to fast is in Surah Al-Baqarah (2:183): 'O you who believe! Fasting is prescribed for you...' The purpose of fasting stated in this verse is Taqwa (God-consciousness).",
+      "tags": []
+    },
+    {
+      "id": "fivepi-032",
+      "q": "The purpose of fasting as described in the Holy Quran is:",
+      "options": [
+        "Worship (Ibadah)",
+        "Taqwa (God-consciousness)",
+        "Gratitude (Shukr)",
+        "Patience (Sabr)"
+      ],
+      "correct": 1,
+      "explanation": "Surah Al-Baqarah (2:183) states that fasting is prescribed so that you may attain Taqwa (God-consciousness / piety). This is the primary stated purpose of Sawm in the Quran.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-033",
+      "q": "How many days are forbidden for fasting throughout the year?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "explanation": "Five days are forbidden for fasting: (1) Eid-ul-Fitr, (2) Eid-ul-Azha, (3) 11th Zilhajj, (4) 12th Zilhajj, (5) 13th Zilhajj. Fasting on these days is Haram.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-034",
+      "q": "The pre-dawn meal before Fajr prayer in Ramadan is known as:",
+      "options": [
+        "Iftari",
+        "Suhoor",
+        "Hady",
+        "Talbiyah"
+      ],
+      "correct": 1,
+      "explanation": "The pre-dawn meal eaten before the Fajr prayer begins in Ramadan is called Suhoor (also written Sehri). It is a Sunnah to eat Suhoor before beginning the fast.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-035",
+      "q": "The literal meaning of 'Iftar' is:",
+      "options": [
+        "To pray",
+        "To fast",
+        "To break",
+        "To purify"
+      ],
+      "correct": 2,
+      "explanation": "The literal meaning of Iftar is 'to break.' Iftari is the meal taken at sunset to break the fast. The fast is traditionally broken with dates and water following the Sunnah.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-036",
+      "q": "'Bab ul Riyan' is the door in Paradise exclusively reserved for:",
+      "options": [
+        "Martyrs",
+        "Scholars",
+        "Those who fast",
+        "Pilgrims who perform Hajj"
+      ],
+      "correct": 2,
+      "explanation": "Bab ul Riyan (Gate of Rayyan) is one of the eight gates of Paradise exclusively reserved for those who observe fasting. No one else will enter through this gate.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-037",
+      "q": "What is the first Ashra (ten days) of Ramadan known for?",
+      "options": [
+        "Forgiveness of Allah",
+        "Mercy of Allah",
+        "Safety from Hell",
+        "Night of Power"
+      ],
+      "correct": 1,
+      "explanation": "The three Ashras of Ramadan: 1st Ashra (days 1–10) = Mercy of Allah; 2nd Ashra (days 11–20) = Forgiveness of Allah; 3rd Ashra (days 21–30) = Safety from Hell.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-038",
+      "q": "The literal meaning of 'Zakat' is:",
+      "options": [
+        "To pray",
+        "To fast",
+        "Which purifies",
+        "To testify"
+      ],
+      "correct": 2,
+      "explanation": "Zakat is derived from the Arabic root 'zaka' and its literal meaning is 'which purifies' or 'purity.' Zakat purifies a Muslim's remaining wealth and the soul of greed.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-039",
+      "q": "From which Arabic root is the word 'Zakat' derived?",
+      "options": [
+        "Zakara",
+        "Zaka",
+        "Zakaba",
+        "Zakana"
+      ],
+      "correct": 1,
+      "explanation": "The word Zakat is derived from the Arabic root 'zaka' meaning purity, growth and blessing. The act of giving Zakat purifies a Muslim's wealth.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-040",
+      "q": "What is 'Kharaj' in Islamic finance?",
+      "options": [
+        "Land tax",
+        "Zakat on gold",
+        "Zakat on livestock",
+        "Tax on trade goods"
+      ],
+      "correct": 0,
+      "explanation": "Kharaj is a land tax in Islamic jurisprudence — a revenue collected from land cultivated by non-Muslims under an Islamic state. It is different from Zakat.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-041",
+      "q": "The order of Zakat was revealed in which year?",
+      "options": [
+        "1 A.H.",
+        "2 A.H.",
+        "5 A.H.",
+        "9 A.H."
+      ],
+      "correct": 1,
+      "explanation": "The order of Zakat was revealed in 2 A.H. (the same year fasting became obligatory). However, the complete and detailed system of Zakat was established in 9 A.H.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-042",
+      "q": "The complete system of Zakat was established in which year?",
+      "options": [
+        "2 A.H.",
+        "5 A.H.",
+        "7 A.H.",
+        "9 A.H."
+      ],
+      "correct": 3,
+      "explanation": "While the order of Zakat was revealed in 2 A.H., the complete and organized system of Zakat collection and distribution was fully established in 9 A.H.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-043",
+      "q": "Those who are liable to pay Zakat are known as:",
+      "options": [
+        "Jaabi",
+        "Sahib-e-Nisab",
+        "Mustahiq",
+        "Muzakki"
+      ],
+      "correct": 1,
+      "explanation": "Those who possess wealth equal to or above the Nisab (minimum threshold) and are thus liable to pay Zakat are called Sahib-e-Nisab. Jaabi is the person who collects Zakat.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-044",
+      "q": "The person who collects Zakat is known as:",
+      "options": [
+        "Mustahiq",
+        "Sahib-e-Nisab",
+        "Jaabi",
+        "Wali"
+      ],
+      "correct": 2,
+      "explanation": "Jaabi (plural: Jubaat) is the Zakat collector appointed by the Islamic state. Sahib-e-Nisab is the Zakat payer; Mustahiq is the deserving recipient of Zakat.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-045",
+      "q": "What is the rate of Zakat on gold, silver and currency?",
+      "options": [
+        "1%",
+        "2%",
+        "2.5%",
+        "5%"
+      ],
+      "correct": 2,
+      "explanation": "The rate of Zakat on gold, silver and currency (cash/savings) is 2.5% (1/40th of the total amount). This applies when the wealth has been held for a full lunar year (Hawl).",
+      "tags": []
+    },
+    {
+      "id": "fivepi-046",
+      "q": "The Nisab (minimum threshold) of Zakat in gold is:",
+      "options": [
+        "5 tolas",
+        "7.5 tolas",
+        "10 tolas",
+        "52.5 tolas"
+      ],
+      "correct": 1,
+      "explanation": "The Nisab of Zakat in gold is 7.5 tolas (approximately 87.48 grams). The Nisab in silver is 52.5 tolas. If a person owns gold equal to or above 7.5 tolas, Zakat is obligatory.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-047",
+      "q": "The Nisab of Zakat in silver is:",
+      "options": [
+        "7.5 tolas",
+        "40 tolas",
+        "52.5 tolas",
+        "60 tolas"
+      ],
+      "correct": 2,
+      "explanation": "The Nisab of Zakat in silver is 52.5 tolas (approximately 612 grams). The Nisab in gold is 7.5 tolas. The silver Nisab is the more commonly used standard for modern currency.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-048",
+      "q": "How many times does the word 'Zakat' appear in the Quran alongside 'Namaz' (Salat)?",
+      "options": [
+        "22",
+        "28",
+        "32",
+        "36"
+      ],
+      "correct": 2,
+      "explanation": "The word Zakat appears together with Namaz (Salat) 32 times in the Quran, emphasizing their inseparable importance in Islamic practice. Zakat also appears 22 times in Makki Surahs.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-049",
+      "q": "How many heads (recipients) of Zakat are there?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 3,
+      "explanation": "There are 8 heads (categories of recipients) of Zakat, all mentioned in Ayat 60 of Surah At-Tawbah: the poor, the needy, Zakat collectors, new Muslims, those in bondage, debtors, in the way of Allah, and travelers in need.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-050",
+      "q": "Zakat is forbidden for which family/tribe?",
+      "options": [
+        "Banu Umayyah",
+        "Banu Hashim",
+        "Banu Tamim",
+        "Banu Asad"
+      ],
+      "correct": 1,
+      "explanation": "Zakat is Haram (forbidden) for Banu Hashim — the family clan of the Holy Prophet (PBUH). It is also forbidden for the Prophet's family (Ahl al-Bayt). This is to protect their dignity.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-051",
+      "q": "Which family members are NOT entitled to receive Zakat?",
+      "options": [
+        "Cousins and nephews",
+        "Parents, husband, wife and children",
+        "Neighbours in poverty",
+        "Converts to Islam"
+      ],
+      "correct": 1,
+      "explanation": "A person cannot give Zakat to their parents, husband, wife or children because the giver is already financially responsible for these family members. Zakat should benefit those outside this circle of dependency.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-052",
+      "q": "What is the literal meaning of 'Hajj'?",
+      "options": [
+        "To pray",
+        "To fast",
+        "To purify",
+        "To intend to go somewhere for the sake of visiting"
+      ],
+      "correct": 3,
+      "explanation": "The word Hajj literally means 'to intend to go somewhere for the sake of visiting' in Arabic. It refers to the annual Islamic pilgrimage to the holy sites in and around Makkah, Saudi Arabia.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-053",
+      "q": "The first Hajj was performed by:",
+      "options": [
+        "Hazrat Ibrahim (AS) and Hazrat Ismail (AS)",
+        "Hazrat Adam (AS) and Hazrat Hawa (RA)",
+        "Hazrat Musa (AS)",
+        "Hazrat Sulaiman (AS)"
+      ],
+      "correct": 1,
+      "explanation": "According to Islamic tradition, the first Hajj was performed by Hazrat Adam (AS) and Hazrat Hawa (RA). Later, Hazrat Ibrahim (AS) rebuilt the Kaabah and re-established the formal rites of Hajj.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-054",
+      "q": "Hajj was made obligatory in which year of Hijra?",
+      "options": [
+        "5th Hijri",
+        "7th Hijri",
+        "9th Hijri",
+        "10th Hijri"
+      ],
+      "correct": 2,
+      "explanation": "Hajj was made obligatory in the 9th Hijri. The Prophet (PBUH) performed his only Hajj — the Farewell Pilgrimage (Hajjat ul-Wada) — in 10th Hijri.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-055",
+      "q": "The ritual of Hajj is performed in which Islamic month?",
+      "options": [
+        "Ramadan",
+        "Muharram",
+        "Rajab",
+        "Zilhajj"
+      ],
+      "correct": 3,
+      "explanation": "Hajj is performed in the month of Zilhajj (the 12th and last month of the Islamic Hijri calendar). The main rites span from the 9th to 13th of Zilhajj.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-056",
+      "q": "How many types of Hajj are there in Islam?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "explanation": "There are 3 types of Hajj: (1) Afrad — performing Hajj alone without Umrah, (2) Qiran — combining Hajj and Umrah in one Ihram, (3) Tamatae — performing Umrah first then Hajj with a break in between.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-057",
+      "q": "The 9th of Zilhajj is known as:",
+      "options": [
+        "Day of Sacrifice (Youm-e-Nahr)",
+        "Day of Arafat (Youm-e-Arafat)",
+        "Day of Eid",
+        "Day of Stoning"
+      ],
+      "correct": 1,
+      "explanation": "The 9th of Zilhajj is the Day of Arafat (Youm-e-Arafat). Pilgrims gather on the plain of Arafat for Wuquf — the most essential rite of Hajj. The Prophet (PBUH) said 'Hajj is Arafat.'",
+      "tags": []
+    },
+    {
+      "id": "fivepi-058",
+      "q": "The most important step of Hajj after donning Ihram is:",
+      "options": [
+        "Tawaf",
+        "Saee",
+        "Wuquf (stay at Arafat)",
+        "Ramee al-Jamarat"
+      ],
+      "correct": 2,
+      "explanation": "Wuquf-e-Arafat (standing/staying at the plain of Arafat on 9th Zilhajj) is the most important rite of Hajj after wearing Ihram. The Prophet (PBUH) said 'Al-Hajj Arafat' — Hajj IS Arafat.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-059",
+      "q": "Tawaf refers to walking around the Kaabah how many times?",
+      "options": [
+        "4",
+        "5",
+        "7",
+        "9"
+      ],
+      "correct": 2,
+      "explanation": "Tawaf consists of circling the Kaabah 7 times in an anti-clockwise direction. It is a Farz of Hajj (Tawaf-e-Ziyarah) and is also performed at the beginning (Tawaf al-Qudum) and end (Tawaf al-Wida).",
+      "tags": []
+    },
+    {
+      "id": "fivepi-060",
+      "q": "What are the three Farz (obligatory acts) of Hajj?",
+      "options": [
+        "Ihram, Tawaf, Saee",
+        "Ihram, Wuquf-e-Arafat, Tawaf-e-Ziyarah",
+        "Saee, Sacrifice, Shaving",
+        "Wuquf, Ramee, Tawaf-al-Wida"
+      ],
+      "correct": 1,
+      "explanation": "The three Farz of Hajj are: (1) Ihram — entering the sacred state, (2) Wuquf-e-Arafat — staying at Arafat on 9th Zilhajj, (3) Tawaf-e-Ziyarah — the obligatory tawaf after returning from Arafat.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-061",
+      "q": "The places where pilgrims assume Ihram before entering the holy precincts are called:",
+      "options": [
+        "Talbiyah",
+        "Meeqat",
+        "Jamarats",
+        "Muzdalfa"
+      ],
+      "correct": 1,
+      "explanation": "Meeqat (plural: Mawaqit) are the designated boundary points around Makkah at which pilgrims must enter the state of Ihram before proceeding for Hajj or Umrah.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-062",
+      "q": "Saee is the ritual of running between:",
+      "options": [
+        "Mina and Arafat",
+        "Makkah and Madinah",
+        "Safa and Marwah",
+        "Muzdalfa and Mina"
+      ],
+      "correct": 2,
+      "explanation": "Saee is the ritual of running (or brisk walking) seven times between the hills of Safa and Marwah in Masjid al-Haram. It commemorates Hazrat Hagar's search for water for her son Ismail (AS).",
+      "tags": []
+    },
+    {
+      "id": "fivepi-063",
+      "q": "Pebbles for stoning the devil (Ramee) are collected from:",
+      "options": [
+        "Mina",
+        "Arafat",
+        "Muzdalfa",
+        "Masjid al-Haram"
+      ],
+      "correct": 2,
+      "explanation": "Pebbles for Ramee al-Jamarat (stoning the pillars) are collected from Muzdalfa. Pilgrims spend the night at Muzdalfa after departing from Arafat on the 9th Zilhajj.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-064",
+      "q": "The stoning of the devil during Hajj is called:",
+      "options": [
+        "Saee",
+        "Talbiyah",
+        "Ramee al-Jamarat",
+        "Tawaf al-Wida"
+      ],
+      "correct": 2,
+      "explanation": "Ramee al-Jamarat is the ritual of throwing pebbles at three stone pillars in Mina, symbolizing the rejection of the devil (Shaytan). The order is: Ula (small) → Wusta (middle) → Aqaba (big).",
+      "tags": []
+    },
+    {
+      "id": "fivepi-065",
+      "q": "What is the correct order of stoning the pillars (Jamarats) during Hajj?",
+      "options": [
+        "Aqaba → Wusta → Ula",
+        "Wusta → Ula → Aqaba",
+        "Ula → Wusta → Aqaba",
+        "Ula → Aqaba → Wusta"
+      ],
+      "correct": 2,
+      "explanation": "The correct order of stoning is: Jamarah al-Ula (small pillar — followed by Dua) → Jamarah al-Wusta (middle pillar — followed by Dua) → Jamarah al-Aqaba (big pillar — no Dua thereafter).",
+      "tags": []
+    },
+    {
+      "id": "fivepi-066",
+      "q": "The 10th of Zilhajj is known as:",
+      "options": [
+        "Youm-e-Arafat",
+        "Youm-e-Nahr (Day of Sacrifice)",
+        "Youm-e-Eid al-Fitr",
+        "Youm-e-Tashreeq"
+      ],
+      "correct": 1,
+      "explanation": "The 10th of Zilhajj is Youm-e-Nahr (Day of Sacrifice). Pilgrims sacrifice an animal (Hady) on this day after stoning Jamarah al-Aqaba and removing Ihram. Eid-ul-Azha is also celebrated on this day.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-067",
+      "q": "The farewell Tawaf performed by pilgrims at the end of Hajj is called:",
+      "options": [
+        "Tawaf al-Qudum",
+        "Tawaf-e-Ziyarah",
+        "Tawaf al-Wida",
+        "Tawaf-e-Nafl"
+      ],
+      "correct": 2,
+      "explanation": "Tawaf al-Wida is the farewell tawaf performed as the last act before leaving Makkah. It is one of the six Wajibat (necessary acts) of Hajj. 'Wida' means farewell in Arabic.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-068",
+      "q": "Al Multazim is the part of the Kaabah wall between its door and:",
+      "options": [
+        "Hajr-e-Aswad (Black Stone)",
+        "Maqam-e-Ibrahim",
+        "Zamzam well",
+        "Rukn-e-Yamani"
+      ],
+      "correct": 0,
+      "explanation": "Al Multazim is the section of the Kaabah's wall located between its door and the Hajr-e-Aswad (Black Stone). Pilgrims cling to it in prayer. 'Multazim' means 'the embraced one.'",
+      "tags": []
+    },
+    {
+      "id": "fivepi-069",
+      "q": "Muzdalfa is referred to as what in the Holy Quran?",
+      "options": [
+        "Al-Mashar al-Haram (the Sacred Monument)",
+        "Dar al-Islam",
+        "Al-Bayt al-Haram",
+        "Al-Masjid al-Aqsa"
+      ],
+      "correct": 0,
+      "explanation": "Muzdalfa is called Al-Mashar al-Haram (the Sacred Monument) in the Holy Quran (2:198). It is located between Mina and Arafat, about 6 miles from Makkah.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-070",
+      "q": "Mina is located how many kilometres east of Masjid-e-Haram?",
+      "options": [
+        "3 km",
+        "5 km",
+        "7 km",
+        "9 km"
+      ],
+      "correct": 2,
+      "explanation": "Mina is located approximately 7 kilometres east of Masjid-e-Haram in Makkah. It is where the Jamarats (stone pillars) are located and where pilgrims stay during Ayyam al-Tashreeq.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-071",
+      "q": "Tawaf al-Qudum is:",
+      "options": [
+        "The farewell tawaf at end of Hajj",
+        "The initial tawaf upon entering Masjid al-Haram",
+        "The obligatory tawaf after Arafat",
+        "A voluntary tawaf at any time"
+      ],
+      "correct": 1,
+      "explanation": "Tawaf al-Qudum ('Tawaf of Arrival') is the initial tawaf performed upon first entering Masjid al-Haram in Makkah. It is a Sunnah for those performing Hajj Afrad or Qiran.",
+      "tags": []
+    },
+    {
+      "id": "fivepi-072",
+      "q": "The three days after Yawm an-Nahr (10th Zilhajj) are known as:",
+      "options": [
+        "Ayyam al-Tashreeq",
+        "Ayyam al-Tasreef",
+        "Ayaam al-Beed",
+        "Ayaam al-Hajj"
+      ],
+      "correct": 0,
+      "explanation": "The three days following Yawm an-Nahr (11th, 12th and 13th Zilhajj) are called Ayyam al-Tashreeq — the Days of Drying Meat. Pilgrims continue stoning the Jamarats during these days.",
+      "tags": []
+    }
+  ]
+}

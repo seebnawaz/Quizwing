@@ -2,10 +2,10 @@
   "topic_id": "palestine-israel-issue",
   "topic_name": "Palestine Israel Issue",
   "subject": "current-affairs",
-  "version": 1,
-  "updated_at": "2026-05-12",
+  "version": 3,
+  "updated_at": "2026-06-24",
   "description": "Palestine Israel Issue MCQs for PPSC, FPSC, NTS, CSS & PMS.",
-  "icon": "🇵🇸",
+  "icon": "📄",
   "mcqs": [
     {
       "id": "palest-001",

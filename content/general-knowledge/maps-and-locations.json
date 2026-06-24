@@ -1,0 +1,1909 @@
+{
+  "topic_id": "maps-and-locations",
+  "topic_name": "Maps & Locations",
+  "subject": "general-knowledge",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Maps & Locations MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "mapsan-001",
+      "q": "Which seaport is known as the &#x27;Coffee Port&#x27; of the world?",
+      "options": [
+        "Valencia (Spain)",
+        "Santos (Brazil)",
+        "Rio de Janeiro",
+        "Kobe (Japan)"
+      ],
+      "correct": 1,
+      "explanation": "Santos in Brazil is known as the &#x27;Coffee Port&#x27; of the world — Latin America&#x27;s largest port and a major coffee export hub.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-002",
+      "q": "Which is the busiest port of the United States, located on San Pedro Bay?",
+      "options": [
+        "Miami",
+        "New York",
+        "Los Angeles",
+        "New Jersey"
+      ],
+      "correct": 2,
+      "explanation": "The Port of Los Angeles on San Pedro Bay is the busiest container port in the USA.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-003",
+      "q": "Ashkelon was the oldest seaport of the world located in:",
+      "options": [
+        "Netherlands",
+        "Poland",
+        "Ancient Palestine",
+        "Venezuela"
+      ],
+      "correct": 2,
+      "explanation": "Ashkelon — an ancient Mediterranean port in Ancient Palestine — is among the oldest seaports in the world.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-004",
+      "q": "Szczecin seaport, on the Baltic Sea, is located in:",
+      "options": [
+        "Netherlands",
+        "Poland",
+        "Venezuela",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Szczecin is a major Polish port on the Baltic Sea.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-005",
+      "q": "Which of the following statements is correct?",
+      "options": [
+        "Abadan seaport is present in Iran",
+        "Port of Savannah is the &#x27;Gateway to the South&#x27; (Georgia)",
+        "The most leading port of India is Mumbai",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "All three statements are correct: Abadan (Iran), Savannah (Georgia, USA — &#x27;Gateway to the South&#x27;), and Mumbai (India).",
+      "tags": []
+    },
+    {
+      "id": "mapsan-006",
+      "q": "Tanjung Priok Seaport is located in:",
+      "options": [
+        "Indonesia",
+        "Malaysia",
+        "China",
+        "Chile"
+      ],
+      "correct": 0,
+      "explanation": "Tanjung Priok in Jakarta is the main port of Indonesia.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-007",
+      "q": "Chennai Port, formerly known as ____, is the second-largest port of India after Mumbai.",
+      "options": [
+        "Madras Port",
+        "Calcutta Port",
+        "Sun Port",
+        "Moon Port"
+      ],
+      "correct": 0,
+      "explanation": "Chennai Port was formerly called Madras Port — India&#x27;s second-largest port after Mumbai.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-008",
+      "q": "Port of Shanghai is located in:",
+      "options": [
+        "Indonesia",
+        "Malaysia",
+        "China",
+        "Chile"
+      ],
+      "correct": 2,
+      "explanation": "Shanghai is China&#x27;s largest port and the world&#x27;s busiest container port.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-009",
+      "q": "Which of the following statements is correct?",
+      "options": [
+        "Alexandria is the seaport of Egypt",
+        "Dickson is the seaport of Malaysia",
+        "Seattle is the seaport of USA",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "Alexandria (Egypt), Port Dickson (Malaysia) and Seattle (USA) are all correct.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-010",
+      "q": "Puerto La Guaira seaport is of:",
+      "options": [
+        "Netherlands",
+        "Poland",
+        "Venezuela",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "La Guaira is the principal seaport of Venezuela.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-011",
+      "q": "Sabang seaport is located in:",
+      "options": [
+        "Indonesia",
+        "Malaysia",
+        "China",
+        "Chile"
+      ],
+      "correct": 0,
+      "explanation": "Sabang is a seaport in Aceh province of Indonesia.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-012",
+      "q": "Karachi, Bin Qasim, Pasni, Jiwani, Gadani, Ormara and Gwadar are the seaports of:",
+      "options": [
+        "Pakistan",
+        "Afghanistan",
+        "India",
+        "Bangladesh"
+      ],
+      "correct": 0,
+      "explanation": "All seven are seaports of Pakistan along the Arabian Sea coast.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-013",
+      "q": "Which is the largest seaport of Pakistan?",
+      "options": [
+        "Karachi",
+        "Bin Qasim",
+        "Gadani",
+        "Gwadar"
+      ],
+      "correct": 0,
+      "explanation": "Karachi is the largest seaport of Pakistan, founded in 1854 by the British.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-014",
+      "q": "Which of the following statements is correct?",
+      "options": [
+        "Salalah is a seaport of Oman",
+        "Port Said is a seaport of Egypt",
+        "Rotterdam is the largest port of Netherlands",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "All three are correct: Salalah (Oman), Port Said (Egypt) and Rotterdam (largest port of Netherlands).",
+      "tags": []
+    },
+    {
+      "id": "mapsan-015",
+      "q": "Haifa is the seaport of:",
+      "options": [
+        "Jordan",
+        "Israel",
+        "Egypt",
+        "Syria"
+      ],
+      "correct": 1,
+      "explanation": "Haifa is Israel&#x27;s largest seaport, on the Mediterranean coast.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-016",
+      "q": "In which country is the Alexandria seaport located?",
+      "options": [
+        "Iran",
+        "Iraq",
+        "Egypt",
+        "China"
+      ],
+      "correct": 2,
+      "explanation": "Alexandria is Egypt&#x27;s main Mediterranean seaport, founded by Alexander the Great in 331 BCE.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-017",
+      "q": "In which country is the Amsterdam seaport located?",
+      "options": [
+        "Netherlands",
+        "UK",
+        "USA",
+        "UAE"
+      ],
+      "correct": 0,
+      "explanation": "Amsterdam is a major Dutch seaport, though Rotterdam is the largest in the Netherlands.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-018",
+      "q": "In which country is the Antwerp seaport located?",
+      "options": [
+        "India",
+        "Belgium",
+        "UK",
+        "Norway"
+      ],
+      "correct": 1,
+      "explanation": "Antwerp is Belgium&#x27;s main port and one of Europe&#x27;s busiest.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-019",
+      "q": "Which of the following statements is correct?",
+      "options": [
+        "Chittagong port is in Bangladesh",
+        "Aden is the seaport of Yemen",
+        "Dammam is the seaport of Saudi Arabia",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "All three are correct: Chittagong (Bangladesh), Aden (Yemen) and Dammam (Saudi Arabia).",
+      "tags": []
+    },
+    {
+      "id": "mapsan-020",
+      "q": "Naples is the seaport of:",
+      "options": [
+        "Switzerland",
+        "Italy",
+        "Spain",
+        "Greece"
+      ],
+      "correct": 1,
+      "explanation": "Naples is one of Italy&#x27;s most important Mediterranean seaports.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-021",
+      "q": "In which country is the Cardiff seaport located?",
+      "options": [
+        "UK",
+        "UAE",
+        "USA",
+        "Pakistan"
+      ],
+      "correct": 0,
+      "explanation": "Cardiff is the capital of Wales (UK) and a historic British seaport.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-022",
+      "q": "In which country is the Oslo seaport located?",
+      "options": [
+        "South Africa",
+        "Norway",
+        "South America",
+        "West India"
+      ],
+      "correct": 1,
+      "explanation": "Oslo is the capital and main seaport of Norway.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-023",
+      "q": "In which country is the Penang seaport located?",
+      "options": [
+        "Malaysia",
+        "India",
+        "Pakistan",
+        "South Africa"
+      ],
+      "correct": 0,
+      "explanation": "Penang is a Malaysian state and major seaport on the Strait of Malacca.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-024",
+      "q": "In which country is the Le Havre seaport located?",
+      "options": [
+        "Pakistan",
+        "India",
+        "France",
+        "Iran"
+      ],
+      "correct": 2,
+      "explanation": "Le Havre is a major French seaport on the English Channel, at the mouth of the Seine.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-025",
+      "q": "Where is the seaport of Aalborg located?",
+      "options": [
+        "Finland",
+        "Iceland",
+        "Norway",
+        "Denmark"
+      ],
+      "correct": 3,
+      "explanation": "Aalborg is a Danish seaport in Jutland.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-026",
+      "q": "Where is the seaport of Almeria located?",
+      "options": [
+        "Spain",
+        "Iceland",
+        "Norway",
+        "Denmark"
+      ],
+      "correct": 0,
+      "explanation": "Almeria is a Mediterranean seaport in southern Spain.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-027",
+      "q": "Naples is the seaport of:",
+      "options": [
+        "Switzerland",
+        "Italy",
+        "Spain",
+        "Greece"
+      ],
+      "correct": 1,
+      "explanation": "Naples is one of Italy&#x27;s largest Mediterranean seaports (south Italy).",
+      "tags": []
+    },
+    {
+      "id": "mapsan-028",
+      "q": "Which of the following statements is correct?",
+      "options": [
+        "Port of San Antonio is the seaport of Chile",
+        "Açu is the seaport of Brazil",
+        "Port of Tianjin is the seaport of China",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "All correct: San Antonio (Chile), Açu (Brazil) and Tianjin (China).",
+      "tags": []
+    },
+    {
+      "id": "mapsan-029",
+      "q": "Ho Chi Minh seaport was formerly known as:",
+      "options": [
+        "Saigon seaport",
+        "Taiwan seaport",
+        "NOON seaport",
+        "Breeze seaport"
+      ],
+      "correct": 0,
+      "explanation": "Ho Chi Minh City was formerly Saigon — its seaport is now Vietnam&#x27;s largest.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-030",
+      "q": "Which is the main port of Malaysia?",
+      "options": [
+        "Acu Port",
+        "Cardiff",
+        "Port of Klang",
+        "Antwerp"
+      ],
+      "correct": 2,
+      "explanation": "Port Klang is Malaysia&#x27;s largest and busiest seaport.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-031",
+      "q": "&#x27;Seattle&#x27; is the seaport of which country?",
+      "options": [
+        "Germany",
+        "Canada",
+        "China",
+        "USA"
+      ],
+      "correct": 3,
+      "explanation": "Seattle is a major US seaport on Puget Sound, Washington state.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-032",
+      "q": "&#x27;Darwin&#x27; is the seaport of:",
+      "options": [
+        "Sri Lanka",
+        "Canada",
+        "Australia",
+        "USA"
+      ],
+      "correct": 2,
+      "explanation": "Darwin is the capital of the Northern Territory and an Australian seaport.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-033",
+      "q": "&#x27;Montreal&#x27; is the seaport of:",
+      "options": [
+        "France",
+        "USA",
+        "Canada",
+        "Russia"
+      ],
+      "correct": 2,
+      "explanation": "Montreal is a major Canadian inland seaport on the St Lawrence River.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-034",
+      "q": "Alexandria is the seaport of:",
+      "options": [
+        "Egypt",
+        "Greece",
+        "France",
+        "Spain"
+      ],
+      "correct": 0,
+      "explanation": "Alexandria is Egypt&#x27;s main Mediterranean seaport.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-035",
+      "q": "&#x27;Rio de Janeiro&#x27; is the seaport of:",
+      "options": [
+        "UAE",
+        "Chile",
+        "Brazil",
+        "Lebanon"
+      ],
+      "correct": 2,
+      "explanation": "Rio de Janeiro is a major Brazilian seaport on the Atlantic.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-036",
+      "q": "&#x27;Buenos Aires&#x27; is the seaport of:",
+      "options": [
+        "Brazil",
+        "Lebanon",
+        "China",
+        "Argentina"
+      ],
+      "correct": 3,
+      "explanation": "Buenos Aires, capital of Argentina, is one of South America&#x27;s largest seaports.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-037",
+      "q": "&#x27;Bandar Bushehr&#x27; is the seaport of:",
+      "options": [
+        "Egypt",
+        "Syria",
+        "Iran",
+        "India"
+      ],
+      "correct": 2,
+      "explanation": "Bandar Bushehr is a major Iranian seaport on the Persian Gulf.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-038",
+      "q": "&#x27;Lisbon&#x27; is the seaport of which country?",
+      "options": [
+        "Brazil",
+        "Russia",
+        "Portugal",
+        "Canada"
+      ],
+      "correct": 2,
+      "explanation": "Lisbon, capital of Portugal, is its main Atlantic seaport.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-039",
+      "q": "&#x27;Liverpool&#x27; is the seaport of:",
+      "options": [
+        "USA",
+        "Russia",
+        "UK",
+        "Brazil"
+      ],
+      "correct": 2,
+      "explanation": "Liverpool is a historic British seaport on the Mersey, NW England.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-040",
+      "q": "Which of the following statements is correct?",
+      "options": [
+        "Port of Vancouver is located in Canada",
+        "Latakia is the seaport of Syria",
+        "Honolulu is the seaport of USA",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "All correct: Vancouver (Canada), Latakia (Syria) and Honolulu (USA / Hawaii).",
+      "tags": []
+    },
+    {
+      "id": "mapsan-041",
+      "q": "Who were the first people to climb Mount Everest in 1953?",
+      "options": [
+        "George Mallory and Andrew Irvine",
+        "Edward Hillmund and Khumbu Garbay",
+        "George Everest and Jamling Sherpa",
+        "Edmund Hillary and Tenzing Norgay"
+      ],
+      "correct": 3,
+      "explanation": "Sir Edmund Hillary (New Zealand) and Tenzing Norgay (Nepal) summited Everest on 29 May 1953.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-042",
+      "q": "Junko Tabei was the first woman to summit Mount Everest. What was her nationality?",
+      "options": [
+        "Japanese",
+        "Nepalese",
+        "Chinese",
+        "Korean"
+      ],
+      "correct": 0,
+      "explanation": "Junko Tabei of Japan was the first woman to summit Everest (1975).",
+      "tags": []
+    },
+    {
+      "id": "mapsan-043",
+      "q": "Magellan is to the Philippines as Cook is to where?",
+      "options": [
+        "Madagascar",
+        "Maldives",
+        "Hawaii",
+        "Falklands"
+      ],
+      "correct": 2,
+      "explanation": "Captain James Cook explored and died in Hawaii (1779), just as Magellan died in the Philippines (1521).",
+      "tags": []
+    },
+    {
+      "id": "mapsan-044",
+      "q": "Erik the Red is to Greenland as Leif Eriksson is to where?",
+      "options": [
+        "Azores",
+        "Svalbard",
+        "Cuba",
+        "Vinland"
+      ],
+      "correct": 3,
+      "explanation": "Leif Eriksson, son of Erik the Red, reached and named Vinland (North America) ~1000 CE.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-045",
+      "q": "Which explorer named the Pacific Ocean?",
+      "options": [
+        "Juan Ponce de Leon",
+        "Francis Drake",
+        "Ferdinand Magellan",
+        "Hernando de Soto"
+      ],
+      "correct": 2,
+      "explanation": "Ferdinand Magellan named the Pacific Ocean during his 1519-22 circumnavigation.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-046",
+      "q": "Who is credited with the first visit to the North Pole?",
+      "options": [
+        "Robert E. Peary",
+        "Richard Francis",
+        "Meriwether Lewis",
+        "Henry Stanley"
+      ],
+      "correct": 0,
+      "explanation": "Robert E. Peary is credited with reaching the North Pole in 1909.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-047",
+      "q": "Who unknowingly discovered the Western Hemisphere?",
+      "options": [
+        "Columbus",
+        "Henry Hudson",
+        "Vasco da Gama",
+        "Vespucci"
+      ],
+      "correct": 0,
+      "explanation": "Christopher Columbus reached the Americas in 1492, thinking he had reached Asia.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-048",
+      "q": "Who was the first to call America a &#x27;New World&#x27;?",
+      "options": [
+        "Matthew Flinders",
+        "James Cook",
+        "Amerigo Vespucci",
+        "Mackenzie"
+      ],
+      "correct": 2,
+      "explanation": "Italian explorer Amerigo Vespucci first called the Americas the &#x27;New World&#x27;. The continent is named after him.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-049",
+      "q": "Which Yale professor brought Machu Picchu to international attention?",
+      "options": [
+        "Amerigo Vespucci",
+        "Henry Hudson",
+        "Jacques Cartier",
+        "Hiram Bingham"
+      ],
+      "correct": 3,
+      "explanation": "American historian Hiram Bingham (Yale) rediscovered Machu Picchu in 1911.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-050",
+      "q": "Which explorer pushed Chinese maritime exploration and trade to its farthest extent?",
+      "options": [
+        "Roald Amundsen",
+        "Henri Mouhot",
+        "Cheng Ho",
+        "Abel Tasman"
+      ],
+      "correct": 2,
+      "explanation": "Ming-dynasty admiral Cheng Ho (Zheng He) led 7 great voyages 1405-1433, reaching Africa.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-051",
+      "q": "Sweden&#x27;s most prolific explorer who crossed the deserts and mountains of Central Asia was:",
+      "options": [
+        "Leif Eriksson",
+        "Sven Anders Hedin",
+        "Samuel de Champlain",
+        "Vasco da Gama"
+      ],
+      "correct": 1,
+      "explanation": "Sven Anders Hedin was Sweden&#x27;s most prolific explorer of Central Asia.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-052",
+      "q": "In 1325, which Islamic scholar from Tangier set out for Mecca and began a journey of three decades and 75,000 miles?",
+      "options": [
+        "Cheng Ho",
+        "Ibn Battuta",
+        "Vitus Bering",
+        "Ibn Sayyed"
+      ],
+      "correct": 1,
+      "explanation": "Ibn Battuta of Tangier began his epic journeys in 1325, covering ~75,000 miles across Eurasia and Africa.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-053",
+      "q": "Who established a short-lived settlement at a site called Vinland?",
+      "options": [
+        "Sven Anders Hedin",
+        "James Cook",
+        "Martin Frobisher",
+        "Leif Eriksson"
+      ],
+      "correct": 3,
+      "explanation": "Leif Eriksson established a short-lived Vinland (Newfoundland) settlement around 1000 CE.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-054",
+      "q": "The biggest achievement of Roald Amundsen&#x27;s career was to be the first man to reach which place?",
+      "options": [
+        "North Pole",
+        "Svalbard",
+        "Greenland",
+        "South Pole"
+      ],
+      "correct": 3,
+      "explanation": "Roald Amundsen and his team reached the South Pole on 14 December 1911 — a first.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-055",
+      "q": "Which Spaniard was the first to cross the Isthmus of Panama and reach the Pacific Ocean?",
+      "options": [
+        "Vasco da Gama",
+        "Pedro Sarmiento de Gamboa",
+        "Luis Pires",
+        "Vasco Núñez de Balboa"
+      ],
+      "correct": 3,
+      "explanation": "In 1513, Vasco Núñez de Balboa crossed the Isthmus of Panama and became the first European to see the Pacific from the Americas.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-056",
+      "q": "Which European discoverer of the Mississippi River had to be buried in secret when he died?",
+      "options": [
+        "Hernando de Soto",
+        "Francisco",
+        "Hernando Cortes",
+        "Jim Bridger"
+      ],
+      "correct": 0,
+      "explanation": "Hernando de Soto, Spanish explorer of the Mississippi (1541), was buried secretly in the river by his men in 1542.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-057",
+      "q": "Which Norwegian explorer was the first to explore both Poles and died during a rescue mission?",
+      "options": [
+        "Fridtjof Nansen",
+        "Thor Heyerdahl",
+        "Roald Amundsen",
+        "Helge Ingstad"
+      ],
+      "correct": 2,
+      "explanation": "Roald Amundsen reached both Poles and died on 18 June 1928 during a rescue flight for Umberto Nobile.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-058",
+      "q": "Which explorer first circumnavigated the globe?",
+      "options": [
+        "Sebastian Cabot",
+        "Vasco da Gama",
+        "Ferdinand Magellan",
+        "Henry Hudson"
+      ],
+      "correct": 2,
+      "explanation": "Ferdinand Magellan led the first circumnavigation (1519-22), though he died in the Philippines. His crew completed the voyage.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-059",
+      "q": "Which Scottish missionary and explorer was the first European to discover Victoria Falls?",
+      "options": [
+        "Sir John Franklin",
+        "Henry Morton Stanley",
+        "David Livingstone",
+        "Sir Walter Raleigh"
+      ],
+      "correct": 2,
+      "explanation": "Scottish missionary David Livingstone first sighted Victoria Falls in 1855, naming them after Queen Victoria.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-060",
+      "q": "Which Spanish explorer conquered the Incas in Peru and founded Lima in 1535?",
+      "options": [
+        "Hernando de Soto",
+        "Francisco Coronado",
+        "Hernán Cortez",
+        "Francisco Pizarro"
+      ],
+      "correct": 3,
+      "explanation": "Francisco Pizarro conquered the Inca Empire and founded Lima in 1535.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-061",
+      "q": "How old was Ibn Battuta when he began his travels?",
+      "options": [
+        "21",
+        "44",
+        "17",
+        "27"
+      ],
+      "correct": 0,
+      "explanation": "Ibn Battuta began his travels at age 21 in 1325.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-062",
+      "q": "Of what religion was Ibn Battuta?",
+      "options": [
+        "Jewish",
+        "Tribal",
+        "Christian",
+        "Islam"
+      ],
+      "correct": 3,
+      "explanation": "Ibn Battuta was a Muslim scholar from Tangier.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-063",
+      "q": "Which country was Ibn Battuta born in?",
+      "options": [
+        "Yemen",
+        "Morocco",
+        "India",
+        "Somalia"
+      ],
+      "correct": 1,
+      "explanation": "Ibn Battuta was born in Tangier, Morocco in 1304.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-064",
+      "q": "Which Italian explored the east coast of North America for the French in 1524?",
+      "options": [
+        "Verrazano",
+        "La Salle",
+        "Cartier",
+        "Champlain"
+      ],
+      "correct": 0,
+      "explanation": "Italian explorer Giovanni da Verrazzano explored the east coast of North America for France in 1524.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-065",
+      "q": "Which explorer made voyages for the English and the Dutch and explored what is now New York?",
+      "options": [
+        "Henry Hudson",
+        "John Smith",
+        "John Cabot",
+        "Francis Drake"
+      ],
+      "correct": 0,
+      "explanation": "Henry Hudson sailed for the English and Dutch and explored the river now bearing his name (New York).",
+      "tags": []
+    },
+    {
+      "id": "mapsan-066",
+      "q": "What was the other name for the Lewis and Clark Expedition?",
+      "options": [
+        "The Scientific Exploration of the Western United States",
+        "The Exploration for Scientific Purposes to the Pacific",
+        "The Journey of Discovery",
+        "The Corps of Discovery"
+      ],
+      "correct": 3,
+      "explanation": "Officially called the &#x27;Corps of Discovery&#x27; (1804-06), it explored the Louisiana Purchase territory.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-067",
+      "q": "In 1492, which Italian mariner and navigator landed in the West Indies?",
+      "options": [
+        "Bartolomeu Dias",
+        "Christopher Columbus",
+        "Vasco da Gama",
+        "Pedro Cabral"
+      ],
+      "correct": 1,
+      "explanation": "Christopher Columbus landed in the West Indies on 12 October 1492.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-068",
+      "q": "In 1498, which Portuguese explorer completed the first voyage from Portugal to India?",
+      "options": [
+        "Bartolomeu Dias",
+        "Columbus",
+        "Vasco da Gama",
+        "Pedro Cabral"
+      ],
+      "correct": 2,
+      "explanation": "Vasco da Gama completed the first sea voyage Portugal → India in 1498.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-069",
+      "q": "Columbus set sail in 1492 with the Nina, the Pinta and the Santa Maria. On which date did he set sail?",
+      "options": [
+        "July 2, 1492",
+        "August 2, 1492",
+        "June 2, 1492",
+        "September 2, 1492"
+      ],
+      "correct": 1,
+      "explanation": "Columbus departed Palos de la Frontera, Spain on 2 August 1492 (he made landfall in the Bahamas on 12 October).",
+      "tags": []
+    },
+    {
+      "id": "mapsan-070",
+      "q": "Who discovered the sea route from Europe to India?",
+      "options": [
+        "Vasco da Gama",
+        "Columbus",
+        "Magellan",
+        "Hopkins"
+      ],
+      "correct": 0,
+      "explanation": "Vasco da Gama discovered the sea route Europe → India in 1498.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-071",
+      "q": "Who discovered Greenland?",
+      "options": [
+        "John Cabot",
+        "Erik the Red",
+        "Koro Gligora",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Norseman Erik the Red discovered and named Greenland ~982 CE.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-072",
+      "q": "Who was the first person to reach the South Pole?",
+      "options": [
+        "Roald Amundsen",
+        "Major White",
+        "Alan Bean Conrad",
+        "Charles Conrad"
+      ],
+      "correct": 0,
+      "explanation": "Roald Amundsen reached the South Pole on 14 December 1911.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-073",
+      "q": "Roald Amundsen reached the South Pole in:",
+      "options": [
+        "1910",
+        "1911",
+        "1912",
+        "1913"
+      ],
+      "correct": 1,
+      "explanation": "Amundsen reached the South Pole on 14 December 1911.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-074",
+      "q": "Who was the first person to reach the North Pole?",
+      "options": [
+        "James Clark",
+        "John Ross",
+        "Robert Peary",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "Robert E. Peary is credited with reaching the North Pole in 1909.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-075",
+      "q": "Robert Peary reached the North Pole in:",
+      "options": [
+        "1908",
+        "1910",
+        "1909",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "Robert Peary reached the North Pole on 6 April 1909.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-076",
+      "q": "Who discovered Australia?",
+      "options": [
+        "William Janszoon",
+        "Henry Hudson",
+        "Sebastian Cabot",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Dutch navigator Willem Janszoon was the first European to land on Australia (1606).",
+      "tags": []
+    },
+    {
+      "id": "mapsan-077",
+      "q": "Who journeyed through China, India and other parts of Asia from 1271-94?",
+      "options": [
+        "Columbus",
+        "Vasco da Gama",
+        "Marco Polo",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Venetian merchant Marco Polo travelled across Asia 1271-1295, including 17 years at the court of Kublai Khan.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-078",
+      "q": "America was discovered by:",
+      "options": [
+        "Kero Gligora",
+        "Charles Taylor",
+        "Christopher Columbus",
+        "Tasman"
+      ],
+      "correct": 2,
+      "explanation": "Christopher Columbus is credited with the European discovery of America in 1492.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-079",
+      "q": "Who discovered the sea route from Europe to India?",
+      "options": [
+        "Vasco da Gama",
+        "Columbus",
+        "Marco Polo",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "Vasco da Gama discovered the sea route Europe → India in 1498.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-080",
+      "q": "Where can you find the CN Tower?",
+      "options": [
+        "Japan",
+        "England",
+        "France",
+        "Canada"
+      ],
+      "correct": 3,
+      "explanation": "The CN Tower (553 m) is in Toronto, Canada — completed 1976.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-081",
+      "q": "Yangon (formerly Rangoon) was the capital of Myanmar — given the name in 1755. What is the meaning of &#x27;Yangon&#x27;?",
+      "options": [
+        "End of war",
+        "City of civilization",
+        "First City",
+        "City of Last"
+      ],
+      "correct": 0,
+      "explanation": "Yangon means &#x27;End of strife / End of war&#x27; in Burmese.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-082",
+      "q": "Kiev (capital of Ukraine) is given which name by Russians?",
+      "options": [
+        "Mother of cities",
+        "Child of cities",
+        "City of flowers",
+        "City of Soviet"
+      ],
+      "correct": 0,
+      "explanation": "Russians historically call Kiev &#x27;Mother of cities&#x27; (Mother of Russian cities).",
+      "tags": []
+    },
+    {
+      "id": "mapsan-083",
+      "q": "Which was the most important city of the world in 7000 BC?",
+      "options": [
+        "Jericho",
+        "Machu Picchu",
+        "San Lorenzo",
+        "Troy"
+      ],
+      "correct": 0,
+      "explanation": "Jericho is among the oldest continuously inhabited cities, dating to ~9000 BC.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-084",
+      "q": "Where can you find Troy?",
+      "options": [
+        "Egypt",
+        "Israel",
+        "Jordan",
+        "Turkey"
+      ],
+      "correct": 3,
+      "explanation": "The ruins of ancient Troy are in northwestern Turkey (Çanakkale province).",
+      "tags": []
+    },
+    {
+      "id": "mapsan-085",
+      "q": "Phoenix Park is located in which country?",
+      "options": [
+        "Dublin, Ireland",
+        "Hunza, Pakistan",
+        "Tripoli, Libya",
+        "Manama, Bahrain"
+      ],
+      "correct": 0,
+      "explanation": "Phoenix Park is in Dublin, Ireland — one of Europe&#x27;s largest urban parks.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-086",
+      "q": "The 900-year-old Altit Fort received the 2011 UNESCO Asia-Pacific Award for Cultural Heritage Conservation. Where is it located?",
+      "options": [
+        "Dublin, Ireland",
+        "Hunza",
+        "Tripoli, Libya",
+        "Manama, Bahrain"
+      ],
+      "correct": 1,
+      "explanation": "Altit Fort is in Hunza Valley, Gilgit-Baltistan, Pakistan — ~900 years old.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-087",
+      "q": "Abu Salim prison is a top-security prison in:",
+      "options": [
+        "Dublin, Ireland",
+        "Hunza",
+        "Tripoli, Libya",
+        "Manama, Bahrain"
+      ],
+      "correct": 2,
+      "explanation": "Abu Salim is a high-security prison in Tripoli, Libya — notorious for the 1996 massacre.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-088",
+      "q": "Alexander Gardens — one of the first urban public parks — is located in:",
+      "options": [
+        "Cairo, Egypt",
+        "New York City, USA",
+        "London, UK",
+        "Moscow, Russia"
+      ],
+      "correct": 3,
+      "explanation": "Alexander Gardens are a historic public garden adjacent to the Kremlin in Moscow.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-089",
+      "q": "Hyde Park — famous for its Speakers&#x27; Corner — is located in:",
+      "options": [
+        "New York, USA",
+        "Cairo, Egypt",
+        "Moscow, Russia",
+        "Central London, UK"
+      ],
+      "correct": 3,
+      "explanation": "Hyde Park is in Central London with the famous Speakers&#x27; Corner at Marble Arch.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-090",
+      "q": "George Square — the principal civic square — is located in:",
+      "options": [
+        "Beijing, China",
+        "Paris, France",
+        "London, England",
+        "Glasgow, Scotland"
+      ],
+      "correct": 3,
+      "explanation": "George Square is the main civic square of Glasgow, Scotland.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-091",
+      "q": "St Andrew Square is located in:",
+      "options": [
+        "Beijing, China",
+        "Edinburgh, Scotland",
+        "Cairo, Egypt",
+        "London, England"
+      ],
+      "correct": 1,
+      "explanation": "St Andrew Square is a Georgian square in Edinburgh&#x27;s New Town.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-092",
+      "q": "Tahrir Square is a major public square located in:",
+      "options": [
+        "Tripoli, Libya",
+        "Beijing, China",
+        "Cairo, Egypt",
+        "London, UK"
+      ],
+      "correct": 2,
+      "explanation": "Tahrir Square (&#x27;Liberation Square&#x27;) is in central Cairo — the epicentre of the 2011 Arab Spring in Egypt.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-093",
+      "q": "Martyrs&#x27; Square (also Green Square) is located in:",
+      "options": [
+        "Tripoli, Libya",
+        "Beijing, China",
+        "Cairo, Egypt",
+        "London, UK"
+      ],
+      "correct": 0,
+      "explanation": "Martyrs&#x27; Square (renamed from Green Square in 2011) is in Tripoli, Libya.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-094",
+      "q": "Red Square is located in:",
+      "options": [
+        "Tripoli, Libya",
+        "Beijing, China",
+        "Moscow, Russia",
+        "London, UK"
+      ],
+      "correct": 2,
+      "explanation": "Red Square is the iconic central square of Moscow, beside the Kremlin.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-095",
+      "q": "Tiananmen Square — a large city square — is located in:",
+      "options": [
+        "Tripoli, Libya",
+        "Beijing, China",
+        "Moscow, Russia",
+        "London, England"
+      ],
+      "correct": 1,
+      "explanation": "Tiananmen Square in central Beijing is among the world&#x27;s largest public squares.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-096",
+      "q": "Lobnoye Mesto, also known as the &#x27;Place of Skulls&#x27;, is located in:",
+      "options": [
+        "Tripoli, Libya",
+        "Beijing, China",
+        "Moscow, Russia",
+        "London, UK"
+      ],
+      "correct": 2,
+      "explanation": "Lobnoye Mesto is a stone platform in Red Square, Moscow.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-097",
+      "q": "Trafalgar Square is a public space and tourist attraction in:",
+      "options": [
+        "Tripoli, Libya",
+        "Beijing, China",
+        "Moscow, Russia",
+        "London, UK"
+      ],
+      "correct": 3,
+      "explanation": "Trafalgar Square in central London commemorates the 1805 Battle of Trafalgar.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-098",
+      "q": "Belfast (Ireland) is known for which industry?",
+      "options": [
+        "Iron",
+        "Shipbuilding",
+        "Paper",
+        "Textile"
+      ],
+      "correct": 1,
+      "explanation": "Belfast was historically famous for shipbuilding — Harland &amp; Wolff built the Titanic there.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-099",
+      "q": "Béthune, a city of France, is known for which industry?",
+      "options": [
+        "Coalfield",
+        "Cotton",
+        "Fibre",
+        "Sugar"
+      ],
+      "correct": 0,
+      "explanation": "Béthune in Pas-de-Calais was a major coalfield town.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-100",
+      "q": "Buenos Aires (Argentina) is famous for which industry?",
+      "options": [
+        "Coal",
+        "Software",
+        "Dairy produce",
+        "Paper"
+      ],
+      "correct": 2,
+      "explanation": "Buenos Aires and the Pampas region are famous for dairy and beef.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-101",
+      "q": "The &#x27;cork&#x27; industry is associated with Cadiz, a city of:",
+      "options": [
+        "Spain",
+        "Portugal",
+        "Netherlands",
+        "Italy"
+      ],
+      "correct": 0,
+      "explanation": "Cadiz, in Andalusia, Spain, is a centre of the cork industry.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-102",
+      "q": "Bangladesh is known for the production of:",
+      "options": [
+        "Rice",
+        "Paper",
+        "Jute",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "Bangladesh is the world&#x27;s leading producer of jute — its &#x27;golden fibre&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-103",
+      "q": "Lumbini, the birthplace of Siddhartha Gautama (Buddha), is located in which district?",
+      "options": [
+        "Gaya",
+        "Kapilavastu",
+        "Patna",
+        "Ranchi"
+      ],
+      "correct": 1,
+      "explanation": "Lumbini, birthplace of Lord Buddha, is in Rupandehi/Kapilavastu region of Nepal.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-104",
+      "q": "Which US city is famous for agricultural implements, grain and meat market?",
+      "options": [
+        "Washington D.C.",
+        "New York",
+        "California",
+        "Chicago"
+      ],
+      "correct": 3,
+      "explanation": "Chicago has historically been the centre of US grain markets and the meat-packing industry.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-105",
+      "q": "Which Pakistani city has the highest annual rainfall?",
+      "options": [
+        "Parachinar",
+        "Chitral",
+        "Sialkot",
+        "Rawalpindi"
+      ],
+      "correct": 1,
+      "explanation": "Among the options, Chitral typically has higher annual rainfall than the others.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-106",
+      "q": "Sudbury (Canada) is the source of:",
+      "options": [
+        "Software",
+        "Silver",
+        "Computers",
+        "Gold"
+      ],
+      "correct": 1,
+      "explanation": "Sudbury in Ontario, Canada, is a major source of silver (and nickel/copper).",
+      "tags": []
+    },
+    {
+      "id": "mapsan-107",
+      "q": "&#x27;Silicon Valley&#x27; is famous for:",
+      "options": [
+        "Software",
+        "Automobiles",
+        "Computer Industry",
+        "Toys"
+      ],
+      "correct": 2,
+      "explanation": "Silicon Valley in California is the global hub of the computer industry.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-108",
+      "q": "Where can you find the Golden Pavilion?",
+      "options": [
+        "Japan",
+        "England",
+        "France",
+        "Canada"
+      ],
+      "correct": 0,
+      "explanation": "The Golden Pavilion (Kinkaku-ji) is a Zen Buddhist temple in Kyoto, Japan.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-109",
+      "q": "Where can you find the Great Buddha?",
+      "options": [
+        "England",
+        "France",
+        "Canada",
+        "Japan"
+      ],
+      "correct": 3,
+      "explanation": "The Great Buddha of Kamakura is a famous bronze statue in Japan.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-110",
+      "q": "Where can you find the Great Minaret of Samarra Mosque?",
+      "options": [
+        "Mali",
+        "Iran",
+        "Iraq",
+        "Sydney"
+      ],
+      "correct": 2,
+      "explanation": "The Malwiya / Great Minaret of Samarra (9th century CE) is in Iraq.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-111",
+      "q": "Where can you find the Great Mosque of Timbuktu?",
+      "options": [
+        "Mali",
+        "Iran",
+        "Iraq",
+        "Sydney"
+      ],
+      "correct": 0,
+      "explanation": "The Great Mosque of Timbuktu (Djinguereber Mosque) is in Mali.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-112",
+      "q": "Where can you find Kościuszko Mound?",
+      "options": [
+        "Japan",
+        "France",
+        "Canada",
+        "Poland"
+      ],
+      "correct": 3,
+      "explanation": "Kościuszko Mound is in Kraków, Poland — honouring Tadeusz Kościuszko.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-113",
+      "q": "Where can you find the Louvre Pyramide?",
+      "options": [
+        "Paris, France",
+        "Sydney, Australia",
+        "Rome, Italy",
+        "Rio de Janeiro, Brazil"
+      ],
+      "correct": 0,
+      "explanation": "The glass Louvre Pyramide is in the courtyard of the Louvre Museum in Paris.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-114",
+      "q": "Where can you find the Mayan / Aztec Temple?",
+      "options": [
+        "Mexico",
+        "Australia",
+        "Brazil",
+        "Italy"
+      ],
+      "correct": 0,
+      "explanation": "The Maya and Aztec temple ruins are concentrated in Mexico and Central America.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-115",
+      "q": "Where can you find the Edinburgh National Monument?",
+      "options": [
+        "Scotland",
+        "Australia",
+        "Brazil",
+        "Italy"
+      ],
+      "correct": 0,
+      "explanation": "The Edinburgh National Monument on Calton Hill is in Edinburgh, Scotland.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-116",
+      "q": "Where can you find Notre Dame Cathedral?",
+      "options": [
+        "Sydney, Australia",
+        "Rio de Janeiro, Brazil",
+        "Lhasa, Tibet",
+        "Paris, France"
+      ],
+      "correct": 3,
+      "explanation": "Notre-Dame de Paris is the iconic Gothic cathedral on Île de la Cité, Paris.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-117",
+      "q": "Where can you find the Opera House?",
+      "options": [
+        "Lhasa, Tibet",
+        "Rio de Janeiro, Brazil",
+        "Rome, Italy",
+        "Sydney, Australia"
+      ],
+      "correct": 3,
+      "explanation": "The Sydney Opera House is the iconic landmark of Sydney, Australia.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-118",
+      "q": "Where can you find the Potala Palace?",
+      "options": [
+        "Sydney, Australia",
+        "Rio de Janeiro, Brazil",
+        "Rome, Italy",
+        "Lhasa, Tibet"
+      ],
+      "correct": 3,
+      "explanation": "Potala Palace, the historic residence of the Dalai Lamas, is in Lhasa, Tibet.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-119",
+      "q": "Where can you find Christ the Redeemer?",
+      "options": [
+        "Sydney, Australia",
+        "Rio de Janeiro, Brazil",
+        "Lhasa, Tibet",
+        "Rome, Italy"
+      ],
+      "correct": 1,
+      "explanation": "Christ the Redeemer statue overlooks Rio de Janeiro from Mount Corcovado.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-120",
+      "q": "Where can you find St. Peter&#x27;s Basilica?",
+      "options": [
+        "Sydney, Australia",
+        "Rio de Janeiro, Brazil",
+        "Lhasa, Tibet",
+        "Rome, Italy"
+      ],
+      "correct": 3,
+      "explanation": "St. Peter&#x27;s Basilica is in Vatican City, within Rome, Italy.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-121",
+      "q": "USA&#x27;s Detroit city is associated with which industry?",
+      "options": [
+        "Software",
+        "Automobiles",
+        "Computers",
+        "Toys"
+      ],
+      "correct": 1,
+      "explanation": "Detroit is the historic capital of the US automobile industry — &#x27;Motor City&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-122",
+      "q": "The Leaning Tower of Pisa is in:",
+      "options": [
+        "Italy",
+        "France",
+        "Greece",
+        "Germany"
+      ],
+      "correct": 0,
+      "explanation": "The Leaning Tower of Pisa stands in the Piazza dei Miracoli, Pisa, Italy.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-123",
+      "q": "Where can you find the Sphinx?",
+      "options": [
+        "Egypt",
+        "Germany",
+        "Turkey",
+        "Greece"
+      ],
+      "correct": 0,
+      "explanation": "The Great Sphinx of Giza guards the Pyramids at Giza, Egypt.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-124",
+      "q": "Where can you find the Alamo Mission?",
+      "options": [
+        "Washington D.C.",
+        "Hawaii",
+        "Colorado, USA",
+        "Texas"
+      ],
+      "correct": 3,
+      "explanation": "The Alamo Mission is in San Antonio, Texas — site of the famous 1836 battle.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-125",
+      "q": "Where can you find the Azadi Monument?",
+      "options": [
+        "Mali",
+        "Iran",
+        "Iraq",
+        "Sydney"
+      ],
+      "correct": 1,
+      "explanation": "The Azadi Tower (Freedom Tower) is the gateway monument of Tehran, Iran.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-126",
+      "q": "In London, no visit is complete without the famous gardens with the elegant Palm House. They are:",
+      "options": [
+        "Hampton Court",
+        "Kew Gardens",
+        "Greenwich",
+        "Kensington Gardens"
+      ],
+      "correct": 1,
+      "explanation": "The Royal Botanic Gardens, Kew (Kew Gardens) in London house the iconic Victorian Palm House.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-127",
+      "q": "Where can you find Castel Sant&#x27;Angelo?",
+      "options": [
+        "Istanbul, Turkey",
+        "Athens, Greece",
+        "Paris, France",
+        "Rome, Italy"
+      ],
+      "correct": 3,
+      "explanation": "Castel Sant&#x27;Angelo (Hadrian&#x27;s Mausoleum) is in Rome, near Vatican City.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-128",
+      "q": "Where can you find the Castle of La Mota?",
+      "options": [
+        "Japan",
+        "France",
+        "Canada",
+        "Spain"
+      ],
+      "correct": 3,
+      "explanation": "The Castle of La Mota is in Medina del Campo, Spain.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-129",
+      "q": "Which palace has gardens including formal knot gardens, the Broad Walk and an intricate maze?",
+      "options": [
+        "Balmoral Castle",
+        "Windsor Castle",
+        "Buckingham Palace",
+        "Hampton Court"
+      ],
+      "correct": 2,
+      "explanation": "Buckingham Palace&#x27;s gardens include the famous knot gardens, the Broad Walk and a hedge maze.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-130",
+      "q": "Where can you find the Giza Pyramids?",
+      "options": [
+        "Egypt",
+        "Israel",
+        "Jordan",
+        "Turkey"
+      ],
+      "correct": 0,
+      "explanation": "The Giza Pyramids are on the Giza plateau near Cairo, Egypt.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-131",
+      "q": "Where can you find Diamond Head?",
+      "options": [
+        "Washington D.C.",
+        "Hawaii",
+        "Colorado, USA",
+        "Texas"
+      ],
+      "correct": 1,
+      "explanation": "Diamond Head is a famous volcanic tuff cone on Oahu, Hawaii.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-132",
+      "q": "Where can you find the Dome of the Rock?",
+      "options": [
+        "Jerusalem",
+        "Texas",
+        "Turkey",
+        "Paris"
+      ],
+      "correct": 0,
+      "explanation": "The Dome of the Rock stands on the Temple Mount in Jerusalem.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-133",
+      "q": "Where can you find the Grand Canyon?",
+      "options": [
+        "Washington D.C.",
+        "Hawaii",
+        "Colorado, USA",
+        "Texas"
+      ],
+      "correct": 2,
+      "explanation": "The Grand Canyon (carved by the Colorado River) is in Arizona, USA — often referred via its Colorado-River source.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-134",
+      "q": "Where can you find the Colosseum?",
+      "options": [
+        "Istanbul, Turkey",
+        "Athens, Greece",
+        "Paris, France",
+        "Rome, Italy"
+      ],
+      "correct": 3,
+      "explanation": "The Roman Colosseum (Flavian Amphitheatre) is in Rome, Italy.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-135",
+      "q": "Where can you find Old Faithful, Yellowstone National Park?",
+      "options": [
+        "USA",
+        "Germany",
+        "Canada",
+        "Australia"
+      ],
+      "correct": 0,
+      "explanation": "Old Faithful geyser is in Yellowstone National Park, USA (mostly Wyoming).",
+      "tags": []
+    },
+    {
+      "id": "mapsan-136",
+      "q": "Where can you find Red Square?",
+      "options": [
+        "Moscow",
+        "Texas",
+        "Hawaii",
+        "Paris"
+      ],
+      "correct": 0,
+      "explanation": "Red Square is the iconic central square of Moscow, Russia.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-137",
+      "q": "Where can you find the Blue Mosque?",
+      "options": [
+        "Istanbul, Turkey",
+        "Rome, Italy",
+        "Athens, Greece",
+        "Paris, France"
+      ],
+      "correct": 0,
+      "explanation": "The Blue Mosque (Sultan Ahmed Mosque) is in Istanbul, Turkey.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-138",
+      "q": "Where can you find Mount Eden crater?",
+      "options": [
+        "New Zealand",
+        "Turkey",
+        "France",
+        "Italy"
+      ],
+      "correct": 0,
+      "explanation": "Mount Eden is a volcanic crater in Auckland, New Zealand.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-139",
+      "q": "Gujranwala (Pakistan) is known for:",
+      "options": [
+        "Iron, Safes",
+        "Almrahs, rice and utensils",
+        "Both of them",
+        "None of them"
+      ],
+      "correct": 2,
+      "explanation": "Gujranwala is industrially known for iron, safes, almrahs, rice and utensils.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-140",
+      "q": "Where can you find the Blue-domed Church?",
+      "options": [
+        "Copenhagen",
+        "Santorini",
+        "Athens",
+        "Moscow"
+      ],
+      "correct": 1,
+      "explanation": "The iconic blue-domed churches are on Santorini, Greece (Oia village).",
+      "tags": []
+    },
+    {
+      "id": "mapsan-141",
+      "q": "Where can you find St. Basil&#x27;s Cathedral?",
+      "options": [
+        "Copenhagen",
+        "Santorini",
+        "Athens",
+        "Moscow"
+      ],
+      "correct": 3,
+      "explanation": "St. Basil&#x27;s Cathedral, with its colourful onion domes, stands in Red Square, Moscow.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-142",
+      "q": "Where can you find the Great Sphinx?",
+      "options": [
+        "Athens",
+        "Giza",
+        "Damascus",
+        "Istanbul"
+      ],
+      "correct": 1,
+      "explanation": "The Great Sphinx of Giza stands on the Giza Plateau, Egypt.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-143",
+      "q": "Where can you find the Little Mermaid statue?",
+      "options": [
+        "Copenhagen",
+        "Santorini",
+        "Athens",
+        "Moscow"
+      ],
+      "correct": 0,
+      "explanation": "The Little Mermaid bronze statue is on the waterfront in Copenhagen, Denmark.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-144",
+      "q": "Where can you find the famous Windmills?",
+      "options": [
+        "Athens, Greece",
+        "Rio de Janeiro, Brazil",
+        "Paris, France",
+        "Kinderdijk, Holland"
+      ],
+      "correct": 3,
+      "explanation": "The 19 windmills of Kinderdijk in the Netherlands are a UNESCO World Heritage Site.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-145",
+      "q": "Where can you find Hagia Sophia (Agia Sofia)?",
+      "options": [
+        "Istanbul, Turkey",
+        "Rio de Janeiro, Brazil",
+        "Athens, Greece",
+        "Paris, France"
+      ],
+      "correct": 0,
+      "explanation": "Hagia Sophia is the iconic Byzantine-era basilica/mosque in Istanbul, Turkey.",
+      "tags": []
+    },
+    {
+      "id": "mapsan-146",
+      "q": "Which city is associated with tobacco and cigars?",
+      "options": [
+        "Manila",
+        "Dublin",
+        "Havana",
+        "Jakarta"
+      ],
+      "correct": 2,
+      "explanation": "Havana, Cuba, is famous worldwide for cigars (e.g. Cohiba, Montecristo).",
+      "tags": []
+    }
+  ]
+}

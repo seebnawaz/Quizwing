@@ -2,10 +2,10 @@
   "topic_id": "network-security-encryption-viruses",
   "topic_name": "Network Security Encryption Viruses",
   "subject": "computer-science",
-  "version": 1,
-  "updated_at": "2026-05-12",
+  "version": 3,
+  "updated_at": "2026-06-24",
   "description": "Network Security Encryption Viruses MCQs for PPSC, FPSC, NTS, CSS & PMS.",
-  "icon": "🔐",
+  "icon": "📄",
   "mcqs": [
     {
       "id": "networ-001",

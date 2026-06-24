@@ -2,10 +2,10 @@
   "topic_id": "world-organizations-and-headquarters",
   "topic_name": "World Organizations & Headquarters",
   "subject": "current-affairs",
-  "version": 1,
-  "updated_at": "2026-05-12",
+  "version": 3,
+  "updated_at": "2026-06-24",
   "description": "World Organizations & Headquarters MCQs for PPSC, FPSC, NTS, CSS & PMS.",
-  "icon": "🏢",
+  "icon": "📄",
   "mcqs": [
     {
       "id": "worldo-001",

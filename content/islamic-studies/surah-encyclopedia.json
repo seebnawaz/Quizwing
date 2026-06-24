@@ -1,0 +1,752 @@
+{
+  "topic_id": "surah-encyclopedia",
+  "topic_name": "Surah Encyclopedia",
+  "subject": "islamic-studies",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Surah Encyclopedia MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "surahe-001",
+      "q": "How many Surahs are in the Holy Quran?",
+      "options": [
+        "99",
+        "110",
+        "114",
+        "120"
+      ],
+      "correct": 2,
+      "explanation": "The Holy Quran contains 114 Surahs (chapters). They vary in length from just 3 verses (Surah Al-Kauthar) to 286 verses (Surah Al-Baqarah). The Quran is divided into 30 Paras, 7 Manzils and 558 Rukus.",
+      "tags": []
+    },
+    {
+      "id": "surahe-002",
+      "q": "Which Surah was the first to be revealed to the Holy Prophet (PBUH)?",
+      "options": [
+        "Surah Al-Fatiha (No. 1)",
+        "Surah Al-Baqarah (No. 2)",
+        "Surah Al-Alaq (No. 96)",
+        "Surah Al-Muzzammil (No. 73)"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Alaq (No. 96, The Clot of Blood) was the first Surah revealed to the Holy Prophet (PBUH) in the Cave of Hira. The first five verses — beginning with 'Iqra' (Read) — were revealed by Angel Jibreel (AS). Its position in the Quranic arrangement is 96th.",
+      "tags": []
+    },
+    {
+      "id": "surahe-003",
+      "q": "Which is the first Surah in the Quranic arrangement?",
+      "options": [
+        "Surah Al-Alaq",
+        "Surah Al-Baqarah",
+        "Surah Al-Fatiha",
+        "Surah An-Nas"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Fatiha (No. 1, The Opening) is the first Surah in the Quranic arrangement. It has 7 verses and is also known as Umm-ul-Quran (Mother of the Quran) and As-Sab' al-Mathani (The Seven Oft-Repeated Verses).",
+      "tags": []
+    },
+    {
+      "id": "surahe-004",
+      "q": "Which is the last Surah in the Quranic arrangement?",
+      "options": [
+        "Surah Al-Falaq (No. 113)",
+        "Surah An-Nas (No. 114)",
+        "Surah Al-Ikhlas (No. 112)",
+        "Surah An-Nasr (No. 110)"
+      ],
+      "correct": 1,
+      "explanation": "Surah An-Nas (No. 114, The Mankind) is the last Surah in the Quranic arrangement. Along with Surah Al-Falaq (No. 113), it forms the Mu'awwidhatayn — the two Surahs of seeking refuge — recited for protection.",
+      "tags": []
+    },
+    {
+      "id": "surahe-005",
+      "q": "Which is the longest Surah in the Holy Quran?",
+      "options": [
+        "Surah Al-Fatiha",
+        "Surah Al-Imran",
+        "Surah Al-Baqarah",
+        "Surah An-Nisa"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Baqarah (No. 2, The Cow) is the longest Surah in the Quran with 286 verses. It also contains Ayat-ul-Kursi (2:255), considered the greatest verse of the Quran, and the last two verses known as the Amana Rasul.",
+      "tags": []
+    },
+    {
+      "id": "surahe-006",
+      "q": "Which is the shortest Surah in the Holy Quran?",
+      "options": [
+        "Surah Al-Ikhlas (No. 112)",
+        "Surah Al-Falaq (No. 113)",
+        "Surah Al-Kauthar (No. 108)",
+        "Surah An-Nasr (No. 110)"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Kauthar (No. 108, The Abundance of Good) is the shortest Surah in the Quran, containing only 3 verses. It is a Makki Surah, revealed as a consolation to the Holy Prophet (PBUH) after his enemies mocked him for having no male heir.",
+      "tags": []
+    },
+    {
+      "id": "surahe-007",
+      "q": "Which Surah is called the 'Heart of the Quran' (Qalb-ul-Quran)?",
+      "options": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah Al-Kahf",
+        "Surah Yaseen"
+      ],
+      "correct": 3,
+      "explanation": "Surah Yaseen (No. 36) is called the Heart of the Quran (Qalb-ul-Quran). The Holy Prophet (PBUH) said: 'Everything has a heart, and the heart of the Quran is Yaseen.' (Tirmidhi). Reciting Surah Yaseen is considered highly virtuous.",
+      "tags": []
+    },
+    {
+      "id": "surahe-008",
+      "q": "Which is the only Surah in the Quran that does NOT begin with Bismillah?",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Anfal",
+        "Surah At-Taubah",
+        "Surah Al-Fatiha"
+      ],
+      "correct": 2,
+      "explanation": "Surah At-Taubah (No. 9, The Repentance) is the only Surah that does not begin with Bismillah. Scholars explain this is because the Surah was revealed as a declaration of disavowal from the polytheists, making Bismillah (a blessing) inappropriate at its opening.",
+      "tags": []
+    },
+    {
+      "id": "surahe-009",
+      "q": "Which Surah is named after the only lady mentioned by name in the Quran?",
+      "options": [
+        "Surah An-Nisa",
+        "Surah Al-Mumtahinah",
+        "Surah Maryam",
+        "Surah Fatir"
+      ],
+      "correct": 2,
+      "explanation": "Surah Maryam (No. 19, Mary) is the only Surah named after a lady. Maryam (Mary, the mother of Prophet Isa AS) is the only woman mentioned by her own name in the Quran. All other women are referred to by their relation to men.",
+      "tags": []
+    },
+    {
+      "id": "surahe-010",
+      "q": "How many Makki Surahs are there in the Quran?",
+      "options": [
+        "70",
+        "78",
+        "86",
+        "90"
+      ],
+      "correct": 2,
+      "explanation": "There are 86 Makki Surahs in the Quran — those revealed before the Hijra (migration to Madinah). Makki Surahs generally deal with faith (Iman), Tawheed, prophethood, and the Day of Judgment. The remaining 28 Surahs are Madni.",
+      "tags": []
+    },
+    {
+      "id": "surahe-011",
+      "q": "How many Madni Surahs are there in the Quran?",
+      "options": [
+        "20",
+        "24",
+        "28",
+        "32"
+      ],
+      "correct": 2,
+      "explanation": "There are 28 Madni Surahs — those revealed after the Hijra in Madinah. Madni Surahs generally deal with Islamic law, social regulations, governance, and guidelines for the Muslim community. Total Surahs = 86 Makki + 28 Madni = 114.",
+      "tags": []
+    },
+    {
+      "id": "surahe-012",
+      "q": "Into how many Manzils is the Quran divided?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "explanation": "The Quran is divided into 7 Manzils (stages), designed to allow a Muslim to complete the recitation of the entire Quran in one week — one Manzil per day. This division is separate from the 30 Paras division.",
+      "tags": []
+    },
+    {
+      "id": "surahe-013",
+      "q": "Which Surah starts Manzil 4 of the Quran?",
+      "options": [
+        "Surah Al-Imran",
+        "Surah Ar-Ra'd",
+        "Surah Al-Kahf",
+        "Surah Luqman"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Kahf (No. 18, The Cave) starts Manzil 4 of the Quran. It is a highly significant Surah, recommended to be recited every Friday. It contains the stories of the People of the Cave, the Two Gardens, Musa (AS) and Khidr, and Dhul-Qarnayn.",
+      "tags": []
+    },
+    {
+      "id": "surahe-014",
+      "q": "Which Surah starts Manzil 5 of the Quran?",
+      "options": [
+        "Surah Al-Fath",
+        "Surah Luqman",
+        "Surah Al-Ahzab",
+        "Surah Az-Zumar"
+      ],
+      "correct": 1,
+      "explanation": "Surah Luqman (No. 31) starts Manzil 5 of the Quran. Manzil 2 begins with Surah Al-Araf (7), Manzil 3 with Surah Ar-Ra'd (13), Manzil 4 with Surah Al-Kahf (18), and Manzil 6 with Surah Az-Zukhruf (43).",
+      "tags": []
+    },
+    {
+      "id": "surahe-015",
+      "q": "Which Surah starts Manzil 6 of the Quran?",
+      "options": [
+        "Surah As-Sajdah",
+        "Surah Al-Ahzab",
+        "Surah Az-Zukhruf",
+        "Surah Muhammad"
+      ],
+      "correct": 2,
+      "explanation": "Surah Az-Zukhruf (No. 43, Golden Adornments) starts Manzil 6 of the Quran. The 7 Manzil starting points are: Fatiha (1), Al-Araf (7), Ar-Ra'd (13), Al-Kahf (18), Luqman (31), Az-Zukhruf (43), and Qaaf (50) for Manzil 7.",
+      "tags": []
+    },
+    {
+      "id": "surahe-016",
+      "q": "What is the English meaning of Surah Al-Fatiha (No. 1)?",
+      "options": [
+        "The Cow",
+        "The Opening",
+        "The Heights",
+        "The Women"
+      ],
+      "correct": 1,
+      "explanation": "Surah Al-Fatiha (No. 1) means 'The Opening' in English. It is the opening chapter of the Quran and is recited in every unit (rakat) of prayer. It is also known as Umm-ul-Quran (Mother of the Quran).",
+      "tags": []
+    },
+    {
+      "id": "surahe-017",
+      "q": "What is the English meaning of Surah Al-Baqarah (No. 2)?",
+      "options": [
+        "The Opening",
+        "The Family of Imran",
+        "The Cow",
+        "The Women"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Baqarah (No. 2) means 'The Cow' — named after the story of the cow that Bani Israel were commanded to slaughter (2:67–73). It is the longest Surah in the Quran with 286 verses.",
+      "tags": []
+    },
+    {
+      "id": "surahe-018",
+      "q": "What is the English meaning of Surah An-Nisa (No. 4)?",
+      "options": [
+        "The Table Spread",
+        "The Women",
+        "The Cattle",
+        "The Repentance"
+      ],
+      "correct": 1,
+      "explanation": "Surah An-Nisa (No. 4) means 'The Women' — it extensively covers rights and laws related to women, marriage, inheritance, and family. It also covers matters of justice, war and governance.",
+      "tags": []
+    },
+    {
+      "id": "surahe-019",
+      "q": "What is the English meaning of Surah Al-Anfal (No. 8)?",
+      "options": [
+        "The Repentance",
+        "The Spoils of War",
+        "The Heights",
+        "The Animal"
+      ],
+      "correct": 1,
+      "explanation": "Surah Al-Anfal (No. 8) means 'The Spoils of War.' It was revealed after the Battle of Badr (2 A.H.) and deals with the distribution of war spoils, rules of warfare, and the ethics of dealing with captives.",
+      "tags": []
+    },
+    {
+      "id": "surahe-020",
+      "q": "What is the English meaning of Surah Al-Kahf (No. 18)?",
+      "options": [
+        "The Night Journey",
+        "Mary",
+        "The Cave",
+        "The Prophets"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Kahf (No. 18) means 'The Cave.' It contains the famous story of the People of the Cave (Ashaab-e-Kahf) who slept for 309 years. The Prophet (PBUH) recommended reciting it every Friday as a protection from the Dajjal.",
+      "tags": []
+    },
+    {
+      "id": "surahe-021",
+      "q": "What is the English meaning of Surah Al-Ambiya (No. 21)?",
+      "options": [
+        "The Pilgrimage",
+        "The Believers",
+        "The Prophets",
+        "The Light"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Ambiya (No. 21) means 'The Prophets.' It narrates stories of many prophets — Ibrahim, Lut, Nuh, Dawood, Sulaiman, Yunus, Zakariyya, Yahya and Isa (peace be upon them all).",
+      "tags": []
+    },
+    {
+      "id": "surahe-022",
+      "q": "What is the English meaning of Surah An-Noor (No. 24)?",
+      "options": [
+        "The Poets",
+        "The Ants",
+        "The Narratives",
+        "The Light"
+      ],
+      "correct": 3,
+      "explanation": "Surah An-Noor (No. 24) means 'The Light.' It contains important social and legal rulings, including the laws on modesty, false accusation (Qazf), and contains the famous Ayat-un-Noor (24:35) — the Verse of Light.",
+      "tags": []
+    },
+    {
+      "id": "surahe-023",
+      "q": "What is the English meaning of Surah An-Naml (No. 27)?",
+      "options": [
+        "The Spider",
+        "The Romans",
+        "The Ants",
+        "The Narratives"
+      ],
+      "correct": 2,
+      "explanation": "Surah An-Naml (No. 27) means 'The Ants.' It contains the story of the ant that warned its colony as Prophet Sulaiman's (AS) army approached (27:18). This is the only mention of an ant speaking in the Quran.",
+      "tags": []
+    },
+    {
+      "id": "surahe-024",
+      "q": "What is the English meaning of Surah Al-Ankabut (No. 29)?",
+      "options": [
+        "The Romans",
+        "The Spoils of War",
+        "The Creator",
+        "The Spider"
+      ],
+      "correct": 3,
+      "explanation": "Surah Al-Ankabut (No. 29) means 'The Spider.' The analogy of the spider's web is used to describe the fragility of worldly supports taken instead of Allah (29:41). It contains stories of Ibrahim, Nuh, Lut, and Shu'ayb (AS).",
+      "tags": []
+    },
+    {
+      "id": "surahe-025",
+      "q": "What is the English meaning of Surah Ar-Rum (No. 30)?",
+      "options": [
+        "The Troops",
+        "The Kneeling",
+        "The Romans",
+        "The Scattering Winds"
+      ],
+      "correct": 2,
+      "explanation": "Surah Ar-Rum (No. 30) means 'The Romans (Byzantines).' It famously predicted the Roman victory over Persia within a few years (30:2–5), which came true. This prophecy was considered miraculous proof of the Quran's divine origin.",
+      "tags": []
+    },
+    {
+      "id": "surahe-026",
+      "q": "What is the English meaning of Surah Al-Fath (No. 48)?",
+      "options": [
+        "The Apartments",
+        "The Victory",
+        "The Struggle",
+        "The Counsel"
+      ],
+      "correct": 1,
+      "explanation": "Surah Al-Fath (No. 48) means 'The Victory.' It was revealed after the Treaty of Hudaybiyyah (6 A.H.) and refers to the treaty as Fatah al-Mubeen — a Clear Victory — which paved the way for the Conquest of Makkah.",
+      "tags": []
+    },
+    {
+      "id": "surahe-027",
+      "q": "What is the English meaning of Surah Al-Mulk (No. 67)?",
+      "options": [
+        "The Pen",
+        "The Kingdom",
+        "The Inevitable",
+        "The Ascending Steps"
+      ],
+      "correct": 1,
+      "explanation": "Surah Al-Mulk (No. 67) means 'The Kingdom.' The Prophet (PBUH) said it intercedes for its reciter in the grave. It is also called Al-Waqi'ah (the Protector) and reciting it every night is highly recommended in hadith.",
+      "tags": []
+    },
+    {
+      "id": "surahe-028",
+      "q": "What is the English meaning of Surah Al-Qalam (No. 68)?",
+      "options": [
+        "The Kingdom",
+        "The Night Comer",
+        "The Pen",
+        "The Inevitable"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Qalam (No. 68) means 'The Pen.' It begins with the oath 'By the Pen and what they inscribe' (68:1), emphasising the importance of knowledge and writing in Islam.",
+      "tags": []
+    },
+    {
+      "id": "surahe-029",
+      "q": "What is the English meaning of Surah Al-Muzzammil (No. 73)?",
+      "options": [
+        "The Mantled One",
+        "The Resurrection",
+        "The Enwrapped One",
+        "The Jinn"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Muzzammil (No. 73) means 'The Enwrapped One' (one wrapped in garments). Allah addresses the Prophet: 'O you enwrapped (Muzzammil), arise and pray at night...' This name is also one of the 99 names of the Holy Prophet (PBUH).",
+      "tags": []
+    },
+    {
+      "id": "surahe-030",
+      "q": "What is the English meaning of Surah Al-Muddaththir (No. 74)?",
+      "options": [
+        "The Enwrapped One",
+        "The Resurrection",
+        "The Mantled One",
+        "The Jinn"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Muddaththir (No. 74) means 'The Mantled One' (one covered with a cloak). Allah commands: 'O you covered (Muddaththir), arise and warn!' This name is also one of the 99 names of the Holy Prophet (PBUH).",
+      "tags": []
+    },
+    {
+      "id": "surahe-031",
+      "q": "What is the English meaning of Surah Ad-Duha (No. 93)?",
+      "options": [
+        "The Night",
+        "The Fig",
+        "The Expansion",
+        "The Growing Brightness"
+      ],
+      "correct": 3,
+      "explanation": "Surah Ad-Duha (No. 93) means 'The Growing Brightness' or 'The Morning Light.' It was revealed to console the Holy Prophet (PBUH) during a period of delay in revelation, reminding him that Allah had not forsaken him.",
+      "tags": []
+    },
+    {
+      "id": "surahe-032",
+      "q": "What is the English meaning of Surah Al-Alaq (No. 96)?",
+      "options": [
+        "The Night of Power",
+        "The Clear Proof",
+        "The Clot of Blood",
+        "The Earthquake"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Alaq (No. 96) means 'The Clot of Blood' — referring to the human embryo. It is the first Surah revealed, beginning with 'Iqra bismi Rabbika alladhi khalaq' — 'Read in the name of your Lord who created.'",
+      "tags": []
+    },
+    {
+      "id": "surahe-033",
+      "q": "What is the English meaning of Surah Al-Qadr (No. 97)?",
+      "options": [
+        "The Clear Proof",
+        "The Earthquake",
+        "The Blessed / Night of Power",
+        "The Clot of Blood"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Qadr (No. 97) means 'The Night of Power' or 'The Blessed.' It describes Laylat-ul-Qadr — the Night of Power in Ramadan — which is 'better than a thousand months' (97:3).",
+      "tags": []
+    },
+    {
+      "id": "surahe-034",
+      "q": "What is the English meaning of Surah Az-Zalzalah (No. 99)?",
+      "options": [
+        "Those That Run",
+        "The Earthquake",
+        "The Frightening Calamity",
+        "The Piling of Wealth"
+      ],
+      "correct": 1,
+      "explanation": "Surah Az-Zalzalah (No. 99) means 'The Earthquake.' It describes the earthquake that will occur on the Day of Judgment, when the Earth will reveal its tidings and every person will see the results of their deeds.",
+      "tags": []
+    },
+    {
+      "id": "surahe-035",
+      "q": "What is the English meaning of Surah Al-Fil (No. 105)?",
+      "options": [
+        "Quraish",
+        "Articles of Use",
+        "The Abundance of Good",
+        "The Elephant"
+      ],
+      "correct": 3,
+      "explanation": "Surah Al-Fil (No. 105) means 'The Elephant.' It refers to the event in 570 AD (Year of the Elephant / Aam-ul-Fil) when Abraha's army with war elephants attempted to destroy the Kaabah and was destroyed by flocks of birds.",
+      "tags": []
+    },
+    {
+      "id": "surahe-036",
+      "q": "What is the English meaning of Surah Al-Ikhlas (No. 112)?",
+      "options": [
+        "The Day Break",
+        "The Mankind",
+        "The Sincerity",
+        "The Palm Fibre"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Ikhlas (No. 112) means 'The Sincerity' or 'Purity of Faith.' The Prophet (PBUH) said it equals one-third of the Quran in reward, as it perfectly describes the absolute Oneness (Tawheed) of Allah.",
+      "tags": []
+    },
+    {
+      "id": "surahe-037",
+      "q": "What is the English meaning of Surah Al-Falaq (No. 113)?",
+      "options": [
+        "The Mankind",
+        "The Day Break",
+        "The Sincerity",
+        "The Jinn"
+      ],
+      "correct": 1,
+      "explanation": "Surah Al-Falaq (No. 113) means 'The Day Break.' It is a supplication seeking refuge in Allah from the evil of darkness, sorcery, and envy. Together with Surah An-Nas (114), it forms the Mu'awwidhatayn.",
+      "tags": []
+    },
+    {
+      "id": "surahe-038",
+      "q": "What is the number of Surah Yaseen in the Quran?",
+      "options": [
+        "30",
+        "34",
+        "36",
+        "38"
+      ],
+      "correct": 2,
+      "explanation": "Surah Yaseen is No. 36 in the Quranic arrangement. It is called the Heart of the Quran (Qalb-ul-Quran) and is recommended to recite for the dying and for one's own spiritual benefit.",
+      "tags": []
+    },
+    {
+      "id": "surahe-039",
+      "q": "What is the number of Surah Ar-Rahman in the Quran?",
+      "options": [
+        "52",
+        "53",
+        "55",
+        "57"
+      ],
+      "correct": 2,
+      "explanation": "Surah Ar-Rahman is No. 55 in the Quranic arrangement. It means 'The Most Affectionate' and is known for the repeated verse 'Fabi ayyi ala'i Rabbikuma tukadhdhibaan' (So which of the favors of your Lord would you deny?) appearing 31 times.",
+      "tags": []
+    },
+    {
+      "id": "surahe-040",
+      "q": "What is the number of Surah Al-Waqiah in the Quran?",
+      "options": [
+        "54",
+        "55",
+        "56",
+        "57"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Waqiah is No. 56 in the Quranic arrangement. It means 'The Event' — referring to the Day of Judgment. The Prophet (PBUH) said: 'Whoever recites Surah Al-Waqiah every night, poverty will never afflict him.'",
+      "tags": []
+    },
+    {
+      "id": "surahe-041",
+      "q": "How many Surahs are named after Prophets?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "explanation": "Six Surahs are named directly after Prophets: Surah Yunus (No. 10), Surah Hud (No. 11), Surah Yousuf (No. 12), Surah Ibrahim (No. 14), Surah Muhammad (No. 47), and Surah Nuh (No. 71).",
+      "tags": []
+    },
+    {
+      "id": "surahe-042",
+      "q": "Which Surah in the Quran is named after the Holy Prophet Muhammad (PBUH)?",
+      "options": [
+        "Surah Al-Fath (No. 48)",
+        "Surah Muhammad (No. 47)",
+        "Surah Al-Ahzab (No. 33)",
+        "Surah Al-Muzzammil (No. 73)"
+      ],
+      "correct": 1,
+      "explanation": "Surah Muhammad (No. 47) is named directly after the Holy Prophet (PBUH). It deals with the rules of war, treatment of prisoners, and the duties of the Muslim community. It is a Madni Surah.",
+      "tags": []
+    },
+    {
+      "id": "surahe-043",
+      "q": "Which Surah in the Quran starts Manzil 2?",
+      "options": [
+        "Surah Al-Maidah (No. 5)",
+        "Surah Al-Anaam (No. 6)",
+        "Surah Al-Araf (No. 7)",
+        "Surah Al-Anfal (No. 8)"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Araf (No. 7, The Heights) starts Manzil 2 of the Quran. Manzil 1 covers Surahs 1–2 (Al-Fatiha and Al-Baqarah through parts of An-Nisa). Each Manzil is designed for one day's recitation to complete the Quran in 7 days.",
+      "tags": []
+    },
+    {
+      "id": "surahe-044",
+      "q": "Which Surah in the Quran starts Manzil 3?",
+      "options": [
+        "Surah Yunus (No. 10)",
+        "Surah Hud (No. 11)",
+        "Surah Yousuf (No. 12)",
+        "Surah Ar-Ra'd (No. 13)"
+      ],
+      "correct": 3,
+      "explanation": "Surah Ar-Ra'd (No. 13, The Thunder) starts Manzil 3 of the Quran. The 7 Manzil starting points are: Al-Fatiha (1), Al-Araf (7), Ar-Ra'd (13), Al-Kahf (18), Luqman (31), Az-Zukhruf (43), and Qaaf (50).",
+      "tags": []
+    },
+    {
+      "id": "surahe-045",
+      "q": "What is the English meaning of Surah Al-Isra (No. 17)?",
+      "options": [
+        "The Cave",
+        "The Night Journey",
+        "Mary",
+        "The Prophets"
+      ],
+      "correct": 1,
+      "explanation": "Surah Al-Isra (No. 17) means 'The Night Journey.' It begins with the account of the Prophet's miraculous night journey from Masjid al-Haram to Masjid al-Aqsa (Isra), and then his ascension to the heavens (Mi'raj).",
+      "tags": []
+    },
+    {
+      "id": "surahe-046",
+      "q": "What is the English meaning of Surah Al-Hajj (No. 22)?",
+      "options": [
+        "The Believers",
+        "The Pilgrimage",
+        "The Light",
+        "The Prophets"
+      ],
+      "correct": 1,
+      "explanation": "Surah Al-Hajj (No. 22) means 'The Pilgrimage.' It contains the command to perform Hajj and describes its rites, including Tawaf, sacrifice, and the Call of Ibrahim (AS). It is unique in that it contains two verses of prostration.",
+      "tags": []
+    },
+    {
+      "id": "surahe-047",
+      "q": "What is the English meaning of Surah Al-Ahzab (No. 33)?",
+      "options": [
+        "Sheba",
+        "The Creator",
+        "The Confederates",
+        "Yaseen"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Ahzab (No. 33) means 'The Confederates.' It deals with the Battle of Khandaq (Battle of the Confederates), family laws, and contains the verse commanding salawat upon the Prophet (33:56).",
+      "tags": []
+    },
+    {
+      "id": "surahe-048",
+      "q": "What is the English meaning of Surah Al-Hujurat (No. 49)?",
+      "options": [
+        "The Victory",
+        "The Apartments",
+        "Qaaf",
+        "The Scattering Winds"
+      ],
+      "correct": 1,
+      "explanation": "Surah Al-Hujurat (No. 49) means 'The Apartments (private chambers).' It contains important social ethics: how to address the Prophet, verification of news, avoiding backbiting, prohibition of mockery, and the definition of true brotherhood.",
+      "tags": []
+    },
+    {
+      "id": "surahe-049",
+      "q": "What is the English meaning of Surah Al-Munafiqun (No. 63)?",
+      "options": [
+        "The Friday Prayer",
+        "Mutual Fraud",
+        "The Hypocrites",
+        "Divorce"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Munafiqun (No. 63) means 'The Hypocrites.' It deals with the characteristics and tactics of the hypocrites (Munafiqeen) of Madinah, particularly their false oaths, and warns Muslims to guard against hypocrisy.",
+      "tags": []
+    },
+    {
+      "id": "surahe-050",
+      "q": "What is the English meaning of Surah Al-Jummah (No. 62)?",
+      "options": [
+        "The Hypocrites",
+        "The Ranks",
+        "The Friday Prayer",
+        "Mutual Fraud"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Jummah (No. 62) means 'The Friday Prayer.' It emphasises the obligation of Jumu'ah prayer and commands Muslims to leave all trade and hasten to the prayer when the call is made on Friday.",
+      "tags": []
+    },
+    {
+      "id": "surahe-051",
+      "q": "What is the number of Surah Al-Kauthar (the shortest Surah) in the Quran?",
+      "options": [
+        "105",
+        "106",
+        "107",
+        "108"
+      ],
+      "correct": 3,
+      "explanation": "Surah Al-Kauthar (The Abundance of Good) is No. 108 in the Quran, and it is the shortest Surah with only 3 verses. It was revealed to console the Prophet (PBUH) after his enemies mocked him, and promises him Al-Kauthar (the blessed river in Paradise).",
+      "tags": []
+    },
+    {
+      "id": "surahe-052",
+      "q": "What is the number of Surah Al-Ikhlas in the Quran?",
+      "options": [
+        "110",
+        "111",
+        "112",
+        "113"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Ikhlas (The Sincerity) is No. 112 in the Quran. It has 4 verses and comprehensively declares the Oneness of Allah. The Prophet (PBUH) said its reward equals reciting one-third of the Quran.",
+      "tags": []
+    },
+    {
+      "id": "surahe-053",
+      "q": "What is the English meaning of Surah An-Nasr (No. 110)?",
+      "options": [
+        "The Palm Fibre",
+        "The Help / Victory",
+        "The Infidels",
+        "The Sincerity"
+      ],
+      "correct": 1,
+      "explanation": "Surah An-Nasr (No. 110) means 'The Help' or 'Divine Victory.' It was revealed after the Conquest of Makkah. The Prophet (PBUH) understood it as a sign that his mission was complete and his time on earth was nearing its end.",
+      "tags": []
+    },
+    {
+      "id": "surahe-054",
+      "q": "What is the English meaning of Surah Al-Hadeed (No. 57)?",
+      "options": [
+        "The Event",
+        "The Pleading Woman",
+        "The Iron",
+        "The Assemblage"
+      ],
+      "correct": 2,
+      "explanation": "Surah Al-Hadeed (No. 57) means 'The Iron.' It is the only Surah named after a metal. It deals with the creation of the heavens and earth, spending in the way of Allah, and the nature of worldly life.",
+      "tags": []
+    },
+    {
+      "id": "surahe-055",
+      "q": "Which Surah's name is also one of the 99 names of the Holy Prophet?",
+      "options": [
+        "Surah Al-Fath",
+        "Surah Al-Muzzammil",
+        "Surah Al-Baqarah",
+        "Surah An-Nasr"
+      ],
+      "correct": 1,
+      "explanation": "Surah Al-Muzzammil (No. 73) shares its name with one of the 99 names of the Holy Prophet (PBUH). Muzzammil = The Enwrapped One. Similarly, Surah Al-Muddaththir (74, The Mantled One) is also one of the Prophet's names.",
+      "tags": []
+    },
+    {
+      "id": "surahe-056",
+      "q": "What is the English meaning of Surah Al-Furqaan (No. 25)?",
+      "options": [
+        "The Poets",
+        "The Criterion",
+        "The Ants",
+        "The Spider"
+      ],
+      "correct": 1,
+      "explanation": "Surah Al-Furqaan (No. 25) means 'The Criterion' — Al-Furqaan is one of the names of the Holy Quran, meaning that which distinguishes truth from falsehood. It also discusses the qualities of the servants of the Most Merciful.",
+      "tags": []
+    },
+    {
+      "id": "surahe-057",
+      "q": "What is the English meaning of Surah Al-Qamar (No. 54)?",
+      "options": [
+        "The Star",
+        "The Moon",
+        "The Mount",
+        "The Scattering Winds"
+      ],
+      "correct": 1,
+      "explanation": "Surah Al-Qamar (No. 54) means 'The Moon.' It begins with a reference to the splitting of the moon (Shaqq-ul-Qamar) — a miracle of the Holy Prophet (PBUH) mentioned in hadith — and contains the refrain 'Is there any who will remember?'",
+      "tags": []
+    }
+  ]
+}

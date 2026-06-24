@@ -1,0 +1,973 @@
+{
+  "topic_id": "geometry",
+  "topic_name": "Geometry",
+  "subject": "mathematics",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Geometry MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "geomet-001",
+      "q": "The area of a triangle is 126 cm² and its base is 28 cm. Find its height?",
+      "options": [
+        "11cm",
+        "14cm",
+        "10cm",
+        "9cm"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-002",
+      "q": "How many square feet are in one acre?",
+      "options": [
+        "43,560",
+        "43460",
+        "87120",
+        "43660"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-003",
+      "q": "lf each interior angle of a polygon is 162°, calculate the number of sides?",
+      "options": [
+        "30",
+        "15",
+        "25",
+        "20"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-004",
+      "q": "A parallelogram has a side 15 cm and 10 cm find it’s perimeter...... cm²",
+      "options": [
+        "50",
+        "55",
+        "45",
+        "60"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-005",
+      "q": "Area of equilateral triangle is V243/16, find the length of side of triangle?",
+      "options": [
+        "4/2",
+        "2/2",
+        "3/2",
+        "3/3"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-006",
+      "q": "If each interior angle of a polygon is 162°, calculate the number of sides?",
+      "options": [
+        "30",
+        "20",
+        "15",
+        "25"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-007",
+      "q": "Aparallelogram has a side 15 cm and 10 cm find it's perimeter....... cm²",
+      "options": [
+        "45",
+        "50",
+        "55",
+        "60"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-008",
+      "q": "If ABCD is a square with given points A(2,3), B(-2,2), C(-1,-2), then what are the coordinates of D?",
+      "options": [
+        "(3,4)",
+        "(3,-1)",
+        "(3,1)",
+        "(3,0)"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-009",
+      "q": "The angle of elevation of the top of a tower from a point 20 m away from its base is 45°. What is the height of the tower?",
+      "options": [
+        "22m",
+        "21m",
+        "20m",
+        "25m"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-010",
+      "q": "Ifthe side of a square is 5 units, what is its area?",
+      "options": [
+        "26 sq. units",
+        "27 sq. units",
+        "30 sq. units",
+        "25 sq. units"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-011",
+      "q": "The area of a rectangular field is 17 m by 13 m. If the cost of tiling is 70 per square meter, what is the total cost of tiling the field?",
+      "options": [
+        "30940",
+        "15370",
+        "15570",
+        "15470"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-012",
+      "q": "How many tangents can be drawn toa circle in total?",
+      "options": [
+        "Infinite",
+        "One solution",
+        "Two solutions",
+        "No solution"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-013",
+      "q": "A square park has a side of 50 meters. If the rate of fencing is Rs. 8 per meter, what is the total cost of fencing the park?",
+      "options": [
+        "Rs. 1602",
+        "Rs. 1600",
+        "Rs. 1601",
+        "Rs. 1605"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-014",
+      "q": "Ifthe area of rectangle is 30cm² and width is 5 cm find the length?",
+      "options": [
+        "6",
+        "8",
+        "5",
+        "7"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-015",
+      "q": "If one angle of a parallelogram is 24° less than twice the smallest angle, then the largest angle of the parallelogram is?",
+      "options": [
+        "112°",
+        "114°",
+        "117°",
+        "113°"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-016",
+      "q": "Two concentric circles are of radii 10 cm and 6 cm. Find the length of the chord of the larger circle which touches the smaller circle?",
+      "options": [
+        "17 cm",
+        "18 cm",
+        "21 cm",
+        "16 cm"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-017",
+      "q": "378 trees are planted in rows in the shape of an isosceles triangle, the numbers in successive rows decreasing by one from the base to the top. How many trees are there in the row which forms the base of the triangle?",
+      "options": [
+        "27",
+        "22",
+        "32",
+        "37"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-018",
+      "q": "One fifth of the sum of two angles is 24 degree and half of their difference is 14 degree. Calculate the largest angle?",
+      "options": [
+        "74°",
+        "76°",
+        "79°",
+        "75°"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-019",
+      "q": "Find the breadth of a rectangular field whose length is 18 m and area is 216 m²?",
+      "options": [
+        "14m",
+        "17m",
+        "12m",
+        "13m"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-020",
+      "q": "Find the breadth of a rectangular field, given that its length is 18 meters and its area is 666 square meters?",
+      "options": [
+        "47",
+        "37",
+        "32",
+        "42"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-021",
+      "q": "How many bricks each of volume 750cm² will be required to construct a wall 10m, 5m, 30cm²",
+      "options": [
+        "19900",
+        "40000",
+        "20000",
+        "20100"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-022",
+      "q": "Find the square root of 6084 is?",
+      "options": [
+        "73",
+        "88",
+        "78",
+        "83"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-023",
+      "q": "Three angles of a quadrilateral measure 68°, 85°, and 95°. Find the measure of the fourth angle?",
+      "options": [
+        "114°",
+        "117°",
+        "113°",
+        "112°"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-024",
+      "q": "The base and height of a triangle are (x+3) cm and (2x-5) cm respectively. If the area of the triangle is 20 cm²?",
+      "options": [
+        "6",
+        "5",
+        "4",
+        "7"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-025",
+      "q": "The inner circumference of a circular race track is 440m. If the width of track is 14m, what is the radius of outer circle?",
+      "options": [
+        "85m",
+        "84m",
+        "86m",
+        "89m"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-026",
+      "q": "The angles of a triangle are (x-35), (x- 25) and (1/2x-10), find x?",
+      "options": [
+        "110",
+        "100",
+        "150",
+        "90"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-027",
+      "q": "The area of the square whose side is the hypotenuse is equal to the sum of the areas of the squares on the other two sides?",
+      "options": [
+        "Cannot be determined",
+        "Pythagoras",
+        "None of these",
+        "Insufficient data"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-028",
+      "q": "Ifthe radius of circle is 1 cm then its area in mm² is?",
+      "options": [
+        "364",
+        "314",
+        "324",
+        "304"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-029",
+      "q": "The sum of the squares of two positive integers is 100 and their difference of their square is 28. The sum of the numbers is?",
+      "options": [
+        "19",
+        "24",
+        "9",
+        "14"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-030",
+      "q": "Arectangular lawn 80 meters by 60 meters has two roads each 10 m wide running in the middle of it, one parallel to the length and the other parallel to the breadth. Find the cost of gravelling at the Rate 30 per square meter?",
+      "options": [
+        "39100",
+        "78000",
+        "38900",
+        "39000"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-031",
+      "q": "The Angle of elevation of sun when the length of shadow of tree is equal to height of tree?",
+      "options": [
+        "50°",
+        "46°",
+        "45°",
+        "47°"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-032",
+      "q": "The square root of 729 is?",
+      "options": [
+        "32",
+        "22",
+        "37",
+        "27"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-033",
+      "q": "The square of standard deviation is called?",
+      "options": [
+        "Cannot be determined",
+        "Variance",
+        "Insufficient data",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-034",
+      "q": "A Mason fixed black tiles of square shape around a square room. There are 21 tiles on each side of the room. How many tiles did he need altogether?",
+      "options": [
+        "80",
+        "75",
+        "85",
+        "90"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-035",
+      "q": "The circumference of a circle whose diameter is 7 inches is approximately?",
+      "options": [
+        "22 inches",
+        "24 inches",
+        "27 inches",
+        "23 inches"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-036",
+      "q": "If one of the angles of a triangle is 90 degrees what would be the value of other two angles?",
+      "options": [
+        "100",
+        "85",
+        "95",
+        "90"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-037",
+      "q": "294 is multiplied to which positive to give a complete square?",
+      "options": [
+        "8",
+        "5",
+        "7",
+        "6"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-038",
+      "q": "Which one of the following is a positive square root of 2209?",
+      "options": [
+        "57",
+        "42",
+        "47",
+        "52"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-039",
+      "q": "A ladder makes an angle of 60 degree with the ground against a wall. If the foot of ladder 2m away from the wall. The length of ladder is?",
+      "options": [
+        "9m",
+        "6m",
+        "4m",
+        "5m"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-040",
+      "q": "Find the volume of a cuboid having 3 cm length, 3 cm width and 3 cm height?",
+      "options": [
+        "22",
+        "27",
+        "32",
+        "37"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-041",
+      "q": "When a triangle has two congruent sides, it is called triangle?",
+      "options": [
+        "Isosceles",
+        "Insufficient data",
+        "None of these",
+        "Cannot be determined"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-042",
+      "q": "Asquare region has an area of 2304 m.Find its perimeter?",
+      "options": [
+        "194 m",
+        "193 m",
+        "197 m",
+        "192 m"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-043",
+      "q": "How many tiles of dimension 10 square inch are required to cover a floor of dimension of 5 feet by 4 feet?",
+      "options": [
+        "288",
+        "338",
+        "298",
+        "278"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-044",
+      "q": "What is the sum of all angles of a triangle?",
+      "options": [
+        "181 degrees",
+        "185 degrees",
+        "182 degrees",
+        "180 degrees"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-045",
+      "q": "The number of square tiles 3\" long required to cover a rectangular floor of 30 feet x 40 feet is?",
+      "options": [
+        "38400",
+        "19300",
+        "19200",
+        "19100"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-046",
+      "q": "The length of a rectangle is 3 cm more than its width, if length is 37 cm, the perimeter of rectangle will be?",
+      "options": [
+        "144 cm",
+        "142 cm",
+        "143 cm",
+        "147 cm"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-047",
+      "q": "Find the radius of a circle whose circumference is 308 m²",
+      "options": [
+        "49 m",
+        "51 m",
+        "50 m",
+        "54 m"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-048",
+      "q": "Arectangular carpet has an area of 120 square meters and a perimeter of 46 meters. The length of its diagonal is? 17m Solution: Let length = L and breadth = W Area =LW=120 Perimeter = 2(L+W) = 46 L+W=23 (L+ W)? = L? + W? + 2LW 23? = L? + W? + 2(120) 529 = L? + W? +240 L? + W? = 289 Diagonal? = L? + W?",
+      "options": [
+        "= 294",
+        "= 290",
+        "= 289",
+        "= 291"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-049",
+      "q": "Arectangle measures 8cm on length and its diagonal measures 10cm. What is the perimeter of the rectangle?",
+      "options": [
+        "28cm",
+        "30cm",
+        "29cm",
+        "33cm"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-050",
+      "q": "Diameter of a circle having radius r is?",
+      "options": [
+        "7r",
+        "3r",
+        "2r",
+        "4r"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-051",
+      "q": "Square of 32 is?",
+      "options": [
+        "1124",
+        "2048",
+        "924",
+        "1024"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-052",
+      "q": "Find the measure of an angle, if six times its complement is 12° less than twice its supplement?",
+      "options": [
+        "53",
+        "48",
+        "43",
+        "58"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-053",
+      "q": "If length of a side of a square is 4cm calculate its area?",
+      "options": [
+        "21",
+        "16",
+        "11",
+        "26"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-054",
+      "q": "If perpendicular of a triangle is 20 and base is 12 then its area is?",
+      "options": [
+        "170",
+        "110",
+        "130",
+        "120"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-055",
+      "q": "If acube has 3 inches width, 3 inches length and 3 inches height, what would be the volume (in cubic inches) of the cube?",
+      "options": [
+        "27",
+        "32",
+        "37",
+        "22"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-056",
+      "q": "Calculate the perimeter of a rhombus with each side equal to 6cm²",
+      "options": [
+        "26cm",
+        "29cm",
+        "25cm",
+        "24cm"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-057",
+      "q": "Acube has a volume of 8 cubic meters. If each side is doubled in length what will its new volume be in cubic meters?",
+      "options": [
+        "74",
+        "69",
+        "64",
+        "59"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-058",
+      "q": "If length 3 Inch, width is 3 inch height 3 inch than tell the volume?",
+      "options": [
+        "27 cubic",
+        "29 cubic",
+        "28 cubic",
+        "32 cubic"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-059",
+      "q": "The least number by which 294 must be multiplied to make it a perfect square is?",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-060",
+      "q": "Asquare shaped wedding hall has an area of 18m7?. Find the cost of tile WHATSAPP FOR IN CLASSES NITH SIR TAUQEER flooring at the rate of Rs. 725 per square meter?",
+      "options": [
+        "Rs. 13051",
+        "Rs. 13050",
+        "Rs. 13055",
+        "Rs. 13052"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-061",
+      "q": "Two angles are supplementary. One angle is 12° less than three times the other. What is the measure of the larger angle?",
+      "options": [
+        "132°",
+        "133°",
+        "134°",
+        "137°"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-062",
+      "q": "The square root of 729 is?",
+      "options": [
+        "22",
+        "37",
+        "32",
+        "27"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-063",
+      "q": "Arectangular field is to be fenced on 3 sides leaving a side of 20 feet PREPARATION WI unfenced. If the area of the field is 680 Sq. feet how many feet of fencing will be required?",
+      "options": [
+        "89 feet",
+        "93 feet",
+        "90 feet",
+        "88 feet"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-064",
+      "q": "Which one of the following shapes has four equal sides and right angles?",
+      "options": [
+        "None of these",
+        "Insufficient data",
+        "Square",
+        "Cannot be determined"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-065",
+      "q": "Arectangular field which is twice as long as it is broad, has an area of 14450 sqm. What is its perimeter? 510 m Solution: Let breadth =bm Then length = 2b m Area = length x breadth 2b xb = 14450 2b? = 14450 b?",
+      "options": [
+        "=7226",
+        "=7230",
+        "=7225",
+        "=7227"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-066",
+      "q": "1square foot is equal to?",
+      "options": [
+        "146 square",
+        "149 square",
+        "145 square",
+        "144 square"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-067",
+      "q": "The sum of a positive integer and its square is 2450. The positive integer is?",
+      "options": [
+        "49",
+        "54",
+        "59",
+        "44"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-068",
+      "q": "Find the square of 35?",
+      "options": [
+        "1225",
+        "1325",
+        "2450",
+        "1125"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-069",
+      "q": "Arectangle has a length of 10cm & a perimeter of 30cm. Find the width of the rectangle?",
+      "options": [
+        "6 cm",
+        "5 cm",
+        "7 cm",
+        "10 cm"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-070",
+      "q": "Awire inthe form of a circle of radius 42 cm is cut and bent in the form of a square thus formed is?",
+      "options": [
+        "61",
+        "76",
+        "66",
+        "71"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-071",
+      "q": "Arectangle has a length of 10cm anda perimeter of 30cm. Find the width of the rectangle?",
+      "options": [
+        "7cm",
+        "6cm",
+        "5cm",
+        "10cm"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-072",
+      "q": "Arectangle has a perimeter of 50 meters. If its length is 13 metres more than its breadth, then its area is?",
+      "options": [
+        "164",
+        "124",
+        "104",
+        "114"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-073",
+      "q": "The square root of 169 is?",
+      "options": [
+        "18",
+        "23",
+        "13",
+        "8"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "geomet-074",
+      "q": "66 cubic centimeters of silver is drawn into a wire 1 mm in diameter. The length of the wire in meters will be?",
+      "options": [
+        "84m",
+        "86m",
+        "89m",
+        "85m"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    }
+  ]
+}

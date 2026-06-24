@@ -2,10 +2,10 @@
   "topic_id": "asian-history",
   "topic_name": "Asian History",
   "subject": "general-knowledge",
-  "version": 1,
-  "updated_at": "2026-05-12",
+  "version": 3,
+  "updated_at": "2026-06-24",
   "description": "Asian History MCQs for PPSC, FPSC, NTS, CSS & PMS.",
-  "icon": "🌏",
+  "icon": "📄",
   "mcqs": [
     {
       "id": "asianh-001",

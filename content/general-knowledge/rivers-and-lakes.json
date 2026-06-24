@@ -1,0 +1,726 @@
+{
+  "topic_id": "rivers-and-lakes",
+  "topic_name": "Rivers & Lakes",
+  "subject": "general-knowledge",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Rivers & Lakes MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "rivers-001",
+      "q": "Which is the longest river of Pakistan?",
+      "options": [
+        "Kabul",
+        "Indus",
+        "Chenab",
+        "Sutlej"
+      ],
+      "correct": 1,
+      "explanation": "The Indus River is the longest river of Pakistan with a length of approximately 3,180 km. It rises in Tibet near Mount Kailash and flows into the Arabian Sea.",
+      "tags": []
+    },
+    {
+      "id": "rivers-002",
+      "q": "The Indus River is also known as:",
+      "options": [
+        "Abaseen",
+        "Sindhu",
+        "Both A and B",
+        "Attock River"
+      ],
+      "correct": 2,
+      "explanation": "The Indus is also called Abaseen (&#x27;father of rivers&#x27; in Pashto) and Sindhu in Sanskrit — the name from which &#x27;India&#x27; and &#x27;Sindh&#x27; are derived.",
+      "tags": []
+    },
+    {
+      "id": "rivers-003",
+      "q": "From where does the Indus River rise?",
+      "options": [
+        "Karakoram",
+        "Hindu Kush",
+        "Tibet (near Mount Kailash)",
+        "Pamir"
+      ],
+      "correct": 2,
+      "explanation": "The Indus River originates in Tibet near Mount Kailash and Lake Mansarovar, then flows through Ladakh, enters Pakistan in Gilgit-Baltistan and ends in the Arabian Sea.",
+      "tags": []
+    },
+    {
+      "id": "rivers-004",
+      "q": "Where does the Indus River end?",
+      "options": [
+        "Bay of Bengal",
+        "Persian Gulf",
+        "Arabian Sea",
+        "Caspian Sea"
+      ],
+      "correct": 2,
+      "explanation": "The Indus discharges into the Arabian Sea south of Karachi, forming a vast delta in Sindh province.",
+      "tags": []
+    },
+    {
+      "id": "rivers-005",
+      "q": "Which is the longest river of the Indian subcontinent?",
+      "options": [
+        "Ganges",
+        "Indus",
+        "Brahmaputra",
+        "Yamuna"
+      ],
+      "correct": 2,
+      "explanation": "The Brahmaputra is typically considered the longest river of the Indian subcontinent, with a total length of about 2,900 km. The Indus (3,180 km) is longer overall but only a portion lies in the subcontinent.",
+      "tags": []
+    },
+    {
+      "id": "rivers-006",
+      "q": "How many major rivers form the Indus Basin Irrigation System (IBIS) of Pakistan?",
+      "options": [
+        "Four",
+        "Five",
+        "Six",
+        "Seven"
+      ],
+      "correct": 2,
+      "explanation": "Six major rivers form the IBIS: Indus, Jhelum, Chenab, Ravi, Sutlej and Kabul. It is one of the largest contiguous irrigation systems in the world.",
+      "tags": []
+    },
+    {
+      "id": "rivers-007",
+      "q": "Where do the Jhelum and Chenab rivers meet?",
+      "options": [
+        "Panjnad",
+        "Mithankot",
+        "Trimmu",
+        "Khanki Headworks"
+      ],
+      "correct": 2,
+      "explanation": "The Jhelum joins the Chenab at Trimmu Headworks in Jhang District, Punjab. From there the combined river continues south.",
+      "tags": []
+    },
+    {
+      "id": "rivers-008",
+      "q": "Where do the five rivers of Punjab finally merge before joining the Indus?",
+      "options": [
+        "Trimmu",
+        "Panjnad",
+        "Sukkur",
+        "Kotri"
+      ],
+      "correct": 1,
+      "explanation": "The five rivers of Punjab unite at Panjnad (&#x27;five rivers&#x27;), near Uch Sharif. The Panjnad River then merges with the Indus at Mithankot.",
+      "tags": []
+    },
+    {
+      "id": "rivers-009",
+      "q": "Which is the smallest of the five rivers of Punjab?",
+      "options": [
+        "Jhelum",
+        "Chenab",
+        "Ravi",
+        "Sutlej"
+      ],
+      "correct": 2,
+      "explanation": "The Ravi is the smallest of the five Punjab rivers in terms of catchment area and flow. It is also the most polluted river of Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "rivers-010",
+      "q": "Which is the most polluted river of Pakistan?",
+      "options": [
+        "Indus",
+        "Chenab",
+        "Ravi",
+        "Sutlej"
+      ],
+      "correct": 2,
+      "explanation": "The Ravi River is the most polluted river of Pakistan due to industrial discharge and sewage from Lahore and surrounding cities.",
+      "tags": []
+    },
+    {
+      "id": "rivers-011",
+      "q": "The ancient city of Harappa is situated on the bank of which river?",
+      "options": [
+        "Indus",
+        "Ravi",
+        "Chenab",
+        "Sutlej"
+      ],
+      "correct": 1,
+      "explanation": "Harappa, a major site of the Indus Valley Civilization, lies on the bank of the Ravi River in Sahiwal District, Punjab. Mohenjo-daro by contrast lies on the Indus.",
+      "tags": []
+    },
+    {
+      "id": "rivers-012",
+      "q": "Mohenjo-daro is situated on the bank of which river?",
+      "options": [
+        "Indus",
+        "Ravi",
+        "Chenab",
+        "Hub"
+      ],
+      "correct": 0,
+      "explanation": "Mohenjo-daro, the famous Indus Valley city in Larkana district, Sindh, lies on the western bank of the Indus River.",
+      "tags": []
+    },
+    {
+      "id": "rivers-013",
+      "q": "Which river of Pakistan has an annual flow roughly twice that of the Nile?",
+      "options": [
+        "Indus",
+        "Chenab",
+        "Kabul",
+        "Jhelum"
+      ],
+      "correct": 0,
+      "explanation": "The Indus River carries an annual flow approximately twice that of the Nile, despite the Nile being longer — making it one of the highest-discharge rivers of South Asia.",
+      "tags": []
+    },
+    {
+      "id": "rivers-014",
+      "q": "The Bari Doab Canal originates from which river?",
+      "options": [
+        "Indus",
+        "Chenab",
+        "Ravi",
+        "Sutlej"
+      ],
+      "correct": 2,
+      "explanation": "The Bari Doab Canal takes its water from the Ravi River. &#x27;Bari Doab&#x27; is the land between the Ravi and Beas rivers.",
+      "tags": []
+    },
+    {
+      "id": "rivers-015",
+      "q": "Into which river does the Kabul River fall?",
+      "options": [
+        "Indus",
+        "Jhelum",
+        "Chenab",
+        "Sutlej"
+      ],
+      "correct": 0,
+      "explanation": "The Kabul River joins the Indus River near Attock in Khyber Pakhtunkhwa, just after entering Pakistan from Afghanistan.",
+      "tags": []
+    },
+    {
+      "id": "rivers-016",
+      "q": "Which river is sometimes called the &#x27;Nile of Pakistan&#x27;?",
+      "options": [
+        "Kabul",
+        "Indus",
+        "Chenab",
+        "Sutlej"
+      ],
+      "correct": 1,
+      "explanation": "The Indus is often called the &#x27;Nile of Pakistan&#x27; because, like the Nile in Egypt, it is the lifeblood of agriculture, civilization and settlement in Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "rivers-017",
+      "q": "Panjkora River is located in which province of Pakistan?",
+      "options": [
+        "Punjab",
+        "Sindh",
+        "Khyber Pakhtunkhwa",
+        "Balochistan"
+      ],
+      "correct": 2,
+      "explanation": "The Panjkora River flows through Dir district of Khyber Pakhtunkhwa and is a tributary of the Swat River.",
+      "tags": []
+    },
+    {
+      "id": "rivers-018",
+      "q": "Bolan River is located in which province?",
+      "options": [
+        "Punjab",
+        "Sindh",
+        "Khyber Pakhtunkhwa",
+        "Balochistan"
+      ],
+      "correct": 3,
+      "explanation": "The Bolan River flows in Balochistan, passing through the famous Bolan Pass — a historic gateway between Central Asia and the subcontinent.",
+      "tags": []
+    },
+    {
+      "id": "rivers-019",
+      "q": "Hingol — the longest river of Balochistan — flows in which province?",
+      "options": [
+        "Punjab",
+        "Sindh",
+        "Khyber Pakhtunkhwa",
+        "Balochistan"
+      ],
+      "correct": 3,
+      "explanation": "The Hingol River is the longest river of Balochistan and flows entirely within the province before entering the Arabian Sea inside Hingol National Park.",
+      "tags": []
+    },
+    {
+      "id": "rivers-020",
+      "q": "Dasht River is located in which province?",
+      "options": [
+        "Punjab",
+        "Sindh",
+        "Khyber Pakhtunkhwa",
+        "Balochistan"
+      ],
+      "correct": 3,
+      "explanation": "The Dasht River flows in southwestern Balochistan and drains into the Arabian Sea near Gwadar / Jiwani.",
+      "tags": []
+    },
+    {
+      "id": "rivers-021",
+      "q": "Porali River is located in which province?",
+      "options": [
+        "Punjab",
+        "Sindh",
+        "Khyber Pakhtunkhwa",
+        "Balochistan"
+      ],
+      "correct": 3,
+      "explanation": "The Porali River flows in the Lasbela district of Balochistan and empties into Sonmiani Bay (Arabian Sea).",
+      "tags": []
+    },
+    {
+      "id": "rivers-022",
+      "q": "Gomal and Kurram rivers are in which province?",
+      "options": [
+        "Punjab",
+        "Sindh",
+        "Khyber Pakhtunkhwa",
+        "Balochistan"
+      ],
+      "correct": 2,
+      "explanation": "The Gomal and Kurram rivers both flow through Khyber Pakhtunkhwa and are major tributaries of the Indus River.",
+      "tags": []
+    },
+    {
+      "id": "rivers-023",
+      "q": "Rakshan (Rukshan) River flows in which province?",
+      "options": [
+        "Punjab",
+        "Sindh",
+        "Khyber Pakhtunkhwa",
+        "Balochistan"
+      ],
+      "correct": 3,
+      "explanation": "The Rakshan River flows through Kharan and Panjgur districts of Balochistan, joining the Mashkel River.",
+      "tags": []
+    },
+    {
+      "id": "rivers-024",
+      "q": "Kabul River flows mainly in which province of Pakistan?",
+      "options": [
+        "Punjab",
+        "Sindh",
+        "Khyber Pakhtunkhwa",
+        "Balochistan"
+      ],
+      "correct": 2,
+      "explanation": "After entering Pakistan from Afghanistan, the Kabul River flows through Khyber Pakhtunkhwa and joins the Indus near Attock.",
+      "tags": []
+    },
+    {
+      "id": "rivers-025",
+      "q": "What is the approximate total length of the Jhelum River?",
+      "options": [
+        "725 km",
+        "254 km",
+        "1,232 km",
+        "2,514 km"
+      ],
+      "correct": 0,
+      "explanation": "The Jhelum River is approximately 725 km long. It rises at Verinag in Indian-administered Kashmir and joins the Chenab at Trimmu.",
+      "tags": []
+    },
+    {
+      "id": "rivers-026",
+      "q": "What is the approximate length of the Ravi River?",
+      "options": [
+        "254 km",
+        "715 km",
+        "1,232 km",
+        "2,514 km"
+      ],
+      "correct": 1,
+      "explanation": "The Ravi River is approximately 715–720 km long. It rises in Himachal Pradesh (India) and joins the Chenab in Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "rivers-027",
+      "q": "What is the approximate total length of the Indus River?",
+      "options": [
+        "1,232 km",
+        "2,514 km",
+        "2,900 km",
+        "7,854 km"
+      ],
+      "correct": 2,
+      "explanation": "The Indus River&#x27;s commonly cited length in competitive exams is around 2,900 km (some sources state ~3,180 km). It is the longest river in Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "rivers-028",
+      "q": "Which is the longest river in the world?",
+      "options": [
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
+      ],
+      "correct": 1,
+      "explanation": "The Nile River in Africa is traditionally considered the longest river in the world at about 6,650 km. Recent expeditions have argued the Amazon may be slightly longer, but the Nile remains the standard exam answer.",
+      "tags": []
+    },
+    {
+      "id": "rivers-029",
+      "q": "Which river is the largest in the world by water volume (discharge)?",
+      "options": [
+        "Nile",
+        "Yangtze",
+        "Amazon",
+        "Ganges"
+      ],
+      "correct": 2,
+      "explanation": "The Amazon carries roughly one-fifth of all river water flowing into the world&#x27;s oceans — making it the largest river by discharge.",
+      "tags": []
+    },
+    {
+      "id": "rivers-030",
+      "q": "The Yangtze is the longest river in:",
+      "options": [
+        "Africa",
+        "Europe",
+        "Asia",
+        "South America"
+      ],
+      "correct": 2,
+      "explanation": "The Yangtze (~6,300 km) is the longest river in Asia and the longest in China. It flows from the Tibetan Plateau to the East China Sea.",
+      "tags": []
+    },
+    {
+      "id": "rivers-031",
+      "q": "Which is the longest river in Europe?",
+      "options": [
+        "Danube",
+        "Rhine",
+        "Volga",
+        "Po"
+      ],
+      "correct": 2,
+      "explanation": "The Volga is the longest river in Europe at approximately 3,530 km. It flows entirely through Russia and ends in the Caspian Sea.",
+      "tags": []
+    },
+    {
+      "id": "rivers-032",
+      "q": "Which European river flows through the most countries (10)?",
+      "options": [
+        "Rhine",
+        "Volga",
+        "Danube",
+        "Elbe"
+      ],
+      "correct": 2,
+      "explanation": "The Danube flows through or borders 10 European countries — more than any other river in the world. It rises in Germany and ends in the Black Sea.",
+      "tags": []
+    },
+    {
+      "id": "rivers-033",
+      "q": "Lake Victoria is the source of which river?",
+      "options": [
+        "Blue Nile",
+        "White Nile",
+        "Congo",
+        "Niger"
+      ],
+      "correct": 1,
+      "explanation": "Lake Victoria — the largest lake in Africa — is the source of the White Nile, one of the two main tributaries of the Nile.",
+      "tags": []
+    },
+    {
+      "id": "rivers-034",
+      "q": "Which is the largest lake in the world by surface area?",
+      "options": [
+        "Lake Superior",
+        "Lake Victoria",
+        "Caspian Sea",
+        "Lake Baikal"
+      ],
+      "correct": 2,
+      "explanation": "The Caspian Sea is the world&#x27;s largest lake by surface area (~371,000 km²). It is shared by 5 countries — Iran, Russia, Kazakhstan, Azerbaijan and Turkmenistan.",
+      "tags": []
+    },
+    {
+      "id": "rivers-035",
+      "q": "Which is the largest freshwater lake in the world by surface area?",
+      "options": [
+        "Lake Baikal",
+        "Lake Victoria",
+        "Lake Superior",
+        "Lake Tanganyika"
+      ],
+      "correct": 2,
+      "explanation": "Lake Superior on the US–Canada border is the largest freshwater lake by surface area (~82,100 km²). It is one of the five Great Lakes of North America.",
+      "tags": []
+    },
+    {
+      "id": "rivers-036",
+      "q": "Which is the deepest lake in the world?",
+      "options": [
+        "Lake Tanganyika",
+        "Lake Baikal",
+        "Caspian Sea",
+        "Lake Superior"
+      ],
+      "correct": 1,
+      "explanation": "Lake Baikal in Siberia, Russia, is the deepest lake in the world at approximately 1,642 metres. It is also the world&#x27;s oldest lake (~25 million years).",
+      "tags": []
+    },
+    {
+      "id": "rivers-037",
+      "q": "Lake Baikal contains approximately what fraction of the world&#x27;s unfrozen freshwater?",
+      "options": [
+        "5%",
+        "10%",
+        "20%",
+        "50%"
+      ],
+      "correct": 2,
+      "explanation": "Lake Baikal contains roughly 20% of the world&#x27;s unfrozen freshwater — the largest freshwater volume of any lake on Earth.",
+      "tags": []
+    },
+    {
+      "id": "rivers-038",
+      "q": "Which is the largest lake in Africa?",
+      "options": [
+        "Lake Tanganyika",
+        "Lake Malawi",
+        "Lake Victoria",
+        "Lake Chad"
+      ],
+      "correct": 2,
+      "explanation": "Lake Victoria is the largest lake in Africa by surface area and is shared by Tanzania, Uganda and Kenya. It is also the second-largest freshwater lake in the world.",
+      "tags": []
+    },
+    {
+      "id": "rivers-039",
+      "q": "Lake Titicaca, the highest navigable lake in the world, lies between which two countries?",
+      "options": [
+        "Argentina & Chile",
+        "Peru & Bolivia",
+        "Ecuador & Colombia",
+        "Bolivia & Paraguay"
+      ],
+      "correct": 1,
+      "explanation": "Lake Titicaca sits on the border of Peru and Bolivia in the Andes mountains at an elevation of about 3,812 m — the highest navigable lake in the world.",
+      "tags": []
+    },
+    {
+      "id": "rivers-040",
+      "q": "Which is the lowest point on the Earth&#x27;s land surface?",
+      "options": [
+        "Dead Sea",
+        "Caspian Sea",
+        "Lake Assal",
+        "Lake Eyre"
+      ],
+      "correct": 0,
+      "explanation": "The Dead Sea, between Jordan and Israel, lies at about 430 metres below sea level — the lowest point on Earth&#x27;s land surface. It is also one of the saltiest bodies of water.",
+      "tags": []
+    },
+    {
+      "id": "rivers-041",
+      "q": "How many Great Lakes are there in North America?",
+      "options": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correct": 2,
+      "explanation": "There are 5 Great Lakes: Superior, Michigan, Huron, Erie and Ontario. Of these, Lake Michigan is the only one located entirely within the United States.",
+      "tags": []
+    },
+    {
+      "id": "rivers-042",
+      "q": "Which of the Great Lakes lies entirely within the United States?",
+      "options": [
+        "Lake Superior",
+        "Lake Huron",
+        "Lake Michigan",
+        "Lake Erie"
+      ],
+      "correct": 2,
+      "explanation": "Lake Michigan is the only Great Lake located entirely within the United States; the other four are shared with Canada.",
+      "tags": []
+    },
+    {
+      "id": "rivers-043",
+      "q": "Which is the largest natural freshwater lake of Pakistan?",
+      "options": [
+        "Keenjhar",
+        "Manchar",
+        "Hanna",
+        "Saif-ul-Malook"
+      ],
+      "correct": 1,
+      "explanation": "Manchar Lake in Jamshoro District, Sindh, is the largest natural freshwater lake of Pakistan. It is fed by the Indus and the Western Nara Canal.",
+      "tags": []
+    },
+    {
+      "id": "rivers-044",
+      "q": "In which province is Manchar Lake located?",
+      "options": [
+        "Punjab",
+        "Sindh",
+        "Khyber Pakhtunkhwa",
+        "Balochistan"
+      ],
+      "correct": 1,
+      "explanation": "Manchar Lake is located in Jamshoro District of Sindh province. It is a major wintering ground for migratory birds.",
+      "tags": []
+    },
+    {
+      "id": "rivers-045",
+      "q": "Keenjhar (Kalri) Lake — Pakistan&#x27;s second-largest freshwater lake — supplies water mainly to which city?",
+      "options": [
+        "Hyderabad",
+        "Karachi",
+        "Sukkur",
+        "Thatta"
+      ],
+      "correct": 1,
+      "explanation": "Keenjhar Lake in Thatta district, Sindh, is the main source of drinking water for Karachi and a famous picnic spot.",
+      "tags": []
+    },
+    {
+      "id": "rivers-046",
+      "q": "Hanna Lake is located near which city?",
+      "options": [
+        "Peshawar",
+        "Quetta",
+        "Skardu",
+        "Muzaffarabad"
+      ],
+      "correct": 1,
+      "explanation": "Hanna Lake is a scenic lake located near Quetta in Balochistan province. It was built by the British in the early 20th century.",
+      "tags": []
+    },
+    {
+      "id": "rivers-047",
+      "q": "Saif-ul-Malook Lake is located in which valley?",
+      "options": [
+        "Hunza",
+        "Kaghan/Naran",
+        "Swat",
+        "Neelum"
+      ],
+      "correct": 1,
+      "explanation": "Saif-ul-Malook is a legendary alpine lake at ~3,224 m in the Kaghan Valley near Naran, Mansehra District, Khyber Pakhtunkhwa.",
+      "tags": []
+    },
+    {
+      "id": "rivers-048",
+      "q": "Attabad Lake in Hunza was formed in which year after a landslide?",
+      "options": [
+        "2005",
+        "2008",
+        "2010",
+        "2013"
+      ],
+      "correct": 2,
+      "explanation": "Attabad Lake was formed in January 2010 when a massive landslide blocked the Hunza River, creating a new lake that submerged several villages.",
+      "tags": []
+    },
+    {
+      "id": "rivers-049",
+      "q": "Satpara Lake is located near which city of Gilgit-Baltistan?",
+      "options": [
+        "Gilgit",
+        "Skardu",
+        "Hunza",
+        "Chitral"
+      ],
+      "correct": 1,
+      "explanation": "Satpara Lake lies south of Skardu and is the main source of drinking water for the city. It is also a popular tourist site.",
+      "tags": []
+    },
+    {
+      "id": "rivers-050",
+      "q": "Haleji Lake, a famous bird sanctuary, is located in which province?",
+      "options": [
+        "Punjab",
+        "Sindh",
+        "Khyber Pakhtunkhwa",
+        "Balochistan"
+      ],
+      "correct": 1,
+      "explanation": "Haleji Lake is in Thatta District, Sindh, and is one of Asia&#x27;s most important bird sanctuaries — hosting hundreds of migratory species.",
+      "tags": []
+    },
+    {
+      "id": "rivers-051",
+      "q": "Rawal Lake is an artificial reservoir that supplies water to:",
+      "options": [
+        "Lahore",
+        "Faisalabad",
+        "Islamabad/Rawalpindi",
+        "Peshawar"
+      ],
+      "correct": 2,
+      "explanation": "Rawal Lake is an artificial reservoir on the Korang River that supplies drinking water to Islamabad and Rawalpindi.",
+      "tags": []
+    },
+    {
+      "id": "rivers-052",
+      "q": "Although Kazakhstan and Iran border it, the Caspian Sea is technically classified as:",
+      "options": [
+        "An ocean",
+        "An open sea",
+        "A lake (largest in the world)",
+        "A gulf"
+      ],
+      "correct": 2,
+      "explanation": "The Caspian Sea is technically the world&#x27;s largest enclosed lake — it has no natural connection to any ocean, even though it is called a &#x27;sea&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "rivers-053",
+      "q": "Which two rivers flow through Iraq, forming the historic Mesopotamia region?",
+      "options": [
+        "Nile and Congo",
+        "Tigris and Euphrates",
+        "Volga and Don",
+        "Indus and Ganges"
+      ],
+      "correct": 1,
+      "explanation": "The Tigris and Euphrates rivers flow through Iraq. The land between them was known as Mesopotamia — &#x27;the land between the rivers&#x27; — cradle of the earliest civilizations.",
+      "tags": []
+    },
+    {
+      "id": "rivers-054",
+      "q": "Which river is sacred in Hindu religion and flows through India and Bangladesh?",
+      "options": [
+        "Brahmaputra",
+        "Yamuna",
+        "Ganges",
+        "Krishna"
+      ],
+      "correct": 2,
+      "explanation": "The Ganges (Ganga) is the most sacred river in Hinduism. It rises in the Himalayas and flows through India and Bangladesh into the Bay of Bengal.",
+      "tags": []
+    },
+    {
+      "id": "rivers-055",
+      "q": "Which European river is known as the &#x27;Father Rhine&#x27; and is a major shipping artery?",
+      "options": [
+        "Danube",
+        "Rhine",
+        "Volga",
+        "Seine"
+      ],
+      "correct": 1,
+      "explanation": "The Rhine River (~1,233 km) flows from the Swiss Alps through six countries before reaching the North Sea at Rotterdam. It is Europe&#x27;s busiest waterway and is often called the &#x27;Father Rhine&#x27;.",
+      "tags": []
+    }
+  ]
+}

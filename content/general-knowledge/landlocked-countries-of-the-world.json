@@ -1,0 +1,661 @@
+{
+  "topic_id": "landlocked-countries-of-the-world",
+  "topic_name": "Landlocked Countries of the World",
+  "subject": "general-knowledge",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Landlocked Countries of the World MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "landlo-001",
+      "q": "What is a landlocked country?",
+      "options": [
+        "A country with a small coastline",
+        "A country with no direct access to any ocean or sea",
+        "An island nation",
+        "A country with only river borders"
+      ],
+      "correct": 1,
+      "explanation": "A landlocked country has no direct access to any ocean or sea. Its only routes to international waters lie across one or more neighbouring countries.",
+      "tags": []
+    },
+    {
+      "id": "landlo-002",
+      "q": "How many fully landlocked countries are recognized by the United Nations?",
+      "options": [
+        "32",
+        "38",
+        "44",
+        "49"
+      ],
+      "correct": 2,
+      "explanation": "There are 44 fully landlocked countries in the world according to the UN. In addition, 8 countries are considered semi-landlocked with very short coastlines.",
+      "tags": []
+    },
+    {
+      "id": "landlo-003",
+      "q": "How many semi-landlocked countries are there in the world?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correct": 2,
+      "explanation": "There are 8 semi-landlocked countries — nations like Iraq, Jordan, Bosnia-Herzegovina and DR Congo that have only very short coastlines or enclosed-sea access.",
+      "tags": []
+    },
+    {
+      "id": "landlo-004",
+      "q": "Which of the following is a double-landlocked country?",
+      "options": [
+        "Mongolia",
+        "Kazakhstan",
+        "Uzbekistan",
+        "Nepal"
+      ],
+      "correct": 2,
+      "explanation": "Uzbekistan is one of only two double-landlocked countries in the world — surrounded entirely by other landlocked countries (Kazakhstan, Kyrgyzstan, Tajikistan, Afghanistan, Turkmenistan).",
+      "tags": []
+    },
+    {
+      "id": "landlo-005",
+      "q": "The only two double-landlocked countries in the world are:",
+      "options": [
+        "Uzbekistan and Mongolia",
+        "Uzbekistan and Liechtenstein",
+        "Nepal and Bhutan",
+        "Bolivia and Paraguay"
+      ],
+      "correct": 1,
+      "explanation": "Uzbekistan (Central Asia) and Liechtenstein (Central Europe) are the only two double-landlocked countries. Liechtenstein is surrounded by Switzerland and Austria — both themselves landlocked.",
+      "tags": []
+    },
+    {
+      "id": "landlo-006",
+      "q": "Which is the largest landlocked country in the world by area?",
+      "options": [
+        "Mongolia",
+        "Chad",
+        "Kazakhstan",
+        "Afghanistan"
+      ],
+      "correct": 2,
+      "explanation": "Kazakhstan is the largest landlocked country in the world, covering approximately 2.7 million km². It is also the 9th-largest country overall, yet completely landlocked.",
+      "tags": []
+    },
+    {
+      "id": "landlo-007",
+      "q": "What is the approximate area of Kazakhstan?",
+      "options": [
+        "1.5 million km²",
+        "2.7 million km²",
+        "3.5 million km²",
+        "4.2 million km²"
+      ],
+      "correct": 1,
+      "explanation": "Kazakhstan covers roughly 2.7 million square kilometres, making it the largest landlocked country in the world and the 9th-largest country overall.",
+      "tags": []
+    },
+    {
+      "id": "landlo-008",
+      "q": "Which is the second-largest landlocked country in the world?",
+      "options": [
+        "Chad",
+        "Mongolia",
+        "Niger",
+        "Bolivia"
+      ],
+      "correct": 1,
+      "explanation": "Mongolia is the second-largest landlocked country in the world. It is sandwiched between Russia to the north and China to the south.",
+      "tags": []
+    },
+    {
+      "id": "landlo-009",
+      "q": "Which is the third-largest landlocked country in the world?",
+      "options": [
+        "Mongolia",
+        "Niger",
+        "Chad",
+        "Mali"
+      ],
+      "correct": 2,
+      "explanation": "Chad is the third-largest landlocked country in the world. It is located in north-central Africa, in the heart of the Sahara region.",
+      "tags": []
+    },
+    {
+      "id": "landlo-010",
+      "q": "Which landlocked country is Pakistan&#x27;s neighbour?",
+      "options": [
+        "Afghanistan",
+        "Tajikistan",
+        "Uzbekistan",
+        "Turkmenistan"
+      ],
+      "correct": 0,
+      "explanation": "Afghanistan is Pakistan&#x27;s landlocked neighbour to the west and northwest. It is located in the South-Central Asia region.",
+      "tags": []
+    },
+    {
+      "id": "landlo-011",
+      "q": "Which two countries in South Asia are landlocked Himalayan states?",
+      "options": [
+        "Nepal and Sri Lanka",
+        "Bhutan and Maldives",
+        "Nepal and Bhutan",
+        "Bhutan and Bangladesh"
+      ],
+      "correct": 2,
+      "explanation": "Nepal and Bhutan are both landlocked Himalayan states in South Asia, lying between India and China. Both depend on India for sea access.",
+      "tags": []
+    },
+    {
+      "id": "landlo-012",
+      "q": "Which is the only landlocked country in Southeast Asia?",
+      "options": [
+        "Cambodia",
+        "Vietnam",
+        "Laos",
+        "Myanmar"
+      ],
+      "correct": 2,
+      "explanation": "Laos is the only landlocked country in Southeast Asia. It is bordered by China, Vietnam, Cambodia, Thailand and Myanmar.",
+      "tags": []
+    },
+    {
+      "id": "landlo-013",
+      "q": "Which of these is a landlocked Asian republic?",
+      "options": [
+        "Iran",
+        "Armenia",
+        "Iraq",
+        "Sri Lanka"
+      ],
+      "correct": 1,
+      "explanation": "Armenia is a landlocked country in the South Caucasus. Other landlocked Asian republics include Azerbaijan and Kyrgyzstan.",
+      "tags": []
+    },
+    {
+      "id": "landlo-014",
+      "q": "How many landlocked countries are there in Asia?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "correct": 2,
+      "explanation": "Asia has 12 landlocked countries in total, including Afghanistan, Nepal, Bhutan, Laos, Kazakhstan, Mongolia, Uzbekistan, Tajikistan, Turkmenistan, Kyrgyzstan, Armenia and Azerbaijan.",
+      "tags": []
+    },
+    {
+      "id": "landlo-015",
+      "q": "Which continent has the highest number of landlocked countries?",
+      "options": [
+        "Asia",
+        "Europe",
+        "Africa",
+        "South America"
+      ],
+      "correct": 2,
+      "explanation": "Africa has the most landlocked countries in the world — 16 in total. Europe has 14, Asia has 12 and South America has only 2.",
+      "tags": []
+    },
+    {
+      "id": "landlo-016",
+      "q": "How many landlocked countries are there in Africa?",
+      "options": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "correct": 2,
+      "explanation": "Africa has 16 landlocked countries, the highest of any continent. Examples include Chad, Ethiopia, Mali, Niger, Uganda, Zambia, Zimbabwe, Burundi, Rwanda, CAR and Malawi.",
+      "tags": []
+    },
+    {
+      "id": "landlo-017",
+      "q": "Which of these is a landlocked country in Southern Africa?",
+      "options": [
+        "Mozambique",
+        "Angola",
+        "Lesotho",
+        "Namibia"
+      ],
+      "correct": 2,
+      "explanation": "Lesotho is a landlocked country in Southern Africa, completely surrounded by South Africa. Eswatini (Swaziland) is also landlocked within the region.",
+      "tags": []
+    },
+    {
+      "id": "landlo-018",
+      "q": "Eswatini was previously known as:",
+      "options": [
+        "Rhodesia",
+        "Swaziland",
+        "Abyssinia",
+        "Bechuanaland"
+      ],
+      "correct": 1,
+      "explanation": "Eswatini was formerly known as Swaziland. It officially renamed itself the Kingdom of Eswatini in 2018 and remains a landlocked country in Southern Africa.",
+      "tags": []
+    },
+    {
+      "id": "landlo-019",
+      "q": "DR Congo is classified as semi-landlocked because its coastline is only:",
+      "options": [
+        "12 km",
+        "25 km",
+        "37 km",
+        "60 km"
+      ],
+      "correct": 2,
+      "explanation": "The Democratic Republic of the Congo has only a 37 km coastline along the Atlantic Ocean, which is why it is classified as semi-landlocked rather than fully coastal.",
+      "tags": []
+    },
+    {
+      "id": "landlo-020",
+      "q": "South Sudan became a landlocked country after gaining independence in:",
+      "options": [
+        "2009",
+        "2010",
+        "2011",
+        "2013"
+      ],
+      "correct": 2,
+      "explanation": "South Sudan became an independent landlocked country on 9 July 2011 after separating from Sudan. It is the newest landlocked country in the world.",
+      "tags": []
+    },
+    {
+      "id": "landlo-021",
+      "q": "How many landlocked countries are there in Europe?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correct": 2,
+      "explanation": "Europe has 14 landlocked countries, including Switzerland, Austria, Hungary, Czech Republic, Slovakia, Belarus, Serbia, Liechtenstein, Luxembourg, Andorra, San Marino, Vatican City, North Macedonia and Moldova.",
+      "tags": []
+    },
+    {
+      "id": "landlo-022",
+      "q": "Which of the following Central European countries is landlocked?",
+      "options": [
+        "Switzerland",
+        "Italy",
+        "Germany",
+        "Poland"
+      ],
+      "correct": 0,
+      "explanation": "Switzerland is a landlocked country in Central Europe, surrounded by Germany, France, Italy, Austria and Liechtenstein. Austria and Hungary are other notable landlocked Central European states.",
+      "tags": []
+    },
+    {
+      "id": "landlo-023",
+      "q": "Which of these is NOT landlocked?",
+      "options": [
+        "Belarus",
+        "Czech Republic",
+        "Slovakia",
+        "Poland"
+      ],
+      "correct": 3,
+      "explanation": "Poland has a coastline on the Baltic Sea and is NOT landlocked. Belarus, Czech Republic and Slovakia are all landlocked European countries.",
+      "tags": []
+    },
+    {
+      "id": "landlo-024",
+      "q": "Serbia became a landlocked country on which date?",
+      "options": [
+        "1 January 1993",
+        "28 June 2006",
+        "9 July 2011",
+        "3 March 2008"
+      ],
+      "correct": 1,
+      "explanation": "Serbia became landlocked on 28 June 2006 after the dissolution of Serbia and Montenegro. Montenegro retained the Adriatic Sea coastline.",
+      "tags": []
+    },
+    {
+      "id": "landlo-025",
+      "q": "Why did Serbia become landlocked?",
+      "options": [
+        "War with Croatia",
+        "Dissolution of Yugoslavia in 1991",
+        "Dissolution of Serbia & Montenegro in 2006",
+        "NATO bombing"
+      ],
+      "correct": 2,
+      "explanation": "Serbia became landlocked in 2006 when Montenegro declared independence — the dissolution of the State Union of Serbia and Montenegro left Serbia without sea access.",
+      "tags": []
+    },
+    {
+      "id": "landlo-026",
+      "q": "Which of the following is NOT a landlocked European microstate?",
+      "options": [
+        "Liechtenstein",
+        "Luxembourg",
+        "San Marino",
+        "Monaco"
+      ],
+      "correct": 3,
+      "explanation": "Monaco has a Mediterranean coastline and is NOT landlocked. Liechtenstein, Luxembourg, Andorra, San Marino (and Vatican City) are the landlocked European microstates.",
+      "tags": []
+    },
+    {
+      "id": "landlo-027",
+      "q": "Which landlocked country is among the most economically prosperous in the world?",
+      "options": [
+        "Bolivia",
+        "Switzerland",
+        "Mongolia",
+        "Chad"
+      ],
+      "correct": 1,
+      "explanation": "Switzerland is consistently ranked among the most developed and prosperous countries in the world despite being landlocked — proving that geography is not destiny.",
+      "tags": []
+    },
+    {
+      "id": "landlo-028",
+      "q": "Which are the only two landlocked countries in South America?",
+      "options": [
+        "Bolivia and Peru",
+        "Bolivia and Paraguay",
+        "Paraguay and Ecuador",
+        "Bolivia and Uruguay"
+      ],
+      "correct": 1,
+      "explanation": "Bolivia and Paraguay are the only two landlocked countries in South America. All other South American nations have at least one ocean coastline.",
+      "tags": []
+    },
+    {
+      "id": "landlo-029",
+      "q": "How many landlocked countries does South America have?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "explanation": "South America has only 2 landlocked countries: Bolivia and Paraguay. Every other South American country borders either the Pacific Ocean, the Atlantic Ocean or the Caribbean Sea.",
+      "tags": []
+    },
+    {
+      "id": "landlo-030",
+      "q": "Bolivia lost its Pacific coastline during which war?",
+      "options": [
+        "War of Independence",
+        "Chaco War",
+        "War of the Pacific",
+        "Triple Alliance War"
+      ],
+      "correct": 2,
+      "explanation": "Bolivia lost its Pacific coastline during the War of the Pacific (1879–1884) when Chile defeated Bolivia and Peru. The dispute over sea access remains a diplomatic issue today.",
+      "tags": []
+    },
+    {
+      "id": "landlo-031",
+      "q": "In which years was the War of the Pacific fought?",
+      "options": [
+        "1865–1870",
+        "1879–1884",
+        "1899–1902",
+        "1914–1918"
+      ],
+      "correct": 1,
+      "explanation": "The War of the Pacific was fought from 1879 to 1884 between Chile on one side and Bolivia and Peru on the other. Chile&#x27;s victory left Bolivia permanently landlocked.",
+      "tags": []
+    },
+    {
+      "id": "landlo-032",
+      "q": "Bolivia lost its coastline to which country?",
+      "options": [
+        "Peru",
+        "Brazil",
+        "Argentina",
+        "Chile"
+      ],
+      "correct": 3,
+      "explanation": "Bolivia lost its Pacific coast to Chile during the War of the Pacific (1879–1884). The lost coastal region became Chile&#x27;s Antofagasta Region.",
+      "tags": []
+    },
+    {
+      "id": "landlo-033",
+      "q": "How does Paraguay reach the Atlantic Ocean?",
+      "options": [
+        "Through Argentina by road",
+        "Via the Paraná-Paraguay river system",
+        "Through Bolivia",
+        "It does not — it is fully isolated"
+      ],
+      "correct": 1,
+      "explanation": "Paraguay uses the Paraná-Paraguay river system to reach the Atlantic Ocean via the Río de la Plata estuary. This is a vital trade lifeline for the landlocked country.",
+      "tags": []
+    },
+    {
+      "id": "landlo-034",
+      "q": "Which continents have NO landlocked countries?",
+      "options": [
+        "Africa, Asia, Europe",
+        "North America, Australia, Antarctica",
+        "South America, Europe, Asia",
+        "North America, South America, Africa"
+      ],
+      "correct": 1,
+      "explanation": "North America, Australia (Oceania) and Antarctica have no landlocked countries. All countries on these continents have ocean access.",
+      "tags": []
+    },
+    {
+      "id": "landlo-035",
+      "q": "North America has access to which oceans?",
+      "options": [
+        "Only Atlantic",
+        "Only Pacific",
+        "Both Atlantic and Pacific",
+        "Indian and Atlantic"
+      ],
+      "correct": 2,
+      "explanation": "North America has access to both the Atlantic Ocean (east coast) and the Pacific Ocean (west coast), plus the Arctic Ocean to the north and the Caribbean Sea to the south.",
+      "tags": []
+    },
+    {
+      "id": "landlo-036",
+      "q": "Which of these is a semi-landlocked country?",
+      "options": [
+        "Spain",
+        "Iraq",
+        "Greece",
+        "Portugal"
+      ],
+      "correct": 1,
+      "explanation": "Iraq is semi-landlocked — it has only a tiny ~58 km coastline on the Persian Gulf at Umm Qasr. Jordan and Bosnia-Herzegovina are similarly classified as semi-landlocked.",
+      "tags": []
+    },
+    {
+      "id": "landlo-037",
+      "q": "Which European country has a long Adriatic coastline and is NOT landlocked, despite complex inland borders?",
+      "options": [
+        "Serbia",
+        "Croatia",
+        "Hungary",
+        "Slovakia"
+      ],
+      "correct": 1,
+      "explanation": "Croatia has a long Adriatic Sea coastline and is NOT landlocked. Although its borders zigzag inland (around Bosnia-Herzegovina), it remains a coastal nation.",
+      "tags": []
+    },
+    {
+      "id": "landlo-038",
+      "q": "Which of the following is NOT a landlocked country?",
+      "options": [
+        "Sudan",
+        "Chad",
+        "Niger",
+        "Mali"
+      ],
+      "correct": 0,
+      "explanation": "Sudan has a Red Sea coastline and is NOT landlocked. Chad, Niger and Mali are all landlocked countries in Africa. Note: South Sudan IS landlocked.",
+      "tags": []
+    },
+    {
+      "id": "landlo-039",
+      "q": "Which of the following is NOT landlocked?",
+      "options": [
+        "Spain",
+        "Switzerland",
+        "Austria",
+        "Hungary"
+      ],
+      "correct": 0,
+      "explanation": "Spain has long Mediterranean and Atlantic coastlines and is NOT landlocked. Switzerland, Austria and Hungary are all landlocked Central European countries.",
+      "tags": []
+    },
+    {
+      "id": "landlo-040",
+      "q": "Which of the following East African countries is landlocked?",
+      "options": [
+        "Kenya",
+        "Tanzania",
+        "Uganda",
+        "Mozambique"
+      ],
+      "correct": 2,
+      "explanation": "Uganda is a landlocked East African country with no coast. Kenya, Tanzania and Mozambique all have Indian Ocean coastlines.",
+      "tags": []
+    },
+    {
+      "id": "landlo-041",
+      "q": "Mali, Niger and Chad are landlocked countries in which region?",
+      "options": [
+        "Southern Africa",
+        "East Africa",
+        "West/Central Africa (Sahel)",
+        "Horn of Africa"
+      ],
+      "correct": 2,
+      "explanation": "Mali, Niger and Chad are landlocked countries in the Sahel region of West/Central Africa, stretching across the southern edge of the Sahara desert.",
+      "tags": []
+    },
+    {
+      "id": "landlo-042",
+      "q": "Which of the following is a landlocked country in the Horn of Africa region?",
+      "options": [
+        "Somalia",
+        "Eritrea",
+        "Ethiopia",
+        "Djibouti"
+      ],
+      "correct": 2,
+      "explanation": "Ethiopia is landlocked. It lost its Red Sea coastline when Eritrea declared independence in 1993. Somalia, Eritrea and Djibouti are all coastal.",
+      "tags": []
+    },
+    {
+      "id": "landlo-043",
+      "q": "Andorra is a landlocked microstate located between:",
+      "options": [
+        "France and Spain",
+        "Italy and Switzerland",
+        "Germany and Austria",
+        "Portugal and Spain"
+      ],
+      "correct": 0,
+      "explanation": "Andorra is a tiny landlocked principality in the eastern Pyrenees mountains, between France and Spain.",
+      "tags": []
+    },
+    {
+      "id": "landlo-044",
+      "q": "Luxembourg is a landlocked country bordered by:",
+      "options": [
+        "France, Belgium and Germany",
+        "France, Spain and Italy",
+        "Belgium, Germany and Netherlands",
+        "France, Switzerland and Germany"
+      ],
+      "correct": 0,
+      "explanation": "Luxembourg is a small landlocked country bordered by France to the south, Belgium to the west and Germany to the east.",
+      "tags": []
+    },
+    {
+      "id": "landlo-045",
+      "q": "San Marino, a landlocked microstate, is entirely surrounded by:",
+      "options": [
+        "France",
+        "Italy",
+        "Switzerland",
+        "Spain"
+      ],
+      "correct": 1,
+      "explanation": "San Marino is a tiny landlocked microstate completely surrounded by Italy. It is one of the world&#x27;s oldest republics.",
+      "tags": []
+    },
+    {
+      "id": "landlo-046",
+      "q": "Which Central European country is landlocked and was created in 1993 after the split of Czechoslovakia?",
+      "options": [
+        "Czech Republic",
+        "Slovakia",
+        "Both Czech Republic and Slovakia",
+        "Slovenia"
+      ],
+      "correct": 2,
+      "explanation": "Both the Czech Republic and Slovakia are landlocked. They were created in 1993 when Czechoslovakia peacefully dissolved in the &#x27;Velvet Divorce&#x27;.",
+      "tags": []
+    },
+    {
+      "id": "landlo-047",
+      "q": "Which East African landlocked country is famous for its mountain gorillas?",
+      "options": [
+        "Tanzania",
+        "Rwanda",
+        "Kenya",
+        "Mozambique"
+      ],
+      "correct": 1,
+      "explanation": "Rwanda is a landlocked East African country famous for its mountain gorillas in Volcanoes National Park. Burundi and Uganda are also landlocked neighbours.",
+      "tags": []
+    },
+    {
+      "id": "landlo-048",
+      "q": "Which is the only landlocked country completely surrounded by another single country (excluding microstates)?",
+      "options": [
+        "Vatican City",
+        "Lesotho",
+        "Eswatini",
+        "San Marino"
+      ],
+      "correct": 1,
+      "explanation": "Lesotho is the only larger sovereign country completely surrounded by a single other country — South Africa. Vatican City and San Marino are also enclaves but are microstates.",
+      "tags": []
+    },
+    {
+      "id": "landlo-049",
+      "q": "Although Kazakhstan borders the Caspian Sea, why is it still considered landlocked?",
+      "options": [
+        "The Caspian is shallow",
+        "Kazakhstan has no port",
+        "The Caspian is an enclosed inland sea with no ocean access",
+        "Caspian belongs to Russia"
+      ],
+      "correct": 2,
+      "explanation": "The Caspian Sea is the world&#x27;s largest enclosed inland body of water with no natural outlet to any ocean. So Kazakhstan, despite its Caspian coast, is still classified as landlocked.",
+      "tags": []
+    },
+    {
+      "id": "landlo-050",
+      "q": "Bosnia-Herzegovina is classified as semi-landlocked because:",
+      "options": [
+        "It has no rivers",
+        "It only has a ~20 km Adriatic coastline at Neum",
+        "It is surrounded by mountains",
+        "It is a microstate"
+      ],
+      "correct": 1,
+      "explanation": "Bosnia-Herzegovina is semi-landlocked because it has only a very short Adriatic coastline of about 20 km at the town of Neum — barely enough for any significant port activity.",
+      "tags": []
+    }
+  ]
+}

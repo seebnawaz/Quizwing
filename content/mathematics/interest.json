@@ -1,0 +1,505 @@
+{
+  "topic_id": "interest",
+  "topic_name": "Interest",
+  "subject": "mathematics",
+  "version": 2,
+  "updated_at": "2026-06-24",
+  "description": "Interest MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "intere-001",
+      "q": "Ifthe simple interest is Rs. 54,000 at the rate of 12% per annum for 3 years, find the principal amount?",
+      "options": [
+        "300000",
+        "150,000",
+        "149900",
+        "150100"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-002",
+      "q": "Ifthe principal amount is Rs. 15580, interest rate is 5% for a year and a half. Calculate the simple interest?",
+      "options": [
+        "Insufficient data",
+        "None of these",
+        "Cannot be determined",
+        "Rs"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-003",
+      "q": "Veronica has a bank account that m% interest compounded annually. If she open the account with 200S. The expression 200S (X)t represent the amount in the account after t years. Which of the following given x in terms of m²",
+      "options": [
+        "1+0.0i1m",
+        "2+0.0i2m",
+        "3+0.0i3m",
+        "6+0.0i6m"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-004",
+      "q": "If the principal amount is Rs. 15580, interest rate is 5% for a year and a half. Calculate the simple interest?",
+      "options": [
+        "Rs",
+        "None of these",
+        "Cannot be determined",
+        "Insufficient data"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-005",
+      "q": "Ifthe principal amount is $1000, the rate of interest is 2% per year, and the time period is 3 years, what is the simple interest?",
+      "options": [
+        "$65",
+        "$62",
+        "$61",
+        "$60"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-006",
+      "q": "How much time will it take for an amount of Rs. 450 to yield Rs. 81 as PREPARATION WI interest at 4.5% per annum of simple interest?",
+      "options": [
+        "5 years",
+        "4 years",
+        "9 years",
+        "6 years"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-007",
+      "q": "Atsimple interest, a sum becomes 3 times in 20 years. In how many years will it double at the same rate of interest?",
+      "options": [
+        "11 years",
+        "10 years",
+        "15 years",
+        "12 years"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-008",
+      "q": "Asum of Rs. 12,500 amounts to Rs. 15,500 in 4 years at simple rate of interest. What is the rate of interest?",
+      "options": [
+        "6%",
+        "7%",
+        "11%",
+        "8%"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-009",
+      "q": "What will be the ratio of simple interest earned by certain amount at the same rate of interest for 12 years and for 18 years?",
+      "options": [
+        "4:3",
+        "2:3",
+        "2:4",
+        "3:3"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-010",
+      "q": "Find interest on Rs. 40,000 at the rate of 3% annually for 4 years investment?",
+      "options": [
+        "Rs.4802",
+        "Rs.4800",
+        "Rs.4801",
+        "Rs.4805"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-011",
+      "q": "The value of an article which was purchased 2 years ago, depreciates at 12 %% per annum. If its present value is Rs. 9680, the price at which it was purchased is?",
+      "options": [
+        "12543.27",
+        "12643.27",
+        "12743.27",
+        "25286.54"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-012",
+      "q": "The principal which will amount to Rs. 270.40 in 2 years at the rate of 4% per annum compound interest is?",
+      "options": [
+        "Rs. 251",
+        "Rs. 252",
+        "Rs. 250",
+        "Rs. 255"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-013",
+      "q": "If principal = Rs. 1,00,000, Rate of interest =10% compounded half yearly. Find amount after one year?",
+      "options": [
+        "None of these",
+        "Cannot be determined",
+        "Insufficient data",
+        "Rs"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-014",
+      "q": "Kriya deposits an amount of Rs. 65800 to get a simple interest at the rate of 14% per annum for 4 years. What total amount will Kriya get at the end of 4 years?",
+      "options": [
+        "Rs. 102653",
+        "Rs. 102649",
+        "Rs. 102650",
+        "Rs. 102648"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-015",
+      "q": "Ali took a loan of Rs.50,000 at 9% rate of interest for 2 years at simple interest to renovate his house. How much extra amount he pays in 2 years?",
+      "options": [
+        "Rs.9002",
+        "Rs.9001",
+        "Rs.9005",
+        "Rs.9000"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-016",
+      "q": "The true discount on Rs. 1760 due after a certain time at 12% per annum is Rs. 160. The time after which it is due is?",
+      "options": [
+        "6/6",
+        "5/7",
+        "5/6",
+        "4/6"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-017",
+      "q": "Rs. 1200 is lent out at 5% per annum simple interest for 3 years. Find the amount after 3 years?",
+      "options": [
+        "1280",
+        "1380",
+        "1480",
+        "2760"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-018",
+      "q": "What will be the compound interest on a sum of Rs. 1875 after 2 years if the rate of interest for the first year is 4% and that for the second year is 8%?",
+      "options": [
+        "241",
+        "221",
+        "231",
+        "281"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-019",
+      "q": "If Rs. 4 becomes Rs. 10 in 50 years at simple interest then rate of interest is?",
+      "options": [
+        "4%",
+        "5%",
+        "8%",
+        "3%"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-020",
+      "q": "Asome of Money becomes doubles in 3 years (annual Cl); years at compound interest compound annually at the same rate.In how many years will it become four times of itself?",
+      "options": [
+        "06",
+        "5",
+        "8",
+        "7"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-021",
+      "q": "Hassan borrowed 5000 with simple interest for five years. He paid an extra 500 then how much percent he pays per annum²",
+      "options": [
+        "7%",
+        "4%",
+        "2%",
+        "3%"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-022",
+      "q": "Rs.1200 lent at 5% p.a. simple interest for 3 years; amount after 3 years?",
+      "options": [
+        "1280",
+        "2760",
+        "1480",
+        "1380"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-023",
+      "q": "Asum of Rs. 12,500 amounts to Rs. 15,500 in 2 years (simple interest). Rate of interest?",
+      "options": [
+        "17",
+        "7",
+        "12",
+        "22"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-024",
+      "q": "Ifthe interest rate of Rs 800 be more than the interest on Rs400 by Rs 40 in 2 years then the rate of interest per annum is?",
+      "options": [
+        "6%",
+        "5%",
+        "7%",
+        "10%"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-025",
+      "q": "If you borrow an amount of 300 Rs for one month, the borrower charged 6 Rs. The rate of interest is?",
+      "options": [
+        "26%",
+        "29%",
+        "24%",
+        "25%"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-026",
+      "q": "Aperson lent certain sum of money at 5% per annum simple interest and in 15 years the interest announced to Rs. 250 less than the sum lent. What was the sum lent (in Rs.)?",
+      "options": [
+        "2000",
+        "1000",
+        "1100",
+        "900"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-027",
+      "q": "If Rs 1000 is invested at 12% interest and interest is compounded half yearly, what will be the total amount at the end of one year?",
+      "options": [
+        "2247.2",
+        "1023.5999999999999",
+        "1123.60",
+        "1223.6"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-028",
+      "q": "Aman has Rs. 10,000 to invest. He invests Rs. 4000 at 5% and Rs. 3500 at 4%. In order to have a yearly income of Rs. 500, he must invest the remaining Rs. 2500 at what rate of interest?",
+      "options": [
+        "11.4%",
+        "8.4%",
+        "7.4%",
+        "6.4%"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-029",
+      "q": "Mr. Akram borrows Rs. 500 from bank for a period of 4 years. If interest rate is 11% per annum, what would be the amount of interest he has to pay back in addition to the principal amount?",
+      "options": [
+        "Insufficient data",
+        "Cannot be determined",
+        "Rs",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-030",
+      "q": "Aman took loan from a bank at the rate of 12% per annum, Simple interest. After 3 years he had to pay Rs.5400 interest only for the period. The principal amount borrowed by him was?",
+      "options": [
+        "15100",
+        "14900",
+        "15000",
+        "30000"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-031",
+      "q": "Aman took loan from a bank at the rate of 12% p.a. simple interest. After 3 years he had to pay Rs. 5400 interest only for the period. The principal amount borrowed by him was?",
+      "options": [
+        "Insufficient data",
+        "Rs",
+        "Cannot be determined",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-032",
+      "q": "Mr Atiq-ur-Rehman deposited Rs. 7500 at the compound interest rate of 4% per annum. How much money as interest will he get after 2 years?",
+      "options": [
+        "Rs",
+        "None of these",
+        "Insufficient data",
+        "Cannot be determined"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-033",
+      "q": "Anamount doubles itself in 5 years with simple interest. What is the rate of interest?",
+      "options": [
+        "20",
+        "25",
+        "15",
+        "30"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-034",
+      "q": "Aninvestment pays 8% simple interest per year. If the investment earns 84S interest in the first year, then how much money was originally invested?",
+      "options": [
+        "950",
+        "1150",
+        "1050",
+        "2100"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-035",
+      "q": "The difference between the simple interest received from two banks on Rs. 500 for two years is Rs. 2.50. What is the difference between their rates?",
+      "options": [
+        "0.25%",
+        "5.25%",
+        "2.25%",
+        "1.25%"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-036",
+      "q": "What sum of money will amount to Rs. 1800 in 5 years at 12% per annum simple interest?",
+      "options": [
+        "2250",
+        "1125",
+        "1225",
+        "1025"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-037",
+      "q": "Asum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is?",
+      "options": [
+        "688",
+        "748",
+        "708",
+        "698"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "tags": []
+    },
+    {
+      "id": "intere-038",
+      "q": "An automobile financier claims to be lending money at simple interest, but he includes the interest every six months for calculating the principal. If he is charging an interest of 10%, the effective rate of interest becomes?",
+      "options": [
+        "11.25%",
+        "10.25%",
+        "12.25%",
+        "15.25%"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "tags": []
+    }
+  ]
+}

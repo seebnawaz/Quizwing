@@ -1,0 +1,9 @@
+{
+  "name": "MDCAT",
+  "icon": "🩺",
+  "order": 12,
+  "description": "Biology, Chemistry, Physics, English, Logic for medical entry.",
+  "color": "#0e7490",
+  "category": "entry-tests",
+  "placeholder": true
+}
