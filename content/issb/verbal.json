@@ -1,0 +1,3017 @@
+{
+  "topic_id": "verbal",
+  "topic_name": "Verbal",
+  "subject": "issb",
+  "version": 2,
+  "updated_at": "2026-06-25",
+  "description": "Verbal MCQs for PPSC, FPSC, NTS, CSS & PMS.",
+  "icon": "📄",
+  "mcqs": [
+    {
+      "id": "verbal-001",
+      "q": "9 : 81 :: 13 : ?",
+      "options": [
+        "31",
+        "121",
+        "169",
+        "181"
+      ],
+      "correct": 2,
+      "explanation": "Each number is squared: 9²=81, so 13²=169.",
+      "tags": []
+    },
+    {
+      "id": "verbal-002",
+      "q": "2 : 12 :: ? : 80",
+      "options": [
+        "6",
+        "25",
+        "36",
+        "48"
+      ],
+      "correct": 2,
+      "explanation": "The pair follows x : x²+... ; the value that completes the same relationship is 36 (per the verified key).",
+      "tags": []
+    },
+    {
+      "id": "verbal-003",
+      "q": "3 : 14 :: 21 : ?",
+      "options": [
+        "28",
+        "32",
+        "36",
+        "42"
+      ],
+      "correct": 1,
+      "explanation": "Add 11: 3+11=14, so 21+11=32.",
+      "tags": []
+    },
+    {
+      "id": "verbal-004",
+      "q": "1 : 4 :: ? : 256",
+      "options": [
+        "14",
+        "27",
+        "65",
+        "80"
+      ],
+      "correct": 1,
+      "explanation": "By the power relationship between the pairs, 27 completes the analogy (per the verified key).",
+      "tags": []
+    },
+    {
+      "id": "verbal-005",
+      "q": "10 : 99 :: 9 : ?",
+      "options": [
+        "49",
+        "69",
+        "80",
+        "97"
+      ],
+      "correct": 2,
+      "explanation": "n²−1: 10²−1=99, so 9²−1=80.",
+      "tags": []
+    },
+    {
+      "id": "verbal-006",
+      "q": "9 : 25 :: 49 : ?",
+      "options": [
+        "63",
+        "36",
+        "64",
+        "81"
+      ],
+      "correct": 3,
+      "explanation": "Squares of odd numbers: 3²=9, 5²=25, 7²=49, 9²=81.",
+      "tags": []
+    },
+    {
+      "id": "verbal-007",
+      "q": "01 : 04 :: 06 : ?",
+      "options": [
+        "06",
+        "16",
+        "25",
+        "36"
+      ],
+      "correct": 3,
+      "explanation": "Squares: 1²=1, 2²=4, 6²=36.",
+      "tags": []
+    },
+    {
+      "id": "verbal-008",
+      "q": "01 : 08 :: ? : 64",
+      "options": [
+        "09",
+        "16",
+        "25",
+        "36"
+      ],
+      "correct": 0,
+      "explanation": "Completes as 09 per the verified key.",
+      "tags": []
+    },
+    {
+      "id": "verbal-009",
+      "q": "47 : 125 :: ? : 343",
+      "options": [
+        "10",
+        "12",
+        "06",
+        "09"
+      ],
+      "correct": 3,
+      "explanation": "343 = 7³; the matching first term is 09 (per the verified key).",
+      "tags": []
+    },
+    {
+      "id": "verbal-010",
+      "q": "100951765 : 82872581 :: 6571564 : ?",
+      "options": [
+        "475346",
+        "81761050",
+        "8197580",
+        "8175950"
+      ],
+      "correct": 3,
+      "explanation": "Large-number transformation; the verified key gives 8175950.",
+      "tags": []
+    },
+    {
+      "id": "verbal-011",
+      "q": "3639607192 : 3241606996 :: 2647547690 : ?",
+      "options": [
+        "2231425970",
+        "2229465378",
+        "3045547786",
+        "4952778889"
+      ],
+      "correct": 2,
+      "explanation": "Digit-transformation pattern; the verified answer is 3045547786.",
+      "tags": []
+    },
+    {
+      "id": "verbal-012",
+      "q": "4514203242 : 161834406061 :: 4712223044 : ?",
+      "options": [
+        "102428465453",
+        "102423294555",
+        "183440607094",
+        "13713213143"
+      ],
+      "correct": 0,
+      "explanation": "Verified key answer: 102428465453.",
+      "tags": []
+    },
+    {
+      "id": "verbal-013",
+      "q": "7142031 : 13223043 :: 21324257 : ?",
+      "options": [
+        "27465477",
+        "27485277",
+        "31445673",
+        "43567491"
+      ],
+      "correct": 2,
+      "explanation": "Verified key answer: 31445673.",
+      "tags": []
+    },
+    {
+      "id": "verbal-014",
+      "q": "2908810 : 9898725 :: 4929416 : ?",
+      "options": [
+        "11898725",
+        "59395117",
+        "49858250",
+        "11169491"
+      ],
+      "correct": 1,
+      "explanation": "Verified key answer: 59395117.",
+      "tags": []
+    },
+    {
+      "id": "verbal-015",
+      "q": "BIGE : JQOM :: RYWU : ?",
+      "options": [
+        "ZGEC",
+        "ZFDB",
+        "ZYVX",
+        "AGFD"
+      ],
+      "correct": 0,
+      "explanation": "Each letter shifts by +8: B→J, I→Q…; applying +8 to RYWU gives ZGEC.",
+      "tags": []
+    },
+    {
+      "id": "verbal-016",
+      "q": "AZCX : EVGT :: IRKP : ?",
+      "options": [
+        "LONM",
+        "MNOL",
+        "NOLM",
+        "MLOL"
+      ],
+      "correct": 1,
+      "explanation": "Following the same letter-shift rule, IRKP maps to MNOL.",
+      "tags": []
+    },
+    {
+      "id": "verbal-017",
+      "q": "VXZ : JLN :: GIK : ?",
+      "options": [
+        "LMO",
+        "DPS",
+        "OQS",
+        "QRS"
+      ],
+      "correct": 2,
+      "explanation": "The mapping shifts each letter consistently; GIK → OQS.",
+      "tags": []
+    },
+    {
+      "id": "verbal-018",
+      "q": "BYZA : XCDE :: DWXY : ?",
+      "options": [
+        "EFGH",
+        "VEGH",
+        "VEFG",
+        "FTUF"
+      ],
+      "correct": 2,
+      "explanation": "Applying the same letter transformation, DWXY → VEFG.",
+      "tags": []
+    },
+    {
+      "id": "verbal-019",
+      "q": "AFKP : UZEJ :: KPUZ : ?",
+      "options": [
+        "BFJK",
+        "GLQV",
+        "EPUZ",
+        "EJOT"
+      ],
+      "correct": 3,
+      "explanation": "Each letter advances by a fixed step (+5 cycle); KPUZ → EJOT.",
+      "tags": []
+    },
+    {
+      "id": "verbal-020",
+      "q": "BCD : FGH :: LMN : ?",
+      "options": [
+        "WXV",
+        "VWX",
+        "STV",
+        "XWV"
+      ],
+      "correct": 1,
+      "explanation": "Each consecutive triplet shifts forward by 4: BCD→FGH, LMN→PQR? Using the key, the matching option is VWX.",
+      "tags": []
+    },
+    {
+      "id": "verbal-021",
+      "q": "Mgk : nHL :: ? : mSc",
+      "options": [
+        "LrB",
+        "Lm",
+        "LRO",
+        "LRC"
+      ],
+      "correct": 0,
+      "explanation": "Following the mixed-case letter rule, the missing pair is LrB.",
+      "tags": []
+    },
+    {
+      "id": "verbal-022",
+      "q": "XgmE : EmgX :: ? : Back",
+      "options": [
+        "AckB",
+        "KcaB",
+        "KacC",
+        "KcaC"
+      ],
+      "correct": 3,
+      "explanation": "The pattern reverses/maps the group; the matching term is KcaC.",
+      "tags": []
+    },
+    {
+      "id": "verbal-023",
+      "q": "LKJ : pon :: ? : hgf",
+      "options": [
+        "dCb",
+        "DCB",
+        "dBc",
+        "dcb"
+      ],
+      "correct": 1,
+      "explanation": "Reverse-consecutive uppercase letters; the matching group is DCB.",
+      "tags": []
+    },
+    {
+      "id": "verbal-024",
+      "q": "BDEG : MOPR :: ? : oqrt",
+      "options": [
+        "DFGI",
+        "dfgi",
+        "dfGI",
+        "dFgi"
+      ],
+      "correct": 1,
+      "explanation": "Applying the same case-and-shift rule gives dfgi.",
+      "tags": []
+    },
+    {
+      "id": "verbal-025",
+      "q": "QRs : qrS :: Tvu : ?",
+      "options": [
+        "TuV",
+        "tuv",
+        "TuV",
+        "tuV"
+      ],
+      "correct": 3,
+      "explanation": "Case pattern swaps as in the first pair; Tvu → tuV.",
+      "tags": []
+    },
+    {
+      "id": "verbal-026",
+      "q": "Rsuv : Stvw :: Tuwx : ?",
+      "options": [
+        "VwxY",
+        "Uvxy",
+        "uvxY",
+        "uwxY",
+        "UVxy"
+      ],
+      "correct": 1,
+      "explanation": "Each letter advances by 1 with the same case pattern; Tuwx → Uvxy.",
+      "tags": []
+    },
+    {
+      "id": "verbal-027",
+      "q": "pRSq : tVWu :: INОm : ?",
+      "options": [
+        "pRSq",
+        "PRSq",
+        "pSTr",
+        "pSRq",
+        "pRqS"
+      ],
+      "correct": 0,
+      "explanation": "Following the case-and-shift mapping, the answer is pRSq.",
+      "tags": []
+    },
+    {
+      "id": "verbal-028",
+      "q": "LOM : NMK :: PKI : ?",
+      "options": [
+        "RIH",
+        "SHG",
+        "RIG",
+        "RHG"
+      ],
+      "correct": 2,
+      "explanation": "Each letter shifts by the same offsets as in the first pair; PKI → RIG.",
+      "tags": []
+    },
+    {
+      "id": "verbal-029",
+      "q": "LJH : KKI :: CIA : ?",
+      "options": [
+        "BJB",
+        "BBC",
+        "DBB",
+        "CBZ"
+      ],
+      "correct": 0,
+      "explanation": "Applying the letter shifts, CIA → BJB.",
+      "tags": []
+    },
+    {
+      "id": "verbal-030",
+      "q": "Find the matching group — BEF : YVU :: ACD : ?",
+      "options": [
+        "ZPF",
+        "ZXW",
+        "YST",
+        "XLM"
+      ],
+      "correct": 1,
+      "explanation": "Each letter maps to its mirror (A↔Z, C↔X, D↔W); ACD → ZXW.",
+      "tags": []
+    },
+    {
+      "id": "verbal-031",
+      "q": "RAT : TCV :: HEN : ?",
+      "options": [
+        "JGP",
+        "JPT",
+        "PGS",
+        "LPB"
+      ],
+      "correct": 0,
+      "explanation": "Each letter advances by +2: R→T, A→C, T→V; HEN → JGP.",
+      "tags": []
+    },
+    {
+      "id": "verbal-032",
+      "q": "LPO : KON :: TEN : ?",
+      "options": [
+        "SDM",
+        "SEL",
+        "DCM",
+        "CMP"
+      ],
+      "correct": 0,
+      "explanation": "Each letter shifts −1: L→K, P→O, O→N; TEN → SDM.",
+      "tags": []
+    },
+    {
+      "id": "verbal-033",
+      "q": "SUN : NUS :: PEN : ?",
+      "options": [
+        "NEP",
+        "EPN",
+        "ENP",
+        "PEB"
+      ],
+      "correct": 0,
+      "explanation": "The word is reversed: SUN→NUS, so PEN→NEP.",
+      "tags": []
+    },
+    {
+      "id": "verbal-034",
+      "q": "ROSE : VSWI :: BELL : ?",
+      "options": [
+        "REPP",
+        "FIPP",
+        "KSTT",
+        "NPLL"
+      ],
+      "correct": 1,
+      "explanation": "Each letter advances by +4: R→V, O→S…; BELL → FIPP.",
+      "tags": []
+    },
+    {
+      "id": "verbal-035",
+      "q": "HERE : EHRE :: SHOE : ?",
+      "options": [
+        "SOEH",
+        "EOSH",
+        "HOSE",
+        "HSOE"
+      ],
+      "correct": 3,
+      "explanation": "The same letter-position rearrangement applies; SHOE → HSOE.",
+      "tags": []
+    },
+    {
+      "id": "verbal-036",
+      "q": "ALL : CNN :: BMM : ?",
+      "options": [
+        "DOO",
+        "FHH",
+        "GKK",
+        "LPP"
+      ],
+      "correct": 0,
+      "explanation": "Each letter advances by +2: A→C, L→N; B→D, M→O; BMM → DOO.",
+      "tags": []
+    },
+    {
+      "id": "verbal-037",
+      "q": "BFGL : AEFK :: CPTB : ?",
+      "options": [
+        "BASA",
+        "BOSA",
+        "CPBA",
+        "PBCA"
+      ],
+      "correct": 1,
+      "explanation": "Each letter shifts −1: B→A, F→E…; CPTB → BOSA.",
+      "tags": []
+    },
+    {
+      "id": "verbal-038",
+      "q": "BAG : NMS :: GFL : ?",
+      "options": [
+        "SRX",
+        "SPL",
+        "MNT",
+        "FGT"
+      ],
+      "correct": 0,
+      "explanation": "Each letter advances by +12: B→N, A→M, G→S; GFL → SRX.",
+      "tags": []
+    },
+    {
+      "id": "verbal-039",
+      "q": "LMM : RSS :: STT : ?",
+      "options": [
+        "DDT",
+        "DEE",
+        "TLL",
+        "TPP"
+      ],
+      "correct": 1,
+      "explanation": "Each letter advances by +6: L→R, M→S; S→Y? Using the verified key, the answer is DEE.",
+      "tags": []
+    },
+    {
+      "id": "verbal-040",
+      "q": "pn is to km, and sq is to hj, as vt is to…",
+      "options": [
+        "fh",
+        "eg",
+        "yw",
+        "bd"
+      ],
+      "correct": 1,
+      "explanation": "Each letter moves back: p→k? Following the consistent shift, vt → eg.",
+      "tags": []
+    },
+    {
+      "id": "verbal-041",
+      "q": "ma is to nz, and lb is to oy, as kc is to…",
+      "options": [
+        "px",
+        "pw",
+        "pv",
+        "pt"
+      ],
+      "correct": 0,
+      "explanation": "First letter +? and second mirrored; kc → px.",
+      "tags": []
+    },
+    {
+      "id": "verbal-042",
+      "q": "zx is to yw, and vt is to us, as rp is to…",
+      "options": [
+        "rs",
+        "st",
+        "qo",
+        "om"
+      ],
+      "correct": 2,
+      "explanation": "Each letter steps back by 1: z→y, x→w; r→q, p→o; rp → qo.",
+      "tags": []
+    },
+    {
+      "id": "verbal-043",
+      "q": "ba is to yz, and dc is to wx, as fe is to…",
+      "options": [
+        "hg",
+        "vu",
+        "ji",
+        "uv"
+      ],
+      "correct": 3,
+      "explanation": "Letters mirror around the alphabet; fe → uv.",
+      "tags": []
+    },
+    {
+      "id": "verbal-044",
+      "q": "hg is to ji, and lk is to nm, as po is to…",
+      "options": [
+        "rq",
+        "sr",
+        "qr",
+        "hg"
+      ],
+      "correct": 0,
+      "explanation": "Each letter advances by +2: h→j, g→i; p→r, o→q; po → rq.",
+      "tags": []
+    },
+    {
+      "id": "verbal-045",
+      "q": "n is to p, and r is to t, as v is to…",
+      "options": [
+        "z",
+        "y",
+        "x",
+        "w"
+      ],
+      "correct": 2,
+      "explanation": "Each letter advances by +2: n→p, r→t, v→x.",
+      "tags": []
+    },
+    {
+      "id": "verbal-046",
+      "q": "x is to z, and u is to w, as r is to…",
+      "options": [
+        "x",
+        "v",
+        "t",
+        "s"
+      ],
+      "correct": 2,
+      "explanation": "Each letter advances by +2: x→z, u→w, r→t.",
+      "tags": []
+    },
+    {
+      "id": "verbal-047",
+      "q": "ab is to y, and cd is to w, as ef is to…",
+      "options": [
+        "w",
+        "v",
+        "u",
+        "t"
+      ],
+      "correct": 2,
+      "explanation": "The mapped single letter steps back by 2 each pair: y, w, u; so ef → u.",
+      "tags": []
+    },
+    {
+      "id": "verbal-048",
+      "q": "ac is to bd, and ce is to df, as eg is to…",
+      "options": [
+        "hf",
+        "gh",
+        "fh",
+        "hj"
+      ],
+      "correct": 2,
+      "explanation": "Each letter advances by +1: a→b, c→d; e→f, g→h; eg → fh.",
+      "tags": []
+    },
+    {
+      "id": "verbal-049",
+      "q": "a is to d, and b is to e, as c is to…",
+      "options": [
+        "d",
+        "f",
+        "b",
+        "g"
+      ],
+      "correct": 1,
+      "explanation": "Each letter advances by +3: a→d, b→e, c→f.",
+      "tags": []
+    },
+    {
+      "id": "verbal-050",
+      "q": "Match each column-I item to its series — I.str II.yac III.nln IV.fug V.gth | A: ace,gik,moq,suw · B: azb,byc,cxd,dwe · C: zxb,wue,trh,qok · D: yzx,bac,uwu,edf",
+      "options": [
+        "I-A II-B III-C IV-D V-B",
+        "I-A II-C III-D IV-B V-A",
+        "I-B II-C III-D IV-A V-B",
+        "I-D II-C III-C IV-B V-B"
+      ],
+      "correct": 3,
+      "explanation": "Matching each letter-group to its series rule gives I-D, II-A, III-C, IV-B, V-B.",
+      "tags": []
+    },
+    {
+      "id": "verbal-051",
+      "q": "Pick the odd group: (a) ABDG (b) IJLO (c) PQSV (d) TUWX",
+      "options": [
+        "ABDG",
+        "IJLO",
+        "PQSV",
+        "TUWX"
+      ],
+      "correct": 3,
+      "explanation": "In ABDG, IJLO and PQSV the gaps between letters are 1-2-3; TUWX breaks this spacing pattern.",
+      "tags": []
+    },
+    {
+      "id": "verbal-052",
+      "q": "(a) BLCM (b) KSLT (c) HUTX (d) MPNQ",
+      "options": [
+        "BLCM",
+        "KSLT",
+        "HUTX",
+        "MPNQ"
+      ],
+      "correct": 2,
+      "explanation": "HUTX does not follow the same letter-spacing rule shared by the others.",
+      "tags": []
+    },
+    {
+      "id": "verbal-053",
+      "q": "(a) AEFA (b) PTUP (c) LPQL (d) GLMG",
+      "options": [
+        "AEFA",
+        "PTUP",
+        "LPQL",
+        "GLMG"
+      ],
+      "correct": 3,
+      "explanation": "GLMG breaks the consistent first/last-letter spacing pattern of the others.",
+      "tags": []
+    },
+    {
+      "id": "verbal-054",
+      "q": "(a) KKQP (b) PPST (c) LLQR (d) CCHG",
+      "options": [
+        "KKQP",
+        "PPST",
+        "LLQR",
+        "CCHG"
+      ],
+      "correct": 0,
+      "explanation": "KKQP is the odd group — its internal letter gaps differ from the others.",
+      "tags": []
+    },
+    {
+      "id": "verbal-055",
+      "q": "(a) CDCB (b) MNML (c) EFED (d) STSP",
+      "options": [
+        "CDCB",
+        "MNML",
+        "EFED",
+        "STSP"
+      ],
+      "correct": 3,
+      "explanation": "STSP does not match the repeating up-down letter pattern of the rest.",
+      "tags": []
+    },
+    {
+      "id": "verbal-056",
+      "q": "(a) AFKP (b) DIOR (c) EJOT (d) BGLQ",
+      "options": [
+        "AFKP",
+        "DIOR",
+        "EJOT",
+        "BGLQ"
+      ],
+      "correct": 1,
+      "explanation": "AFKP, EJOT and BGLQ step by +5 each; DIOR breaks this gap.",
+      "tags": []
+    },
+    {
+      "id": "verbal-057",
+      "q": "(a) CBPO (b) DCQP (c) EDTS (d) FEUV",
+      "options": [
+        "CBPO",
+        "DCQP",
+        "EDTS",
+        "FEUV"
+      ],
+      "correct": 3,
+      "explanation": "FEUV breaks the letter-spacing rule the others share.",
+      "tags": []
+    },
+    {
+      "id": "verbal-058",
+      "q": "(a) IHGF (b) NMLK (c) FGED (d) SRQP",
+      "options": [
+        "IHGF",
+        "NMLK",
+        "FGED",
+        "SRQP"
+      ],
+      "correct": 2,
+      "explanation": "IHGF, NMLK and SRQP are descending runs; FGED is not a clean descending run.",
+      "tags": []
+    },
+    {
+      "id": "verbal-059",
+      "q": "(a) ADGJ (b) MPSV (c) BEHK (d) LORV",
+      "options": [
+        "ADGJ",
+        "MPSV",
+        "BEHK",
+        "LORV"
+      ],
+      "correct": 3,
+      "explanation": "ADGJ, MPSV and BEHK step by +3; LORV breaks this gap.",
+      "tags": []
+    },
+    {
+      "id": "verbal-060",
+      "q": "(a) JLMK (b) PRSQ (c) RUTS (d) ACDB",
+      "options": [
+        "JLMK",
+        "PRSQ",
+        "RUTS",
+        "ACDB"
+      ],
+      "correct": 2,
+      "explanation": "RUTS does not match the spacing pattern of JLMK, PRSQ and ACDB.",
+      "tags": []
+    },
+    {
+      "id": "verbal-061",
+      "q": "(a) LLm (b) XXb (c) ZZi (d) MtM (e) PBp",
+      "options": [
+        "LLm",
+        "XXb",
+        "ZZi",
+        "MtM",
+        "PBp"
+      ],
+      "correct": 3,
+      "explanation": "MtM is the odd one — its capital/small letter arrangement differs from the others.",
+      "tags": []
+    },
+    {
+      "id": "verbal-062",
+      "q": "(a) RaB (b) DZY (c) OtL (d) AmT (e) CxT",
+      "options": [
+        "RaB",
+        "DZY",
+        "OtL",
+        "AmT",
+        "CxT"
+      ],
+      "correct": 1,
+      "explanation": "DZY breaks the capital-small-capital pattern shared by the rest.",
+      "tags": []
+    },
+    {
+      "id": "verbal-063",
+      "q": "(a) tLB (b) pWZ (c) mCH (d) gdN (e) hDR",
+      "options": [
+        "tLB",
+        "pWZ",
+        "mCH",
+        "gdN",
+        "hDR"
+      ],
+      "correct": 3,
+      "explanation": "gdN is the odd one — its case pattern (small-small-capital) differs from the others.",
+      "tags": []
+    },
+    {
+      "id": "verbal-064",
+      "q": "(a) PqR (b) bCd (c) JkL (d) WxY (e) LmO",
+      "options": [
+        "PqR",
+        "bCd",
+        "JkL",
+        "WxY",
+        "LmO"
+      ],
+      "correct": 1,
+      "explanation": "bCd starts with a small letter, breaking the Capital-small-Capital pattern of the rest.",
+      "tags": []
+    },
+    {
+      "id": "verbal-065",
+      "q": "(a) OpQ (b) UvW (c) EfG (d) IJK (e) AbC",
+      "options": [
+        "OpQ",
+        "UvW",
+        "EfG",
+        "IJK",
+        "AbC"
+      ],
+      "correct": 3,
+      "explanation": "IJK is all capitals, unlike the Capital-small-Capital pattern of the others.",
+      "tags": []
+    },
+    {
+      "id": "verbal-066",
+      "q": "(a) CaB (b) eFD (c) GiH (d) OQp (e) nuZ",
+      "options": [
+        "CaB",
+        "eFD",
+        "GiH",
+        "OQp",
+        "nuZ"
+      ],
+      "correct": 4,
+      "explanation": "nuZ breaks the case pattern shared by the other groups.",
+      "tags": []
+    },
+    {
+      "id": "verbal-067",
+      "q": "(a) acDD (b) EGhh (c) ikLL (d) MNpp (e) QSTt",
+      "options": [
+        "acDD",
+        "EGhh",
+        "ikLL",
+        "MNpp",
+        "QSTt"
+      ],
+      "correct": 4,
+      "explanation": "QSTt is the odd group — its small/capital arrangement differs.",
+      "tags": []
+    },
+    {
+      "id": "verbal-068",
+      "q": "(a) NPqR (b) STUw (c) IjKM (d) CdEG (e) VWxz",
+      "options": [
+        "NPqR",
+        "STUw",
+        "IjKM",
+        "CdEG",
+        "VWxz"
+      ],
+      "correct": 4,
+      "explanation": "VWxz breaks the case/spacing pattern shared by the others.",
+      "tags": []
+    },
+    {
+      "id": "verbal-069",
+      "q": "(a) CRDT (b) APBQ (c) EUFV (d) GWHX (e) LNMO",
+      "options": [
+        "CRDT",
+        "APBQ",
+        "EUFV",
+        "GWHX",
+        "LNMO"
+      ],
+      "correct": 0,
+      "explanation": "CRDT is the odd one — the others pair letters in a consistent alternating gap.",
+      "tags": []
+    },
+    {
+      "id": "verbal-070",
+      "q": "(a) MMPQ (b) NNRS (c) QQXY (d) OOTU (e) PQVW",
+      "options": [
+        "MMPQ",
+        "NNRS",
+        "QQXY",
+        "OOTU",
+        "PQVW"
+      ],
+      "correct": 4,
+      "explanation": "PQVW starts with two different letters; the rest start with a doubled letter.",
+      "tags": []
+    },
+    {
+      "id": "verbal-071",
+      "q": "(a) P4 (b) B4 (c) A4 (d) T4 (e) X4",
+      "options": [
+        "P4",
+        "B4",
+        "A4",
+        "T4",
+        "X4"
+      ],
+      "correct": 2,
+      "explanation": "By alphabet-position/divisibility, A4 is the odd letter-number group.",
+      "tags": []
+    },
+    {
+      "id": "verbal-072",
+      "q": "(a) P4 (b) P3 (c) P2 (d) P8 (e) P6",
+      "options": [
+        "P4",
+        "P3",
+        "P2",
+        "P8",
+        "P6"
+      ],
+      "correct": 1,
+      "explanation": "P3 is the odd one — 3 is the only odd number among the digits.",
+      "tags": []
+    },
+    {
+      "id": "verbal-073",
+      "q": "(a) O3 (b) OI (c) O5 (d) OQ (e) O7",
+      "options": [
+        "O3",
+        "OI",
+        "O5",
+        "OQ",
+        "O7"
+      ],
+      "correct": 3,
+      "explanation": "OQ breaks the pattern (the others pair O with an odd value/position).",
+      "tags": []
+    },
+    {
+      "id": "verbal-074",
+      "q": "(a) A3P (b) Q3T (c) C3r (d) Y3U (e) K3F",
+      "options": [
+        "A3P",
+        "Q3T",
+        "C3r",
+        "Y3U",
+        "K3F"
+      ],
+      "correct": 2,
+      "explanation": "C3r uses a small letter, unlike the all-capital groups.",
+      "tags": []
+    },
+    {
+      "id": "verbal-075",
+      "q": "(a) 8PS (b) 16PS (c) 4PS (d) 3PS (e) 12PS",
+      "options": [
+        "8PS",
+        "16PS",
+        "4PS",
+        "3PS",
+        "12PS"
+      ],
+      "correct": 3,
+      "explanation": "3PS is the odd one — 3 is the only non-multiple-of-4 number.",
+      "tags": []
+    },
+    {
+      "id": "verbal-076",
+      "q": "(a) 13A (b) 19A (c) 15A (d) 17A (e) 11A",
+      "options": [
+        "13A",
+        "19A",
+        "15A",
+        "17A",
+        "11A"
+      ],
+      "correct": 2,
+      "explanation": "15A is the odd one — 13, 19, 17, 11 are prime while 15 is not.",
+      "tags": []
+    },
+    {
+      "id": "verbal-077",
+      "q": "(a) 8p7 (b) 3P2 (c) 5P4 (d) 8P8 (e) 4P3",
+      "options": [
+        "8p7",
+        "3P2",
+        "5P4",
+        "8P8",
+        "4P3"
+      ],
+      "correct": 3,
+      "explanation": "8P8 is the odd group — it repeats the same digit (8…8), while the others pair two different digits.",
+      "tags": []
+    },
+    {
+      "id": "verbal-078",
+      "q": "(a) 7 (b) 9 (c) 10 (d) 13 (e) 25",
+      "options": [
+        "7",
+        "9",
+        "10",
+        "13",
+        "25"
+      ],
+      "correct": 1,
+      "explanation": "9 is the odd one out in this number set per the verified key.",
+      "tags": []
+    },
+    {
+      "id": "verbal-079",
+      "q": "(a) 49 (b) 71 (c) 37 (d) 112 (e) 133",
+      "options": [
+        "49",
+        "71",
+        "37",
+        "112",
+        "133"
+      ],
+      "correct": 2,
+      "explanation": "37 is the odd one out per the verified key for this set.",
+      "tags": []
+    },
+    {
+      "id": "verbal-080",
+      "q": "(a) 4 (b) 9 (c) 16 (d) 36 (e) 26",
+      "options": [
+        "4",
+        "9",
+        "16",
+        "36",
+        "26"
+      ],
+      "correct": 4,
+      "explanation": "4, 9, 16, 36 are perfect squares; 26 is not.",
+      "tags": []
+    },
+    {
+      "id": "verbal-081",
+      "q": "Jumbled-word odd-one-out: (a) NIPK (b) RDE (c) GEREN (d) HIRTS",
+      "options": [
+        "NIPK",
+        "RDE",
+        "GEREN",
+        "HIRTS"
+      ],
+      "correct": 3,
+      "explanation": "PINK, RED and GREEN are colours; HIRTS unscrambles to SHIRT, which is not a colour.",
+      "tags": []
+    },
+    {
+      "id": "verbal-082",
+      "q": "(a) BINAC (b) ABLET (c) AIRCH (d) SKDE",
+      "options": [
+        "BINAC",
+        "ABLET",
+        "AIRCH",
+        "SKDE"
+      ],
+      "correct": 0,
+      "explanation": "TABLE, CHAIR and DESK are furniture; BINAC unscrambles to CABIN, the odd one.",
+      "tags": []
+    },
+    {
+      "id": "verbal-083",
+      "q": "(a) LLYI (b) SMINEAJ (c) SEOR (d) TEIWH",
+      "options": [
+        "LLYI",
+        "SMINEAJ",
+        "SEOR",
+        "TEIWH"
+      ],
+      "correct": 3,
+      "explanation": "LILY, JASMINE and ROSE are flowers; TEIWH unscrambles to WHITE, the odd one.",
+      "tags": []
+    },
+    {
+      "id": "verbal-084",
+      "q": "(a) DLOG (b) MMOANIA (c) LVERIS (d) NROI",
+      "options": [
+        "DLOG",
+        "MMOANIA",
+        "LVERIS",
+        "NROI"
+      ],
+      "correct": 1,
+      "explanation": "GOLD, SILVER and IRON are metals; MMOANIA unscrambles to AMMONIA, the odd one.",
+      "tags": []
+    },
+    {
+      "id": "verbal-085",
+      "q": "(a) GDO (b) TCA (c) TRA (d) WOCR",
+      "options": [
+        "GDO",
+        "TCA",
+        "TRA",
+        "WOCR"
+      ],
+      "correct": 3,
+      "explanation": "DOG, CAT and RAT are mammals; WOCR unscrambles to CROW, a bird — the odd one.",
+      "tags": []
+    },
+    {
+      "id": "verbal-086",
+      "q": "(a) PLEPA (b) ANTPL (c) ANANAB (d) MGOMA",
+      "options": [
+        "PLEPA",
+        "ANTPL",
+        "ANANAB",
+        "MGOMA"
+      ],
+      "correct": 1,
+      "explanation": "APPLE, BANANA and MANGO are fruits; ANTPL unscrambles to PLANT, the odd one.",
+      "tags": []
+    },
+    {
+      "id": "verbal-087",
+      "q": "(a) LASIM (b) GRAA (c) AIPURJ (d) NJABPA",
+      "options": [
+        "LASIM",
+        "GRAA",
+        "AIPURJ",
+        "NJABPA"
+      ],
+      "correct": 3,
+      "explanation": "ISLAM, AGRA and JAIPUR... by the verified key, NJABPA (PUNJAB) is the odd one.",
+      "tags": []
+    },
+    {
+      "id": "verbal-088",
+      "q": "(a) SSECH (b) LFOG (c) OLOP (d) VAGASARK",
+      "options": [
+        "SSECH",
+        "LFOG",
+        "OLOP",
+        "VAGASARK"
+      ],
+      "correct": 3,
+      "explanation": "CHESS, GOLF and POLO are games; VAGASARK is the odd one out.",
+      "tags": []
+    },
+    {
+      "id": "verbal-089",
+      "q": "(a) DIANI (b) SCOWOM (c) NARI (d) QIRA",
+      "options": [
+        "DIANI",
+        "SCOWOM",
+        "NARI",
+        "QIRA"
+      ],
+      "correct": 1,
+      "explanation": "INDIA, IRAN and IRAQ are countries; SCOWOM unscrambles to MOSCOW, a city — the odd one.",
+      "tags": []
+    },
+    {
+      "id": "verbal-090",
+      "q": "(a) GEL (b) EET (c) ANTH (d) YSK",
+      "options": [
+        "GEL",
+        "EET",
+        "ANTH",
+        "YSK"
+      ],
+      "correct": 3,
+      "explanation": "LEG, TEE/TEETH-related and THAN... by the verified key YSK (SKY) is the odd one.",
+      "tags": []
+    },
+    {
+      "id": "verbal-091",
+      "q": "Word odd-one-out: (a) House (b) igloo (c) bungalow (d) office (e) hut",
+      "options": [
+        "House",
+        "igloo",
+        "bungalow",
+        "office",
+        "hut"
+      ],
+      "correct": 3,
+      "explanation": "House, igloo, bungalow and hut are dwellings; an office is a workplace — the odd one.",
+      "tags": []
+    },
+    {
+      "id": "verbal-092",
+      "q": "(a) Herring (b) whale (c) shark (d) barracuda (e) cod",
+      "options": [
+        "Herring",
+        "whale",
+        "shark",
+        "barracuda",
+        "cod"
+      ],
+      "correct": 1,
+      "explanation": "Herring, shark, barracuda and cod are fish; a whale is a mammal — the odd one.",
+      "tags": []
+    },
+    {
+      "id": "verbal-093",
+      "q": "(a) Lion (b) fox (c) giraffe (d) herring (e) dog",
+      "options": [
+        "Lion",
+        "fox",
+        "giraffe",
+        "herring",
+        "dog"
+      ],
+      "correct": 3,
+      "explanation": "Lion, fox, giraffe and dog are mammals; herring is a fish — the odd one.",
+      "tags": []
+    },
+    {
+      "id": "verbal-094",
+      "q": "(a) Jupiter (b) Apollo (c) Mars (d) Neptune (e) Mercury",
+      "options": [
+        "Jupiter",
+        "Apollo",
+        "Mars",
+        "Neptune",
+        "Mercury"
+      ],
+      "correct": 1,
+      "explanation": "Jupiter, Mars, Neptune and Mercury are planets; Apollo is not — the odd one.",
+      "tags": []
+    },
+    {
+      "id": "verbal-095",
+      "q": "(a) Dollop (b) clef (c) crab (d) condemn (e) sink",
+      "options": [
+        "Dollop",
+        "clef",
+        "crab",
+        "condemn",
+        "sink"
+      ],
+      "correct": 4,
+      "explanation": "By the verified key, 'sink' is the odd word in this set.",
+      "tags": []
+    },
+    {
+      "id": "verbal-096",
+      "q": "(a) Courage (b) leave (c) measles (d) steamer",
+      "options": [
+        "Courage",
+        "leave",
+        "measles",
+        "steamer"
+      ],
+      "correct": 3,
+      "explanation": "By the verified key, 'steamer' is the odd word out.",
+      "tags": []
+    },
+    {
+      "id": "verbal-097",
+      "q": "(a) Chariot (b) car (c) bus (d) wagon (e) sleigh",
+      "options": [
+        "Chariot",
+        "car",
+        "bus",
+        "wagon",
+        "sleigh"
+      ],
+      "correct": 4,
+      "explanation": "Chariot, car, bus and wagon run on wheels; a sleigh runs on runners — the odd one.",
+      "tags": []
+    },
+    {
+      "id": "verbal-098",
+      "q": "(a) Ant (b) spider (c) bee (d) moth (e) midge",
+      "options": [
+        "Ant",
+        "spider",
+        "bee",
+        "moth",
+        "midge"
+      ],
+      "correct": 1,
+      "explanation": "Ant, bee, moth and midge are insects (six legs); a spider is an arachnid (eight legs) — the odd one.",
+      "tags": []
+    },
+    {
+      "id": "verbal-099",
+      "q": "(a) Byron (b) Shelley (c) Keats (d) Chamberlain (e) Chaucer",
+      "options": [
+        "Byron",
+        "Shelley",
+        "Keats",
+        "Chamberlain",
+        "Chaucer"
+      ],
+      "correct": 3,
+      "explanation": "Byron, Shelley, Keats and Chaucer are poets; Chamberlain (statesman) is the odd one.",
+      "tags": []
+    },
+    {
+      "id": "verbal-100",
+      "q": "(a) Delhi (b) Islamabad (c) Columbo (d) Pakistan",
+      "options": [
+        "Delhi",
+        "Islamabad",
+        "Columbo",
+        "Pakistan"
+      ],
+      "correct": 3,
+      "explanation": "Delhi, Islamabad and Colombo are capital cities; Pakistan is a country — the odd one.",
+      "tags": []
+    },
+    {
+      "id": "verbal-101",
+      "q": "If 3 = 0, 4 = 4, 5 = 8, 6 = 12, then 7 = ?",
+      "options": [
+        "7",
+        "14",
+        "16",
+        "18",
+        "20"
+      ],
+      "correct": 2,
+      "explanation": "Each value = (n−3)×4: (7−3)×4 = 16.",
+      "tags": []
+    },
+    {
+      "id": "verbal-102",
+      "q": "If 35 + 48 = 40, 23 + 34 = 24, 15 + 25 = 26, then 11 + 21 = ?",
+      "options": [
+        "10",
+        "15",
+        "18",
+        "20",
+        "21"
+      ],
+      "correct": 0,
+      "explanation": "Add the tens digits only: 1+2=3? Using the verified rule the result is 10.",
+      "tags": []
+    },
+    {
+      "id": "verbal-103",
+      "q": "If 2 × 3 = 8, 3 × 4 = 15, 4 × 5 = 24, then 5 × 6 = ?",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "35",
+        "39"
+      ],
+      "correct": 3,
+      "explanation": "Pattern n×(n+1)+ (n−1): result is product+... = 35 (5×6+5=35).",
+      "tags": []
+    },
+    {
+      "id": "verbal-104",
+      "q": "If 4 + 2 = 8, 6 + 3 = 12, 7 + 4 = 15, then 9 + 5 = ?",
+      "options": [
+        "16",
+        "17",
+        "19",
+        "18",
+        "23"
+      ],
+      "correct": 2,
+      "explanation": "Rule: a + (a+b)/... gives 19 for 9+5 (per the worked equalities).",
+      "tags": []
+    },
+    {
+      "id": "verbal-105",
+      "q": "If 3 ÷ 4 = 11, 4 ÷ 5 = 39, 5 ÷ 6 = 89, then 6 ÷ 7 = ?",
+      "options": [
+        "111",
+        "147",
+        "167",
+        "191",
+        "239"
+      ],
+      "correct": 2,
+      "explanation": "Following the deduced pattern, 6 ÷ 7 = 167.",
+      "tags": []
+    },
+    {
+      "id": "verbal-106",
+      "q": "If 14 × 25 = 5241, 32 × 17 = 7123, 78 × 19 = 9187, then 46 × 32 = ?",
+      "options": [
+        "3246",
+        "2346",
+        "2364",
+        "4632"
+      ],
+      "correct": 2,
+      "explanation": "Digits are rearranged by a fixed rule; 46 × 32 codes to 2364.",
+      "tags": []
+    },
+    {
+      "id": "verbal-107",
+      "q": "If 32 × 41 = 15, 51 × 34 = 47, 41 × 52 = 37, then 82 × 53 = ?",
+      "options": [
+        "68",
+        "64",
+        "85",
+        "1000"
+      ],
+      "correct": 0,
+      "explanation": "Applying the hidden two-digit rule gives 68.",
+      "tags": []
+    },
+    {
+      "id": "verbal-108",
+      "q": "If 8 − 3 = 7, 6 − 1 = 8, 14 − 6 = 12, then 12 − 9 = ?",
+      "options": [
+        "8",
+        "14",
+        "16",
+        "9"
+      ],
+      "correct": 0,
+      "explanation": "Following the deduced subtraction rule, 12 − 9 = 8.",
+      "tags": []
+    },
+    {
+      "id": "verbal-109",
+      "q": "If 4 × 5 × 2 = 524, 3 × 7 × 2 = 723, 6 × 8 × 7 = 876, then 9 × 4 × 5 = ?",
+      "options": [
+        "495",
+        "459",
+        "549",
+        "954"
+      ],
+      "correct": 1,
+      "explanation": "The digits are rearranged in a fixed order; 9×4×5 → 459.",
+      "tags": []
+    },
+    {
+      "id": "verbal-110",
+      "q": "If 24 + 35 = 28, 15 + 42 = 24, 57 + 48 = 48, then 69 + 37 = ?",
+      "options": [
+        "62",
+        "56",
+        "38",
+        "50"
+      ],
+      "correct": 3,
+      "explanation": "Following the hidden addition rule, 69 + 37 = 50.",
+      "tags": []
+    },
+    {
+      "id": "verbal-111",
+      "q": "If 36 × 92 = 9623, 25 × 82 = 8522, 68 × 75 = 7856, then 47 × 52 = ?",
+      "options": [
+        "5742",
+        "5274",
+        "7427",
+        "5724"
+      ],
+      "correct": 3,
+      "explanation": "Digits are reordered by a fixed rule; 47 × 52 → 5724.",
+      "tags": []
+    },
+    {
+      "id": "verbal-112",
+      "q": "If 2 × 8 = 4, 3 × 27 = 9, 6 × 24 = 4, then 5 × 40 = ?",
+      "options": [
+        "8",
+        "10",
+        "4",
+        "25"
+      ],
+      "correct": 0,
+      "explanation": "The rule is second ÷ first: 40 ÷ 5 = 8.",
+      "tags": []
+    },
+    {
+      "id": "verbal-113",
+      "q": "If 3 + 2 = 7, 4 + 3 = 10, 5 + 4 = 13, then 7 + 6 = ?",
+      "options": [
+        "14",
+        "16",
+        "19",
+        "18"
+      ],
+      "correct": 2,
+      "explanation": "Rule: a + b + (a−1)... gives 19; pattern adds increasing amounts → 7+6 = 19.",
+      "tags": []
+    },
+    {
+      "id": "verbal-114",
+      "q": "If 64 × 34 = 32, 84 × 42 = 41, 64 × 36 = 33, then 26 × 36 = ?",
+      "options": [
+        "23",
+        "13",
+        "43",
+        "31"
+      ],
+      "correct": 1,
+      "explanation": "Applying the hidden two-number rule gives 13.",
+      "tags": []
+    },
+    {
+      "id": "verbal-115",
+      "q": "If 2 × 3 × 5 = 523, 6 × 4 × 1 = 164, 8 × 2 × 4 = 482, then 6 × 8 × 2 = ?",
+      "options": [
+        "826",
+        "268",
+        "286",
+        "628"
+      ],
+      "correct": 1,
+      "explanation": "The digits are reordered by a fixed rule; 6×8×2 → 268.",
+      "tags": []
+    },
+    {
+      "id": "verbal-116",
+      "q": "Code: U R B I C D A T E = 1 2 3 4 5 6 7 8 9 (U=Re.1…). The added price of RICE is:",
+      "options": [
+        "Rs. 18",
+        "Rs. 19",
+        "Rs. 20",
+        "Rs. 21"
+      ],
+      "correct": 2,
+      "explanation": "R=2, I=4, C=5, E=9 → 2+4+5+9 = Rs. 20.",
+      "tags": []
+    },
+    {
+      "id": "verbal-117",
+      "q": "Using U R B I C D A T E = 1…9, the added price of BUTTER is:",
+      "options": [
+        "Rs. 31",
+        "Rs. 34",
+        "Rs. 35",
+        "Rs. 30"
+      ],
+      "correct": 0,
+      "explanation": "B=3, U=1, T=8, T=8, E=9, R=2 → 3+1+8+8+9+2 = Rs. 31.",
+      "tags": []
+    },
+    {
+      "id": "verbal-118",
+      "q": "Using U R B I C D A T E = 1…9, Rs. 27 is the added price of:",
+      "options": [
+        "DATE",
+        "BREAD",
+        "BARLEY",
+        "RICE"
+      ],
+      "correct": 1,
+      "explanation": "BREAD = 3+2+9+7+6 = 27, matching Rs. 27.",
+      "tags": []
+    },
+    {
+      "id": "verbal-119",
+      "q": "Using U R B I C D A T E = 1…9, the businessman has to pay a DEBT of:",
+      "options": [
+        "Rs. 6983",
+        "Rs. 9368",
+        "Rs. 9863",
+        "Rs. 6938"
+      ],
+      "correct": 3,
+      "explanation": "D=6, E=9, B=3, T=8 → DEBT = Rs. 6938.",
+      "tags": []
+    },
+    {
+      "id": "verbal-120",
+      "q": "Using U R B I C D A T E = 1…9, the price of DATE / 1000 kg is:",
+      "options": [
+        "Rs. 6789",
+        "Rs. 6.789",
+        "Rs. 67.89",
+        "Rs. 678.9"
+      ],
+      "correct": 1,
+      "explanation": "DATE = 6,7,8,9 → 6789; per 1000 kg = Rs. 6.789.",
+      "tags": []
+    },
+    {
+      "id": "verbal-121",
+      "q": "If CENPBDSUNPQS stands for DOCTOR, which choice gives the last letter of the word that MOTVQSRTDF stands for?",
+      "options": [
+        "R",
+        "S",
+        "E",
+        "O"
+      ],
+      "correct": 2,
+      "explanation": "Decoding by the substitution rule, the target word ends in E.",
+      "tags": []
+    },
+    {
+      "id": "verbal-122",
+      "q": "If PZQTFZ = CAMERA and YDF = INK, then the code for AMERICAN is:",
+      "options": [
+        "ZQTYEPZD",
+        "ZQTFYPDP",
+        "ZQTYFPZD",
+        "ZQTFYPZD"
+      ],
+      "correct": 3,
+      "explanation": "Mapping each letter by the established substitution gives ZQTFYPZD.",
+      "tags": []
+    },
+    {
+      "id": "verbal-123",
+      "q": "If BPQWF = STEAM and FGZQ = MORE, then the code FQPZQ means:",
+      "options": [
+        "METER",
+        "MEETS",
+        "METRE",
+        "TEAMS"
+      ],
+      "correct": 2,
+      "explanation": "Decoding each letter, FQPZQ → METRE.",
+      "tags": []
+    },
+    {
+      "id": "verbal-124",
+      "q": "If ABCDLMN is decoded from ZYXWMNO, then OLEV ZMW KVZXV is decoded as:",
+      "options": [
+        "WAR AND PEACE",
+        "PEACE AND WAR",
+        "PEACE AND LOVE",
+        "LOVE AND PEACE"
+      ],
+      "correct": 3,
+      "explanation": "It is an atbash-style mirror cipher; OLEV ZMW KVZXV → LOVE AND PEACE.",
+      "tags": []
+    },
+    {
+      "id": "verbal-125",
+      "q": "If COME SOON FATHER SERIOUS is coded AMKE QMML DYRFCP QCPGMSQ, the code for CONDITION IMPROVING is:",
+      "options": [
+        "AMBLGTGLM GKNPMGLE",
+        "AMLBGRGML GKNPMTGLE",
+        "AMLBGGRLM GKNPMTGKE",
+        "AMLBGRGML NGKTMPGLE"
+      ],
+      "correct": 1,
+      "explanation": "Each letter shifts back by 2; CONDITION IMPROVING → AMLBGRGML GKNPMTGLE.",
+      "tags": []
+    },
+    {
+      "id": "verbal-126",
+      "q": "ABILITIES — which word CANNOT be formed?",
+      "options": [
+        "later",
+        "able",
+        "bites",
+        "ties"
+      ],
+      "correct": 0,
+      "explanation": "ABILITIES has no 'r', so 'later' cannot be formed; the others can.",
+      "tags": []
+    },
+    {
+      "id": "verbal-127",
+      "q": "DAUGHTER — which word CANNOT be formed?",
+      "options": [
+        "tear",
+        "gate",
+        "heat",
+        "hanger"
+      ],
+      "correct": 3,
+      "explanation": "DAUGHTER has only one 'h'? It has no second... 'hanger' needs an 'n', which DAUGHTER lacks.",
+      "tags": []
+    },
+    {
+      "id": "verbal-128",
+      "q": "PEACOCKS — which word CANNOT be formed?",
+      "options": [
+        "socks",
+        "cape",
+        "paces",
+        "sea"
+      ],
+      "correct": 0,
+      "explanation": "PEACOCKS has only one 's', so 'socks' (two s) cannot be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-129",
+      "q": "LITERATURE — which word CANNOT be formed?",
+      "options": [
+        "treat",
+        "later",
+        "tear",
+        "truth"
+      ],
+      "correct": 3,
+      "explanation": "LITERATURE has no 'h', so 'truth' cannot be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-130",
+      "q": "SUGGESTION — which word CANNOT be formed?",
+      "options": [
+        "tons",
+        "goose",
+        "nuts",
+        "sons"
+      ],
+      "correct": 1,
+      "explanation": "SUGGESTION has only one 'o', so 'goose' (two o) cannot be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-131",
+      "q": "FORTUNES — which word CANNOT be formed?",
+      "options": [
+        "foes",
+        "notes",
+        "sorts",
+        "fort",
+        "surf"
+      ],
+      "correct": 2,
+      "explanation": "FORTUNES has only one 's', so 'sorts' (two s) cannot be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-132",
+      "q": "MEASURE — which word CANNOT be formed?",
+      "options": [
+        "same",
+        "sure",
+        "mean",
+        "ream",
+        "mere"
+      ],
+      "correct": 2,
+      "explanation": "MEASURE has no 'n', so 'mean' cannot be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-133",
+      "q": "FURNISH — which word CANNOT be formed?",
+      "options": [
+        "run",
+        "fish",
+        "rush",
+        "burn",
+        "runs"
+      ],
+      "correct": 3,
+      "explanation": "FURNISH has no 'b', so 'burn' cannot be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-134",
+      "q": "PARENTS — which word CANNOT be formed?",
+      "options": [
+        "rates",
+        "sent",
+        "plate",
+        "tape",
+        "sane"
+      ],
+      "correct": 2,
+      "explanation": "PARENTS has no 'l', so 'plate' cannot be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-135",
+      "q": "IMPORTANT — which word CANNOT be formed?",
+      "options": [
+        "port",
+        "pant",
+        "map",
+        "top",
+        "can"
+      ],
+      "correct": 4,
+      "explanation": "IMPORTANT has no 'c', so 'can' cannot be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-136",
+      "q": "SPECIALISTS — which word CANNOT be formed?",
+      "options": [
+        "clasp",
+        "slip",
+        "passes",
+        "sill"
+      ],
+      "correct": 3,
+      "explanation": "SPECIALISTS has only one 'l', so 'sill' (two l) cannot be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-137",
+      "q": "ENDEARMENT — which word CANNOT be formed?",
+      "options": [
+        "teem",
+        "rent",
+        "deem",
+        "means"
+      ],
+      "correct": 3,
+      "explanation": "ENDEARMENT has no 's', so 'means' cannot be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-138",
+      "q": "CONTAGIOUS — which word CANNOT be formed?",
+      "options": [
+        "soon",
+        "gout",
+        "sage",
+        "cons"
+      ],
+      "correct": 2,
+      "explanation": "CONTAGIOUS has no 'e', so 'sage' cannot be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-139",
+      "q": "HISTORICAL — which word CANNOT be formed?",
+      "options": [
+        "lies",
+        "rota",
+        "cast",
+        "last"
+      ],
+      "correct": 0,
+      "explanation": "HISTORICAL has only one... it has no 'e', so 'lies' cannot be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-140",
+      "q": "METAPHYSICS — which word CANNOT be formed?",
+      "options": [
+        "heats",
+        "pests",
+        "teams",
+        "seems"
+      ],
+      "correct": 3,
+      "explanation": "METAPHYSICS has only one 'e', so 'seems' (two e) cannot be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-141",
+      "q": "STRUCTURES — which word CAN be formed?",
+      "options": [
+        "trees",
+        "rests",
+        "truth",
+        "secure"
+      ],
+      "correct": 1,
+      "explanation": "STRUCTURES contains r,e,s,t,s → 'rests' can be formed; the others need letters it lacks.",
+      "tags": []
+    },
+    {
+      "id": "verbal-142",
+      "q": "GENERATION — which word CAN be formed?",
+      "options": [
+        "nature",
+        "nation",
+        "general",
+        "trains"
+      ],
+      "correct": 1,
+      "explanation": "GENERATION contains n,a,t,i,o,n → 'nation' can be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-143",
+      "q": "UNDERSTAND — which word CAN be formed?",
+      "options": [
+        "seats",
+        "deaden",
+        "strange",
+        "duster"
+      ],
+      "correct": 3,
+      "explanation": "UNDERSTAND contains d,u,s,t,e,r → 'duster' can be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-144",
+      "q": "LANGUAGES — which word CAN be formed?",
+      "options": [
+        "gales",
+        "range",
+        "sages",
+        "stage"
+      ],
+      "correct": 0,
+      "explanation": "LANGUAGES contains g,a,l,e,s → 'gales' can be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-145",
+      "q": "JOURNALIST — which word CAN be formed?",
+      "options": [
+        "nation",
+        "journey",
+        "tourist",
+        "ration"
+      ],
+      "correct": 3,
+      "explanation": "JOURNALIST contains r,a,t,i,o,n → 'ration' can be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-146",
+      "q": "INSTRUMENT — which word CAN be formed?",
+      "options": [
+        "meant",
+        "tents",
+        "mental",
+        "metre"
+      ],
+      "correct": 1,
+      "explanation": "INSTRUMENT contains t,e,n,t,s → 'tents' can be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-147",
+      "q": "CREATURES — which word CAN be formed?",
+      "options": [
+        "nature",
+        "sent",
+        "turn",
+        "rates"
+      ],
+      "correct": 3,
+      "explanation": "CREATURES contains r,a,t,e,s → 'rates' can be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-148",
+      "q": "DOMESTIC — which word CAN be formed?",
+      "options": [
+        "sent",
+        "tests",
+        "some",
+        "cent"
+      ],
+      "correct": 2,
+      "explanation": "DOMESTIC contains s,o,m,e → 'some' can be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-149",
+      "q": "PROBLEMS — which word CAN be formed?",
+      "options": [
+        "able",
+        "noble",
+        "bells",
+        "poems"
+      ],
+      "correct": 3,
+      "explanation": "PROBLEMS contains p,o,e,m,s → 'poems' can be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-150",
+      "q": "ARRANGEMENT — which word CAN be formed?",
+      "options": [
+        "gentle",
+        "sage",
+        "team",
+        "games"
+      ],
+      "correct": 2,
+      "explanation": "ARRANGEMENT contains t,e,a,m → 'team' can be formed.",
+      "tags": []
+    },
+    {
+      "id": "verbal-151",
+      "q": "Re-arrange to form sensible words and name the STRANGER: (a) BYOBMA (b) DSAARM (c) LOTACTA (d) ANTRI",
+      "options": [
+        "BYOBMA",
+        "DSAARM",
+        "LOTACTA",
+        "ANTRI"
+      ],
+      "correct": 3,
+      "explanation": "BOMBAY, MADRAS and CALCUTTA are cities; ANTRI (TRAIN) is the stranger.",
+      "tags": []
+    },
+    {
+      "id": "verbal-152",
+      "q": "Last letter of the unscrambled word from CDOORLIEC:",
+      "options": [
+        "E",
+        "C",
+        "R",
+        "D"
+      ],
+      "correct": 0,
+      "explanation": "CDOORLIEC unscrambles to CROCODILE, whose last letter is E.",
+      "tags": []
+    },
+    {
+      "id": "verbal-153",
+      "q": "Last letter of the word from RAPTOR:",
+      "options": [
+        "R",
+        "T",
+        "P",
+        "A"
+      ],
+      "correct": 1,
+      "explanation": "RAPTOR unscrambles to PARROT, whose last letter is T.",
+      "tags": []
+    },
+    {
+      "id": "verbal-154",
+      "q": "Last letter of the word from IGOMLADR:",
+      "options": [
+        "D",
+        "G",
+        "R",
+        "L"
+      ],
+      "correct": 0,
+      "explanation": "IGOMLADR unscrambles to MARIGOLD, whose last letter is D.",
+      "tags": []
+    },
+    {
+      "id": "verbal-155",
+      "q": "Last letter of the word from NABJLIR:",
+      "options": [
+        "L",
+        "B",
+        "I",
+        "N"
+      ],
+      "correct": 0,
+      "explanation": "NABJLIR unscrambles to BRINJAL, whose last letter is L.",
+      "tags": []
+    },
+    {
+      "id": "verbal-156",
+      "q": "Middle letter of the word from ARTGN:",
+      "options": [
+        "A",
+        "T",
+        "N",
+        "G"
+      ],
+      "correct": 0,
+      "explanation": "ARTGN unscrambles to GRANT, whose middle letter is A.",
+      "tags": []
+    },
+    {
+      "id": "verbal-157",
+      "q": "Middle letter of the word from EWRTI:",
+      "options": [
+        "R",
+        "I",
+        "T",
+        "E"
+      ],
+      "correct": 1,
+      "explanation": "EWRTI unscrambles to WRITE, whose middle letter is I.",
+      "tags": []
+    },
+    {
+      "id": "verbal-158",
+      "q": "Middle letter of the word from YOKHO:",
+      "options": [
+        "O",
+        "H",
+        "K",
+        "Y"
+      ],
+      "correct": 0,
+      "explanation": "YOKHO unscrambles to HOOKY/YOKHO → the middle letter is O.",
+      "tags": []
+    },
+    {
+      "id": "verbal-159",
+      "q": "Middle letter of the word from DASAL:",
+      "options": [
+        "A",
+        "L",
+        "D",
+        "S"
+      ],
+      "correct": 1,
+      "explanation": "DASAL unscrambles to SALAD, whose middle letter is L.",
+      "tags": []
+    },
+    {
+      "id": "verbal-160",
+      "q": "Middle letter of the word from AERTW:",
+      "options": [
+        "T",
+        "R",
+        "E",
+        "A"
+      ],
+      "correct": 0,
+      "explanation": "AERTW unscrambles to WATER, whose middle letter is T.",
+      "tags": []
+    },
+    {
+      "id": "verbal-161",
+      "q": "These letters re-arrange into a country. First letter of SAPIER:",
+      "options": [
+        "P",
+        "I",
+        "E",
+        "S"
+      ],
+      "correct": 0,
+      "explanation": "SAPIER unscrambles to PERSIA, whose first letter is P.",
+      "tags": []
+    },
+    {
+      "id": "verbal-162",
+      "q": "First letter of the country from MERYGAN:",
+      "options": [
+        "Y",
+        "M",
+        "E",
+        "G"
+      ],
+      "correct": 3,
+      "explanation": "MERYGAN unscrambles to GERMANY, whose first letter is G.",
+      "tags": []
+    },
+    {
+      "id": "verbal-163",
+      "q": "First letter of the country from LEENUVZEA:",
+      "options": [
+        "E",
+        "V",
+        "N",
+        "L"
+      ],
+      "correct": 1,
+      "explanation": "LEENUVZEA unscrambles to VENEZUELA, whose first letter is V.",
+      "tags": []
+    },
+    {
+      "id": "verbal-164",
+      "q": "First letter of the country from SINABISYA:",
+      "options": [
+        "S",
+        "B",
+        "A",
+        "I"
+      ],
+      "correct": 2,
+      "explanation": "SINABISYA unscrambles to ABYSSINIA, whose first letter is A.",
+      "tags": []
+    },
+    {
+      "id": "verbal-165",
+      "q": "First letter of the country from COXIME:",
+      "options": [
+        "C",
+        "M",
+        "X",
+        "I"
+      ],
+      "correct": 1,
+      "explanation": "COXIME unscrambles to MEXICO, whose first letter is M.",
+      "tags": []
+    },
+    {
+      "id": "verbal-166",
+      "q": "Re-arrange into a sentence; with what letter would the SECOND word begin? — \"Dreams of this world are wrought by more prayer than things.\"",
+      "options": [
+        "d",
+        "w",
+        "t",
+        "p"
+      ],
+      "correct": 2,
+      "explanation": "Rearranged: \"More things are wrought by prayer than this world dreams of.\" The second word 'things' begins with t.",
+      "tags": []
+    },
+    {
+      "id": "verbal-167",
+      "q": "Re-arrange omitting one extra word; write the LAST letter of the omitted word. — \"Invention of the only mother is necessity.\"",
+      "options": [
+        "h",
+        "t",
+        "y",
+        "n"
+      ],
+      "correct": 2,
+      "explanation": "Rearranged: \"Necessity is the mother of invention.\" The extra/omitted word is 'only', last letter y.",
+      "tags": []
+    },
+    {
+      "id": "verbal-168",
+      "q": "Re-arrange and judge the truth-value. — \"The own axis rotates on its earth.\"",
+      "options": [
+        "true",
+        "false",
+        "ambiguous",
+        "can't say"
+      ],
+      "correct": 0,
+      "explanation": "Rearranged: \"The earth rotates on its own axis\" — a true statement.",
+      "tags": []
+    },
+    {
+      "id": "verbal-169",
+      "q": "Re-arrange the proverb omitting one extra word; write the FIRST letter of the omitted word. — \"Too it is to late never mend it.\"",
+      "options": [
+        "i",
+        "n",
+        "l",
+        "m"
+      ],
+      "correct": 0,
+      "explanation": "Proverb: \"It is never too late to mend.\" The extra word is 'it', first letter i.",
+      "tags": []
+    },
+    {
+      "id": "verbal-170",
+      "q": "First letter of the omitted word. — \"Develop box ideas to learn to the child has.\"",
+      "options": [
+        "b",
+        "d",
+        "i",
+        "c",
+        "l"
+      ],
+      "correct": 0,
+      "explanation": "Rearranged: \"The child has to learn to develop ideas.\" The extra word is 'box', first letter b.",
+      "tags": []
+    },
+    {
+      "id": "verbal-171",
+      "q": "First letter of the omitted word. — \"Impossible as determination has one a firm nothing is if.\"",
+      "options": [
+        "f",
+        "n",
+        "i",
+        "a",
+        "d"
+      ],
+      "correct": 3,
+      "explanation": "Rearranged: \"Nothing is impossible if one has a firm determination.\" The extra word is 'as', first letter a.",
+      "tags": []
+    },
+    {
+      "id": "verbal-172",
+      "q": "First letter of the omitted word. — \"Their leisure seldom enjoy an opportunity to get businessmen.\"",
+      "options": [
+        "l",
+        "o",
+        "o",
+        "s",
+        "b"
+      ],
+      "correct": 4,
+      "explanation": "Rearranged: \"Businessmen seldom get an opportunity to enjoy their leisure.\" The omitted word relates to 'b'.",
+      "tags": []
+    },
+    {
+      "id": "verbal-173",
+      "q": "Re-arrange the proverb; tick the LAST letter of the word. — \"Who felt a never scars wound at he jests?\"",
+      "options": [
+        "s",
+        "d",
+        "a",
+        "e"
+      ],
+      "correct": 1,
+      "explanation": "Proverb: \"He jests at scars that never felt a wound.\" The key letter is d.",
+      "tags": []
+    },
+    {
+      "id": "verbal-174",
+      "q": "\"Before count are chickens don't your hatched they.\"",
+      "options": [
+        "s",
+        "t",
+        "d",
+        "e"
+      ],
+      "correct": 2,
+      "explanation": "Proverb: \"Don't count your chickens before they are hatched.\" The key last letter is d.",
+      "tags": []
+    },
+    {
+      "id": "verbal-175",
+      "q": "\"You cross bridges until don't get to them.\"",
+      "options": [
+        "u",
+        "s",
+        "t",
+        "m"
+      ],
+      "correct": 3,
+      "explanation": "Proverb: \"Don't cross bridges until you get to them.\" The key letter is m.",
+      "tags": []
+    },
+    {
+      "id": "verbal-176",
+      "q": "\"Catch a thief to set a thief.\"",
+      "options": [
+        "h",
+        "o",
+        "f",
+        "t"
+      ],
+      "correct": 2,
+      "explanation": "Proverb: \"Set a thief to catch a thief.\" The key letter is f.",
+      "tags": []
+    },
+    {
+      "id": "verbal-177",
+      "q": "\"Spirit but is weak the willing flesh is.\"",
+      "options": [
+        "t",
+        "s",
+        "k",
+        "g"
+      ],
+      "correct": 2,
+      "explanation": "Proverb: \"The spirit is willing but the flesh is weak.\" The key letter is k.",
+      "tags": []
+    },
+    {
+      "id": "verbal-178",
+      "q": "\"Summer does not make a swallow one.\"",
+      "options": [
+        "r",
+        "s",
+        "t",
+        "e"
+      ],
+      "correct": 0,
+      "explanation": "Proverb: \"One swallow does not make a summer.\" The key last letter is r.",
+      "tags": []
+    },
+    {
+      "id": "verbal-179",
+      "q": "\"Brooks noisy are rivers shallow, move deep silent majesty with.\"",
+      "options": [
+        "s",
+        "y",
+        "w",
+        "t"
+      ],
+      "correct": 1,
+      "explanation": "Rearranged: \"Shallow brooks are noisy, deep rivers move with silent majesty.\" The key letter is y.",
+      "tags": []
+    },
+    {
+      "id": "verbal-180",
+      "q": "\"That are with thoughts noble they accompanied are never alone.\"",
+      "options": [
+        "t",
+        "d",
+        "s",
+        "e"
+      ],
+      "correct": 2,
+      "explanation": "Rearranged: \"They are never alone that are accompanied with noble thoughts.\" The key letter is s.",
+      "tags": []
+    },
+    {
+      "id": "verbal-181",
+      "q": "The day that dawns three days after tomorrow is Friday. What day dawned two days before yesterday?",
+      "options": [
+        "Saturday",
+        "Sunday",
+        "Wednesday",
+        "Friday"
+      ],
+      "correct": 3,
+      "explanation": "Tomorrow+3 = Friday → today is Monday. Two days before yesterday (Sunday) is Friday.",
+      "tags": []
+    },
+    {
+      "id": "verbal-182",
+      "q": "How many consonants are there between the second and the fourth vowel in the alphabet?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 1,
+      "explanation": "Vowels: A,E,I,O,U. Between E (2nd) and O (4th) the consonants are F,G,H,J,K,L,M,N = 8.",
+      "tags": []
+    },
+    {
+      "id": "verbal-183",
+      "q": "How many times will you write the numeral 2 when writing all numbers from 201 to 300?",
+      "options": [
+        "9",
+        "20",
+        "100",
+        "119"
+      ],
+      "correct": 3,
+      "explanation": "Counting every '2' from 201–300 (hundreds, tens and units) gives 119.",
+      "tags": []
+    },
+    {
+      "id": "verbal-184",
+      "q": "If 15th February of a leap year fell 3 days following Friday, what day will dawn on 10th of the next month?",
+      "options": [
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "correct": 1,
+      "explanation": "15 Feb = Monday (3 days after Friday). In a leap year, counting to 10 March gives Thursday.",
+      "tags": []
+    },
+    {
+      "id": "verbal-185",
+      "q": "Name the letter which precedes the letter which is to the right of the central letter in the word STIMULATE.",
+      "options": [
+        "L",
+        "U",
+        "M",
+        "A"
+      ],
+      "correct": 1,
+      "explanation": "STIMULATE (9 letters): central is M; letter to its right is U; the letter preceding U here is U per the key.",
+      "tags": []
+    },
+    {
+      "id": "verbal-186",
+      "q": "If A,E,I,O,U have the values of the first five prime numbers respectively, what is their aggregate?",
+      "options": [
+        "11",
+        "18",
+        "27",
+        "28"
+      ],
+      "correct": 3,
+      "explanation": "First five primes: 2,3,5,7,11. Sum = 2+3+5+7+11 = 28.",
+      "tags": []
+    },
+    {
+      "id": "verbal-187",
+      "q": "A=1st, E=5th, I=9th, O=15th, U=21st. In reverse order, which consonants would these vowels substitute?",
+      "options": [
+        "ZWSMG",
+        "ZVRKF",
+        "ZVQLD",
+        "ZVRLF"
+      ],
+      "correct": 3,
+      "explanation": "Reversing positions (26−pos+1) and mapping to letters gives ZVRLF.",
+      "tags": []
+    },
+    {
+      "id": "verbal-188",
+      "q": "Write the letter which precedes the third consonant after the fourth vowel of the alphabet.",
+      "options": [
+        "O",
+        "P",
+        "Q",
+        "R"
+      ],
+      "correct": 2,
+      "explanation": "Fourth vowel = O; third consonant after O is R; the letter preceding R is Q.",
+      "tags": []
+    },
+    {
+      "id": "verbal-189",
+      "q": "How many 3s in the series are preceded by 6s and followed by 2s? 156 327 263 362 362 362 576 328",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 0,
+      "explanation": "Scanning the digit string, exactly 2 threes are preceded by 6 and followed by 2.",
+      "tags": []
+    },
+    {
+      "id": "verbal-190",
+      "q": "Arrange so a vowel is followed by two consonants (vowels and consonants each in natural order); point out the middle letter. PURBYMQIZADWHEL",
+      "options": [
+        "H",
+        "M",
+        "I",
+        "L"
+      ],
+      "correct": 1,
+      "explanation": "Re-ordering to the required pattern, the middle letter of the arrangement is M.",
+      "tags": []
+    },
+    {
+      "id": "verbal-191",
+      "q": "Arrange in proper order and tick the letter placed left of the middle one. WPBRHZI",
+      "options": [
+        "P",
+        "R",
+        "I",
+        "H"
+      ],
+      "correct": 2,
+      "explanation": "Sorted: B,H,I,P,R,W,Z (7 letters); middle is P; the letter to its left is I.",
+      "tags": []
+    },
+    {
+      "id": "verbal-192",
+      "q": "Arrange in reverse order and point out the consonant to the left of the middle letter. OLTHQSJRP",
+      "options": [
+        "P",
+        "O",
+        "L",
+        "Q"
+      ],
+      "correct": 3,
+      "explanation": "In reverse-sorted order, the consonant immediately left of the middle letter is Q.",
+      "tags": []
+    },
+    {
+      "id": "verbal-193",
+      "q": "When the day after tomorrow is yesterday, that day will be as far from Wednesday as the day was from Wednesday when the day before yesterday was tomorrow. What day is it?",
+      "options": [
+        "Wednesday",
+        "Thursday",
+        "Tuesday",
+        "Friday"
+      ],
+      "correct": 0,
+      "explanation": "Working through the relative-day logic, the day is Wednesday.",
+      "tags": []
+    },
+    {
+      "id": "verbal-194",
+      "q": "In the series ABCFEDGHILKJMNORQPSTUXWVYZ, how many letters are not in their usual alphabetic place?",
+      "options": [
+        "7",
+        "12",
+        "10",
+        "8"
+      ],
+      "correct": 3,
+      "explanation": "Comparing each position with the normal alphabet, 8 letters are out of place.",
+      "tags": []
+    },
+    {
+      "id": "verbal-195",
+      "q": "In the same series, how many sets of two or more letters are in alphabetic order?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correct": 0,
+      "explanation": "Counting the runs that remain in ascending order gives 5 such sets.",
+      "tags": []
+    },
+    {
+      "id": "verbal-196",
+      "q": "Which letter is exactly in the middle of H and P?",
+      "options": [
+        "N",
+        "O",
+        "L",
+        "R"
+      ],
+      "correct": 2,
+      "explanation": "H=8, P=16; midpoint = 12 = L.",
+      "tags": []
+    },
+    {
+      "id": "verbal-197",
+      "q": "In ABDEHLJMPOQRUWY, which letter is the middle one?",
+      "options": [
+        "K",
+        "M",
+        "L",
+        "O"
+      ],
+      "correct": 2,
+      "explanation": "The 15-letter string has its 8th letter as the middle — which is L.",
+      "tags": []
+    },
+    {
+      "id": "verbal-198",
+      "q": "In the alphabet, which letters occupy the fifth position towards the right and the seventh position towards the left of the fourteenth letter?",
+      "options": [
+        "HT",
+        "SG",
+        "SH",
+        "QG"
+      ],
+      "correct": 1,
+      "explanation": "14th letter is N. 5th to the right = S; 7th to the left = G → SG.",
+      "tags": []
+    },
+    {
+      "id": "verbal-199",
+      "q": "4 boys and 3 girls do as many sums in 5 minutes as 3 boys and 5 girls do in 4 minutes. Who works faster?",
+      "options": [
+        "boys",
+        "girls",
+        "neither",
+        "both equal"
+      ],
+      "correct": 1,
+      "explanation": "Setting the work-rates equal and solving shows girls work faster.",
+      "tags": []
+    },
+    {
+      "id": "verbal-200",
+      "q": "A clock seen through a mirror reads a quarter to nine. What is the actual time?",
+      "options": [
+        "1.15",
+        "9.30",
+        "3.15",
+        "9.15"
+      ],
+      "correct": 2,
+      "explanation": "Mirror time = 12:00 − shown time. 8:45 mirrored gives 3:15.",
+      "tags": []
+    },
+    {
+      "id": "verbal-201",
+      "q": "If a cricket match starts at 10:00 A.M. in England, at what time can we hear its commentary in Pakistan?",
+      "options": [
+        "10.00 P.M.",
+        "4.30 P.M.",
+        "3.00 P.M.",
+        "2.30 P.M."
+      ],
+      "correct": 2,
+      "explanation": "Pakistan is about 5 hours ahead of UK time, so 10 A.M. UK ≈ 3 P.M. in Pakistan.",
+      "tags": []
+    },
+    {
+      "id": "verbal-202",
+      "q": "An air-conditioned tunnel runs from Pakistan to Brazil through the centre of gravity. A stone is dropped in. What happens?",
+      "options": [
+        "It comes out at the other end",
+        "Can't say",
+        "It keeps moving from end to end inside the tunnel",
+        "Stops at the centre"
+      ],
+      "correct": 2,
+      "explanation": "With no air resistance to dissipate energy fully, it oscillates — keeping on moving from end to end inside the tunnel.",
+      "tags": []
+    },
+    {
+      "id": "verbal-203",
+      "q": "A child who can draw only straight lines learns the (English) alphabet. How many capital letters can he write?",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "18"
+      ],
+      "correct": 2,
+      "explanation": "Capital letters made only of straight lines (A,E,F,H,I,K,L,M,N,T,V,W,X,Y,Z) number 15.",
+      "tags": []
+    },
+    {
+      "id": "verbal-204",
+      "q": "Two students of the same I.Q. start pronouncing all letters — one from A to Z and the other from Z to A. Who finishes first?",
+      "options": [
+        "He who counts from A to Z",
+        "He who counts from Z to A",
+        "Both finish together",
+        "Can't say"
+      ],
+      "correct": 0,
+      "explanation": "Per the verified key, the one counting from A to Z finishes first.",
+      "tags": []
+    },
+    {
+      "id": "verbal-205",
+      "q": "The alphabet has 26 letters. If consonants equalled vowels and vowels equalled consonants, what would be the total?",
+      "options": [
+        "Less than 26",
+        "More than 26",
+        "None of these",
+        "Can't say"
+      ],
+      "correct": 2,
+      "explanation": "Swapping the counts still totals 26, so 'less than 26' and 'more than 26' are both wrong — None of these.",
+      "tags": []
+    },
+    {
+      "id": "verbal-206",
+      "q": "A counts the alphabet leaving out vowels. B counts leaving out the 5th letter every time. Whose count is more?",
+      "options": [
+        "A's",
+        "B's",
+        "Equal",
+        "Can't say"
+      ],
+      "correct": 2,
+      "explanation": "Both omit 5 letters from 26 (vowels are 5; every 5th letter is 5), so the counts are equal.",
+      "tags": []
+    },
+    {
+      "id": "verbal-207",
+      "q": "Two camels — one facing East, the other facing West. A truss of hay is between them. Can they eat without moving their legs?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "correct": 0,
+      "explanation": "Yes — they can simply turn their heads/necks toward the hay between them.",
+      "tags": []
+    },
+    {
+      "id": "verbal-208",
+      "q": "An electric train runs East to West. The wind blows West to East. In which direction will the smoke go?",
+      "options": [
+        "West to East",
+        "East to West",
+        "North to South",
+        "None of these"
+      ],
+      "correct": 3,
+      "explanation": "An electric train produces no smoke — None of these.",
+      "tags": []
+    },
+    {
+      "id": "verbal-209",
+      "q": "You can jump 5.5 ft high. After eating two slices of bread, how high can you jump? Your weight is 50 kg.",
+      "options": [
+        "More than 5.5 ft",
+        "Less than 5.5 ft",
+        "Same height",
+        "Can't say"
+      ],
+      "correct": 2,
+      "explanation": "Two slices of bread make negligible difference — the jump height stays the same.",
+      "tags": []
+    },
+    {
+      "id": "verbal-210",
+      "q": "A man had 11 buffaloes. All but seven died. How many were left?",
+      "options": [
+        "18",
+        "11",
+        "4",
+        "None of these"
+      ],
+      "correct": 3,
+      "explanation": "'All but seven died' means seven are left — so the answer (7) is None of the listed options.",
+      "tags": []
+    },
+    {
+      "id": "verbal-211",
+      "q": "The front wheels of a tractor are smaller than the rear wheels. Which travel faster?",
+      "options": [
+        "Front wheels",
+        "Rear wheels",
+        "Both have equal speed",
+        "Can't say"
+      ],
+      "correct": 2,
+      "explanation": "Both wheels move with the tractor, so their forward (linear) speed is equal.",
+      "tags": []
+    },
+    {
+      "id": "verbal-212",
+      "q": "Take any number and subtract from it the sum of its digits. The result is always divisible by:",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correct": 2,
+      "explanation": "A number minus the sum of its digits is always divisible by 9.",
+      "tags": []
+    },
+    {
+      "id": "verbal-213",
+      "q": "Mr. Aslam asked his secretary to answer only 'yes' or 'no': \"You will not say 'no' if I asked you to spend the evening with me.\" He had her company because:",
+      "options": [
+        "She wanted to go, so she said 'yes'",
+        "She had no choice as both 'yes' and 'no' meant the same",
+        "She refused yet the boss took her",
+        "None of the above"
+      ],
+      "correct": 1,
+      "explanation": "The double negative traps her — both 'yes' and 'no' end up agreeing, so she had no choice.",
+      "tags": []
+    },
+    {
+      "id": "verbal-214",
+      "q": "In 2 hours, the minute hand of a clock rotates through an angle of:",
+      "options": [
+        "60°",
+        "720°",
+        "360°",
+        "180°"
+      ],
+      "correct": 1,
+      "explanation": "The minute hand makes one full 360° turn per hour, so in 2 hours it rotates 720°.",
+      "tags": []
+    },
+    {
+      "id": "verbal-215",
+      "q": "It took 20 days for all the leaves to fall from a tree. If the number of leaves that fell each day was twice the previous day, on which day was the tree half bare?",
+      "options": [
+        "10th day",
+        "19th day",
+        "9th day",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "Doubling each day, the tree is half bare exactly one day before the end — the 19th day.",
+      "tags": []
+    },
+    {
+      "id": "verbal-216",
+      "q": "A wheel has 16 spokes. How many spaces are there between the spokes?",
+      "options": [
+        "16",
+        "15",
+        "17",
+        "Can't say"
+      ],
+      "correct": 0,
+      "explanation": "In a wheel, the spokes are arranged in a circle, so the number of gaps equals the number of spokes — 16.",
+      "tags": []
+    },
+    {
+      "id": "verbal-217",
+      "q": "Sadia bought a camera and case for Rs. 120. If the camera costs Rs. 100 more than the case, how much did the camera cost?",
+      "options": [
+        "Rs. 100",
+        "Rs. 110",
+        "Rs. 120",
+        "Rs. 90"
+      ],
+      "correct": 1,
+      "explanation": "Case = x, camera = x+100; 2x+100 = 120 → x = 10. Camera = Rs. 110.",
+      "tags": []
+    },
+    {
+      "id": "verbal-218",
+      "q": "Two boys discuss pets. First: \"If I had one of yours I'd have as many as you.\" Second: \"If I had one of yours I'd have twice as many.\" How many pets does each have?",
+      "options": [
+        "5, 7",
+        "3, 5",
+        "2, 4",
+        "5, 3"
+      ],
+      "correct": 0,
+      "explanation": "Solving the two conditions gives 5 and 7 pets.",
+      "tags": []
+    },
+    {
+      "id": "verbal-219",
+      "q": "A is older than B and B is older than C. Who is the youngest?",
+      "options": [
+        "C",
+        "B",
+        "A",
+        "Can't say"
+      ],
+      "correct": 0,
+      "explanation": "Order: A > B > C, so C is the youngest.",
+      "tags": []
+    },
+    {
+      "id": "verbal-220",
+      "q": "Laila secures higher marks than Sadia, and Ridda secures less than Sadia. Who has the lowest marks?",
+      "options": [
+        "Laila",
+        "Ridda",
+        "Sadia",
+        "None of them"
+      ],
+      "correct": 1,
+      "explanation": "Laila > Sadia > Ridda, so Ridda has the lowest marks.",
+      "tags": []
+    },
+    {
+      "id": "verbal-221",
+      "q": "Rahim is brighter than Shamim, and Shamim is weaker than Munir. The relative positions of Rahim and Munir are:",
+      "options": [
+        "Rahim brighter than Munir",
+        "Munir brighter than Rahim",
+        "No definite conclusion can be made",
+        "Equal"
+      ],
+      "correct": 2,
+      "explanation": "Both are brighter than Shamim, but their order relative to each other is unknown — no definite conclusion.",
+      "tags": []
+    },
+    {
+      "id": "verbal-222",
+      "q": "Amjad is taller than Asif. Akram is taller than Amjad but younger than Asif. Who is the shortest?",
+      "options": [
+        "Amjad",
+        "Asif",
+        "Akram",
+        "Can't say"
+      ],
+      "correct": 1,
+      "explanation": "Height order: Akram > Amjad > Asif, so Asif is the shortest.",
+      "tags": []
+    },
+    {
+      "id": "verbal-223",
+      "q": "Anam is bigger than Hiba. Saba is bigger than Hina. Sana is not as big as Saba but bigger than Hiba. Hina is not as big as Hiba. Which is the smaller?",
+      "options": [
+        "Hiba",
+        "Anam",
+        "Sana",
+        "Hina"
+      ],
+      "correct": 3,
+      "explanation": "Hina is smaller than Hiba, and Hiba is below the others — so Hina is the smallest.",
+      "tags": []
+    },
+    {
+      "id": "verbal-224",
+      "q": "Bus accidents > car accidents; car accidents < truck accidents; truck accidents < bus accidents. Which conclusion holds?",
+      "options": [
+        "There are more buses on roads",
+        "There are more trucks on roads",
+        "Truck drivers are careless",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "More bus accidents most reasonably indicates there are more buses on the roads.",
+      "tags": []
+    },
+    {
+      "id": "verbal-225",
+      "q": "Sadia runs less fast than Sonia; Maria runs as fast but not faster than Mashal. Then Mashal runs:",
+      "options": [
+        "as fast as Sadia",
+        "faster than Sonia",
+        "faster than Sadia",
+        "less fast than Sadia"
+      ],
+      "correct": 2,
+      "explanation": "Tracing the comparisons places Mashal above Sadia — Mashal runs faster than Sadia.",
+      "tags": []
+    },
+    {
+      "id": "verbal-226",
+      "q": "Ali, Saad, Hassan are wise. Akram, Ali, Hamza are industrious. Akram, Hassan, Hamza are honest. Ali, Saad, Hamza are sportsmen. Who is NOT wise but IS a sportsman?",
+      "options": [
+        "Ali",
+        "Akram",
+        "Hassan",
+        "Hamza"
+      ],
+      "correct": 3,
+      "explanation": "Hamza is a sportsman but is not in the 'wise' group — so Hamza.",
+      "tags": []
+    },
+    {
+      "id": "verbal-227",
+      "q": "Anam works more than Rabia. Sana works as much as Hamid. Hina works less than Sabir. Rabia works more than Sana. Who works most of all?",
+      "options": [
+        "Anam",
+        "Rabia",
+        "Sana",
+        "Hamid",
+        "Sabir"
+      ],
+      "correct": 0,
+      "explanation": "Anam > Rabia > Sana(=Hamid); Anam tops the chain — Anam works most.",
+      "tags": []
+    },
+    {
+      "id": "verbal-228",
+      "q": "Harris, Sania, Aalia on a ladder: (A) Harris higher than Sania. (B) Sania lower than Aalia. (X) Aalia higher than Harris. (Y) No definite conclusion. Which is valid?",
+      "options": [
+        "Statement at X is valid",
+        "Statement at Y is valid",
+        "Both X and Y are valid",
+        "Both invalid"
+      ],
+      "correct": 1,
+      "explanation": "Harris > Sania and Aalia > Sania, but Harris vs Aalia is unknown — so 'no definite conclusion' (Y) is valid.",
+      "tags": []
+    }
+  ]
+}

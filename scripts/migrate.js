@@ -164,7 +164,6 @@ const SUBJECTS = {
     name: 'ISSB',
     icon: '🎖️',
     order: 16, category: 'entry-tests', color: '#92400e',
-    placeholder: true,
     description: 'ISSB Inter-Services Selection Board — verbal, non-verbal, psych, math.',
   },
 };
@@ -212,9 +211,12 @@ function extractFromJSArray(html) {
     if (!Array.isArray(data) || data.length === 0) return null;
     return data.map(item => ({
       q:        item.q || item.question || '',
-      options:  item.options || item.opts || [],
-      correct:  typeof item.correct === 'number' ? item.correct : (item.c ?? 0),
-      explanation: item.rationale || item.explanation || '',
+      options:  item.options || item.opts || item.o || [],
+      correct:  typeof item.correct === 'number' ? item.correct
+              : typeof item.c === 'number'       ? item.c
+              : typeof item.a === 'number'       ? item.a
+              : 0,
+      explanation: item.rationale || item.explanation || item.r || '',
     }));
   } catch { return null; }
 }
@@ -335,6 +337,15 @@ function normaliseMCQ(item, topicId, idx) {
 }
 
 function writeTopicFile(subject, topicSlug, mcqs) {
+  // Filter to MCQs with a real question + at least 2 options.
+  // (Catches image-only ISSB non-verbal etc. that have no text fields.)
+  const valid = mcqs.filter(m => {
+    const q = String(m.q || '').trim();
+    const opts = m.options || [];
+    return q.length > 0 && Array.isArray(opts) && opts.length >= 2 && opts.every(o => String(o).trim().length > 0);
+  });
+  if (valid.length === 0) return null;
+
   const dir = path.join(CONTENT_ROOT, subject.id);
   fs.mkdirSync(dir, { recursive: true });
   const outPath = path.join(dir, `${topicSlug}.json`);
@@ -355,7 +366,7 @@ function writeTopicFile(subject, topicSlug, mcqs) {
     updated_at: new Date().toISOString().slice(0, 10),
     description: `${prettify(topicSlug)} MCQs for PPSC, FPSC, NTS, CSS & PMS.`,
     icon: '📄',
-    mcqs: mcqs.map((m, i) => normaliseMCQ(m, topicSlug, i)),
+    mcqs: valid.map((m, i) => normaliseMCQ(m, topicSlug, i)),
   };
   fs.writeFileSync(outPath, JSON.stringify(out, null, 2));
   return { count: out.mcqs.length, version };
@@ -394,9 +405,10 @@ for (const [key, subject] of Object.entries(SUBJECTS)) {
   if (subject.extractor === 'math-json') {
     const topics = extractMathTopics(subjectDir);
     for (const t of topics) {
-      const { count, version } = writeTopicFile(subject, t.slug, t.mcqs);
-      totalMCQs += count; totalFiles += 1;
-      console.log(`   ✅ wrote  ${t.slug}.json  (${count} MCQs, v${version})`);
+      const res = writeTopicFile(subject, t.slug, t.mcqs);
+      if (!res) { console.log(`   ⚠️  skip   ${t.slug} — no valid MCQs`); continue; }
+      totalMCQs += res.count; totalFiles += 1;
+      console.log(`   ✅ wrote  ${t.slug}.json  (${res.count} MCQs, v${res.version})`);
     }
     continue;
   }
@@ -415,9 +427,10 @@ for (const [key, subject] of Object.entries(SUBJECTS)) {
       console.log(`   ⚠️  skip   ${topicSlug} — no MCQs found`);
       continue;
     }
-    const { count, version } = writeTopicFile(subject, topicSlug, data);
-    totalMCQs += count; totalFiles += 1;
-    console.log(`   ✅ wrote  ${topicSlug}.json  (${count} MCQs, v${version})`);
+    const res = writeTopicFile(subject, topicSlug, data);
+    if (!res) { console.log(`   ⚠️  skip   ${topicSlug} — no valid MCQs after filter`); continue; }
+    totalMCQs += res.count; totalFiles += 1;
+    console.log(`   ✅ wrote  ${topicSlug}.json  (${res.count} MCQs, v${res.version})`);
   }
 }
 

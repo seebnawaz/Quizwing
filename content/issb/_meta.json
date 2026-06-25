@@ -4,6 +4,5 @@
   "order": 16,
   "description": "ISSB Inter-Services Selection Board — verbal, non-verbal, psych, math.",
   "color": "#92400e",
-  "category": "entry-tests",
-  "placeholder": true
+  "category": "entry-tests"
 }
